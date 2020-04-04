@@ -7,20 +7,27 @@ import time
 import openpyxl
 import json
 import difflib
-
+'''
+通过 日文名/中文名 字符串匹配（效果不好,两货标点乱用）
+通过 日文名/中文名 时间匹配（想法，待尝试）
+'''
 anidbkehuduan=""   #anidb申请的api客户端名称，默认版号为1(用于获取Anidn-API返回的XML数据)
 
 ua_headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
     'Cookie': '__cfduid=de0059a8637a27a6a30556ff3b206a36c1585728544; chii_theme=light; __utma=1.1290609121.1585728548.1585728548.1585728548.1; __utmc=1; __utmz=1.1585728548.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); chii_sid=62r3E8; __utmt=1; chii_searchDateLine=1585732454; __utmb=1.11.10.1585728548'
     }
+ua_headers_anidb = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko'
+    }
+
 #############################################################################################################################
 #############################################################################################################################
 #############################################################################################################################
 def save_api_anidb(anidb):#保存API返回的XML数据
     Anidb_xml="%s.xml" %(anidb)
     idurl = "http://api.anidb.net:9001/httpapi?request=anime&client=%s&clientver=1&protover=1&aid=%s" %(anidbkehuduan,anidb)
-    idhtml = requests.get(idurl,headers=ua_headers)
+    idhtml = requests.get(idurl,headers=ua_headers_anidb)
     f = open(Anidb_xml, "w",encoding="utf-8")
     for i in idhtml.text:
         f.write(i)
@@ -181,10 +188,10 @@ def bgmtv(name_Z,name_Y,name_R):
 	return bgmid
 
 #print(bgmtv("我的妹妹哪有这么可爱.","Ore no Imouto ga Konna ni Kawaii Wake ga Nai.","俺の妹がこんなに可愛いわけがない."))
-
-print(jiexi_Anidb_z(8692))
-print(jiexi_Anidb_y(8692))
-print(jiexi_Anidb_r(8692))
-print(jiexi_Anidb_l(8692))
-print(jiexi_Anidb_time(8692))
-print(jiexi_Anidb_haibao(8692))
+save_api_anidb(13262)
+print(jiexi_Anidb_z(13262))
+print(jiexi_Anidb_y(13262))
+print(jiexi_Anidb_r(13262))
+print(jiexi_Anidb_l(13262))
+print(jiexi_Anidb_time(13262))
+print(jiexi_Anidb_haibao(13262))
