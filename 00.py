@@ -31,6 +31,7 @@ def jiexi_Anidb_z(Anidb):#返回XML里的中文名
 	with open(Anidb_xml, "r",encoding='utf-8') as f:
 		data = f.read()
 		Anidb_z=re.findall(r'<title xml:lang="zh-Hans" type="official">(.*)</title>',data)[0]
+	f.close()
 	return Anidb_z
 
 def jiexi_Anidb_y(Anidb):#返回XML里的英文名
@@ -38,6 +39,7 @@ def jiexi_Anidb_y(Anidb):#返回XML里的英文名
 	with open(Anidb_xml, "r",encoding='utf-8') as f:
 		data = f.read()
 		Anidb_y=re.findall(r'<title xml:lang="en" type="official">(.*)</title>',data)[0]
+	f.close()
 	return Anidb_y
 
 def jiexi_Anidb_r(Anidb):#返回XML里的日文名
@@ -45,6 +47,7 @@ def jiexi_Anidb_r(Anidb):#返回XML里的日文名
 	with open(Anidb_xml, "r",encoding='utf-8') as f:
 		data = f.read()
 		Anidb_r=re.findall(r'<title xml:lang="ja" type="official">(.*)</title>',data)[0]
+	f.close()
 	return Anidb_r
 
 def jiexi_Anidb_l(Anidb):#返回XML里的罗马音
@@ -52,6 +55,7 @@ def jiexi_Anidb_l(Anidb):#返回XML里的罗马音
 	with open(Anidb_xml, "r",encoding='utf-8') as f:
 		data = f.read()
 		Anidb_l=re.findall(r'<title xml:lang="x-jat" type="main">(.*)</title>',data)[0]
+	f.close()
 	return Anidb_l
 
 def jiexi_Anidb_time(Anidb):#返回XML里的时间
@@ -59,6 +63,7 @@ def jiexi_Anidb_time(Anidb):#返回XML里的时间
 	with open(Anidb_xml, "r",encoding='utf-8') as f:
 		data = f.read()
 		Anidb_time=re.findall(r'<startdate>(.*)</startdate>',data)[0]
+	f.close()
 	return Anidb_time
 
 def jiexi_Anidb_haibao(Anidb):#返回XML里jpg ID
