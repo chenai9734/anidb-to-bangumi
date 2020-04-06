@@ -115,6 +115,14 @@ def bgmtv(name_Z,name_Y,name_R,name_shijian):
 	name_Z_jizu = "https://bgm.tv/subject_search/%s?cat=2&legacy=1" %(name_Z)#1
 	name_Y_jizu = "https://bgm.tv/subject_search/%s?cat=2&legacy=1" %(name_Y)#5
 	name_R_jizu = "https://bgm.tv/subject_search/%s?cat=2&legacy=1" %(name_R)#3
+	bgmid=[]
+	bgmid_name_Z_jizu=[]
+	bgmid_name_Z_mohu=[]
+	bgmid_name_R_jizu=[]
+	bgmid_name_R_mohu=[]
+#############################################################################################################################
+#############################################################################################################################
+#############################################################################################################################
 	if name_Z != "未爬取":
 		time.sleep(3)
 		idhtml = requests.get(name_Z_jizu,headers=ua_headers)
@@ -235,7 +243,7 @@ def bgmtv(name_Z,name_Y,name_R,name_shijian):
 xml_cunzai=os.path.exists(r"7525.xml")
 if xml_cunzai != True:
 	save_api_anidb(7525)
-print(bgmtv(jiexi_Anidb_z(14471),jiexi_Anidb_y(14471),jiexi_Anidb_r(14471),jiexi_Anidb_time(14471)))
+print(bgmtv(jiexi_Anidb_z(7727),jiexi_Anidb_y(7727),jiexi_Anidb_r(7727),jiexi_Anidb_time(7727)))
 #print(jiexi_Anidb_z(13262))
 #print(jiexi_Anidb_y(13262))
 #print(jiexi_Anidb_r(13262))
