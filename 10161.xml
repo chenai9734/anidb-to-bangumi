@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10161" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2015-01-08</startdate>
+<enddate>2015-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kantai Collection: KanColle</title>
+<title xml:lang="en" type="synonym">Fleet Girls Collection</title>
+<title xml:lang="en" type="synonym">Kantai Collection</title>
+<title xml:lang="zh-Hans" type="synonym">舰娘</title>
+<title xml:lang="x-jat" type="short">KanColle</title>
+<title xml:lang="ja" type="official">艦隊これくしょん -艦これ-</title>
+<title xml:lang="en" type="official">KanColle</title>
+<title xml:lang="fr" type="official">KanColle</title>
+<title xml:lang="zh-Hant" type="official">艦隊Collection</title>
+<title xml:lang="zh-Hans" type="official">舰队Collection</title>
+</titles>
+<relatedanime>
+<anime id="11161" type="Sequel">Kantai Collection: KanColle 2</anime>
+<anime id="11489" type="Sequel">Gekijouban KanColle</anime>
+</relatedanime>
+<similaranime>
+<anime id="9905" approval="26" total="33">Aoki Hagane no Arpeggio: Ars Nova</anime>
+<anime id="14396" approval="25" total="27">Azur Lane the Animation</anime>
+<anime id="5970" approval="15" total="18">Strike Witches (2008)</anime>
+<anime id="11533" approval="12" total="20">High School Fleet</anime>
+<anime id="6783" approval="8" total="17">Sora no Oto</anime>
+<anime id="5269" approval="8" total="11">Sky Girls (2007)</anime>
+<anime id="9227" approval="8" total="10">Girls und Panzer</anime>
+<anime id="4530" approval="5" total="7">Strike Witches</anime>
+</similaranime>
+<recommendations total="1">
+<recommendation type="For Fans" uid="789094">It`s a good side dish for when you are playing Kancolle but it failed as a promotion anime.
+To enjoy it fully you need the following preps as they have too much references.
+ep1-6: 1.Play until you can sortie a kidou butai (&amp;gt;3CV(L/B))
+2.learn the phrases if you can (eg. chuuha, nyuukou)
+*Better if you have Akashi and Yuubari
+ep7: Read up some history about opt MO.
+ep8: LSC for a deluxe hotel (optional)
+ep9-10: Lvl your shipfu to lvl100 , at least tries to.
+ep11: Look up for opt MI (potential spoiler but it is important background info)
+*Montemayor`s video 1/2 will cover it
+
+TL;DR: Play Kancolle until HQ lvl100 before watching it.</recommendation>
+</recommendations>
+<url>http://kancolle-anime.jp/</url>
+<creators>
+<name id="1789" type="Animation Work">Diomedea</name>
+<name id="19898" type="Character Design">Matsumoto Mayuko</name>
+<name id="19801" type="Character Design">Ide Naomi</name>
+<name id="1775" type="Series Composition">Hanada Jukki</name>
+<name id="3422" type="Direction">Kusakawa Keizou</name>
+<name id="19898" type="Chief Animation Direction">Matsumoto Mayuko</name>
+<name id="19801" type="Chief Animation Direction">Ide Naomi</name>
+<name id="31217" type="Music">Kameoka Natsumi</name>
+<name id="12001" type="Chief Animation Direction">Ozawa Kazunori</name>
+<name id="12023" type="Chief Animation Direction">Tamaki Shingo</name>
+<name id="23615" type="Chief Animation Direction">Honda Yoshino</name>
+<name id="43720" type="Original Work">Kadokawa Games</name>
+<name id="46671" type="Original Work">DMM.com</name>
+</creators>
+<description>In a world where humanity has lost control of the oceans to the deep sea fleet, the only hope to counter this threat are the Kanmusu, a group of girls who possess the spirit of Japanese warships. The story revolves around http://anidb.net/ch65836 [Fubuki], a destroyer who comes to the Chinjufu base to train with other Kanmusu.
+Source: Crunchyroll</description>
+<ratings>
+<permanent count="1347">3.94</permanent>
+<temporary count="1357">6.13</temporary>
+<review count="1">5.83</review>
+</ratings>
+<picture>225537.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15814</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>21511</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kancolle-anime.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Kantai_Collection</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>艦隊これくしょん_-艦これ-</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3608</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>347859</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17801</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=ABZN292gvRo</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=3u-WE85ExIU</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B0733NHDTK</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="36" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>military</name>
+<description>The military, also known as the armed forces, are forces authorized and legally entitled to use deadly force so as to support the interests of the state and its citizens. The task of the military is usually defined as defence of the state and its citizens and the prosecution of war against foreign powers. The military may also have additional functions within a society, including construction, emergency services, social ceremonies, and guarding critical areas.
+Source: Wikipedia</description>
+<picurl>212184.jpg</picurl>
+</tag>
+<tag id="635" parentid="36" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-30">
+<name>navy</name>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2652" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super deformed</name>
+<description>A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s http://anidb.net/t4055 [face suddenly turns into a simplified version], the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).</description>
+<picurl>65692.png</picurl>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2841" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2854" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>henshin</name>
+<description>Japanese for "transformation" (metamorphosis or disguise).
+A "henshin anime" is any anime, where the characters or their costumes transform, such as Sailor Moon. The henshin switches on the character`s special powers, and is frequently accompanied by a costume change. Often the change of clothing is the only outward indicator that the character has changed and yet nobody seems to notice the hero`s true self.
+Most henshin heroes have a special item which they use to change into their heroic form. These items are usually activated by a command phrase (which is often in Engrish, for some reason), triggering a transformation sequence.</description>
+</tag>
+<tag id="2864" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>daily life</name>
+<description>The antics of the protagonists do not take place in some exotic setting or time, but in everyday life. When not "at the job" this means getting up in the morning, making meals, house cleaning, going shopping or out to eat, visiting the bath house or spa, leisure activities in the spare time, etc. The time "on the job" for students is School Life, for others working in their profession. Daily Life is basically a synonym for everything normal, repetitive, and trivial happening to your average person.</description>
+<picurl>210069.jpg</picurl>
+</tag>
+<tag id="3831" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-13">
+<name>training</name>
+<description>Training is extensive, serious practising a person undergoes in order to develop skills and abilities, such as handling weapons, playing instruments, playing sports, and so on.</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="5851" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>female protagonist</name>
+<description>The anime has a female protagonist.</description>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<characters>
+<character id="65836" type="main character in" update="2014-03-22">
+<rating votes="29">5.20</rating>
+<name>Fubuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152041.jpg</picture>
+<seiyuu id="28602" picture="131381.jpg">Uesaka Sumire</seiyuu>
+</character>
+<character id="65837" type="main character in" update="2014-03-22">
+<rating votes="31">7.36</rating>
+<name>Akagi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152042.jpg</picture>
+<seiyuu id="1673" picture="41835.jpg">Fujita Saki</seiyuu>
+</character>
+<character id="65838" type="main character in" update="2014-03-22">
+<rating votes="37">7.90</rating>
+<name>Kaga</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152043.jpg</picture>
+<seiyuu id="516" picture="34813.jpg">Iguchi Yuka</seiyuu>
+</character>
+<character id="69133" type="secondary cast in" update="2014-08-03">
+<rating votes="26">6.54</rating>
+<name>Shimakaze</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159045.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="69134" type="secondary cast in" update="2014-08-03">
+<rating votes="52">9.20</rating>
+<name>Kongou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159046.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+<character id="69135" type="secondary cast in" update="2014-08-03">
+<rating votes="38">8.91</rating>
+<name>Yamato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159047.jpg</picture>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+<character id="69479" type="main character in" update="2014-08-15">
+<rating votes="21">4.90</rating>
+<name>Mutsuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159737.jpg</picture>
+<seiyuu id="430" picture="129542.jpg">Hidaka Rina</seiyuu>
+</character>
+<character id="69480" type="main character in" update="2014-08-15">
+<rating votes="23">7.01</rating>
+<name>Yuudachi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159738.jpg</picture>
+<seiyuu id="41943" picture="166787.jpg">Tanibe Yumi</seiyuu>
+</character>
+<character id="69481" type="secondary cast in" update="2014-08-15">
+<rating votes="32">8.89</rating>
+<name>Nagato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159739.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="69753" type="secondary cast in" update="2014-09-01">
+<rating votes="24">6.30</rating>
+<name>Sendai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160295.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="69754" type="secondary cast in" update="2014-09-01">
+<rating votes="17">6.86</rating>
+<name>Jintsuu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160296.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="69755" type="secondary cast in" update="2014-09-01">
+<rating votes="21">4.92</rating>
+<name>Naka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160297.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="69946" type="secondary cast in" update="2014-09-13">
+<rating votes="19">6.88</rating>
+<name>Akatsuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160823.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="69947" type="secondary cast in" update="2014-09-13">
+<rating votes="24">6.96</rating>
+<name>Hibiki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160824.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="69948" type="secondary cast in" update="2014-09-13">
+<rating votes="17">6.59</rating>
+<name>Ikazuchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160825.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="69949" type="secondary cast in" update="2014-09-13">
+<rating votes="19">6.75</rating>
+<name>Inazuma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160826.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="69950" type="secondary cast in" update="2014-09-13">
+<rating votes="26">7.69</rating>
+<name>Mutsu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160827.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="70243" type="secondary cast in" update="2014-09-25">
+<rating votes="21">8.07</rating>
+<name>Atago</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>161651.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+<character id="70955" type="secondary cast in" update="2014-10-27">
+<rating votes="21">5.66</rating>
+<name>Kitakami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163322.jpg</picture>
+<seiyuu id="27218" picture="223318.jpg">Ootsubo Yuka</seiyuu>
+</character>
+<character id="70956" type="secondary cast in" update="2014-10-27">
+<rating votes="26">4.09</rating>
+<name>Ooi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163323.jpg</picture>
+<seiyuu id="27218" picture="223318.jpg">Ootsubo Yuka</seiyuu>
+</character>
+<character id="70957" type="appears in" update="2014-10-27">
+<rating votes="15">7.79</rating>
+<name>Ooyodo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163324.jpg</picture>
+<seiyuu id="12" picture="184301.jpg">Kawasumi Ayako</seiyuu>
+</character>
+<character id="70958" type="appears in" update="2014-10-27">
+<rating votes="19">7.00</rating>
+<name>Hiei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163326.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+<character id="72409" type="secondary cast in" update="2014-12-29">
+<rating votes="24">6.99</rating>
+<name>Zuikaku</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>166764.jpg</picture>
+<seiyuu id="5886" picture="30429.jpg">Nomizu Iori</seiyuu>
+</character>
+<character id="72593" type="appears in" update="2015-02-05">
+<rating votes="8">6.44</rating>
+<name>Tone</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168421.jpg</picture>
+<seiyuu id="516" picture="34813.jpg">Iguchi Yuka</seiyuu>
+</character>
+<character id="72594" type="appears in" update="2015-02-05">
+<rating votes="7">5.56</rating>
+<name>Yuubari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168422.jpg</picture>
+<seiyuu id="34234" picture="228806.jpg">Bridcutt Sarah Emi</seiyuu>
+</character>
+<character id="72595" type="appears in" update="2015-02-05">
+<rating votes="6">5.86</rating>
+<name>Tama</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168420.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="72596" type="appears in" update="2015-02-05">
+<rating votes="14">5.38</rating>
+<name>Kisaragi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168415.jpg</picture>
+<seiyuu id="430" picture="129542.jpg">Hidaka Rina</seiyuu>
+</character>
+<character id="72597" type="appears in" update="2015-02-05">
+<rating votes="8">5.07</rating>
+<name>Mogami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168418.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="72598" type="appears in" update="2015-02-05">
+<rating votes="19">8.10</rating>
+<name>Haruna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168413.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+<character id="72599" type="appears in" update="2015-02-05">
+<rating votes="6">6.32</rating>
+<name>Kuma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168423.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="72600" type="appears in" update="2015-02-05">
+<rating votes="18">7.66</rating>
+<name>Shoukaku</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168419.jpg</picture>
+<seiyuu id="5886" picture="30429.jpg">Nomizu Iori</seiyuu>
+</character>
+<character id="72601" type="appears in" update="2015-02-05">
+<rating votes="13">6.28</rating>
+<name>Mamiya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168417.jpg</picture>
+<seiyuu id="61" picture="58663.jpg">Horie Yui</seiyuu>
+</character>
+<character id="72602" type="appears in" update="2015-02-05">
+<rating votes="15">7.99</rating>
+<name>Kirishima</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168414.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+<character id="72659" type="appears in" update="2015-02-05">
+<rating votes="7">4.30</rating>
+<name>Chikuma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168426.jpg</picture>
+<seiyuu id="516" picture="34813.jpg">Iguchi Yuka</seiyuu>
+</character>
+<character id="72660" type="appears in" update="2015-02-05">
+<rating votes="9">5.15</rating>
+<name>Ashigara</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168424.jpg</picture>
+<seiyuu id="32750" picture="227075.jpg">Taneda Risa</seiyuu>
+</character>
+<character id="72786" type="appears in" update="2015-02-05">
+<rating votes="7">5.27</rating>
+<name>Yayoi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168429.jpg</picture>
+<seiyuu id="430" picture="129542.jpg">Hidaka Rina</seiyuu>
+</character>
+<character id="72787" type="appears in" update="2015-02-05">
+<rating votes="7">4.89</rating>
+<name>Mochizuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168427.jpg</picture>
+<seiyuu id="430" picture="129542.jpg">Hidaka Rina</seiyuu>
+</character>
+<character id="72788" type="appears in" update="2015-02-05">
+<rating votes="10">7.38</rating>
+<name>Takao</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168428.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+<character id="73081" type="appears in" update="2015-02-05">
+<rating votes="6">4.70</rating>
+<name>Haguro</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168430.jpg</picture>
+<seiyuu id="32750" picture="227075.jpg">Taneda Risa</seiyuu>
+</character>
+<character id="73082" type="appears in" update="2015-02-05">
+<rating votes="7">4.89</rating>
+<name>Nachi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168431.jpg</picture>
+<seiyuu id="32750" picture="227075.jpg">Taneda Risa</seiyuu>
+</character>
+<character id="73083" type="appears in" update="2015-03-28">
+<rating votes="6">5.06</rating>
+<name>Houshou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170900.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="73084" type="appears in" update="2015-03-28">
+<rating votes="7">5.91</rating>
+<name>Shigure</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170898.jpg</picture>
+<seiyuu id="41943" picture="166787.jpg">Tanibe Yumi</seiyuu>
+</character>
+<character id="73085" type="appears in" update="2015-03-28">
+<rating votes="5">5.77</rating>
+<name>Murasame</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170899.jpg</picture>
+<seiyuu id="41943" picture="166787.jpg">Tanibe Yumi</seiyuu>
+</character>
+<character id="73086" type="appears in" update="2015-03-28">
+<rating votes="5">5.37</rating>
+<name>Shiratsuyu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170897.jpg</picture>
+<seiyuu id="41943" picture="166787.jpg">Tanibe Yumi</seiyuu>
+</character>
+<character id="73394" type="appears in" update="2015-02-19">
+<rating votes="2">5.07</rating>
+<name>Dai Go Yuugeki Butai</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="73408" type="appears in" update="2015-02-20">
+<rating votes="1">6.43</rating>
+<name>Dai San Suirai Sentai</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="73684" type="appears in" update="2015-03-06">
+<rating votes="14">5.86</rating>
+<name>Souryuu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169739.jpg</picture>
+<seiyuu id="28602" picture="131381.jpg">Uesaka Sumire</seiyuu>
+</character>
+<character id="73685" type="secondary cast in" update="2015-03-06">
+<rating votes="23">7.33</rating>
+<name>Yuudachi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169738.jpg</picture>
+<seiyuu id="41943" picture="166787.jpg">Tanibe Yumi</seiyuu>
+</character>
+<character id="74107" type="appears in" update="2015-03-27">
+<rating votes="11">4.89</rating>
+<name>Hiryuu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170850.jpg</picture>
+<seiyuu id="28602" picture="131381.jpg">Uesaka Sumire</seiyuu>
+</character>
+<character id="74113" type="appears in" update="2015-03-27">
+<rating votes="5">3.73</rating>
+<name>Chuukansei Hime</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170848.jpg</picture>
+<seiyuu id="571" picture="172734.jpg">Sakakibara Yoshiko</seiyuu>
+</character>
+<character id="74114" type="appears in" update="2015-04-12">
+<rating votes="7">5.19</rating>
+<name>Taihou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171783.jpg</picture>
+<seiyuu id="10" picture="226529.jpg">Noto Mamiko</seiyuu>
+</character>
+<character id="74115" type="appears in" update="2015-03-27">
+<rating votes="5">3.82</rating>
+<name>Hikoujou Hime</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170851.jpg</picture>
+<seiyuu id="571" picture="172734.jpg">Sakakibara Yoshiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="165179" update="2016-11-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2015-01-29</airdate>
+<rating votes="11">4.05</rating>
+<title xml:lang="ja">私たちの出番ネ! Follow me!</title>
+<title xml:lang="en">It`s Our Turn! Follow Me!</title>
+<title xml:lang="fr">À notre tour, maintenant ! Follow me !</title>
+<title xml:lang="x-jat">Watashitachi no Debanne! Follow me!</title>
+<summary>"It`s okay, I understand." Fubuki means the four Kongou sisters, powerful fast battleships who are a little weird. Fubuki tries her best to cheer her friend up, but she doesn`t know what to say.  She goes with the Kongou sisters to the southwest theater, where she fights the Abyssals again.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668647</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165180" update="2016-11-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2015-01-22</airdate>
+<rating votes="12">3.67</rating>
+<title xml:lang="ja">W島攻略作戦!</title>
+<title xml:lang="en">The Operation to Capture W Island</title>
+<title xml:lang="fr">Plan de conquête de l`île W !</title>
+<title xml:lang="x-jat">W-tou Kouryaku Sakusen!</title>
+<summary>"Thank you. I love you. You`re wonderful. I`m so happy." The wonderful feelings you have for the wonderful people you care about. After participating in training, Fubuki and Torpedo Squad 3 move on to the attack on W Island. The night before the mission, Fubuki`s roommate Mutsuki reassures her and makes her feel better.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668645</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165181" update="2016-11-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2015-01-15</airdate>
+<rating votes="10">2.63</rating>
+<title xml:lang="ja">悖らず, 恥じず, 憾まず!</title>
+<title xml:lang="en">Without Dissent, Without Shame, Without Resentment!</title>
+<title xml:lang="fr">Aucun détour, aucune honte, aucun ressentiment !</title>
+<title xml:lang="x-jat">Motorazu, Hajizu, Uramazu!</title>
+<summary>"I wish I could protect everyone like that!"  Fubuki returns safely from her first mission.  She`d love to be an escort for a carrier like Akagi, but she can`t even sortie at her current level of training. The Sendai sisters offer to help her train.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668643</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165182" update="2016-11-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-01-08</airdate>
+<rating votes="10">2.97</rating>
+<title xml:lang="ja">初めまして! 司令官!</title>
+<title xml:lang="en">Hello, Commander!</title>
+<title xml:lang="fr">Bonjour, commandant !</title>
+<title xml:lang="x-jat">Hajimemashite! Shireikan!</title>
+<summary>"I`m Fubuki! Nice to meet you!"  Fleet Girls are girls who possess the souls of warships from days past.  A new fleet girl Fubuki the Special Type Destroyer has come to their base, the Naval District. With her roommates Mutsuki and Yuudachi, she goes to see the bigger carrier girls, and is in awe of the carrier Akagi.  Someday, she tells herself, she`ll fight along with her.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668415</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165382" update="2015-01-11">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">CM 1</title>
+</episode>
+<episode id="165418" update="2015-01-14">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2015-01-15</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="165419" update="2015-01-14">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2015-01-15</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="165532" update="2016-11-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2015-02-26</airdate>
+<rating votes="10">5.53</rating>
+<title xml:lang="ja">ホテルじゃありませんっ!</title>
+<title xml:lang="en">I`m Not a Hotel!</title>
+<title xml:lang="fr">Ce n’est pas un hôtel !</title>
+<title xml:lang="x-jat">Hotel Ja Arimasen!</title>
+<summary>"Yamato-class nameship, Yamato! Here I come!"
+Fubuki arrives at the forward base with a wounded Shoukaku, and meets Yamato, the ultimate battleship.  Like Fubuki, Yamato`s never been in a fight, and Nagato won`t let her.  Fubuki tries to help her out.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668655</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165533" update="2016-11-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2015-02-19</airdate>
+<rating votes="11">4.15</rating>
+<title xml:lang="ja">一航戦なんて, 大ッッキライ!</title>
+<title xml:lang="en">I Hate Carrier Group One!</title>
+<title xml:lang="fr">Je déteste la 1re division de porte-avions !</title>
+<title xml:lang="x-jat">Ikkousen Nante, Daikirai!</title>
+<summary>"Okay, let`s go, Zuikaku!"  After Fubuki`s hard work, Assault Group 5 is finally starting to come together.  But Kaga is struck and badly damaged when she tries to protect Zuikaku from a torpedo.  Shoukaku is added to the group in her stead, and they set off for an engagement against an enemy carrier task force in the Coral Islands.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668653</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165534" update="2016-11-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2015-02-12</airdate>
+<rating votes="11">2.43</rating>
+<title xml:lang="ja">第六駆逐隊, カレー洋作戦!</title>
+<title xml:lang="en">Destroyer Division Six and the Battle of the Curry Seas!</title>
+<title xml:lang="fr">6e escadre de destroyers, Mission dans l’Océan Curry !</title>
+<title xml:lang="x-jat">Dai Roku Kuchiku Tai, Curry-you Sakusen!</title>
+<summary>"Okay! All the curries are here!" The most important food in the world for fleet girls is curry, and it`s time for the annual Naval District curry cookoff!  The girls of destroyer group 6, Inazuma, Ikazuchi, Akatsuki, and Hibiki, try to win the contest, but Ashigara is desperate to stop them.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668651</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165535" update="2016-11-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2015-02-05</airdate>
+<rating votes="11">5.67</rating>
+<title xml:lang="ja">五航戦の子なんかと一緒にしないで!</title>
+<title xml:lang="en">Don`t Compare Me to the Girls in Carrier Group Five!</title>
+<title xml:lang="fr">Ne me compare pas avec la 5e division de porte-avions !</title>
+<title xml:lang="x-jat">Gokousen no Ko Nanka to Issho ni Shinaide!</title>
+<summary>"A reorganization?" Fubuki has been assigned to a new force, along with Kongou, Zuikaku, Ooi, Kitakami, and Kaga.  Zuikaku and Kaga hate each other, Ooi can`t take her eyes off Kitakami, and Kongou... is Kongou.  Will Fubuki be able to lead this odd band of misfits to victory?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668649</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166520" update="2016-11-21">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2015-03-26</airdate>
+<rating votes="9">5.10</rating>
+<title xml:lang="ja">敵機直上, 急降下!</title>
+<title xml:lang="en">Enemy Planes Dive-bombing from Above!</title>
+<title xml:lang="fr">Des bombardiers ennemis en piqué, des bombardiers !</title>
+<title xml:lang="x-jat">Tekki Chokujou, Kyuukouka!</title>
+<summary>"You let your guard down. My next torpedo is already loaded."
+The fleet attacks Abyssal base MI.  Despite their strength the forces seem unkillable.  When they sink an enemy it just comes right back up again.  Is there any way to win the fight?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668663</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166521" update="2016-11-21">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2015-03-19</airdate>
+<rating votes="8">4.05</rating>
+<title xml:lang="ja">MI作戦! 発動!</title>
+<title xml:lang="en">Operation MI Begins!</title>
+<title xml:lang="fr">Lancement de l’Opération MI !</title>
+<title xml:lang="x-jat">MI Sakusen! Hatsudou!</title>
+<summary>"Carrier Group 1, heading out!"
+At last, operation MI has begun!
+With the admiral`s orders in hand, the fleet girls prepare to attack.
+But Akagi is nervous, and has an awful premonition.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668661</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166522" update="2016-11-21">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2015-03-12</airdate>
+<rating votes="9">3.56</rating>
+<title xml:lang="ja">頑張っていきましょー!</title>
+<title xml:lang="en">Let`s Do Our Best!</title>
+<title xml:lang="fr">Faisons de notre mieux !</title>
+<title xml:lang="x-jat">Ganbatte Ikimashou</title>
+<summary>"I want to be useful to someone!"
+Fubuki hears a message from the admiral from Nagato.
+His words inspire her to do her best and continue her training and studies.
+Mutsuki looks sad as her friend grows.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668659</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166523" update="2016-11-21">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2015-03-05</airdate>
+<rating votes="9">4.38</rating>
+<title xml:lang="ja">改二っぽい?!</title>
+<title xml:lang="en">Second Remodel-poi?!</title>
+<title xml:lang="fr">Seconde amélioration ?</title>
+<title xml:lang="x-jat">Kaini-poi?!</title>
+<summary>"I`ll fight if I have to put my hammocks up as sails!" 
+Yuudachi undergoes a change.  She and the other girls are undergoing a massive upgrade, and Fubuki is sad because she`s being left behind.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668657</identifier>
+<identifier>kancolle</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="185352" update="2017-03-06">
+<epno type="4">T10</epno>
+<length>1</length>
+<title xml:lang="en">BD/DVD Vol. 6 CM</title>
+</episode>
+<episode id="185353" update="2017-03-06">
+<epno type="4">T9</epno>
+<length>1</length>
+<title xml:lang="en">BD/DVD Vol. 5 CM</title>
+</episode>
+<episode id="185354" update="2017-03-06">
+<epno type="4">T8</epno>
+<length>1</length>
+<title xml:lang="en">BD/DVD Vol. 4 CM</title>
+</episode>
+<episode id="185355" update="2017-03-06">
+<epno type="4">T7</epno>
+<length>1</length>
+<title xml:lang="en">BD/DVD Vol. 3 CM</title>
+</episode>
+<episode id="185356" update="2017-03-06">
+<epno type="4">T6</epno>
+<length>1</length>
+<title xml:lang="en">BD/DVD Vol. 1 CM 3</title>
+</episode>
+<episode id="185357" update="2017-03-06">
+<epno type="4">T5</epno>
+<length>1</length>
+<title xml:lang="en">BD/DVD Vol. 1 CM 2</title>
+</episode>
+<episode id="185358" update="2017-03-06">
+<epno type="4">T4</epno>
+<length>1</length>
+<title xml:lang="en">BD/DVD Vol. 1 CM 1</title>
+</episode>
+<episode id="185359" update="2017-03-06">
+<epno type="4">T3</epno>
+<length>2</length>
+<airdate>2014-11-06</airdate>
+<title xml:lang="ja">先行PV第弐弾</title>
+<title xml:lang="en">PV 2</title>
+</episode>
+<episode id="185360" update="2017-03-06">
+<epno type="4">T2</epno>
+<length>3</length>
+<airdate>2014-08-04</airdate>
+<title xml:lang="ja">先行PV第壱弾</title>
+<title xml:lang="en">PV 1</title>
+</episode>
+</episodes>
+</anime>
