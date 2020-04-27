@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14489" restricted="false">
+<type>TV Series</type>
+<episodecount>10</episodecount>
+<startdate>2019-01-13</startdate>
+<enddate>2019-03-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mini Toji</title>
+<title xml:lang="ja" type="official">みにとじ</title>
+<title xml:lang="en" type="official">Katana Maidens: Mini Toji</title>
+<title xml:lang="ko" type="official">미니 도사</title>
+<title xml:lang="zh-Hans" type="official">迷你刀使</title>
+</titles>
+<relatedanime>
+<anime id="13172" type="Alternative Setting">Toji no Miko</anime>
+</relatedanime>
+<url>http://minitoji.jp/</url>
+<creators>
+<name id="35813" type="Animation Work">Project No.9</name>
+<name id="9372" type="Character Design">Ogata Hiromi</name>
+<name id="7690" type="Direction">Nobuta Yuu</name>
+<name id="9372" type="Chief Animation Direction">Ogata Hiromi</name>
+<name id="44223" type="Series Composition">Akashiro Aoi</name>
+<name id="3073" type="Music">Hashimoto Yukari</name>
+</creators>
+<description>* Features chibi versions of the characters from http://anidb.net/a13172 [Toji no Miko] anime and the Toji no Miko: Kizamishi Issen no Tomoshibi smartphone game.
+Follow the everyday lives of school girls who just happen to be sword-wielding shrine maidens.
+Source: Tokyo Otaku Mode</description>
+<ratings>
+<permanent count="79">3.04</permanent>
+<temporary count="79">5.15</temporary>
+</ratings>
+<picture>226545.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21680</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38981</identifier>
+</externalentity>
+<externalentity>
+<identifier>38673</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://minitoji.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>刀使ノ巫女</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5148</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366106</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21655</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>tojinomiko</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1279" parentid="2869" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-18">
+<name>all-girls school</name>
+<description>This school is only for female students. There may be a few male teachers though.</description>
+<picurl>70853.jpg</picurl>
+</tag>
+<tag id="1973" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-22">
+<name>cooking</name>
+<description>Cooking is the process of preparing food by using heat.</description>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2634" parentid="2613" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>countryside</name>
+<description>The anime takes place far from the any densely populated areas like cities, i.e. out in the suburbs, in the countryside with many fields and forests.</description>
+</tag>
+<tag id="2642" parentid="2624" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-28">
+<name>alternative present</name>
+<description>Anime that fit in the alternative present category usually have technology and society that is very similar to ours, but with differences in both, history and culture, which sometimes are blatantly obvious, but sometimes harder to place; this one can at times be very subjective.</description>
+</tag>
+<tag id="2651" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-01-15">
+<name>absurdist humour</name>
+<description>Surreal humour, also known as absurdist humour, is a form of humour predicated on deliberate violations of causal reasoning, producing events and behaviours that are obviously illogical. Constructions of surreal humour tend to involve bizarre juxtapositions, non-sequiturs, irrational or absurd situations, and expressions of nonsense.
+The humour arises from a subversion of audience`s expectations, so that amusement is founded on unpredictability, separate from a logical analysis of the situation. Its appeal stems from the fact that the situation described is exceedingly ridiculous or unlikely.
+On an analytical level, all jokes contain a certain amount of incongruity, but while regular jokes carry an incongruity that the audience accepts as compatible with expectations, absurd jokes are characterized by a disproportionate amount of it, with the punch line delivering a situation incompatible with the world as we know it and failing to resolve the matter in the audience`s eyes.
+Source: Wikipedia</description>
+</tag>
+<tag id="2652" parentid="2853" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super deformed</name>
+<description>A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s http://anidb.net/t4055 [face suddenly turns into a simplified version], the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).</description>
+<picurl>65692.png</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2676" parentid="2672" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Tokyo</name>
+<description>Tokyo, officially Tokyo Metropolis, is the capital city of Japan and one of its 47 prefectures. The Greater Tokyo Area is the most populous metropolitan area in the world. It is the seat of the Emperor of Japan and the Japanese government. Tokyo is in the Kantou region on the southeastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands.
+Source: Wikipedia</description>
+<picurl>214311.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2795" parentid="1973" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>baking</name>
+<description>The art of making bread, cakes, pastries, pies, tarts, quiches, cookies and similar food in the oven.
+Mmmm.... smells nice.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2856" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-05">
+<name>ecchi</name>
+<description>Fan service is found in many anime, in many forms. When the service has a distinctly sexual slant to it, and it appears to be a major focus of the show, then it`s safe to assume you`re watching ecchi.
+The word "ecchi" is used by English-speaking anime fans to refer to refer to soft-core pornographic or sexually suggestive anime and manga. This is a western invention; in Japanese, it is a catch-all term for all things anyhow sexual in nature, not being limited to porn, but also not really considered a "milder" term, as it may also refer to sexual intercourse itself. The term "ecchi" in Japanese comes from the pronunciation of the letter "H" in English, which is rendered into Japanese syllabary as エッチ, which in turn is transliterated in the English alphabet as "ecchi" or "etchi". It is not, as many believe, short for "hentai" -- that, too, seems to be a western invention. It is, however, nearly as misunderstood and misapplied a term as "hentai".
+The line between ecchi and hentai, from the western perspective over these terms, can be hard to draw at times; one good rule of thumb is: if it was aired on Japanese public TV at all, it probably wasn`t hentai. Ecchi usually features all the specifics to human anatomy that can only be found in anime, and generally avoids full nudity, instead abusing of panty shots. Hentai, on the other hand, will usually show full frontal nudity in some explicit form, including genitalia, and full, intimate sex scenes. At its mildest, ecchi is composed of double entendres, big misunderstandings, and sexual farce; at its most explicit, it is still in the realm of softcore pornography, with full breast shots, full back nudity and similar content, but no display of genitalia. Another good way to distinguish the two is looking for animated sex scenes; if one is found, you have generally left the genre entirely, though a few borderline exceptions apply here. For AniDB`s purposes, the distinction between explicit ecchi and actual hentai is simple: if it was sold with a 18+ restriction in its country of origin, it is hentai; if it was sold without it, it is ecchi.
+Source: TV Tropes</description>
+<picurl>32416.jpg</picurl>
+</tag>
+<tag id="2862" parentid="2607" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>friendship</name>
+<description>The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.</description>
+<picurl>65691.png</picurl>
+</tag>
+<tag id="2869" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="3191" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-14">
+<name>ohanami</name>
+<description>Hanami (花見, lit. "flower viewing") is the Japanese traditional custom of enjoying the beauty of flowers, "flower" in this case almost always meaning cherry blossoms or ume blossoms. 
+From the end of March to early May, sakura bloom all over Japan, and around the first of February on the island of Okinawa. The blossom forecast (桜前線 sakurazensen, literally cherry blossom front) is announced each year by the weather bureau, and is watched carefully by those planning hanami as the blossoms only last a week or two. 
+In modern-day Japan, hanami mostly consists of having an outdoor party beneath the sakura during daytime or at night. Hanami at night is called yozakura (夜桜, literally night sakura). 
+(Source: Wikipedia)</description>
+<picurl>160895.jpg</picurl>
+</tag>
+<tag id="3314" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-10">
+<name>fate</name>
+<description>Fate — The predestined path of all things. The outcome is inevitable and the consequences predetermined. Whether or not the protagonist ultimately decides to follow this path shall weigh heavily on their soul.</description>
+</tag>
+<tag id="3759" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-04-11">
+<name>teamwork</name>
+<description>A cooperative effort by the members of a group or team to achieve a common goal.</description>
+</tag>
+<tag id="3843" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>saving the world</name>
+<description>While villains love to take over the world or cause the end of the world as we know it, the heroes are most likely motivated by the polar opposite, saving the world. A fairly simple plot/motivation related to for great justice and what not, this trope is pretty broad and very common for many stories not focused on character interaction only.
+Source: TV Trope</description>
+</tag>
+<tag id="3898" parentid="2849" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-11-11">
+<name>science and magic coexist</name>
+<description>In this anime science and magic do not exclude each other. Magic here is actually very advanced, artefact- and/or ritual-based science.</description>
+</tag>
+<tag id="3953" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-06">
+<name>in medias res</name>
+<description>In medias res, also medias in res (Latin for "into the midst of affairs (lit. into mid-affairs)"), refers to a literary and artistic technique where the narrative starts in the middle of the story instead of from its beginning. It is generally a plot-driven concept rather than a character-driven one; though characters are commonly used to provide the backstory. The characters, setting, and conflict are often introduced through a series of flashbacks or through characters relating past events to each other.
+Probably originating from an oral tradition, the technique is a convention of epic poetry, one of the earliest and most prominent examples in Western literature being Homer`s Odyssey and Iliad. Virgil`s Aeneid began the tradition in literature of imitating Homer, continued in Torquato Tasso`s Jerusalem Delivered, John Milton`s Paradise Lost and "Inferno" from Dante`s Divine Comedy. George Lucas`s Star Wars saga was told using in medias res.</description>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="4491" parentid="3314" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-13">
+<name>children of destiny</name>
+<description>In case of nearing doomsday leave all the military equipment to kids — they will save the day. Rejoice!</description>
+</tag>
+<tag id="4588" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-20">
+<name>fast-paced</name>
+<description>Hold onto your hats, this anime`s storyline is relentless.
+The characters don`t get time to take a breath as events keep both them and the viewer on a roller coaster ride of revelation and excitement!
+Hopefully it all makes sense...</description>
+</tag>
+<tag id="5518" parentid="7199" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-08-03">
+<name>flat chest jokes</name>
+<description>Jokes about the (supposedly or actually) flat chest of a character.</description>
+</tag>
+<tag id="5835" parentid="2856" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-28">
+<name>Gainax bounce</name>
+<description>A term that has come to describe often exaggerated, very jiggly, fluid, and painstakingly detailed animation of female characters` bouncing breasts. 
+The term has its roots in http://anidb.net/a185 [Top o Nerae!] — Gunbuster, Gainax`s first OVA (1988), in which the Gainax bounce is found unabated in the three female characters of Noriko, Kazumi, and Jung.</description>
+<picurl>166074.jpg</picurl>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6148" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO EPISODE</name>
+<description>Tags under this parent tag are going to be moved to episode tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what episodes they should be assigned to.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6185" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-11">
+<name>season</name>
+<description>A season is a division of the year, marked by changes in weather, ecology, and hours of daylight. Seasons result from the yearly orbit of the Earth around the Sun and the tilt of the Earth`s rotational axis relative to the plane of the orbit. In temperate and polar regions, the seasons are marked by changes in the intensity of sunlight that reaches the Earth`s surface, variations of which may cause animals to go into hibernation or to migrate, and plants to be dormant.
+During May, June, and July, the northern hemisphere is exposed to more direct sunlight because the hemisphere faces the sun. The same is true of the southern hemisphere in November, December, and January. It is the tilt of the Earth that causes the Sun to be higher in the sky during the summer months which increases the solar flux. However, due to seasonal lag, June, July, and August are the hottest months in the northern hemisphere and December, January, and February are the hottest months in the southern hemisphere.
+In temperate and subpolar regions, four calendar-based seasons (with their adjectives) are generally recognized: spring (vernal), summer (estival), autumn (autumnal), fall and winter (hibernal). Ecologists often use a six-season model for temperate climate regions that includes pre-spring (prevernal) and late summer (serotinal) as distinct seasons along with the traditional four.
+Source: Wikipedia</description>
+<picurl>162656.jpg</picurl>
+</tag>
+<tag id="6186" parentid="6185" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-29">
+<name>spring</name>
+<description>During spring, the axis of the Earth is increasing its tilt relative to the Sun, and the length of daylight rapidly increases for the relevant hemisphere. The hemisphere begins to warm significantly causing new plant growth to spring forth, giving the season its name. Snow, if a normal part of winter, begins to melt, and streams swell with runoff. Frosts, if a normal part of winter, become less severe. In climates that have no snow and rare frosts, the air and ground temperatures increase more rapidly. Many flowering plants bloom this time of year, in a long succession sometimes beginning when snow is still on the ground, continuing into early summer. In normally snowless areas spring may begin as early as February (Northern Hemisphere) heralded by the blooming of deciduous magnolias, cherries and quince, or August (Southern Hemisphere) in the same way. Many temperate areas have a dry spring, and wet autumn (fall), which brings about flowering in this season more consistent with the need for water as well as warmth. Subarctic areas may not experience spring at all until May or even June.
+Source: Wikipedia</description>
+<picurl>161969.jpg</picurl>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+<tag id="7199" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-12">
+<name>sexual humour</name>
+<description>Sexual humour is prevalent in this anime. It often involves cheeky or crude sexual language, with innuendos and jokes about the female or male genitalia. Often, such anime also have http://anidb.net/t2856 [ecchi] elements to them.</description>
+</tag>
+</tags>
+<characters>
+<character id="99170" type="secondary cast in" update="2018-12-27">
+<rating votes="1">5.76</rating>
+<name>Shichinosato Kofuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228161.jpg</picture>
+<seiyuu id="5663" picture="228631.jpg">Igarashi Hiromi</seiyuu>
+</character>
+<character id="99171" type="secondary cast in" update="2018-12-27">
+<rating votes="1">5.76</rating>
+<name>Musumi Kiyoka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228160.jpg</picture>
+<seiyuu id="34976" picture="188448.jpg">Fujita Akane</seiyuu>
+</character>
+<character id="99172" type="main character in" update="2018-12-27">
+<name>Juujou Hiyori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228169.jpg</picture>
+<seiyuu id="34449" picture="171791.jpg">Oonishi Saori</seiyuu>
+</character>
+<character id="99173" type="secondary cast in" update="2018-12-27">
+<name>Kohagura Ellen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228165.jpg</picture>
+<seiyuu id="37089" picture="228978.jpg">Suzuki Eri</seiyuu>
+</character>
+<character id="99174" type="secondary cast in" update="2018-12-27">
+<rating votes="1">5.76</rating>
+<name>Asakura Mihono</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228163.jpg</picture>
+<seiyuu id="38966" picture="147731.jpg">Akaneya Himika</seiyuu>
+</character>
+<character id="99175" type="secondary cast in" update="2018-12-27">
+<rating votes="1">5.76</rating>
+<name>Kitora Miruya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228159.jpg</picture>
+<seiyuu id="17069" picture="80944.jpg">Numakura Manami</seiyuu>
+</character>
+<character id="99176" type="main character in" update="2018-12-27">
+<name>Yanase Mai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228168.jpg</picture>
+<seiyuu id="42471" picture="242433.jpg">Waki Azumi</seiyuu>
+</character>
+<character id="99177" type="secondary cast in" update="2018-12-27">
+<rating votes="1">5.76</rating>
+<name>Setouchi Chie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228162.jpg</picture>
+<seiyuu id="16763" picture="45795.jpg">Ishihara Kaori</seiyuu>
+</character>
+<character id="99178" type="secondary cast in" update="2018-12-27">
+<name>Mashiko Kaoru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228166.jpg</picture>
+<seiyuu id="41504" picture="178543.jpg">Matsuda Risae</seiyuu>
+</character>
+<character id="99179" type="main character in" update="2018-12-27">
+<name>Itomi Sayaka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228167.jpg</picture>
+<seiyuu id="42138" picture="184598.jpg">Kino Hina</seiyuu>
+</character>
+<character id="99180" type="main character in" update="2018-12-27">
+<name>Etou Kanami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228157.jpg</picture>
+<seiyuu id="43552" picture="179144.jpg">Hondo Kaede</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="211065" update="2019-01-21">
+<epno type="2">S1</epno>
+<length>4</length>
+<airdate>2019-01-06</airdate>
+<rating votes="3">3.16</rating>
+<title xml:lang="ja">可奈美・美炎の「とじみこ 胎動編」205秒で紹介特番!</title>
+<title xml:lang="en">Mini Toji with Kanami &amp; Mihono "Katana Maidens Quickening Arc" 205-Second Introduction Special!</title>
+<title xml:lang="fr">Mini Maidens, arc « Mouvement fœtal » − Présentation en 205 sec. !</title>
+<title xml:lang="x-jat">Kanami Mihono no "Toji Miko Taidou Hen" 205-byou de Shoukai Tokuban!</title>
+<summary>Kanami and Mihono review "Katana Maidens Quickening Arc" in 205 seconds so that you can fully enjoy watching Mini Toji more easily!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780914</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211066" update="2019-01-21">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2019-01-13</airdate>
+<rating votes="2">6.36</rating>
+<title xml:lang="ja">とっくん</title>
+<title xml:lang="en">Special Training</title>
+<title xml:lang="fr">Entraînement</title>
+<title xml:lang="x-jat">Tokkun</title>
+<summary>Having defeated Yukari Origami, Kanami and the others have garnered attention and are observed by Miruya. Special training begins to improve the investigation squad`s teamwork by mimicking the closeness of Kanami and the others.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781266</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211067" update="2019-01-29">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2019-01-20</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">ぷれぜんと</title>
+<title xml:lang="en">Present</title>
+<title xml:lang="fr">Cadeaux</title>
+<title xml:lang="x-jat">Present</title>
+<summary>Tomorrow is Kanami`s birthday! Mihono, Hiyori, and Mai go out in search of a present that will make Kanami the happiest. What are the presents that the three of them have come up with to give Kanami the best birthday ever?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781267</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211068" update="2019-01-29">
+<epno type="1">3</epno>
+<length>4</length>
+<airdate>2019-01-27</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">よざくら</title>
+<title xml:lang="en">Evening Cherry Blossoms</title>
+<title xml:lang="fr">Cerisier nocturne</title>
+<title xml:lang="x-jat">Yozakura</title>
+<summary>Yukari Origami and the four members of the Elite Guard are enjoying a brief moment of peace viewing the flowers. Yume smiles brightly at spending time viewing the flowers with everyone, but she was not the only one who enjoyed their time.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781268</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211069" update="2019-02-19">
+<epno type="1">4</epno>
+<length>4</length>
+<airdate>2019-02-03</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">なかよし</title>
+<title xml:lang="en">Getting Along</title>
+<title xml:lang="fr">Bonne entente</title>
+<title xml:lang="x-jat">Nakayoshi</title>
+<summary>Kiyoka asks Kofuki for help in picking out an outfit, and the pudding that she was planning to give her as a reward is gone! But the flames of Kofuki`s prankster heart are lit by the items that are in the refrigerator.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781269</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211883" update="2019-01-12">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>2019-01-13</airdate>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="212258" update="2019-02-19">
+<epno type="1">5</epno>
+<length>4</length>
+<airdate>2019-02-10</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">おねえさん</title>
+<title xml:lang="en">Big Sister</title>
+<title xml:lang="fr">Grande sœur</title>
+<title xml:lang="x-jat">Onee-san</title>
+<summary>Mai watches over Sayaka from morning until night. To her that is the natural course of each of their days. One day, Sayaka tries to leave Mai`s side when she has business in the laboratory.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781270</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212259" update="2019-03-04">
+<epno type="1">6</epno>
+<length>4</length>
+<airdate>2019-02-17</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">おむすび</title>
+<title xml:lang="en">Omusubi</title>
+<title xml:lang="fr">Omusubi</title>
+<title xml:lang="x-jat">Omusubi</title>
+<summary>Today is the day that Yume Tsubakuro is supposed to join the newly formed Elite Guard, but she doesn`t show up at all. Concerned by this, Maki and Suzuka go in search of her. Meanwhile, at the same time, Yomi has been given a different mission.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781271</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212260" update="2019-03-04">
+<epno type="1">7</epno>
+<length>4</length>
+<airdate>2019-02-24</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">ほらいずんどうめい</title>
+<title xml:lang="en">Horizon Alliance</title>
+<title xml:lang="fr">La ligue Horizon</title>
+<title xml:lang="x-jat">Horizon Doumei</title>
+<summary>The Toji are enjoying their time in the hot springs at a ryokan in the mountains. However, the hot spring is especially prized by Kiyoka and Hiyori. Believing firmly in the hidden benefits of the hot spring, Kiyoka and Hiyori head straight for the large open bath.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781272</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212261" update="2019-04-09">
+<epno type="1">8</epno>
+<length>4</length>
+<airdate>2019-03-03</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">やさぐれ</title>
+<title xml:lang="en">Sulking</title>
+<title xml:lang="fr">Fatigue</title>
+<title xml:lang="x-jat">Yasagure</title>
+<summary>Kaoru collapses looking very haggard. She has finally reached her limit of fatigue and stress. In an effort to bring her spirits back up, Mihono and the others try to give her a relaxing environment at a beach resort.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781273</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212953" update="2019-04-08">
+<epno type="1">9</epno>
+<length>4</length>
+<airdate>2019-03-10</airdate>
+<title xml:lang="ja">おまつり</title>
+<title xml:lang="en">Festival</title>
+<title xml:lang="fr">Festival</title>
+<title xml:lang="x-jat">Omatsuri</title>
+<summary>The girls get dressed up in yukata to enjoy a night out at a festival, but Mihono and the other members of the investigation squad have been given a special mission. Their mission is to contribute to their local community by running a food stall at the festival.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781274</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212954" update="2019-04-08">
+<epno type="1">10</epno>
+<length>4</length>
+<airdate>2019-03-17</airdate>
+<title xml:lang="ja">はなび</title>
+<title xml:lang="en">Fireworks</title>
+<title xml:lang="fr">Feu d`artifice</title>
+<title xml:lang="x-jat">Hanabi</title>
+<summary>The fun of the summer festival that all the girls are enjoying is about to come to an end. When the fireworks are over it marks the end of summer, and each Toji must follow her own path. Thus, our story quickens to its end, but the bond between the girls will never cease.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781275</identifier>
+<identifier>katana-maidens-mini-toji</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219044" update="2019-07-27">
+<epno type="2">S2</epno>
+<length>5</length>
+<airdate>2019-05-24</airdate>
+<title xml:lang="ja">未放送えぴそーど「ゆめ」</title>
+<title xml:lang="en">Unaired Episode: Dream</title>
+<title xml:lang="x-jat">Mihousou Episode: Yume</title>
+</episode>
+</episodes>
+</anime>

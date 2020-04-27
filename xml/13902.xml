@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13902" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2013-10-05</startdate>
+<enddate>2013-10-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sword Gai</title>
+<title xml:lang="ja" type="official">ソードガイ 装刀凱</title>
+</titles>
+<relatedanime>
+<anime id="10858" type="Other">Sword Gai The Animation</anime>
+</relatedanime>
+<ratings>
+<permanent count="18">3.50</permanent>
+<temporary count="18">4.66</temporary>
+</ratings>
+<picture>65839.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31966</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="202121" update="2018-06-25">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2013-10-05</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

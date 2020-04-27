@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3966" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2005-09-10</startdate>
+<enddate>2005-09-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Soratobu Toshi Keikaku</title>
+<title xml:lang="en" type="synonym">A Flying City Plan</title>
+<title xml:lang="ja" type="official">空飛ぶ都市計画</title>
+<title xml:lang="en" type="official">Project `City Flying in the Sky`</title>
+</titles>
+<relatedanime>
+<anime id="3965" type="Prequel">Space Station No. 9</anime>
+</relatedanime>
+<url>http://www.toho.co.jp/lineup/toshikeikaku/</url>
+<creators>
+<name id="10325" type="Original Work">Nakata Yasutaka</name>
+<name id="10325" type="Music">Nakata Yasutaka</name>
+<name id="47220" type="Direction">Momose Yoshiyuki</name>
+<name id="58540" type="Work">Studio Kajino</name>
+</creators>
+<description>Third animated music video for music by capsule based around their NEXUS-2060 concept - a space station resort in the year 2060. Produced by Ghibli offshoot Studio Kajino, with MOMOSE Yoshiyuki (百瀬ヨシユキ) directing. The song was released on 2005.09.07 as Side A of a single titled Aeropolis, and the animation first shown on 2005.09.10 as a double bill with the live action Touch movie.</description>
+<ratings>
+<permanent count="252">5.03</permanent>
+<temporary count="254">6.04</temporary>
+</ratings>
+<picture>5504.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9883</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3818</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toho.co.jp/lineup/toshikeikaku/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>空飛ぶ都市計画</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="44806" update="2005-11-20">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2005-09-10</airdate>
+<rating votes="2">4.88</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

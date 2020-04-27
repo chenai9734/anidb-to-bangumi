@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14754" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-12-13</startdate>
+<enddate>2019-12-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Youkai Watch Jam: Youkai Gakuen Y - Neko wa Hero ni Nareru ka</title>
+<title xml:lang="ja" type="official">映画 妖怪ウォッチJam 妖怪学園Y 猫はHEROになれるか</title>
+</titles>
+<relatedanime>
+<anime id="15268" type="Sequel">Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu</anime>
+</relatedanime>
+<url>http://www.eiga-yokai.jp/</url>
+<creators>
+<name id="11560" type="Direction">Takahashi Shigeharu</name>
+<name id="46478" type="Music">Saigou Ken`ichirou</name>
+<name id="10390" type="Original Plan">Hino Akihiro</name>
+<name id="8394" type="Original Work">Level-5</name>
+<name id="7914" type="Character Design">Yamada Shun`ya</name>
+<name id="727" type="Animation Work">OLM</name>
+</creators>
+<ratings>
+<permanent count="1">2.64</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>241228.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23006</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39529</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.eiga-yokai.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>映画_妖怪学園Y_猫はHEROになれるか</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367608</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>eiga_yokai</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="217950" update="2019-12-10">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2019-12-13</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4603" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2006-08-01</startdate>
+<enddate>2006-08-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Maihime</title>
+<title xml:lang="en" type="synonym">Dancing Girl</title>
+<title xml:lang="en" type="synonym">The Dancer</title>
+<title xml:lang="en" type="synonym">The Dancing Girl</title>
+<title xml:lang="ja" type="official">舞姫</title>
+</titles>
+<url>http://www.ganime.jp/maihime/index.html</url>
+<creators>
+<name id="20799" type="Original Work">Mori Ougai</name>
+<name id="27969" type="Direction">Oku Shuutaro</name>
+<name id="54583" type="Music">Fujii You</name>
+</creators>
+<description>A lonely exchange student meets and falls in passionate love with a dancer.
+A girl who falls into madness when she learns her lover is going home to make his life.
+The wanderings of youth on the stage of 19th century Berlin.
+The legendary novel of Meiji writer Mori Ogai, "Maihime" (dancing girl), adapted by Ga-nime "School Girl" producer Oku Shutaro who shows us his illustration talent and appoints Furuya Akisa for the booklets, slide shows, and animation of this Ga-nime. Over the background of a foreign country, we discover all the pathetic, poetic feelings of this elegant story as the wind of fresh artistic images brings it to life.
+Source: http://corp.toei-anim.co.jp/english/film/ganime_maihime.php</description>
+<ratings>
+<permanent count="40">6.36</permanent>
+<temporary count="41">6.53</temporary>
+</ratings>
+<picture>11093.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17348</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6182</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3774</identifier>
+<identifier>rrdtyv</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/sp/ganime/maihime/index.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://corp.toei-anim.co.jp/english/film/ganime_maihime.php</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>330577</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="3645" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-01-08">
+<name>ganime</name>
+<description>Ganime label is for the new style of artistic visual content characterized by pictures, words and music to express the artists’ unique perspectives.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="52518" update="2006-07-27">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2006-08-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

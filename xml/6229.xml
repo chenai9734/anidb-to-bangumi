@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6229" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1979-07-21</startdate>
+<enddate>1979-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hokkyoku no Mushka Mishka</title>
+<title xml:lang="ja" type="synonym">北極のムーシカ・ミーシカ</title>
+<title xml:lang="en" type="synonym">Adventures of the Polar Cubs</title>
+<title xml:lang="pl" type="synonym">Przygody niedźwiadków polarnych</title>
+<title xml:lang="ja" type="official">北極のムーシカ ミーシカ</title>
+<title xml:lang="de" type="official">Die Polarbären</title>
+<title xml:lang="pl" type="official">Przygoda na Biegunie Północnym</title>
+</titles>
+<url>http://www.mushi-pro.co.jp/2010/08/%E5%8C%97%E6%A5%B5%E3%81%AE%E3%83%A0%E3%83%BC%E3%82%B7%E3%82%AB%E3%83%BB%E3%83%9F%E3%83%BC%E3%82%B7%E3%82%AB/</url>
+<creators>
+<name id="4330" type="Music">Koroku Reijirou</name>
+<name id="6547" type="Direction">Katsui Chikao</name>
+<name id="30403" type="Original Work">Inui Tomiko</name>
+</creators>
+<description>Adventures of the polar cubs is a delightful story of Mushka and Mishka, two polar bear cubs who set out on a series of adventures in the North Pole. Mushka is thoughtful; Mishka is daring. While out on their own Mishka befriends Aura, A prank-playing seal and Mushka stumbles over swan eggs, breaks them and creates havoc in the bird village. The cub`s father is Scholar Mu, who is the wise leader of the Great Northern animal kingdom and is in charge of their annual Summer Festival. When Mu is injured by man, the cubs must take on the responsibilities of their father and save the other animals from the hunters.
+Source: ANN</description>
+<ratings>
+<permanent count="24">4.73</permanent>
+<temporary count="24">5.58</temporary>
+</ratings>
+<picture>68821.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1620</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7729</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3129</identifier>
+<identifier>bmxjjz</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.mushi-pro.co.jp/2010/08/北極のムーシカ・ミーシカ/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>146781</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4429</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m089</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="4278" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-15">
+<name>stand-alone movie</name>
+<description>You can watch this movie without having to watch something else first. This tag should not used for sequels, side stories, or summary movies, but may be used if the movie is either the first anime in a franchise or a remake.
+The movie must be feature-length. For shorts, use the `short movie` tag. In general, a "show-in-show" would not qualify as standalone. For example, an anime has a cartoon show within it. If the show within was released as an OVA or movie, it would not be considered standalone.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="99329" update="2011-11-02">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1979-07-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

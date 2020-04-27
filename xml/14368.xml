@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14368" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1974-10-15</startdate>
+<enddate>1974-10-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chiisana Itsutsu no Ohanashi</title>
+<title xml:lang="ja" type="official">小さな五つのお話</title>
+</titles>
+<creators>
+<name id="11206" type="Original Work">Okamoto Tadanari</name>
+<name id="11206" type="Direction">Okamoto Tadanari</name>
+<name id="5094" type="Music">Kuni Kawachi</name>
+</creators>
+<description>A short animation film, composed from five stories made by using different animation techniques, directed by http://anidb.net/cr11206 [Okamoto Tadanari].
+1. Oshiire (おしいれ);
+2. Doronko (どろんこ);
+3. Mokei Hikouki (もけいひこうき);
+4. Noraneko (のらねこ);
+5. Kakurenbo (かくれんぼ).</description>
+<ratings>
+<permanent count="9">2.90</permanent>
+<temporary count="9">3.88</temporary>
+</ratings>
+<picture>223064.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29792</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>12833</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205923" update="2018-09-01">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1974-10-15</airdate>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

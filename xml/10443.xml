@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10443" restricted="false">
+<type>TV Series</type>
+<episodecount>51</episodecount>
+<startdate>2014-04-07</startdate>
+<enddate>2015-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dragon Collection</title>
+<title xml:lang="ja" type="official">ドラゴンコレクション</title>
+<title xml:lang="zh-Hans" type="official">龙收藏</title>
+</titles>
+<similaranime>
+<anime id="10444" approval="4" total="4">Oreca Battle</anime>
+</similaranime>
+<url>http://www.dracolle-anime.com/</url>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="19251" type="Character Design">Yoshihara Tatsuya</name>
+<name id="1411" type="Series Composition">Sogo Masashi</name>
+<name id="22772" type="Series Composition">Kasahara Kuniaki</name>
+<name id="6090" type="Direction">Kawaguchi Keiichirou</name>
+</creators>
+<description>Through an unexpected turn of events, an ordinary elementary school student, http://anidb.net/ch65720 [Enryuu Hiro], finds himself in the world of the Dragon Collection game. This is a world called Dragon Earth, where gods, humans, and monsters exist side by side. Those who roam this world using a magic book, called a Grimoire, and cards to summon monsters and search for treasures that bear the powers of dragons are called Dracolle Battlers. Despite his bewilderment, Hiro becomes a Dracolle Battler and, together with the friends he meets there, begins his adventure to become a legendary Dragon Master!
+Source: Crunchyroll</description>
+<ratings>
+<permanent count="68">2.64</permanent>
+<temporary count="70">4.75</temporary>
+</ratings>
+<picture>150289.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15914</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22733</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.dracolle-anime.com/</url>
+</externalentity>
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/oreca_dracolle/dracolle/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Dragon_Collection</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ドラゴンコレクション</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3350</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348556</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17064</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2863" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>proxy battles</name>
+<description>In our terms, a proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode. Often the training aspect is also involved, or in some cases the proxies are nothing more than holographic representatives of some other variation of competition (like for example a card game). While many popular shounen anime fit under this category, it`s not limited to shounen anime.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6494" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>half-length episodes</name>
+<description>Half-length episodes are regular episodes that are somewhat shorter than the standard length. This includes episodes that are 11 to 20 minutes in length; shows with episodes up to and including 10 minutes are http://anidb.net/t5852 [short episodes] instead.</description>
+</tag>
+</tags>
+<characters>
+<character id="65718" type="main character in" update="2014-03-31">
+<name>Shin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152584.jpg</picture>
+<seiyuu id="2980" picture="147242.jpg">Kanada Aki</seiyuu>
+</character>
+<character id="65719" type="main character in" update="2014-03-31">
+<name>Puppy</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152586.jpg</picture>
+<seiyuu id="304" picture="17139.jpg">Fukuen Misato</seiyuu>
+</character>
+<character id="65720" type="main character in" update="2014-03-31">
+<name>Enryuu Hiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152583.jpg</picture>
+<seiyuu id="39727" picture="246588.jpg">Sakurai Haruna</seiyuu>
+</character>
+<character id="65721" type="main character in" update="2014-03-17">
+<name>Yuna</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="9036" picture="215515.jpg">Morohoshi Sumire</seiyuu>
+</character>
+<character id="65722" type="main character in" update="2014-03-31">
+<name>Rei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152585.jpg</picture>
+<seiyuu id="4032" picture="77662.jpg">Okamoto Hiroshi</seiyuu>
+</character>
+<character id="96759" type="appears in" update="2018-07-17">
+<name>Claire</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220513.jpg</picture>
+<seiyuu id="32588" picture="87531.jpg">Koiwai Kotori</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="159064" update="2016-11-21">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2014-04-28</airdate>
+<title xml:lang="ja">マイセン城のタコ退治!</title>
+<title xml:lang="en">Octopus Extermination at Mysen Castle!</title>
+<title xml:lang="x-jat">Mysen-jou no Tako Taiji!</title>
+<summary>Hiro and Shin safely arrive at Mysen Castle{town?}, and end their escort of the peddlers. While sightseeing around the castle, they meet a girl named Yuna who is being chased by soldiers for stealing a treasure. Moved by her story of stealing the treasure to help her sick parents, Hiro and Shin volunteer to exterminate the Kraken, who possesses the same treasure and haunts the castle floodgates.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653069</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="159065" update="2016-11-21">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2014-04-21</airdate>
+<title xml:lang="ja">また1人ヘンなのが来た!</title>
+<title xml:lang="en">Yet Another Weirdo Has Arrived!</title>
+<title xml:lang="x-jat">Mata Hitori Hen na no ga Kita!</title>
+<summary>Hiro and Shin splendidly defeat the Nidhogg and receive a warm reception from the village. Next they are asked to escort a group of peddlers from Mino Village to Mysen Town. On the way, Meat-Mania comes attacking.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653067</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="159066" update="2016-11-21">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2014-04-14</airdate>
+<title xml:lang="ja">ヘンなのが来た!</title>
+<title xml:lang="en">A Weirdo Has Arrived!</title>
+<title xml:lang="x-jat">Hen na no ga Kita!</title>
+<summary>After Hiro barely beats Meat-Mania in battle, a DraColle Battler named Shin appears before him. The two kindred spirits decide to journey together! While visiting Mino Village, Hiro and Shin inadvertently eat at a restaurant when they don’t have money.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>652349</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="159067" update="2016-11-21">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2014-04-07</airdate>
+<title xml:lang="ja">なにこれ!? ドラコレ!</title>
+<title xml:lang="en">What`s Going On!? DraColle!</title>
+<title xml:lang="x-jat">Nani Kore!? Dorakore!</title>
+<summary>When our protagonist, Hiro, is about to play his first game of DraColle, he is suddenly sucked into the game machine, and wakes up in the game world of Dragon Earth! After a course of events, Hiro rescues a monster called a Drake Puppy, and ends up fighting with the thief Meat-Mania.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>652347</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="159567" update="2016-11-21">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2014-05-05</airdate>
+<title xml:lang="ja">合成? なにそれ!?</title>
+<title xml:lang="en">Combination? What`s That!?</title>
+<title xml:lang="x-jat">Gousei? Nani Sore!?</title>
+<summary>Shin and Hanicchi help Rei turn around his battle against the Kraken with a little combining! Afterwards, Rei joins Shin and Hiro on their journey, but before they can celebrate with a good meal, a Monster Griffin attacks!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653071</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="159620" update="2016-11-21">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2014-05-26</airdate>
+<title xml:lang="ja">走れ! ヒロ&amp;レイ!</title>
+<title xml:lang="en">Run! Hiro and Rei!</title>
+<title xml:lang="x-jat">Hashire! Hiro &amp; Rei!</title>
+<summary>After Rubica leaves our heroes tied up and hanging (again), a villager saves them from an approaching monster. However, this rescue comes at a price: he wants them to exterminate a monster that`s blocking the villagers from their food supply, and keeps the ill Shin behind as collateral. Hurry, guys!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653077</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="159621" update="2016-11-21">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2014-05-19</airdate>
+<title xml:lang="ja">ナニダス? モンスダス!</title>
+<title xml:lang="en">What`s That? A Monster Dispenser!</title>
+<title xml:lang="x-jat">Nani Dasu? MonsDis!</title>
+<summary>Now that Hiro can finally Fire Drake, their feud with Meatmania heads for an explosive end! After getting new cards from the castle`s Monster Dispenser, the three learn that there`s more to the Green Pepper Gang than just Meatmania - and appearances can be deceiving...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653075</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="159622" update="2016-11-21">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2014-05-12</airdate>
+<title xml:lang="ja">あくまでしつこいシシトウ団!</title>
+<title xml:lang="en">The Endlessly Pesky Green Pepper Gang!</title>
+<title xml:lang="x-jat">Akuma de Shitsukoi Shishi Tou Dan!</title>
+<summary>As our heroes are tied up with vultures circling, Yuna comes to the rescue - though in rather unorthodox fashion. Before long they get another chance to fight Meatmania! Can Hiro summon a Fire Drake this time and truly join in the battle?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653073</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="160212" update="2016-11-21">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2014-06-02</airdate>
+<title xml:lang="ja">遭難者がいるそうなんです!</title>
+<title xml:lang="en">Looks Like a Traveler in Trouble!</title>
+<title xml:lang="x-jat">Sounansha ga Irusou Nandesu!</title>
+<summary>An encounter with a lone stranger in the desert leads to new adventures for our heroes, including another showdown with Rubica and the Green Pepper Gang!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653079</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="160263" update="2016-11-21">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2014-06-23</airdate>
+<title xml:lang="ja">船長は臭かった!?</title>
+<title xml:lang="en">The Captain Stinks?!</title>
+<title xml:lang="x-jat">Senchou wa Kusakatta!?</title>
+<summary>After Captain Karubora is arrested, our heroes are rewarded with his ship. They need a captain to help them sail it, but nobody wants to go to Raniaza Island! Juliet suggests an old friend, but will he accept the job despite a sailing trauma in his past?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653085</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="160264" update="2016-11-21">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2014-06-16</airdate>
+<title xml:lang="ja">若様とイカサマ!?</title>
+<title xml:lang="en">The Young Master and the Slick Trickster?!</title>
+<title xml:lang="x-jat">Wakasama to Ika-sama!?</title>
+<summary>Our heroes arrive in the port town of Calonima, ready to set sail for adventure! Unfortunately, there`s a giant sea monster keeping all ships away from the port! Well, except for Captain Karubora`s ship - seems a little fishy...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653083</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="160265" update="2016-11-21">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2014-06-09</airdate>
+<title xml:lang="ja">シシトウ団をぶっつぶせ!</title>
+<title xml:lang="en">Smash the Green Pepper Gang!</title>
+<title xml:lang="x-jat">Shishi Tou Dan o Buttsubuse!</title>
+<summary>After Hiro narrowly escapes death by cliff-fall, our heroes infiltrate the Green Pepper Gang`s stronghold! It all comes down to a three vs. one battle against the big boss Mara, but his single card won`t be easy to beat...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>653081</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="160664" update="2016-11-21">
+<epno type="1">13</epno>
+<length>15</length>
+<airdate>2014-06-30</airdate>
+<title xml:lang="ja">魔のビミョーダ・トライアングル!</title>
+<title xml:lang="en">The Evil Bizarreda Triangle!</title>
+<title xml:lang="x-jat">Ma no Bimyouda Triangle!</title>
+<summary>Hiro and friends have set sail for Raniaza Island with Captain Schiff (and Yuna)! But the dreaded Bizarreda Triangle is on the way, and it won`t be that easy to avoid...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656041</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="160889" update="2016-11-21">
+<epno type="1">14</epno>
+<length>15</length>
+<airdate>2014-07-07</airdate>
+<title xml:lang="ja">海賊王ドック・ロー!</title>
+<title xml:lang="en">Pirate King Doc Rowe!</title>
+<title xml:lang="x-jat">Kaizoku-ou Doc Rowe!</title>
+<summary>Hiro and friends board the ghost ship, only to find it crewed by pirate skeletons who continue to seek treasure even after death!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656043</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="161122" update="2016-11-21">
+<epno type="1">15</epno>
+<length>15</length>
+<airdate>2014-07-14</airdate>
+<title xml:lang="ja">キャプテンユートの野望!</title>
+<title xml:lang="en">Captain Yut`s Ambition!</title>
+<title xml:lang="x-jat">Captain no Yabou!</title>
+<summary>Our heroes finally arrive at Raniaza Island, only to find more trouble than treasure!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656045</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="161293" update="2016-11-21">
+<epno type="1">16</epno>
+<length>15</length>
+<airdate>2014-07-21</airdate>
+<title xml:lang="ja">俺vsオレ!?</title>
+<title xml:lang="en">Me Versus Me!?</title>
+<title xml:lang="x-jat">Ore vs Ore!?</title>
+<summary>After helping the islanders, Hiro and friends are permitted to enter the cave of many treasures! But, they`re going to need help from some familiar faces in order to find them...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656047</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="161455" update="2016-11-21">
+<epno type="1">17</epno>
+<length>15</length>
+<airdate>2014-07-28</airdate>
+<title xml:lang="ja">ぞくぞく海賊!?</title>
+<title xml:lang="en">Shiver Me Timbers! Pirates?!</title>
+<title xml:lang="x-jat">Zokuzoku Kaizoku!?</title>
+<summary>Our heroes leave the treasure cave, only to find something earth-shattering! Later, The Lanche approaches the nearest port town, but they discover that it has been taken over by Pirate Captain Yut. They agree to rescue the mayor and save the townspeople; Yuna offers to help out too, but she may have ulterior motives...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656049</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="161621" update="2016-11-21">
+<epno type="1">18</epno>
+<length>15</length>
+<airdate>2014-08-04</airdate>
+<title xml:lang="ja">合体ありえないんですけどぉ~!</title>
+<title xml:lang="en">Fusion? I Don`t Believe It!</title>
+<title xml:lang="x-jat">Gattai Arienaindesukedo!!</title>
+<summary>Our heroes have a tough battle to save Biliora`s mayor and the captured Yuna! However, Shin`s monster isn`t quite up to it. Hanicchi introduces fusion-combining, which makes a monster new as well as improved!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656051</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="161745" update="2016-11-21">
+<epno type="1">19</epno>
+<length>15</length>
+<airdate>2014-08-11</airdate>
+<title xml:lang="ja">コ・ウタ・マーラの大逆襲!</title>
+<title xml:lang="en">Co Uta Mara Strikes Back Big-Time!</title>
+<title xml:lang="x-jat">Co Uta Mara no Daigyakushuu!</title>
+<summary>With Port Biliora freed, it`s time for our three heroes to begin their overland journey to Dragonia. But as they bid farewell to Captain Schiff and The Lanche, Captain Yut suddenly shows up with Co Uta Mara and a terrifying superweapon!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656053</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="161981" update="2016-11-21">
+<epno type="1">20</epno>
+<length>15</length>
+<airdate>2014-08-18</airdate>
+<title xml:lang="ja">さらば, ランシェ号!</title>
+<title xml:lang="en">Farewell, Lanche</title>
+<title xml:lang="x-jat">Saraba, Lanche Gou!</title>
+<summary>After a successful test fire, Captain Yut feeds the Arcannon to make it powerful enough to destroy Port Biliora! Can our heroes on the Lanche stop him before it`s too late?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656055</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="162143" update="2016-11-21">
+<epno type="1">21</epno>
+<length>15</length>
+<airdate>2014-08-25</airdate>
+<title xml:lang="ja">おおっと, 王都に着いちゃった!</title>
+<title xml:lang="en">Uh-Oh, We`re in Ohto!</title>
+<title xml:lang="x-jat">Ootto, Outo ni Tsuichatta!</title>
+<summary>With just one day`s walk left to get to Ohto, Hiro and friends run into a couple of strange characters, and learn about the Dragonia Battler Tournament soon to take place.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656057</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="162388" update="2016-11-21">
+<epno type="1">22</epno>
+<length>15</length>
+<airdate>2014-09-01</airdate>
+<title xml:lang="ja">闇のグリモア!</title>
+<title xml:lang="en">The Darkness Grimoire!</title>
+<title xml:lang="x-jat">Yami no Grimoire!</title>
+<summary>A hostile being challenges Hiro and friends, revealing the existence of a mysterious dark grimoire...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656059</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="162487" update="2016-11-21">
+<epno type="1">23</epno>
+<length>15</length>
+<airdate>2014-09-08</airdate>
+<title xml:lang="ja">ドラゴニアバトルトーナメント!</title>
+<title xml:lang="en">Dragonia Battle Tournament!</title>
+<title xml:lang="x-jat">Dragonia Battle Tournament!</title>
+<summary>Upon entering the Dragonia Battle Tournament, Hiro and friends face familiar enemies - and a most unexpected challenge!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656061</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="162577" update="2016-11-21">
+<epno type="1">24</epno>
+<length>15</length>
+<airdate>2014-09-15</airdate>
+<title xml:lang="ja">さらば, レイ!</title>
+<title xml:lang="en">Farewell, Rei!</title>
+<title xml:lang="x-jat">Saraba, Rei!</title>
+<summary>Hiro and Shin advance to Round Two of the tournament for some real DraColle Battles! How will Hiro fare against the certain winner, Chiffon? And how will Rei`s wounded pride cope with missing the first quiz question?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656063</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="162644" update="2016-11-21">
+<epno type="1">25</epno>
+<length>15</length>
+<airdate>2014-09-22</airdate>
+<title xml:lang="ja">パピー? パピパピ!</title>
+<title xml:lang="en">Papi? Papi Papi!</title>
+<title xml:lang="x-jat">Papi? Papipapi!</title>
+<summary>We see the end of Shin`s battle against Rubica, and the start of Dragonia Battle Tournament Round 3! Meanwhile, there are some suspicious goings-on in the castle...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656065</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="162775" update="2016-11-21">
+<epno type="1">26</epno>
+<length>15</length>
+<airdate>2014-09-29</airdate>
+<title xml:lang="ja">ウソ!? シンが進化!?</title>
+<title xml:lang="en">No Way?! Shin Evolves?!</title>
+<title xml:lang="x-jat">Uso!? Shin ga Shinka!?</title>
+<summary>During his tough battle with Gelmen, Shin discovers a hidden strength! Meanwhile, Hiro`s up against the powerful and mysterious Masked Battler! Who is that guy, anyway?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>656067</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="162963" update="2016-11-21">
+<epno type="1">27</epno>
+<length>15</length>
+<airdate>2014-10-06</airdate>
+<title xml:lang="ja">燃えろ! ミートマニア!</title>
+<title xml:lang="en">Burn Up! Meatmania!</title>
+<title xml:lang="x-jat">Moero! Meatmania!</title>
+<summary>First, reformed vegetarian Meatmania fights creepy Marmott! Then, during the leadup to Hiro and Shin`s semifinal battle, Yuna uncovers a sinister conspiracy...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662447</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="163122" update="2016-11-21">
+<epno type="1">28</epno>
+<length>15</length>
+<airdate>2014-10-13</airdate>
+<title xml:lang="ja">ウソ!? ヒロも進化!?</title>
+<title xml:lang="en">No Way! Hiro Evolves, Too?!</title>
+<title xml:lang="x-jat">Uso!? Hiro mo Shinka!?</title>
+<summary>It`s time for friends Hiro and Shin to battle in the semifinals! But, how can Hiro`s Blaze Fighter stand a chance against Shin`s newly-evolved Forest Warrior?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662449</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="163403" update="2016-11-21">
+<epno type="1">29</epno>
+<length>15</length>
+<airdate>2014-10-20</airdate>
+<title xml:lang="ja">激闘! 炎の決勝バトル!</title>
+<title xml:lang="en">Fierce Fight! The Flame-Filled Final Round!</title>
+<title xml:lang="x-jat">Gekitou! En no Kesshou Battle!</title>
+<summary>For the final round of the tournament, Hiro faces a ferocious battle against the cruel Marmott! Meanwhile, the others trace the mysterious jar to an unexpected location.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662451</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="163635" update="2016-11-21">
+<epno type="1">30</epno>
+<length>15</length>
+<airdate>2014-10-27</airdate>
+<title xml:lang="ja">ヤバコレ! 邪神復活!?</title>
+<title xml:lang="en">This Is Bad! Rebirth of the Evil God?!</title>
+<title xml:lang="x-jat">Yabakore! Jashin Fukkatsu!?</title>
+<summary>Hiro is exhausted and down to one monster against Marmott`s three! Meanwhile, Arcally is about to summon something terrifying in the Jimanpa forest! Will this episode bring us triumph, or tragedy?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662453</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="163803" update="2016-11-21">
+<epno type="1">31</epno>
+<length>15</length>
+<airdate>2014-11-03</airdate>
+<title xml:lang="ja">3つの祭壇? 謎のメッセージ!</title>
+<title xml:lang="en">Three Altars? A Puzzling Message!</title>
+<title xml:lang="x-jat">Mittsu no Saidan? Nazo no Message!</title>
+<summary>After leaving the Kingdom of Dragonia, the three boys and Yuna discover some mysterious clues that the world is in great peril.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662455</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="163921" update="2016-11-21">
+<epno type="1">32</epno>
+<length>15</length>
+<airdate>2014-11-10</airdate>
+<title xml:lang="ja">ぷんすか! プンスカ! パピ!</title>
+<title xml:lang="en">Peeved! Peeved! Papi!</title>
+<title xml:lang="x-jat">Punsuka! Punsuka! Papi!</title>
+<summary>While crossing an immense field of grass on the way to the three altars, our heroes run into a tough-talking opponent! Papi, completely fed up with how Hiro won`t summon him to battle anymore, sneaks away during the excitement. Can Hiro re-find his first friend, after taking him for granted?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662457</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="164019" update="2016-11-21">
+<epno type="1">33</epno>
+<length>15</length>
+<airdate>2014-11-17</airdate>
+<title xml:lang="ja">キレてます! サイドチェスト!?</title>
+<title xml:lang="en">So Ripped! Side Chest?!</title>
+<title xml:lang="x-jat">Kiretemasu! Side Chest!?</title>
+<summary>The gang follow Papi`s tracks across the desert, but they lead to Aebima and his well-defined musculature instead!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662459</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="164184" update="2016-11-21">
+<epno type="1">34</epno>
+<length>15</length>
+<airdate>2014-11-24</airdate>
+<title xml:lang="ja">ビックリ! これが鍵!?</title>
+<title xml:lang="en">Shock! This Is the Key?!</title>
+<title xml:lang="x-jat">Bikkuri! Kore ga Kagi!?</title>
+<summary>Yuna uses her vast treasure-hunting experience to lead the party safely past numerous traps inside the pyramid. Deep within, they discover... an altar, maybe? But how will they ever find its key?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662463</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="164189" update="2016-11-21">
+<epno type="1">38</epno>
+<length>15</length>
+<airdate>2014-12-22</airdate>
+<title xml:lang="ja">海底神殿で大バトル!</title>
+<title xml:lang="en">Big Battle at the Undersea Temple!</title>
+<title xml:lang="x-jat">Kaitei Shinden de Dai Battle!</title>
+<summary>Our heroes manage to enter the Undersea Temple, but Kageiso isn`t going to let them reach the Water Altar without a fight...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662471</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="164190" update="2016-11-21">
+<epno type="1">37</epno>
+<length>15</length>
+<airdate>2014-12-15</airdate>
+<title xml:lang="ja">なぜ吾輩だけピンと来ないのだ!?</title>
+<title xml:lang="en">Why Don`t I Get a Hunch?!</title>
+<title xml:lang="x-jat">Naze Wagahei Dake Pin to Konai no Da!?</title>
+<summary>Rei boldly leads the gang to the Water Altar — even though he has no idea where it is...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662469</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="164191" update="2016-11-21">
+<epno type="1">36</epno>
+<length>15</length>
+<airdate>2014-12-08</airdate>
+<title xml:lang="ja">ウフ♥永遠の17歳!</title>
+<title xml:lang="en">Tee-Hee! I`m Forever Seventeen!</title>
+<title xml:lang="x-jat">Ufu Eien no 17-sai!</title>
+<summary>The gang arrives at a castle hidden in the forest, where Shin says the Forest Altar lies. However, the crafty witch Mansa follows them there, with a cunning plan to nab the altar key. Can our heroes outwit her?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662467</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="164192" update="2016-11-21">
+<epno type="1">35</epno>
+<length>15</length>
+<airdate>2014-12-01</airdate>
+<title xml:lang="ja">おいらの母ちゃん!</title>
+<title xml:lang="en">It`s My Ma!</title>
+<title xml:lang="x-jat">Oira no Kaa-chan!</title>
+<summary>After successfully defeating the ghost that tried to scare them away from the Wangae Forest, the party gets a surprise visitor: Shin`s mother!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662465</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="164817" update="2016-11-21">
+<epno type="1">39</epno>
+<length>15</length>
+<airdate>2015-01-05</airdate>
+<title xml:lang="ja">激白! ユナのヒ・ミ・ツ!</title>
+<title xml:lang="en">Forced Confession! It`s Yuna`s Secret!</title>
+<title xml:lang="x-jat">Gekishiro! Yuna no Himitsu!</title>
+<summary>Yuna finally comes clean on the reason for her obsessive treasure hunting!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662473</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165035" update="2016-11-21">
+<epno type="1">42</epno>
+<length>15</length>
+<airdate>2015-01-26</airdate>
+<title xml:lang="ja">竜の翼は燃えているか!?</title>
+<title xml:lang="en">The Dragon Wing Is Burning?!</title>
+<title xml:lang="x-jat">Ryuu no Tsubasa wa Moete Iruka!?</title>
+<summary>Old friends and former enemies join forces with our heroes to battle Co Uta Mara`s gang on the Dragon Wing coast!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668121</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165036" update="2016-11-21">
+<epno type="1">41</epno>
+<length>15</length>
+<airdate>2015-01-19</airdate>
+<title xml:lang="ja">教えて! ナスターシャ!</title>
+<title xml:lang="en">Tell Us, Nastasya!</title>
+<title xml:lang="x-jat">Oshiete! Nastasya!</title>
+<summary>Dastardly pirate Captain Yut has approached The Lanche! He can`t be up to anything good, can he?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668119</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165037" update="2016-11-21">
+<epno type="1">40</epno>
+<length>15</length>
+<airdate>2015-01-12</airdate>
+<title xml:lang="ja">ドコソレ? タルタロスの門!</title>
+<title xml:lang="en">Where`s That? The Tartarus Gate!</title>
+<title xml:lang="x-jat">Dokosore? Tartarus no Mon!</title>
+<summary>As our heroes try to determine where the Papis have been taken, Arcally`s group advances their evil scheme.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>662475</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165326" update="2016-11-21">
+<epno type="1">44</epno>
+<length>15</length>
+<airdate>2015-02-09</airdate>
+<title xml:lang="ja">マジ!? レイも進化!?</title>
+<title xml:lang="en">Really?! Rei Evolves, Too?!</title>
+<title xml:lang="x-jat">Maji!? Rei mo Shinka!?</title>
+<summary>Hiro and friends have left the forest, only to be ambushed by the Arrabbiata Gang! Can they withstand the monster-obliterating power of Jean`s Guts Bomber?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668125</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165327" update="2016-11-21">
+<epno type="1">43</epno>
+<length>15</length>
+<airdate>2015-02-02</airdate>
+<title xml:lang="ja">発進! ダークスカル号!</title>
+<title xml:lang="en">Set Sail! Darkskull!</title>
+<title xml:lang="x-jat">Hasshin! Darkskull Gou!</title>
+<summary>After leaving the fight at the seashore, Hiro`s group must pass through a dense forest to reach the Tartarus Gate! Meanwhile, Captain Yut has a sinking feeling during his own battle...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668123</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165508" update="2016-11-21">
+<epno type="1">46</epno>
+<length>15</length>
+<airdate>2015-02-23</airdate>
+<title xml:lang="ja">邪神! 降臨!!</title>
+<title xml:lang="en">The Evil God Descends!!</title>
+<title xml:lang="x-jat">Jashin! Kourin!!</title>
+<summary>The Tartarus Gate has begun to open, releasing the Evil God! What`s going to happen to Dragon Earth?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668129</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165509" update="2016-11-21">
+<epno type="1">45</epno>
+<length>15</length>
+<airdate>2015-02-16</airdate>
+<title xml:lang="ja">脅威! 9体のドラゴン!!</title>
+<title xml:lang="en">Danger! Nine Dragons!</title>
+<title xml:lang="x-jat">Kyooi! 9 Tai no Dragon!!</title>
+<summary>Out to rescue Papi and stop Arcally`s ritual, Hiro and friends have nearly reached the summit of Mt. Happou! But that pesky Marmott`s in their way, demanding another showdown!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668127</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166494" update="2016-11-21">
+<epno type="1">50</epno>
+<length>15</length>
+<airdate>2015-03-23</airdate>
+<title xml:lang="ja">ドラゴンマスター!</title>
+<title xml:lang="en">Dragon Master!</title>
+<title xml:lang="x-jat">Dragon Master!</title>
+<summary>In order for the Chaos God Drake to defeat the Evil God, the world needs a Dragon Master! Will Hiro be up to the task?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668137</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166495" update="2016-11-21">
+<epno type="1">49</epno>
+<length>15</length>
+<airdate>2015-03-16</airdate>
+<title xml:lang="ja">光臨! カオスゴッド・ドレイク!</title>
+<title xml:lang="en">Advent of the Chaos God Drake!</title>
+<title xml:lang="x-jat">Kourin! Chaos God Drake!</title>
+<summary>Rei reveals his first-class idea. Will it be enough to revive the Chaos God Drake and defeat the Evil God?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668135</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166496" update="2016-11-21">
+<epno type="1">48</epno>
+<length>15</length>
+<airdate>2015-03-09</airdate>
+<title xml:lang="ja">邪悪! 最凶ドラゴン!</title>
+<title xml:lang="en">Evil! The Wickedest Dragon!</title>
+<title xml:lang="x-jat">Jaaku! Saikyou Dragon!</title>
+<summary>The Platinum Drake and Drake Lucifer clash atop Mt. Happou, as the Evil God looks on. Is there anything our heroes can do to improve the situation?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668133</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166497" update="2016-11-21">
+<epno type="1">47</epno>
+<length>15</length>
+<airdate>2015-03-02</airdate>
+<title xml:lang="ja">ガクブル! 壮絶バトル!</title>
+<title xml:lang="en">Shudder! The Epic Battle!</title>
+<title xml:lang="x-jat">Gakuburu! Souzetsu Battle!</title>
+<summary>The Evil God has appeared! Co Uta Mara has summoned nine monsters to defeat and make our heroes` monsters sacrifices to the Evil God! How can Hiro and friends withstand such overwhelming power?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668131</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="167230" update="2016-11-21">
+<epno type="1">51</epno>
+<length>15</length>
+<airdate>2015-03-30</airdate>
+<title xml:lang="ja">ガッツだぜ! ミートマニア!</title>
+<title xml:lang="en">Time for Guts! Meatmania!</title>
+<title xml:lang="x-jat">Guts Daze! Meatmania!</title>
+<summary>So long as DraColle exists, I, Naviko, will practice the way of commentary!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668139</identifier>
+<identifier>dragon-collection</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

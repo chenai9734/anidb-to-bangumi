@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12869" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1932</startdate>
+<enddate>1932</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga no Rekkoku Rikugun</title>
+<title xml:lang="en" type="synonym">Armies of the World</title>
+<title xml:lang="ja" type="official">漫画の列国陸軍</title>
+</titles>
+<ratings>
+<permanent count="17">2.96</permanent>
+<temporary count="17">3.76</temporary>
+</ratings>
+<picture>198723.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35398</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184945" update="2017-02-22">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

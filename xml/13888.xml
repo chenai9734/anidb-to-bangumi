@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13888" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1965-02</startdate>
+<enddate>1965-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tanoshii ne</title>
+<title xml:lang="ja" type="official">たのしいね</title>
+</titles>
+<url>https://www.nhk.or.jp/minna/songs/MIN196502_04/</url>
+<description>Three girls have fun playing hand-clapping games.
+Source: MAL</description>
+<ratings>
+<permanent count="4">1.62</permanent>
+<temporary count="4">2.00</temporary>
+</ratings>
+<picture>214416.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>36356</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.nhk.or.jp/minna/songs/MIN196502_04/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="196999" update="2018-03-12">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3209" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1994-11</startdate>
+<enddate>1994-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ninkuu: Knife no Bohyou</title>
+<title xml:lang="ja" type="synonym">忍空 ナイフの墓標</title>
+<title xml:lang="ja" type="official">NINKŪ ナイフの墓標</title>
+</titles>
+<relatedanime>
+<anime id="712" type="Other">Ninkuu</anime>
+</relatedanime>
+<creators>
+<name id="4326" type="Music">Honma Yuusuke</name>
+<name id="724" type="Work">Studio Pierrot</name>
+<name id="3051" type="Animation Character Design">Nishio Tetsuya</name>
+<name id="7075" type="Direction">Abe Noriyuki</name>
+<name id="733" type="Work">Yomiko Advertising</name>
+<name id="18672" type="Animation Character Design">Kitayama Mari</name>
+<name id="9245" type="Original Work">Kiriyama Kouji</name>
+</creators>
+<description>Four years have passed since the end of war between the Ninku and the Imperial Army. The remaining Ninku, Fuusuke, Touji, and Aichou, head to Amahara Village to deliver a knife to a girl named Makoto, who is the sister of their fallen comrade Eiji, as a memento. Once they arrive, the town is seemingly abandoned, and the remaining residents are hiding in fear. Eventually, they enter a restaurant and find Makoto (dressed as a boy) and her friend Taikichi. The two explain to the Ninku that the village has been overtaken by the Rasenryu pirates, who have been wreaking havoc, pillaging, and abducting the locals as prisoners. It`s up to the Ninku to fight off the Rasenryu in order to restore peace back to Amahara Village.</description>
+<ratings>
+<permanent count="36">3.67</permanent>
+<temporary count="36">5.12</temporary>
+</ratings>
+<picture>36101.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17384</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>16345</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3232</identifier>
+<identifier>ldoobv</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Ninku</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>NINKU_-忍空-_ナイフの墓標</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88278</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1682</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="53690" update="2014-02-05">
+<epno type="1">1</epno>
+<length>45</length>
+<title xml:lang="en">OVA</title>
+</episode>
+<episode id="172941" update="2015-10-28">
+<epno type="2">S1</epno>
+<length>8</length>
+<title xml:lang="en">Super Secret Video: You Can Draw Fuusuke, Too.</title>
+</episode>
+</episodes>
+</anime>

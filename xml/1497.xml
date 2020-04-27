@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1497" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1966-07-31</startdate>
+<enddate>1966-07-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jungle Taitei (1966)</title>
+<title xml:lang="en" type="synonym">Jungle Emperor (1966)</title>
+<title xml:lang="ja" type="official">ジャングル大帝 (1966)</title>
+</titles>
+<relatedanime>
+<anime id="6652" type="Alternative Setting">Jungle Taitei: Yuuki ga Mirai o Kaeru</anime>
+<anime id="6396" type="Character">Bremen Four</anime>
+<anime id="1496" type="Full Story">Jungle Taitei</anime>
+</relatedanime>
+<creators>
+<name id="1195" type="Original Work">Tezuka Osamu</name>
+<name id="3327" type="Direction">Yamamoto Eiichi</name>
+<name id="2078" type="Music">Tomita Isao</name>
+</creators>
+<description>Note: Movie made with cuts from several episodes from the TV series.</description>
+<ratings>
+<permanent count="26">6.00</permanent>
+<temporary count="26">6.26</temporary>
+</ratings>
+<picture>242256.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3303</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20381</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2306</identifier>
+<identifier>jllzyw</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>160829</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>5182</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m015</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2835" parentid="2630" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-06">
+<name>Africa</name>
+<description>The world`s second-largest continent and the birthplace of the human species, Africa is a place of a huge diversity, with deserts and savannas, with famine and precious stones, with cultural and economical riches of all kinds. Throughout history, Africa has been the cradle of empires and has been ruled by foreign powers, and as of the early 21st century sees swift changes and economic boom going side by side with inhuman levels of poverty.</description>
+<picurl>126530.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="25225" type="main character in" update="2014-09-14">
+<rating votes="5">10.00</rating>
+<name>Leo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59600.jpg</picture>
+<seiyuu id="2080" picture="43095.jpg">Tsukayama Masane</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="52311" update="2009-08-26">
+<epno type="1">1</epno>
+<length>75</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

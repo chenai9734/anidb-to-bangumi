@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14826" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2020</startdate>
+<enddate>2020</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Himote House (2020)</title>
+<title xml:lang="ja" type="official">ひもてはうす (2020)</title>
+</titles>
+<relatedanime>
+<anime id="13629" type="Parent Story">Himote House</anime>
+</relatedanime>
+<url>http://himotehouse.com/</url>
+<picture>232667.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://himotehouse.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ひもてはうす</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="98175" type="main character in" update="2018-09-27">
+<rating votes="1">2.38</rating>
+<name>Enishi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224573.jpg</picture>
+<seiyuu id="4616" picture="170439.jpg">Nishi Asuka</seiyuu>
+</character>
+<character id="98176" type="main character in" update="2018-09-27">
+<rating votes="3">6.11</rating>
+<name>Arai Minamo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224572.jpg</picture>
+<seiyuu id="28602" picture="131381.jpg">Uesaka Sumire</seiyuu>
+</character>
+<character id="98177" type="main character in" update="2018-09-27">
+<rating votes="3">7.24</rating>
+<name>Hongou Tae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224566.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="98178" type="main character in" update="2018-09-27">
+<rating votes="3">7.20</rating>
+<name>Himote Kinami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224569.jpg</picture>
+<seiyuu id="20025" picture="132938.jpg">Mimori Suzuko</seiyuu>
+</character>
+<character id="98179" type="main character in" update="2018-09-27">
+<rating votes="3">6.11</rating>
+<name>Himote Kokoro</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224568.jpg</picture>
+<seiyuu id="1511" picture="173601.jpg">Akesaka Satomi</seiyuu>
+</character>
+<character id="98180" type="main character in" update="2018-09-27">
+<rating votes="3">7.24</rating>
+<name>Himote Tokiyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224570.jpg</picture>
+<seiyuu id="1609" picture="19579.jpg">Mizuhara Kaoru</seiyuu>
+</character>
+<character id="101343" type="secondary cast in" update="2019-03-08">
+<name>Nyarin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>231131.jpg</picture>
+<seiyuu id="38349" picture="141219.jpg">Ogino Karin</seiyuu>
+</character>
+</characters>
+</anime>

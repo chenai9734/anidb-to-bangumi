@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12687" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-10-08</startdate>
+<enddate>2016-10-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Complex x Complex</title>
+<title xml:lang="ja" type="official">こんぷれっくすxコンプレックス</title>
+</titles>
+<url>http://www.wakige-anime.com/</url>
+<creators>
+<name id="48175" type="Direction">Fukuda Miyuki</name>
+</creators>
+<picture>196111.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21757</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37146</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.wakige-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359240</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>wakigeanime_cc</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="183066" update="2016-12-24">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2016-10-08</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="200302" update="2018-05-25">
+<epno type="2">S1</epno>
+<length>3</length>
+<title xml:lang="en">MV</title>
+</episode>
+<episode id="200303" update="2018-05-25">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">PV</title>
+</episode>
+</episodes>
+</anime>

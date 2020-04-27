@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12922" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2016-12-23</startdate>
+<titles>
+<title xml:lang="x-kot" type="main">Closers: Side Blacklambs</title>
+<title xml:lang="ko" type="official">클로저스 : SIDE BLACKLAMBS</title>
+</titles>
+<url>http://www.studioanimal.co.kr/closers/</url>
+<creators>
+<name id="44953" type="Animation Work">Studio Animal</name>
+</creators>
+<ratings>
+<permanent count="15">3.30</permanent>
+<temporary count="15">5.46</temporary>
+</ratings>
+<picture>209113.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32152</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.studioanimal.co.kr/closers/</url>
+</externalentity>
+</resource>
+<resource type="19">
+<externalentity>
+<identifier>클로저스#웹_애니메이션</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>CLOSERS#Web动画</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6166" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>South Korean production</name>
+<description>See also: http://anidb.net/t6762 [North Korean production]</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6494" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>half-length episodes</name>
+<description>Half-length episodes are regular episodes that are somewhat shorter than the standard length. This includes episodes that are 11 to 20 minutes in length; shows with episodes up to and including 10 minutes are http://anidb.net/t5852 [short episodes] instead.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="194361" update="2019-09-08">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2016-12-23</airdate>
+<rating votes="1">3.53</rating>
+<title xml:lang="en">Start, Black Sheep Team</title>
+</episode>
+<episode id="196196" update="2020-02-16">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2018-02-02</airdate>
+<title xml:lang="en">More Important</title>
+</episode>
+<episode id="215609" update="2020-02-16">
+<epno type="1">3</epno>
+<length>20</length>
+<airdate>2018-12-21</airdate>
+<title xml:lang="en">Past and Present</title>
+</episode>
+<episode id="215610" update="2020-02-16">
+<epno type="1">4</epno>
+<length>20</length>
+<airdate>2018-12-28</airdate>
+<title xml:lang="en">To Be Together</title>
+</episode>
+<episode id="215611" update="2020-02-16">
+<epno type="1">5</epno>
+<length>20</length>
+<airdate>2019-01-04</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="215612" update="2020-02-16">
+<epno type="1">6</epno>
+<length>20</length>
+<airdate>2019-01-11</airdate>
+<title xml:lang="en">Binding and Understanding</title>
+</episode>
+<episode id="226914" update="2020-02-15">
+<epno type="1">7</epno>
+<length>0</length>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="226915" update="2020-02-15">
+<epno type="1">8</epno>
+<length>0</length>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="226916" update="2020-02-15">
+<epno type="1">9</epno>
+<length>0</length>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="226917" update="2020-02-15">
+<epno type="1">10</epno>
+<length>0</length>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="226918" update="2020-02-15">
+<epno type="1">11</epno>
+<length>0</length>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="226919" update="2020-02-15">
+<epno type="1">12</epno>
+<length>0</length>
+<title xml:lang="en">Episode 12</title>
+</episode>
+</episodes>
+</anime>

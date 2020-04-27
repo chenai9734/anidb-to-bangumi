@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="281" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1986-06-21</startdate>
+<enddate>1986-06-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Project A-ko</title>
+<title xml:lang="pl" type="synonym">Księżniczka z Alfa Sydney</title>
+<title xml:lang="x-jat" type="synonym">Project Aiko</title>
+<title xml:lang="x-jat" type="synonym">Project Ako</title>
+<title xml:lang="x-jat" type="short">projectako</title>
+<title xml:lang="x-jat" type="short">pako</title>
+<title xml:lang="ja" type="official">プロジェクトA子</title>
+<title xml:lang="en" type="official">Project A-Ko</title>
+<title xml:lang="fr" type="official">Project A-ko</title>
+<title xml:lang="es" type="official">Proyecto A-ko</title>
+<title xml:lang="pl" type="official">Projekt A-ko</title>
+<title xml:lang="fi" type="official">Project A-ko</title>
+</titles>
+<relatedanime>
+<anime id="7688" type="Sequel">Project A-Ko 2: Daitokuji Zaibatsu no Inbou</anime>
+<anime id="7685" type="Alternative Setting">A-Ko The Versus</anime>
+<anime id="1640" type="Other">Cream Lemon</anime>
+</relatedanime>
+<similaranime>
+<anime id="1158" approval="7" total="7">Assemble Insert</anime>
+</similaranime>
+<creators>
+<name id="2322" type="Original Work">Nishijima Katsuhiko</name>
+<name id="2322" type="Direction">Nishijima Katsuhiko</name>
+<name id="13574" type="Music">Akasaka Tooru</name>
+<name id="8387" type="Character Design">Moriyama Yuuji</name>
+<name id="7018" type="Music">Richie Zito</name>
+<name id="7017" type="Music">Joey Carbone</name>
+</creators>
+<description>http://anidb.net/ch19892 [Magami Eiko] (A-ko) is a red-haired teenage girl who just happens to be stronger and faster than anyone else alive. However, A-ko considers herself to be perfectly normal, and worries mostly about getting to school on time. Her best friend is http://anidb.net/ch19896 [Kotobuki Shiiko] (C-ko), a bubbly, carefree, optimistic blonde. The two girls transfer to Graviton High School and catch the attention of http://anidb.net/ch19893 [Daitokuji Biko] (B-ko), a brilliant but spoiled-rotten (and possibly psychotic) classmate with a knack for building mecha in no time flat.
+B-ko develops an unexpected crush on the innocent C-ko and is determined to get A-ko out of the picture at any cost. Her determination goes from being merely obsessive to homicidal when she realizes that she and A-ko were rivals back in kindergarten. B-ko creates a series of killer mecha to defeat A-ko before the morning bell rings. All of them are destroyed effortlessly by A-ko. In a final attempt at victory, B-ko makes the fight more personal by donning her infamous Akagiyama-23 battlesuit and challenging A-ko to a duel, devastating the school and much of Graviton City in the process.
+Meanwhile, Earth is being threatened by a massive spaceship piloted by a race of female aliens from the Lepton Kingdom of Alpha-Cygni, who have come to Earth to retrieve their long-lost princess. Oddly enough, the princess turns out to be none other than C-ko; she is kidnapped by an alien operative known as "http://anidb.net/ch19897 [D]" in the middle of A-ko and B-ko`s fight and taken aboard the spaceship.
+A-ko and B-ko agree to put aside their differences long enough to rescue C-ko, and using the flight capabilities of the Akagiyama-23, they storm the ship.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="693">5.06</permanent>
+<temporary count="697">6.57</temporary>
+</ratings>
+<picture>51700.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>61</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>212</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2478</identifier>
+<identifier>epbmrc</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Project_A-ko</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>プロジェクトA子</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149808</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1194</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2043" parentid="2869" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>high school</name>
+<description>A secondary school that usually contains grades 10 through 12 in Japan, or 9 through 12 in America.</description>
+<picurl>210064.jpg</picurl>
+</tag>
+<tag id="2202" parentid="2846" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-12-04">
+<name>fetishes</name>
+<description>Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. </description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2618" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>collateral damage</name>
+<description>The usually action orientated anime does not only show large amounts of combat and weapon use, but also the incidental massive destruction of property, often due to the inability of the protagonists to aim properly.
+Example: Mecha duking it out in a densely populated urban area.</description>
+</tag>
+<tag id="2623" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="2626" parentid="2612" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2639" parentid="2846" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space travel</name>
+<description>Space Travel usually refers going to space or travelling there with or without a spacecraft. There are different forms of space travel like Interplanetary travel, Interstellar travel or Intergalactic travel. Since it isn`t possible to travel faster than light, most anime series involve some sort "sub-space travel mechanism" as a way to travel faster than light.</description>
+<picurl>242375.jpg</picurl>
+</tag>
+<tag id="2644" parentid="2274" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-14">
+<name>transforming craft</name>
+<description>A transforming craft is an object built by humans or other intelligent lifeforms, usually a robot but sometimes also a vehicle of some sort, that can rearrange its parts in order to switch between a minimum of two forms.</description>
+<picurl>224142.jpg</picurl>
+</tag>
+<tag id="2651" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-01-15">
+<name>absurdist humour</name>
+<description>Surreal humour, also known as absurdist humour, is a form of humour predicated on deliberate violations of causal reasoning, producing events and behaviours that are obviously illogical. Constructions of surreal humour tend to involve bizarre juxtapositions, non-sequiturs, irrational or absurd situations, and expressions of nonsense.
+The humour arises from a subversion of audience`s expectations, so that amusement is founded on unpredictability, separate from a logical analysis of the situation. Its appeal stems from the fact that the situation described is exceedingly ridiculous or unlikely.
+On an analytical level, all jokes contain a certain amount of incongruity, but while regular jokes carry an incongruity that the audience accepts as compatible with expectations, absurd jokes are characterized by a disproportionate amount of it, with the punch line delivering a situation incompatible with the world as we know it and failing to resolve the matter in the audience`s eyes.
+Source: Wikipedia</description>
+</tag>
+<tag id="2653" parentid="2853" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2655" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2661" parentid="2627" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>shipboard</name>
+<description>Beam me up, Scotty! Space stations (think Death Star) also count. Basically, this category is to tell if the setting takes place onboard a spaceship in space. This category is not applicable if the spaceship lies on a planet and never actually gets into space.</description>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2741" parentid="2891" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2015-12-14">
+<name>large breasts</name>
+<description>Large breasts are breasts a fair notch larger than average, as found in some adolescent girls or fully grown women; however, as anime has no upper limit to breast size, the definition applies somewhat differently. To be considered large, breasts in anime must be bigger than real-life natural ones or natural-seeming fake ones, to the point they`d appear weirdly or even abnormally large in real-life females. On the high end of the spectrum, breasts that are as big as the character`s head or possibly a bit bigger are still considered large; however, breasts that take at least as much space as the rest of the chest or the abdomen, or that are almost as big but have an absurdly unnatural shape, are the less common http://anidb.net/t1774 [gigantic breasts] instead.</description>
+<picurl>161014.jpg</picurl>
+</tag>
+<tag id="2749" parentid="2604" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2782" parentid="2858" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-03">
+<name>shoujo ai</name>
+<description>Shoujo Ai means girls love, and thus explores what happens when two girls (or women) fall in love. This is not to be mistaken for http://anidb.net/t2695 [Yuri] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphic sex.
+The male version is http://anidb.net/t2783 [Shounen Ai].
+http://anidb.net/t7146 [Cute girls doing cute things (CGDCT)] is often mistaken as low level Yuri or Shoujo Ai. If there is no Yuri or Shoujo Ai subtext, i.e. if there is no romantic subtext, only tag CGDCT. Please note: CGDCT and yuri/shoujo ai are not mutually exclusive; it is possible to have an anime tagged both.</description>
+<picurl>210060.jpg</picurl>
+</tag>
+<tag id="2791" parentid="6230" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2011-12-25">
+<name>stereotypes</name>
+<description>This show presents stereotypes, which are generalizations about a group of people. Examples would be saying that people from a certain country or with a certain hair color are stupid. If the show deals with comedy, the stereotypes are likely to be played on for laughs; if the show is a parody, the stereotypes will be exaggerated to have their flaws exposed and may be used as a form of social commentary.</description>
+</tag>
+<tag id="2817" parentid="2856" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>skimpy clothing</name>
+<description>When a job needs to get done you need the appropriate clothing on the appropriate persons. That calls for preferably scantily clad young ladies. Spies will dress in sexy outfits, even when the mission explicitly calls for them to not to be noticed. Female warriors will charge into battle wearing armour that does not protect the vital organs. Bridge officers on a military starship will be issued go-go boots with their uniforms. Examples are the women in VanDread, AIKa or the most famous incarnation of that tag, the Strike Witches and their precursor the Sky Girls.</description>
+</tag>
+<tag id="2826" parentid="2856" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-27">
+<name>pantsu</name>
+<description>"Panties" in Japanese. Upskirt views in various positions are typical, however all forms of partial or fully exposed panties are accepted. Exposure is usually accidental, but may also be deliberate. Pantsu views may be exclusive to the viewer without impacting any characters. Bikinis are not pantsu.</description>
+<picurl>5721.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2856" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-05">
+<name>ecchi</name>
+<description>Fan service is found in many anime, in many forms. When the service has a distinctly sexual slant to it, and it appears to be a major focus of the show, then it`s safe to assume you`re watching ecchi.
+The word "ecchi" is used by English-speaking anime fans to refer to refer to soft-core pornographic or sexually suggestive anime and manga. This is a western invention; in Japanese, it is a catch-all term for all things anyhow sexual in nature, not being limited to porn, but also not really considered a "milder" term, as it may also refer to sexual intercourse itself. The term "ecchi" in Japanese comes from the pronunciation of the letter "H" in English, which is rendered into Japanese syllabary as エッチ, which in turn is transliterated in the English alphabet as "ecchi" or "etchi". It is not, as many believe, short for "hentai" -- that, too, seems to be a western invention. It is, however, nearly as misunderstood and misapplied a term as "hentai".
+The line between ecchi and hentai, from the western perspective over these terms, can be hard to draw at times; one good rule of thumb is: if it was aired on Japanese public TV at all, it probably wasn`t hentai. Ecchi usually features all the specifics to human anatomy that can only be found in anime, and generally avoids full nudity, instead abusing of panty shots. Hentai, on the other hand, will usually show full frontal nudity in some explicit form, including genitalia, and full, intimate sex scenes. At its mildest, ecchi is composed of double entendres, big misunderstandings, and sexual farce; at its most explicit, it is still in the realm of softcore pornography, with full breast shots, full back nudity and similar content, but no display of genitalia. Another good way to distinguish the two is looking for animated sex scenes; if one is found, you have generally left the genre entirely, though a few borderline exceptions apply here. For AniDB`s purposes, the distinction between explicit ecchi and actual hentai is simple: if it was sold with a 18+ restriction in its country of origin, it is hentai; if it was sold without it, it is ecchi.
+Source: TV Tropes</description>
+<picurl>32416.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2879" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>alcohol</name>
+<description>Alcohol (or more scientifically, ethanol), is one of the world`s oldest psychoactive substances. It is traditionally found in the form of a beverage such as beer, wine, or liquor, although in some contexts it can be inhaled to produce similar or intoxication, and some people prefer another way of consuming beverage-form alcohol.
+Alcoholic beverages are many and varied, due to production methods (fermentation or distillation), source materials (grains, fruits, vegetables, other plants), added substances such as flavorings, and many more ways of defining different forms of alcoholic beverages.
+Alcoholic beverages are divided into three general classes: beers, wines, and spirits. They are legally consumed in most countries, and over 100 countries have laws regulating their production, sale, and consumption. In particular, such laws specify the minimum age at which a person may legally buy or drink them. This minimum age varies between 16 and 25 years, depending upon the country and the type of drink. Most nations set it at 18 years of age.</description>
+<picurl>70749.jpg</picurl>
+</tag>
+<tag id="2891" parentid="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-12-31">
+<name>breasts</name>
+<description>The female bust size matters! Or does it? The three subcategories spell out the sizes that relate to fetishes, be they gigantic, large or small. Normal sized breasts are not a fetish, it seems. The tag is not only used for ecchi anime, but also for hentai shows as well.</description>
+<picurl>161015.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3108" parentid="2653" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-07-20">
+<name>catastrophic gadgets</name>
+<description>Comedy element: One of the characters in the anime tends to "invent", "create", or "call into existence" all sorts of wacky gadgets. The intent is to help the other protagonists in some way. Only that this fails every single time, ending in a catastrophe.</description>
+</tag>
+<tag id="4022" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-11-29">
+<name>strong female lead</name>
+<description>The lead female character has a strong personality and plays a part that is not the typical damsel-in-distress role. 
+This is the exact opposite of the “damsel in distress” tag.</description>
+</tag>
+<tag id="4081" parentid="2841" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space battles</name>
+<description>There are space battles in this anime. Usually between Earth forces and some alien invader, but ship to ship skirmishes in deep space are just as common.</description>
+<picurl>242377.jpg</picurl>
+</tag>
+<tag id="4278" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-15">
+<name>stand-alone movie</name>
+<description>You can watch this movie without having to watch something else first. This tag should not used for sequels, side stories, or summary movies, but may be used if the movie is either the first anime in a franchise or a remake.
+The movie must be feature-length. For shorts, use the `short movie` tag. In general, a "show-in-show" would not qualify as standalone. For example, an anime has a cartoon show within it. If the show within was released as an OVA or movie, it would not be considered standalone.</description>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="5293" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false">
+<name>crash landing</name>
+</tag>
+<tag id="5826" parentid="2607" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-12">
+<name>rivalry</name>
+<description>Quite broadly used term describing a conflict, contest, struggle, or opposition of some sort.
+Typical examples: The mostly comedic rivalry for the love of a protagonist in a harem anime (love polygon), the more "mindless" battles between wannabe delinquents in a school fighting anime, or the struggle between good &amp; evil in an epic conflict for world domination.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="19892" type="main character in" update="2013-09-03">
+<rating votes="26">6.13</rating>
+<name>Magami Eiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Magami Eiko (A-ko), a red-haired girl who seems to be near invulnerable with magical superhuman speed and strength, is the heroine of the series and lives in Graviton City, Japan. A-ko is usually very friendly, cheerful, and polite and always tries to lead a normal life despite her unusual lineage. However, she does have a fiery temper and is very dangerous when angered. She has a large appetite and a tendency to oversleep on school days. Her constant friend is http://anidb.net/ch19896 [C-ko], whom she has known since kindergarten. Although A-ko can sometimes be frustrated with her, she truly loves C-ko.</description>
+<picture>51698.jpg</picture>
+<seiyuu id="229" picture="152363.jpg">Itou Miki</seiyuu>
+</character>
+<character id="19893" type="main character in" update="2013-09-03">
+<rating votes="16">7.18</rating>
+<name>Daitokuji Biko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Daitokuji Biko (B-ko) is well-known in Graviton High as the daughter of a local industrial tycoon. She is thoroughly spoiled, arrogant, and dismissive of her fellow students. She has no friends, although she employs Ine, Uma, Asa, and http://anidb.net/ch19909 [Mari] as paid subordinates. B-ko is a mechanical genius who can construct or repair virtually anything in extremely brief periods of time. Her obsession with http://anidb.net/ch19896 [C-ko] has obvious undertones of an unrequited and obsessive lesbian love, but she seems to actually be bisexual, given she also develops a powerful crush on Kei Yuki.</description>
+<picture>51701.jpg</picture>
+<seiyuu id="295" picture="25758.jpg">Shinohara Emi</seiyuu>
+</character>
+<character id="19896" type="main character in" update="2013-09-03">
+<rating votes="11">6.57</rating>
+<name>Kotobuki Shiiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kotobuki Shiiko (C-ko) is http://anidb.net/ch19892 [A-ko]`s best friend and has depended on her since they met in kindergarten. C-ko can be considered quite childlike. She is described as cute and innocent, tends to be hyperactive, and, in the Japanese version, frequently refers to herself in the third person. C-ko can often be sensitive and immature, and because of this, she has a tendency to cry. Sometimes she can also be selfish and possessive. Nevertheless, she is generally a nice, caring, and trusting person, especially towards her friend A-ko, and she usually means well.</description>
+<picture>142141.jpg</picture>
+<seiyuu id="3374" picture="24704.jpg">Tomizawa Michie</seiyuu>
+</character>
+<character id="19897" type="secondary cast in" update="2010-07-24">
+<rating votes="5">6.10</rating>
+<name>DC138621-S113</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>D is a spy for the Lepton Kingdom and has been stationed on earth for a long while, searching for signs of their missing princess.</description>
+<picture>51738.jpg</picture>
+<seiyuu id="343" picture="140430.jpg">Genda Tesshou</seiyuu>
+</character>
+<character id="19899" type="secondary cast in" update="2010-07-22">
+<rating votes="5">7.57</rating>
+<name>Napolipolita</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Napolipolita is a captain in the Alpha Cygnan space navy, who has spent the last sixteen years searching the universe for http://anidb.net/ch19896 [C-ko].</description>
+<picture>51737.jpg</picture>
+<seiyuu id="413" picture="151647.jpg">Ikeda Shuuichi</seiyuu>
+</character>
+<character id="19901" type="secondary cast in" update="2010-11-04">
+<rating votes="1">5.00</rating>
+<name>Ayumi-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Miss Ayumi is a teacher at Graviton High School who has http://anidb.net/ch19892 [A-ko], http://anidb.net/ch19893 [B-ko], and http://anidb.net/ch19896 [C-ko] in her class at the same time. This means that she has the task of trying to get C-ko to learn while preventing A-ko and B-ko from murdering each other.
+Note: Miss Ayumi is modeled after the lead character of the eponymous TV series http://anidb.net/a521 [Creamy Mami], one of several magical girl TV shows that came out during the 80s.</description>
+<picture>51721.jpg</picture>
+<seiyuu id="20160">Mukaidono Asami</seiyuu>
+</character>
+<character id="19909" type="secondary cast in" update="2010-07-22">
+<rating votes="1">2.38</rating>
+<name>Mari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mari stands at least eight feet tall with tanned skin and an enormous musculature. She is an obvious parody of http://anidb.net/ch7535 [Kenshiro] from the anime/manga series http://anidb.net/a386 [Fist of the North Star]. She looks quite a bit like him, uses a similar fighting style, constantly tatters her clothing when flexing and has many of his mannerisms; however, her speaking voice is a normal female one.</description>
+<picture>51736.jpg</picture>
+<seiyuu id="2946" picture="23373.jpg">Gouri Daisuke</seiyuu>
+<seiyuu id="3245" picture="223600.jpg">Ikemoto Sayuri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="3225" update="2011-10-20">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1986-06-21</airdate>
+<rating votes="9">7.18</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="10573" update="2003-08-30">
+<epno type="2">S1</epno>
+<length>30</length>
+<title xml:lang="en">Behind the Scenes from Japan</title>
+</episode>
+<episode id="10574" update="2003-08-30">
+<epno type="2">S2</epno>
+<length>6</length>
+<title xml:lang="en">Music Videos</title>
+</episode>
+<episode id="10575" update="2011-10-20">
+<epno type="4">T1</epno>
+<length>20</length>
+<title xml:lang="en">Trailers and Promos</title>
+</episode>
+<episode id="41186" update="2010-07-21">
+<epno type="1">2</epno>
+<length>45</length>
+<airdate>1986-06-21</airdate>
+<title xml:lang="en">Part 1 of 2</title>
+</episode>
+<episode id="41187" update="2010-07-21">
+<epno type="1">3</epno>
+<length>45</length>
+<airdate>1986-06-21</airdate>
+<title xml:lang="en">Part 2 of 2</title>
+</episode>
+</episodes>
+</anime>

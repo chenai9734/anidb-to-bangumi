@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7165" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1980-04-02</startdate>
+<enddate>1980-04-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Captain</title>
+<title xml:lang="ja" type="official">キャプテン</title>
+</titles>
+<relatedanime>
+<anime id="7085" type="Character">Captain (1983)</anime>
+</relatedanime>
+<url>http://www.eiken-anime.jp/works/works026.html</url>
+<creators>
+<name id="9332" type="Original Work">Chiba Akio</name>
+<name id="146" type="Direction">Dezaki Satoshi</name>
+<name id="9607" type="Music">Kimori Toshiyuki</name>
+</creators>
+<ratings>
+<permanent count="5">6.19</permanent>
+<temporary count="5">6.80</temporary>
+</ratings>
+<picture>169991.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11500</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>27915</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://eiken-anime.jp/works/detail?work_id=24</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>159972</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4438</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="28" parentid="2881" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-16">
+<name>baseball</name>
+<description>Baseball is like a complicated version of Rounders. It involves hitting a ball with a stick, then running around several bases placed in the form of a diamond on a field. Big in the US, and also in Japan.</description>
+<picurl>29801.jpg</picurl>
+</tag>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2439" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-16">
+<name>PIC NEEDS IMPROVEMENT</name>
+<description>This entry has a poor picture and needs to have it replaced by a higher-quality alternative. Causes may include: it is too small; its colours or lighting are bad; it has excessive compression or other encoding issues; it is from non-anime sources (anime/char); the face is hard to see (char/creator); the hair/eye/skin colours do not match the anime (char); it does not represent their usual appearance (char); among others. If you can, please swap a better picture in and remove this tag. Thank you.</description>
+<picurl>224875.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<characters>
+<character id="66355" type="main character in" update="2014-04-08">
+<name>Taniguchi Takao</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>153119.jpg</picture>
+<seiyuu id="50619">Waguri Masaaki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="111042" update="2009-10-30">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1980-04-02</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

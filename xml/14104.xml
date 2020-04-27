@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14104" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1985-03-28</startdate>
+<enddate>1985-05-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Choujikuu Seiki Orguss Memorial</title>
+<title xml:lang="ja" type="official">超時空世紀オーガス MEMORIAL</title>
+</titles>
+<relatedanime>
+<anime id="1039" type="Full Story">Choujikuu Seiki Orguss</anime>
+</relatedanime>
+<description>Summary of The Super Dimension Century Orguss TV series.</description>
+<ratings>
+<permanent count="7">3.10</permanent>
+<temporary count="7">3.85</temporary>
+</ratings>
+<picture>217958.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15255</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32218</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="200804" update="2018-06-04">
+<epno type="1">2</epno>
+<length>55</length>
+<airdate>1985-05-28</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="200805" update="2018-06-04">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1985-03-28</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

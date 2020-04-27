@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4607" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2006-10-14</startdate>
+<enddate>2006-10-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Atagoal wa Neko no Mori</title>
+<title xml:lang="en" type="synonym">Atagoal is Cat`s Forest</title>
+<title xml:lang="ja" type="official">アタゴオルは猫の森</title>
+<title xml:lang="ru" type="official">Волшебный лес</title>
+<title xml:lang="pl" type="official">Magiczny Kot</title>
+</titles>
+<relatedanime>
+<anime id="3550" type="Other">Fushigi Sekai Atagoul Monogatari</anime>
+</relatedanime>
+<url>http://www.atagoal.com/</url>
+<creators>
+<name id="1388" type="Work">Digital Frontier</name>
+<name id="2234" type="Direction">Nishikubo Mizuho</name>
+<name id="4642" type="Music">Takahashi Tetsuya</name>
+<name id="18057" type="Original Work">Masumura Hiroshi</name>
+</creators>
+<description>Today is the Atagoal town carnival. Talking cats and human townsfolk are having a ball. Enjoying the party to the fullest is our hero, Hideyoshi, a big fat cat, who is always involved in any trouble going on in the town.</description>
+<ratings>
+<permanent count="19">2.46</permanent>
+<temporary count="19">4.78</temporary>
+</ratings>
+<picture>11101.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7224</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5503</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2422</identifier>
+<identifier>dbmysv</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.atagoal.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アタゴオルは猫の森</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>325599</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>8469</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="53521" update="2011-10-20">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>2006-10-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="53522" update="2007-06-17">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>2006-10-14</airdate>
+<title xml:lang="en">Part 1 of 2</title>
+</episode>
+<episode id="53523" update="2007-06-17">
+<epno type="1">3</epno>
+<length>0</length>
+<airdate>2006-10-14</airdate>
+<title xml:lang="en">Part 2 of 2</title>
+</episode>
+</episodes>
+</anime>

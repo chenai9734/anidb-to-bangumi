@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14682" restricted="false">
+<type>Movie</type>
+<episodecount>2</episodecount>
+<startdate>2019-04-05</startdate>
+<enddate>2019-04-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pandora to Akubi</title>
+<title xml:lang="ja" type="official">パンドラとアクビ</title>
+</titles>
+<relatedanime>
+<anime id="2740" type="Other">Hakushon Daimaou</anime>
+<anime id="11238" type="Other">Monster Strike</anime>
+</relatedanime>
+<url>https://www.dora-bi.com/</url>
+<creators>
+<name id="26420" type="Direction">Soga Jun</name>
+<name id="55857" type="Music">Obata Takahiro</name>
+<name id="57548" type="Animation Work">Bakken Record</name>
+<name id="57549" type="Character Design">Ookura Keisuke</name>
+<name id="57549" type="Chief Animation Direction">Ookura Keisuke</name>
+</creators>
+<ratings>
+<permanent count="8">3.87</permanent>
+<temporary count="8">5.25</temporary>
+</ratings>
+<picture>230738.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21875</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39249</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.dora-bi.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>モンスターストライク#パンドラとアクビ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367143</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21804</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>anime_dorabi</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="101168" type="main character in" update="2019-03-02">
+<name>Akubi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230807.jpg</picture>
+<seiyuu id="57406" picture="243582.jpg">Amaki Sally</seiyuu>
+</character>
+<character id="101169" type="main character in" update="2019-03-02">
+<name>Pandora</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230808.jpg</picture>
+<seiyuu id="16794" picture="214757.jpg">Ogura Yui</seiyuu>
+</character>
+<character id="101170" type="secondary cast in" update="2019-03-02">
+<name>Blyking Boss</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230804.jpg</picture>
+<seiyuu id="1942" picture="50629.jpg">Amada Masuo</seiyuu>
+</character>
+<character id="101171" type="secondary cast in" update="2019-03-02">
+<name>Louise</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230805.jpg</picture>
+<seiyuu id="160" picture="30490.jpg">Kaida Yuuko</seiyuu>
+</character>
+<character id="101172" type="secondary cast in" update="2019-03-02">
+<name>Mifune Tsuyoshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230806.jpg</picture>
+<seiyuu id="65" picture="170428.jpg">Yoshino Hiroyuki</seiyuu>
+</character>
+<character id="101173" type="secondary cast in" update="2019-03-02">
+<name>Kanta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230809.jpg</picture>
+<seiyuu id="3712" picture="240126.jpg">Tamura Mutsumi</seiyuu>
+</character>
+<character id="101174" type="secondary cast in" update="2020-03-15">
+<name>Nazo no Kaijuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230810.jpg</picture>
+<seiyuu id="467" picture="38026.jpg">Ebara Masashi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="213099" update="2019-11-08">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2019-04-05</airdate>
+<title xml:lang="ja">荒野の銃撃戦</title>
+<title xml:lang="en">The Shootout on the Wasteland</title>
+<title xml:lang="x-jat">Kouya no Juugekisen</title>
+</episode>
+<episode id="213100" update="2019-11-08">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2019-04-05</airdate>
+<title xml:lang="ja">精霊と怪獣の街</title>
+<title xml:lang="en">The Town of Spirits and Monsters</title>
+<title xml:lang="x-jat">Seirei to Kaijuu no Machi</title>
+</episode>
+<episode id="226523" update="2020-01-28">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2019-04-05</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="226554" update="2020-01-31">
+<epno type="2">S1</epno>
+<length>7</length>
+<airdate>2019-04-05</airdate>
+<title xml:lang="ja">線画撮影シーン集</title>
+<title xml:lang="en">Line drawing shooting scene collection</title>
+<title xml:lang="x-jat">Senga Satsuei Shinshuu</title>
+</episode>
+<episode id="227078" update="2020-02-22">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2019-04-05</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

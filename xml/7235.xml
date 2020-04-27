@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7235" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1987</startdate>
+<enddate>1987</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Purple Eyes in the Dark</title>
+<title xml:lang="ja" type="synonym">闇のパープル・アイ</title>
+<title xml:lang="x-jat" type="synonym">Yami no Purple Eye</title>
+<title xml:lang="ja" type="official">Purple Eyes In The Dark</title>
+</titles>
+<creators>
+<name id="10206" type="Original Work">Shinohara Chie</name>
+<name id="720" type="Work">J.C.Staff</name>
+<name id="2234" type="Direction">Nishikubo Mizuho</name>
+<name id="4149" type="Series Composition">Watanabe Mami</name>
+</creators>
+<description>* Based on a shoujo manga written and illustrated by http://anidb.net/cr10206 [Shinohara Chie] serialised in Shoujo Comic.
+The original story follows the struggles of a teenage girl after she finds herself turning into a lycanthropy-leopard and having to battle her newly found predatory instincts.
+In 1987 an animated music video of 30 minutes length was made based on the award winning manga.</description>
+<ratings>
+<permanent count="78">2.23</permanent>
+<temporary count="78">3.74</temporary>
+</ratings>
+<picture>241235.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7167</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9509</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Purple_Eyes_in_the_Dark</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>闇のパープル・アイ</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4518</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="4606" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-25">
+<name>slide show animation</name>
+<description>The entire anime or parts of it show sequences of still images. Sometimes used in low budged animations for action scenes.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="111966" update="2009-12-11">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

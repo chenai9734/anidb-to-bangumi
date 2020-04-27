@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12288" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2016-03-06</startdate>
+<enddate>2016-03-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Love Bites</title>
+<title xml:lang="ja" type="official">LOVE BITES</title>
+</titles>
+<similaranime>
+<anime id="11617" approval="2" total="3">Kokuhaku</anime>
+</similaranime>
+<creators>
+<name id="29357" type="Work">TN</name>
+</creators>
+<description>Second MMD animation by Takena.</description>
+<ratings>
+<permanent count="106">1.46</permanent>
+<temporary count="107">2.94</temporary>
+</ratings>
+<picture>189156.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32894</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=nh-9lB2he40</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2750" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2851" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-11">
+<name>horror</name>
+<description>The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.</description>
+<picurl>214682.jpg</picurl>
+</tag>
+<tag id="3276" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-02">
+<name>plot twists</name>
+<description>The plot and story of this anime may seem to be going along a quite predictable path, when suddenly there is a jarring unexpected twist in the plot, taking the viewer by surprise.</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="4096" parentid="2750" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-23">
+<name>gore</name>
+<description>A Splatter film or Gore film is a sub-genre of horror film that deliberately focuses on graphic portrayals of gore and graphic violence. These films, through the use of special effects and excessive blood and guts, tend to display an overt interest in the vulnerability of the human body and the theatricality of its mutilation. Due to their willingness to portray images society might consider shocking, splatter films share some ideological grounds with the transgressive art movement. The term "splatter cinema" was coined by George A. Romero to describe his film Dawn of the Dead, though Dawn of the Dead is generally considered by critics to have higher aspirations, such as social commentary, than to be simply exploitative for its own sake.
+[Source: wiki]</description>
+<picurl>32491.jpg</picurl>
+</tag>
+<tag id="4316" parentid="6242" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-11">
+<name>murder</name>
+<description>To murder means to bring about someone else`s death, by a voluntary act. Whether it comes from the killer`s own hand or by exposing the victim to life-threatening circumstances, the result is foreseeable and sought by the perpetrator. Someone who murders as their profession/job is an http://anidb.net/t2399 [assassin or hitman].</description>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6242" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-24">
+<name>death</name>
+<description>Death is the state of no longer being alive or the process of ceasing to be alive.</description>
+</tag>
+<tag id="6877" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-05-14">
+<name>misleading beginning</name>
+<description>The beginning of the show is misleading as to the tone, premise, or story path that the rest of the story will take. Sometimes, it even follows an entirely different cast that never appears again. This may take the form of the first episode or couple of episodes of a series or the first few minutes of e.g. a movie.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="179213" update="2016-07-28">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2016-03-06</airdate>
+<rating votes="2">1.00</rating>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

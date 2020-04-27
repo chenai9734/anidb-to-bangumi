@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8411" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-07-21</startdate>
+<enddate>1990-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pokopon no Yukai na Saiyuuki</title>
+<title xml:lang="ja" type="official">ぽこぽんのゆかいな西遊記</title>
+</titles>
+<description>Pokopon and friends plays a funny version of Journey to the West.
+Note: Screened along http://anidb.net/a3073 [Kero Kero Keroppi no Daibouken] and http://anidb.net/a7780 [Hello Kitty no Oyayubi-hime] at the second Sanrio Sekai Meisaku Eigakan theatrical road show.</description>
+<ratings>
+<permanent count="3">3.05</permanent>
+<temporary count="3">4.66</temporary>
+</ratings>
+<picture>197866.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32621</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151139</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2503</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="130122" update="2011-05-12">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1990-07-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

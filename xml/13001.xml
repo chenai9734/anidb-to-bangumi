@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13001" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2008-04</startdate>
+<enddate>2008-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Good Morning</title>
+<title xml:lang="ja" type="official">Good Morning</title>
+</titles>
+<creators>
+<name id="20377" type="Character Design">Murakami Takashi</name>
+</creators>
+<description>A not so "good morning" greets a little bear as he tries desperately to reach his destination on time but is hampered by improbable obstacles along the way. Directed and produced by Takashi Murakami of "Superflat Monogram" fame.
+Source: MAL</description>
+<ratings>
+<permanent count="58">3.40</permanent>
+<temporary count="60">4.75</temporary>
+</ratings>
+<picture>199893.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8626</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.takashimurakami.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Good_Morning_(Kanye_West_song)</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=6CHs4x2uqcQ</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="186761" update="2017-04-06">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

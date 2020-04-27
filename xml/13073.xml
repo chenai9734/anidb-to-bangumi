@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13073" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1960</startdate>
+<enddate>1960</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Inaka Nezumi to Machi Nezumi</title>
+<title xml:lang="ja" type="official">いなかねずみとまちねずみ</title>
+</titles>
+<url>http://www.gakken.co.jp/campaign/70th/archives/</url>
+<ratings>
+<permanent count="20">3.29</permanent>
+<temporary count="20">4.07</temporary>
+</ratings>
+<picture>200747.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29926</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken.co.jp/campaign/70th/archives/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=b-wc4ATe0ok</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="7412" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-24">
+<name>cutout animation</name>
+<description>Cutout animation is a form of stop-motion animation using flat characters, props and backgrounds cut from materials such as paper, card, stiff fabric or even photographs.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="186843" update="2017-04-07">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4413" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1990-07-27</startdate>
+<enddate>1990-08-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tengai Makyou: Ziria Oboro Hen</title>
+<title xml:lang="ja" type="official">天外魔境 自来也おぼろ変</title>
+</titles>
+<url>http://www.tms-e.com/search/index.php?pdt_no=101</url>
+<creators>
+<name id="3481" type="Direction">Takeuchi Yoshio</name>
+<name id="3774" type="Chief Direction">Hiroi Ouji</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="36429" type="Character Design">Tsujino Torajirou</name>
+</creators>
+<ratings>
+<permanent count="6">6.92</permanent>
+<temporary count="6">6.33</temporary>
+</ratings>
+<picture>239579.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15258</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5986</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3366</identifier>
+<identifier>imhyqo</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tms-e.com/search/index.php?pdt_no=101</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>天外魔境_ZIRIA</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88596</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1867</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="52494" update="2013-04-01">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1990-07-27</airdate>
+<title xml:lang="en">Volume 1</title>
+</episode>
+<episode id="148734" update="2013-04-01">
+<epno type="1">2</epno>
+<length>50</length>
+<airdate>1990-08-24</airdate>
+<title xml:lang="en">Volume 2</title>
+</episode>
+</episodes>
+</anime>

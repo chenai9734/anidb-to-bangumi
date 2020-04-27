@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6873" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1953-03</startdate>
+<enddate>1953-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mori no Ongakukai</title>
+<title xml:lang="en" type="synonym">The Forest Concert</title>
+<title xml:lang="ja" type="official">森の音楽会</title>
+</titles>
+<description>During a concert in the forest, the big bad wolf begins to annoy the other animals with his foul smoking, noisy interruptions and destruction of the grounds. The other animals band together and eject the wolf for poor manners.</description>
+<ratings>
+<permanent count="3">5.10</permanent>
+<temporary count="3">4.33</temporary>
+</ratings>
+<picture>33825.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7529</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>135963</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106660" update="2009-08-26">
+<epno type="1">1</epno>
+<length>9</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

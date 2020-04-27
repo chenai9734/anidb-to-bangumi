@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14362" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1976</startdate>
+<enddate>1976</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hyoutan</title>
+<title xml:lang="ja" type="official">ひょうたん</title>
+</titles>
+<creators>
+<name id="4559" type="Work">Suzuki Shin`ichi</name>
+</creators>
+<description>An independent animation short by http://anidb.net/cr4559 [Suzuki Shin`ichi].</description>
+<ratings>
+<permanent count="9">3.16</permanent>
+<temporary count="9">4.22</temporary>
+</ratings>
+<picture>223053.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29671</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14172</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205917" update="2018-09-01">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

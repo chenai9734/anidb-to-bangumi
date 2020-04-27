@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3666" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2001-12-21</startdate>
+<enddate>2001-12-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Urarochi Diamond</title>
+<title xml:lang="x-jat" type="synonym">Uraroji Diamond</title>
+<title xml:lang="ja" type="official">裏路地ダイヤモンド</title>
+</titles>
+<url>http://www.beyond-c.co.jp/DVDcollection/about_dvd_01.html</url>
+<creators>
+<name id="738" type="Financial Production">Studio 4C</name>
+</creators>
+<description>Uraroji Diamond is a very interactive DVD which takes you inside a Studio-4C-style town with all the weirdness inside, while you scour for episodes (very short, black and white, weird episodes).</description>
+<ratings>
+<permanent count="37">2.92</permanent>
+<temporary count="37">4.59</temporary>
+</ratings>
+<picture>5386.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5847</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4098</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.beyond-c.co.jp/DVDcollection/about_dvd_01.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="64274" update="2009-03-10">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>2001-12-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

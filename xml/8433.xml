@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8433" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2009-11-11</startdate>
+<enddate>2009-11-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shoukichi Monogatari</title>
+<title xml:lang="x-jat" type="synonym">Shokichi Monogatari</title>
+<title xml:lang="ja" type="official">小吉物語</title>
+</titles>
+<url>http://urumadelvi.com/jp/shokichi/</url>
+<creators>
+<name id="25814" type="Direction">Uruma Delvi</name>
+</creators>
+<description>An animated music video by http://anidb.net/cr25814 [Uruma Delvi] about a stray dog named Shoukichi.</description>
+<ratings>
+<permanent count="33">2.56</permanent>
+<temporary count="33">4.00</temporary>
+</ratings>
+<picture>71849.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9910</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://urumadelvi.com/jp/shokichi/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>小吉物語</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="130201" update="2011-05-19">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2009-11-11</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

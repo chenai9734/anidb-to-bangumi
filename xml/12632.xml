@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12632" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1982-12</startdate>
+<enddate>1982-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tousan no Tsukutta Uta</title>
+<title xml:lang="ja" type="official">父さんのつくった歌</title>
+</titles>
+<url>http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN198212_03</url>
+<description>A visual journey of a faceless boy in sombre clothes and a cat who leads him to strange places. Song by Shijo Mamoru with images by Ueno Noriko.</description>
+<ratings>
+<permanent count="16">2.16</permanent>
+<temporary count="17">3.29</temporary>
+</ratings>
+<picture>195824.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8733</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN198212_03</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="182913" update="2016-12-13">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

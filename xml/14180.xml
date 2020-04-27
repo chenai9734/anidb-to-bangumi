@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14180" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-03-09</startdate>
+<enddate>2019-03-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chuck Shimezou</title>
+<title xml:lang="ja" type="official">チャックシメゾウ</title>
+</titles>
+<url>https://animetamago.jp/title.php?id=3</url>
+<creators>
+<name id="728" type="Animation Work">Nippon Animation</name>
+<name id="19105" type="Direction">Nishiyama Eiichirou</name>
+<name id="19105" type="Character Design">Nishiyama Eiichirou</name>
+</creators>
+<picture>225987.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22106</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38013</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://animetamago.jp/2019/title.php?id=3</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5386</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365916</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4859" parentid="6153" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-06-09">
+<name>Wakate Animator Ikusei Project</name>
+<description>The Young Animator Training Project is an annual project launched in 2010 and funded by the Japanese government`s Agency for Cultural Affairs. The project, which culminates in a series of shorts produced by various animation studios each year, means to address the concern that more of the Japanese animation process is being outsourced overseas, thus leading to a decline in opportunities to teach animation techniques within Japan. As such, the animation production for each short is required to be based in Japan, and professionals must impart their know-how to the young animators through on-the-job training.
+Source: Wikipedia</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+</tags>
+<characters>
+<character id="100779" type="secondary cast in" update="2019-02-12">
+<name>Okaasan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230106.jpg</picture>
+<seiyuu id="2987" picture="23718.jpg">Shouji Umeka</seiyuu>
+</character>
+<character id="100780" type="main character in" update="2019-02-12">
+<name>Chie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230105.jpg</picture>
+<seiyuu id="20806" picture="182700.jpg">Kuno Misaki</seiyuu>
+</character>
+<character id="100781" type="main character in" update="2019-02-12">
+<name>Hiroki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230100.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="100782" type="main character in" update="2019-02-12">
+<name>Shimezou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230104.jpg</picture>
+<seiyuu id="553" picture="170553.jpg">Kaneda Tomoko</seiyuu>
+</character>
+<character id="100783" type="secondary cast in" update="2019-02-12">
+<name>Shime Papa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230098.jpg</picture>
+<seiyuu id="22" picture="231891.jpg">Uoken</seiyuu>
+</character>
+<character id="100784" type="secondary cast in" update="2019-02-12">
+<name>Shime Mama</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230101.jpg</picture>
+<seiyuu id="3304" picture="186561.jpg">Hirano Fumi</seiyuu>
+</character>
+<character id="100785" type="secondary cast in" update="2019-02-12">
+<name>Kobayashi-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230099.jpg</picture>
+<seiyuu id="2735" picture="69014.jpg">Horikoshi Mami</seiyuu>
+</character>
+<character id="100786" type="secondary cast in" update="2019-02-12">
+<name>Sobo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230102.jpg</picture>
+<seiyuu id="252" picture="149852.jpg">Shindou Naomi</seiyuu>
+</character>
+<character id="100787" type="appears in" update="2019-02-12">
+<name>Sofu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230103.jpg</picture>
+<seiyuu id="11009" picture="39517.jpg">Miyazawa Tadashi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="211976" update="2019-01-18">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2019-03-09</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

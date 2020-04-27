@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11836" restricted="false">
+<type>TV Series</type>
+<episodecount>11</episodecount>
+<startdate>2016-04-08</startdate>
+<enddate>2016-06-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Concrete Revolutio: Choujin Gensou - The Last Song</title>
+<title xml:lang="x-jat" type="short">ConRevo 2</title>
+<title xml:lang="ja" type="official">コンクリート・レボルティオ 超人幻想 THE LAST SONG</title>
+<title xml:lang="en" type="official">Concrete Revolutio: Superhuman Phantasmagoria - The Last Song</title>
+<title xml:lang="fr" type="official">Concrete Revolutio: The Last Song</title>
+<title xml:lang="ko" type="official">콘크리트 레볼루티오 초인환상 THE LAST SONG</title>
+<title xml:lang="zh-Hans" type="official">具象革命 超人幻想2</title>
+</titles>
+<relatedanime>
+<anime id="11343" type="Prequel">Concrete Revolutio: Choujin Gensou</anime>
+</relatedanime>
+<url>http://concreterevolutio.com/</url>
+<creators>
+<name id="755" type="Animation Work">Bones</name>
+<name id="7788" type="Character Design">Itou Yoshiyuki</name>
+<name id="755" type="Original Work">Bones</name>
+<name id="670" type="Original Work">Aikawa Shou</name>
+<name id="130" type="Direction">Mizushima Seiji</name>
+<name id="7788" type="Chief Animation Direction">Itou Yoshiyuki</name>
+<name id="24464" type="Music">Ishihama Kakeru</name>
+<name id="14377" type="Music">Hoashi Keigo</name>
+<name id="44034" type="Music">Yamamoto Yousuke</name>
+</creators>
+<ratings>
+<permanent count="323">5.18</permanent>
+<temporary count="326">6.49</temporary>
+</ratings>
+<picture>183685.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18065</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32313</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://concreterevolutio.com/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://concreterevolutio.com/en/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>コンクリート・レボルティオ〜超人幻想〜</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4126</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355076</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19100</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2642" parentid="2624" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-28">
+<name>alternative present</name>
+<description>Anime that fit in the alternative present category usually have technology and society that is very similar to ours, but with differences in both, history and culture, which sometimes are blatantly obvious, but sometimes harder to place; this one can at times be very subjective.</description>
+</tag>
+<tag id="2749" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="4537" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-15">
+<name>time skip</name>
+<description>The plot features at least one skip or jump in time.
+Example: A skip from the present into the past, or time skips in increments, e.g. every hour there is a time skip by a day.</description>
+</tag>
+</tags>
+<characters>
+<character id="76143" type="main character in" update="2015-07-03">
+<rating votes="4">7.58</rating>
+<name>Hitoyoshi Jirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175094.jpg</picture>
+<seiyuu id="34296" picture="225238.jpg">Ishikawa Kaito</seiyuu>
+</character>
+<character id="76144" type="main character in" update="2015-07-03">
+<rating votes="11">5.94</rating>
+<name>Hoshino Kikko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175095.jpg</picture>
+<seiyuu id="28602" picture="131381.jpg">Uesaka Sumire</seiyuu>
+</character>
+<character id="76145" type="secondary cast in" update="2015-07-03">
+<rating votes="12">8.02</rating>
+<name>Kino Emi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175096.jpg</picture>
+<seiyuu id="1438" picture="69192.jpg">Toyosaki Aki</seiyuu>
+</character>
+<character id="76161" type="secondary cast in" update="2015-07-03">
+<name>Akita Daishi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175099.jpg</picture>
+<seiyuu id="3094" picture="50367.jpg">Kanao Tetsuo</seiyuu>
+</character>
+<character id="76162" type="secondary cast in" update="2015-07-03">
+<rating votes="1">6.92</rating>
+<name>Yoshimura Hyouma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175098.jpg</picture>
+<seiyuu id="2248" picture="170362.jpg">Kawashima Tokuyoshi</seiyuu>
+</character>
+<character id="76163" type="secondary cast in" update="2015-07-03">
+<rating votes="3">7.51</rating>
+<name>Fuu Routa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175097.jpg</picture>
+<seiyuu id="4712" picture="27521.jpg">Nakamura Eriko</seiyuu>
+</character>
+<character id="76490" type="secondary cast in" update="2015-07-24">
+<rating votes="4">5.44</rating>
+<name>Shiba Raito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175742.jpg</picture>
+<seiyuu id="191" picture="17006.jpg">Suzumura Ken`ichi</seiyuu>
+</character>
+<character id="76709" type="secondary cast in" update="2015-08-10">
+<name>Uru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>176141.jpg</picture>
+<seiyuu id="382" picture="228600.jpg">Ookawa Tooru</seiyuu>
+</character>
+<character id="77194" type="secondary cast in" update="2015-09-23">
+<name>Hitoyoshi Magotake</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177788.jpg</picture>
+<seiyuu id="233" picture="228661.jpg">Miki Shin`ichirou</seiyuu>
+</character>
+<character id="78668" type="appears in" update="2015-11-27">
+<name>Don</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179968.jpg</picture>
+</character>
+<character id="78670" type="appears in" update="2015-11-27">
+<name>Freeze</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179970.jpg</picture>
+</character>
+<character id="78671" type="appears in" update="2015-11-27">
+<name>Haru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179971.jpg</picture>
+</character>
+<character id="78672" type="appears in" update="2015-11-27">
+<rating votes="2">2.69</rating>
+<name>Earth-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179972.jpg</picture>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+<character id="79542" type="appears in" update="2016-01-26">
+<name>Jaguar no Joushi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181786.jpg</picture>
+<seiyuu id="6012" picture="228332.jpg">Hirose Yuuka</seiyuu>
+</character>
+<character id="79543" type="appears in" update="2016-01-26">
+<name>Nana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181784.jpg</picture>
+<seiyuu id="40581" picture="223587.jpg">Hirai Sachie</seiyuu>
+</character>
+<character id="79544" type="appears in" update="2016-01-26">
+<rating votes="1">2.34</rating>
+<name>Mari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181783.jpg</picture>
+<seiyuu id="2007" picture="76719.jpg">Ashiro Megu</seiyuu>
+</character>
+<character id="79546" type="appears in" update="2016-01-26">
+<rating votes="1">1.26</rating>
+<name>Satomi Yoshiaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181771.jpg</picture>
+<seiyuu id="265" picture="25730.jpg">Namikawa Daisuke</seiyuu>
+</character>
+<character id="79595" type="appears in" update="2016-01-26">
+<rating votes="2">5.55</rating>
+<name>Campe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181770.jpg</picture>
+<seiyuu id="18" picture="170423.jpg">Mizuki Nana</seiyuu>
+</character>
+<character id="79597" type="appears in" update="2016-01-26">
+<rating votes="2">3.94</rating>
+<name>Jackie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181773.jpg</picture>
+<seiyuu id="30554" picture="81681.jpg">Oohashi Ayaka</seiyuu>
+</character>
+<character id="79598" type="appears in" update="2016-01-26">
+<rating votes="1">2.34</rating>
+<name>Rose</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181774.jpg</picture>
+<seiyuu id="39748" picture="152660.jpg">Fukagawa Seria</seiyuu>
+</character>
+<character id="79599" type="appears in" update="2016-01-26">
+<rating votes="2">3.94</rating>
+<name>Claudia</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181775.jpg</picture>
+<seiyuu id="38647" picture="165636.jpg">Sawai Miyuu</seiyuu>
+</character>
+<character id="79600" type="appears in" update="2016-01-26">
+<rating votes="2">5.55</rating>
+<name>Arakune</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181776.jpg</picture>
+<seiyuu id="1511" picture="173601.jpg">Akesaka Satomi</seiyuu>
+</character>
+<character id="79601" type="appears in" update="2016-01-26">
+<rating votes="1">5.01</rating>
+<name>Fanny</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181777.jpg</picture>
+</character>
+<character id="79603" type="appears in" update="2016-01-26">
+<name>Otonashi Yumihiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181780.jpg</picture>
+<seiyuu id="30656" picture="153750.jpg">Murase Ayumu</seiyuu>
+</character>
+<character id="79604" type="appears in" update="2016-01-26">
+<name>Minami Reiichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181781.jpg</picture>
+<seiyuu id="37711" picture="188474.jpg">Sagara Nobuyori</seiyuu>
+</character>
+<character id="80147" type="appears in" update="2016-02-13">
+<name>Josei Announcer</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182827.jpg</picture>
+<seiyuu id="30024" picture="79284.jpg">Matsuzawa Chiaki</seiyuu>
+</character>
+<character id="80149" type="appears in" update="2016-02-13">
+<name>Hanta Kaoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182831.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+<character id="80150" type="appears in" update="2016-02-13">
+<rating votes="1">5.01</rating>
+<name>Koorogi Mieko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182829.jpg</picture>
+<seiyuu id="479" picture="222800.jpg">Asumi Kana</seiyuu>
+</character>
+<character id="80167" type="appears in" update="2016-02-13">
+<rating votes="1">1.26</rating>
+<name>Hayakawa Hiroyuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182839.jpg</picture>
+</character>
+<character id="80173" type="appears in" update="2016-02-13">
+<rating votes="1">5.01</rating>
+<name>Saki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182850.jpg</picture>
+<seiyuu id="44892" picture="182848.jpg">Kikuchi Hitomi</seiyuu>
+</character>
+<character id="80174" type="appears in" update="2016-02-13">
+<name>Hideaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182853.jpg</picture>
+<seiyuu id="44894" picture="182874.jpg">Shigematsu Chiharu</seiyuu>
+</character>
+<character id="80175" type="appears in" update="2016-02-13">
+<name>Morii</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182852.jpg</picture>
+<seiyuu id="26923" picture="73461.jpg">Kuwahata Yuusuke</seiyuu>
+</character>
+<character id="80176" type="appears in" update="2016-02-13">
+<rating votes="1">2.34</rating>
+<name>Rin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182851.jpg</picture>
+<seiyuu id="29667" picture="223460.jpg">Maeda Rena</seiyuu>
+</character>
+<character id="80181" type="appears in" update="2016-02-13">
+<name>Morino Shigeru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182860.jpg</picture>
+</character>
+<character id="80182" type="appears in" update="2016-02-13">
+<name>Morino Buna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182859.jpg</picture>
+</character>
+<character id="80183" type="appears in" update="2016-02-13">
+<name>Morino Wakaba</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182861.jpg</picture>
+</character>
+<character id="80184" type="appears in" update="2016-02-13">
+<name>Morino Kousaku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182858.jpg</picture>
+</character>
+<character id="80186" type="appears in" update="2016-02-13">
+<rating votes="2">5.55</rating>
+<name>Hatakeyama Sanae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182857.jpg</picture>
+</character>
+<character id="80187" type="appears in" update="2016-02-13">
+<name>Hatakeyama Minoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182856.jpg</picture>
+</character>
+<character id="80189" type="appears in" update="2016-04-16">
+<name>Claude</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185838.jpg</picture>
+<seiyuu id="236" picture="132757.jpg">Seki Tomokazu</seiyuu>
+</character>
+<character id="80192" type="appears in" update="2016-02-13">
+<rating votes="1">5.01</rating>
+<name>Takahara Kaede</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182866.jpg</picture>
+<seiyuu id="3198" picture="160468.jpg">Shimamura Yuu</seiyuu>
+</character>
+<character id="80194" type="appears in" update="2016-04-16">
+<name>Master Ultima</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185839.jpg</picture>
+<seiyuu id="28881" picture="66208.jpg">Sakurai Tooru</seiyuu>
+</character>
+<character id="80200" type="appears in" update="2016-02-14">
+<name>Sanjun Hikari</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182880.jpg</picture>
+<seiyuu id="1680" picture="132752.jpg">Tachibana Shinnosuke</seiyuu>
+</character>
+<character id="81742" type="appears in" update="2016-04-16">
+<name>Washizu Yuusei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185840.jpg</picture>
+<seiyuu id="380" picture="158572.jpg">Yamadera Kouichi</seiyuu>
+</character>
+<character id="100484" type="appears in" update="2019-01-23">
+<name>Kage Koma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229491.jpg</picture>
+<seiyuu id="37280" picture="136935.jpg">Oozora Naomi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="176322" update="2016-04-08">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2016-04-29</airdate>
+<rating votes="2">5.08</rating>
+<title xml:lang="ja">デビラとデビロ</title>
+<title xml:lang="en">Devila and Devilo</title>
+<title xml:lang="fr">Dévila et Dévilo</title>
+<title xml:lang="x-jat">Debira to Debiro</title>
+</episode>
+<episode id="176323" update="2016-04-08">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2016-04-22</airdate>
+<rating votes="2">3.29</rating>
+<title xml:lang="ja">花咲く町に君の名を呼ぶ</title>
+<title xml:lang="en">Calling Your Name in the Town of Flowers</title>
+<title xml:lang="fr">Je t`appellerai dans la ville en fleur</title>
+<title xml:lang="x-jat">Hanasaku Machi ni Kimi no Na o Yobu</title>
+</episode>
+<episode id="176324" update="2016-04-08">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2016-04-15</airdate>
+<rating votes="2">7.43</rating>
+<title xml:lang="ja">宇宙を臨むもの</title>
+<title xml:lang="en">The Ones Who Look into Space</title>
+<title xml:lang="fr">L`espace en point de mire</title>
+<title xml:lang="x-jat">Uchuu o Nozomu Mono</title>
+</episode>
+<episode id="176325" update="2016-04-08">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2016-04-08</airdate>
+<rating votes="2">7.43</rating>
+<title xml:lang="ja">十一月の超人達</title>
+<title xml:lang="en">The Superhumans of November</title>
+<title xml:lang="fr">Les Super-humains de novembre</title>
+<title xml:lang="x-jat">Juuichigatsu no Choujin-tachi</title>
+</episode>
+<episode id="176334" update="2016-03-26">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2016-04-03</airdate>
+<title xml:lang="en">Special</title>
+</episode>
+<episode id="176797" update="2016-04-08">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2016-04-08</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="176798" update="2016-04-08">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2016-04-08</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="177138" update="2016-04-22">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2016-05-27</airdate>
+<rating votes="2">5.08</rating>
+<title xml:lang="ja">鋼鉄の鬼</title>
+<title xml:lang="en">Steel Ogre</title>
+<title xml:lang="fr">Le démon d`acier</title>
+<title xml:lang="x-jat">Koutetsu no Oni</title>
+</episode>
+<episode id="177139" update="2016-04-22">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2016-05-20</airdate>
+<rating votes="2">5.08</rating>
+<title xml:lang="ja">終わりなき戦い</title>
+<title xml:lang="en">The Never-Ending Battle</title>
+<title xml:lang="fr">Un combat sans fin</title>
+<title xml:lang="x-jat">Owari Naki Tatakai</title>
+</episode>
+<episode id="177140" update="2016-04-22">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2016-05-13</airdate>
+<rating votes="2">5.08</rating>
+<title xml:lang="ja">推参なり鐵假面</title>
+<title xml:lang="en">Iron Mask Arrives</title>
+<title xml:lang="fr">Le Masque de fer</title>
+<title xml:lang="x-jat">Suisan Nari Tekkamen</title>
+</episode>
+<episode id="177141" update="2016-05-07">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2016-05-06</airdate>
+<rating votes="2">5.08</rating>
+<title xml:lang="ja">セイタカアワダチソウ</title>
+<title xml:lang="en">Canada Goldenrod</title>
+<title xml:lang="fr">Gerbes d’or</title>
+<title xml:lang="x-jat">Seitakaawadachisou</title>
+</episode>
+<episode id="177512" update="2016-05-10">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2016-06-17</airdate>
+<rating votes="2">3.03</rating>
+<title xml:lang="ja">君はまだ歌えるか</title>
+<title xml:lang="en">Can You Still Sing</title>
+<title xml:lang="fr">Peux-tu toujours chanter ?</title>
+<title xml:lang="x-jat">Kimi wa Mada Utaeru ka</title>
+</episode>
+<episode id="177513" update="2016-05-10">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2016-06-10</airdate>
+<rating votes="2">5.08</rating>
+<title xml:lang="ja">怪獣と処女[おとめ]</title>
+<title xml:lang="en">Beast and Maiden</title>
+<title xml:lang="fr">Le Kaijû et la jeune fille</title>
+<title xml:lang="x-jat">Kaijuu to Otome</title>
+</episode>
+<episode id="177514" update="2016-05-10">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2016-06-03</airdate>
+<rating votes="2">5.08</rating>
+<title xml:lang="ja">巨神たちの時代</title>
+<title xml:lang="en">The Age of Giant Gods</title>
+<title xml:lang="fr">L`ère des dieux géants</title>
+<title xml:lang="x-jat">Kyoshin-tachi no Jidai</title>
+</episode>
+<episode id="180008" update="2016-09-02">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2016-06-17</airdate>
+<title xml:lang="en">Ending 2</title>
+</episode>
+</episodes>
+</anime>

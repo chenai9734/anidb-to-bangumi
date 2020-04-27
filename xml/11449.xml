@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11449" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1938</startdate>
+<enddate>1938</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tekusuke Monogatari</title>
+<title xml:lang="ja" type="official">テク助物語</title>
+</titles>
+<description>A short animation film by Seo Mitsuyo.</description>
+<ratings>
+<permanent count="26">2.35</permanent>
+<temporary count="26">3.76</temporary>
+</ratings>
+<picture>175700.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30012</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170291" update="2015-07-27">
+<epno type="1">1</epno>
+<length>9</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

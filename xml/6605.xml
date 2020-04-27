@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6605" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1986-03-21</startdate>
+<enddate>1986-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Geba Geba Shou Time!</title>
+<title xml:lang="ja" type="official">ゲバゲバ笑タイム!</title>
+</titles>
+<creators>
+<name id="7645" type="Music">Takahashi Youichi</name>
+<name id="5205" type="Character Design">Kinoshita Renzo</name>
+<name id="5205" type="Original Work">Kinoshita Renzo</name>
+<name id="5205" type="Direction">Kinoshita Renzo</name>
+</creators>
+<ratings>
+<permanent count="2">1.40</permanent>
+<temporary count="2">3.00</temporary>
+</ratings>
+<picture>27854.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15450</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>21525</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3341</identifier>
+<identifier>wlyloo</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88786</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="104198" update="2009-06-14">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1986-03-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

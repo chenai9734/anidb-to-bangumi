@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="130" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1991-09-27</startdate>
+<enddate>1991-12-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Otaku no Video</title>
+<title xml:lang="ru" type="synonym">Фильм об отаку 1982 &amp; 1985</title>
+<title xml:lang="x-jat" type="short">onv</title>
+<title xml:lang="ja" type="official">おたくのビデオ</title>
+<title xml:lang="en" type="official">Otaku no Video</title>
+<title xml:lang="de" type="official">Otaku No Video</title>
+<title xml:lang="fr" type="official">Otaku no Video</title>
+<title xml:lang="it" type="official">Otaku no Video</title>
+<title xml:lang="nl" type="official">Otaku no Video</title>
+</titles>
+<relatedanime>
+<anime id="2780" type="Other">Daicon III &amp; IV Opening Animation</anime>
+</relatedanime>
+<similaranime>
+<anime id="1783" approval="29" total="30">Genshiken</anime>
+</similaranime>
+<url>http://www.gainax.co.jp/anime/otaku/</url>
+<creators>
+<name id="718" type="Work">Gainax</name>
+<name id="718" type="Original Plan">Gainax</name>
+<name id="3052" type="Direction">Mori Takeshi</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="3983" type="Character Design">Sonoda Ken`ichi</name>
+</creators>
+<description>A true treat for true fans of any genre, Otaku no Video ("Fan`s Video") is an outrageous mockumentary that combines the superb animation that made GAINAX one of Japan`s best-loved animation studios with truly strange interviews with "real animation fans." The result is a thinly fictionalized history of GAINAX that segues into a truly strange SF adventure. Sit back and enjoy as a small band of Otaku (fans) set out to "Otakunize" the human race!</description>
+<ratings>
+<permanent count="1223">6.19</permanent>
+<temporary count="1227">6.99</temporary>
+<review count="3">6.72</review>
+</ratings>
+<picture>212808.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>293</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>785</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>430</identifier>
+<identifier>znhlmb</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gainax.co.jp/anime/otaku/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Otaku_no_Video</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おたくのビデオ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>159529</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1545</identifier>
+</externalentity>
+<externalentity>
+<identifier>585</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2655" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2864" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>daily life</name>
+<description>The antics of the protagonists do not take place in some exotic setting or time, but in everyday life. When not "at the job" this means getting up in the morning, making meals, house cleaning, going shopping or out to eat, visiting the bath house or spa, leisure activities in the spare time, etc. The time "on the job" for students is School Life, for others working in their profession. Daily Life is basically a synonym for everything normal, repetitive, and trivial happening to your average person.</description>
+<picurl>210069.jpg</picurl>
+</tag>
+<tag id="4522" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-03">
+<name>social commentary</name>
+<description>Social commentary is the act of rebelling against an individual, or a group of people by rhetorical means. This is most often done with the idea of implementing or promoting change by informing the general populace about a given problem and appealing to people’s sense of justice. (Source: Wikipedia)&#13;
+&#13;
+Since this is anime, usually, the mores of Japan and the Japanese society are scrutinised, but not restricted to that.</description>
+</tag>
+<tag id="4618" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-10">
+<name>mockumentary</name>
+<description>A mockumentary is a type of film or television show in which fictional events are presented in documentary style to create a parody.
+Source: Wikipedia</description>
+</tag>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6030" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-22">
+<name>otaku culture</name>
+<description>Otaku (おたく/オタク) is a Japanese term used to refer to people with obsessive interests, particularly anime, manga, and video games. A female otaku is occasionally referred to as a fujoshi. (Source: Wikipedia)
+Here certain aspects of this "fandom" are presented in more detail, e.g. the creation of doujinshi (self-published amateur manga).</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="86291" type="main character in" update="2016-11-20">
+<rating votes="1">8.73</rating>
+<name>Kubo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194887.jpg</picture>
+<seiyuu id="342" picture="17179.jpg">Tsujitani Kouji</seiyuu>
+</character>
+<character id="86292" type="main character in" update="2016-11-20">
+<rating votes="1">8.73</rating>
+<name>Tanaka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194889.jpg</picture>
+<seiyuu id="2603" picture="22591.jpg">Sakurai Toshiharu</seiyuu>
+</character>
+<character id="86293" type="secondary cast in" update="2016-11-20">
+<name>Ueno Yoshiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194894.jpg</picture>
+<seiyuu id="240" picture="17059.jpg">Inoue Kikuko</seiyuu>
+</character>
+<character id="86294" type="appears in" update="2016-11-20">
+<name>Nakamaru Youko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194897.jpg</picture>
+<seiyuu id="32671" picture="87945.jpg">Kurihara Rena</seiyuu>
+</character>
+<character id="86295" type="secondary cast in" update="2016-11-20">
+<name>Satou Yuri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194898.jpg</picture>
+<seiyuu id="2054" picture="186267.jpg">Amano Yuri</seiyuu>
+</character>
+<character id="86296" type="secondary cast in" update="2016-11-20">
+<name>Miyoshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194902.jpg</picture>
+<seiyuu id="468" picture="17383.jpg">Kikuchi Masami</seiyuu>
+</character>
+<character id="86297" type="secondary cast in" update="2016-11-20">
+<name>Iiyama</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194903.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+<character id="86298" type="secondary cast in" update="2016-11-20">
+<name>Hino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194908.jpg</picture>
+<seiyuu id="2218" picture="226178.jpg">Nakahara Shigeru</seiyuu>
+</character>
+<character id="86307" type="secondary cast in" update="2016-11-20">
+<name>Bankman Kanda</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194909.jpg</picture>
+<seiyuu id="286" picture="17117.jpg">Ootsuka Akio</seiyuu>
+</character>
+<character id="86308" type="secondary cast in" update="2016-11-20">
+<name>Fukuhara Misuzu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194910.jpg</picture>
+<seiyuu id="1901" picture="186579.jpg">Kobayashi Yuuko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="826" update="2005-12-30">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1991-09-27</airdate>
+<rating votes="11">5.63</rating>
+<title xml:lang="ja">1982 おたくのビデオ</title>
+<title xml:lang="en">1982 Otaku no Video</title>
+<title xml:lang="x-jat">1982 Otaku no Video</title>
+</episode>
+<episode id="827" update="2011-10-20">
+<epno type="1">2</epno>
+<length>50</length>
+<airdate>1991-12-20</airdate>
+<rating votes="9">6.52</rating>
+<title xml:lang="ja">1985 続・おたくのビデオ</title>
+<title xml:lang="en">1985 More Otaku no Video</title>
+<title xml:lang="x-jat">1985 Zoku Otaku no Video</title>
+</episode>
+</episodes>
+</anime>

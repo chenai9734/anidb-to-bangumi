@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13373" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2004</startdate>
+<enddate>2004</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zenchuu Maite</title>
+<title xml:lang="ja" type="official">蠕虫舞手</title>
+<title xml:lang="en" type="official">Dancer of Vermicular</title>
+</titles>
+<url>http://kankaku.jp/independent-jp/vermicu.html</url>
+<description>Based on a poem by Kenji Miyazawa.
+A worm in this river looks shiny to me. 8 γ e 6 α
+Source: Official website</description>
+<ratings>
+<permanent count="21">2.41</permanent>
+<temporary count="21">3.64</temporary>
+</ratings>
+<picture>205890.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30211</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kankaku.jp/independent-jp/vermicu.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://kankaku.jp/independent-en/vermicu.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="192474" update="2017-11-03">
+<epno type="1">1</epno>
+<length>7</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

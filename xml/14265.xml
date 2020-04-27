@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14265" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1976</startdate>
+<enddate>1976</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Belle to Kaijuu Ouji</title>
+<title xml:lang="ja" type="official">ベルとかいじゅう王子</title>
+</titles>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+<ratings>
+<permanent count="3">5.23</permanent>
+<temporary count="3">5.33</temporary>
+</ratings>
+<picture>222202.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34227</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204242" update="2018-08-13">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

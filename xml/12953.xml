@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12953" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-11-25</startdate>
+<enddate>2017-11-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Kaiketsu Zorori: ZZ no Himitsu</title>
+<title xml:lang="ja" type="official">映画かいけつゾロリ ZZのひみつ</title>
+</titles>
+<relatedanime>
+<anime id="3584" type="Other">Majime ni Fumajime Kaiketsu Zorori</anime>
+</relatedanime>
+<url>http://www.zorori-movie.jp/</url>
+<ratings>
+<permanent count="1">3.67</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>228829.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35074</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.zorori-movie.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まじめにふまじめ_かいけつゾロリ#ZZのひみつ（アニメオリジナル）</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5182</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360019</identifier>
+</externalentity>
+</resource>
+<resource type="22">
+<externalentity>
+<identifier>zorori.movie</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>zorori_movie</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="189063" update="2020-04-11">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>2017-11-25</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

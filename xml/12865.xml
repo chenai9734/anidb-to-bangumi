@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12865" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1931</startdate>
+<enddate>1931</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Misemono Kenbutsu</title>
+<title xml:lang="ja" type="official">漫画 見世物見物</title>
+<title xml:lang="en" type="official">At the Circus</title>
+</titles>
+<creators>
+<name id="9278" type="Direction">Murata Yasuji</name>
+</creators>
+<ratings>
+<permanent count="19">2.32</permanent>
+<temporary count="19">3.39</temporary>
+</ratings>
+<picture>198719.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35395</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184941" update="2017-02-22">
+<epno type="1">1</epno>
+<length>2</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

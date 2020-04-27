@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14797" restricted="false">
+<type>Web</type>
+<episodecount>6</episodecount>
+<startdate>2019-12-30</startdate>
+<enddate>2019-12-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Saiki Kusuo no Sainan: Saishidou Hen</title>
+<title xml:lang="ko" type="synonym">사이키 쿠스오의 재난: 재시동 편</title>
+<title xml:lang="ja" type="official">斉木楠雄のΨ難 Ψ始動編</title>
+<title xml:lang="en" type="official">The Disastrous Life of Saiki K.: Reawakened</title>
+<title xml:lang="ko" type="official">사이키 쿠스오의 재난: 끝난 줄 알았지?</title>
+<title xml:lang="zh-Hans" type="official">齐木楠雄的灾难 再始动篇</title>
+</titles>
+<relatedanime>
+<anime id="12112" type="Parent Story">Saiki Kusuo no Sainan (2016)</anime>
+<anime id="12691" type="Parent Story">Saiki Kusuo no Sainan (2018)</anime>
+<anime id="14189" type="Parent Story">Saiki Kusuo no Sainan: Kanketsuhen</anime>
+</relatedanime>
+<url>https://www.saikikusuo.com/index.html</url>
+<creators>
+<name id="5984" type="Music">Psychic Lover</name>
+<name id="2194" type="Direction">Sakurai Hiroaki</name>
+<name id="38180" type="Original Work">Asou Shuuichi</name>
+<name id="2841" type="Work">Shogakukan-Shueisha Productions</name>
+<name id="3562" type="Character Design">Onji Masayuki</name>
+<name id="720" type="Animation Work">J.C.Staff</name>
+<name id="46167" type="Animation Work">Egg Firm</name>
+</creators>
+<description>Being an esper seems cool on TV, but in http://anidb.net/ch81960 [Saiki Kusuo]`s life as a normal teenager it`s a real drag.
+Source: netflix</description>
+<ratings>
+<permanent count="162">7.62</permanent>
+<temporary count="162">7.56</temporary>
+</ratings>
+<picture>240179.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22601</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>40542</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.saikikusuo.com/index.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>The_Disastrous_Life_of_Saiki_K.</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>斉木楠雄のΨ難</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367643</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>saikikusuo_PR</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="81960" type="main character in" update="2016-07-06">
+<rating votes="90">9.05</rating>
+<name>Saiki Kusuo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188165.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="81963" type="secondary cast in" update="2016-07-06">
+<rating votes="28">6.45</rating>
+<name>Kaidou Shun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188167.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="81964" type="secondary cast in" update="2016-07-06">
+<rating votes="29">6.60</rating>
+<name>Nendou Riki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188166.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="82071" type="secondary cast in" update="2016-07-06">
+<rating votes="22">4.17</rating>
+<name>Yumehara Chiyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188171.jpg</picture>
+<seiyuu id="350" picture="20063.jpg">Tamura Yukari</seiyuu>
+</character>
+<character id="82072" type="secondary cast in" update="2016-07-06">
+<rating votes="64">8.24</rating>
+<name>Teruhashi Kokomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188170.jpg</picture>
+<seiyuu id="20497" picture="62433.jpg">Kayano Ai</seiyuu>
+</character>
+<character id="82202" type="secondary cast in" update="2016-07-06">
+<rating votes="20">6.29</rating>
+<name>Hairo Kineshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188168.jpg</picture>
+<seiyuu id="315" picture="70740.jpg">Hino Satoshi</seiyuu>
+</character>
+<character id="82203" type="secondary cast in" update="2016-07-06">
+<rating votes="19">2.75</rating>
+<name>Toritsuka Reita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188169.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="82897" type="secondary cast in" update="2016-07-06">
+<rating votes="18">7.26</rating>
+<name>Kuboyasu Aren</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188173.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="106123" type="secondary cast in" update="2019-10-28">
+<name>Iguchi Takumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>240473.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="106124" type="secondary cast in" update="2019-10-28">
+<rating votes="1">8.02</rating>
+<name>Suzumiya Hii</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>240474.jpg</picture>
+<seiyuu id="21312" picture="232438.jpg">Touyama Nao</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="225728" update="2019-12-30">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-12-30</airdate>
+<title xml:lang="ja">三人の男と幼女と警官とあと犬 / ゲームの世界へのΨンイン / 掲Ψ危機!? 終焉社のお仕事 / Ψ子自慢! ママ友会議 / 自慢の粘土Ψ工を披露しよう</title>
+<title xml:lang="en">Three Men, a Little Girl, a Police Officer and a Dog / Sign In to the Game World / Publishing Crisis? Working at Shuensha / Proud Mom of a Son! Mom`s Meetup / Let`s Show Our Proud Clay Work</title>
+<title xml:lang="ko">세 남자와 소녀와 경찰과 개 / 게임 세계로 로그인 / 마감 위기? 슈엔샤의 업무 / 아들 자랑! 엄마 모임 / 점토 작품을 자랑하자</title>
+<title xml:lang="x-jat">Sannin no Otoko to Youjo to Keikan to Ato Inu / Game no Sekai e Sign In / Keisai Kiki!? Shuuensha no Oshigoto / Saishi Jiman! Mama Tomo Kaigi / Jiman no Nendosaiku o Hirou Shiyou</title>
+</episode>
+<episode id="225729" update="2019-12-30">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2019-12-30</airdate>
+<title xml:lang="ja">超(無駄)能力のΨ難 / Ψ強デッキを組み上げろ! / Ψは投げられた...! 激闘カードバトル / Ψ虎芽斗吏の勝利の方程式 / 勇者のΨ難</title>
+<title xml:lang="en">Disasters Caused by Super Useless Abilities / Build the Most Powerful Deck! / The Die Is Cast! Fierce Card Battle / Metori Saiko`s Equation of Victory / Hero in Disaster</title>
+<title xml:lang="ko">초(무쓸모)능력의 재앙 / 최강의 덱을 만들자 / 주사위는 던져졌다! 격전의 카드 배틀 / 사이코 메토리의 승리 방정식 / 용자의 재난</title>
+<title xml:lang="x-jat">Chou (Muda) Nouryoku no Sainan / Saikyou Deck o Kumiagero! / Sai wa Nagerareta...! Gekitou Card Battle / Saiko Metori no Shouri no Houteishiki / Yuusha no Sainan</title>
+</episode>
+<episode id="225730" update="2019-12-30">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2019-12-30</airdate>
+<title xml:lang="ja">異Ψを放つ新任教師現る / 身体測定のΨ難 / 両親不Ψの友達の家に遊びに行こう / 目指せ! ジャンプ掲Ψ / 皆様も是非一度足を運んでみてくだΨ</title>
+<title xml:lang="en">New Teacher with an Outstanding Feature / The Disaster of the School Physical / Visiting a Friend`s House While Their Parents Are Out / Let`s Aim for a Debut in Jump Magazine! / Please Visit There and Enjoy</title>
+<title xml:lang="ko">독특한 신임 교사 등장하다 / 신체검사의 재앙 / 부모님이 안 계실 때 친구 집에 놀러 가자 / `점프 매거진` 연재를 목표로! / 꼭 한번 방문해 주세요</title>
+<title xml:lang="x-jat">Isai o Hanatsu Shinnin Kyoushi Arawaru / Shintai Sokutei no Sainan / Ryoushinfuzai no Tomodachi no Ie ni Asobi ni Ikou / Mezase! Jump Keisai / Mina-sama mo Zehi Ichido Ashi o Hakonde Mite Kudasai</title>
+</episode>
+<episode id="225731" update="2019-12-30">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2019-12-30</airdate>
+<title xml:lang="ja">恐怖! Ψ厄の転校生現る! (前編) / 恐怖! Ψ厄の転校生現る! (中編) / 恐怖! Ψ厄の転校生現る! (後編) / Ψンを読め! 相ト命の予知 / Ψ厄とΨ適の戦い!!</title>
+<title xml:lang="en">Terrifying! A Disastrous Transfer Student Appears! (Part One) / Terrifying! A Disastrous Transfer Student Appears! (Part Two) / Terrifying! A Disastrous Transfer Student Appears! (Part Three) / Read the Signs! Mikoto Aiura`s Fortune Telling / A Disastrous and Optimal Battle!</title>
+<title xml:lang="ko">공포! 최악의 전학생 등장! (전편) / 공포! 최악의 전학생 등장! (중편) / 공포! 최악의 전학생 등장! (후편) / 징조를 읽어라! 아이우라 미코토의 예지 / 최악이자 최적의 싸움!</title>
+<title xml:lang="x-jat">Kyoufu! Saiyaku no Tenkousei Arawaru! (Zenpen) / Kyoufu! Saiyaku no Tenkousei Arawaru! (Chuuhen) / Kyoufu! Saiyaku no Tenkousei Arawaru! (Kouhen) / Sign o Yome! Aiura Mikoto no Yochi / Saiyaku to Saiteki no Tatakai!!</title>
+</episode>
+<episode id="225732" update="2019-12-30">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2019-12-30</airdate>
+<title xml:lang="ja">イジメ救Ψ! 井口先生 / 突如開Ψ! リアルリアル型脱出ゲーム / 休日はウマが合う仲間と / 鳥束VS[バーサス]佐藤! 交Ψ権争奪戦! (前編) / 鳥束VS[バーサス]佐藤! 交Ψ権争奪戦! (後編)</title>
+<title xml:lang="en">Bully Rescue! Mr. Iguchi / Suddenly Begins! Real Real Escape Room / Spending the Weekend with Best Friends / Toritsuka vs. Satou! Love Contest! (First Volume) / Toritsuka vs. Satou! Fighting over Rights to Date! (Second Volume)</title>
+<title xml:lang="ko">왕따를 막아라! 이구치 선생님 / 갑작스러운 개최! 리얼 리얼 탈출 게임 / 휴일은 마음이 맞는 친구와 함께 / 토리츠카 VS 사토! 사랑 쟁탈전! (전편) / 토리츠카 VS 사토! 사랑 쟁탈전! (후편)</title>
+<title xml:lang="x-jat">Ijime Kyuusai! Iguchi-sensei / Totsujokaisai! Real Real Gata Dasshutsu Game / Kyuujitsu wa Uma ga Au Nakama to / Toritsuka Versus Satou! Kousaikensou Dassen! (Zenpen) / Toritsuka Versus Satou! Kousaikensou Dassen! (Kouhen)</title>
+</episode>
+<episode id="225733" update="2019-12-30">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2019-12-30</airdate>
+<title xml:lang="ja">斉木楠雄のΨ起動 (1) / 斉木楠雄のΨ起動 (2) / 斉木楠雄のΨ起動 (3) / 斉木楠雄のΨ起動 (4) / 斉木楠雄のΨ起動 (5)</title>
+<title xml:lang="en">Restarting Saiki Kusuo Part 1 / Restarting Saiki Kusuo Part 2 / Restarting Saiki Kusuo Part 3 / Restarting Saiki Kusuo Part 4 / Restarting Saiki Kusuo Part 5</title>
+<title xml:lang="ko">사이키 쿠스오 재기동 1편 / 사이키 쿠스오 재기동 2편 / 사이키 쿠스오 재기동 3편 / 사이키 쿠스오 재기동 4편 / 사이키 쿠스오 재기동 5편</title>
+<title xml:lang="x-jat">Saiki Kusuo no Saikidou (1) / Saiki Kusuo no Saikidou (2) / Saiki Kusuo no Saikidou (3) / Saiki Kusuo no Saikidou (4) / Saiki Kusuo no Saikidou (5)</title>
+</episode>
+</episodes>
+</anime>

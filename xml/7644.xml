@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7644" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1970-12-19</startdate>
+<enddate>1970-12-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Attack No.1: Namida no Sekai Senshuken</title>
+<title xml:lang="ja" type="official">アタックNo.1 涙の世界選手権</title>
+</titles>
+<relatedanime>
+<anime id="757" type="Full Story">Attack Number One</anime>
+</relatedanime>
+<creators>
+<name id="10059" type="Original Work">Urano Chikako</name>
+<name id="3637" type="Music">Watanabe Takeo</name>
+</creators>
+<ratings>
+<permanent count="16">5.01</permanent>
+<temporary count="16">5.53</temporary>
+</ratings>
+<picture>187117.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9166</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2464</identifier>
+<identifier>uiztxa</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5179</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>143435</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m043</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="25185" type="main character in" update="2010-11-20">
+<rating votes="20">8.25</rating>
+<name>Ayuhara Kozue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59559.jpg</picture>
+<seiyuu id="24676" picture="69690.jpg">Kobato Kurumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="119601" update="2012-12-18">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1970-12-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

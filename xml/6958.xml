@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6958" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010-01-16</startdate>
+<enddate>2010-01-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Himitsukessha Taka no Tsume The Movie 3: http://takanotsume.jp wa Eien ni</title>
+<title xml:lang="en" type="synonym">Secret Society Eagle Talon The Movie 3: http://TakanoTsume.jp is Forever</title>
+<title xml:lang="x-jat" type="synonym">Himitsu Kessha Taka no Tsume The Movie 3 ~http://takanotsume.jp wa Eien ni~</title>
+<title xml:lang="ja" type="official">秘密結社 鷹の爪 THE MOVIE3 http://鷹の爪.jp は永遠に</title>
+</titles>
+<relatedanime>
+<anime id="6638" type="Prequel">Himitsukessha Taka no Tsume The Movie II: Watashi o Aishita Kuro Oolong-Cha</anime>
+</relatedanime>
+<url>http://鷹の爪.jp/</url>
+<creators>
+<name id="3825" type="Direction">Frogman</name>
+</creators>
+<description>The third film based on the Flash-animated Himitsukessha Taka no Tsume gag comedy television shorts.</description>
+<ratings>
+<permanent count="4">2.54</permanent>
+<temporary count="4">1.75</temporary>
+</ratings>
+<picture>33964.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11034</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8357</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4605</identifier>
+<identifier>dyknfe</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://鷹の爪.jp/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>334826</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12331</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=6kmM2GtOBOQ</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="110549" update="2010-04-16">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2010-01-16</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

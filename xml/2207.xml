@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2207" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1967-07-21</startdate>
+<enddate>1967-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hyokkori Hyoutan Shima</title>
+<title xml:lang="ja" type="official">ひょっこりひょうたん島</title>
+</titles>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_hyoutan/</url>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="4382" type="Music">Uno Seiichirou</name>
+<name id="7911" type="Original Work">Yamamoto Morihisa</name>
+<name id="6767" type="Original Work">Inoue Hisashi</name>
+</creators>
+<description>A group of kids are stranded on a volcanic deserted island.</description>
+<ratings>
+<permanent count="2">6.41</permanent>
+<temporary count="2">7.00</temporary>
+</ratings>
+<picture>3157.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1465</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22887</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2307</identifier>
+<identifier>catsah</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_hyoutan/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>142139</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m020</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="21624" update="2011-10-20">
+<epno type="1">1</epno>
+<length>65</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="129063" update="2011-03-30">
+<epno type="3">C1</epno>
+<length>1</length>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="189473" update="2017-07-24">
+<epno type="6">O1</epno>
+<length>9</length>
+<title xml:lang="en">Hyokkori Hyoutan Shima Clip</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14069" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-08-14</startdate>
+<enddate>2019-08-14</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Annyeong, Tirano</title>
+<title xml:lang="ja" type="official">さよなら, ティラノ</title>
+<title xml:lang="ko" type="official">안녕, 티라노</title>
+<title xml:lang="x-jat" type="official">Sayonara, Tyrano</title>
+</titles>
+<creators>
+<name id="19592" type="Original Work">Miyanishi Tatsuya</name>
+<name id="6809" type="Music">Sakamoto Ryuuichi</name>
+<name id="14495" type="Direction">Shizuno Koubun</name>
+<name id="723" type="Animation Work">Tezuka Productions</name>
+<name id="4306" type="Chief Animation Direction">Eguchi Marisuke</name>
+</creators>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>217177.jpg</picture>
+<resources>
+<resource type="6">
+<externalentity>
+<identifier>My_Tyrano:_Together,_Forever</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>371491</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6166" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>South Korean production</name>
+<description>See also: http://anidb.net/t6762 [North Korean production]</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6690" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-07-12">
+<name>Sino-Japanese co-production</name>
+</tag>
+</tags>
+</anime>

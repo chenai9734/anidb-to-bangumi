@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11195" restricted="false">
+<type>Movie</type>
+<episodecount>6</episodecount>
+<startdate>2015-04-17</startdate>
+<enddate>2016</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anime-Gatari</title>
+<title xml:lang="ja" type="official">アニメガタリ</title>
+</titles>
+<relatedanime>
+<anime id="13114" type="Other">Anime-Gataris</anime>
+</relatedanime>
+<url>https://www.tohotheater.jp/animegatari/</url>
+<description>A short anime screened during intermissions at TOHO CINEMAS.</description>
+<ratings>
+<permanent count="12">2.33</permanent>
+<temporary count="12">5.58</temporary>
+</ratings>
+<picture>171919.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30617</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.tohotheater.jp/animegatari/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>352543</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="74471" type="main character in" update="2017-10-17">
+<name>Erika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171927.jpg</picture>
+<seiyuu id="38553" picture="183948.jpg">Inami Anju</seiyuu>
+</character>
+<character id="74472" type="main character in" update="2017-10-17">
+<rating votes="1">6.09</rating>
+<name>Maya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171928.jpg</picture>
+<seiyuu id="21013" picture="201781.jpg">Minase Inori</seiyuu>
+</character>
+<character id="74473" type="main character in" update="2015-04-16">
+<name>Senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171926.jpg</picture>
+<seiyuu id="567" picture="80605.jpg">Asanuma Shintarou</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="197026" update="2018-03-13">
+<epno type="1">1</epno>
+<length>2</length>
+<title xml:lang="ja">No More ネタバレ!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">No More Netabare!</title>
+</episode>
+<episode id="197027" update="2018-03-13">
+<epno type="1">2</epno>
+<length>2</length>
+<title xml:lang="ja">マヤも叫びたかったのに.</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Maya mo Sakebitakatta no ni.</title>
+</episode>
+<episode id="197028" update="2018-03-13">
+<epno type="1">3</epno>
+<length>2</length>
+<title xml:lang="ja">セイントマヤ</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Saint Maya</title>
+</episode>
+<episode id="197029" update="2018-03-13">
+<epno type="1">4</epno>
+<length>2</length>
+<title xml:lang="ja">食レポ</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Shoku Repo</title>
+</episode>
+<episode id="197030" update="2018-03-13">
+<epno type="1">5</epno>
+<length>2</length>
+<title xml:lang="ja">作画戦隊ホウカイザー</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Sakuga Sentai Houkaiser</title>
+</episode>
+<episode id="197031" update="2018-03-13">
+<epno type="1">6</epno>
+<length>2</length>
+<title xml:lang="ja">アニメガタリ同好会のテーマ</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Animegatari Doukoukai no Theme</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12248" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1980</startdate>
+<enddate>1980</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Sun Wukong Qiyu Xiaodingding</title>
+<title xml:lang="zh-Hant" type="official">孫悟空奇遇小丁丁</title>
+</titles>
+<description>This lively animated film is sort of a modern day version of the ancient Chinese epic "Journey to the West", but instead is a journey into science fiction. The film features the Monkey King and Ding Ding, a boy living in modern society. It is a test of technological strength and the magic tricks are no match against Ding Ding`s modern knowledge and technology.</description>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>188007.jpg</picture>
+<resources>
+<resource type="20">
+<externalentity>
+<identifier>丁丁战猴王</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2846" parentid="7050" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="3752" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-10">
+<name>Journey to the West</name>
+<description>Journey to the West is a classic Chinese mythological novel. It was written during the Ming Dynasty based on traditional folk tales. Consisting of 100 chapters, this fantasy relates the adventures of a Tang Dynasty priest Sanzang and his three disciples, Monkey, Pig and Friar Sand, as they travel west in search of Buddhist Sutra. Several anime are loosely based on its story, most famously Dragon Ball.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+</anime>

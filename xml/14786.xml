@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14786" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-10-25</startdate>
+<enddate>2019-10-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Thunderbolt Fantasy: Seiyuu Genka</title>
+<title xml:lang="ja" type="official">Thunderbolt Fantasy 西幽玹歌</title>
+<title xml:lang="en" type="official">Thunderbolt Fantasy: Bewitching Melody of the West</title>
+</titles>
+<relatedanime>
+<anime id="12441" type="Parent Story">Thunderbolt Fantasy: Touri-ken Yuuki 2</anime>
+</relatedanime>
+<url>http://www.thunderboltfantasy.com/gaiden2/</url>
+<creators>
+<name id="39149" type="Character Design">Mimori Shinobu</name>
+<name id="46459" type="Character Design">Minoa</name>
+<name id="46221" type="Character Design">Minamoto Satoru</name>
+<name id="28227" type="Character Design">Namaniku ATK</name>
+<name id="2442" type="Original Plan">Urobuchi Gen</name>
+</creators>
+<ratings>
+<permanent count="13">7.00</permanent>
+<temporary count="13">6.88</temporary>
+</ratings>
+<picture>236703.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://www.thunderboltfantasy.com/gaiden2/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Thunderbolt_Fantasy</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Thunderbolt_Fantasy_東離劍遊紀</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>369339</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>TBF_PR</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>thunderbolt-fantasy</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>puppetmation</name>
+<description>A puppet is an inanimate object or representational figure animated or manipulated by a puppeteer. It is usually (but by no means always) a depiction of a human character, and is used in puppetry, a play or a presentation that is a very ancient form of theatre. The puppet undergoes a process of transformation through being animated, and is normally manipulated by at least one puppeteer.
+There are many different varieties of puppets, and they are made of a wide range of materials, depending on their form and intended use. They can be extremely complex or very simple in their construction. They may even be found objects. As Oscar Wilde wrote, "There are many advantages in puppets. They never argue. They have no crude views about art. They have no private lives".</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="93769" type="secondary cast in" update="2018-02-15">
+<name>Xiao Kuang Juan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213031.jpg</picture>
+<seiyuu id="2802" picture="176252.jpg">Shingaki Tarusuke</seiyuu>
+</character>
+<character id="93770" type="main character in" update="2018-02-15">
+<name>Lang Wu Yao</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213032.jpg</picture>
+<seiyuu id="4926" picture="25983.jpg">Nishikawa Takanori</seiyuu>
+</character>
+<character id="93771" type="secondary cast in" update="2018-02-15">
+<name>Ling Ya</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213034.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="219053" update="2019-10-26">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2019-10-25</airdate>
+<title xml:lang="en">Complete Movie</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792185</identifier>
+<identifier>thunderbolt-fantasy</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

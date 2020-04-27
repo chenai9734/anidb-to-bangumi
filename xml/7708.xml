@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7708" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981-04-11</startdate>
+<enddate>1981-04-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Furiten-kun</title>
+<title xml:lang="ja" type="official">フリテンくん</title>
+</titles>
+<relatedanime>
+<anime id="5284" type="Sequel">Furiten-kun (1990)</anime>
+</relatedanime>
+<creators>
+<name id="12472" type="Original Work">Ueda Masashi</name>
+<name id="3842" type="Direction">Sugiyama Taku</name>
+<name id="6202" type="Chief Animation Direction">Miwa Takateru</name>
+<name id="9927" type="Music">Akano Tachio</name>
+<name id="1313" type="Animation Work">Knack</name>
+<name id="6202" type="Character Design">Miwa Takateru</name>
+</creators>
+<ratings>
+<permanent count="7">5.72</permanent>
+<temporary count="7">5.85</temporary>
+</ratings>
+<picture>245372.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8231</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20093</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3105</identifier>
+<identifier>oddubj</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Furiten-kun</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>フリテンくん</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>147576</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4467</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120185" update="2010-07-22">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>1981-04-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

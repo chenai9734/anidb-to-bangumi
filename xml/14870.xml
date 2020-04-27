@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14870" restricted="false">
+<type>Web</type>
+<episodecount>40</episodecount>
+<startdate>2019-01-25</startdate>
+<titles>
+<title xml:lang="x-zht" type="main">AOTU Shijie Di San Ji</title>
+<title xml:lang="zh" type="synonym">凹凸世界 シーズン3</title>
+<title xml:lang="zh-Hans" type="official">凹凸世界 第三季</title>
+</titles>
+<relatedanime>
+<anime id="13471" type="Prequel">AOTU Shijie Di Er Ji</anime>
+</relatedanime>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>232945.jpg</picture>
+<resources>
+<resource type="33">
+<externalentity>
+<identifier>凹凸世界/8541916</identifier>
+</externalentity>
+</resource>
+<resource type="34">
+<externalentity>
+<url>https://www.bilibili.com/bangumi/media/md4315962/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+</anime>

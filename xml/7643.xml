@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7643" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1970-08-01</startdate>
+<enddate>1970-08-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Attack No.1: Namida no Kaiten Receive</title>
+<title xml:lang="ja" type="official">アタックNo.1 涙の回転レシーブ</title>
+</titles>
+<relatedanime>
+<anime id="757" type="Full Story">Attack Number One</anime>
+</relatedanime>
+<creators>
+<name id="10059" type="Original Work">Urano Chikako</name>
+<name id="3637" type="Music">Watanabe Takeo</name>
+</creators>
+<ratings>
+<permanent count="17">5.18</permanent>
+<temporary count="17">5.70</temporary>
+</ratings>
+<picture>187116.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9165</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2463</identifier>
+<identifier>oigjof</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5178</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>143310</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m040</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2758" parentid="2881" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-05">
+<name>volleyball</name>
+<description>Volleyball is a team sport in which two teams of six players are separated by a net. Each team tries to score points by grounding a ball on the other team`s court under organized rules.
+Use the http://anidb.net/t7147 [competitive beach volleyball] tag for competition or professional beach volleyball play. Use the http://anidb.net/t6478 [beach volleyball episode] tag when the beach volleyball game is a one-off event, such as during a beach or pool visit.</description>
+<picurl>221599.jpg</picurl>
+</tag>
+<tag id="2881" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="25185" type="main character in" update="2010-11-20">
+<rating votes="20">8.25</rating>
+<name>Ayuhara Kozue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59559.jpg</picture>
+<seiyuu id="24676" picture="69690.jpg">Kobato Kurumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="119600" update="2010-07-07">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1970-08-01</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

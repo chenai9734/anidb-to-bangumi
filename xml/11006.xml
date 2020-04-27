@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11006" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2013-04-17</startdate>
+<enddate>2013-04-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hana wa Saku</title>
+<title xml:lang="ja" type="synonym">Hana wa Saku - Flowers Will Bloom</title>
+<title xml:lang="en" type="synonym">Flowers Will Bloom</title>
+<title xml:lang="ja" type="official">花は咲く</title>
+</titles>
+<relatedanime>
+<anime id="11019" type="Other">Hana wa Saku: Touhoku ni Saku</anime>
+</relatedanime>
+<url>http://www.nhk.or.jp/ashita/themesong/anime/</url>
+<creators>
+<name id="5875" type="Character Design">Kaneko Shizue</name>
+<name id="219" type="Direction">Katabuchi Sunao</name>
+<name id="31375" type="Animation Work">MAPPA</name>
+</creators>
+<description>There are flower fairies living among us.
+They are known as Petal.
+Through the ages, Petal have always watched over us tenderly and delivered us joy.
+Life carries on.
+Source: NHK
+Note: Created to support the recovery of the Tohoku region affected by the March 2011 disaster.</description>
+<ratings>
+<permanent count="94">5.84</permanent>
+<temporary count="94">6.21</temporary>
+</ratings>
+<picture>166510.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17897</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nhk.or.jp/ashita/themesong/anime/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.nhk.or.jp/japan311/flowers/anime.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>花は咲く</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="165011" update="2014-12-31">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2013-04-17</airdate>
+<rating votes="3">4.29</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

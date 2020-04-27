@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7786" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1994-07-21</startdate>
+<enddate>1994-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hello Kitty no Shoukoujo</title>
+<title xml:lang="ja" type="official">ハローキティの小公女</title>
+</titles>
+<creators>
+<name id="9342" type="Original Work">Frances Hodgson Burnett</name>
+<name id="4880" type="Direction">Hata Masami</name>
+<name id="13820" type="Music">Nanba Tadashi</name>
+</creators>
+<ratings>
+<permanent count="1">3.67</permanent>
+<temporary count="1">4.00</temporary>
+</ratings>
+<picture>52387.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22459</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>161249</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120587" update="2010-08-01">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1994-07-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

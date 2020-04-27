@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12399" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-08-21</startdate>
+<enddate>2014-08-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mori no Densetsu: Dai Ni Gakushou</title>
+<title xml:lang="ja" type="official">森の伝説 第二楽章</title>
+</titles>
+<relatedanime>
+<anime id="2899" type="Prequel">Mori no Densetsu</anime>
+</relatedanime>
+<url>http://tezukaosamu.net/jp/anime/161.html</url>
+<creators>
+<name id="6275" type="Direction">Tezuka Makoto</name>
+<name id="4109" type="Character Design">Sugino Akio</name>
+<name id="1195" type="Original Plan">Tezuka Osamu</name>
+<name id="8979" type="Music">Pyotr Ilyich Tchaikovsky</name>
+<name id="12991" type="Work">Ooishi Mitsuaki</name>
+<name id="6355" type="Chief Animation Direction">Uchida Hiroshi</name>
+</creators>
+<description>Sequel of http://anidb.net/a2899 [Mori no Densetsu], created from Tezuka Osamu`s notes.</description>
+<ratings>
+<permanent count="44">7.18</permanent>
+<temporary count="44">6.65</temporary>
+</ratings>
+<picture>236857.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32041</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tezukaosamu.net/jp/anime/161.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="180092" update="2016-10-05">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2014-08-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2051" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-03-10</startdate>
+<enddate>1990-03-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Akuma-kun: Youkoso Akuma Land e!!</title>
+<title xml:lang="en" type="synonym">Devil Boy: Welcome to Devil Land!!</title>
+<title xml:lang="ja" type="official">悪魔くん ようこそ悪魔ランドへ!!</title>
+</titles>
+<relatedanime>
+<anime id="1854" type="Other">Akuma-kun</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="3611" type="Direction">Satou Jun`ichi</name>
+<name id="4341" type="Original Work">Mizuki Shigeru</name>
+<name id="4808" type="Music">Aoki Nozomi</name>
+</creators>
+<ratings>
+<permanent count="11">4.72</permanent>
+<temporary count="11">5.36</temporary>
+</ratings>
+<picture>204360.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3679</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8227</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3106</identifier>
+<identifier>nolbst</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2671</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151022</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>965</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="20397" update="2011-09-18">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1990-03-10</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

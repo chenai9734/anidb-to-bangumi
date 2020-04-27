@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11220" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2006-01-28</startdate>
+<enddate>2006-01-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ski Jumping Pairs: Road to Torino 2006</title>
+<title xml:lang="ja" type="official">スキージャンプ・ペア ~Road to TORINO 2006~</title>
+</titles>
+<description>A CG animated film by Riichiro Mashima.
+A new breed of ski jumping has been born: pair ski jumping! This is a promotional movie for the new sport using CG graphics to demonstrate its possibilities.</description>
+<ratings>
+<permanent count="19">2.10</permanent>
+<temporary count="19">3.63</temporary>
+</ratings>
+<picture>172882.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10627</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1327</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="178036" update="2016-06-11">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2006-01-28</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

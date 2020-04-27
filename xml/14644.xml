@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14644" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2022</startdate>
+<enddate>2022</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Kuiba V: Chongtian Shuo</title>
+<title xml:lang="zh-Hans" type="synonym">魁拔5之冲天槊</title>
+<title xml:lang="x-zht" type="synonym">Kuiba 5 Zhi Chongtian Shuo</title>
+<title xml:lang="zh" type="official">魁拔V: 冲天槊</title>
+</titles>
+<relatedanime>
+<anime id="14643" type="Prequel">Kuiba IV: Mei Lingluo</anime>
+<anime id="8823" type="Other">Kuiba</anime>
+<anime id="10048" type="Other">Kuiba II: Dazhan Yuan Yang Jie</anime>
+<anime id="10861" type="Other">Kuiba III: Zhanshen Jueqi</anime>
+<anime id="14861" type="Other">Kuiba Yao Xia Zhuan</anime>
+</relatedanime>
+<url>https://movie.douban.com/subject/26087740/</url>
+<picture>232938.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>https://movie.douban.com/subject/26087740/</url>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>魁拔</identifier>
+</externalentity>
+</resource>
+<resource type="33">
+<externalentity>
+<identifier>魁拔之冲天槊/850628</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="215915" update="2019-04-22">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

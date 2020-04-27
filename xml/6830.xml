@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6830" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1925</startdate>
+<enddate>1925</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ubasuteyama</title>
+<title xml:lang="ja" type="synonym">姥捨山</title>
+<title xml:lang="x-jat" type="synonym">Obasuteyama</title>
+<title xml:lang="ja" type="official">姨捨山</title>
+<title xml:lang="en" type="official">The Mountain Where Old Women Are Abandoned</title>
+</titles>
+<description>Once upon a time, there was a lord in Shinano Province who hated old men. In accordance with the rules of the province, a person was exiled to an island when they turned 60 years old. On the night of August 15th, there was one such farmer woman, but her son loved her, and took her to a mountain to leave her there instead of turning her over to the cruel officers. However, he felt sorry about what he was doing and hid her under the earthen floor of a barn. One day, a messenger of the lord of the neighboring province was sent to the lord of Shinano Province making an unreasonable demand that a silk thread be threaded through a winding hole in a crystal ball and threatened that force would be used unless the task was done. The devoted son consulted with his mother, and she taught him a method in which you put honey around the end of one hole and let an ant tied with a thread go through it from the other end. The lord rewarded the son. However, a messenger was sent from the neighboring province again demanding that they identify which of two identical mares is the parent and which is the child. The son asked his mother again and then told the solution to the lord. When told by the lord that he would grant the son`s wish, he pleaded for his mother`s life. Since then, old men and women have been treated with respect and are no longer exiled.
+Source: animation.filmarchives.jp</description>
+<ratings>
+<permanent count="39">4.86</permanent>
+<temporary count="39">5.20</temporary>
+</ratings>
+<picture>198716.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>27573</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://animation.filmarchives.jp/en/works/view/42190</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106587" update="2017-02-24">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

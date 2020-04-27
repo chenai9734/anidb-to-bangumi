@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11663" restricted="false">
+<type>TV Series</type>
+<episodecount>7</episodecount>
+<startdate>2012</startdate>
+<titles>
+<title xml:lang="x-kot" type="main">Gogulyeoui Jeolm-eun Musadeul</title>
+<title xml:lang="en" type="synonym">Young Warriors of Koguryo</title>
+<title xml:lang="ko" type="official">고구려의 젊은 무사들</title>
+</titles>
+<ratings>
+<permanent count="2">4.83</permanent>
+<temporary count="2">5.50</temporary>
+</ratings>
+<picture>178051.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31692</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6762" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>North Korean production</name>
+<description>See also: http://anidb.net/t6166 [South Korean production]</description>
+</tag>
+</tags>
+<episodes>
+<episode id="172085" update="2015-09-29">
+<epno type="1">2</epno>
+<length>30</length>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="ko">아버지와 아들</title>
+</episode>
+<episode id="172086" update="2015-09-29">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="ko">피묻은 밀서</title>
+</episode>
+<episode id="174406" update="2016-01-09">
+<epno type="1">7</epno>
+<length>30</length>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="ko">고구려 사신</title>
+</episode>
+<episode id="174407" update="2016-01-09">
+<epno type="1">6</epno>
+<length>30</length>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="ko">물러설수 없는 길</title>
+</episode>
+<episode id="174408" update="2016-01-09">
+<epno type="1">5</epno>
+<length>30</length>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="ko">어리평시합</title>
+</episode>
+<episode id="174409" update="2016-01-09">
+<epno type="1">4</epno>
+<length>30</length>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="ko">달래말 사람들</title>
+</episode>
+<episode id="174410" update="2016-01-09">
+<epno type="1">3</epno>
+<length>30</length>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="ko">궁성을 앞에 두고</title>
+</episode>
+<episode id="204655" update="2018-08-27">
+<epno type="3">C1</epno>
+<length>1</length>
+<title xml:lang="en">Opening 1</title>
+</episode>
+</episodes>
+</anime>

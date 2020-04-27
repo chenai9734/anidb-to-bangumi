@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14466" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2018-04-05</startdate>
+<enddate>2018-04-05</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Mao Yu Tao Hua Yuan</title>
+<title xml:lang="en" type="synonym">Cats and Peachtopia</title>
+<title xml:lang="zh" type="official">猫与桃花源</title>
+<title xml:lang="fr" type="official">Oscar et Le Monde des Chats</title>
+<title xml:lang="it" type="official">Birba: Micio Combinaguai</title>
+</titles>
+<description>A cat named Blanket has long been living in a high-rise apartment in the city with his son, Cloak. One day, curious about the outside world, Cloak decides to leave home and embarks on an adventure to find the legendary cat`s paradise. To find his son, Blanket must overcome his fear and reconcile with his past, with the help of a female Macaw.
+Source: IMDB</description>
+<ratings>
+<permanent count="4">4.64</permanent>
+<temporary count="4">4.50</temporary>
+</ratings>
+<picture>228270.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37179</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="211525" update="2018-12-28">
+<epno type="1">1</epno>
+<length>105</length>
+<airdate>2018-04-05</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

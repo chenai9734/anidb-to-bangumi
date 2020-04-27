@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5119" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2003-01-07</startdate>
+<enddate>2003-03-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Garakuta-doori no Stain</title>
+<title xml:lang="ja" type="official">ガラクタ通りのステイン</title>
+<title xml:lang="en" type="official">Ga-Ra-Ku-Ta: Mr. Stain on Junk Alley</title>
+</titles>
+<creators>
+<name id="7869" type="Character Design">Masuda Wakako</name>
+<name id="7844" type="Original Work">Masuda Ryuuji</name>
+<name id="7844" type="Direction">Masuda Ryuuji</name>
+<name id="34810" type="Music">Meyna Co.</name>
+</creators>
+<description>http://anidb.net/ch3181 [Mr. Stain], an artist/inventor, and his cat friend, http://anidb.net/ch3182 [Palvan], have numerous adventures concerning art supplies and junk found in Junk Alley.
+Source: ANN</description>
+<ratings>
+<permanent count="63">5.40</permanent>
+<temporary count="65">6.28</temporary>
+</ratings>
+<picture>12130.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>54</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>12497</identifier>
+</externalentity>
+<externalentity>
+<identifier>3519</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1133</identifier>
+<identifier>mvpadm</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mr._Stain</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ガラクタ通りのステイン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>240587</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6146</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="3181" type="main character in" update="2009-02-11">
+<name>Stain</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18860.jpg</picture>
+<seiyuu id="1981" picture="1918.gif">Usui Takayasu</seiyuu>
+</character>
+<character id="3182" type="secondary cast in" update="2009-02-12">
+<name>Palvan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18861.jpg</picture>
+</character>
+<character id="3183" type="secondary cast in" update="2009-02-12">
+<name>Eaten</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18862.jpg</picture>
+</character>
+<character id="3194" type="secondary cast in" update="2009-02-12">
+<name>Pylon</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18863.jpg</picture>
+</character>
+<character id="3195" type="secondary cast in" update="2009-02-12">
+<name>Yubiwa Tokage</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18875.jpg</picture>
+</character>
+<character id="3196" type="secondary cast in" update="2009-02-12">
+<name>Yuurei Tokage</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18876.jpg</picture>
+</character>
+<character id="3197" type="secondary cast in" update="2009-02-12">
+<name>Kimono Bijin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18877.jpg</picture>
+</character>
+<character id="3198" type="secondary cast in" update="2009-02-12">
+<name>Yubiwa Tokage</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18878.jpg</picture>
+</character>
+<character id="3199" type="secondary cast in" update="2009-02-12">
+<name>Gokuraku Tori</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18879.jpg</picture>
+</character>
+<character id="3200" type="secondary cast in" update="2009-02-12">
+<name>Chibi Tori Ani</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18880.jpg</picture>
+</character>
+<character id="3201" type="secondary cast in" update="2009-02-12">
+<name>Chibi Tori Otouto</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18881.jpg</picture>
+</character>
+<character id="3202" type="secondary cast in" update="2009-02-12">
+<name>Kao Mushi Palvan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18882.jpg</picture>
+</character>
+<character id="3203" type="secondary cast in" update="2009-02-12">
+<name>Radio Boy</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18883.jpg</picture>
+</character>
+<character id="3204" type="secondary cast in" update="2009-02-12">
+<name>Radio Girl</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18884.jpg</picture>
+</character>
+<character id="3205" type="secondary cast in" update="2009-02-12">
+<name>Koneko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18885.jpg</picture>
+</character>
+<character id="3206" type="secondary cast in" update="2009-02-12">
+<name>Fukurozaru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18888.jpg</picture>
+</character>
+<character id="3207" type="secondary cast in" update="2009-02-12">
+<name>Kuzewainu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18886.jpg</picture>
+</character>
+<character id="3218" type="secondary cast in" update="2009-02-12">
+<name>Robot S1-T3</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18899.jpg</picture>
+</character>
+<character id="3219" type="secondary cast in" update="2009-02-12">
+<name>Fukurekao Stain</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18900.jpg</picture>
+</character>
+<character id="3220" type="secondary cast in" update="2009-02-12">
+<name>Jiyuu na Tori</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18901.jpg</picture>
+</character>
+<character id="3231" type="secondary cast in" update="2009-02-12">
+<name>Tebukuro</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18914.jpg</picture>
+</character>
+<character id="3232" type="secondary cast in" update="2009-02-12">
+<name>Koneko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18916.jpg</picture>
+</character>
+<character id="3233" type="secondary cast in" update="2009-02-12">
+<name>Stefany</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18915.jpg</picture>
+</character>
+<character id="3234" type="secondary cast in" update="2009-02-12">
+<name>Romeria</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18917.jpg</picture>
+</character>
+<character id="3235" type="secondary cast in" update="2009-06-23">
+<name>Uchuusen</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18919.jpg</picture>
+</character>
+<character id="3236" type="secondary cast in" update="2009-02-12">
+<name>Yume no Romeria</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18918.jpg</picture>
+</character>
+<character id="3237" type="secondary cast in" update="2009-02-12">
+<name>Nendo Stain</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18920.jpg</picture>
+</character>
+<character id="3238" type="secondary cast in" update="2009-02-12">
+<name>Half Clay</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18921.jpg</picture>
+</character>
+<character id="3239" type="secondary cast in" update="2009-02-12">
+<name>Tiny</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18922.jpg</picture>
+</character>
+<character id="3240" type="secondary cast in" update="2009-02-24">
+<name>Tiny Otousan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18923.jpg</picture>
+</character>
+<character id="3241" type="secondary cast in" update="2009-02-12">
+<name>Akachan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18924.jpg</picture>
+</character>
+<character id="3242" type="secondary cast in" update="2009-02-12">
+<name>Akachan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18930.jpg</picture>
+</character>
+<character id="3243" type="secondary cast in" update="2009-02-12">
+<name>Chouchou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18925.jpg</picture>
+</character>
+<character id="3244" type="secondary cast in" update="2009-02-12">
+<name>Keikan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18926.jpg</picture>
+</character>
+<character id="3245" type="secondary cast in" update="2009-02-12">
+<name>Kakkoii Stain</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18927.jpg</picture>
+</character>
+<character id="3246" type="secondary cast in" update="2009-02-12">
+<name>Rifa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18928.jpg</picture>
+</character>
+<character id="3247" type="secondary cast in" update="2009-02-12">
+<name>Kakkoii Rifa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18929.jpg</picture>
+</character>
+<character id="3248" type="secondary cast in" update="2009-02-12">
+<name>Smiley</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18931.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="69262" update="2010-05-06">
+<epno type="1">1</epno>
+<length>7</length>
+<airdate>2003-01-07</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">卵</title>
+<title xml:lang="en">Vol.01 EGG</title>
+<title xml:lang="x-jat">Tamago</title>
+</episode>
+<episode id="69263" update="2007-03-31">
+<epno type="1">2</epno>
+<length>7</length>
+<rating votes="1">4.35</rating>
+<title xml:lang="ja">冷蔵庫</title>
+<title xml:lang="en">Vol.02 REFRIGERATOR</title>
+<title xml:lang="x-jat">Reizouko</title>
+</episode>
+<episode id="69264" update="2007-03-31">
+<epno type="1">3</epno>
+<length>7</length>
+<rating votes="1">4.35</rating>
+<title xml:lang="ja">肖像画</title>
+<title xml:lang="en">Vol.03 PORTRAIT</title>
+<title xml:lang="x-jat">Shouzouga</title>
+</episode>
+<episode id="69265" update="2007-03-31">
+<epno type="1">4</epno>
+<length>7</length>
+<rating votes="1">4.35</rating>
+<title xml:lang="ja">極楽鳥</title>
+<title xml:lang="en">Vol.04 HEAVENLY BIRD</title>
+<title xml:lang="x-jat">Gokurakuchou</title>
+</episode>
+<episode id="69266" update="2007-03-31">
+<epno type="1">5</epno>
+<length>7</length>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">マジッククレヨン</title>
+<title xml:lang="en">Vol.05 MAGIC CRAYON</title>
+<title xml:lang="x-jat">Magic Crayon</title>
+</episode>
+<episode id="69267" update="2007-03-31">
+<epno type="1">6</epno>
+<length>7</length>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">カセットテープ</title>
+<title xml:lang="en">Vol.06 CASSETTE TAPE</title>
+<title xml:lang="x-jat">Cassette Tape</title>
+</episode>
+<episode id="69268" update="2007-03-31">
+<epno type="1">7</epno>
+<length>7</length>
+<rating votes="1">4.35</rating>
+<title xml:lang="ja">双眼鏡</title>
+<title xml:lang="en">Vol.07 BINOCULARS</title>
+<title xml:lang="x-jat">Sougankyou</title>
+</episode>
+<episode id="69269" update="2007-03-31">
+<epno type="1">8</epno>
+<length>7</length>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">リモコンロボット</title>
+<title xml:lang="en">Vol.08 TOY ROBOT</title>
+<title xml:lang="x-jat">Rimokon Robot</title>
+</episode>
+<episode id="69270" update="2007-03-31">
+<epno type="1">9</epno>
+<length>8</length>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">毛糸</title>
+<title xml:lang="en">Vol.09 WOOLEN YARN</title>
+<title xml:lang="x-jat">Keito</title>
+</episode>
+<episode id="69271" update="2007-03-31">
+<epno type="1">10</epno>
+<length>7</length>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">種子</title>
+<title xml:lang="en">Vol.10 SEED</title>
+<title xml:lang="x-jat">Shushi</title>
+</episode>
+<episode id="69272" update="2007-03-31">
+<epno type="1">11</epno>
+<length>8</length>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">粘土</title>
+<title xml:lang="en">Vol.11 CLAY</title>
+<title xml:lang="x-jat">Nebatsuchi</title>
+</episode>
+<episode id="69273" update="2007-03-31">
+<epno type="1">12</epno>
+<length>7</length>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">釣竿</title>
+<title xml:lang="en">Vol.12 FISHING ROD</title>
+<title xml:lang="x-jat">Tsurizao</title>
+</episode>
+<episode id="69274" update="2010-05-06">
+<epno type="1">13</epno>
+<length>8</length>
+<airdate>2003-03-25</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">人間</title>
+<title xml:lang="en">Vol.13 HUMAN</title>
+<title xml:lang="x-jat">Ningen</title>
+</episode>
+<episode id="69275" update="2010-05-06">
+<epno type="2">S1</epno>
+<length>30</length>
+<airdate>2003-10-11</airdate>
+<title xml:lang="ja">ハーモニカ</title>
+<title xml:lang="en">Vol.14 HARMONICA</title>
+<title xml:lang="x-jat">Harmonica</title>
+</episode>
+</episodes>
+</anime>

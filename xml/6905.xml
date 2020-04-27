@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6905" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1942-03-26</startdate>
+<enddate>1942-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Maabou no Tairiku Senbutai Kouhen: Hizoku Taiji no Maki</title>
+<title xml:lang="ja" type="official">マー坊の大陸宣撫隊 後篇 匪賊退治の巻</title>
+</titles>
+<relatedanime>
+<anime id="6904" type="Prequel">Maabou no Tairiku Senbutai Zenpen: Circus no Maki</anime>
+</relatedanime>
+<ratings>
+<permanent count="1">1.05</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<resources>
+<resource type="9">
+<externalentity>
+<identifier>134650</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="4665" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>propaganda</name>
+<description>Propaganda is communication aimed at influencing the attitude of a community toward some cause or position. As opposed to impartially providing information, propaganda in its most basic sense, presents information primarily to influence an audience. Propaganda often presents facts selectively (thus lying by omission) to encourage a particular synthesis, or uses loaded messages to produce an emotional rather than rational response to the information presented. The desired result is a change of the attitude toward the subject in the target audience to further a political agenda.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106653" update="2009-08-26">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

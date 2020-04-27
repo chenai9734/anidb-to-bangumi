@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="488" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2000-04-04</startdate>
+<enddate>2001-03-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gensou Maden Saiyuuki</title>
+<title xml:lang="fr" type="synonym">Saiyuki - Légende du mal féérique</title>
+<title xml:lang="fr" type="synonym">Saiyuki - La légende du roi des singes</title>
+<title xml:lang="bg" type="synonym">Пътуване на Запад</title>
+<title xml:lang="x-jat" type="synonym">Gensoumaden Saiyuuki</title>
+<title xml:lang="ja" type="official">幻想魔伝 最遊記</title>
+<title xml:lang="en" type="official">Saiyuki</title>
+<title xml:lang="de" type="official">Saiyuki</title>
+<title xml:lang="fr" type="official">Saiyuki</title>
+<title xml:lang="pt" type="official">Saiyuki</title>
+<title xml:lang="th" type="official">ไซยูกิ 4 แสบซ่าส์ล่าอสูร</title>
+</titles>
+<relatedanime>
+<anime id="1081" type="Sequel">Saiyuuki Reload</anime>
+<anime id="4871" type="Prequel">Saiyuuki Reload: Burial</anime>
+<anime id="4973" type="Same Setting">Gensou Maden Saiyuuki: Kibou no Zaika</anime>
+<anime id="2446" type="Alternative Setting">Saiyuuki (1999)</anime>
+<anime id="399" type="Side Story">Gekijouban Gensou Maden Saiyuuki: Requiem - Erabarezaru Mono e no Chinkonka</anime>
+</relatedanime>
+<similaranime>
+<anime id="5533" approval="4" total="8">Hatenkou Yuugi</anime>
+</similaranime>
+<recommendations total="3">
+<recommendation type="For Fans" uid="476533">I just want to say.. this series has an excessive amount of slapstick humor (ie. characters falling down at unfunny jokes) that will get to you if you aren`t into that.  Other than that it`s average.</recommendation>
+<recommendation type="Recommended" uid="31560">One of my favorite recommendations for a comedic anime.</recommendation>
+</recommendations>
+<url>http://www.tv-tokyo.co.jp/saiyuki/</url>
+<creators>
+<name id="3318" type="Direction">Date Hayato</name>
+<name id="5744" type="Original Work">Minekura Kazuya</name>
+<name id="17861" type="Character Design">Moriyama Yuuji</name>
+<name id="3748" type="Series Composition">Sumisawa Katsuyuki</name>
+<name id="6647" type="Music">Sakuraba Motoi</name>
+</creators>
+<description>* Based on the a well known story in China, Japan, Korea and Taiwan about a real journey of one buddhist monk Genjo Sanzo (AD 629) who travelled from China to India.
+The story preludes the chaos that begins in Togenkyo which is the holy land where humans and demons used to live together peacefully and got along well. However after the attempt of someone to use the art of chemical and magic together from the ancient scripture to return life to Gyumao, the super demon, one of the five gods who rule the heaven.
+Genjo Sanzo, a sanzoboshi which is the highest rank of the monk, is called to Shayou Choan Palace. He is assigned to go to the west land where the chaos begins to find out who is behind all the turmoil that is rising and to stop its process. Son Goku, Sha Gojyo, and Cho Hakkai are assigned to join him. Sanzo didn`t agree to take them along at first because the three are demons, although each of them has part of human that sustains their sanity.</description>
+<ratings>
+<permanent count="1269">5.56</permanent>
+<temporary count="1293">7.23</temporary>
+<review count="2">7.41</review>
+</ratings>
+<picture>136846.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>965</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>129</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>763</identifier>
+<identifier>eucbdj</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/saiyuki/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>159953</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2094" parentid="2849" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>magic</name>
+<description>Magic is the art of purportedly manipulating aspects of reality either by supernatural means or through knowledge of unknown occult laws.</description>
+<picurl>178878.jpg</picurl>
+</tag>
+<tag id="2282" parentid="2841" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-12-04">
+<name>fetishes</name>
+<description>Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. </description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2646" parentid="2849" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>demon</name>
+<description>In Western lore, demons are often described as minions from Hell, generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls. In Eastern lore, on the other hand, they are generally supernatural, often but not always malevolent beings who can be more mischievous than actually evil, or simply supernatural spirits of no specific alignment.</description>
+</tag>
+<tag id="2648" parentid="2849" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-11-04">
+<name>contemporary fantasy</name>
+<description>Contemporary fantasy, also known as modern fantasy or indigenous fantasy, is a sub-genre of fantasy, set in the present day. It is perhaps most popular for its sub-genre, urban fantasy.
+These terms are used to describe stories set in the putative real world (often referred to as consensus reality) in contemporary times, in which magic and magical creatures exist, either living in the interstices of our world or leaking over from alternate worlds. It thus has much in common with, and sometimes overlaps with secret history; a work of fantasy in which the magic could not remain secret or does not have any known relationship to known history would not fit into this subgenre. Occasionally certain contemporary fantasy novels will make reference to pop culture.
+Novels in which modern characters travel into alternate worlds, and all the magical action takes place there (except for the portal required to transport them), are not considered contemporary fantasy. Thus, C.S. Lewis`s The Lion, the Witch and the Wardrobe, where all fantasy events take place in the land of Narnia which is reached via a magic wardrobe, would not count as contemporary fantasy; on the other hand, the part of The Magician`s Nephew, where the Empress Jadis gets to London, tries to take over the Earth and clashes with police and a crowd of cockneys, would qualify as such.
+Contemporary fantasy is also to be distinguished from horror fiction, which also often has contemporary settings. When encountering magical events and creatures, the protagonist of a horror novel is horrified, while the protagonist of a fantasy novel (contemporary or otherwise) is filled with a sense of joy and wonder. Horrifying events may happen, but the fundamental distinction is vital.
+In his preface to That Hideous Strength, one of the earlier works falling within this sub-genre, C.S. Lewis explained why, when writing a tale about "magicians, devils, pantomime animals and planetary angels", he chose to start it with a detailed depiction of narrow-minded academic politics at a provincial English university and the schemes of crooked real estate developers: "I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters and petty kings with which a fairy tale opens have become for us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who first made and enjoyed the tales". The same is true for many of the later works in the genre, which often begin with a seemingly normal scene of modern daily life to then disclose supernatural and magical beings and events hidden behind the scenes.
+Source: wiki</description>
+</tag>
+<tag id="2741" parentid="2891" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2015-12-14">
+<name>large breasts</name>
+<description>Large breasts are breasts a fair notch larger than average, as found in some adolescent girls or fully grown women; however, as anime has no upper limit to breast size, the definition applies somewhat differently. To be considered large, breasts in anime must be bigger than real-life natural ones or natural-seeming fake ones, to the point they`d appear weirdly or even abnormally large in real-life females. On the high end of the spectrum, breasts that are as big as the character`s head or possibly a bit bigger are still considered large; however, breasts that take at least as much space as the rest of the chest or the abdomen, or that are almost as big but have an absurdly unnatural shape, are the less common http://anidb.net/t1774 [gigantic breasts] instead.</description>
+<picurl>161014.jpg</picurl>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2891" parentid="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-12-31">
+<name>breasts</name>
+<description>The female bust size matters! Or does it? The three subcategories spell out the sizes that relate to fetishes, be they gigantic, large or small. Normal sized breasts are not a fetish, it seems. The tag is not only used for ecchi anime, but also for hentai shows as well.</description>
+<picurl>161015.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3040" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>male protagonist</name>
+<description>This anime has a male protagonist.</description>
+</tag>
+<tag id="3285" parentid="2850" weight="0" localspoiler="false" globalspoiler="false" verified="true">
+<name>journey</name>
+</tag>
+<tag id="3411" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>fighting</name>
+<description>For some reason or other one faction has to take it out on some opponent via fight or battle. Typical examples of this are all the anime with "endless pointless fighting" tag.</description>
+<picurl>211266.jpg</picurl>
+</tag>
+<tag id="3528" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2012-05-13">
+<name>reincarnation</name>
+<description>One of the main characters was reborn in another body.</description>
+</tag>
+<tag id="3752" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-10">
+<name>Journey to the West</name>
+<description>Journey to the West is a classic Chinese mythological novel. It was written during the Ming Dynasty based on traditional folk tales. Consisting of 100 chapters, this fantasy relates the adventures of a Tang Dynasty priest Sanzang and his three disciples, Monkey, Pig and Friar Sand, as they travel west in search of Buddhist Sutra. Several anime are loosely based on its story, most famously Dragon Ball.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="8708" type="main character in" update="2010-04-08">
+<rating votes="108">8.96</rating>
+<name>Genjou Sanzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>28022.jpg</picture>
+<seiyuu id="384" picture="17230.jpg">Seki Toshihiko</seiyuu>
+</character>
+<character id="8709" type="main character in" update="2010-04-08">
+<rating votes="56">5.94</rating>
+<name>Son Gokuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>28053.jpg</picture>
+<seiyuu id="381" picture="186189.jpg">Hoshi Souichirou</seiyuu>
+</character>
+<character id="12540" type="main character in" update="2017-11-14">
+<rating votes="61">7.46</rating>
+<name>Cho Hakkai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45975.jpg</picture>
+<seiyuu id="194" picture="130580.jpg">Ishida Akira</seiyuu>
+</character>
+<character id="12559" type="main character in" update="2017-11-12">
+<rating votes="86">7.55</rating>
+<name>Sa Gojou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59692.png</picture>
+<seiyuu id="323" picture="211661.jpg">Hirata Hiroaki</seiyuu>
+</character>
+<character id="27061" type="appears in" update="2011-01-20">
+<name>Howan Hakase</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3781.gif</picture>
+<seiyuu id="1939" picture="21208.jpg">Aizawa Keiko</seiyuu>
+</character>
+<character id="29064" type="secondary cast in" update="2011-07-06">
+<rating votes="5">3.37</rating>
+<name>Kanzeon Bosatsu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74879.jpg</picture>
+<seiyuu id="25" picture="16608.jpg">Watanabe Misa</seiyuu>
+</character>
+<character id="29065" type="cameo appearance in" update="2011-07-06">
+<rating votes="2">6.14</rating>
+<name>Konzen Douji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74881.jpg</picture>
+</character>
+<character id="34010" type="secondary cast in" update="2013-01-17">
+<rating votes="13">6.25</rating>
+<name>Kougaiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59693.png</picture>
+<seiyuu id="198" picture="202893.jpg">Kusao Takeshi</seiyuu>
+</character>
+<character id="34264" type="secondary cast in" update="2011-07-06">
+<rating votes="3">5.45</rating>
+<name>Yaone</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74877.jpg</picture>
+<seiyuu id="352" picture="17191.jpg">Minaguchi Yuuko</seiyuu>
+</character>
+<character id="34265" type="secondary cast in" update="2011-07-06">
+<rating votes="1">8.74</rating>
+<name>Hakuryuu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74878.jpg</picture>
+<seiyuu id="2089" picture="151696.jpg">Morota Kaoru</seiyuu>
+</character>
+<character id="34268" type="appears in" update="2011-07-06">
+<name>Sanbutsushin Dansei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74890.jpg</picture>
+<seiyuu id="5321" picture="29433.jpg">Sasaki Bin</seiyuu>
+</character>
+<character id="34269" type="appears in" update="2011-07-06">
+<name>Sanbutsushin Chuusei</name>
+<gender>intersexual</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74891.jpg</picture>
+<seiyuu id="1900" picture="156922.jpg">Yamaguchi Yuriko</seiyuu>
+</character>
+<character id="34270" type="appears in" update="2011-07-06">
+<name>Sanbutsushin Josei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74892.jpg</picture>
+<seiyuu id="628" picture="188442.jpg">Dodo Asako</seiyuu>
+</character>
+<character id="34271" type="appears in" update="2011-07-06">
+<name>Houmei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74896.jpg</picture>
+<seiyuu id="1888" picture="228611.jpg">Masuda Yuki</seiyuu>
+</character>
+<character id="34620" type="appears in" update="2011-07-14">
+<rating votes="1">1.28</rating>
+<name>Jiroushin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75504.jpg</picture>
+</character>
+<character id="34621" type="appears in" update="2011-07-14">
+<name>You</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75505.jpg</picture>
+<seiyuu id="2898" picture="228086.jpg">Tsumura Makoto</seiyuu>
+</character>
+<character id="34625" type="secondary cast in" update="2011-07-14">
+<rating votes="2">5.54</rating>
+<name>Gyokumen Koushu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75509.jpg</picture>
+<seiyuu id="4934" picture="28379.jpg">Satou Shinobu</seiyuu>
+</character>
+<character id="34628" type="appears in" update="2011-07-14">
+<name>Shunrei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75515.jpg</picture>
+<seiyuu id="2901" picture="23286.jpg">Ishizuka Rie</seiyuu>
+</character>
+<character id="34629" type="appears in" update="2011-07-14">
+<name>Han Obasan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75516.jpg</picture>
+<seiyuu id="598" picture="45415.jpg">Sadaoka Sayuri</seiyuu>
+</character>
+<character id="34630" type="secondary cast in" update="2011-07-14">
+<rating votes="2">3.29</rating>
+<name>Ririn</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75518.jpg</picture>
+<seiyuu id="2089" picture="151696.jpg">Morota Kaoru</seiyuu>
+</character>
+<character id="34633" type="appears in" update="2011-07-15">
+<name>Kanan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75523.jpg</picture>
+<seiyuu id="158" picture="38198.jpg">Neya Michiko</seiyuu>
+</character>
+<character id="34636" type="appears in" update="2011-07-15">
+<name>Rikudou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75528.jpg</picture>
+<seiyuu id="4185" picture="224827.jpg">Ushiyama Shigeru</seiyuu>
+</character>
+<character id="34637" type="appears in" update="2011-07-15">
+<name>Shuuei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75526.jpg</picture>
+<seiyuu id="4185" picture="224827.jpg">Ushiyama Shigeru</seiyuu>
+</character>
+<character id="34638" type="appears in" update="2013-01-17">
+<name>Kouryuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59694.png</picture>
+<seiyuu id="1901" picture="186579.jpg">Kobayashi Yuuko</seiyuu>
+</character>
+<character id="34639" type="appears in" update="2011-07-15">
+<rating votes="1">1.00</rating>
+<name>Son Gokuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>75529.jpg</picture>
+<seiyuu id="381" picture="186189.jpg">Hoshi Souichirou</seiyuu>
+</character>
+<character id="59938" type="appears in" update="2013-09-20">
+<rating votes="1">10.00</rating>
+<name>Ni Jianyi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Dr. Ni Jianyi is one of the villain of anime/manga, Saiyuki, who is instrumental in helping Gyokumen Koushu to revive Gyumaoh. He is an evil genius and considered one of the main enemies of Genjo Sanzo and the Sanzo party.</description>
+<picture>61095.png</picture>
+<seiyuu id="297" picture="233915.jpg">Ootsuka Houchuu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="5425" update="2011-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2000-05-30</airdate>
+<rating votes="3">5.34</rating>
+<title xml:lang="ja">Lethal trap 戦いの宴</title>
+<title xml:lang="en">Lethal Trap: Fight Party</title>
+<title xml:lang="fr">L`hymne au combat</title>
+<title xml:lang="th">งานเลี้ยงแห่งการต่อสู้</title>
+<title xml:lang="x-jat">Lethal Trap: Tatakai no Utage</title>
+</episode>
+<episode id="5426" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2000-05-23</airdate>
+<rating votes="4">7.12</rating>
+<title xml:lang="ja">Confront 死を占う男</title>
+<title xml:lang="en">Confront: The Man Who Foretells Death</title>
+<title xml:lang="fr">L`homme qui annonce la mort</title>
+<title xml:lang="x-jat">Confront: Shi o Uranau Otoko</title>
+</episode>
+<episode id="5427" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2000-05-16</airdate>
+<rating votes="5">7.92</rating>
+<title xml:lang="ja">Good night 黄昏の別れ</title>
+<title xml:lang="en">Good Night: A Twilight Farewell</title>
+<title xml:lang="fr">La séparation du crépuscule</title>
+<title xml:lang="x-jat">Good Night: Tasogare no Wakare</title>
+</episode>
+<episode id="5428" update="2011-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2000-06-13</airdate>
+<rating votes="3">10.00</rating>
+<title xml:lang="ja">Tragic revenge 笑う死神</title>
+<title xml:lang="en">Tragic Revenge: The Laughing Grim Reaper</title>
+<title xml:lang="fr">Le souriant faucheur</title>
+<title xml:lang="th">เสียงหัวเราะจากเทพเจ้าแห่งความตาย</title>
+<title xml:lang="x-jat">Tragic Revenge: Warau Shinigami</title>
+</episode>
+<episode id="5429" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2000-05-09</airdate>
+<rating votes="5">7.77</rating>
+<title xml:lang="ja">Rancorous exchange 呪符の怪僧</title>
+<title xml:lang="en">Rancorous Exchange: Unnatural Talismanic Monk</title>
+<title xml:lang="fr">Le monstrueux moine aux Jufu !</title>
+<title xml:lang="x-jat">Rancorous Exchange: Jufu no Kaisou</title>
+</episode>
+<episode id="5430" update="2011-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2000-06-06</airdate>
+<rating votes="3">9.57</rating>
+<title xml:lang="ja">Fake the Face 偽りの救世主</title>
+<title xml:lang="en">Fake the Face: False Savior</title>
+<title xml:lang="fr">Les faux sauveurs</title>
+<title xml:lang="th">นักบวชตัวปลอม</title>
+<title xml:lang="x-jat">Fake the Face: Itsuwari no Kyuuseisha</title>
+</episode>
+<episode id="5431" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2000-05-02</airdate>
+<rating votes="4">3.57</rating>
+<title xml:lang="ja">Pure Assassin 美しき暗殺者</title>
+<title xml:lang="en">Pure Assassin: A Beautiful Assassin</title>
+<title xml:lang="fr">La belle assassin</title>
+<title xml:lang="x-jat">Pure Assassin: Utsukushiki Ansatsusha</title>
+</episode>
+<episode id="5432" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2000-04-25</airdate>
+<rating votes="4">6.01</rating>
+<title xml:lang="ja">CRIMSON 茜色の涙</title>
+<title xml:lang="en">Crimson: Crimson Tears</title>
+<title xml:lang="fr">Les larmes de sang</title>
+<title xml:lang="x-jat">Crimson: Akaneiro no Namida</title>
+</episode>
+<episode id="5433" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2000-04-18</airdate>
+<rating votes="4">6.73</rating>
+<title xml:lang="ja">HIS GOD MY GOD 神のいる場所</title>
+<title xml:lang="en">His God, My God: Where the Gods Are</title>
+<title xml:lang="fr">La demeure des Dieux</title>
+<title xml:lang="pt-BR">Seu Deus, Meu Deus!</title>
+<title xml:lang="x-jat">His God My God: Kami no Iru Basho</title>
+</episode>
+<episode id="5434" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2000-04-11</airdate>
+<rating votes="4">6.16</rating>
+<title xml:lang="ja">FIRST GAME 黄泉への案内人</title>
+<title xml:lang="en">First Game: A Guide to the Nether World</title>
+<title xml:lang="fr">Un guide pour l`autre monde</title>
+<title xml:lang="pt-BR">Um Guia Para O Outro Mundo!</title>
+<title xml:lang="x-jat">First Game: Yomi e no Annainin</title>
+</episode>
+<episode id="5435" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2000-04-04</airdate>
+<rating votes="5">3.47</rating>
+<title xml:lang="ja">GO TO THE WEST はるかなる西へ</title>
+<title xml:lang="en">Go to the West: To the Distant West</title>
+<title xml:lang="fr">Cap à l`ouest</title>
+<title xml:lang="pt-BR">Para O Oeste Distante!</title>
+<title xml:lang="x-jat">Go to the West: Haruka Naru Nishi e</title>
+</episode>
+<episode id="5552" update="2011-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2000-06-20</airdate>
+<rating votes="4">6.27</rating>
+<title xml:lang="ja">Wandering Destiny 闇との攻防</title>
+<title xml:lang="en">Wandering Destiny: Battle Against the Darkness</title>
+<title xml:lang="fr">La confrontation avec l`ombre</title>
+<title xml:lang="th">รุกและรับความมืด</title>
+<title xml:lang="x-jat">Wandering Destiny: Yami to no Koubou</title>
+</episode>
+<episode id="5662" update="2011-10-20">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2000-06-27</airdate>
+<rating votes="3">9.47</rating>
+<title xml:lang="ja">Crude Counterfeit 死を呼ぶ果実</title>
+<title xml:lang="en">Crude Counterfeit: Fruit That Summons Death</title>
+<title xml:lang="fr">Le fruit appelant la mort</title>
+<title xml:lang="th">ผลไม้แห่งความตาย</title>
+<title xml:lang="x-jat">Crude Counterfeit: Shi o Yobu Kajitsu</title>
+</episode>
+<episode id="5663" update="2011-10-20">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2000-07-04</airdate>
+<rating votes="3">5.47</rating>
+<title xml:lang="ja">Sweet Client ふたりの約束</title>
+<title xml:lang="en">Sweet Client: Their Promise</title>
+<title xml:lang="fr">Leur promesse à tous les deux</title>
+<title xml:lang="th">สัญญาของเราสองคน</title>
+<title xml:lang="x-jat">Sweet Client: Futari no Yakusoku</title>
+</episode>
+<episode id="5664" update="2011-10-20">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2000-07-11</airdate>
+<rating votes="5">9.83</rating>
+<title xml:lang="ja">Fated Guys 紅(あか)の呪縛</title>
+<title xml:lang="en">Fated Guys: The Binding Spell of Crimson</title>
+<title xml:lang="fr">La malédiction rouge</title>
+<title xml:lang="th">การสะกดสีเลือด</title>
+<title xml:lang="x-jat">Fated Guys: Aka no Jubaku</title>
+</episode>
+<episode id="5740" update="2011-10-20">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2000-07-18</airdate>
+<rating votes="5">10.00</rating>
+<title xml:lang="ja">Be There 生者への讃歌</title>
+<title xml:lang="en">Be There: An Ode to the Living</title>
+<title xml:lang="fr">L`hymne aux vivants</title>
+<title xml:lang="th">ร่วมทาง</title>
+<title xml:lang="x-jat">Be There: Seija e no Sanka</title>
+</episode>
+<episode id="5817" update="2011-10-20">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2000-07-25</airdate>
+<rating votes="3">6.29</rating>
+<title xml:lang="ja">Eden 終わりなき楽園</title>
+<title xml:lang="en">Eden: An Eternal Promise</title>
+<title xml:lang="fr">Le paradis sans fin</title>
+<title xml:lang="th">สรวงสวรรค์อันไร้ที่สิ้นสุด</title>
+<title xml:lang="x-jat">Eden: Owarinaki Rakuen</title>
+</episode>
+<episode id="6008" update="2011-10-20">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2000-08-01</airdate>
+<rating votes="3">8.18</rating>
+<title xml:lang="ja">Vice or Justice 正義の真実</title>
+<title xml:lang="en">Vice or Justice: The Truth of Justice</title>
+<title xml:lang="fr">Vice ou justice - La vérité de la justice</title>
+<title xml:lang="th">ความชั่วร้ายหรือความยุติธรรม</title>
+<title xml:lang="x-jat">Vice or Justice: Seigi no Shinjitsu</title>
+</episode>
+<episode id="6053" update="2011-10-20">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2000-08-08</airdate>
+<rating votes="3">9.06</rating>
+<title xml:lang="ja">Don`t Go Alone 嘆きの乙女たち</title>
+<title xml:lang="en">Don`t Go Alone: Maidens of Sorrow</title>
+<title xml:lang="fr">Ne pars pas seul - Les femmes des lamentations</title>
+<title xml:lang="th">เสียงคร่ำครวญจากสาวพรมจรรย์</title>
+<title xml:lang="x-jat">Don`t Go Alone: Nageki no Otome-tachi</title>
+</episode>
+<episode id="6077" update="2011-10-20">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2000-08-15</airdate>
+<rating votes="3">6.35</rating>
+<title xml:lang="ja">Sandstorm 流砂の罠</title>
+<title xml:lang="en">Sandstorm: The Quicksand Trap</title>
+<title xml:lang="fr">Tempête de sable - Le piège des sables mouvants</title>
+<title xml:lang="th">กับดักทรายดูด</title>
+<title xml:lang="x-jat">Sandstorm: Ryuusa no Wana</title>
+</episode>
+<episode id="6458" update="2011-10-20">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2000-08-22</airdate>
+<rating votes="3">9.47</rating>
+<title xml:lang="ja">Selfish 破滅への暴走</title>
+<title xml:lang="en">Selfish: Berserking Towards Destruction</title>
+<title xml:lang="fr">Égoïste - La folie furieuse vers la destruction</title>
+<title xml:lang="th">อะไรก็หยุดไม่ได้</title>
+<title xml:lang="x-jat">Selfish: Hametsu e no Bousou</title>
+</episode>
+<episode id="6535" update="2011-10-20">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2000-10-03</airdate>
+<rating votes="3">7.33</rating>
+<title xml:lang="ja">Calling 届かざる叫び</title>
+<title xml:lang="en">Calling: The Cry That Does Not Reach</title>
+<title xml:lang="fr">L’appel - Le hurlement inaudible</title>
+<title xml:lang="th">เสียงกรีดร้อง</title>
+<title xml:lang="x-jat">Calling: Todokazaru Sakebi</title>
+</episode>
+<episode id="6536" update="2011-10-20">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2000-09-26</airdate>
+<rating votes="5">2.65</rating>
+<title xml:lang="ja">Tomfool! Tomboy! 戦慄の刺客!</title>
+<title xml:lang="en">Tomfool! Tomboy! Horrifying Assassins!</title>
+<title xml:lang="fr">Stupide garçon manqué - Les assassins frissonnants</title>
+<title xml:lang="th">มือสังหารผู้น่ากลัว</title>
+<title xml:lang="x-jat">Tomfool! Tomboy! Senritsu no Shikaku!</title>
+</episode>
+<episode id="6537" update="2011-10-20">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2000-09-12</airdate>
+<rating votes="3">6.29</rating>
+<title xml:lang="ja">Mother 紅(あか)の絆</title>
+<title xml:lang="en">Mother: Crimson Bond</title>
+<title xml:lang="fr">Mère - Le lien rouge</title>
+<title xml:lang="th">สายสัมพันธ์สีแดง</title>
+<title xml:lang="x-jat">Mother: Aka no Kizuna</title>
+</episode>
+<episode id="6538" update="2011-10-20">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2000-09-05</airdate>
+<rating votes="3">6.41</rating>
+<title xml:lang="ja">Scapegoat 服従の代価</title>
+<title xml:lang="en">Scapegoat: The Price of Submission</title>
+<title xml:lang="fr">Bouc émissaire - Le prix de l’obéissance</title>
+<title xml:lang="th">คุณค่าของการทำตามสั่ง</title>
+<title xml:lang="x-jat">Scapegoat: Fukujuu no Daika</title>
+</episode>
+<episode id="6539" update="2011-10-20">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2000-08-29</airdate>
+<rating votes="3">8.97</rating>
+<title xml:lang="ja">Devastation 闘いの果て</title>
+<title xml:lang="en">Devastation: The End of Battle</title>
+<title xml:lang="fr">Dévastation - Au-delà du combat</title>
+<title xml:lang="th">ผลของการต่อสู้</title>
+<title xml:lang="x-jat">Devastation: Tatakai no Hate</title>
+</episode>
+<episode id="6814" update="2011-10-20">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2000-11-21</airdate>
+<rating votes="4">6.26</rating>
+<title xml:lang="ja">Faraway Dream 枯れた泪</title>
+<title xml:lang="en">Faraway Dream: Dried Up Tears</title>
+<title xml:lang="fr">Rêve lointain</title>
+<title xml:lang="th">น้ำตาที่เหือดแห้ง</title>
+<title xml:lang="x-jat">Faraway Dream: Kareta Namida</title>
+</episode>
+<episode id="6815" update="2011-10-20">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2000-11-14</airdate>
+<rating votes="3">7.22</rating>
+<title xml:lang="ja">Fake Star Strike Back 道化師の誇り</title>
+<title xml:lang="en">Fake Star Strike Back: The Pride of Clowns</title>
+<title xml:lang="fr">Les fausses stars</title>
+<title xml:lang="th">นักสู้ตัวปลอม</title>
+<title xml:lang="x-jat">Fake Star Strike Back: Doukeshi no Hokori</title>
+</episode>
+<episode id="6816" update="2011-10-20">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2000-11-07</airdate>
+<rating votes="3">8.97</rating>
+<title xml:lang="ja">Ambition 神々の驕り</title>
+<title xml:lang="en">Ambition: The Arrogance of the Gods</title>
+<title xml:lang="fr">L`orgueil des dieux</title>
+<title xml:lang="th">ความทะเยอทะยาน</title>
+<title xml:lang="x-jat">Ambition: Kamigami no Ogori</title>
+</episode>
+<episode id="6817" update="2011-10-20">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2000-10-31</airdate>
+<rating votes="3">5.34</rating>
+<title xml:lang="ja">Undertaker 地獄への招待状</title>
+<title xml:lang="en">Undertaker: An Invitation to Hell</title>
+<title xml:lang="fr">Le fossoyer</title>
+<title xml:lang="th">คำเชื้อเชิญจากนรก</title>
+<title xml:lang="x-jat">Undertaker: Jigoku e no Shoutaijou</title>
+</episode>
+<episode id="6818" update="2011-10-20">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2000-10-24</airdate>
+<rating votes="3">8.88</rating>
+<title xml:lang="ja">Unexpected Defeat 吠登城・陥落</title>
+<title xml:lang="en">Unexpected Defeat: The Fall of Houtou Castle</title>
+<title xml:lang="fr">Défaite inattendue</title>
+<title xml:lang="th">ชัยชนะที่มิอาจคาดหวัง</title>
+<title xml:lang="x-jat">Unexpected Defeat: Houtoujou Kanraku</title>
+</episode>
+<episode id="6819" update="2011-10-20">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2000-10-17</airdate>
+<rating votes="3">8.18</rating>
+<title xml:lang="ja">Lonely War 反逆の狼煙</title>
+<title xml:lang="en">Lonely War: The Launch of a Rebellion</title>
+<title xml:lang="fr">Guerre solitaire</title>
+<title xml:lang="th">สัญญาแห่งการต่อต้าน</title>
+<title xml:lang="x-jat">Lonely War: Hangyaku no Noroshi</title>
+</episode>
+<episode id="6820" update="2011-10-20">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2000-10-10</airdate>
+<rating votes="3">8.18</rating>
+<title xml:lang="ja">Advent 降臨・闘神太子</title>
+<title xml:lang="en">Advent: The War Prince Descends</title>
+<title xml:lang="fr">L`avènement</title>
+<title xml:lang="th">การจุติของเจ้าชาย</title>
+<title xml:lang="x-jat">Advent: Kourin Toushin Taishi</title>
+</episode>
+<episode id="6821" update="2011-10-20">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2000-12-12</airdate>
+<rating votes="4">9.64</rating>
+<title xml:lang="ja">Brotherhood 紅い花</title>
+<title xml:lang="en">Brotherhood: Crimson Flower</title>
+<title xml:lang="fr">Fleurs rouges</title>
+<title xml:lang="th">ดอกไม้สีแดง</title>
+<title xml:lang="x-jat">Brotherhood: Akai Hana</title>
+</episode>
+<episode id="6822" update="2011-10-20">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2000-12-05</airdate>
+<rating votes="3">6.47</rating>
+<title xml:lang="ja">Solitude 孤独の魂</title>
+<title xml:lang="en">Solitude: Solitary Soul</title>
+<title xml:lang="fr">L`âme solitaire</title>
+<title xml:lang="th">ดวงวิญญาณที่ว้าเหว่</title>
+<title xml:lang="x-jat">Solitude: Kodoku no Tamashii</title>
+</episode>
+<episode id="6823" update="2011-10-20">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2000-11-28</airdate>
+<rating votes="3">6.41</rating>
+<title xml:lang="ja">Second Contact 闘神再び</title>
+<title xml:lang="en">Second Contact: The War Prince Once Again</title>
+<title xml:lang="fr">Deuxième contact</title>
+<title xml:lang="th">เริ่มเคลื่อนไหว</title>
+<title xml:lang="x-jat">Second Contact: Toushin Futatabi</title>
+</episode>
+<episode id="7289" update="2011-10-20">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2000-12-26</airdate>
+<rating votes="3">6.65</rating>
+<title xml:lang="ja">Fleeting Vision はたせぬ約束</title>
+<title xml:lang="en">Fleeting Vision: Unfulfilled Promise</title>
+<title xml:lang="fr">Vision fugitive</title>
+<title xml:lang="th">คำสัญญาที่ไม่ซาบซึ้ง</title>
+<title xml:lang="x-jat">Fleeting Vision: Hatasenu Yakusoku</title>
+</episode>
+<episode id="7290" update="2011-10-20">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2000-12-19</airdate>
+<rating votes="3">9.06</rating>
+<title xml:lang="ja">Taciturnity 閉ざされた微笑</title>
+<title xml:lang="en">Taciturnity: The Smile That Was Locked Away</title>
+<title xml:lang="fr">Taciturnité</title>
+<title xml:lang="th">รอยยิ้มที่รอคอย</title>
+<title xml:lang="x-jat">Taciturnity: Tozasareta Hohoemi</title>
+</episode>
+<episode id="10423" update="2011-10-20">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2001-01-09</airdate>
+<rating votes="3">9.22</rating>
+<title xml:lang="ja">Misty Rain 雨</title>
+<title xml:lang="en">Misty Rain: Rain</title>
+<title xml:lang="fr">Pluie brûmeuse</title>
+<title xml:lang="th">สายฝน</title>
+<title xml:lang="x-jat">Misty Rain: Ame</title>
+</episode>
+<episode id="10424" update="2011-10-20">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2001-03-13</airdate>
+<rating votes="2">10.00</rating>
+<title xml:lang="ja">Absolutely Heaven 自由への扉</title>
+<title xml:lang="en">Absolutely Heaven: Door to Freedom</title>
+<title xml:lang="fr">Absolument paradisiaque</title>
+<title xml:lang="x-jat">Absolutely Heaven: Jiyuu e no Tobira</title>
+</episode>
+<episode id="10425" update="2011-10-20">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2001-01-30</airdate>
+<rating votes="3">6.41</rating>
+<title xml:lang="ja">Festival 忘れえぬ風景</title>
+<title xml:lang="en">Festival: Unforgettable View</title>
+<title xml:lang="fr">Le pays inoubliable</title>
+<title xml:lang="x-jat">Festival: Wasureenu Fuukei</title>
+</episode>
+<episode id="10426" update="2011-10-20">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2001-02-06</airdate>
+<rating votes="3">3.71</rating>
+<title xml:lang="ja">Tears 虚像の街</title>
+<title xml:lang="en">Tears: False Town</title>
+<title xml:lang="fr">La ville aux illusions</title>
+<title xml:lang="x-jat">Tears: Kyozou no Machi</title>
+</episode>
+<episode id="10427" update="2011-10-20">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2001-01-23</airdate>
+<rating votes="5">7.96</rating>
+<title xml:lang="ja">Collage 静かなる波紋</title>
+<title xml:lang="en">Collage: Quiet Expulsion</title>
+<title xml:lang="fr">Montage</title>
+<title xml:lang="x-jat">Collage: Shizukanaru Hamon</title>
+</episode>
+<episode id="10428" update="2011-10-20">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2001-03-20</airdate>
+<rating votes="2">10.00</rating>
+<title xml:lang="ja">Missing Desire 輝く楽園</title>
+<title xml:lang="en">Missing Desire: Shining Paradise</title>
+<title xml:lang="fr">L`eden étincelant</title>
+<title xml:lang="x-jat">Missing Desire: Kagayaku Rakuen</title>
+</episode>
+<episode id="10429" update="2011-10-20">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2001-03-27</airdate>
+<rating votes="2">9.24</rating>
+<title xml:lang="ja">Alone 西へ</title>
+<title xml:lang="en">Alone: Westward</title>
+<title xml:lang="fr">Seul vers l`ouest</title>
+<title xml:lang="x-jat">Alone: Nishi e</title>
+</episode>
+<episode id="10430" update="2011-10-20">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2001-02-27</airdate>
+<rating votes="3">8.39</rating>
+<title xml:lang="ja">Chaos 揺らぐ大地</title>
+<title xml:lang="en">Chaos: The Trembling Earth</title>
+<title xml:lang="fr">Chaos</title>
+<title xml:lang="x-jat">Chaos: Yuragu Daichi</title>
+</episode>
+<episode id="10431" update="2011-10-20">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2001-01-16</airdate>
+<rating votes="5">7.93</rating>
+<title xml:lang="ja">Twilight 不機嫌な太陽</title>
+<title xml:lang="en">Twilight: The Irate Sun</title>
+<title xml:lang="fr">Crépuscule</title>
+<title xml:lang="th">แสงอาทิตย์ที่อบอุ่น</title>
+<title xml:lang="x-jat">Twilight: Fukigen na Taiyou</title>
+</episode>
+<episode id="10432" update="2011-10-20">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2001-02-20</airdate>
+<rating votes="3">6.77</rating>
+<title xml:lang="ja">Glorious Days 夜明け前</title>
+<title xml:lang="en">Glorious Days: Before Dawn</title>
+<title xml:lang="fr">Avant l`aube</title>
+<title xml:lang="x-jat">Glorious Days: Yoake Mae</title>
+</episode>
+<episode id="10433" update="2011-10-20">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2001-02-13</airdate>
+<rating votes="3">3.86</rating>
+<title xml:lang="ja">Plunderer 経文強奪</title>
+<title xml:lang="en">Plunderer: Scripture Stolen</title>
+<title xml:lang="fr">L`extorsion du sutra</title>
+<title xml:lang="x-jat">Plunderer: Kyoumon Goudatsu</title>
+</episode>
+<episode id="10434" update="2011-10-20">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2001-03-06</airdate>
+<rating votes="3">8.88</rating>
+<title xml:lang="ja">Guilty or Not Guilty 戒罪</title>
+<title xml:lang="en">Guilty or Not Guilty: Kaizai</title>
+<title xml:lang="fr">Coupable ou non coupable</title>
+<title xml:lang="x-jat">Guilty or Not Guilty: Kaizai</title>
+</episode>
+<episode id="49146" update="2015-08-01">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>2000-04-04</airdate>
+<rating votes="1">1.00</rating>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="49147" update="2015-08-01">
+<epno type="3">C3</epno>
+<length>1</length>
+<airdate>2000-04-04</airdate>
+<rating votes="1">3.57</rating>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="84294" update="2015-08-01">
+<epno type="3">C4</epno>
+<length>2</length>
+<rating votes="1">1.23</rating>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="170391" update="2015-08-01">
+<epno type="3">C2</epno>
+<length>1</length>
+<airdate>2000-10-10</airdate>
+<title xml:lang="en">Opening 2</title>
+</episode>
+</episodes>
+</anime>

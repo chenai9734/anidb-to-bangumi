@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3623" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1981-05-05</startdate>
+<enddate>1981-05-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Helen Keller Monogatari: Ai to Hikari no Tenshi</title>
+<title xml:lang="en" type="synonym">The Story of Helen Keller: Angel of Love and Light</title>
+<title xml:lang="ar" type="synonym">هيلين كيلر</title>
+<title xml:lang="ja" type="official">ヘレン・ケラー物語 愛と光の天使</title>
+<title xml:lang="fi" type="official">Helen Keller</title>
+</titles>
+<creators>
+<name id="5500" type="Direction">Ikeno Fumio</name>
+</creators>
+<description>* Based on Helen Keller`s (1880-1968) autobiography.</description>
+<ratings>
+<permanent count="13">4.57</permanent>
+<temporary count="13">5.88</temporary>
+</ratings>
+<picture>5305.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4717</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6728</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235533</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3423</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>1295</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="40962" update="2005-09-03">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1981-05-05</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

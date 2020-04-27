@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12156" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-03-11</startdate>
+<enddate>2017-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zunda Horizon</title>
+<title xml:lang="ja" type="official">ずんだホライずん</title>
+</titles>
+<url>http://animetamago.jp/title.php?id=4</url>
+<creators>
+<name id="1276" type="Animation Work">Wao World</name>
+<name id="787" type="Animation Work">Studio Live</name>
+<name id="8560" type="Direction">Takeuchi Hiroshi</name>
+<name id="7962" type="Character Design">Suzuki Risa</name>
+<name id="2822" type="Music">Tada Akifumi</name>
+</creators>
+<description>http://anidb.net/ch87588 [Touhoku Zunko] can make any mochi into delicious zunda mochi by shooting it with her Zunda Arrow. Along with http://anidb.net/ch87587 [Touhoku Kiritan], http://anidb.net/ch87589 [Touhoku Itako], http://anidb.net/ch87581 [Chuugoku Usagi], http://anidb.net/ch87585 [Shikoku Metan], and http://anidb.net/ch87583 [Kyuushuu Sora], she enjoys eating zunda mochi while being full of happiness.
+http://anidb.net/ch87586 [Ooedo Chanko] conversely leads the Natto Factory along with her companions http://anidb.net/ch87582 [Chuubu Tsurugi], http://anidb.net/ch87591 [Kansai Shinobi], http://anidb.net/ch87590 [Okinawa Awamo], and http://anidb.net/ch87584 [Hokkaidou Meron]. Even though zunda and natto use the same type of bean, the edamame used in zunda and the soy beans used in natto are harvested at different times, with edamame being harvested first. As a result, the members of the Natto Factory are afraid of a decrease in the quantity of soybeans harvested. Chanko sends Okinawa Awamo and Hokkaido Meron to Zunko`s house to assassinate her, but a third power makes their appearance.
+Source: ANN</description>
+<ratings>
+<permanent count="18">2.48</permanent>
+<temporary count="18">4.47</temporary>
+</ratings>
+<picture>192025.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19638</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33390</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://animetamago.jp/2017/title.php?id=4</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4567</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358548</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2750" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="4859" parentid="6153" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-06-09">
+<name>Wakate Animator Ikusei Project</name>
+<description>The Young Animator Training Project is an annual project launched in 2010 and funded by the Japanese government`s Agency for Cultural Affairs. The project, which culminates in a series of shorts produced by various animation studios each year, means to address the concern that more of the Japanese animation process is being outsourced overseas, thus leading to a decline in opportunities to teach animation techniques within Japan. As such, the animation production for each short is required to be based in Japan, and professionals must impart their know-how to the young animators through on-the-job training.
+Source: Wikipedia</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<characters>
+<character id="87580" type="secondary cast in" update="2017-02-18">
+<name>Zundamon</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198352.jpg</picture>
+<seiyuu id="47801" picture="194716.jpg">Itou Yuina</seiyuu>
+</character>
+<character id="87581" type="secondary cast in" update="2017-02-18">
+<name>Chuugoku Usagi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198345.jpg</picture>
+<seiyuu id="43485" picture="223364.jpg">Momokawa Rika</seiyuu>
+</character>
+<character id="87582" type="secondary cast in" update="2017-02-18">
+<rating votes="1">5.01</rating>
+<name>Chuubu Tsurugi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198344.jpg</picture>
+<seiyuu id="43431" picture="203457.jpg">Hamaguchi Ayano</seiyuu>
+</character>
+<character id="87583" type="secondary cast in" update="2017-02-18">
+<name>Kyuushuu Sora</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198348.jpg</picture>
+<seiyuu id="40590" picture="159151.jpg">Nishida Nozomi</seiyuu>
+</character>
+<character id="87584" type="secondary cast in" update="2017-02-18">
+<rating votes="1">8.28</rating>
+<name>Hokkaidou Meron</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198346.jpg</picture>
+<seiyuu id="9510" picture="185781.jpg">Shimizu Ayaka</seiyuu>
+</character>
+<character id="87585" type="secondary cast in" update="2017-02-18">
+<name>Shikoku Metan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198351.jpg</picture>
+</character>
+<character id="87586" type="secondary cast in" update="2017-02-18">
+<name>Ooedo Chanko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198350.jpg</picture>
+<seiyuu id="47798" picture="223258.jpg">Sashide Maria</seiyuu>
+</character>
+<character id="87587" type="main character in" update="2017-02-18">
+<name>Touhoku Kiritan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198342.jpg</picture>
+<seiyuu id="38966" picture="147731.jpg">Akaneya Himika</seiyuu>
+</character>
+<character id="87588" type="main character in" update="2017-02-18">
+<rating votes="1">8.28</rating>
+<name>Touhoku Zunko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198343.jpg</picture>
+<seiyuu id="162" picture="23208.jpg">Satou Satomi</seiyuu>
+</character>
+<character id="87589" type="main character in" update="2017-02-18">
+<name>Touhoku Itako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198341.jpg</picture>
+<seiyuu id="32738" picture="88323.jpg">Kido Ibuki</seiyuu>
+</character>
+<character id="87590" type="secondary cast in" update="2017-02-18">
+<name>Okinawa Awamo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198349.jpg</picture>
+<seiyuu id="43430" picture="243752.jpg">Koga Aoi</seiyuu>
+</character>
+<character id="87591" type="secondary cast in" update="2017-02-18">
+<name>Kansai Shinobi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198347.jpg</picture>
+<seiyuu id="40344" picture="181316.jpg">Imamura Ayaka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="184477" update="2017-09-15">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-03-11</airdate>
+<rating votes="1">1.09</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

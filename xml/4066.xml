@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4066" restricted="false">
+<type>TV Series</type>
+<episodecount>66</episodecount>
+<startdate>2001-06-04</startdate>
+<enddate>2001-10-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mini Moni Yaru no da Pyon!</title>
+<title xml:lang="ja" type="official">ミニモニ. やるのだぴょん</title>
+</titles>
+<relatedanime>
+<anime id="4065" type="Character">Mini Moni the TV</anime>
+</relatedanime>
+<description>The very tiny adventures of the equally tiny bright and happy J-pop group Mini Moni, without a real continued plot between each short.
+Source: ANN</description>
+<ratings>
+<permanent count="26">2.37</permanent>
+<temporary count="26">3.90</temporary>
+</ratings>
+<picture>5691.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5212</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7452</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ミニモニ。#TV.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>13101</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2652" parentid="2853" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super deformed</name>
+<description>A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s http://anidb.net/t4055 [face suddenly turns into a simplified version], the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).</description>
+<picurl>65692.png</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="42433" update="2005-10-22">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2001-06-05</airdate>
+<title xml:lang="en">It`s Snacktime! Pyon!</title>
+</episode>
+<episode id="42434" update="2005-10-22">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2001-06-04</airdate>
+<title xml:lang="en">Introductions! Pyon!</title>
+</episode>
+<episode id="42435" update="2005-10-22">
+<epno type="1">35</epno>
+<length>1</length>
+<airdate>2001-07-23</airdate>
+<title xml:lang="en">Embarrassing! Pyon!</title>
+</episode>
+<episode id="42436" update="2005-10-22">
+<epno type="1">27</epno>
+<length>1</length>
+<airdate>2001-07-10</airdate>
+<title xml:lang="en">Manicures! Pyon!</title>
+</episode>
+<episode id="42437" update="2005-10-22">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2001-06-06</airdate>
+<title xml:lang="en">Be Sexy! Pyon!</title>
+</episode>
+<episode id="42438" update="2005-10-22">
+<epno type="1">48</epno>
+<length>1</length>
+<airdate>2001-08-30</airdate>
+<title xml:lang="en">Sleeping! Pyon!</title>
+</episode>
+<episode id="42439" update="2005-10-22">
+<epno type="1">8</epno>
+<length>1</length>
+<airdate>2001-06-13</airdate>
+<title xml:lang="en">Let`s Do Something! Pyon!</title>
+</episode>
+<episode id="42440" update="2005-10-22">
+<epno type="1">36</epno>
+<length>1</length>
+<airdate>2001-07-24</airdate>
+<title xml:lang="en">A Rainy Day! Pyon!</title>
+</episode>
+<episode id="42441" update="2005-10-22">
+<epno type="1">62</epno>
+<length>1</length>
+<airdate>2001-10-16</airdate>
+<title xml:lang="en">A Magical Girl ~ Part 2! Pyon!</title>
+</episode>
+<episode id="42442" update="2005-10-22">
+<epno type="1">55</epno>
+<length>1</length>
+<airdate>2001-09-13</airdate>
+<title xml:lang="en">Playing Phone! Pyon!</title>
+</episode>
+<episode id="42443" update="2005-10-22">
+<epno type="1">42</epno>
+<length>1</length>
+<airdate>2001-08-15</airdate>
+<title xml:lang="en">A Bear! Pyon!</title>
+</episode>
+<episode id="42444" update="2005-10-22">
+<epno type="1">65</epno>
+<length>1</length>
+<airdate>2001-10-24</airdate>
+<title xml:lang="en">Fan Letters! Pyon!</title>
+</episode>
+<episode id="42445" update="2005-10-22">
+<epno type="1">66</epno>
+<length>1</length>
+<airdate>2001-10-26</airdate>
+<rating votes="1">9.27</rating>
+<title xml:lang="en">Mini Moni World! Pyon!</title>
+</episode>
+<episode id="42446" update="2005-10-22">
+<epno type="1">32</epno>
+<length>1</length>
+<airdate>2001-07-17</airdate>
+<title xml:lang="en">Internationalising ~ Part 2! Pyon!</title>
+</episode>
+<episode id="42447" update="2005-10-22">
+<epno type="1">53</epno>
+<length>1</length>
+<airdate>2001-09-06</airdate>
+<title xml:lang="en">Together! Pyon!</title>
+</episode>
+<episode id="42448" update="2005-10-22">
+<epno type="1">38</epno>
+<length>1</length>
+<airdate>2001-07-26</airdate>
+<title xml:lang="en">You Can`t Talk! Pyon!</title>
+</episode>
+<episode id="42449" update="2005-10-22">
+<epno type="1">52</epno>
+<length>1</length>
+<airdate>2001-09-05</airdate>
+<title xml:lang="en">Arm Wrestling! Pyon!</title>
+</episode>
+<episode id="42450" update="2005-10-22">
+<epno type="1">22</epno>
+<length>1</length>
+<airdate>2001-07-03</airdate>
+<title xml:lang="en">The Mysterious Bag! Pyon!</title>
+</episode>
+<episode id="42451" update="2005-10-22">
+<epno type="1">4</epno>
+<length>1</length>
+<airdate>2001-06-07</airdate>
+<title xml:lang="en">Be Sexy ~ Part 2! Pyon!</title>
+</episode>
+<episode id="42452" update="2005-10-22">
+<epno type="1">25</epno>
+<length>1</length>
+<airdate>2001-07-06</airdate>
+<title xml:lang="en">Hear No Evil! Pyon!</title>
+</episode>
+<episode id="42453" update="2005-10-22">
+<epno type="1">20</epno>
+<length>1</length>
+<airdate>2001-06-29</airdate>
+<title xml:lang="en">Hide and Seek! Pyon!</title>
+</episode>
+<episode id="42454" update="2005-10-22">
+<epno type="1">41</epno>
+<length>1</length>
+<airdate>2001-08-14</airdate>
+<title xml:lang="en">Meditation! Pyon!</title>
+</episode>
+<episode id="42455" update="2005-10-22">
+<epno type="1">58</epno>
+<length>1</length>
+<airdate>2001-10-04</airdate>
+<title xml:lang="en">Nervous! Pyon!</title>
+</episode>
+<episode id="42456" update="2005-10-22">
+<epno type="1">49</epno>
+<length>1</length>
+<airdate>2001-08-31</airdate>
+<title xml:lang="en">Sleeping ~ Part 2! Pyon!</title>
+</episode>
+<episode id="42457" update="2005-10-22">
+<epno type="1">29</epno>
+<length>1</length>
+<airdate>2001-07-12</airdate>
+<title xml:lang="en">Playing Alone! Pyon!</title>
+</episode>
+<episode id="42458" update="2005-10-22">
+<epno type="1">50</epno>
+<length>1</length>
+<airdate>2001-09-03</airdate>
+<title xml:lang="en">We`re good at Basketball! Pyon!</title>
+</episode>
+<episode id="42459" update="2005-10-22">
+<epno type="1">5</epno>
+<length>1</length>
+<airdate>2001-06-08</airdate>
+<title xml:lang="en">Be Sexy ~ Part 3! Pyon!</title>
+</episode>
+<episode id="42460" update="2005-10-22">
+<epno type="1">28</epno>
+<length>1</length>
+<airdate>2001-07-11</airdate>
+<title xml:lang="en">Parsley! Pyon!</title>
+</episode>
+<episode id="42461" update="2005-10-22">
+<epno type="1">33</epno>
+<length>1</length>
+<airdate>2001-07-18</airdate>
+<title xml:lang="en">Internationalising ~ Part 3! Pyon!</title>
+</episode>
+<episode id="42462" update="2005-10-22">
+<epno type="1">40</epno>
+<length>1</length>
+<airdate>2001-08-13</airdate>
+<title xml:lang="en">Training! Pyon!</title>
+</episode>
+<episode id="42463" update="2005-10-22">
+<epno type="1">45</epno>
+<length>1</length>
+<airdate>2001-08-27</airdate>
+<title xml:lang="en">Haiku! Pyon!</title>
+</episode>
+<episode id="42464" update="2005-10-22">
+<epno type="1">54</epno>
+<length>1</length>
+<airdate>2001-09-07</airdate>
+<title xml:lang="en">Yaguchi`s Lunch! Pyon!</title>
+</episode>
+<episode id="42465" update="2005-10-22">
+<epno type="1">34</epno>
+<length>1</length>
+<airdate>2001-07-20</airdate>
+<title xml:lang="en">Lemon! Pyon!</title>
+</episode>
+<episode id="42466" update="2005-10-22">
+<epno type="1">44</epno>
+<length>1</length>
+<airdate>2001-08-17</airdate>
+<title xml:lang="en">Patience! Pyon!</title>
+</episode>
+<episode id="42467" update="2005-10-22">
+<epno type="1">7</epno>
+<length>1</length>
+<airdate>2001-06-12</airdate>
+<title xml:lang="en">Impersonations! Pyon!</title>
+</episode>
+<episode id="42468" update="2005-10-22">
+<epno type="1">18</epno>
+<length>1</length>
+<airdate>2001-06-27</airdate>
+<title xml:lang="en">I`m Getting Angry! Pyon!</title>
+</episode>
+<episode id="42469" update="2005-10-22">
+<epno type="1">19</epno>
+<length>1</length>
+<airdate>2001-06-28</airdate>
+<title xml:lang="en">Boing Boing! Pyon!</title>
+</episode>
+<episode id="42470" update="2005-10-22">
+<epno type="1">47</epno>
+<length>1</length>
+<airdate>2001-08-29</airdate>
+<title xml:lang="en">Lonely! Pyon!</title>
+</episode>
+<episode id="42471" update="2005-10-22">
+<epno type="1">23</epno>
+<length>1</length>
+<airdate>2001-07-04</airdate>
+<title xml:lang="en">Floating! Pyon!</title>
+</episode>
+<episode id="42472" update="2005-10-22">
+<epno type="1">13</epno>
+<length>1</length>
+<airdate>2001-06-20</airdate>
+<title xml:lang="en">Props! Pyon!</title>
+</episode>
+<episode id="42473" update="2005-10-22">
+<epno type="1">21</epno>
+<length>1</length>
+<airdate>2001-07-02</airdate>
+<title xml:lang="en">The Mini Yaguchis! Pyon!</title>
+</episode>
+<episode id="42474" update="2005-10-22">
+<epno type="1">39</epno>
+<length>1</length>
+<airdate>2001-07-27</airdate>
+<title xml:lang="en">You Can`t Talk ~ Part 2! Pyon!</title>
+</episode>
+<episode id="42475" update="2005-10-22">
+<epno type="1">63</epno>
+<length>1</length>
+<airdate>2001-10-18</airdate>
+<title xml:lang="en">Skin Care! Pyon!</title>
+</episode>
+<episode id="42476" update="2005-10-22">
+<epno type="1">9</epno>
+<length>1</length>
+<airdate>2001-06-14</airdate>
+<title xml:lang="en">Telling Jokes! Pyon!</title>
+</episode>
+<episode id="42477" update="2005-10-22">
+<epno type="1">24</epno>
+<length>1</length>
+<airdate>2001-07-05</airdate>
+<title xml:lang="en">Curry! Pyon!</title>
+</episode>
+<episode id="42478" update="2005-10-22">
+<epno type="1">16</epno>
+<length>1</length>
+<airdate>2001-06-25</airdate>
+<title xml:lang="en">The Ribbon! Pyon!</title>
+</episode>
+<episode id="42479" update="2005-10-22">
+<epno type="1">56</epno>
+<length>1</length>
+<airdate>2001-09-14</airdate>
+<title xml:lang="en">Flowers! Pyon!</title>
+</episode>
+<episode id="42480" update="2005-10-22">
+<epno type="1">30</epno>
+<length>1</length>
+<airdate>2001-07-12</airdate>
+<title xml:lang="en">Food! Pyon!</title>
+</episode>
+<episode id="42481" update="2005-10-22">
+<epno type="1">43</epno>
+<length>1</length>
+<airdate>2001-08-16</airdate>
+<title xml:lang="en">Scary! Pyon!</title>
+</episode>
+<episode id="42482" update="2005-10-22">
+<epno type="1">26</epno>
+<length>1</length>
+<airdate>2001-07-09</airdate>
+<title xml:lang="en">I`m Intrigued! Pyon!</title>
+</episode>
+<episode id="42483" update="2005-10-22">
+<epno type="1">14</epno>
+<length>1</length>
+<airdate>2001-06-21</airdate>
+<title xml:lang="en">Team Gymnastics! Pyon!</title>
+</episode>
+<episode id="42484" update="2005-10-22">
+<epno type="1">15</epno>
+<length>1</length>
+<airdate>2001-06-22</airdate>
+<title xml:lang="en">Volleyball! Pyon!</title>
+</episode>
+<episode id="42485" update="2005-10-22">
+<epno type="1">31</epno>
+<length>1</length>
+<airdate>2001-07-16</airdate>
+<title xml:lang="en">Internationalising! Pyon!</title>
+</episode>
+<episode id="42486" update="2005-10-22">
+<epno type="1">61</epno>
+<length>1</length>
+<airdate>2001-10-12</airdate>
+<title xml:lang="en">A Magical Girl! Pyon!</title>
+</episode>
+<episode id="42487" update="2005-10-22">
+<epno type="1">12</epno>
+<length>1</length>
+<airdate>2001-06-19</airdate>
+<title xml:lang="en">Speaking Practice! Pyon!</title>
+</episode>
+<episode id="42488" update="2005-10-22">
+<epno type="1">57</epno>
+<length>1</length>
+<airdate>2001-10-02</airdate>
+<title xml:lang="en">Waistbands! Pyon!</title>
+</episode>
+<episode id="42489" update="2005-10-22">
+<epno type="1">46</epno>
+<length>1</length>
+<airdate>2001-08-28</airdate>
+<title xml:lang="en">It`s Japan! Pyon!</title>
+</episode>
+<episode id="42490" update="2005-10-22">
+<epno type="1">59</epno>
+<length>1</length>
+<airdate>2001-10-08</airdate>
+<title xml:lang="en">Nervous ~ Part 2! Pyon!</title>
+</episode>
+<episode id="42491" update="2005-10-22">
+<epno type="1">11</epno>
+<length>1</length>
+<airdate>2001-06-18</airdate>
+<title xml:lang="en">Fortune-telling! Pyon!</title>
+</episode>
+<episode id="42492" update="2005-10-22">
+<epno type="1">10</epno>
+<length>1</length>
+<airdate>2001-06-15</airdate>
+<title xml:lang="en">Admiration! Pyon!</title>
+</episode>
+<episode id="42493" update="2005-10-22">
+<epno type="1">60</epno>
+<length>1</length>
+<airdate>2001-10-10</airdate>
+<title xml:lang="en">A Trampoline! Pyon!</title>
+</episode>
+<episode id="42494" update="2005-10-22">
+<epno type="1">64</epno>
+<length>1</length>
+<airdate>2001-10-22</airdate>
+<title xml:lang="en">Playing Train! Pyon!</title>
+</episode>
+<episode id="42495" update="2005-10-22">
+<epno type="1">6</epno>
+<length>1</length>
+<airdate>2001-06-11</airdate>
+<title xml:lang="en">Lecturing! Pyon!</title>
+</episode>
+<episode id="42496" update="2005-10-22">
+<epno type="1">37</epno>
+<length>1</length>
+<airdate>2001-07-25</airdate>
+<title xml:lang="en">An Image Change! Pyon!</title>
+</episode>
+<episode id="42497" update="2005-10-22">
+<epno type="1">51</epno>
+<length>1</length>
+<airdate>2001-09-04</airdate>
+<title xml:lang="en">I Make Them! Pyon!</title>
+</episode>
+<episode id="42498" update="2005-10-22">
+<epno type="1">17</epno>
+<length>1</length>
+<airdate>2001-06-26</airdate>
+<title xml:lang="en">Smile! Pyon!</title>
+</episode>
+</episodes>
+</anime>

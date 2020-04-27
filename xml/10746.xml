@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10746" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2014-07-17</startdate>
+<enddate>2014-07-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pocket Monsters XY: Koukoku no Princess Diancie</title>
+<title xml:lang="ja" type="official">鉱国のプリンセス ディアンシー</title>
+</titles>
+<relatedanime>
+<anime id="10318" type="Sequel">Pocket Monsters XY: Hakai no Mayu to Diancie</anime>
+<anime id="9956" type="Parent Story">Pocket Monsters XY</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/diancie/diancie.html</url>
+<description>Prequel to the movie Pocket Monsters XY: Hakai no Mayu to Diancie.</description>
+<ratings>
+<permanent count="61">3.70</permanent>
+<temporary count="62">5.79</temporary>
+</ratings>
+<picture>158341.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25365</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/diancie/diancie.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ポケモン・ザ・ムービーXY_破壊の繭とディアンシー</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360264</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="161461" update="2014-08-08">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2014-07-17</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8580" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2011-08-17</startdate>
+<enddate>2011-08-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Paperman</title>
+<title xml:lang="ja" type="official">ペーパーマン</title>
+</titles>
+<url>http://www.paperman.jp/event/201108animation/</url>
+<description>Within the Paperman game, glimpses of an anime were shown.
+Several years later after a mobile version of the game was released, a special promotion was created where players can follow a link within the mobile game to take them to a special website where they could purchase a full 6 minute remake of the anime to view.
+Source: MAL</description>
+<ratings>
+<permanent count="2">1.21</permanent>
+<temporary count="2">3.00</temporary>
+</ratings>
+<picture>221517.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35527</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.paperman.jp/event/201108animation/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ペーパーマン</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="36449" type="main character in" update="2011-09-07">
+<name>Hayate</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53318.jpg</picture>
+<seiyuu id="381" picture="186189.jpg">Hoshi Souichirou</seiyuu>
+</character>
+<character id="36450" type="main character in" update="2011-09-07">
+<rating votes="2">6.52</rating>
+<name>Tina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53321.jpg</picture>
+<seiyuu id="1673" picture="41835.jpg">Fujita Saki</seiyuu>
+</character>
+<character id="36451" type="secondary cast in" update="2011-09-07">
+<name>Guy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53336.jpg</picture>
+<seiyuu id="73" picture="58662.jpg">Hiyama Nobuyuki</seiyuu>
+</character>
+<character id="36452" type="secondary cast in" update="2011-09-07">
+<name>Terishia</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53337.jpg</picture>
+<seiyuu id="4712" picture="27521.jpg">Nakamura Eriko</seiyuu>
+</character>
+<character id="36453" type="secondary cast in" update="2011-09-07">
+<rating votes="1">6.08</rating>
+<name>Milly</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53338.jpg</picture>
+<seiyuu id="4713" picture="186249.jpg">Hasegawa Akiko</seiyuu>
+</character>
+<character id="36468" type="secondary cast in" update="2011-09-07">
+<name>Cyrus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53340.jpg</picture>
+<seiyuu id="3803" picture="186219.jpg">Kuwabara Keiichi</seiyuu>
+</character>
+<character id="36469" type="secondary cast in" update="2011-09-07">
+<name>Doddon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53351.jpg</picture>
+<seiyuu id="15041" picture="44369.jpg">Okazaki Masahiro</seiyuu>
+</character>
+<character id="36470" type="secondary cast in" update="2011-09-07">
+<name>Aruru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53352.jpg</picture>
+<seiyuu id="1676" picture="144276.jpg">Matayoshi Ai</seiyuu>
+</character>
+<character id="36471" type="secondary cast in" update="2011-09-07">
+<name>Hood</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53353.jpg</picture>
+<seiyuu id="591" picture="226209.jpg">Mizuhashi Kaori</seiyuu>
+</character>
+<character id="36472" type="secondary cast in" update="2011-09-07">
+<name>Van</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53359.jpg</picture>
+<seiyuu id="6080" picture="186168.jpg">Takashina Toshitsugu</seiyuu>
+</character>
+<character id="36473" type="secondary cast in" update="2011-09-07">
+<rating votes="3">6.17</rating>
+<name>Irika Pareddo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>53365.jpg</picture>
+<seiyuu id="210" picture="71057.jpg">Ueda Kana</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="132543" update="2011-08-16">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2011-08-17</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

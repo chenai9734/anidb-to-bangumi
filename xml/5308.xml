@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5308" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1990-09-07</startdate>
+<enddate>1990-09-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">A Hundred Percents</title>
+<title xml:lang="en" type="synonym">A Hundred Percents</title>
+<title xml:lang="x-jat" type="short">100%</title>
+<title xml:lang="ja" type="official">100%[A Hundred Percents]</title>
+</titles>
+<creators>
+<name id="11076" type="Original Work">Yanagisawa Kimio</name>
+<name id="19590" type="Direction">Matsumoto Yoshihisa</name>
+<name id="6960" type="Character Design">Iimura Kazuo</name>
+</creators>
+<description>* Based on the manga Young Action by http://anidb.net/cr11076 [Yanagisawa Kimio].
+A pretty 22-year-old girl leaves university and gets her dream job as a TV newscaster, only to discover that life is tough at the top.</description>
+<ratings>
+<permanent count="20">2.82</permanent>
+<temporary count="20">4.87</temporary>
+</ratings>
+<picture>245686.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18048</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7374</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88598</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2536</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="77768" update="2016-01-24">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1990-09-07</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

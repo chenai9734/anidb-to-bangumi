@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5481" restricted="false">
+<type>TV Series</type>
+<episodecount>78</episodecount>
+<startdate>1969-01-13</startdate>
+<enddate>1970-07-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaitei Shounen Marine</title>
+<title xml:lang="ja" type="official">海底少年マリン</title>
+</titles>
+<relatedanime>
+<anime id="5167" type="Prequel">Ganbare! Marine Kid</anime>
+</relatedanime>
+<description>The underwater adventures of a boy that wears a special suit. The suit gives him super powers, allowing him to breathe in the ocean and converse with sea life. This is a rewritten and expanded version of the first Marine Kid series.</description>
+<ratings>
+<permanent count="12">3.79</permanent>
+<temporary count="13">5.30</temporary>
+</ratings>
+<picture>204452.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>778</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8899</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3559</identifier>
+<identifier>omgipr</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Marine_Boy</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>海底少年マリン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89602</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>265</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>68</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="1278" parentid="2274" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>android</name>
+<description>An android is a robot or synthetic organism designed to look and act like a human.</description>
+<picurl>223943.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2282" parentid="2841" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2619" parentid="2841" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>gunfights</name>
+<description>Fights where two or more parties are firing guns at one another.</description>
+<picurl>211280.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2653" parentid="2853" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="35973" type="secondary cast in" update="2011-08-25">
+<name>Akkeran</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3386" picture="24413.jpg">Kumakura Kazuo</seiyuu>
+</character>
+<character id="35974" type="secondary cast in" update="2011-08-25">
+<name>Gararin</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3380" picture="187130.jpg">Nozawa Nachi</seiyuu>
+</character>
+<character id="35975" type="secondary cast in" update="2011-08-25">
+<name>Kurikuri</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="22668" picture="186175.jpg">Sugaya Masako</seiyuu>
+</character>
+<character id="35976" type="secondary cast in" update="2011-08-25">
+<name>Neptina</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2029" picture="236292.jpg">Matsuo Yoshiko</seiyuu>
+</character>
+<character id="35977" type="secondary cast in" update="2011-08-25">
+<name>Burton</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="9443" picture="34858.jpg">Kamiyama Takuzou</seiyuu>
+</character>
+<character id="35978" type="secondary cast in" update="2011-08-25">
+<name>Whitey</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="386" picture="187997.jpg">Nozawa Masako</seiyuu>
+</character>
+<character id="35979" type="secondary cast in" update="2011-08-25">
+<name>Marina Hakase</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1818" picture="20692.jpg">Naya Gorou</seiyuu>
+</character>
+<character id="35980" type="secondary cast in" update="2011-08-25">
+<name>Shirei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="456" picture="17358.jpg">Ootsuka Chikao</seiyuu>
+</character>
+<character id="35981" type="main character in" update="2011-08-25">
+<name>Shounen Marine</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3414" picture="223019.jpg">Ohara Noriko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="83633" update="2007-10-03">
+<epno type="1">1</epno>
+<length>25</length>
+<title xml:lang="ja">海の忍者</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="83634" update="2007-10-03">
+<epno type="1">36</epno>
+<length>25</length>
+<title xml:lang="ja">霧の中の罠</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="83635" update="2007-10-03">
+<epno type="1">35</epno>
+<length>25</length>
+<title xml:lang="ja">ロボット強奪計画</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="83636" update="2007-10-03">
+<epno type="1">34</epno>
+<length>25</length>
+<title xml:lang="ja">海底要塞</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="83637" update="2007-10-03">
+<epno type="1">33</epno>
+<length>25</length>
+<title xml:lang="ja">盗まれた楽園</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="83638" update="2007-10-03">
+<epno type="1">32</epno>
+<length>25</length>
+<title xml:lang="ja">設計図を捜せ</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="83639" update="2007-10-03">
+<epno type="1">31</epno>
+<length>25</length>
+<title xml:lang="ja">謎の氷山</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="83640" update="2007-10-03">
+<epno type="1">30</epno>
+<length>25</length>
+<title xml:lang="ja">ハロークリクリ</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="83641" update="2007-10-03">
+<epno type="1">29</epno>
+<length>25</length>
+<title xml:lang="ja">海底列車強盗</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="83642" update="2007-10-03">
+<epno type="1">28</epno>
+<length>25</length>
+<title xml:lang="ja">ガメランの海竜</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="83643" update="2007-10-03">
+<epno type="1">27</epno>
+<length>25</length>
+<title xml:lang="ja">ロケットを奪還せよ</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="83644" update="2007-10-03">
+<epno type="1">26</epno>
+<length>25</length>
+<title xml:lang="ja">クリクリトリオ突撃</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="83645" update="2007-10-03">
+<epno type="1">25</epno>
+<length>25</length>
+<title xml:lang="ja">のこぎり鮫の襲撃</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="83646" update="2007-10-03">
+<epno type="1">24</epno>
+<length>25</length>
+<title xml:lang="ja">恐怖の水中ショー</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="83647" update="2007-10-03">
+<epno type="1">23</epno>
+<length>25</length>
+<title xml:lang="ja">のろいのヤック</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="83648" update="2007-10-03">
+<epno type="1">22</epno>
+<length>25</length>
+<title xml:lang="ja">海賊ゴールドタイガー</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="83649" update="2007-10-03">
+<epno type="1">21</epno>
+<length>25</length>
+<title xml:lang="ja">恐怖の海底遊園地</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="83650" update="2007-10-03">
+<epno type="1">20</epno>
+<length>25</length>
+<title xml:lang="ja">海底灯台応答なし</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="83651" update="2007-10-03">
+<epno type="1">19</epno>
+<length>25</length>
+<title xml:lang="ja">海の毒ぐも</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="83652" update="2007-10-03">
+<epno type="1">18</epno>
+<length>25</length>
+<title xml:lang="ja">がんばれポンコツ</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="83653" update="2007-10-03">
+<epno type="1">17</epno>
+<length>25</length>
+<title xml:lang="ja">海底大サーカス団</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="83654" update="2007-10-03">
+<epno type="1">16</epno>
+<length>25</length>
+<title xml:lang="ja">魔のディンジャー海峡</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="83655" update="2007-10-03">
+<epno type="1">15</epno>
+<length>25</length>
+<title xml:lang="ja">千里眼のインスピー</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="83656" update="2007-10-03">
+<epno type="1">14</epno>
+<length>25</length>
+<title xml:lang="ja">追跡せよホワイティ</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="83657" update="2007-10-03">
+<epno type="1">13</epno>
+<length>25</length>
+<title xml:lang="ja">太平洋ギャング同盟</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="83658" update="2007-10-03">
+<epno type="1">12</epno>
+<length>25</length>
+<title xml:lang="ja">太平洋王国</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="83659" update="2007-10-03">
+<epno type="1">11</epno>
+<length>25</length>
+<title xml:lang="ja">消えたスワン号</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="83660" update="2007-10-03">
+<epno type="1">10</epno>
+<length>25</length>
+<title xml:lang="ja">鮫男爵</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="83661" update="2007-10-03">
+<epno type="1">9</epno>
+<length>25</length>
+<title xml:lang="ja">大盗賊</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="83662" update="2007-10-03">
+<epno type="1">8</epno>
+<length>25</length>
+<title xml:lang="ja">海底の魔術師</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="83663" update="2007-10-03">
+<epno type="1">7</epno>
+<length>25</length>
+<title xml:lang="ja">海へび海峡</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="83664" update="2007-10-03">
+<epno type="1">6</epno>
+<length>25</length>
+<title xml:lang="ja">深海の獅子</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="83665" update="2007-10-03">
+<epno type="1">5</epno>
+<length>25</length>
+<title xml:lang="ja">おしゃべりホワイティ</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="83666" update="2007-10-03">
+<epno type="1">4</epno>
+<length>25</length>
+<title xml:lang="ja">太平洋占領作戦</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="83667" update="2007-10-03">
+<epno type="1">3</epno>
+<length>25</length>
+<title xml:lang="ja">深海の気狂い博士</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="83668" update="2007-10-03">
+<epno type="1">2</epno>
+<length>25</length>
+<title xml:lang="ja">50億のダイヤ</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="132624" update="2011-08-25">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="132625" update="2011-08-25">
+<epno type="3">C1</epno>
+<length>2</length>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="201802" update="2018-06-20">
+<epno type="1">78</epno>
+<length>25</length>
+<airdate>1970-07-27</airdate>
+<title xml:lang="ja">海の魔王</title>
+<title xml:lang="en">Episode 78</title>
+</episode>
+<episode id="201803" update="2018-06-20">
+<epno type="1">77</epno>
+<length>25</length>
+<airdate>1970-07-20</airdate>
+<title xml:lang="ja">海底グランプリレース</title>
+<title xml:lang="en">Episode 77</title>
+</episode>
+<episode id="201804" update="2018-06-20">
+<epno type="1">76</epno>
+<length>25</length>
+<airdate>1970-07-13</airdate>
+<title xml:lang="ja">バチスカーフ危機一髪</title>
+<title xml:lang="en">Episode 76</title>
+</episode>
+<episode id="201805" update="2018-06-20">
+<epno type="1">75</epno>
+<length>25</length>
+<airdate>1970-07-06</airdate>
+<title xml:lang="ja">五本の魔手</title>
+<title xml:lang="en">Episode 75</title>
+</episode>
+<episode id="201806" update="2018-06-20">
+<epno type="1">74</epno>
+<length>25</length>
+<airdate>1970-06-29</airdate>
+<title xml:lang="ja">さまよえる幽霊船</title>
+<title xml:lang="en">Episode 74</title>
+</episode>
+<episode id="201807" update="2018-06-20">
+<epno type="1">73</epno>
+<length>25</length>
+<airdate>1970-06-22</airdate>
+<title xml:lang="ja">緑の恐怖</title>
+<title xml:lang="en">Episode 73</title>
+</episode>
+<episode id="201808" update="2018-06-20">
+<epno type="1">72</epno>
+<length>25</length>
+<airdate>1970-06-15</airdate>
+<title xml:lang="ja">怪獣ゴンドラス</title>
+<title xml:lang="en">Episode 72</title>
+</episode>
+<episode id="201809" update="2018-06-20">
+<epno type="1">71</epno>
+<length>25</length>
+<airdate>1970-06-08</airdate>
+<title xml:lang="ja">黒い潜水艦</title>
+<title xml:lang="en">Episode 71</title>
+</episode>
+<episode id="201810" update="2018-06-20">
+<epno type="1">70</epno>
+<length>25</length>
+<airdate>1970-06-01</airdate>
+<title xml:lang="ja">深海のギャング団</title>
+<title xml:lang="en">Episode 70</title>
+</episode>
+<episode id="201811" update="2018-06-20">
+<epno type="1">69</epno>
+<length>25</length>
+<airdate>1970-05-25</airdate>
+<title xml:lang="ja">謎のパトロール艇</title>
+<title xml:lang="en">Episode 69</title>
+</episode>
+<episode id="201812" update="2018-06-20">
+<epno type="1">68</epno>
+<length>25</length>
+<airdate>1970-05-18</airdate>
+<title xml:lang="ja">まぼろしの海</title>
+<title xml:lang="en">Episode 68</title>
+</episode>
+<episode id="201813" update="2018-06-20">
+<epno type="1">67</epno>
+<length>25</length>
+<airdate>1970-05-11</airdate>
+<title xml:lang="ja">氷の艦隊</title>
+<title xml:lang="en">Episode 67</title>
+</episode>
+<episode id="201814" update="2018-06-20">
+<epno type="1">66</epno>
+<length>25</length>
+<airdate>1970-05-04</airdate>
+<title xml:lang="ja">狂った閃光</title>
+<title xml:lang="en">Episode 66</title>
+</episode>
+<episode id="201815" update="2018-06-20">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>1970-04-27</airdate>
+<title xml:lang="ja">脱獄囚を追え</title>
+<title xml:lang="en">Episode 65</title>
+</episode>
+<episode id="201816" update="2018-06-20">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>1970-04-20</airdate>
+<title xml:lang="ja">大暴走</title>
+<title xml:lang="en">Episode 64</title>
+</episode>
+<episode id="201817" update="2018-06-20">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>1970-04-13</airdate>
+<title xml:lang="ja">眠れる一億年</title>
+<title xml:lang="en">Episode 63</title>
+</episode>
+<episode id="201818" update="2018-06-20">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>1970-04-06</airdate>
+<title xml:lang="ja">巡洋艦死神号</title>
+<title xml:lang="en">Episode 62</title>
+</episode>
+<episode id="201819" update="2018-06-20">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>1970-03-30</airdate>
+<title xml:lang="ja">太平洋の最後</title>
+<title xml:lang="en">Episode 61</title>
+</episode>
+<episode id="201820" update="2018-06-20">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>1970-03-23</airdate>
+<title xml:lang="ja">秘密結社フラッシュ</title>
+<title xml:lang="en">Episode 60</title>
+</episode>
+<episode id="201821" update="2018-06-20">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>1970-03-16</airdate>
+<title xml:lang="ja">巨鯨虹を吹く</title>
+<title xml:lang="en">Episode 59</title>
+</episode>
+<episode id="201822" update="2018-06-20">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>1970-03-09</airdate>
+<title xml:lang="ja">熱帯魚の秘密</title>
+<title xml:lang="en">Episode 58</title>
+</episode>
+<episode id="201823" update="2018-06-20">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>1970-03-02</airdate>
+<title xml:lang="ja">黄金の海藻</title>
+<title xml:lang="en">Episode 57</title>
+</episode>
+<episode id="201824" update="2018-06-20">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>1970-02-23</airdate>
+<title xml:lang="ja">北海のヴァイキング</title>
+<title xml:lang="en">Episode 56</title>
+</episode>
+<episode id="201825" update="2018-06-20">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>1970-02-16</airdate>
+<title xml:lang="ja">偉大なるZ</title>
+<title xml:lang="en">Episode 55</title>
+</episode>
+<episode id="201826" update="2018-06-20">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>1970-02-09</airdate>
+<title xml:lang="ja">謎の水棲人</title>
+<title xml:lang="en">Episode 54</title>
+</episode>
+<episode id="201827" update="2018-06-20">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>1970-02-02</airdate>
+<title xml:lang="ja">俺は天下の海賊マッド</title>
+<title xml:lang="en">Episode 53</title>
+</episode>
+<episode id="201828" update="2018-06-20">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>1970-01-26</airdate>
+<title xml:lang="ja">生きている海</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="201829" update="2018-06-20">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>1970-01-19</airdate>
+<title xml:lang="ja">真紅のジャングル</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="201830" update="2018-06-20">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>1970-01-12</airdate>
+<title xml:lang="ja">百万トンを撃て</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="201831" update="2018-06-20">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>1970-01-05</airdate>
+<title xml:lang="ja">消えたフロッグメン</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="201832" update="2018-06-20">
+<epno type="1">48</epno>
+<length>25</length>
+<title xml:lang="ja">ふたごの悪魔</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="201833" update="2018-06-20">
+<epno type="1">47</epno>
+<length>25</length>
+<title xml:lang="ja">ロボット海峡</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="201834" update="2018-06-20">
+<epno type="1">46</epno>
+<length>25</length>
+<title xml:lang="ja">24時間の闘い</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="201835" update="2018-06-20">
+<epno type="1">45</epno>
+<length>25</length>
+<title xml:lang="ja">海の錬金術</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="201836" update="2018-06-20">
+<epno type="1">44</epno>
+<length>25</length>
+<title xml:lang="ja">見えない敵</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="201837" update="2018-06-20">
+<epno type="1">43</epno>
+<length>25</length>
+<title xml:lang="ja">ゴーストタウンの決闘</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="201838" update="2018-06-20">
+<epno type="1">42</epno>
+<length>25</length>
+<title xml:lang="ja">ねらわれた海底牧場</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="201839" update="2018-06-20">
+<epno type="1">41</epno>
+<length>25</length>
+<title xml:lang="ja">海のやんちゃ坊主</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="201840" update="2018-06-20">
+<epno type="1">40</epno>
+<length>25</length>
+<title xml:lang="ja">不思議な誘導音波</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="201841" update="2018-06-20">
+<epno type="1">39</epno>
+<length>25</length>
+<title xml:lang="ja">宝島発見</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="201842" update="2018-06-20">
+<epno type="1">38</epno>
+<length>25</length>
+<title xml:lang="ja">イルカ海軍</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="201843" update="2018-06-20">
+<epno type="1">37</epno>
+<length>25</length>
+<title xml:lang="ja">二人の漂流者</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+</episodes>
+</anime>

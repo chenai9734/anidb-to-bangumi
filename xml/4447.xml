@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4447" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1997-09-12</startdate>
+<enddate>1997-09-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Licca the Movie: Licca-chan to Yamaneko Hoshi no Tabi</title>
+<title xml:lang="ja" type="official">Licca the movie リカちゃん リカちゃんとヤマネコ星の旅</title>
+</titles>
+<relatedanime>
+<anime id="1743" type="Character">Super Doll Licca-chan</anime>
+<anime id="4428" type="Character">Licca-chan Fushigi na Fushigi na Yunia Monogatari</anime>
+</relatedanime>
+<creators>
+<name id="3008" type="Character Design">Takada Akemi</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="4229" type="Direction">Shibayama Tsutomu</name>
+<name id="960" type="Animation Work">Ajia-dou</name>
+<name id="3613" type="Chief Animation Direction">Satou Tatsuo</name>
+</creators>
+<description>* Based on the popular Licca doll in Japan. The characters later also appeared in the Super Doll Licca-chan series.
+Licca goes on vacation with her father. The town in the mountains they go to is the site of a festival of the stars that has a mystical background, which is more real than Licca expected when she ends up in the middle of the mystical battle for the festival.
+Source: Licca
+Note: Originally produced in 1994 to be shown in cinema, it wasn`t released due to circumstances until 1997, when it was sold on video.</description>
+<ratings>
+<permanent count="24">5.33</permanent>
+<temporary count="25">5.93</temporary>
+</ratings>
+<picture>244453.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11815</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9878</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235913</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>5952</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="49136" update="2011-10-20">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1997-09-12</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

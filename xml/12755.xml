@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12755" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2017-03-18</startdate>
+<enddate>2017-03-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zo Zo Zo Zombie-kun</title>
+<title xml:lang="ja" type="official">ゾゾゾ ゾンビーくん</title>
+</titles>
+<ratings>
+<permanent count="7">3.09</permanent>
+<temporary count="7">3.57</temporary>
+</ratings>
+<picture>200020.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34817</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>c/corocoro</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="185584" update="2017-03-25">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2017-03-25</airdate>
+<title xml:lang="ja">チョーすごい腸だゾ</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Chou Sugoi Chou Dazo</title>
+</episode>
+<episode id="185585" update="2017-03-18">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2017-03-18</airdate>
+<title xml:lang="ja">自販機からアレが出ないゾ</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Jihanki kara Are ga Denaizo</title>
+</episode>
+</episodes>
+</anime>

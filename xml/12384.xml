@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12384" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2016-10-05</startdate>
+<enddate>2016-12-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">To Be Hero</title>
+<title xml:lang="ja" type="synonym">トゥー・ビー・ヒーロー</title>
+<title xml:lang="x-zht" type="synonym">Tu Bian Yingxiong BABA</title>
+<title xml:lang="ja" type="official">TO BE HERO</title>
+<title xml:lang="en" type="official">To Be Hero</title>
+<title xml:lang="zh-Hans" type="official">凸变英雄 BABA</title>
+</titles>
+<relatedanime>
+<anime id="14380" type="Sequel">Tu Bian Yingxiong LEAF</anime>
+</relatedanime>
+<url>http://tobe-hero.com/</url>
+<creators>
+<name id="48598" type="Original Work">Li Haoling</name>
+<name id="48598" type="Direction">Li Haoling</name>
+</creators>
+<description>The protagonist, known only as "Ossan" (pops), is a handsome yet undisciplined man, a divorced father who has a job as a toilet seat designer. He lives with his daughter Min-chan, who excels in both academics and sports. One day, while on the toilet, Ossan is sucked into it and becomes a hero charged with protecting the world. In exchange, he transforms from his handsome form into a chubby appearance. Ossan`s fight to save the world and protect Min-chan begins here.
+Source: ANN</description>
+<ratings>
+<permanent count="434">4.44</permanent>
+<temporary count="434">6.05</temporary>
+</ratings>
+<picture>190957.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18728</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34009</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tobe-hero.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>To_Be_Hero</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>TO_BE_HERO</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4372</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358114</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19656</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>to_be_hero</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2202" parentid="2846" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2623" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="2653" parentid="2853" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2658" parentid="2853" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>toilet humour</name>
+<description>Everything leads back to poo.</description>
+</tag>
+<tag id="2770" parentid="2653" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-25">
+<name>violent retribution for accidental infringement</name>
+<description>A comedy / slapstick element often found in Ecchi anime: The hilarity derives from spontaneous embarrassment, overreaction of the "victim" (girl), immediate retribution for a seemingly inappropriate act, and a sense of pity with the supposed "aggressor" (boy).
+Typically a boy will - through no fault of his own - stumble into a girl, thus invading her personal space. In the process the boy may e.g. pull down her skirt, grab the girl`s breasts, or accidentally kiss her. Any level-headed girl would see the accident just for what it is. Not so the girl with an overly developed sense of modesty, and a thing for violence. She - often a tsundere - will clobber the boy with excessive brutality.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2846" parentid="7050" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3040" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>male protagonist</name>
+<description>This anime has a male protagonist.</description>
+</tag>
+<tag id="3121" parentid="6247" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-12-05">
+<name>twisted ending</name>
+</tag>
+<tag id="3315" parentid="2623" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-28">
+<name>superhero</name>
+<description>In modern popular fiction, a superhero is a type of costumed heroic character who possesses supernatural or superhuman powers and who is dedicated to fighting crime, protecting the public, and usually battling supervillains. A female superhero is sometimes called a superheroine. Fiction centered on such characters, especially in American comic books since the 1930s, is known as superhero fiction.
+Source: Wikipedia</description>
+</tag>
+<tag id="4083" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-11-04">
+<name>drastic change of life</name>
+<description>One or more characters in this series go through an event that makes them change their way of life drastically and permanently. This change might be voluntary, or against the character`s will.
+Some examples might be an accident, the gaining of superpowers, or simply graduating.</description>
+</tag>
+<tag id="4831" parentid="2202" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-23">
+<name>alien invasion</name>
+<description>An alien invasion or space invasion is the invasion of the Earth by an extraterrestrial species, usually but not necessarily sentient and highly advanced technologically. The invasion typically happens for reasons such as to exterminate and supplant human life, to enslave the earthlings or harvest them for food, to steal the planet`s resources, or simply to destroy it altogether. It often happens during, causes, or is the result of a war between humans and aliens.</description>
+<picurl>215284.jpg</picurl>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6247" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2019-06-02">
+<name>ending tags that need merging</name>
+<description>See also: http://anidb.net/post426253 [http://anidb.net/post426253] and http://anidb.net/c6774745 [http://anidb.net/c6774745]</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="7357" type="cameo appearance in" update="2009-05-26">
+<rating votes="184">7.43</rating>
+<name>Nabeshin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>25868.jpg</picture>
+<seiyuu id="3963" picture="25823.jpg">Watanabe Shin`ichi</seiyuu>
+</character>
+<character id="84610" type="main character in" update="2019-10-21">
+<rating votes="2">8.68</rating>
+<name>Ossan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206760.jpg</picture>
+<seiyuu id="592" picture="170729.jpg">Tsuda Kenjirou</seiyuu>
+</character>
+<character id="84611" type="main character in" update="2019-10-21">
+<rating votes="3">6.60</rating>
+<name>Min-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206761.jpg</picture>
+<seiyuu id="46821" picture="190961.jpg">Tsukino Moa</seiyuu>
+</character>
+<character id="84612" type="secondary cast in" update="2017-09-03">
+<rating votes="2">3.40</rating>
+<name>Yamada-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206762.jpg</picture>
+<seiyuu id="369" picture="223406.jpg">Aoyama Yutaka</seiyuu>
+</character>
+<character id="85140" type="secondary cast in" update="2017-09-03">
+<rating votes="2">7.38</rating>
+<name>Ouji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206763.jpg</picture>
+<seiyuu id="38109" picture="155778.jpg">Tanabe Rui</seiyuu>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="85346" type="main character in" update="2017-09-03">
+<rating votes="2">8.68</rating>
+<name>Ossan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206759.jpg</picture>
+<seiyuu id="592" picture="170729.jpg">Tsuda Kenjirou</seiyuu>
+</character>
+<character id="91271" type="appears in" update="2017-09-05">
+<name>Data Seijin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206793.jpg</picture>
+<seiyuu id="40590" picture="159151.jpg">Nishida Nozomi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="180380" update="2016-11-21">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2016-10-26</airdate>
+<rating votes="3">1.52</rating>
+<title xml:lang="ja">8種類の異なる悲鳴</title>
+<title xml:lang="en">Eight Different Types of Screams</title>
+<title xml:lang="fr">8 gémissements</title>
+<title xml:lang="x-jat">8 Shurui no Kotonaru Himei</title>
+<summary>The alien prince decides to take on the superhero himself in a battle for... the... ages?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721443</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180381" update="2016-11-21">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2016-10-19</airdate>
+<rating votes="3">4.23</rating>
+<title xml:lang="ja">やっぱ上に立つ者が</title>
+<title xml:lang="en">A Leader Really Must</title>
+<title xml:lang="fr">C’est bien lui le plus fort</title>
+<title xml:lang="x-jat">Yappa Ue ni Tatsu Mono ga</title>
+<summary>The aliens figure out that Min-chan is the superhero`s weakness and try to attack her, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721441</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180382" update="2016-11-21">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2016-10-12</airdate>
+<rating votes="3">5.96</rating>
+<title xml:lang="ja">惨死, 惨死, 惨死</title>
+<title xml:lang="en">Brutal, Brutal, Brutal Death</title>
+<title xml:lang="fr">Mort violente</title>
+<title xml:lang="x-jat">Zanshi, Zanshi, Zanshi</title>
+<summary>Earth`s superhero must fend off many threats — his perverted neighbor, invading aliens, and the boy making moves on his daughter.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721439</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180383" update="2016-11-21">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2016-10-05</airdate>
+<rating votes="5">4.28</rating>
+<title xml:lang="ja">英雄[ヒーロー]初日</title>
+<title xml:lang="en">First Day as a Superhero</title>
+<title xml:lang="fr">Le premier jour en tant que héros</title>
+<title xml:lang="x-jat">Hero Shonichi</title>
+<summary>The strained relationship between an attractive ladies` man and his only daughter gets even worse when he becomes a superhero... with an unexpected side-effect.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721437</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180837" update="2016-10-06">
+<epno type="3">C2</epno>
+<length>1</length>
+<airdate>2016-10-05</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="180838" update="2016-10-06">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>2016-10-05</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="181300" update="2016-11-30">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2016-11-23</airdate>
+<rating votes="2">5.27</rating>
+<title xml:lang="ja">何人も同時に彼女が欲しい!</title>
+<title xml:lang="en">I Want Multiple Girlfriends at Once!</title>
+<title xml:lang="fr">Conquête</title>
+<title xml:lang="x-jat">Nanbitomo Douji ni Kanojo ga Hoshii!</title>
+<summary>The Great Emperor`s past and motivations are revealed.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721451</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181301" update="2016-11-30">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2016-11-16</airdate>
+<rating votes="2">2.48</rating>
+<title xml:lang="ja">あっちの世界の住人</title>
+<title xml:lang="en">Inhabitant of the Other World</title>
+<title xml:lang="fr">Un habitant d’un autre monde</title>
+<title xml:lang="x-jat">Acchi no Sekai no Juunin</title>
+<summary>When a man who looks exactly like our hero shows up, a huge mystery gets solved.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721449</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181302" update="2016-11-30">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2016-11-09</airdate>
+<rating votes="2">5.27</rating>
+<title xml:lang="ja">ちょっとドキドキしちゃう展開</title>
+<title xml:lang="en">A Somewhat Heart-Racing Development</title>
+<title xml:lang="fr">Une scène émouvante</title>
+<title xml:lang="x-jat">Chotto Dokidoki Shichau Tenkai</title>
+<summary>Prince Moemoe is confronted by a woman from his past.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721447</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181303" update="2016-11-21">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2016-11-02</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">テープ貼ってごまかしてんじゃねーよ!</title>
+<title xml:lang="en">Quit Patching It Up with Tape!</title>
+<title xml:lang="fr">Scotcher c’est tricher !</title>
+<title xml:lang="x-jat">Tape Hatte Gomakashiten ja Nee yo!</title>
+<summary>A broken tap forces Min-chan to ask the superhero and his new flatmate for help.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721445</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="182108" update="2019-01-18">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2016-12-20</airdate>
+<rating votes="2">8.34</rating>
+<title xml:lang="ja">パパ, そばにいて!</title>
+<title xml:lang="en">Stay with Me, Daddy!</title>
+<title xml:lang="fr">Papa, reste à mes côtés</title>
+<title xml:lang="x-jat">Papa, Soba ni Ite!</title>
+<summary>With everyone else gone, our hero takes on the Great Emperor in the decisive battle. The truth is revealed.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721459</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="182109" update="2017-01-08">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2016-12-14</airdate>
+<rating votes="2">3.61</rating>
+<title xml:lang="ja">私は負け犬です. 死なせてください.</title>
+<title xml:lang="en">I Am a Loser. Please Let Me Die.</title>
+<title xml:lang="fr">Je suis un perdant, achève-moi</title>
+<title xml:lang="x-jat">Watashi wa Makeinu Desu. Shinasete Kudasai.</title>
+<summary>Our hero comes face to face with his own powerlessness, as the Great Emperor sets his sights on everyone he cares about.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721457</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="182110" update="2016-12-16">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2016-12-07</airdate>
+<rating votes="2">3.61</rating>
+<title xml:lang="ja">お笑い控えめ, 塩分控えめ</title>
+<title xml:lang="en">This Episode Is Low on Laughs and Salt Content</title>
+<title xml:lang="fr">Tenth Day as a Superhero "This Episode Is Low on Laughs and Salt Content"</title>
+<title xml:lang="x-jat">Owarai Hikaeme, Enbun Hikaeme</title>
+<summary>The Great Emperor wreaks havoc upon our hero`s home. How will Moemoe, Min-chan, and the hero respond?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721455</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="182111" update="2016-12-16">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2016-11-30</airdate>
+<rating votes="2">1.73</rating>
+<title xml:lang="ja">君がしてくれるなら俺は今すぐパンツを脱ぐ!</title>
+<title xml:lang="en">If You`ll Do It, I`ll Take Off My Underwear Right Away</title>
+<title xml:lang="fr">Ninth Day as a Superhero "If You`ll Do It, I`ll Take off My Underwear Right Away"</title>
+<title xml:lang="x-jat">Kimi ga Shite Kureru nara Ore wa Imasugu Pantsu o Nugu!</title>
+<summary>Prince Moe`s plan is put into action, as our hero, Moemoe, and Yamada arrive as dinner guests. Meanwhile, Min-chan finds something surprising...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>721453</identifier>
+<identifier>to-be-hero</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7182" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1960-04</startdate>
+<enddate>1960-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kitakaze to Taiyou</title>
+<title xml:lang="ja" type="official">きたかぜとたいよう</title>
+</titles>
+<creators>
+<name id="34394" type="Music">Imai Shigeyuki</name>
+</creators>
+<description>Puppet animation.</description>
+<ratings>
+<permanent count="15">3.21</permanent>
+<temporary count="15">4.40</temporary>
+</ratings>
+<picture>38388.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32693</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="111242" update="2009-11-06">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

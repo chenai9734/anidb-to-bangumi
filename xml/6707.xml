@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6707" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1931-05-01</startdate>
+<enddate>1931-05-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kokka Kimigayo</title>
+<title xml:lang="en" type="synonym">The National Anthem Kimigayo</title>
+<title xml:lang="ja" type="official">国歌 君が代</title>
+</titles>
+<description>The Japanese national anthem plays while various culturally significant animation is shown.</description>
+<ratings>
+<permanent count="148">2.42</permanent>
+<temporary count="149">4.36</temporary>
+</ratings>
+<picture>31919.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>4393</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>129319</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5529" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-11-05">
+<name>black and white</name>
+<description>Some or all of this anime is in black and white, typical of older anime made before ~1960. Some modern anime may intentionally shift to black and white for certain scenes or episodes as an artistic effect.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="105419" update="2009-07-23">
+<epno type="1">1</epno>
+<length>3</length>
+<rating votes="1">1.27</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

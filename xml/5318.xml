@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5318" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1990-09-27</startdate>
+<enddate>1990-09-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fukuyama Gekijou</title>
+<title xml:lang="ja" type="official">ふくやま劇場</title>
+</titles>
+<creators>
+<name id="4508" type="Music">Watanabe Toshiyuki</name>
+<name id="11111" type="Original Work">Fukuyama Keiko</name>
+<name id="6085" type="Chief Direction">Sakurai Michiyo</name>
+<name id="48999" type="Work">Urban Product</name>
+</creators>
+<ratings>
+<permanent count="22">4.83</permanent>
+<temporary count="22">5.29</temporary>
+</ratings>
+<picture>241935.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7180</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23975</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3360</identifier>
+<identifier>heiyil</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88606</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2615</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="97685" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1990-09-27</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12991" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-05-07</startdate>
+<enddate>2017-05-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kimi no Hikari: Asagao to Kase-san.</title>
+<title xml:lang="en" type="synonym">Your Light: Kase-san and Morning Glories</title>
+<title xml:lang="ja" type="official">キミノヒカリ ~あさがおと加瀬さん.~</title>
+</titles>
+<relatedanime>
+<anime id="13409" type="Other">Asagao to Kase-san.</anime>
+</relatedanime>
+<url>http://asagao-anime.com/</url>
+<creators>
+<name id="788" type="Animation Work">Zexcs</name>
+<name id="3519" type="Character Design">Sakai Kyuuta</name>
+<name id="3557" type="Direction">Satou Takuya</name>
+<name id="49349" type="Original Work">Takashima Hiromi</name>
+</creators>
+<ratings>
+<permanent count="242">5.84</permanent>
+<temporary count="242">6.63</temporary>
+</ratings>
+<picture>200022.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19779</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35159</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://asagao-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360168</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>asagao_anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2782" parentid="2858" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-03">
+<name>shoujo ai</name>
+<description>Shoujo Ai means girls love, and thus explores what happens when two girls (or women) fall in love. This is not to be mistaken for http://anidb.net/t2695 [Yuri] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphic sex.
+The male version is http://anidb.net/t2783 [Shounen Ai].
+http://anidb.net/t7146 [Cute girls doing cute things (CGDCT)] is often mistaken as low level Yuri or Shoujo Ai. If there is no Yuri or Shoujo Ai subtext, i.e. if there is no romantic subtext, only tag CGDCT. Please note: CGDCT and yuri/shoujo ai are not mutually exclusive; it is possible to have an anime tagged both.</description>
+<picurl>210060.jpg</picurl>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="187555" update="2017-05-08">
+<epno type="1">1</epno>
+<length>7</length>
+<airdate>2017-05-07</airdate>
+<rating votes="3">6.16</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+<episode id="200814" update="2018-06-04">
+<epno type="2">S1</epno>
+<length>6</length>
+<airdate>2017-07-25</airdate>
+<title xml:lang="ja">ライカリール</title>
+<title xml:lang="en">Leica Reel</title>
+<title xml:lang="x-jat">Leica Reel</title>
+</episode>
+<episode id="200934" update="2018-06-07">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="ja">特報PV</title>
+<title xml:lang="en">Trailer PV</title>
+</episode>
+</episodes>
+</anime>

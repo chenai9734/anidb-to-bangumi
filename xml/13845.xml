@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13845" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2018-07-07</startdate>
+<enddate>2019-06-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zoids Wild</title>
+<title xml:lang="ja" type="official">ゾイドワイルド</title>
+<title xml:lang="ko" type="official">조이드 와일드</title>
+<title xml:lang="zh-Hans" type="official">索斯机械兽WILD</title>
+</titles>
+<relatedanime>
+<anime id="1382" type="Same Setting">Zoids</anime>
+</relatedanime>
+<url>https://www.anime-zoidswild.jp/</url>
+<creators>
+<name id="58330" type="Character Design">Murakami Rikou</name>
+<name id="727" type="Animation Work">OLM</name>
+<name id="7370" type="Series Composition">Hirota Mitsutaka</name>
+<name id="5679" type="Direction">Sutou Norihiko</name>
+<name id="10946" type="Original Work">Takara Tomy</name>
+<name id="6883" type="Music">Asakura Noriyuki</name>
+</creators>
+<ratings>
+<permanent count="14">3.30</permanent>
+<temporary count="14">5.07</temporary>
+</ratings>
+<picture>213663.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20796</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37395</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.anime-zoidswild.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゾイドワイルド</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4960</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364861</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21199</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>anime_zoidswild</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="95482" type="main character in" update="2018-05-13">
+<name>Arashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217480.jpg</picture>
+<seiyuu id="4755" picture="183070.jpg">Ono Kenshou</seiyuu>
+</character>
+<character id="95483" type="main character in" update="2018-05-13">
+<name>Onigiri</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217484.jpg</picture>
+<seiyuu id="28123" picture="186581.jpg">Kozakura Etsuko</seiyuu>
+</character>
+<character id="95484" type="main character in" update="2018-05-13">
+<name>Gyouza</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217481.jpg</picture>
+<seiyuu id="25023" picture="70106.jpg">Kimura Subaru</seiyuu>
+</character>
+<character id="95485" type="secondary cast in" update="2018-05-13">
+<name>Drake</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217483.jpg</picture>
+<seiyuu id="34296" picture="225238.jpg">Ishikawa Kaito</seiyuu>
+</character>
+<character id="95486" type="secondary cast in" update="2018-05-13">
+<name>Beacon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217479.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="95487" type="main character in" update="2018-05-13">
+<name>Penne</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217482.jpg</picture>
+<seiyuu id="16085" picture="178446.jpg">Komatsu Mikako</seiyuu>
+</character>
+<character id="95488" type="secondary cast in" update="2018-07-30">
+<name>Caviar</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221016.jpg</picture>
+</character>
+<character id="95489" type="appears in" update="2018-05-13">
+<name>Wild Liger</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>217486.jpg</picture>
+</character>
+<character id="95490" type="appears in" update="2018-05-13">
+<name>Gilraptor</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>217487.jpg</picture>
+</character>
+<character id="95492" type="appears in" update="2018-05-13">
+<name>Gabrigator</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>217489.jpg</picture>
+</character>
+<character id="96992" type="secondary cast in" update="2018-07-29">
+<name>Source</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221011.jpg</picture>
+<seiyuu id="51" picture="39247.jpg">Koshimizu Ami</seiyuu>
+</character>
+<character id="96993" type="secondary cast in" update="2018-07-29">
+<name>Candy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221012.jpg</picture>
+<seiyuu id="51384" picture="206512.jpg">Ikuta Youji</seiyuu>
+</character>
+<character id="96994" type="appears in" update="2018-07-29">
+<name>Croame</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221013.jpg</picture>
+</character>
+<character id="96995" type="appears in" update="2018-07-30">
+<name>Kabtor</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>221014.jpg</picture>
+</character>
+<character id="96996" type="appears in" update="2018-07-30">
+<name>Kuwaga</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>221015.jpg</picture>
+</character>
+<character id="96997" type="secondary cast in" update="2018-07-30">
+<name>Gallagher</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221017.jpg</picture>
+<seiyuu id="236" picture="132757.jpg">Seki Tomokazu</seiyuu>
+</character>
+<character id="96998" type="appears in" update="2018-07-30">
+<name>Freedom Dan</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>221018.jpg</picture>
+</character>
+<character id="96999" type="appears in" update="2018-07-30">
+<name>Death Metal Teikoku</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>221019.jpg</picture>
+</character>
+<character id="97000" type="appears in" update="2018-07-30">
+<name>Supreme Dan</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>221020.jpg</picture>
+</character>
+<character id="97001" type="appears in" update="2018-07-30">
+<name>Grachiosaurus</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>221021.jpg</picture>
+</character>
+<character id="97002" type="secondary cast in" update="2018-07-30">
+<name>Sanlatan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221022.jpg</picture>
+<seiyuu id="20025" picture="132938.jpg">Mimori Suzuko</seiyuu>
+</character>
+<character id="97003" type="secondary cast in" update="2018-07-30">
+<name>Ikazuchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221023.jpg</picture>
+<seiyuu id="45579" picture="211758.jpg">Kirimoto Takuya</seiyuu>
+</character>
+<character id="97004" type="secondary cast in" update="2018-07-30">
+<name>Soders</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221024.jpg</picture>
+<seiyuu id="10130" picture="151714.jpg">Takumi Yasuaki</seiyuu>
+</character>
+<character id="97005" type="secondary cast in" update="2018-07-30">
+<name>Taifuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221025.jpg</picture>
+<seiyuu id="469" picture="17418.jpg">Umezu Hideyuki</seiyuu>
+</character>
+<character id="97006" type="secondary cast in" update="2018-07-30">
+<name>Garlic</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221026.jpg</picture>
+<seiyuu id="32912" picture="183255.jpg">Nishiyama Koutarou</seiyuu>
+</character>
+<character id="97007" type="secondary cast in" update="2018-07-30">
+<name>Avocado</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>221027.jpg</picture>
+<seiyuu id="40730" picture="228932.jpg">Kimura Hayato</seiyuu>
+</character>
+<character id="97008" type="appears in" update="2018-07-30">
+<name>Gannontoise</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>221028.jpg</picture>
+</character>
+<character id="97009" type="appears in" update="2018-07-30">
+<name>Scorpear</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>221029.jpg</picture>
+</character>
+<character id="97010" type="appears in" update="2018-07-30">
+<name>Triceradogos</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>221030.jpg</picture>
+</character>
+<character id="97011" type="appears in" update="2018-07-30">
+<name>Fang Tiger</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>221031.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="202043" update="2018-06-23">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2018-07-28</airdate>
+<title xml:lang="ja">強敵! デスメタル四天王</title>
+<title xml:lang="en">Mighty Foes! Death Metal`s Elite Four</title>
+<title xml:lang="x-jat">Kyouteki! Death Metal Shitennou</title>
+</episode>
+<episode id="202044" update="2018-06-23">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-07-21</airdate>
+<title xml:lang="ja">目覚めよ! ゾイド王の誇り</title>
+<title xml:lang="en">Awaken! Pride of the Zoid King</title>
+<title xml:lang="x-jat">Mezame yo! Zoids Ou no Hokori</title>
+</episode>
+<episode id="202045" update="2018-06-23">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-07-14</airdate>
+<title xml:lang="ja">襲来! デスメタル</title>
+<title xml:lang="en">Invasion! Death Metal</title>
+<title xml:lang="x-jat">Shuurai! Death Metal</title>
+</episode>
+<episode id="202046" update="2018-06-23">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2018-07-07</airdate>
+<title xml:lang="ja">本能解放! ワイルドライガー</title>
+<title xml:lang="en">Unleashed Instincts! Wild Liger</title>
+<title xml:lang="x-jat">Honnou Kaihou! Wild Liger</title>
+</episode>
+<episode id="202735" update="2018-07-13">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2018-07-07</airdate>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="202736" update="2019-04-12">
+<epno type="3">C5</epno>
+<length>2</length>
+<airdate>2018-07-07</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="203196" update="2018-07-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2018-08-25</airdate>
+<title xml:lang="ja">激突! ギルラプター, 再び</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Gekitotsu! Gilraptor, Futatabi</title>
+</episode>
+<episode id="203197" update="2018-07-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2018-08-18</airdate>
+<title xml:lang="ja">怪亀! その男 ゾイド博士</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Kaikame! Sono Otoko: Zoid Hakase</title>
+</episode>
+<episode id="203198" update="2018-07-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2018-08-11</airdate>
+<title xml:lang="ja">祭りで決闘[バトル]! ライガーvs[バーサス]グラキオ</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Matsuri de Battle! Liger Versus Gurakio</title>
+</episode>
+<episode id="203199" update="2018-07-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2018-08-04</airdate>
+<title xml:lang="ja">掴めお宝! サソリゾイドの女</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Tsukame Otakara! Sanri Zoid no Onna</title>
+</episode>
+<episode id="204385" update="2018-08-19">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2018-09-22</airdate>
+<title xml:lang="ja">狡猾の罠! ライガー危うし!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Soukatsu no Wana! Liger Ayaushi!</title>
+</episode>
+<episode id="204386" update="2018-08-19">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2018-09-15</airdate>
+<title xml:lang="ja">突撃! 恐怖の都市カンゴク</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Totsugeki! Kyoufu no Toshi Kangoku</title>
+</episode>
+<episode id="204387" update="2018-08-19">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2018-09-08</airdate>
+<title xml:lang="ja">強烈! ノリとゼニーとトリケラドゴス</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Kyouretsu! Nori to Zenii to Dorikeradogosu</title>
+</episode>
+<episode id="204388" update="2018-08-19">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2018-09-01</airdate>
+<title xml:lang="ja">神秘! ゾイドを癒す少年</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Shinpi! Zoid o Iyasu Shounen</title>
+</episode>
+<episode id="207800" update="2018-09-15">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2018-09-29</airdate>
+<title xml:lang="ja">史上最狂ゾイド デスレックス</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Shijou Saikyou Zoid Deathrex</title>
+</episode>
+<episode id="207801" update="2018-09-15">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-10-06</airdate>
+<title xml:lang="ja">暴走! アラシの叫び</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Bousou! Arashi no Sakebi</title>
+</episode>
+<episode id="207802" update="2018-09-15">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-10-13</airdate>
+<title xml:lang="ja">ライバル!? 天才ゾイドハンター</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Rival!? Tensai Zoid Hunter</title>
+</episode>
+<episode id="207803" update="2018-09-15">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-10-20</airdate>
+<title xml:lang="ja">アラシ危うし! 哀しき賞金稼ぎ</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Arashi Ayaushi! Kanashiki Shoukinkasegi</title>
+</episode>
+<episode id="208987" update="2019-04-12">
+<epno type="3">C6</epno>
+<length>2</length>
+<airdate>2018-10-06</airdate>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="208988" update="2018-10-06">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2018-10-06</airdate>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="209158" update="2018-10-12">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-10-27</airdate>
+<title xml:lang="ja">原始の恐怖! 立てスコーピア</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Genshi no Kyoufu! Tate Scorpia</title>
+</episode>
+<episode id="209159" update="2018-10-12">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-11-03</airdate>
+<title xml:lang="ja">守れ! お宝大作戦</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Mamore! Otakara Daisakusen</title>
+</episode>
+<episode id="209160" update="2018-10-12">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-11-10</airdate>
+<title xml:lang="ja">決戦! ギャラガー襲撃</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Kessen! Gyaragar Shuugeki</title>
+</episode>
+<episode id="209161" update="2018-10-12">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-11-17</airdate>
+<title xml:lang="ja">強制解放! デスレックス</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Kyousei Kaihou! Death Rex</title>
+</episode>
+<episode id="210018" update="2018-11-10">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-11-24</airdate>
+<title xml:lang="ja">伝説の仙人! 恐怖の入門試験</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Densetsu no Sennin! Kyoufu no Nyuumon Shiken</title>
+</episode>
+<episode id="210019" update="2018-11-10">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-12-01</airdate>
+<title xml:lang="ja">翔べライガー! 新たなる一歩</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Tobe Liger! Aratanaru Ippo</title>
+</episode>
+<episode id="210020" update="2018-11-10">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-12-08</airdate>
+<title xml:lang="ja">慟哭 雨に濡れた竜爪</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Doukoku: Ame ni Nureta Ryuusou</title>
+</episode>
+<episode id="210021" update="2018-11-10">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-12-15</airdate>
+<title xml:lang="ja">ノリとゼニーの男 再び!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Nori to Zenii no Otoko: Futatabi!</title>
+</episode>
+<episode id="210745" update="2018-11-30">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2018-12-22</airdate>
+<title xml:lang="ja">妹よ! トリケラ吠える</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Imouto yo! Torikera Hoeru</title>
+</episode>
+<episode id="210960" recap="true" update="2020-03-29">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2018-12-29</airdate>
+<title xml:lang="ja">突き進め! この広き世界を</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Tsukisusume! Kono Hiroki Sekai o</title>
+</episode>
+<episode id="210961" update="2018-12-29">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2019-01-12</airdate>
+<title xml:lang="ja">燃えよ! 運び屋の誇り!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Moeyo! Hakobiya no Hokori!</title>
+</episode>
+<episode id="210962" update="2018-12-29">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2019-01-19</airdate>
+<title xml:lang="ja">孤高の少年 大地を疾[はし]る!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Kokou no Shounen: Daichi o Hashiru!</title>
+</episode>
+<episode id="211540" update="2018-12-29">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2019-01-05</airdate>
+<title xml:lang="ja">特別編</title>
+<title xml:lang="en">Episode S1</title>
+<title xml:lang="x-jat">Tokubetsu Hen</title>
+</episode>
+<episode id="211847" update="2019-01-12">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2019-01-12</airdate>
+<title xml:lang="en">Opening 3</title>
+</episode>
+<episode id="211848" update="2019-04-12">
+<epno type="3">C7</epno>
+<length>2</length>
+<airdate>2019-01-12</airdate>
+<title xml:lang="en">Ending 3</title>
+</episode>
+<episode id="211867" update="2019-01-12">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2019-01-26</airdate>
+<title xml:lang="ja">驚愕! セカンドギア</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Kyougaku! Second Gear</title>
+</episode>
+<episode id="211868" update="2019-01-12">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2019-02-02</airdate>
+<title xml:lang="ja">心の痛み 過去と毒針</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Kokoro no Itami: Kako to Dokushin</title>
+</episode>
+<episode id="211869" update="2019-01-12">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2019-02-09</airdate>
+<title xml:lang="ja">争奪! 大遺跡の秘宝</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Soudatsu! Ooiseki no Hihou</title>
+</episode>
+<episode id="211870" update="2019-01-12">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2019-02-16</airdate>
+<title xml:lang="ja">男の意地! 負けられぬ2人</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Otoko no Iji! Makerarenu Futrai</title>
+</episode>
+<episode id="212479" update="2019-02-09">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2019-02-23</airdate>
+<title xml:lang="ja">流されて 瞬撃とゾイド博士</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Nagasarete: Shungeki to Zoid Hakase</title>
+</episode>
+<episode id="212480" update="2019-02-09">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2019-03-02</airdate>
+<title xml:lang="ja">揺らぐ... 二人の絆</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Yuragu... Futari no Kizuna</title>
+</episode>
+<episode id="212481" update="2019-02-09">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2019-03-09</airdate>
+<title xml:lang="ja">怪しき瞳 糸を操る美女</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Ayashiki Hitomi: Ito o Ayatsuru Bijo</title>
+</episode>
+<episode id="212482" update="2019-02-09">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2019-03-16</airdate>
+<title xml:lang="ja">集結! デスメタル四天王</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Shuuketsu! Death Metal Shitennou</title>
+</episode>
+<episode id="213087" update="2019-02-28">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2019-03-23</airdate>
+<title xml:lang="ja">激闘! 戦友[とも]の帰還</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Gekitou! Tomo no Kikan</title>
+</episode>
+<episode id="213088" recap="true" update="2020-04-18">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2019-03-30</airdate>
+<title xml:lang="ja">四天王 ひと時の休息</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Shitennou: Hitotoki no Kyuusoku</title>
+</episode>
+<episode id="214050" update="2019-03-24">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2019-04-06</airdate>
+<title xml:lang="ja">涙の決意 さらば友よ</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Namida no Ketsui: Saraba Tomo yo</title>
+</episode>
+<episode id="214051" update="2019-04-07">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2019-04-20</airdate>
+<title xml:lang="ja">駆けろ! 臆病者の誇り</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Kakero! Okubyoumono no Hokori</title>
+</episode>
+<episode id="214052" update="2019-04-07">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2019-04-27</airdate>
+<title xml:lang="ja">女2人! 最強ペア</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Onna Futari! Saikyou Pair</title>
+</episode>
+<episode id="214053" update="2019-04-07">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2019-05-04</airdate>
+<title xml:lang="ja">強襲! 暁のドレイク</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Kyoushuu! Akatsuki no Drake</title>
+</episode>
+<episode id="214054" update="2019-04-07">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2019-05-11</airdate>
+<title xml:lang="ja">ゾイド狩り! 男の約束</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Zoid Kari! Otoko no Yakusoku</title>
+</episode>
+<episode id="214055" update="2019-04-07">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2019-05-18</airdate>
+<title xml:lang="ja">絶叫! 壮絶な友情</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Zekkyou! Souzetsu na Yuujou</title>
+</episode>
+<episode id="214988" update="2019-04-12">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2019-04-06</airdate>
+<title xml:lang="en">Opening 4</title>
+</episode>
+<episode id="214989" update="2019-04-12">
+<epno type="3">C8</epno>
+<length>2</length>
+<airdate>2019-04-06</airdate>
+<title xml:lang="en">Ending 4</title>
+</episode>
+<episode id="216678" update="2019-05-11">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2019-05-25</airdate>
+<title xml:lang="ja">再会! 親父よ...</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Saikai! Oyaji yo...</title>
+</episode>
+<episode id="216679" update="2019-05-11">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2019-06-01</airdate>
+<title xml:lang="ja">勝負! アラシvs[バーサス]ドレイク</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Shoubu! Arashi Versus Drake</title>
+</episode>
+<episode id="216680" update="2019-05-11">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2019-06-08</airdate>
+<title xml:lang="ja">共闘! ダブルワイルドブラスト</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Kyoutou! Double Wild Blast</title>
+</episode>
+<episode id="216681" update="2019-05-11">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2019-06-15</airdate>
+<title xml:lang="ja">進め それぞれの道!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Susume: Sorezore no Michi!</title>
+</episode>
+<episode id="217902" update="2019-06-08">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2019-06-22</airdate>
+<title xml:lang="ja">死闘の火蓋! 最終決戦</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Shitou no Hibuta! Saishuu Kessen</title>
+</episode>
+<episode id="217903" update="2019-06-08">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2019-06-29</airdate>
+<title xml:lang="ja">つなげ! 未来への絆</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Tsunage! Mirai e no Kizuna</title>
+</episode>
+</episodes>
+</anime>

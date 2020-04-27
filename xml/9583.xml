@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9583" restricted="false">
+<type>TV Series</type>
+<episodecount>102</episodecount>
+<startdate>2013-01-12</startdate>
+<enddate>2014-12-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ganbare! Oden-kun</title>
+<title xml:lang="ja" type="official">がんばれ! おでんくん</title>
+</titles>
+<relatedanime>
+<anime id="3054" type="Other">Oden-kun</anime>
+</relatedanime>
+<url>http://www.fight-odenkun.com/</url>
+<creators>
+<name id="33855" type="Animation Work">Kachidoki Studio</name>
+<name id="32304" type="Series Composition">Adachi Motoichi</name>
+<name id="10145" type="Original Work">Lily Franky</name>
+<name id="34752" type="Character Design">Takata Masahiro</name>
+<name id="34752" type="Direction">Takata Masahiro</name>
+</creators>
+<description>In an odd dimensional bubble inside the kettle of an Oden food cart exists Oden village. The residents of Oden village spend their idyllic days waiting for customers to come and eat them. In the meantime, Oden-kun helps other troubled dwellers to realize their dreams. One day, he hears that a customer`s mother suffers from cancer so he leaves the kettle and after being eaten, faces the cancer cell Gannosuke. Oden-kun`s dream is to meet his own mother. Looking forward to this day, Oden-kun spends his days doing one good deed a day.
+Source: ANN</description>
+<picture>129735.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14992</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>16908</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.fight-odenkun.com/</url>
+</externalentity>
+<externalentity>
+<url>http://s.mxtv.jp/ganbare_odenkun/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おでんくん#.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3637</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>344790</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="52117" type="main character in" update="2013-01-16">
+<name>Oden-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59685.png</picture>
+<seiyuu id="34975" picture="130925.jpg">Honjou Manami</seiyuu>
+</character>
+<character id="52118" type="secondary cast in" update="2013-01-16">
+<name>Tamago-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59686.png</picture>
+<seiyuu id="540" picture="41046.jpg">Chiba Chiemi</seiyuu>
+</character>
+<character id="52119" type="secondary cast in" update="2013-01-16">
+<name>Vienna-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59687.png</picture>
+</character>
+<character id="52120" type="appears in" update="2013-01-16">
+<name>Kamisama</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59688.png</picture>
+<seiyuu id="26122" picture="72520.jpg">Tanaka Naoki</seiyuu>
+</character>
+<character id="52121" type="secondary cast in" update="2015-02-24">
+<name>Daikon-sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169225.jpg</picture>
+<seiyuu id="4742" picture="54426.jpg">Fukumatsu Shin`ya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="146807" update="2016-02-24">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2013-01-19</airdate>
+<title xml:lang="ja">便利ってなんですか?</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Benritte Nandesuka?</title>
+</episode>
+<episode id="146808" update="2016-02-24">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2013-01-12</airdate>
+<title xml:lang="ja">時をかけるおでんくん</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Toki o Kakeru Oden-kun</title>
+</episode>
+<episode id="153730" update="2013-09-02">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2013-01-26</airdate>
+<title xml:lang="ja">いそがしいゴールデンうずらくん</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Isogashii Golden Uzura-kun</title>
+</episode>
+<episode id="153731" update="2013-09-02">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2013-02-02</airdate>
+<title xml:lang="ja">ガングロたまごちゃんの決意</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Ganguro Tamago-chan no Ketsui</title>
+</episode>
+<episode id="153732" update="2013-09-02">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2013-02-09</airdate>
+<title xml:lang="ja">おでんくんの謎</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Oden-kun no Nazo</title>
+</episode>
+<episode id="153733" update="2013-09-02">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2013-02-16</airdate>
+<title xml:lang="ja">ウワサのバクダンたまごちゃん</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Uwasa no Bakudan Tamago-chan</title>
+</episode>
+<episode id="153734" update="2013-09-02">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2013-03-02</airdate>
+<title xml:lang="ja">帰ってきたフランク (前編)</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Kaette Kita Frank (Zenpen)</title>
+</episode>
+<episode id="153735" update="2013-09-02">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2013-02-23</airdate>
+<title xml:lang="ja">どちらが必要ですか</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Dochira ga Hitsuyou Desuka</title>
+</episode>
+<episode id="153736" update="2013-09-02">
+<epno type="1">35</epno>
+<length>5</length>
+<airdate>2013-09-07</airdate>
+<title xml:lang="ja">ハラペコの木</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Harapeko no Ki</title>
+</episode>
+<episode id="153737" update="2013-09-02">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2013-03-09</airdate>
+<title xml:lang="ja">帰ってきたフランク (後編)</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Kaette Kita Frank (Kouhen)</title>
+</episode>
+<episode id="153738" update="2013-09-02">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2013-03-16</airdate>
+<title xml:lang="ja">オバケが出た~!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Obake ga Deta!</title>
+</episode>
+<episode id="153739" update="2013-09-02">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2013-03-30</airdate>
+<title xml:lang="ja">ホラ, ほんとになったよ</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Hora, Honto ni Natta yo</title>
+</episode>
+<episode id="153740" update="2013-09-02">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2013-03-23</airdate>
+<title xml:lang="ja">おでん村大野球大会</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Oden Mura Daiyakyuu Taikai</title>
+</episode>
+<episode id="153741" update="2013-09-02">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2013-04-13</airdate>
+<title xml:lang="ja">厚揚げ先生がやってきた</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Atsuage-sensei ga Yatte Kita</title>
+</episode>
+<episode id="153742" update="2013-09-02">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2013-04-06</airdate>
+<title xml:lang="ja">おじさんのおみやげ</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Ojisan no Omiyage</title>
+</episode>
+<episode id="153743" update="2013-09-02">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2013-04-20</airdate>
+<title xml:lang="ja">一流ってなんですか</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Ichiryuutte Nandesuka</title>
+</episode>
+<episode id="153744" update="2013-09-02">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2013-04-27</airdate>
+<title xml:lang="ja">おでん村寄席</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Oden Mura Yose</title>
+</episode>
+<episode id="153745" update="2013-09-02">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2013-05-04</airdate>
+<title xml:lang="ja">トメさんの思い出</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Tomesan no Omoide</title>
+</episode>
+<episode id="153746" update="2013-09-02">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2013-05-11</airdate>
+<title xml:lang="ja">はんぺんくんのダイエット</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Hanpen-kun no Diet</title>
+</episode>
+<episode id="153747" update="2013-09-02">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2013-05-18</airdate>
+<title xml:lang="ja">おでん村に雪が降る!?</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Oden Mura ni Yuki ga Furu!?</title>
+</episode>
+<episode id="153748" update="2013-09-02">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2013-05-25</airdate>
+<title xml:lang="ja">負けたくないから?</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Maketakunai Kara?</title>
+</episode>
+<episode id="153749" update="2013-09-02">
+<epno type="1">21</epno>
+<length>5</length>
+<airdate>2013-06-01</airdate>
+<title xml:lang="ja">ダジャレあい!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Dajare Ai!</title>
+</episode>
+<episode id="153750" update="2013-09-02">
+<epno type="1">22</epno>
+<length>5</length>
+<airdate>2013-06-08</airdate>
+<title xml:lang="ja">カッコイイ生き方って?</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Kakkoii Ikikatatte?</title>
+</episode>
+<episode id="153751" update="2013-09-02">
+<epno type="1">23</epno>
+<length>5</length>
+<airdate>2013-06-15</airdate>
+<title xml:lang="ja">エノソンの発明</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Enoson no Hatsumei</title>
+</episode>
+<episode id="153752" update="2013-09-02">
+<epno type="1">24</epno>
+<length>5</length>
+<airdate>2013-06-22</airdate>
+<title xml:lang="ja">おでん沼がたいへん!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Oden Numa ga Taihen!</title>
+</episode>
+<episode id="153753" update="2013-09-02">
+<epno type="1">25</epno>
+<length>5</length>
+<airdate>2013-06-29</airdate>
+<title xml:lang="ja">とうふ先生のさいなん</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Toufu-sensei no Sainan</title>
+</episode>
+<episode id="153754" update="2013-09-02">
+<epno type="1">28</epno>
+<length>5</length>
+<airdate>2013-07-20</airdate>
+<title xml:lang="ja">もちロープで人助け</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Mochi Rope de Hitodasuke</title>
+</episode>
+<episode id="153755" update="2013-09-02">
+<epno type="1">26</epno>
+<length>5</length>
+<airdate>2013-07-06</airdate>
+<title xml:lang="ja">男の子のムシャクシャ</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Otokonoko no Mushakusha</title>
+</episode>
+<episode id="153756" update="2013-09-02">
+<epno type="1">27</epno>
+<length>5</length>
+<airdate>2013-07-13</airdate>
+<title xml:lang="ja">ナゾの占い師</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Nazo no Uranaishi</title>
+</episode>
+<episode id="153757" update="2013-09-02">
+<epno type="1">29</epno>
+<length>5</length>
+<airdate>2013-07-27</airdate>
+<title xml:lang="ja">ウソつかれても</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Uso Tsukarete mo</title>
+</episode>
+<episode id="153758" update="2013-09-02">
+<epno type="1">30</epno>
+<length>5</length>
+<airdate>2013-08-03</airdate>
+<title xml:lang="ja">授業参観の日</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Jugyou Sankan no Hi</title>
+</episode>
+<episode id="153759" update="2013-09-02">
+<epno type="1">31</epno>
+<length>5</length>
+<airdate>2013-08-10</airdate>
+<title xml:lang="ja">海の中へいらっしゃい</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Umi no Naka e Irasshai</title>
+</episode>
+<episode id="153760" update="2013-09-02">
+<epno type="1">32</epno>
+<length>5</length>
+<airdate>2013-08-17</airdate>
+<title xml:lang="ja">おでんくんの夜</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Oden-kun no Yoru</title>
+</episode>
+<episode id="153761" update="2013-09-02">
+<epno type="1">33</epno>
+<length>5</length>
+<airdate>2013-08-24</airdate>
+<title xml:lang="ja">すてきなふるさと</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Suteki na Furusato</title>
+</episode>
+<episode id="153762" update="2013-09-02">
+<epno type="1">34</epno>
+<length>5</length>
+<airdate>2013-08-31</airdate>
+<title xml:lang="ja">神サマージャンボ玉くじ</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Kamisama Janbo Dama Kuji</title>
+</episode>
+<episode id="175580" update="2016-02-24">
+<epno type="1">102</epno>
+<length>5</length>
+<airdate>2014-12-27</airdate>
+<title xml:lang="ja">ぶらっく おあ ほわいと</title>
+<title xml:lang="en">Episode 102</title>
+<title xml:lang="x-jat">Black Or White</title>
+</episode>
+<episode id="175581" update="2016-02-24">
+<epno type="1">101</epno>
+<length>3</length>
+<airdate>2014-12-20</airdate>
+<title xml:lang="ja">がんばれおんなのこ!</title>
+<title xml:lang="en">Episode 101</title>
+<title xml:lang="x-jat">Ganbare Onnanoko!</title>
+</episode>
+<episode id="175582" update="2016-02-24">
+<epno type="1">100</epno>
+<length>3</length>
+<airdate>2014-12-13</airdate>
+<title xml:lang="ja">こんにゃくんとこんぶくんとはんぺんくん</title>
+<title xml:lang="en">Episode 100</title>
+<title xml:lang="x-jat">Konnya-kun to Konbu-kun to Hanpen-kun</title>
+</episode>
+<episode id="175583" update="2016-02-24">
+<epno type="1">99</epno>
+<length>6</length>
+<airdate>2014-12-06</airdate>
+<title xml:lang="ja">ペロのちいさなおもいで</title>
+<title xml:lang="en">Episode 99</title>
+<title xml:lang="x-jat">Pero no Chiisana Omoide</title>
+</episode>
+<episode id="175584" update="2016-02-24">
+<epno type="1">98</epno>
+<length>3</length>
+<airdate>2014-11-29</airdate>
+<title xml:lang="ja">カワイイのはどっち!?</title>
+<title xml:lang="en">Episode 98</title>
+<title xml:lang="x-jat">Kawaii no wa Docchi!?</title>
+</episode>
+<episode id="175585" update="2016-02-24">
+<epno type="1">97</epno>
+<length>3</length>
+<airdate>2014-11-22</airdate>
+<title xml:lang="ja">なんでもたのしく</title>
+<title xml:lang="en">Episode 97</title>
+<title xml:lang="x-jat">Nandemo Tanoshiku</title>
+</episode>
+<episode id="175586" update="2016-02-24">
+<epno type="1">96</epno>
+<length>3</length>
+<airdate>2014-11-15</airdate>
+<title xml:lang="ja">だいこん先生の忘れ物</title>
+<title xml:lang="en">Episode 96</title>
+<title xml:lang="x-jat">Daikon-sensei no Wasuremono</title>
+</episode>
+<episode id="175587" update="2016-02-24">
+<epno type="1">95</epno>
+<length>3</length>
+<airdate>2014-11-08</airdate>
+<title xml:lang="ja">ごめんなさいのプレゼント</title>
+<title xml:lang="en">Episode 95</title>
+<title xml:lang="x-jat">Gomennasai no Present</title>
+</episode>
+<episode id="175588" update="2016-02-24">
+<epno type="1">94</epno>
+<length>3</length>
+<airdate>2014-11-01</airdate>
+<title xml:lang="ja">キメポーズだいさくせん</title>
+<title xml:lang="en">Episode 94</title>
+<title xml:lang="x-jat">Kime Pose Da Isakusen</title>
+</episode>
+<episode id="175589" update="2016-02-24">
+<epno type="1">93</epno>
+<length>3</length>
+<airdate>2014-10-25</airdate>
+<title xml:lang="ja">ペロのちいさなだいぼうけん</title>
+<title xml:lang="en">Episode 93</title>
+<title xml:lang="x-jat">Pero no Chiisana Daibouken</title>
+</episode>
+<episode id="175590" update="2016-02-24">
+<epno type="1">92</epno>
+<length>3</length>
+<airdate>2014-10-18</airdate>
+<title xml:lang="ja">ペロのちいさなともだち</title>
+<title xml:lang="en">Episode 92</title>
+<title xml:lang="x-jat">Pero no Chiisana Tomodachi</title>
+</episode>
+<episode id="175591" update="2016-02-24">
+<epno type="1">91</epno>
+<length>3</length>
+<airdate>2014-10-11</airdate>
+<title xml:lang="ja">おでんくんとお母さん</title>
+<title xml:lang="en">Episode 91</title>
+<title xml:lang="x-jat">Oden-kun to Okaasan</title>
+</episode>
+<episode id="175592" update="2016-02-24">
+<epno type="1">90</epno>
+<length>3</length>
+<airdate>2014-10-04</airdate>
+<title xml:lang="ja">こんにゃくん アレコレ</title>
+<title xml:lang="en">Episode 90</title>
+<title xml:lang="x-jat">Konnya-kun Arekore</title>
+</episode>
+<episode id="175593" update="2016-02-24">
+<epno type="1">89</epno>
+<length>3</length>
+<airdate>2014-09-27</airdate>
+<title xml:lang="ja">たまごちゃんアレコレ</title>
+<title xml:lang="en">Episode 89</title>
+<title xml:lang="x-jat">Tamago-chan Arekore</title>
+</episode>
+<episode id="175594" update="2016-02-24">
+<epno type="1">88</epno>
+<length>5</length>
+<airdate>2014-09-20</airdate>
+<title xml:lang="ja">ウインナーくんアレコレ</title>
+<title xml:lang="en">Episode 88</title>
+<title xml:lang="x-jat">Winna-kun Arekore</title>
+</episode>
+<episode id="175595" update="2016-02-24">
+<epno type="1">87</epno>
+<length>5</length>
+<airdate>2014-09-13</airdate>
+<title xml:lang="ja">おでんくんファイト! パートツー!</title>
+<title xml:lang="en">Episode 87</title>
+<title xml:lang="x-jat">Oden-kun Fight! Part Two!</title>
+</episode>
+<episode id="175596" update="2016-02-24">
+<epno type="1">86</epno>
+<length>5</length>
+<airdate>2014-09-06</airdate>
+<title xml:lang="ja">おでんくんファイト! パートワン!</title>
+<title xml:lang="en">Episode 86</title>
+<title xml:lang="x-jat">Oden-kun Fight! Part One!</title>
+</episode>
+<episode id="175597" update="2016-02-24">
+<epno type="1">85</epno>
+<length>5</length>
+<airdate>2014-08-30</airdate>
+<title xml:lang="ja">おじさんアレコレ</title>
+<title xml:lang="en">Episode 85</title>
+<title xml:lang="x-jat">Ojisan Arekore</title>
+</episode>
+<episode id="175598" update="2016-02-24">
+<epno type="1">84</epno>
+<length>5</length>
+<airdate>2014-08-23</airdate>
+<title xml:lang="ja">ガングロレポート はんぺんくんアレコレ!</title>
+<title xml:lang="en">Episode 84</title>
+<title xml:lang="x-jat">Ganguro Report Hanpen-kun Arekore!</title>
+</episode>
+<episode id="175599" update="2016-02-24">
+<epno type="1">83</epno>
+<length>5</length>
+<airdate>2014-08-16</airdate>
+<title xml:lang="ja">ガングロレポート こんぶくんアレコレ!</title>
+<title xml:lang="en">Episode 83</title>
+<title xml:lang="x-jat">Ganguro Report Konbu-kun Arekore!</title>
+</episode>
+<episode id="175600" update="2016-02-24">
+<epno type="1">82</epno>
+<length>5</length>
+<airdate>2014-08-09</airdate>
+<title xml:lang="ja">ガングロレポート だいこん先生アレコレ!</title>
+<title xml:lang="en">Episode 82</title>
+<title xml:lang="x-jat">Ganguro Report Daikon-sensei Arekore!</title>
+</episode>
+<episode id="175601" update="2016-02-24">
+<epno type="1">81</epno>
+<length>5</length>
+<airdate>2014-08-02</airdate>
+<title xml:lang="ja">ガングロレポート 神様アレコレ!</title>
+<title xml:lang="en">Episode 81</title>
+<title xml:lang="x-jat">Ganguro Report Kamisama Arekore!</title>
+</episode>
+<episode id="175602" update="2016-02-24">
+<epno type="1">80</epno>
+<length>5</length>
+<airdate>2014-07-26</airdate>
+<title xml:lang="ja">おでんくんともりげさんのまとめ!</title>
+<title xml:lang="en">Episode 80</title>
+<title xml:lang="x-jat">Oden-kun to Morige-san no Matome!</title>
+</episode>
+<episode id="175603" update="2016-02-24">
+<epno type="1">79</epno>
+<length>5</length>
+<airdate>2014-07-19</airdate>
+<title xml:lang="ja">おでんくんともりしげさんのまとめ!</title>
+<title xml:lang="en">Episode 79</title>
+<title xml:lang="x-jat">Oden-kun to Morishite-san no Matome!</title>
+</episode>
+<episode id="175604" update="2016-02-24">
+<epno type="1">78</epno>
+<length>5</length>
+<airdate>2014-07-12</airdate>
+<title xml:lang="ja">おでん村サッカー大会 決着!!</title>
+<title xml:lang="en">Episode 78</title>
+<title xml:lang="x-jat">Oden Mura Soccer Taikai Kecchaku!!</title>
+</episode>
+<episode id="175605" update="2016-02-24">
+<epno type="1">77</epno>
+<length>5</length>
+<airdate>2014-07-05</airdate>
+<title xml:lang="ja">おでん村サッカー大会 試合開始!</title>
+<title xml:lang="en">Episode 77</title>
+<title xml:lang="x-jat">Oden Mura Soccer Taikai Shiai Kaishi!</title>
+</episode>
+<episode id="175606" update="2016-02-24">
+<epno type="1">76</epno>
+<length>5</length>
+<airdate>2014-06-28</airdate>
+<title xml:lang="ja">プレッシャーには負けないぞ!</title>
+<title xml:lang="en">Episode 76</title>
+<title xml:lang="x-jat">Pressure ni wa Makenaizo!</title>
+</episode>
+<episode id="175607" update="2016-02-24">
+<epno type="1">75</epno>
+<length>5</length>
+<airdate>2014-06-21</airdate>
+<title xml:lang="ja">プレッシャーって何?</title>
+<title xml:lang="en">Episode 75</title>
+<title xml:lang="x-jat">Pressurette Nani?</title>
+</episode>
+<episode id="175608" update="2016-02-24">
+<epno type="1">74</epno>
+<length>5</length>
+<airdate>2014-06-14</airdate>
+<title xml:lang="ja">つみれちゃんの~ おでん村男子チェック</title>
+<title xml:lang="en">Episode 74</title>
+<title xml:lang="x-jat">Tsumire-chan no Oden Mura Danshi Check</title>
+</episode>
+<episode id="175609" update="2016-02-24">
+<epno type="1">73</epno>
+<length>5</length>
+<airdate>2014-06-07</airdate>
+<title xml:lang="ja">つみれちゃんの~ おでん村女子チェック</title>
+<title xml:lang="en">Episode 73</title>
+<title xml:lang="x-jat">Tsumire-chan no Oden Mura Joshi Check</title>
+</episode>
+<episode id="175610" update="2016-02-24">
+<epno type="1">72</epno>
+<length>5</length>
+<airdate>2014-05-31</airdate>
+<title xml:lang="ja">ココロ アレコレ</title>
+<title xml:lang="en">Episode 72</title>
+<title xml:lang="x-jat">Kokoro Arekore</title>
+</episode>
+<episode id="175611" update="2016-02-24">
+<epno type="1">71</epno>
+<length>5</length>
+<airdate>2014-05-24</airdate>
+<title xml:lang="ja">ガングロレポート おでんくんコレマジ!?</title>
+<title xml:lang="en">Episode 71</title>
+<title xml:lang="x-jat">Ganguro Report Oden-kun Koremaji!?</title>
+</episode>
+<episode id="175612" update="2016-02-24">
+<epno type="1">70</epno>
+<length>5</length>
+<airdate>2014-05-17</airdate>
+<title xml:lang="ja">ガングロレポート ジャガーどれどれ?</title>
+<title xml:lang="en">Episode 70</title>
+<title xml:lang="x-jat">Ganguro Report Jagaa Doredore?</title>
+</episode>
+<episode id="175613" update="2016-02-24">
+<epno type="1">69</epno>
+<length>5</length>
+<airdate>2014-05-10</airdate>
+<title xml:lang="ja">ガングロレポート ジャガーダレソレ?</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="x-jat">Ganguro Report Jagaa Daresore?</title>
+</episode>
+<episode id="175614" update="2016-02-24">
+<epno type="1">68</epno>
+<length>5</length>
+<airdate>2014-05-03</airdate>
+<title xml:lang="ja">おでん村をパトロール</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Oden Mura o Patrol</title>
+</episode>
+<episode id="175615" update="2016-02-24">
+<epno type="1">67</epno>
+<length>5</length>
+<airdate>2014-04-26</airdate>
+<title xml:lang="ja">おじさんの花たば</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">Ojisan no Hanataba</title>
+</episode>
+<episode id="175616" update="2016-02-24">
+<epno type="1">66</epno>
+<length>5</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="ja">バクのおなかは夢でいっぱい</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Baku no Onaka wa Yume de Ippai</title>
+</episode>
+<episode id="175617" update="2016-02-24">
+<epno type="1">65</epno>
+<length>5</length>
+<airdate>2014-04-12</airdate>
+<title xml:lang="ja">日がわり神様</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">Nichigawari Kamisama</title>
+</episode>
+<episode id="175618" update="2016-02-24">
+<epno type="1">64</epno>
+<length>5</length>
+<airdate>2014-04-05</airdate>
+<title xml:lang="ja">お花見にいきたくて</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Ohanami ni Ikitakute</title>
+</episode>
+<episode id="175619" update="2016-02-24">
+<epno type="1">63</epno>
+<length>5</length>
+<airdate>2014-03-29</airdate>
+<title xml:lang="ja">風邪がこわい!</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">Kaze ga Kowai!</title>
+</episode>
+<episode id="175620" update="2016-02-24">
+<epno type="1">62</epno>
+<length>5</length>
+<airdate>2014-03-22</airdate>
+<title xml:lang="ja">がんばれ! ジャガー</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Ganbare! Jagaa</title>
+</episode>
+<episode id="175621" update="2016-02-24">
+<epno type="1">61</epno>
+<length>5</length>
+<airdate>2014-03-15</airdate>
+<title xml:lang="ja">おでん村 リフレイン</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Oden Mura Refrain</title>
+</episode>
+<episode id="175622" update="2016-02-24">
+<epno type="1">60</epno>
+<length>5</length>
+<airdate>2014-03-08</airdate>
+<title xml:lang="ja">ガングロレポート おでん村イロイロ</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Ganguro Report Oden Mura Iroiro</title>
+</episode>
+<episode id="175623" update="2016-02-24">
+<epno type="1">59</epno>
+<length>5</length>
+<airdate>2014-03-01</airdate>
+<title xml:lang="ja">ガングロレポート おでん村ソレドレ</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Ganguro Report Oden Mura Soredore</title>
+</episode>
+<episode id="175624" update="2016-02-24">
+<epno type="1">58</epno>
+<length>5</length>
+<airdate>2014-02-22</airdate>
+<title xml:lang="ja">ガングロレポート おでん村アレコレ</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Ganguro Report Oden Mura Arekore</title>
+</episode>
+<episode id="175625" update="2016-02-24">
+<epno type="1">57</epno>
+<length>5</length>
+<airdate>2014-02-15</airdate>
+<title xml:lang="ja">ガングロレポート おでんくんアレコレ</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Ganguro Report Oden-kun Arekore</title>
+</episode>
+<episode id="175626" update="2016-02-24">
+<epno type="1">56</epno>
+<length>5</length>
+<airdate>2014-02-01</airdate>
+<title xml:lang="ja">なるとちゃんがやってきた</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Naruto-chan ga Yatte Kita</title>
+</episode>
+<episode id="175627" update="2016-02-24">
+<epno type="1">55</epno>
+<length>5</length>
+<airdate>2014-01-25</airdate>
+<title xml:lang="ja">カギのついた本</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Kagi no Tsuita Hon</title>
+</episode>
+<episode id="175628" update="2016-02-24">
+<epno type="1">54</epno>
+<length>5</length>
+<airdate>2014-01-18</airdate>
+<title xml:lang="ja">とある一日</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Toaru Ichinichi</title>
+</episode>
+<episode id="175629" update="2016-02-24">
+<epno type="1">53</epno>
+<length>5</length>
+<airdate>2014-01-11</airdate>
+<title xml:lang="ja">なんの一番ですか?</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Nan no Ichiban Desuka?</title>
+</episode>
+<episode id="175630" update="2016-02-24">
+<epno type="1">52</epno>
+<length>5</length>
+<airdate>2014-01-04</airdate>
+<title xml:lang="ja">ジャガーだいばくはつ!?</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Jagaa Daibakuhatsu!?</title>
+</episode>
+<episode id="175631" update="2016-02-24">
+<epno type="1">51</epno>
+<length>5</length>
+<airdate>2013-12-28</airdate>
+<title xml:lang="ja">秘拳! おでん拳</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Hiken! Oden Ken</title>
+</episode>
+<episode id="175632" update="2016-02-24">
+<epno type="1">50</epno>
+<length>5</length>
+<airdate>2013-12-21</airdate>
+<title xml:lang="ja">お年寄りにだいじに</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Otoshiyori ni Daiji ni</title>
+</episode>
+<episode id="175633" update="2016-02-24">
+<epno type="1">49</epno>
+<length>5</length>
+<airdate>2013-12-14</airdate>
+<title xml:lang="ja">おでん山トレッキング</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Oden-san Trecking</title>
+</episode>
+<episode id="175634" update="2016-02-24">
+<epno type="1">48</epno>
+<length>5</length>
+<airdate>2013-12-07</airdate>
+<title xml:lang="ja">それも個性</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Sore mo Kosei</title>
+</episode>
+<episode id="175635" update="2016-02-24">
+<epno type="1">47</epno>
+<length>5</length>
+<airdate>2013-11-30</airdate>
+<title xml:lang="ja">硬派なふたり</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Kouha na Futari</title>
+</episode>
+<episode id="175636" update="2016-02-24">
+<epno type="1">46</epno>
+<length>5</length>
+<airdate>2013-11-23</airdate>
+<title xml:lang="ja">ズルだとしたら</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Zuru Da to Shitara</title>
+</episode>
+<episode id="175637" update="2016-02-24">
+<epno type="1">45</epno>
+<length>5</length>
+<airdate>2013-11-16</airdate>
+<title xml:lang="ja">いつもとちがう景色</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Itsumo to Chigau Keshiki</title>
+</episode>
+<episode id="175638" update="2016-02-24">
+<epno type="1">44</epno>
+<length>5</length>
+<airdate>2013-11-09</airdate>
+<title xml:lang="ja">おでんくんのオシャレ</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Oden-kun no Oshare</title>
+</episode>
+<episode id="175639" update="2016-02-24">
+<epno type="1">43</epno>
+<length>5</length>
+<airdate>2013-11-02</airdate>
+<title xml:lang="ja">夢のモチモチランド</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Yume no Mochimochi Land</title>
+</episode>
+<episode id="175640" update="2016-02-24">
+<epno type="1">42</epno>
+<length>5</length>
+<airdate>2013-10-26</airdate>
+<title xml:lang="ja">星にねがいを</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Hoshi ni Negai o</title>
+</episode>
+<episode id="175641" update="2016-02-24">
+<epno type="1">41</epno>
+<length>5</length>
+<airdate>2013-10-19</airdate>
+<title xml:lang="ja">ホッとひといき</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Hotto Hito Iki</title>
+</episode>
+<episode id="175642" update="2016-02-24">
+<epno type="1">40</epno>
+<length>5</length>
+<airdate>2013-10-12</airdate>
+<title xml:lang="ja">不公平って何ですか</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Fukouheitte Nandesuka</title>
+</episode>
+<episode id="175643" update="2016-02-24">
+<epno type="1">39</epno>
+<length>5</length>
+<airdate>2013-10-05</airdate>
+<title xml:lang="ja">恋するジャガー</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Koi Suru Jagaa</title>
+</episode>
+<episode id="175644" update="2016-02-24">
+<epno type="1">38</epno>
+<length>5</length>
+<airdate>2013-09-28</airdate>
+<title xml:lang="ja">友達を信じて</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Tomodachi o Shinjite</title>
+</episode>
+<episode id="175645" update="2016-02-24">
+<epno type="1">37</epno>
+<length>5</length>
+<airdate>2013-09-21</airdate>
+<title xml:lang="ja">こんぶくんの大凧</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Konbu-kun no Daitako</title>
+</episode>
+<episode id="175646" update="2016-02-24">
+<epno type="1">36</epno>
+<length>5</length>
+<airdate>2013-09-14</airdate>
+<title xml:lang="ja">こんにゃくんの勇気</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Konnyakun no Yuuki</title>
+</episode>
+</episodes>
+</anime>

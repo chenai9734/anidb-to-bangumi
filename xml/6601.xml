@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6601" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1987-07-21</startdate>
+<enddate>1987-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bugtte Honey: Megaromu Shoujo Ma 4622</title>
+<title xml:lang="ja" type="official">Bugってハニー メガロム少女舞4622</title>
+</titles>
+<relatedanime>
+<anime id="6600" type="Prequel">Bugtte Honey</anime>
+</relatedanime>
+<url>http://www.tms-e.com/library/old/movie/data/m_bug.html</url>
+<creators>
+<name id="4408" type="Direction">Nagaoka Akinori</name>
+<name id="4444" type="Music">Tsutsui Hiroshi</name>
+</creators>
+<ratings>
+<permanent count="2">4.59</permanent>
+<temporary count="2">3.50</temporary>
+</ratings>
+<picture>192244.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1615</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31868</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2574</identifier>
+<identifier>drwzmy</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tms-e.com/library/old/movie/data/m_bug.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150181</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2269</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="105588" update="2011-10-20">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1987-07-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

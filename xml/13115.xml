@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13115" restricted="false">
+<type>TV Series</type>
+<episodecount>67</episodecount>
+<startdate>2017-04-21</startdate>
+<enddate>2018-12-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Neko to Mata</title>
+<title xml:lang="ja" type="official">ね子とま太</title>
+</titles>
+<url>http://www.creativevillage.ne.jp/lp/nekotomata/</url>
+<creators>
+<name id="31526" type="Character Design">Onaka Takeshi</name>
+<name id="31526" type="Direction">Onaka Takeshi</name>
+</creators>
+<description>The series centers around two cats: a younger sister named http://anidb.net/ch88905 [Neko], and an older brother named http://anidb.net/ch88906 [Mata]. Neko is a nekomata (a mythical two-tailed cat), innocently selfish, and spoiled by her brother. Mata is a neighborhood cat with an eartipped mark as a sign of being neutered. They meet under a streetlight in the city at night to talk.
+Source: ANN
+Note: A short anime aired as a segment on http://anidb.net/cr741 [Fuji TV]`s late-night variety program #Hi_Poul.</description>
+<ratings>
+<permanent count="2">2.66</permanent>
+<temporary count="2">1.00</temporary>
+</ratings>
+<picture>201234.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35444</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.creativevillage.ne.jp/lp/nekotomata/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360493</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>nekotomata_info</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="88905" type="main character in" update="2017-04-19">
+<name>Neko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201235.jpg</picture>
+<seiyuu id="41905" picture="172030.jpg">Nagatsuka Takuma</seiyuu>
+</character>
+<character id="88906" type="main character in" update="2017-04-19">
+<name>Mata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201236.jpg</picture>
+<seiyuu id="26645" picture="171630.jpg">Hatanaka Tasuku</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="187285" update="2017-05-05">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2017-04-21</airdate>
+<title xml:lang="ja">タッチのおはなし</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Touch no Ohanashi</title>
+</episode>
+<episode id="187432" update="2017-05-05">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2017-04-28</airdate>
+<title xml:lang="ja">つぶつぶのおはなし</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Tsubutsubu no Ohanashi</title>
+</episode>
+<episode id="187511" update="2017-05-18">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2017-05-05</airdate>
+<title xml:lang="ja">やさしいことばのおはなし</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Yasashii Koto no Ohanashi</title>
+</episode>
+<episode id="187832" update="2017-05-18">
+<epno type="1">4</epno>
+<length>1</length>
+<airdate>2017-05-19</airdate>
+<title xml:lang="ja">Pのおはなし</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">P no Ohanashi</title>
+</episode>
+<episode id="187971" update="2017-05-26">
+<epno type="1">5</epno>
+<length>1</length>
+<airdate>2017-05-26</airdate>
+<title xml:lang="ja">パンのおはなし</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Pan no Ohanashi</title>
+</episode>
+<episode id="188077" update="2017-06-02">
+<epno type="1">6</epno>
+<length>1</length>
+<airdate>2017-06-02</airdate>
+<title xml:lang="ja">サイバー攻撃のおはなし</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Cyber Kougeki no Ohanashi</title>
+</episode>
+<episode id="188188" update="2017-06-09">
+<epno type="1">7</epno>
+<length>1</length>
+<airdate>2017-06-09</airdate>
+<title xml:lang="ja">えいごのいいかたのおはなし</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Eigo no Iikata no Ohanashi</title>
+</episode>
+<episode id="188285" update="2017-06-16">
+<epno type="1">8</epno>
+<length>1</length>
+<airdate>2017-06-16</airdate>
+<title xml:lang="ja">なぞなぞのおはなし</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Nazonazo no Ohanashi</title>
+</episode>
+<episode id="188614" update="2017-06-23">
+<epno type="1">9</epno>
+<length>1</length>
+<airdate>2017-06-23</airdate>
+<title xml:lang="ja">まめまきのおはなし</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Mamemaki no Ohanashi</title>
+</episode>
+<episode id="188928" update="2017-07-10">
+<epno type="1">10</epno>
+<length>1</length>
+<airdate>2017-07-07</airdate>
+<title xml:lang="ja">しゅしゅしゅのおはなし</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Shushushu no Ohanashi</title>
+</episode>
+<episode id="189061" update="2017-07-14">
+<epno type="1">11</epno>
+<length>1</length>
+<airdate>2017-07-14</airdate>
+<title xml:lang="ja">やまとかわのおはなし</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Yama to Kawa no Ohanashi</title>
+</episode>
+<episode id="189252" update="2017-07-21">
+<epno type="1">12</epno>
+<length>1</length>
+<airdate>2017-07-21</airdate>
+<title xml:lang="ja">ゆめのおはなし</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Yume no Ohanashi</title>
+</episode>
+<episode id="189564" update="2017-07-28">
+<epno type="1">13</epno>
+<length>1</length>
+<airdate>2017-07-28</airdate>
+<title xml:lang="ja">アリのおはなし</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Ari no Ohanashi</title>
+</episode>
+<episode id="189787" update="2017-08-04">
+<epno type="1">14</epno>
+<length>1</length>
+<airdate>2017-08-04</airdate>
+<title xml:lang="ja">はやくちことばのおはなし</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Hayakuchikotoba no Ohanashi</title>
+</episode>
+<episode id="189921" update="2017-08-11">
+<epno type="1">15</epno>
+<length>1</length>
+<airdate>2017-08-11</airdate>
+<title xml:lang="ja">みもふたもないのはなし</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Mi mo Futa mo Nai no Hanashi</title>
+</episode>
+<episode id="190109" update="2017-08-18">
+<epno type="1">16</epno>
+<length>1</length>
+<airdate>2017-08-18</airdate>
+<title xml:lang="ja">ボーのおはなし</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Bou no Ohanashi</title>
+</episode>
+<episode id="190437" update="2017-08-25">
+<epno type="1">17</epno>
+<length>1</length>
+<airdate>2017-08-25</airdate>
+<title xml:lang="ja">さっむ~いのはなし</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Sammuui no Hanashi</title>
+</episode>
+<episode id="190699" update="2017-09-09">
+<epno type="1">18</epno>
+<length>1</length>
+<airdate>2017-09-08</airdate>
+<title xml:lang="ja">ないとのおはなし</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Knight no Ohanashi</title>
+</episode>
+<episode id="190744" update="2017-09-15">
+<epno type="1">19</epno>
+<length>1</length>
+<airdate>2017-09-15</airdate>
+<title xml:lang="ja">かめのおはなし</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Kame no Ohanashi</title>
+</episode>
+<episode id="191975" update="2017-10-20">
+<epno type="1">20</epno>
+<length>1</length>
+<airdate>2017-10-20</airdate>
+<title xml:lang="ja">アリクイのおはなし</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Arikui no Ohanashi</title>
+</episode>
+<episode id="192279" update="2017-10-27">
+<epno type="1">21</epno>
+<length>1</length>
+<airdate>2017-10-27</airdate>
+<title xml:lang="ja">なぞなぞのおはなし2</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Nazonazo no Ohanashi 2</title>
+</episode>
+<episode id="192444" update="2017-11-03">
+<epno type="1">22</epno>
+<length>1</length>
+<airdate>2017-11-03</airdate>
+<title xml:lang="ja">ピピピのおはなし</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Pipipi no Ohanashi</title>
+</episode>
+<episode id="192759" update="2017-11-10">
+<epno type="1">23</epno>
+<length>1</length>
+<airdate>2017-11-10</airdate>
+<title xml:lang="ja">空手のおはなし</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Karate no Ohanashi</title>
+</episode>
+<episode id="193063" update="2017-11-17">
+<epno type="1">24</epno>
+<length>1</length>
+<airdate>2017-11-17</airdate>
+<title xml:lang="ja">あむろうのおはなし</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Omurou no Ohanashi</title>
+</episode>
+<episode id="193424" update="2017-11-24">
+<epno type="1">25</epno>
+<length>1</length>
+<airdate>2017-11-24</airdate>
+<title xml:lang="ja">でんでんだいこのおはなし</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Dendendaiko no Ohanashi</title>
+</episode>
+<episode id="193541" update="2017-12-01">
+<epno type="1">26</epno>
+<length>1</length>
+<airdate>2017-12-01</airdate>
+<title xml:lang="ja">潜水艦のおはなし</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Sensuikan no Ohanashi</title>
+</episode>
+<episode id="193692" update="2017-12-08">
+<epno type="1">27</epno>
+<length>1</length>
+<airdate>2017-12-08</airdate>
+<title xml:lang="ja">おにぎりのおはなし</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Onigiri no Ohanashi</title>
+</episode>
+<episode id="193841" update="2017-12-15">
+<epno type="1">28</epno>
+<length>1</length>
+<airdate>2017-12-15</airdate>
+<title xml:lang="ja">ゾクゾクのおはなし</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Zokuzoku no Ohanashi</title>
+</episode>
+<episode id="194483" update="2017-12-29">
+<epno type="1">29</epno>
+<length>1</length>
+<airdate>2018-01-19</airdate>
+<title xml:lang="ja">魚の骨のおはなし</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Sakana no Hone no Ohanashi</title>
+</episode>
+<episode id="195474" update="2018-01-27">
+<epno type="1">30</epno>
+<length>1</length>
+<airdate>2018-01-26</airdate>
+<title xml:lang="ja">キヨヒコのおはなし</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Kiyohiko no Ohanashi</title>
+</episode>
+<episode id="195747" update="2018-02-03">
+<epno type="1">31</epno>
+<length>1</length>
+<airdate>2018-02-02</airdate>
+<title xml:lang="ja">なぞなぞのおはなし3</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Nazonazo no Ohanashi 3</title>
+</episode>
+<episode id="195876" update="2018-02-09">
+<epno type="1">32</epno>
+<length>1</length>
+<airdate>2018-02-09</airdate>
+<title xml:lang="ja">アディガンボさんのおはなし</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Adikanbo-san no Ohanashi</title>
+</episode>
+<episode id="196179" update="2018-02-16">
+<epno type="1">33</epno>
+<length>1</length>
+<airdate>2018-02-16</airdate>
+<title xml:lang="ja">くだもののおはなし</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Kudamono no Ohanashi</title>
+</episode>
+<episode id="196821" update="2018-03-02">
+<epno type="1">34</epno>
+<length>1</length>
+<airdate>2018-03-02</airdate>
+<title xml:lang="ja">特殊なぞなぞのおはなし</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Tokushu Nazonazo no Ohanashi</title>
+</episode>
+<episode id="196978" update="2018-03-09">
+<epno type="1">35</epno>
+<length>1</length>
+<airdate>2018-03-09</airdate>
+<title xml:lang="ja">シュトタカデグチのおはなし</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Shuto Taka Deguchi no Ohanashi</title>
+</episode>
+<episode id="197048" update="2018-03-16">
+<epno type="1">36</epno>
+<length>1</length>
+<airdate>2018-03-16</airdate>
+<title xml:lang="ja">山菜おこわのおはなし</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Sansai Okawa no Ohanashi</title>
+</episode>
+<episode id="197582" update="2018-03-30">
+<epno type="1">37</epno>
+<length>1</length>
+<airdate>2018-03-30</airdate>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="197966" update="2018-04-13">
+<epno type="1">38</epno>
+<length>1</length>
+<airdate>2018-04-13</airdate>
+<title xml:lang="ja">ランキングのおはなし</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Ranking no Ohanashi</title>
+</episode>
+<episode id="198265" update="2018-04-20">
+<epno type="1">39</epno>
+<length>1</length>
+<airdate>2018-04-20</airdate>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="198572" update="2018-04-27">
+<epno type="1">40</epno>
+<length>1</length>
+<airdate>2018-05-04</airdate>
+<title xml:lang="ja">ズッキーニのおはなし</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Zucchini no Ohanashi</title>
+</episode>
+<episode id="199441" update="2018-05-19">
+<epno type="1">42</epno>
+<length>1</length>
+<airdate>2018-05-18</airdate>
+<title xml:lang="ja">道のおはなし</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Michi no Ohanashi</title>
+</episode>
+<episode id="199594" update="2018-05-19">
+<epno type="1">41</epno>
+<length>1</length>
+<airdate>2018-05-11</airdate>
+<title xml:lang="ja">キリンのおはなし</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Kirin no Ohanashi</title>
+</episode>
+<episode id="200284" update="2018-05-25">
+<epno type="1">43</epno>
+<length>1</length>
+<airdate>2018-06-01</airdate>
+<title xml:lang="ja">重大発表のおはなし</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Juudai Happyou no Ohanashi</title>
+</episode>
+<episode id="200978" update="2018-06-08">
+<epno type="1">44</epno>
+<length>1</length>
+<airdate>2018-06-08</airdate>
+<title xml:lang="ja">のばしたいのおはなし</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Nobashitai no Ohanashi</title>
+</episode>
+<episode id="201595" update="2018-06-15">
+<epno type="1">45</epno>
+<length>1</length>
+<airdate>2018-06-15</airdate>
+<title xml:lang="ja">ニャンのおはなし</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Nyan no Ohanashi</title>
+</episode>
+<episode id="201968" update="2018-06-23">
+<epno type="1">46</epno>
+<length>1</length>
+<airdate>2018-06-22</airdate>
+<title xml:lang="ja">金庫のおはなし</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Kinko no Ohanashi</title>
+</episode>
+<episode id="202587" update="2018-07-07">
+<epno type="1">47</epno>
+<length>1</length>
+<airdate>2018-07-05</airdate>
+<title xml:lang="ja">クレープのおはなし</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Crepe no Ohanashi</title>
+</episode>
+<episode id="202758" update="2018-07-13">
+<epno type="1">48</epno>
+<length>1</length>
+<airdate>2018-07-12</airdate>
+<title xml:lang="ja">イルカのおはなし</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Iruka no Ohanashi</title>
+</episode>
+<episode id="203191" update="2018-07-21">
+<epno type="1">49</epno>
+<length>1</length>
+<airdate>2018-07-19</airdate>
+<title xml:lang="ja">湘南の風のおはなし</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Shounan no Kaze no Ohanashi</title>
+</episode>
+<episode id="203491" update="2018-07-28">
+<epno type="1">50</epno>
+<length>1</length>
+<airdate>2018-07-26</airdate>
+<title xml:lang="ja">なぞなぞのおはなし4</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Nazonazo no Ohanashi 4</title>
+</episode>
+<episode id="203711" update="2018-08-04">
+<epno type="1">52</epno>
+<length>1</length>
+<airdate>2018-08-09</airdate>
+<title xml:lang="ja">まめまきのおはなし2</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">mamemaki no Ohanashi 2</title>
+</episode>
+<episode id="203712" update="2018-08-04">
+<epno type="1">51</epno>
+<length>1</length>
+<airdate>2018-08-02</airdate>
+<title xml:lang="ja">えかきうたのおはなし</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Ekaki Uta no Ohanashi</title>
+</episode>
+<episode id="204339" update="2018-08-17">
+<epno type="1">53</epno>
+<length>1</length>
+<airdate>2018-08-16</airdate>
+<title xml:lang="ja">○○のおはなし</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">.. no Ohanashi</title>
+</episode>
+<episode id="206175" update="2018-09-05">
+<epno type="1">54</epno>
+<length>1</length>
+<airdate>2018-08-30</airdate>
+<title xml:lang="ja">くじゅうのおはなし</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Kujuu no Ohanashi</title>
+</episode>
+<episode id="206580" update="2018-09-13">
+<epno type="1">55</epno>
+<length>1</length>
+<airdate>2018-09-06</airdate>
+<title xml:lang="ja">ジョージのおはなし</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">George no Ohanashi</title>
+</episode>
+<episode id="208212" update="2018-09-19">
+<epno type="1">56</epno>
+<length>1</length>
+<airdate>2018-09-13</airdate>
+<title xml:lang="ja">なぞなぞのおはなし5</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Nazonazo no Ohanashi 5</title>
+</episode>
+<episode id="208634" update="2018-09-26">
+<epno type="1">57</epno>
+<length>1</length>
+<airdate>2018-09-20</airdate>
+<title xml:lang="ja">三択のおはなし</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Santaku no Ohanashi</title>
+</episode>
+<episode id="209101" update="2018-10-11">
+<epno type="1">58</epno>
+<length>1</length>
+<airdate>2018-10-11</airdate>
+<title xml:lang="ja">梨のおはなし</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Nashi no Ohanashi</title>
+</episode>
+<episode id="209382" update="2018-10-19">
+<epno type="1">59</epno>
+<length>1</length>
+<airdate>2018-10-18</airdate>
+<title xml:lang="ja">だじゃれのおはなし</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Dajare no Ohanashi</title>
+</episode>
+<episode id="209707" update="2018-10-27">
+<epno type="1">60</epno>
+<length>1</length>
+<airdate>2018-10-25</airdate>
+<title xml:lang="ja">車のおはなし</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Kuruma no Ohanashi</title>
+</episode>
+<episode id="209961" update="2018-11-06">
+<epno type="1">61</epno>
+<length>1</length>
+<airdate>2018-11-01</airdate>
+<title xml:lang="ja">ターボのおはなし</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Turbo no Ohanashi</title>
+</episode>
+<episode id="210059" update="2018-11-12">
+<epno type="1">62</epno>
+<length>1</length>
+<airdate>2018-11-08</airdate>
+<title xml:lang="ja">シャツのおはなし</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Shirt no Ohanashi</title>
+</episode>
+<episode id="210191" update="2018-11-16">
+<epno type="1">63</epno>
+<length>1</length>
+<airdate>2018-11-15</airdate>
+<title xml:lang="ja">スポーツのおはなし</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">Sports no Ohanashi</title>
+</episode>
+<episode id="210652" update="2018-11-27">
+<epno type="1">64</epno>
+<length>1</length>
+<airdate>2018-11-22</airdate>
+<title xml:lang="ja">船のおはなし</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Fune no Ohanashi</title>
+</episode>
+<episode id="210838" update="2018-12-04">
+<epno type="1">65</epno>
+<length>1</length>
+<airdate>2018-11-29</airdate>
+<title xml:lang="ja">宇宙のおはなし</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">Uchuu no Ohanashi</title>
+</episode>
+<episode id="210890" update="2018-12-10">
+<epno type="1">66</epno>
+<length>1</length>
+<airdate>2018-12-06</airdate>
+<title xml:lang="ja">おとものおはなし</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Otomo no Ohanashi</title>
+</episode>
+<episode id="211218" update="2018-12-20">
+<epno type="1">67</epno>
+<length>1</length>
+<airdate>2018-12-13</airdate>
+<title xml:lang="ja">借りたいのおはなし</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">Karitai no Ohanashi</title>
+</episode>
+</episodes>
+</anime>

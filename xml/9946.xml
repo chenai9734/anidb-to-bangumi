@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9946" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1988-04-01</startdate>
+<enddate>1988-04-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zukkoke Sanningumi: Zukkoke Jikuu Bouken</title>
+<title xml:lang="ja" type="official">ズッコケ三人組 ズッコケ時空冒険</title>
+</titles>
+<relatedanime>
+<anime id="9959" type="Other">Zukkoke Sanningumi: Kusunoki Yashiki no Guruguru-sama</anime>
+</relatedanime>
+<creators>
+<name id="1025" type="Animation Work">Tama Production</name>
+<name id="10812" type="Character Design">Maekawa Kazuo</name>
+<name id="10812" type="Original Work">Maekawa Kazuo</name>
+<name id="10813" type="Original Work">Nasu Masamoto</name>
+<name id="6737" type="Direction">Ueda Hidehito</name>
+<name id="6497" type="Music">Takeichi Masahisa</name>
+<name id="6393" type="Music">Yamamoto Masayuki</name>
+</creators>
+<description>3 reporters from a school newspaper get transported back to the Edo period.</description>
+<ratings>
+<permanent count="5">2.96</permanent>
+<temporary count="5">3.40</temporary>
+</ratings>
+<picture>241428.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18967</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3288</identifier>
+<identifier>yupcya</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ズッコケ三人組#.E3.80.8E.E3.82.BA.E3.83.83.E3.82.B3.E3.82.B1.E6.99.82.E7.A9.BA.E5.86.92.E9.99.BA.E3.80.8F</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88700</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2447</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="151310" update="2013-06-25">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1988-04-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14541" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-05-27</startdate>
+<enddate>2016-05-27</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Tangguo Shijie Da Maoxian</title>
+<title xml:lang="zh" type="synonym">绿林大冒险之糖果世界</title>
+<title xml:lang="en" type="synonym">Jungle Master: The Candy World</title>
+<title xml:lang="x-zht" type="synonym">Lulin Da Maoxian: Tangguo Shijie</title>
+<title xml:lang="zh-Hans" type="official">糖果世界大冒险</title>
+</titles>
+<relatedanime>
+<anime id="9894" type="Prequel">Shou Hu Zhe Sen Lin</anime>
+</relatedanime>
+<url>http://www.hippoanimation.com/index.php?s=/Product/detail/classid/48/id/35.jsp</url>
+<description>Rainie and her friends soar into a sugar rush of adventure to save their pals on Candy Planet.
+Source: IMDB</description>
+<ratings>
+<permanent count="2">3.19</permanent>
+<temporary count="2">3.50</temporary>
+</ratings>
+<picture>228269.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35956</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.hippoanimation.com/index.php?s=/Product/detail/classid/48/id/35.jsp</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="211524" update="2018-12-28">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>2016-05-27</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

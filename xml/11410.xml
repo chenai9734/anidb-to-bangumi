@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11410" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2015</startdate>
+<enddate>2015</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mottainai</title>
+<title xml:lang="ja" type="official">もったいない</title>
+</titles>
+<url>http://www.cwfilms.jp/news/20150701/</url>
+<description>Joint campaign by NHK and Advertising Council Japan.
+#
+A commercial aimed at Japanese youths in order to generate an appreciation of their present lives, such that it would be a waste to give up on their futures.</description>
+<ratings>
+<permanent count="91">4.59</permanent>
+<temporary count="91">5.68</temporary>
+</ratings>
+<picture>175587.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31144</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.cwfilms.jp/news/20150701/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="178031" update="2016-06-11">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2015-07-01</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

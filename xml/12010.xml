@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12010" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-11-14</startdate>
+<enddate>2014-11-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kushimitama Samurai</title>
+<title xml:lang="ja" type="official">奇魂侍</title>
+</titles>
+<url>http://www.cucuri.co.jp/kushimitama.html</url>
+<creators>
+<name id="1016" type="Animation Work">Asahi Production</name>
+<name id="23576" type="Original Work">Sena Yoshinobu</name>
+<name id="23576" type="Direction">Sena Yoshinobu</name>
+<name id="5189" type="Music">Aoi Yoshiki</name>
+</creators>
+<ratings>
+<permanent count="6">4.14</permanent>
+<temporary count="6">4.50</temporary>
+</ratings>
+<picture>184342.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33348</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.cucuri.co.jp/kushimitama.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356052</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="81062" type="secondary cast in" update="2016-03-21">
+<name>Yami</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="81063" type="secondary cast in" update="2016-03-21">
+<name>Kiji</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="380" picture="158572.jpg">Yamadera Kouichi</seiyuu>
+</character>
+<character id="81064" type="secondary cast in" update="2016-03-21">
+<name>Ouka</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="194" picture="130580.jpg">Ishida Akira</seiyuu>
+</character>
+<character id="81065" type="main character in" update="2016-03-21">
+<name>Haku</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="23576" picture="153411.jpg">Sena Yoshinobu</seiyuu>
+</character>
+<character id="81066" type="secondary cast in" update="2016-03-21">
+<name>Hiiro</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4" picture="177060.jpg">Hirano Aya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="176148" update="2016-03-21">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2014-11-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

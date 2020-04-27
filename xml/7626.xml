@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7626" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2010-09-23</startdate>
+<enddate>2010-09-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Remi la Boheme</title>
+<title xml:lang="fr" type="synonym">Rémi la Bohème</title>
+<title xml:lang="fr" type="synonym">Rémi le Marlou</title>
+<title xml:lang="ja" type="official">レミー・ラ・ボエーム</title>
+</titles>
+<url>http://www.ankama.jp/jp/project/レミー・ラ・ボエーム</url>
+<creators>
+<name id="19375" type="Original Work">Christophe Kourita</name>
+<name id="19375" type="Direction">Christophe Kourita</name>
+</creators>
+<description>* Based on an original idea of French-Japanese mangaka http://anidb.net/cr19375 [Christophe Kourita].
+Paris, Montmartre. A shadow moves quickly between the roofs. It`s Remi. The "honest people" call him a hooligan, but girls and kids perceive him as a hero, who knows how to keep the child`s open mindset. "I`m the kid of the street and I hate traced paths! I will follow my own path, a path of a Bohemian!"
+Note: Meant as the pilot episode for Remi la Boheme, streamed on the web since 23.09.2010. There was no follow-up series.</description>
+<ratings>
+<permanent count="2">3.83</permanent>
+<temporary count="2">5.50</temporary>
+</ratings>
+<picture>50343.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://www.ankama.jp/jp/project/レミー・ラ・ボエーム</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2763" parentid="2807" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Paris</name>
+<description>Paris is the capital and most populous city in France. The city is a commune and department, and the heart of the Île-de-France region (colloquially known as the `Paris Region`). Since the 17th century, Paris has been one of Europe`s major centres of finance, commerce, fashion, science, and the arts.
+Source: Wikipedia</description>
+<picurl>214344.jpg</picurl>
+</tag>
+<tag id="2807" parentid="2831" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>France</name>
+<description>France, officially the French Republic, is a country whose territory consists of metropolitan France in western Europe, as well as several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans.
+Source: Wikipedia</description>
+<picurl>214343.jpg</picurl>
+</tag>
+<tag id="2831" parentid="2630" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Europe</name>
+<description>Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia.
+Source: Wikipedia</description>
+<picurl>192044.jpg</picurl>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="125188" update="2012-04-15">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2010-09-23</airdate>
+<title xml:lang="en">Pilot</title>
+</episode>
+<episode id="126483" update="2010-12-29">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

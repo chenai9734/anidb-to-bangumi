@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14699" restricted="false">
+<type>Movie</type>
+<episodecount>2</episodecount>
+<startdate>2019-05-10</startdate>
+<enddate>2019-05-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dayan to Tama to Tobi Neko to: Mittsu no Neko no Monogatari</title>
+<title xml:lang="en" type="synonym">Cats Tail`s Tales</title>
+<title xml:lang="ja" type="official">ダヤンとタマと飛び猫と ~3つの猫の物語~</title>
+</titles>
+<creators>
+<name id="57495" type="Original Work">Sony Creative Products</name>
+<name id="33855" type="Animation Work">Kachidoki Studio</name>
+<name id="45845" type="Direction">Kanzaki Jun</name>
+</creators>
+<description>Note 1: An omnibus film consisting of three segments for http://anidb.net/perl-bin/animedb.pl?show=rel&amp;aid=12415 [Tama], http://anidb.net/perl-bin/animedb.pl?show=animelist&amp;adb.search=Dayan [Dayan] and [i]Tobi Neko franchises.[/i]
+Note 2: Tobi Neko`s segment is titled [i]Tabi Suru Tobi Neko (旅する飛び猫) and it is a live-action work. The franchise began when photographer Igarashi Kenta (五十嵐健太) released a photo collection of jumping cats in 2015.[/i]</description>
+<ratings>
+<permanent count="1">2.05</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>230486.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39351</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367369</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="212918" update="2019-02-22">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2019-05-10</airdate>
+<title xml:lang="ja">タマとふしぎな石像</title>
+<title xml:lang="en">Tama and the Mysterious Stone Statue</title>
+<title xml:lang="x-jat">Tama to Fushigi na Sekizou</title>
+</episode>
+<episode id="212919" update="2019-02-22">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>2019-05-10</airdate>
+<title xml:lang="ja">ダヤンとジタン</title>
+<title xml:lang="en">Dayan and Jitan</title>
+<title xml:lang="x-jat">Dayan to Jitan</title>
+</episode>
+</episodes>
+</anime>

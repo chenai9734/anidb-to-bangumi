@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11504" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-04-12</startdate>
+<enddate>2015-04-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Balloon</title>
+<title xml:lang="ja" type="official">Balloon</title>
+</titles>
+<ratings>
+<permanent count="42">3.42</permanent>
+<temporary count="43">4.48</temporary>
+</ratings>
+<picture>176316.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31309</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://yutarokubo.com/?p=492</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170869" update="2015-08-17">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

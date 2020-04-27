@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11026" restricted="false">
+<type>TV Series</type>
+<episodecount>51</episodecount>
+<startdate>2015-04-01</startdate>
+<enddate>2016-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Battle Spirits: Burning Soul</title>
+<title xml:lang="ja" type="official">バトルスピリッツ烈火魂[バーニングソウル]</title>
+<title xml:lang="zh-Hans" type="official">战斗之魂 烈火灵魂</title>
+</titles>
+<relatedanime>
+<anime id="11916" type="Sequel">Battle Spirits: Double Drive</anime>
+<anime id="10005" type="Prequel">Saikyou Ginga Ultimate Zero: Battle Spirits</anime>
+</relatedanime>
+<url>http://www.sunrise-inc.co.jp/battlespirits7/</url>
+<creators>
+<name id="9566" type="Animation Character Design">Yumoto Yoshinori</name>
+<name id="4152" type="Series Composition">Hasegawa Katsumi</name>
+<name id="726" type="Work">Sunrise</name>
+<name id="4401" type="Direction">Sugishima Kunihisa</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+</creators>
+<description>In the near future, a battle card game called Battle Spirits has gained enormous popularity. Players of the game, known as Battlers, start duels everywhere using their colour-coded cards with different attributes, creating a Sengoku (Warring States) period for the game.
+Source: ANN</description>
+<ratings>
+<permanent count="16">3.40</permanent>
+<temporary count="16">5.18</temporary>
+</ratings>
+<picture>169640.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16714</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>27737</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/battlespirits7/</url>
+</externalentity>
+<externalentity>
+<url>http://www.sunrise-inc.co.jp/battlespirits7/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>バトルスピリッツ_烈火魂</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3704</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>351791</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17955</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="73605" type="secondary cast in" update="2015-03-08">
+<name>Dairokuten Maou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169808.jpg</picture>
+<seiyuu id="200" picture="17015.jpg">Suwabe Jun`ichi</seiyuu>
+</character>
+<character id="73606" type="secondary cast in" update="2015-03-08">
+<name>Houryokuin Kanetsugu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169802.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="73607" type="main character in" update="2015-03-08">
+<rating votes="1">9.35</rating>
+<name>Akatsuki Sasuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169800.jpg</picture>
+<seiyuu id="2980" picture="147242.jpg">Kanada Aki</seiyuu>
+</character>
+<character id="73608" type="secondary cast in" update="2015-03-08">
+<name>Homura Toshiie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169801.jpg</picture>
+<seiyuu id="36774" picture="135405.jpg">Arai Ryouhei</seiyuu>
+</character>
+<character id="73609" type="main character in" update="2015-03-08">
+<name>Rekka Yukimura</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169798.jpg</picture>
+<seiyuu id="37882" picture="173035.jpg">Yamashita Seiichirou</seiyuu>
+</character>
+<character id="73610" type="main character in" update="2015-03-08">
+<rating votes="2">6.08</rating>
+<name>Kuroda Kanna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169799.jpg</picture>
+<seiyuu id="38295" picture="222841.jpg">Yamashita Nanami</seiyuu>
+</character>
+<character id="73703" type="secondary cast in" update="2015-03-08">
+<rating votes="2">5.23</rating>
+<name>Gunjou Souun</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169803.jpg</picture>
+<seiyuu id="453" picture="45925.jpg">Shindou Kei</seiyuu>
+</character>
+<character id="73704" type="secondary cast in" update="2015-03-08">
+<name>Hyakki Hanzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169805.jpg</picture>
+<seiyuu id="400" picture="171989.jpg">Majima Junji</seiyuu>
+</character>
+<character id="73705" type="secondary cast in" update="2015-03-08">
+<name>Mashiro Toukichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169807.jpg</picture>
+<seiyuu id="81" picture="41282.jpg">Sanpei Yuuko</seiyuu>
+</character>
+<character id="73706" type="secondary cast in" update="2015-03-08">
+<name>Shikigami Ranmaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169809.jpg</picture>
+<seiyuu id="3712" picture="240126.jpg">Tamura Mutsumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="167302" update="2015-03-25">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-04-01</airdate>
+<title xml:lang="ja">幸村 参上!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Yukimura Sanjou!</title>
+</episode>
+<episode id="167338" update="2015-03-26">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2015-04-22</airdate>
+<title xml:lang="ja">魂の戦国龍!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Tamashii no Sengoku Ryuu!</title>
+</episode>
+<episode id="167339" update="2015-03-26">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2015-04-15</airdate>
+<title xml:lang="ja">早雲の挑戦!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Souun no Chousen!</title>
+</episode>
+<episode id="167340" update="2015-03-26">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2015-04-08</airdate>
+<title xml:lang="ja">炎の宿敵, 利家!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Honoo no Shukuteki, Toshiie!</title>
+</episode>
+<episode id="167909" update="2015-04-15">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2015-04-01</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="167910" update="2015-04-15">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2015-04-08</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="167911" update="2015-04-15">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2015-05-20</airdate>
+<title xml:lang="ja">怪! 忍びの半蔵!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Kai! Shinobi no Hanzou!</title>
+</episode>
+<episode id="167912" update="2015-04-15">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2015-05-13</airdate>
+<title xml:lang="ja">難攻不落! 白の城壁!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Nankoufuraku! Shiro no Jouheki!</title>
+</episode>
+<episode id="167913" update="2015-04-15">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2015-05-06</airdate>
+<title xml:lang="ja">真白軍, 襲撃!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Masshirogun, Shuugeki!</title>
+</episode>
+<episode id="167914" update="2015-04-15">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2015-04-29</airdate>
+<title xml:lang="ja">愛の男, 宝緑院兼続!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Ai no Otoko, Takara Midoriin Kenzoku!</title>
+</episode>
+<episode id="168560" update="2015-05-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2015-05-27</airdate>
+<title xml:lang="ja">闇からの使者, 蘭丸!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Yami kara no Shisha, Ranmaru!</title>
+</episode>
+<episode id="168684" update="2015-05-27">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2015-06-03</airdate>
+<title xml:lang="ja">ムサシ開戦!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Musashi Kaisen!</title>
+</episode>
+<episode id="168879" update="2015-06-04">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2015-06-10</airdate>
+<title xml:lang="ja">龍虎再び!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Ryuutora Futatabi!</title>
+</episode>
+<episode id="168957" update="2015-06-10">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2015-06-17</airdate>
+<title xml:lang="ja">烈風忍者, 見参!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Reppuu Ninja, Kenzan!</title>
+</episode>
+<episode id="169043" update="2015-06-17">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2015-07-01</airdate>
+<title xml:lang="ja">ムサシ頂上決戦!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Musashi Choujou Kessen!</title>
+</episode>
+<episode id="169459" update="2015-07-01">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2015-07-08</airdate>
+<title xml:lang="ja">愛の名の下に!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Ai no Na no Shita ni!</title>
+</episode>
+<episode id="169648" update="2015-07-08">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2015-07-15</airdate>
+<title xml:lang="ja">IBSAの使者!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">IBSA no Shisha!</title>
+</episode>
+<episode id="169810" update="2015-07-15">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2015-07-22</airdate>
+<title xml:lang="ja">爆熱! 炎龍刀!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Bakunetsu! Enryuugatana!</title>
+</episode>
+<episode id="170190" update="2015-07-22">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2015-07-29</airdate>
+<title xml:lang="ja">不死身, 紫の罠!</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Fujimi, Murasaki no Wana!</title>
+</episode>
+<episode id="170364" update="2015-07-29">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2015-08-05</airdate>
+<title xml:lang="ja">環奈と幸村</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Kanna to Yukimura</title>
+</episode>
+<episode id="170451" update="2015-08-05">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2015-08-12</airdate>
+<title xml:lang="ja">三戦士, 集結!</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Sansenshi, Shuuketsu!</title>
+</episode>
+<episode id="170762" update="2015-08-12">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2015-08-19</airdate>
+<title xml:lang="ja">反撃の狼煙!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Hangeki no Noroshi!</title>
+</episode>
+<episode id="170896" update="2015-08-19">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2015-08-26</airdate>
+<title xml:lang="ja">爆裂! 怒りの炎!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Bakuretsu! Ikari no Honoo!</title>
+</episode>
+<episode id="171006" update="2015-08-26">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2015-09-02</airdate>
+<title xml:lang="ja">魔王, 降臨!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Maou, Kourin!</title>
+</episode>
+<episode id="171139" update="2015-09-02">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2015-09-09</airdate>
+<title xml:lang="ja">戦慄! ゴッド・ゼクス!</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Senritsu! God ZX!</title>
+</episode>
+<episode id="171301" update="2015-09-09">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2015-09-16</airdate>
+<title xml:lang="ja">月下の決闘!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Gekka no Kettou!</title>
+</episode>
+<episode id="171637" update="2015-09-16">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2015-09-23</airdate>
+<title xml:lang="ja">勝ち抜け, 昇級バトル!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Kachinuke, Shoukyuu Battle!</title>
+</episode>
+<episode id="171782" update="2015-09-23">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2015-09-30</airdate>
+<title xml:lang="ja">白き翼, 白銀謙信!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Shiroki Tsubasa, Shirogane Kenshin!</title>
+</episode>
+<episode id="172210" update="2015-09-30">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2015-10-07</airdate>
+<title xml:lang="ja">剣豪龍!その名は天[アマツ]!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Kengouryuu! Sono Na wa Amatsu!</title>
+</episode>
+<episode id="172425" update="2015-10-08">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2015-10-14</airdate>
+<title xml:lang="ja">白熱!決勝大会への道!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Hakunetsu! Kesshou Taikai e no Michi!</title>
+</episode>
+<episode id="172561" update="2015-10-14">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2015-10-21</airdate>
+<title xml:lang="ja">戦の鬼, 紫堂信玄!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Ikusa no Oni, Shidou Shingen!</title>
+</episode>
+<episode id="172786" update="2015-10-21">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2015-10-28</airdate>
+<title xml:lang="ja">黄緑忍法帳!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Kimidori Ninpou Chou!</title>
+</episode>
+<episode id="172944" update="2015-10-28">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2015-11-04</airdate>
+<title xml:lang="ja">決勝大会開幕!</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Kesshou Taikai Kaimaku!</title>
+</episode>
+<episode id="173000" update="2015-11-04">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2015-11-11</airdate>
+<title xml:lang="ja">フィールドの支配者</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Field no Shihaisha</title>
+</episode>
+<episode id="173204" update="2015-11-11">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2015-11-18</airdate>
+<title xml:lang="ja">初陣! IBSAチーム!</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Uijin! IBSA Team!</title>
+</episode>
+<episode id="173390" update="2015-11-18">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2015-11-25</airdate>
+<title xml:lang="ja">それぞれの想い</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Sorezore no Omoi</title>
+</episode>
+<episode id="173462" update="2015-11-25">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2015-12-02</airdate>
+<title xml:lang="ja">白の影武者!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Shiro no Kagemusha!</title>
+</episode>
+<episode id="173598" update="2015-12-02">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2015-12-09</airdate>
+<title xml:lang="ja">出陣! 大六天魔王!</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Shutsujin! Dairokuten Maou!</title>
+</episode>
+<episode id="173709" update="2015-12-09">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2015-12-16</airdate>
+<title xml:lang="ja">ベスト8決定!</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Best 8 Kettei!</title>
+</episode>
+<episode id="173898" update="2015-12-16">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2015-12-23</airdate>
+<title xml:lang="ja">運命の再会</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Unmei no Saikai</title>
+</episode>
+<episode id="173997" update="2015-12-23">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2016-01-06</airdate>
+<title xml:lang="ja">正面突破で友情バトル!</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Shoumen Toppa de Yuujou Battle!</title>
+</episode>
+<episode id="174308" update="2016-01-06">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2016-01-13</airdate>
+<title xml:lang="ja">謎のバトスピ仙人</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Nazo no BatSpi Sennin</title>
+</episode>
+<episode id="174472" update="2016-01-13">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2016-01-20</airdate>
+<title xml:lang="ja">ソウルバースト対ソウルドライブ</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Soul Burst Tai Soul Drive</title>
+</episode>
+<episode id="174599" update="2016-01-20">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2016-01-27</airdate>
+<title xml:lang="ja">唯一無二の存在</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Yuiitsumuni no Sonzai</title>
+</episode>
+<episode id="174803" update="2016-01-27">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2016-02-03</airdate>
+<title xml:lang="ja">決着! 利家対兼続</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Kecchaku! Toshiie Tai Kanetsugu</title>
+</episode>
+<episode id="174887" update="2016-02-03">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2016-02-10</airdate>
+<title xml:lang="ja">天と海の狭間で</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Ten to Umi no Hazama de</title>
+</episode>
+<episode id="174972" update="2016-02-10">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2016-02-17</airdate>
+<title xml:lang="ja">受け継がれる想い</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Uketsugareru Omoi</title>
+</episode>
+<episode id="175309" update="2016-02-17">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2016-02-24</airdate>
+<title xml:lang="ja">蘇れ! 龍の魂!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Yomigaere! Ryuu no Tamashii!</title>
+</episode>
+<episode id="175688" update="2016-02-24">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2016-03-02</airdate>
+<title xml:lang="ja">激闘! 天魔王対六武将</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Gekitou! Ten Maou Tai Roku Bushou</title>
+</episode>
+<episode id="175909" update="2016-03-02">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2016-03-09</airdate>
+<title xml:lang="ja">猛虎, 炎の一撃!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Mouko, En no Ichigeki!</title>
+</episode>
+<episode id="175979" update="2016-03-09">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2016-03-16</airdate>
+<title xml:lang="ja">俺たちの絆</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Oretachi no Kizuna</title>
+</episode>
+<episode id="176067" update="2016-03-16">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2016-03-23</airdate>
+<title xml:lang="ja">運命の最終決戦!</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Unmei no Saishuu Kessen!</title>
+</episode>
+<episode id="176161" update="2016-03-23">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2016-03-30</airdate>
+<title xml:lang="ja">燃えろ, 烈火魂!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Moero, Rekkadamashi!</title>
+</episode>
+</episodes>
+</anime>

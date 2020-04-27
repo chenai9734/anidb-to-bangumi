@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4270" restricted="false">
+<type>OVA</type>
+<episodecount>3</episodecount>
+<startdate>1991-04-12</startdate>
+<enddate>1992-02-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Okama Hakusho</title>
+<title xml:lang="ja" type="official">おカマ白書</title>
+</titles>
+<creators>
+<name id="8480" type="Direction">Kogure Teruo</name>
+<name id="10647" type="Original Work">Yamamoto Hideo</name>
+<name id="28397" type="Music">Takemura Jirou</name>
+</creators>
+<ratings>
+<permanent count="7">2.47</permanent>
+<temporary count="7">3.28</temporary>
+</ratings>
+<picture>47158.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7312</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10353</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3298</identifier>
+<identifier>eqwqql</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88491</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2720</identifier>
+</externalentity>
+<externalentity>
+<identifier>2719</identifier>
+</externalentity>
+<externalentity>
+<identifier>2873</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2565" parentid="2608" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-14">
+<name>cross-dressing</name>
+<description>This character sometimes wears clothes traditionally worn by and associated with the opposite sex.
+Cross-dressers often hide their cross-dressing identity for a long period of time and thus tend to become adept in accurately portraying the opposite sex in terms of voice, movement, behaviour, temperament, etc.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-12-04">
+<name>fetishes</name>
+<description>Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. </description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2783" parentid="2858" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-04">
+<name>shounen ai</name>
+<description>Shounen Ai means boys love, and thus explores what happens when two boys (or men) fall in love. This is not to be mistaken for http://anidb.net/t2723 [Yaoi] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphical sex.
+The female version is http://anidb.net/t2782 [Shoujo Ai].</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="45930" update="2006-01-12">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>1991-04-12</airdate>
+<title xml:lang="en">OVA-1</title>
+</episode>
+<episode id="45931" update="2006-01-12">
+<epno type="1">3</epno>
+<length>45</length>
+<airdate>1992-02-06</airdate>
+<title xml:lang="en">OVA-3</title>
+</episode>
+<episode id="45932" update="2006-01-12">
+<epno type="1">2</epno>
+<length>45</length>
+<airdate>1991-11-08</airdate>
+<title xml:lang="en">OVA-2</title>
+</episode>
+</episodes>
+</anime>

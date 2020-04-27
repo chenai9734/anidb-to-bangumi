@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13765" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-08-06</startdate>
+<enddate>2015-08-06</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Gui Bao: Baoxiao Chuang Yuzhou</title>
+<title xml:lang="x-unk" type="synonym">Kwai Boo</title>
+<title xml:lang="x-zht" type="synonym">Gui Bao Zhi Baoxiao Chuang Yuzhou</title>
+<title xml:lang="zh" type="official">桂宝之爆笑闯宇宙</title>
+</titles>
+<description>Kwai Boo is a 2015 Chinese animated science fiction comedy film directed by Yunfei Wang.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="1">2.84</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>10500.jpeg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33706</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Kwai_Boo</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="198404" update="2018-04-21">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>2015-08-06</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

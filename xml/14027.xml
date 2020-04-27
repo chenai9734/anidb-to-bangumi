@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14027" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2017-12-31</startdate>
+<enddate>2017-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next (2017)</title>
+<title xml:lang="ja" type="official">忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT (2017)</title>
+</titles>
+<relatedanime>
+<anime id="14742" type="Sequel">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next (2019)</anime>
+<anime id="13221" type="Prequel">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next (2016)</anime>
+</relatedanime>
+<url>http://www9.nhk.or.jp/anime/nintama/nintama-cosmic/</url>
+<description>Note: A collaboration special between http://anidb.net/a3626 [Nintama Rantarou] and the documentary show Cosmic Front Next.</description>
+<picture>238082.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32773</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www9.nhk.or.jp/anime/nintama/nintama-cosmic/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4808</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="197927" update="2018-04-12">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-12-31</airdate>
+<title xml:lang="ja">138億年前へひとっ飛び!? の段</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hyakusanjuuhachiokunen Mae e Hitottobi!? no Dan</title>
+</episode>
+<episode id="197928" update="2018-04-12">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-12-31</airdate>
+<title xml:lang="ja">火星を大そうさく! の段</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kasei o Daisousaku! no Dan</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14350" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1963</startdate>
+<enddate>1963</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kiseki</title>
+<title xml:lang="ja" type="official">軌跡</title>
+</titles>
+<creators>
+<name id="11207" type="Work">Kuri Youji</name>
+</creators>
+<description>A short experimental animation by http://anidb.net/cr11207 [Kuri Youji].</description>
+<ratings>
+<permanent count="11">1.74</permanent>
+<temporary count="11">3.09</temporary>
+</ratings>
+<picture>223033.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29633</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14132</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205898" update="2018-09-01">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

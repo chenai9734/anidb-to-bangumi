@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8122" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>1986</startdate>
+<enddate>1987</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Hulu Xiongdi</title>
+<title xml:lang="en" type="synonym">Calabash Brothers</title>
+<title xml:lang="x-jat" type="synonym">Hyoutan Douji</title>
+<title xml:lang="ja" type="official">ひょうたん童子</title>
+<title xml:lang="zh-Hans" type="official">葫芦兄弟</title>
+</titles>
+<relatedanime>
+<anime id="8123" type="Sequel">Hulu Xiao Jin Gang</anime>
+<anime id="15236" type="Summary">Hulu Xiongdi (2008)</anime>
+</relatedanime>
+<creators>
+<name id="28196" type="Character Design">Hu JinKang</name>
+<name id="28196" type="Direction">Hu JinKang</name>
+</creators>
+<description>* A Chinese animation TV series produced by Shanghai Animation Film Studio.
+Legend has it that two demons were jailed in the Calabash Mountains, one a Scorpion spirit and the other a Snake spirit. One day, a pangolin happens to drill a hole on the slope and the two spirits escape from the cave, causing grave harm to the nearby residents. The pangolin hurries to an old man and says that only by growing calabashes in seven colours can they annihilate the spirits. So the old man spares no time in growing seven calabashes, each a different colour of the rainbow: red, orange, yellow, green, cyan, blue, and purple.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="8">6.32</permanent>
+<temporary count="8">5.75</temporary>
+</ratings>
+<picture>240246.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9950</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Calabash_Brothers</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ひょうたん童子</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>葫芦兄弟</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="125731" update="2017-07-12">
+<epno type="1">13</epno>
+<length>10</length>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="zh-Hans">七子连心</title>
+</episode>
+<episode id="125732" update="2017-07-12">
+<epno type="1">12</epno>
+<length>10</length>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="zh-Hans">妖迷心窍</title>
+</episode>
+<episode id="125733" update="2017-07-12">
+<epno type="1">11</epno>
+<length>10</length>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="zh-Hans">巧夺如意</title>
+</episode>
+<episode id="125734" update="2017-07-12">
+<epno type="1">10</epno>
+<length>10</length>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="zh-Hans">捕风捉影</title>
+</episode>
+<episode id="125735" update="2017-07-12">
+<epno type="1">9</epno>
+<length>10</length>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="zh-Hans">幽谷彩莲</title>
+</episode>
+<episode id="125736" update="2017-07-12">
+<epno type="1">8</epno>
+<length>10</length>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="zh-Hans">酒酣心冰</title>
+</episode>
+<episode id="125737" update="2017-07-12">
+<epno type="1">7</epno>
+<length>10</length>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="zh-Hans">水火奇功</title>
+</episode>
+<episode id="125738" update="2017-07-12">
+<epno type="1">6</epno>
+<length>10</length>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="zh-Hans">钢筋铁骨</title>
+</episode>
+<episode id="125739" update="2017-07-12">
+<epno type="1">5</epno>
+<length>10</length>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="zh-Hans">绝路逢生</title>
+</episode>
+<episode id="125740" update="2017-07-12">
+<epno type="1">4</epno>
+<length>10</length>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="zh-Hans">梦窟迷境</title>
+</episode>
+<episode id="125741" update="2017-07-12">
+<epno type="1">3</epno>
+<length>10</length>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="zh-Hans">误入泥潭</title>
+</episode>
+<episode id="125742" update="2017-07-12">
+<epno type="1">2</epno>
+<length>10</length>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="zh-Hans">七色葫芦</title>
+</episode>
+<episode id="125743" update="2017-07-12">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="zh-Hans">神峰奇遇</title>
+</episode>
+</episodes>
+</anime>

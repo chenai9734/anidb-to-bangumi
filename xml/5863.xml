@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5863" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Urashima Tarou</title>
+<title xml:lang="ja" type="official">浦島太郎</title>
+</titles>
+<description>Urashima Taro is based on a well-known Japanese folk tale about an honest fisherman who is invited to an underwater castle after saving a sea turtle on a beach from bullies.
+Source: http://forum.bcdb.com/forum/Ancient_anime_restored_using_digitizing_techniques_P87135</description>
+<ratings>
+<permanent count="111">2.63</permanent>
+<temporary count="111">4.13</temporary>
+</ratings>
+<picture>9004.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9962</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7485</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>156303</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>16322</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="3097" parentid="2613" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2013-10-29">
+<name>underwater</name>
+<description>Underwater is a term describing the realm below the surface of water where the water exists in a natural feature such as an ocean, sea, lake, pond, or river.</description>
+</tag>
+<tag id="3597" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-02-26">
+<name>mythology</name>
+<description>The anime gets inspirations from many forms of mythologies (either Greek, Egyptian, Nord, etc.) to form its story and setting.</description>
+</tag>
+<tag id="3876" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>folklore</name>
+<description>Folklore, or simply Lore, are the traditions of a culture, subculture, or group, in the form of legends, music, proverbs, jokes, popular beliefs, fairy tales, stories, tall tales and customs. In usage, there is a continuum between folklore and mythology.
+Folklore is generally divided into four areas of study: physical artifacts, transmissible entities and stories, culture and technologies, and behaviors and rituals.
+[From Wikipedia]</description>
+</tag>
+<tag id="4537" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-15">
+<name>time skip</name>
+<description>The plot features at least one skip or jump in time.
+Example: A skip from the present into the past, or time skips in increments, e.g. every hour there is a time skip by a day.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="7412" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-24">
+<name>cutout animation</name>
+<description>Cutout animation is a form of stop-motion animation using flat characters, props and backgrounds cut from materials such as paper, card, stiff fabric or even photographs.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="102740" update="2019-08-28">
+<epno type="1">1</epno>
+<length>2</length>
+<rating votes="2">2.93</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

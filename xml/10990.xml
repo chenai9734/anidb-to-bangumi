@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10990" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2007-07-25</startdate>
+<enddate>2007-07-25</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Bogeul Bogeul Bomulseon</title>
+<title xml:lang="en" type="synonym">Submarine Bubble Bubble</title>
+<title xml:lang="ko" type="official">보글보글 보물선</title>
+</titles>
+<description>A bunch of dreamers and treasure hunters go hunting for a legendary dragon treasure. Of course there are capers on the coast...</description>
+<ratings>
+<permanent count="2">5.13</permanent>
+<temporary count="2">4.50</temporary>
+</ratings>
+<picture>166212.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29886</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="168358" update="2015-05-11">
+<epno type="1">1</epno>
+<length>55</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

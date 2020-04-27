@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14641" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2017-06-23</startdate>
+<enddate>2017-09-01</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Xiagu Zhong An Zu</title>
+<title xml:lang="zh-Hans" type="official">峡谷重案组</title>
+</titles>
+<relatedanime>
+<anime id="14670" type="Sequel">Xiagu Zhong An Zu 2nd Season</anime>
+</relatedanime>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>229836.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39192</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+</anime>

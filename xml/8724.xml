@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8724" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2006-10</startdate>
+<enddate>2006-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Majime ni Fumajime Kaiketsu Zorori Uchuu Tanken Taisakusen</title>
+<title xml:lang="ja" type="official">まじめにふまじめ かいけつゾロリ 宇宙たんけん大さくせん</title>
+</titles>
+<relatedanime>
+<anime id="3584" type="Other">Majime ni Fumajime Kaiketsu Zorori</anime>
+</relatedanime>
+<creators>
+<name id="7815" type="Original Work">Hara Yutaka</name>
+</creators>
+<description>IMAX-Movie</description>
+<picture>69608.jpg</picture>
+<resources>
+<resource type="9">
+<externalentity>
+<identifier>326069</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7968</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="56374" type="main character in" update="2013-05-30">
+<rating votes="1">8.21</rating>
+<name>Zorori</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137353.jpg</picture>
+<seiyuu id="380" picture="158572.jpg">Yamadera Kouichi</seiyuu>
+</character>
+<character id="56414" type="main character in" update="2013-05-30">
+<name>Noshishi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137411.jpg</picture>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+<character id="56415" type="main character in" update="2013-05-30">
+<name>Ishishi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137412.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="134043" update="2011-10-17">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

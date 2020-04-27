@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8574" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1969</startdate>
+<enddate>1969</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">G Senjou no Higeki</title>
+<title xml:lang="en" type="synonym">Tragedy on the G Line</title>
+<title xml:lang="ja" type="official">G線上の悲劇</title>
+</titles>
+<description>Short experimental animation from http://anidb.net/cr11207 [Kuri Youji].</description>
+<ratings>
+<permanent count="108">1.59</permanent>
+<temporary count="111">3.10</temporary>
+</ratings>
+<picture>44806.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7022</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="4218" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-04">
+<name>cast-free</name>
+<description>A cast-free show is one with no characters or spoken dialogue from any source. This does not include narration; a show that fits the previous requirements but has a narrator is still considered cast-free. Additionally, a show with only "characters" that are equivalent to background scenery should be considered cast-free; please ask before adding or removing the tag from shows that may fit this characteristic.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="132471" update="2011-08-14">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

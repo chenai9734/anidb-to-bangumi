@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6945" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1939-08-04</startdate>
+<enddate>1939-08-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manguwa Shin Saru Kani Gassen</title>
+<title xml:lang="ja" type="synonym">新猿蟹合戦</title>
+<title xml:lang="en" type="synonym">Shin Saru Kani Kassen</title>
+<title xml:lang="ja" type="official">マングワ 新猿蟹合戰</title>
+<title xml:lang="en" type="official">Monkey and Crabs</title>
+</titles>
+<relatedanime>
+<anime id="11507" type="Alternative Setting">Saru Kani Gassen</anime>
+<anime id="11508" type="Alternative Setting">Nihon Mukashibanashi: Sarukani</anime>
+<anime id="11509" type="Alternative Setting">Saru Kani Gassen (1996)</anime>
+</relatedanime>
+<description>Crabs band together to get right of an ape in their peach tree after it keeps stealing their food and hitting them with the fruits to the point where one gets severely injured.</description>
+<ratings>
+<permanent count="33">3.06</permanent>
+<temporary count="33">4.06</temporary>
+</ratings>
+<picture>176325.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22401</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>133645</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106681" update="2015-02-15">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

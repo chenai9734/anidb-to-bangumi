@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11364" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2015-03-20</startdate>
+<enddate>2015-03-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">MILPOM Pilot</title>
+<title xml:lang="ja" type="official">MILPOM★ (みるぽん)</title>
+</titles>
+<relatedanime>
+<anime id="11634" type="Other">Milpom</anime>
+</relatedanime>
+<url>http://milpom.com/</url>
+<ratings>
+<permanent count="70">1.55</permanent>
+<temporary count="71">3.08</temporary>
+</ratings>
+<picture>175330.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30438</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://milpom.com/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="3206" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-06">
+<name>stop motion</name>
+<description>Stop motion (also known as stop-action or frame-by-frame) is an animation technique to make a physically manipulated object appear to move on its own. The object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played as a continuous sequence.</description>
+</tag>
+<tag id="4349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>puppetmation</name>
+<description>A puppet is an inanimate object or representational figure animated or manipulated by a puppeteer. It is usually (but by no means always) a depiction of a human character, and is used in puppetry, a play or a presentation that is a very ancient form of theatre. The puppet undergoes a process of transformation through being animated, and is normally manipulated by at least one puppeteer.
+There are many different varieties of puppets, and they are made of a wide range of materials, depending on their form and intended use. They can be extremely complex or very simple in their construction. They may even be found objects. As Oscar Wilde wrote, "There are many advantages in puppets. They never argue. They have no crude views about art. They have no private lives".</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="171955" update="2015-09-26">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2015-03-20</airdate>
+<rating votes="1">1.14</rating>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14348" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1972</startdate>
+<enddate>1972</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ikite Irutte Subarashii!</title>
+<title xml:lang="ja" type="official">生きているってすばらしい!</title>
+</titles>
+<creators>
+<name id="4382" type="Music">Uno Seiichirou</name>
+</creators>
+<description>* Based on http://anidb.net/cr10149 [Brothers Grimm]`s fairy-tale Town Musicians of Bremen.</description>
+<ratings>
+<permanent count="5">3.51</permanent>
+<temporary count="5">4.20</temporary>
+</ratings>
+<picture>223005.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29814</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14166</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205873" update="2018-08-31">
+<epno type="1">1</epno>
+<length>25</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

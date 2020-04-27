@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7737" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1991-07-20</startdate>
+<enddate>1991-07-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dokin-chan no Dokidoki Calendar</title>
+<title xml:lang="ja" type="synonym">それいけ! アンパンマン ドキンちゃんのドキドキカレンダー</title>
+<title xml:lang="x-jat" type="synonym">Sore Ike! Anpanman: Dokin-chan no Dokidoki Calendar</title>
+<title xml:lang="ja" type="official">ドキンちゃんのドキドキカレンダー</title>
+</titles>
+<relatedanime>
+<anime id="7547" type="Other">Sore Ike! Anpanman: Tobe! Tobe! Chibigon</anime>
+</relatedanime>
+<url>https://ja.wikipedia.org/wiki/%E3%81%9D%E3%82%8C%E3%81%84%E3%81%91!%E3%82%A2%E3%83%B3%E3%83%91%E3%83%B3%E3%83%9E%E3%83%B3_%E3%81%A8%E3%81%B9!_%E3%81%A8%E3%81%B9!_%E3%81%A1%E3%81%B3%E3%81%94%E3%82%93#.E3.81.9D.E3.82.8C.E3.81.84.E3.81.91.21.E3.82.A2.E3.83.B3.E3.83.91.E3.83.B3.E3.83.9E.E3.83.B3_.E3.83.89.E3.82.AD.E3.83.B3.E3.81.A1.E3.82.83.E3.82.93.E3.81.AE.E3.83.89.E3.82.AD.E3.83.89.E3.82.AD.E3.82.AB.E3.83.AC.E3.83.B3.E3.83.80.E3.83.BC</url>
+<creators>
+<name id="5606" type="Original Work">Yanase Takashi</name>
+<name id="4408" type="Direction">Nagaoka Akinori</name>
+<name id="4847" type="Music">Izumi Taku</name>
+</creators>
+<description>Note: Double Feature with http://anidb.net/a7547 [Sore Ike! Anpanman: Tobe! Tobe! Chibigon].</description>
+<ratings>
+<permanent count="4">6.75</permanent>
+<temporary count="4">5.25</temporary>
+</ratings>
+<picture>52216.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8946</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22037</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2545</identifier>
+<identifier>azaleg</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151446</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1804</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120504" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1991-07-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

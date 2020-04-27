@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11636" restricted="false">
+<type>TV Series</type>
+<episodecount>6</episodecount>
+<startdate>2015-05-30</startdate>
+<enddate>2015-10-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Deban Desu Yo! Onigirizu</title>
+<title xml:lang="ja" type="official">出番ですよ!オニギリズ</title>
+</titles>
+<description>A short series created to commemorate the 25th anniversary of the NECO broadcast channel. It focuses on the backstage chatter and concerts of a band called Onigirizu.
+Source: LiveChart</description>
+<ratings>
+<permanent count="6">2.30</permanent>
+<temporary count="6">2.16</temporary>
+</ratings>
+<picture>177817.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30893</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>出番ですよ!オニギリズ</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4200" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>flash animation</name>
+<description>Made in Adobe Flash (formerly known as Macromedia Flash), a software package for rich multimedia and Web animations and applications. Very popular on amateur fanproductions (like the ones found in places such as YouTube)
+Sadly, Flash has also earned a bad reputation among the animation purists because it leads to cheap low-quality animation jobs, since anyone with a hint of creativity and a "idea" on its head can easily learn how to produce an animated feature in Flash... and sell it to the masses.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="171890" update="2015-09-26">
+<epno type="1">4</epno>
+<length>4</length>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="171891" update="2015-09-26">
+<epno type="1">3</epno>
+<length>4</length>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="171892" update="2015-09-26">
+<epno type="1">2</epno>
+<length>4</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="171893" update="2015-09-26">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2015-06-01</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="174439" update="2016-01-11">
+<epno type="1">6</epno>
+<length>5</length>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="174440" update="2016-01-11">
+<epno type="1">5</epno>
+<length>5</length>
+<title xml:lang="en">Episode 5</title>
+</episode>
+</episodes>
+</anime>

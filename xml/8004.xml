@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8004" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2007</startdate>
+<enddate>2007</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Love Rollercoaster</title>
+<title xml:lang="ja" type="official">Love Rollercoaster</title>
+</titles>
+<url>http://www.anime-innovation.jp/sys/works.php?itemid=6</url>
+<description>Bear cub John embarks on an adventure companied by his chums from Marlboro village in quest of a treasure his late mother has left behind. A knockabout adventure full of attractive animal characters.
+Love Rollercoaster received the Jury Recommended Work designation at the 11th Japan Media Arts Festival (Animation Category / Short Film) and the Planning Award (the Tokyo Big Sight Award) from the Tokyo International Anime Fair 2008 Tokyo Anime Awards. The movie was broadcast on the NHK-BS channel in 2009, and earned positive reviews.</description>
+<picture>55730.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15453</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.anime-innovation.jp/sys/works.php?itemid=6</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.anime-innovation.jp/sys/works_en.php?itemid=31</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="122807" update="2010-10-01">
+<epno type="4">T1</epno>
+<length>2</length>
+<airdate>2008-01-31</airdate>
+<title xml:lang="en">Trailer</title>
+</episode>
+<episode id="122851" update="2010-10-03">
+<epno type="1">1</epno>
+<length>35</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10762" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-05-23</startdate>
+<enddate>2015-05-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tensai Bakavon: Yomigaeru Flanders no Inu</title>
+<title xml:lang="ja" type="official">天才バカヴォン ~蘇るフランダースの犬~</title>
+</titles>
+<relatedanime>
+<anime id="1650" type="Other">Flanders no Inu</anime>
+<anime id="5485" type="Other">Tensai Bakabon</anime>
+</relatedanime>
+<url>http://bakavon.com/</url>
+<creators>
+<name id="3825" type="Direction">Frogman</name>
+</creators>
+<description>In this spoof, the orphan Nello and his dog Patrash decide to take revenge instead of going to heaven. Nello and Patrash now orchestrate a shadowy organization, and Bakabon`s family decides to confront them to save the world.
+Source: ANN</description>
+<ratings>
+<permanent count="2">5.12</permanent>
+<temporary count="2">5.00</temporary>
+</ratings>
+<picture>171325.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16235</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>25987</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://bakavon.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>351118</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18184</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="164810" update="2018-01-10">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>2015-05-23</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

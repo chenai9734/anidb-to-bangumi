@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12944" restricted="false">
+<type>TV Series</type>
+<episodecount>25</episodecount>
+<startdate>2017-10-03</startdate>
+<enddate>2018-03-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Osomatsu-san (2017)</title>
+<title xml:lang="x-jat" type="synonym">Osomatsu-san S2</title>
+<title xml:lang="ja" type="official">おそ松さん (2017)</title>
+<title xml:lang="en" type="official">Mr. Osomatsu 2nd Season</title>
+<title xml:lang="zh-Hans" type="official">阿松 第二季</title>
+</titles>
+<relatedanime>
+<anime id="11347" type="Prequel">Osomatsu-san</anime>
+<anime id="14293" type="Side Story">Eiga no Osomatsu-san</anime>
+</relatedanime>
+<url>http://osomatsusan.com/</url>
+<creators>
+<name id="724" type="Animation Work">Studio Pierrot</name>
+<name id="9250" type="Character Design">Asano Naoyuki</name>
+<name id="977" type="Original Work">Akatsuka Fujio</name>
+<name id="24337" type="Direction">Fujita Youichi</name>
+<name id="45066" type="Series Composition">Matsubara Shuu</name>
+<name id="3073" type="Music">Hashimoto Yukari</name>
+</creators>
+<description>* Based on the Osomatsu-kun gag manga series by http://anidb.net/cr977 [Akatsuka Fujio].</description>
+<ratings>
+<permanent count="166">6.94</permanent>
+<temporary count="166">7.05</temporary>
+</ratings>
+<picture>206815.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19741</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35067</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/osomatsusan/</url>
+</externalentity>
+<externalentity>
+<url>http://osomatsusan.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mr._Osomatsu</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おそ松さん</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4714</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360348</identifier>
+</externalentity>
+<externalentity>
+<identifier>362442</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20621</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>osomatsu_PR</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-13">
+<name>multi-segment episodes</name>
+<description>Multi-segment episodes are split into several short segments (parts), usually with separate titles and independent storylines.
+Not to be confused with http://anidb.net/t5852 [short episodes], which are regular episodes that are much shorter than the standard length (up to and including 10 minutes).
+Also not to be confused with an OVA or music video with multiple (otherwise unrelated) full-length http://anidb.net/t7241 [bundled episodes] consolidated into a single episode video track.</description>
+</tag>
+</tags>
+<characters>
+<character id="37177" type="main character in" update="2015-10-12">
+<rating votes="27">6.20</rating>
+<name>Osomatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63250.png</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="37180" type="main character in" update="2015-10-12">
+<rating votes="27">6.46</rating>
+<name>Karamatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63248.png</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="37181" type="main character in" update="2015-10-12">
+<rating votes="22">6.31</rating>
+<name>Choromatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63247.png</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="37182" type="secondary cast in" update="2015-10-12">
+<rating votes="12">8.42</rating>
+<name>Iyami</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63256.png</picture>
+<seiyuu id="191" picture="17006.jpg">Suzumura Ken`ichi</seiyuu>
+</character>
+<character id="37183" type="secondary cast in" update="2015-10-12">
+<rating votes="11">7.21</rating>
+<name>Chibita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63253.png</picture>
+<seiyuu id="9365" picture="34581.jpg">Kokuryuu Sachi</seiyuu>
+</character>
+<character id="37184" type="secondary cast in" update="2015-10-12">
+<rating votes="8">8.16</rating>
+<name>Dekapan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63257.png</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="37185" type="secondary cast in" update="2015-10-12">
+<rating votes="8">2.72</rating>
+<name>Hatabou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63254.png</picture>
+<seiyuu id="476" picture="23579.jpg">Saitou Momoko</seiyuu>
+</character>
+<character id="37186" type="main character in" update="2015-10-12">
+<rating votes="26">6.86</rating>
+<name>Juushimatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63251.png</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="37187" type="main character in" update="2015-10-12">
+<rating votes="22">3.99</rating>
+<name>Todomatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63252.png</picture>
+<seiyuu id="470" picture="17419.jpg">Irino Miyu</seiyuu>
+</character>
+<character id="37188" type="main character in" update="2015-10-12">
+<rating votes="23">7.32</rating>
+<name>Ichimatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63249.png</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="37191" type="secondary cast in" update="2015-10-12">
+<rating votes="6">4.53</rating>
+<name>Dayoon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63255.png</picture>
+<seiyuu id="190" picture="186145.jpg">Tobita Nobuo</seiyuu>
+</character>
+<character id="37192" type="secondary cast in" update="2015-10-12">
+<rating votes="15">2.13</rating>
+<name>Totoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63258.png</picture>
+<seiyuu id="424" picture="224027.jpg">Endou Aya</seiyuu>
+</character>
+<character id="80000" type="appears in" update="2016-02-10">
+<rating votes="5">4.35</rating>
+<name>Hashimoto Nyaa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182657.jpg</picture>
+<seiyuu id="38295" picture="222841.jpg">Yamashita Nanami</seiyuu>
+</character>
+<character id="89817" type="secondary cast in" update="2017-09-28">
+<rating votes="1">1.50</rating>
+<name>Matsuno Matsuyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207676.jpg</picture>
+<seiyuu id="3368" picture="132584.jpg">Kujira</seiyuu>
+</character>
+<character id="89818" type="secondary cast in" update="2017-09-28">
+<rating votes="1">1.50</rating>
+<name>Matsuno Matsuzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207675.jpg</picture>
+<seiyuu id="189" picture="203306.jpg">Inoue Kazuhiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="190962" update="2017-10-30">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-10-24</airdate>
+<rating votes="3">7.21</rating>
+<title xml:lang="ja">げんし松さん / 松造と松代</title>
+<title xml:lang="en">Cavematsu-san / Matsuzou and Matsuyo</title>
+<title xml:lang="x-jat">Genshimatsu-san / Matsuzou to Matsushiro</title>
+<summary>The Cavematsus make another appearance, and the sextuplets try to figure out what`s bothering their father.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748875</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190963" update="2017-10-17">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-10-17</airdate>
+<rating votes="3">7.21</rating>
+<title xml:lang="ja">げんし松さん / チョロ松と一松 / トト子の挑戦</title>
+<title xml:lang="en">Cavematsu-san / Choromatsu and Ichimatsu / Totoko`s Challenge</title>
+<title xml:lang="x-jat">Genshimatsu-san / Choromatsu to Ichimatsu / Totoko no Chousen</title>
+<summary>What could be more obnoxious than one Steve? How about two? Steve discovers he`s had a shadowy body double all along, who now wants to be something more! Meanwhile, a sinister conspirator discovers the persuasive power of a turn of phrase, and Pascal composes a verse to help a student in need.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748873</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190964" update="2017-10-12">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-10-10</airdate>
+<rating votes="3">8.87</rating>
+<title xml:lang="ja">祝・就職!! / 超洗剤</title>
+<title xml:lang="en">Congratulations! Employment!! / Super Detergent</title>
+<title xml:lang="x-jat">Iwai: Shuushoku!! / Chou Senzai</title>
+<summary>The sextuplets are still NEETs and their parents have had just about enough, and Iyami gets a stain on his suit on the way to a party. Professor Dekapan gives him a powerful detergent and it works miracles... But the sextuplets get their hands on it and mistake it for alcohol...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748871</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190965" update="2017-10-12">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-10-03</airdate>
+<rating votes="4">4.83</rating>
+<title xml:lang="ja">ふっかつ おそ松さん</title>
+<title xml:lang="en">Mr. Osomatsu Returns</title>
+<title xml:lang="x-jat">Fukkatsu Osomatsu-san</title>
+<summary>The TV anime, “Mr. Osomatsu,” that wrapped up in 2016 is coming back! Just what did Iyami and Chibita witness after the ending of the very turbulent first season? Have the sextuplets learned their lesson from last time? Are they willing to do things properly now?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748869</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191577" update="2017-10-09">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2017-10-03</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="191578" update="2017-10-09">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-10-03</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="191887" update="2017-11-28">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-11-21</airdate>
+<rating votes="3">8.17</rating>
+<title xml:lang="ja">合成だよん / 十四松とイルカ / トト子とにゃー</title>
+<title xml:lang="en">Synthesis / Jyushimatsu and the Dolphin / Totoko and Nyaa</title>
+<title xml:lang="x-jat">Gosei Dayon / Jyushimatsu to Iruka / Totoko to Nyaa</title>
+<summary>Jyushimatsu trains to become a dolphin... No, really.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748883</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191888" update="2017-10-17">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-11-14</airdate>
+<rating votes="3">7.06</rating>
+<title xml:lang="ja">げんし松さん / 三国志さん / おそ松とトド松</title>
+<title xml:lang="en">Cavematsu-san / Sangokushi-san / Osomatsu and Todomatsu</title>
+<title xml:lang="x-jat">Genshimatsu-san / Sangokushi-san / Osomatsu to Todomatsu</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748881</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191889" update="2017-11-13">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-11-07</airdate>
+<rating votes="3">8.30</rating>
+<title xml:lang="ja">イヤミがやって来た / ともだちがほしいじょー</title>
+<title xml:lang="en">Iyami Has Arrived / I Want Some Friends, Jo</title>
+<title xml:lang="x-jat">Iyami ga Yatte Kita / Tomodachi ga Hoshii jou</title>
+<summary>Iyami goes to sextuplets for help after falling on hard times and Hatabou searches for a friend.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748879</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191890" update="2017-10-31">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-10-31</airdate>
+<rating votes="3">8.30</rating>
+<title xml:lang="ja">夏のおそ松さん (セミ / 十四松体操 / じょーず / 暑いざんす / 流刑 / 流刑② / 流刑③ / 花火 / サマー仮面 / 夏のトト子 / 今年こそは)</title>
+<title xml:lang="en">Osomatsu-san in the Summer (Cicadas / Jyushimatsu Calisthenics / Joozu / It`s Hot / Exiled / Exiled 2 / Exiled 3 / Fireworks / Summer Kamen / Totoko in the Summer / This Year, We`ll Finally...)</title>
+<title xml:lang="x-jat">Natsu no Osomatsu-san (Semi / Juushimatsu Taisou / Jouzu / Atsui Zansu / Ryuukei / Ryuukei 2 / Ryuukei 3 / Hanabi / Summer Kamen / Natsu no Totoko / Kotoshi koso wa)</title>
+<summary>The Matsus make the best of their summer.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748877</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192176" update="2017-11-28">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-11-28</airdate>
+<rating votes="3">8.30</rating>
+<title xml:lang="ja">キャンペーン発動! / ゲームセンターイヤミ / トト子とにゃー②</title>
+<title xml:lang="en">Campaign Starting Now! / Arcade Iyami / Totoko and Nyaa 2</title>
+<title xml:lang="x-jat">Campaign Hatsudou! / Game Center Iyami / Totoko to Nyaa 2</title>
+<summary>Ichimatsu just wants to get some sleep and Iyami is a game master.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748885</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192177" update="2018-01-17">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-12-05</airdate>
+<rating votes="3">6.65</rating>
+<title xml:lang="ja">カラ松とブラザー / 新入社員トト子 / アフレコ松さん</title>
+<title xml:lang="en">Karamatsu and Brothers / New Employee Totoko / Dubbingmatsu-san</title>
+<title xml:lang="x-jat">Karamatsu to Brother / Shinnyuu Shain Totoko / Afrecomatsu-san</title>
+<summary>Karamatsu just wants to be loved by his brothers.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748887</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192178" update="2018-01-17">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-12-12</airdate>
+<rating votes="4">8.60</rating>
+<title xml:lang="ja">復讐のチビ太</title>
+<title xml:lang="en">Chibita`s Revenge</title>
+<title xml:lang="x-jat">Fukushuu no Chibimatsu</title>
+<summary>The sextuplets finally go to far and Chibita seeks revenge.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748889</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192179" update="2018-01-17">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-12-19</airdate>
+<rating votes="3">8.79</rating>
+<title xml:lang="ja">トト子とにゃー③ / 栄太郎親子 / 返すだス / トト子とにゃー④</title>
+<title xml:lang="en">Totoko and Nyaa 3 / The Eitarou Family / Give Them Back / Totoko and Nyaa 4</title>
+<title xml:lang="x-jat">Totoko to Nyaa 3 / Eitarou Oyako / Kaesu Dasu / Totoko to Nyaa 4</title>
+<summary>Jyushimatsu gains a little apprentice.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748891</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194076" update="2018-01-17">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2017-12-26</airdate>
+<rating votes="3">6.65</rating>
+<title xml:lang="ja">年末 (よいお年を / 年末ジャンボ / ニューイヤーフェス / 餅つき / 雪遊び / 雪遊び② / かさじぞう / 年賀状) / 戦力外通告2017-クビを宣告された末っ子-</title>
+<title xml:lang="en">End of the Year (Have a Wonderful New Year / Year-End Jumbo Lottery / New Year`s Fest / Pounding Mochi / Playing in the Snow / Playing in the Snow 2 / Kasa Jizou Statues / New Year`s Cards) / Discharge Notice 2017: The Youngest Brother Who Got Fired</title>
+<title xml:lang="x-jat">Nenmatsu (Yoi Otoshi o / Nenmatsu Jumbo / New Year Fes / Mochitsuki / Yuki Asobi / Yuki Asobi 2 / Kasa Jizou / Nengajou) / Senryokugai Tsuukoku 2017: Kubi o Senkoku Sareta Suekko</title>
+<summary>The cast celebrates the end of the year in various ways.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748893</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194366" update="2018-03-13">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-01-23</airdate>
+<rating votes="3">7.11</rating>
+<title xml:lang="ja">宇宙海賊 / グルメ回 / となりのかわい子ちゃん</title>
+<title xml:lang="en">Space Pirates / Gourmet Episode / The Cutie Next Door</title>
+<title xml:lang="x-jat">Uchuu Kaizoku / Gourmet Kai / Tonari no Kawaiko-chan</title>
+<summary>Space pirates and a gourmet episode!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758469</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194367" update="2018-01-21">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-01-16</airdate>
+<rating votes="3">8.79</rating>
+<title xml:lang="ja">UMA探検隊 / びん / カラ松タクシー / 新春恒例トッティクイズ</title>
+<title xml:lang="en">UMA Expedition Team / Jar / Karamatsu Taxi / Totty Quiz</title>
+<title xml:lang="x-jat">UMA Tankentai / Bin / Karamatsu Taxi / Totti Quiz</title>
+<summary>The brothers try to open a jar, Karamatsu drives a taxi, and Totty holds a quiz tournament.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758467</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194368" update="2018-01-21">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-01-09</airdate>
+<rating votes="3">6.65</rating>
+<title xml:lang="ja">連続テレビドラマ 実松さん 第九話 / UMA探検隊 / チョロ松事変</title>
+<title xml:lang="en">Weekly Drama Serial: Sanematsu-san - Episode 9 / UMA Expedition Team / The Choromatsu Incident</title>
+<title xml:lang="x-jat">Renzoku TV Drama: Sanematsu-san - Dai Kyuu Wa / UMA Tankentai / Choromatsu Jihen</title>
+<summary>Sanematsu makes a return and Choromatsu makes a huge change in his life.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758465</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195188" update="2018-03-13">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-02-20</airdate>
+<rating votes="3">8.21</rating>
+<title xml:lang="ja">こぼれ話集2 (松まん / 確定申告 / カラピノ / 財布 / 花粉 / 迷路 / あらいぐま十四松 / トド松逝く / 社会科見学 / 出動! チャントシター!! / スケルトン)</title>
+<title xml:lang="en">Tidbits Collection 2 (Matsu Buns / Tax Returns / Karapino / Wallet / Pollen / Labyrinth / Jushimatsu the Raccoon / Todomatsu Passes On / Field Trip / Proper-Rangers! Move Out! / Skeleton)</title>
+<title xml:lang="x-jat">Kobore Hanashi Shuu 2 (Matsuman / Kakuteishinkoku / Karapino / Saifu / Kafun / Meiro / Araiguma Juushimatsu / Todomatsu Yuku / Shakaika Kengaku / Shutsudou! Chantoshitaa!! / Skeleton)</title>
+<summary>It’s another tidbits collection!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758477</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195189" update="2018-03-13">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-02-13</airdate>
+<rating votes="3">8.21</rating>
+<title xml:lang="ja">デカパン大統領 / ふくわ術 / バレンタインデー / デリバリーコント 本当は話が進まない白雪姫</title>
+<title xml:lang="en">President Dekapan / Ventriloquism / Valentine`s Day / Delivery Skit: The Story of Snow White That Doesn`t Actually Get Anywhere</title>
+<title xml:lang="x-jat">Dekapan-daitouryou / Fukuwajutsu / Valentine Day / Delivery Konto: Hontou wa Hanashi ga Susumanai Shirayukihime</title>
+<summary>President Dekapan just wants to push the button, Iyami show off his ventriloquist skills, and the brothers deal with Valentine’s Day.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758475</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195190" update="2018-03-13">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-02-06</airdate>
+<rating votes="3">9.30</rating>
+<title xml:lang="ja">イヤミはひとり風の中</title>
+<title xml:lang="en">Iyami, Alone in the Wind</title>
+<title xml:lang="x-jat">Iyami wa Hitori Kaze no Naka</title>
+<summary>Iyami encounters a blind little girl and does what he can to make her dreams come true.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758473</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195191" update="2018-03-13">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-01-30</airdate>
+<rating votes="3">7.80</rating>
+<title xml:lang="ja">UMA探検隊 / 戒め! / 旅館 / デリバリーコント 本当は賢いヘンゼルとグレーテル</title>
+<title xml:lang="en">UMA Expedition Team / Punishment! / Inn / Delivery Skit: If Hansel and Gretel Were Actually Smart</title>
+<title xml:lang="x-jat">UMA Tankentai / Imashime! / Ryokan / Delivery Konto: Hontou wa Kashikoi Hansel to Gretel</title>
+<summary>Ichimatsu explains that there always has to be balance in the world to Jyushimatsu and a couple encounters a creepy spirit of a little girl at an old inn.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758471</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196077" update="2018-04-05">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-03-20</airdate>
+<rating votes="3">8.17</rating>
+<title xml:lang="ja">桜</title>
+<title xml:lang="en">Cherry Blossoms</title>
+<title xml:lang="x-jat">Sakura</title>
+<summary>Something happens to the sextuplets’ father and the brothers decide to make a huge change in their life.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758485</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196078" update="2018-03-13">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-03-13</airdate>
+<rating votes="3">5.18</rating>
+<title xml:lang="ja">深夜の日松屋② / ダヨーンとダヨーン / 悩むイヤミさん / 深夜の日松屋③</title>
+<title xml:lang="en">The Late Night Himatsuya 2 / Dayon and Dayon / Iyami-san Is Troubled / The Late Night Himatsuya 3</title>
+<title xml:lang="x-jat">Shin`ya no Himatsuya 2 / Dayoon to Dayoon / Nayamu Iyami-san / Shin`ya no Himatsuya 3</title>
+<summary>Dayon meets another Dayon, and Iyami ponders is self-worth.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758483</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196079" update="2018-03-13">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-03-06</airdate>
+<rating votes="3">8.21</rating>
+<title xml:lang="ja">海外旅行</title>
+<title xml:lang="en">Overseas Vacation</title>
+<title xml:lang="x-jat">Kaigairyokou</title>
+<summary>Hatabou treats everyone to a trip to Hawaii, but you probably realize that’s not going to happen.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758481</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196080" update="2018-03-13">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-02-27</airdate>
+<rating votes="3">8.21</rating>
+<title xml:lang="ja">深夜の日松屋 / BANANA / ニート矯正施設</title>
+<title xml:lang="en">The Late Night Himatsuya / Banana / NEET Correctional Facility</title>
+<title xml:lang="x-jat">Shin`ya no Himatsuya / Banana / NEET Kyousei Shisetsu</title>
+<summary>B! N! N! Banana! Matsuyo is faced with a difficult decision concerning her sons.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758479</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196939" update="2018-04-19">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2018-03-27</airdate>
+<rating votes="2">10.00</rating>
+<title xml:lang="ja">地獄のおそ松さん</title>
+<title xml:lang="en">Mr. Osomatsu in Hell</title>
+<title xml:lang="x-jat">Jigoku no Osomatsu-san</title>
+<summary>Osomatsu has something important to tell his brothers... and then the unexpected happens.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758487</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

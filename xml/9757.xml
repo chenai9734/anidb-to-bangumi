@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9757" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2012-06</startdate>
+<enddate>2012-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kasa Hen</title>
+<title xml:lang="ja" type="official">傘編</title>
+</titles>
+<relatedanime>
+<anime id="8495" type="Other">Ajisai Hen</anime>
+<anime id="8497" type="Other">Sora Hen</anime>
+<anime id="8498" type="Other">Hana Hen</anime>
+<anime id="8592" type="Other">Hoshi Hen</anime>
+<anime id="9755" type="Other">Hassou Hen</anime>
+<anime id="9758" type="Other">Ikitaku Naru Omise Hen</anime>
+</relatedanime>
+<url>http://www.kyotoanimation.co.jp/company/cm/umbrella/</url>
+<creators>
+<name id="2667" type="Character Design">Maruki Nobuaki</name>
+<name id="736" type="Animation Work">Kyoto Animation</name>
+</creators>
+<description>* A CM directed and designed by http://anidb.net/cr2667 [Maruki Nobuaki] and produced at http://anidb.net/cr736 [Kyoto Animation]</description>
+<ratings>
+<permanent count="201">4.71</permanent>
+<temporary count="201">5.58</temporary>
+</ratings>
+<picture>133422.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17815</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.kyotoanimation.co.jp/company/cm/umbrella/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="154439" update="2013-10-01">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">CM</title>
+</episode>
+</episodes>
+</anime>

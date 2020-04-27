@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7695" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1992-07-22</startdate>
+<enddate>1992-07-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Houkago no Tinker Bell</title>
+<title xml:lang="ja" type="official">放課後のティンカー・ベル</title>
+</titles>
+<creators>
+<name id="14906" type="Character Design">Maruyama Yasuhide</name>
+<name id="3817" type="Music">Ike Takeshi</name>
+<name id="20156" type="Original Work">Hyuuga Shouichirou</name>
+</creators>
+<description>http://anidb.net/ch19895 [Akizuki Ken`ichi] and http://anidb.net/ch19894 [Watanabe Misako] work together to solve the mysterious disappearance of their classmate Ryouko Miyazaki. The only clue left by the kidnapper is signed by Koushin Okazaki, their late classmate who`d committed suicide to preserve his youth and become like Peter Pan.</description>
+<ratings>
+<permanent count="52">4.33</permanent>
+<temporary count="52">5.29</temporary>
+</ratings>
+<picture>51775.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7352</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>13299</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3014</identifier>
+<identifier>akqooc</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>放課後シリーズ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88434</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2936</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2779" parentid="2858" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>multiple couples</name>
+<description>More than one couple is developed in the anime.</description>
+</tag>
+<tag id="2785" parentid="2858" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>unrequited love</name>
+<description>At least one character has a romantic interest in another one, but the feelings are not returned. 
+This is the cornerstone of all love triangles or love polygons.</description>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="19894" type="main character in" update="2010-07-21">
+<name>Watanabe Misako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1870" picture="186893.jpg">Mizutani Yuuko</seiyuu>
+</character>
+<character id="19895" type="main character in" update="2010-07-21">
+<name>Akizuki Ken`ichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="190" picture="186145.jpg">Tobita Nobuo</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="120067" update="2013-05-05">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1992-07-22</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

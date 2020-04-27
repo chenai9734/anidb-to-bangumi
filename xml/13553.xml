@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13553" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2018-03-09</startdate>
+<enddate>2018-03-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Shimajirou: Mahou no Shima no Daibouken</title>
+<title xml:lang="ja" type="official">映画しまじろう まほうのしまの だいぼうけん</title>
+</titles>
+<url>http://kodomo.benesse.ne.jp/open/movie/2018-mahou/</url>
+<creators>
+<name id="1292" type="Animation Work">The Answer Studio</name>
+<name id="47789" type="Original Work">Benesse Corporation</name>
+<name id="26069" type="Direction">Kawamata Hiroshi</name>
+</creators>
+<picture>209125.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23116</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36727</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kodomo.benesse.ne.jp/open/movie/2018-mahou/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>362388</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="192407" update="2018-03-07">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2018-03-09</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

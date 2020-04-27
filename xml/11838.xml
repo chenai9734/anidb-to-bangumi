@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11838" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002-08-17</startdate>
+<enddate>2002-08-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Saru Get You: Ougon no Pipo Helmet - Ukki Battle</title>
+<title xml:lang="en" type="synonym">Ape Escape Movie</title>
+<title xml:lang="x-jat" type="synonym">Saru Getchu Movie: Ougon no Pipo Helmet - Ukki Battle</title>
+<title xml:lang="ja" type="official">劇場版 サルゲッチュ 黄金のピポヘル・ウッキーバトル</title>
+</titles>
+<relatedanime>
+<anime id="11837" type="Parent Story">Let You, Get You, Saru Get You</anime>
+</relatedanime>
+<url>http://www.toho.co.jp/library/system/movies/?1828</url>
+<description>One day, a strange monkey with a golden helmet drains out the insides of another monkey by kissing him. Hikaru, Spike`s brother, goes out on an adventure to find this strange monkey. He soon befriends the monkeys and runs forward. But it isn`t easy when every boss from the former games tries to block his path...</description>
+<ratings>
+<permanent count="3">4.76</permanent>
+<temporary count="3">5.66</temporary>
+</ratings>
+<picture>180341.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31052</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toho.co.jp/library/system/movies/?1828</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>サルゲッチュ_(アニメ)#.E3.80.8E.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.B5.E3.83.AB.E3.82.B2.E3.83.83.E3.83.81.E3.83.A5_.E9.BB.84.E9.87.91.E3.81.AE.E3.83.94.E3.83.9D.E3.83.98.E3.83.AB.E3.83.BB.E3.82.A6.E3.83.83.E3.82.AD.E3.83.BC.E3.83.90.E3.83.88.E3.83.AB.E3.80.8F</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>239538</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="173780" update="2015-12-13">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2002-08-17</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

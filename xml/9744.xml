@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9744" restricted="false">
+<type>Web</type>
+<episodecount>6</episodecount>
+<startdate>2011-04-07</startdate>
+<enddate>2015-04-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Neon The Animation</title>
+<title xml:lang="ja" type="official">音々The Animation</title>
+</titles>
+<url>http://nippombashi.jp/project/anime.html</url>
+<description>Promotional animated videos of Osaka`s entertainment and shopping district, Nipponbashi (or colloquially known as Nippombashi) narrated by Nipponbashi`s mascot http://anidb.net/ch53760 [Neon] and her sister http://anidb.net/ch53761 [Hikari-chan]. Nipponbashi is the equal of Tokyo`s Akihabara.</description>
+<ratings>
+<permanent count="25">3.01</permanent>
+<temporary count="25">4.56</temporary>
+</ratings>
+<picture>59889.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17697</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://nippombashi.jp/project/anime.html</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>user/npbproject</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="4164" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-07-28">
+<name>promotional</name>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="53760" type="main character in" update="2013-03-11">
+<name>Neon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>133524.jpg</picture>
+<seiyuu id="392" picture="17237.jpg">Matsuoka Yuki</seiyuu>
+</character>
+<character id="53761" type="main character in" update="2013-03-11">
+<name>Hikari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>133523.jpg</picture>
+<seiyuu id="1992" picture="151673.jpg">Sasaki Nozomi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="148116" update="2013-03-24">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2011-04-07</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="148117" update="2014-06-16">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2012-05-11</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="148118" update="2014-06-16">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2011-04-07</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="162426" update="2014-08-28">
+<epno type="1">5</epno>
+<length>3</length>
+<airdate>2014-05-19</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="162427" update="2014-08-28">
+<epno type="1">4</epno>
+<length>7</length>
+<airdate>2014-05-19</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="179915" update="2016-08-27">
+<epno type="1">6</epno>
+<length>6</length>
+<airdate>2015-04-03</airdate>
+<title xml:lang="en">Episode 6</title>
+</episode>
+</episodes>
+</anime>

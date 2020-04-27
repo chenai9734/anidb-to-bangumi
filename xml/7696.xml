@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7696" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1991-02-21</startdate>
+<enddate>1991-02-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jungle Wars</title>
+<title xml:lang="ja" type="official">ジャングルウォーズ</title>
+</titles>
+<creators>
+<name id="1699" type="Character Design">Taniguchi Moriyasu</name>
+<name id="4135" type="Direction">Kuroda Yoshio</name>
+<name id="8155" type="Music">Yasuda Takeshi</name>
+</creators>
+<description>* Based on the RPG game series Jungle Wars, released on Gameboy and Super Famicom</description>
+<ratings>
+<permanent count="7">4.39</permanent>
+<temporary count="7">5.85</temporary>
+</ratings>
+<picture>51777.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7288</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17473</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3221</identifier>
+<identifier>qywjmj</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ジャングルウォーズ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88505</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2743</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120068" update="2011-02-26">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>1991-02-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3518" restricted="false">
+<type>TV Series</type>
+<episodecount>100</episodecount>
+<startdate>1970-03-30</startdate>
+<enddate>1970-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Doubutsu Mura Monogatari</title>
+<title xml:lang="en" type="synonym">Animal Village Stories</title>
+<title xml:lang="x-jat" type="synonym">Dobutsu Mura Monogatari</title>
+<title xml:lang="ja" type="official">動物村ものがたり</title>
+</titles>
+<relatedanime>
+<anime id="14492" type="Alternative Setting">Goman-hiki</anime>
+</relatedanime>
+<url>http://www.eiken-anime.jp/works/works016.html</url>
+<creators>
+<name id="775" type="Animation Production">Eiken</name>
+<name id="4995" type="Original Work">Yokoyama Ryouichi</name>
+<name id="4995" type="Character Design">Yokoyama Ryouichi</name>
+</creators>
+<description>A short kids series featuring cute animal stories. Each 5 minute episode aired daily, Sunday through Saturday.
+Note: The first 64 episodes are monochrome, where the last 36 episodes were fully coloured.</description>
+<ratings>
+<permanent count="6">3.12</permanent>
+<temporary count="6">3.16</temporary>
+</ratings>
+<picture>11977.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2179</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20009</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1828</identifier>
+<identifier>ahndhc</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.eiken-anime.jp/works/works016.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>動物村ものがたり</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89586</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>945</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>84</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="99366" update="2010-04-30">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>1970-03-30</airdate>
+<title xml:lang="ja">ダンプ象</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Danpu Zou</title>
+</episode>
+<episode id="99367" update="2010-04-30">
+<epno type="1">100</epno>
+<length>5</length>
+<airdate>1970-07-21</airdate>
+<title xml:lang="ja">おしゃれなクラゲ</title>
+<title xml:lang="en">Episode 100</title>
+<title xml:lang="x-jat">Oshare na Kurage</title>
+</episode>
+<episode id="99368" update="2010-04-30">
+<epno type="1">99</epno>
+<length>5</length>
+<title xml:lang="ja">たいくつ村</title>
+<title xml:lang="en">Episode 99</title>
+<title xml:lang="x-jat">Taikutsu Mura</title>
+</episode>
+<episode id="99369" update="2010-04-30">
+<epno type="1">98</epno>
+<length>5</length>
+<title xml:lang="ja">枯れ木虫</title>
+<title xml:lang="en">Episode 98</title>
+<title xml:lang="x-jat">Kareki Chuu</title>
+</episode>
+<episode id="99370" update="2010-04-30">
+<epno type="1">97</epno>
+<length>5</length>
+<title xml:lang="ja">虹の橋</title>
+<title xml:lang="en">Episode 97</title>
+<title xml:lang="x-jat">Niji no Hashi</title>
+</episode>
+<episode id="99371" update="2010-04-30">
+<epno type="1">96</epno>
+<length>5</length>
+<title xml:lang="ja">ロボット</title>
+<title xml:lang="en">Episode 96</title>
+<title xml:lang="x-jat">Robot</title>
+</episode>
+<episode id="99372" update="2010-04-30">
+<epno type="1">95</epno>
+<length>5</length>
+<title xml:lang="ja">アンパイヤー</title>
+<title xml:lang="en">Episode 95</title>
+<title xml:lang="x-jat">Umpire</title>
+</episode>
+<episode id="99373" update="2010-04-30">
+<epno type="1">94</epno>
+<length>5</length>
+<title xml:lang="ja">クラゲの傘</title>
+<title xml:lang="en">Episode 94</title>
+<title xml:lang="x-jat">Kurage no Kasa</title>
+</episode>
+<episode id="99374" update="2010-04-30">
+<epno type="1">93</epno>
+<length>5</length>
+<title xml:lang="ja">ねずみのマント</title>
+<title xml:lang="en">Episode 93</title>
+<title xml:lang="x-jat">Nezumi no Manto</title>
+</episode>
+<episode id="99375" update="2010-04-30">
+<epno type="1">92</epno>
+<length>5</length>
+<title xml:lang="ja">クシャミ</title>
+<title xml:lang="en">Episode 92</title>
+<title xml:lang="x-jat">Kushami</title>
+</episode>
+<episode id="99376" update="2010-04-30">
+<epno type="1">91</epno>
+<length>5</length>
+<title xml:lang="ja">クモの巣</title>
+<title xml:lang="en">Episode 91</title>
+<title xml:lang="x-jat">Kumo no Su</title>
+</episode>
+<episode id="99377" update="2010-04-30">
+<epno type="1">90</epno>
+<length>5</length>
+<title xml:lang="ja">小いか</title>
+<title xml:lang="en">Episode 90</title>
+<title xml:lang="x-jat">Shou Ika</title>
+</episode>
+<episode id="99378" update="2010-04-30">
+<epno type="1">89</epno>
+<length>5</length>
+<title xml:lang="ja">貝</title>
+<title xml:lang="en">Episode 89</title>
+<title xml:lang="x-jat">Kai</title>
+</episode>
+<episode id="99379" update="2010-04-30">
+<epno type="1">88</epno>
+<length>5</length>
+<title xml:lang="ja">やすり橋</title>
+<title xml:lang="en">Episode 88</title>
+<title xml:lang="x-jat">Yasuri Kyou</title>
+</episode>
+<episode id="99380" update="2010-04-30">
+<epno type="1">87</epno>
+<length>5</length>
+<title xml:lang="ja">火だるま</title>
+<title xml:lang="en">Episode 87</title>
+<title xml:lang="x-jat">Bidaruma</title>
+</episode>
+<episode id="99381" update="2010-04-30">
+<epno type="1">86</epno>
+<length>5</length>
+<title xml:lang="ja">笹舟</title>
+<title xml:lang="en">Episode 86</title>
+<title xml:lang="x-jat">Sasabune</title>
+</episode>
+<episode id="99382" update="2010-04-30">
+<epno type="1">85</epno>
+<length>5</length>
+<title xml:lang="ja">コロコロ君</title>
+<title xml:lang="en">Episode 85</title>
+<title xml:lang="x-jat">Korokoro Kimi</title>
+</episode>
+<episode id="99383" update="2010-04-30">
+<epno type="1">84</epno>
+<length>5</length>
+<title xml:lang="ja">岩さわぎ</title>
+<title xml:lang="en">Episode 84</title>
+<title xml:lang="x-jat">Iwa Sawagi</title>
+</episode>
+<episode id="99384" update="2010-04-30">
+<epno type="1">83</epno>
+<length>5</length>
+<title xml:lang="ja">生うめ</title>
+<title xml:lang="en">Episode 83</title>
+<title xml:lang="x-jat">Nama Ume</title>
+</episode>
+<episode id="99385" update="2010-04-30">
+<epno type="1">82</epno>
+<length>5</length>
+<title xml:lang="ja">天馬</title>
+<title xml:lang="en">Episode 82</title>
+<title xml:lang="x-jat">Tenba</title>
+</episode>
+<episode id="99386" update="2010-04-30">
+<epno type="1">81</epno>
+<length>5</length>
+<title xml:lang="ja">子わにの冒険</title>
+<title xml:lang="en">Episode 81</title>
+<title xml:lang="x-jat">Ko Wani no Bouken</title>
+</episode>
+<episode id="99387" update="2010-04-30">
+<epno type="1">80</epno>
+<length>5</length>
+<title xml:lang="ja">太陽も真黒</title>
+<title xml:lang="en">Episode 80</title>
+<title xml:lang="x-jat">Taiyou mo Makkuro</title>
+</episode>
+<episode id="99388" update="2010-04-30">
+<epno type="1">79</epno>
+<length>5</length>
+<title xml:lang="ja">2ペット</title>
+<title xml:lang="en">Episode 79</title>
+<title xml:lang="x-jat">2 Pet</title>
+</episode>
+<episode id="99389" update="2010-04-30">
+<epno type="1">78</epno>
+<length>5</length>
+<title xml:lang="ja">河馬ぞ行く</title>
+<title xml:lang="en">Episode 78</title>
+<title xml:lang="x-jat">Kabazo Iku</title>
+</episode>
+<episode id="99390" update="2010-04-30">
+<epno type="1">77</epno>
+<length>5</length>
+<title xml:lang="ja">けんか草</title>
+<title xml:lang="en">Episode 77</title>
+<title xml:lang="x-jat">Kenkasou</title>
+</episode>
+<episode id="99391" update="2010-04-30">
+<epno type="1">76</epno>
+<length>5</length>
+<title xml:lang="ja">たまり水の怪</title>
+<title xml:lang="en">Episode 76</title>
+<title xml:lang="x-jat">Tamari Sui no Kai</title>
+</episode>
+<episode id="99392" update="2010-04-30">
+<epno type="1">75</epno>
+<length>5</length>
+<title xml:lang="ja">空とぶ狐</title>
+<title xml:lang="en">Episode 75</title>
+<title xml:lang="x-jat">Sora Tobu Kitsune</title>
+</episode>
+<episode id="99393" update="2010-04-30">
+<epno type="1">74</epno>
+<length>5</length>
+<title xml:lang="ja">雪牛</title>
+<title xml:lang="en">Episode 74</title>
+<title xml:lang="x-jat">Yuki Ushi</title>
+</episode>
+<episode id="99394" update="2010-04-30">
+<epno type="1">73</epno>
+<length>5</length>
+<title xml:lang="ja">しっぽ花</title>
+<title xml:lang="en">Episode 73</title>
+<title xml:lang="x-jat">Shippo Hana</title>
+</episode>
+<episode id="99395" update="2010-04-30">
+<epno type="1">72</epno>
+<length>5</length>
+<title xml:lang="ja">黒の大群</title>
+<title xml:lang="en">Episode 72</title>
+<title xml:lang="x-jat">Kuro no Taigun</title>
+</episode>
+<episode id="99396" update="2010-04-30">
+<epno type="1">71</epno>
+<length>5</length>
+<title xml:lang="ja">竜骨</title>
+<title xml:lang="en">Episode 71</title>
+<title xml:lang="x-jat">Ryuukotsu</title>
+</episode>
+<episode id="99397" update="2010-04-30">
+<epno type="1">70</epno>
+<length>5</length>
+<title xml:lang="ja">口鍵</title>
+<title xml:lang="en">Episode 70</title>
+<title xml:lang="x-jat">Kuchi Kagi</title>
+</episode>
+<episode id="99398" update="2010-04-30">
+<epno type="1">69</epno>
+<length>5</length>
+<title xml:lang="ja">見えない壁</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="x-jat">Mienai Kabe</title>
+</episode>
+<episode id="99399" update="2010-04-30">
+<epno type="1">68</epno>
+<length>5</length>
+<title xml:lang="ja">浮き河馬</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Uki Kaba</title>
+</episode>
+<episode id="99400" update="2010-04-30">
+<epno type="1">67</epno>
+<length>5</length>
+<title xml:lang="ja">怪しいこぶ</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">Ayashi Ikobu</title>
+</episode>
+<episode id="99401" update="2010-04-30">
+<epno type="1">66</epno>
+<length>5</length>
+<title xml:lang="ja">へんないのしし</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Hennai no Shishi</title>
+</episode>
+<episode id="99402" update="2010-04-30">
+<epno type="1">65</epno>
+<length>5</length>
+<title xml:lang="ja">おべんちゃら狐</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">Obenchara Kitsune</title>
+</episode>
+<episode id="99403" update="2010-04-30">
+<epno type="1">64</epno>
+<length>5</length>
+<title xml:lang="ja">怪しい光</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Ayashii Hikari</title>
+</episode>
+<episode id="99404" update="2010-04-30">
+<epno type="1">63</epno>
+<length>5</length>
+<title xml:lang="ja">お嫁さん</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">Oyomesan</title>
+</episode>
+<episode id="99405" update="2010-04-30">
+<epno type="1">62</epno>
+<length>5</length>
+<title xml:lang="ja">ゆうれい花</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Yuurei Hana</title>
+</episode>
+<episode id="99406" update="2010-04-30">
+<epno type="1">61</epno>
+<length>5</length>
+<title xml:lang="ja">狼騒ぎ</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Ookami Sawagi</title>
+</episode>
+<episode id="99407" update="2010-04-30">
+<epno type="1">60</epno>
+<length>5</length>
+<title xml:lang="ja">かばの雪足</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Kaba no Yuki Ashi</title>
+</episode>
+<episode id="99408" update="2010-04-30">
+<epno type="1">59</epno>
+<length>5</length>
+<title xml:lang="ja">恐竜時代</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Kyouryuu Jidai</title>
+</episode>
+<episode id="99409" update="2010-04-30">
+<epno type="1">58</epno>
+<length>5</length>
+<title xml:lang="ja">地下毛</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Chikake</title>
+</episode>
+<episode id="99410" update="2010-04-30">
+<epno type="1">57</epno>
+<length>5</length>
+<title xml:lang="ja">下手な豹</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Heta na Hyou</title>
+</episode>
+<episode id="99411" update="2010-04-30">
+<epno type="1">56</epno>
+<length>5</length>
+<title xml:lang="ja">いたづら風</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Itazura Kaze</title>
+</episode>
+<episode id="99412" update="2010-04-30">
+<epno type="1">55</epno>
+<length>5</length>
+<title xml:lang="ja">海の怪物</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Umi no Kaibutsu</title>
+</episode>
+<episode id="99413" update="2010-04-30">
+<epno type="1">54</epno>
+<length>5</length>
+<title xml:lang="ja">ねずみの齒型</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Nezumi no Hagata</title>
+</episode>
+<episode id="99414" update="2010-04-30">
+<epno type="1">53</epno>
+<length>5</length>
+<title xml:lang="ja">かんむりカラス</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Kanmuri Karasu</title>
+</episode>
+<episode id="99415" update="2010-04-30">
+<epno type="1">52</epno>
+<length>5</length>
+<title xml:lang="ja">ふしぎな道しるべ</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Fushigi na Michishirube</title>
+</episode>
+<episode id="99416" update="2010-04-30">
+<epno type="1">51</epno>
+<length>5</length>
+<title xml:lang="ja">空気獣</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Kuuki Juu</title>
+</episode>
+<episode id="99417" update="2010-04-30">
+<epno type="1">50</epno>
+<length>5</length>
+<title xml:lang="ja">かたつむりの脱出</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Katatsumuri no Dasshutsu</title>
+</episode>
+<episode id="99418" update="2010-04-30">
+<epno type="1">49</epno>
+<length>5</length>
+<title xml:lang="ja">かに爭い</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Ka ni Arasoi</title>
+</episode>
+<episode id="99419" update="2010-04-30">
+<epno type="1">48</epno>
+<length>5</length>
+<title xml:lang="ja">はね石</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Haneseki</title>
+</episode>
+<episode id="99420" update="2010-04-30">
+<epno type="1">47</epno>
+<length>5</length>
+<title xml:lang="ja">かば魚</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Kaba Sakana</title>
+</episode>
+<episode id="99421" update="2010-04-30">
+<epno type="1">46</epno>
+<length>5</length>
+<title xml:lang="ja">ぐるぐる沼</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Guruguru Numa</title>
+</episode>
+<episode id="99422" update="2010-04-30">
+<epno type="1">45</epno>
+<length>5</length>
+<title xml:lang="ja">にらめっこ</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Niramekko</title>
+</episode>
+<episode id="99423" update="2010-04-30">
+<epno type="1">44</epno>
+<length>5</length>
+<title xml:lang="ja">頭に来た狸</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Atama ni Kita Tanuki</title>
+</episode>
+<episode id="99424" update="2010-04-30">
+<epno type="1">43</epno>
+<length>5</length>
+<title xml:lang="ja">ライオンの声</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Lion no Koe</title>
+</episode>
+<episode id="99425" update="2010-04-30">
+<epno type="1">42</epno>
+<length>5</length>
+<title xml:lang="ja">つの屋</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Tsunoya</title>
+</episode>
+<episode id="99426" update="2010-04-30">
+<epno type="1">41</epno>
+<length>5</length>
+<title xml:lang="ja">愛のリレー</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Ai no Relay</title>
+</episode>
+<episode id="99427" update="2010-04-30">
+<epno type="1">40</epno>
+<length>5</length>
+<title xml:lang="ja">ロケット蛸</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Rocket Tako</title>
+</episode>
+<episode id="99428" update="2010-04-30">
+<epno type="1">39</epno>
+<length>5</length>
+<title xml:lang="ja">さい雲</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Sai Kumo</title>
+</episode>
+<episode id="99429" update="2010-04-30">
+<epno type="1">38</epno>
+<length>5</length>
+<title xml:lang="ja">陸の雷魚</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Riku no Raigyo</title>
+</episode>
+<episode id="99430" update="2010-04-30">
+<epno type="1">37</epno>
+<length>5</length>
+<title xml:lang="ja">でっかいリンゴ</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Dekkai Ringo</title>
+</episode>
+<episode id="99431" update="2010-04-30">
+<epno type="1">36</epno>
+<length>5</length>
+<title xml:lang="ja">迷子のラクダ</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Maigo no Rakuda</title>
+</episode>
+<episode id="99432" update="2010-04-30">
+<epno type="1">35</epno>
+<length>5</length>
+<title xml:lang="ja">笠こうもり</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Kasa Koumori</title>
+</episode>
+<episode id="99433" update="2010-04-30">
+<epno type="1">34</epno>
+<length>5</length>
+<title xml:lang="ja">スタンプ狸</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Stamp Tanuki</title>
+</episode>
+<episode id="99434" update="2010-04-30">
+<epno type="1">33</epno>
+<length>5</length>
+<title xml:lang="ja">魚の親分</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Sakana no Oyabun</title>
+</episode>
+<episode id="99435" update="2010-04-30">
+<epno type="1">32</epno>
+<length>5</length>
+<title xml:lang="ja">からみあい</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Karamiai</title>
+</episode>
+<episode id="99436" update="2010-04-30">
+<epno type="1">31</epno>
+<length>5</length>
+<title xml:lang="ja">大ひでり</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Dai Hideri</title>
+</episode>
+<episode id="99437" update="2010-04-30">
+<epno type="1">30</epno>
+<length>5</length>
+<title xml:lang="ja">ライオン坊主</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Lion Bouzu</title>
+</episode>
+<episode id="99438" update="2010-04-30">
+<epno type="1">29</epno>
+<length>5</length>
+<title xml:lang="ja">動く闇</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Ugoku Yami</title>
+</episode>
+<episode id="99439" update="2010-04-30">
+<epno type="1">28</epno>
+<length>5</length>
+<title xml:lang="ja">四つ子のビーバー</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Yottsuko no Beaver</title>
+</episode>
+<episode id="99440" update="2010-04-30">
+<epno type="1">27</epno>
+<length>5</length>
+<title xml:lang="ja">純情ゴリラ</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Junjou Gorilla</title>
+</episode>
+<episode id="99441" update="2010-04-30">
+<epno type="1">26</epno>
+<length>5</length>
+<title xml:lang="ja">のど自慢</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Nodo Jiman</title>
+</episode>
+<episode id="99442" update="2010-04-30">
+<epno type="1">25</epno>
+<length>5</length>
+<title xml:lang="ja">地割れ</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Jiware</title>
+</episode>
+<episode id="99443" update="2010-04-30">
+<epno type="1">24</epno>
+<length>5</length>
+<title xml:lang="ja">かみつきシャボテン</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Kamitsuki Shaboten</title>
+</episode>
+<episode id="99444" update="2010-04-30">
+<epno type="1">23</epno>
+<length>5</length>
+<title xml:lang="ja">忍者いたち</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Ninja Itachi</title>
+</episode>
+<episode id="99445" update="2010-04-30">
+<epno type="1">22</epno>
+<length>5</length>
+<title xml:lang="ja">みがき魔</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Migaki Ma</title>
+</episode>
+<episode id="99446" update="2010-04-30">
+<epno type="1">21</epno>
+<length>5</length>
+<title xml:lang="ja">透明いたち</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Toumei Itachi</title>
+</episode>
+<episode id="99447" update="2010-04-30">
+<epno type="1">20</epno>
+<length>5</length>
+<title xml:lang="ja">いやなパンチ</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Iya na Punch</title>
+</episode>
+<episode id="99448" update="2010-04-30">
+<epno type="1">19</epno>
+<length>5</length>
+<title xml:lang="ja">忘れ犬</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Wasure Inu</title>
+</episode>
+<episode id="99449" update="2010-04-30">
+<epno type="1">18</epno>
+<length>5</length>
+<title xml:lang="ja">虎のカーペット</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Tora no Carpet</title>
+</episode>
+<episode id="99450" update="2010-04-30">
+<epno type="1">17</epno>
+<length>5</length>
+<title xml:lang="ja">飛び魚</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Tobiuo</title>
+</episode>
+<episode id="99451" update="2010-04-30">
+<epno type="1">16</epno>
+<length>5</length>
+<title xml:lang="ja">足跡</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Ashiato</title>
+</episode>
+<episode id="99452" update="2010-04-30">
+<epno type="1">15</epno>
+<length>5</length>
+<title xml:lang="ja">つのアパート</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Tsu no Apaato</title>
+</episode>
+<episode id="99453" update="2010-04-30">
+<epno type="1">14</epno>
+<length>5</length>
+<title xml:lang="ja">いんちき薬</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Inchiki Yaku</title>
+</episode>
+<episode id="99454" update="2010-04-30">
+<epno type="1">13</epno>
+<length>5</length>
+<title xml:lang="ja">サイ難</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Sainan</title>
+</episode>
+<episode id="99455" update="2010-04-30">
+<epno type="1">12</epno>
+<length>5</length>
+<title xml:lang="ja">怪しい笛</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Ayashii Fue</title>
+</episode>
+<episode id="99456" update="2010-04-30">
+<epno type="1">11</epno>
+<length>5</length>
+<title xml:lang="ja">巣箱どろぼう</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Subako Dorobou</title>
+</episode>
+<episode id="99457" update="2010-04-30">
+<epno type="1">10</epno>
+<length>5</length>
+<title xml:lang="ja">豚の島</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Buta no Shima</title>
+</episode>
+<episode id="99458" update="2010-04-30">
+<epno type="1">9</epno>
+<length>5</length>
+<title xml:lang="ja">毒の河</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Doku no Kawa</title>
+</episode>
+<episode id="99459" update="2010-04-30">
+<epno type="1">8</epno>
+<length>5</length>
+<title xml:lang="ja">ギャング沼</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Gang Numa</title>
+</episode>
+<episode id="99460" update="2010-04-30">
+<epno type="1">7</epno>
+<length>5</length>
+<title xml:lang="ja">かび</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Kabi</title>
+</episode>
+<episode id="99461" update="2010-04-30">
+<epno type="1">6</epno>
+<length>5</length>
+<title xml:lang="ja">秘密</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Himitsu</title>
+</episode>
+<episode id="99462" update="2010-04-30">
+<epno type="1">5</epno>
+<length>5</length>
+<title xml:lang="ja">座礁くじら</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Zashou Kujira</title>
+</episode>
+<episode id="99463" update="2010-04-30">
+<epno type="1">4</epno>
+<length>5</length>
+<title xml:lang="ja">金ぴか卵</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kinpika Tamago</title>
+</episode>
+<episode id="99464" update="2010-04-30">
+<epno type="1">3</epno>
+<length>5</length>
+<title xml:lang="ja">白光のライオン</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Hakkou no Lion</title>
+</episode>
+<episode id="99465" update="2010-04-30">
+<epno type="1">2</epno>
+<length>5</length>
+<title xml:lang="ja">豹と虎</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hyou to Tora</title>
+</episode>
+</episodes>
+</anime>

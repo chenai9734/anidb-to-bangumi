@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14638" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>2018-11-16</startdate>
+<enddate>2018-12-11</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Balala Xiaomoxian: Mofa Hai Ying Bao</title>
+<title xml:lang="x-unk" type="synonym">Balala Xiaomoxian 5th Season</title>
+<title xml:lang="en" type="synonym">Balala The Fairies 5 Enchanted Sea Firefly Castle</title>
+<title xml:lang="x-zht" type="synonym">Balala Xiaomoxian Zhi Mofa Hai Ying Bao</title>
+<title xml:lang="zh-Hans" type="official">巴啦啦小魔仙之魔法海萤堡</title>
+</titles>
+<relatedanime>
+<anime id="13702" type="Prequel">Balala Xiaomoxian: Feiyue Cai Ling Bao 2 Choi Li Gongzhu</anime>
+</relatedanime>
+<url>http://balala.auldey.com/</url>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>229851.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://balala.auldey.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Balala_the_Fairies_(series)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>巴拉拉小魔仙</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>巴啦啦小魔仙#第六季角色</identifier>
+</externalentity>
+</resource>
+<resource type="33">
+<externalentity>
+<identifier>巴啦啦小魔仙之魔法海萤堡</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6850" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2020-03-13">
+<name>STAFF MISSING</name>
+<description>This anime is missing staff credits. If you can, please assign staff credits to the anime accordingly and then remove the tag.
+If the tag is set on an anime level, please assign preferably all credits and then remove it from the anime. If that is not feasible, please assign, at a minimum, credits for all the major/key staff and then transfer it to all relevant episodes (broadly speaking, regular episodes and S-type episodes containing animation). If the tag is already set on an episode level, please assign all credits, including minor staff, to the episode and then remove the tag from it.
+Likewise, this tag should either be applied on an anime level, when it is missing key staff (in full or in part), or to all relevant episodes, when key staff is present but at least some episodes don`t have full staff.
+For further information on assigning staff credits, please see http://wiki.anidb.net/Content:Staff_Credits [the AniDB Wiki article on them].</description>
+</tag>
+</tags>
+<characters>
+<character id="109475" type="main character in" update="2020-04-15">
+<name>Na Xiya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246295.jpg</picture>
+</character>
+<character id="109476" type="main character in" update="2020-04-16">
+<name>Ling Haixin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246296.jpg</picture>
+</character>
+<character id="109477" type="main character in" update="2020-04-16">
+<name>Xia Fan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246297.jpg</picture>
+</character>
+<character id="109478" type="secondary cast in" update="2020-04-16">
+<name>Haida Wangzi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246298.jpg</picture>
+</character>
+<character id="109479" type="main character in" update="2020-04-16">
+<name>Xia Fan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246306.jpg</picture>
+</character>
+<character id="109480" type="main character in" update="2020-04-16">
+<name>Ling Haixin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246307.jpg</picture>
+</character>
+<character id="109483" type="main character in" update="2020-04-16">
+<name>Na Xiya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246310.jpg</picture>
+</character>
+<character id="109485" type="secondary cast in" update="2020-04-16">
+<name>Kokuou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246312.jpg</picture>
+</character>
+<character id="109486" type="appears in" update="2020-04-16">
+<name>Dong Dong</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246313.jpg</picture>
+</character>
+<character id="109488" type="secondary cast in" update="2020-04-16">
+<name>Moda Wangzi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246315.jpg</picture>
+</character>
+<character id="109489" type="appears in" update="2020-04-16">
+<name>Nuhai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246316.jpg</picture>
+</character>
+<character id="109490" type="secondary cast in" update="2020-04-16">
+<name>Guo Guo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246321.jpg</picture>
+</character>
+<character id="109491" type="secondary cast in" update="2020-04-16">
+<name>Zhuang Er</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246326.jpg</picture>
+</character>
+<character id="109492" type="appears in" update="2020-04-16">
+<name>Na Xixue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246329.jpg</picture>
+</character>
+<character id="109493" type="secondary cast in" update="2020-04-16">
+<name>Ling Haisha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246330.jpg</picture>
+</character>
+<character id="109500" type="appears in" update="2020-04-17">
+<name>Wei Shu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246340.jpg</picture>
+</character>
+<character id="109501" type="appears in" update="2020-04-17">
+<name>Xia Tao</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246341.jpg</picture>
+</character>
+<character id="109502" type="appears in" update="2020-04-17">
+<name>Ba Shu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246342.jpg</picture>
+</character>
+<character id="109505" type="appears in" update="2020-04-17">
+<name>Bi Xiansheng</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246344.jpg</picture>
+</character>
+<character id="109510" type="appears in" update="2020-04-17">
+<name>Li Ping</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246345.jpg</picture>
+</character>
+<character id="109514" type="appears in" update="2020-04-17">
+<name>Shun Qi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>246351.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="225135" update="2019-12-12">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2018-11-16</airdate>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="zh-Hans">飘流魔法城</title>
+</episode>
+<episode id="225136" update="2019-12-12">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-11-17</airdate>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="zh-Hans">守护海岛</title>
+</episode>
+<episode id="225137" update="2019-12-12">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-11-18</airdate>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="zh-Hans">初见海萤堡</title>
+</episode>
+<episode id="225138" update="2019-12-12">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2018-11-19</airdate>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="zh-Hans">魔达现身</title>
+</episode>
+<episode id="225139" update="2019-12-12">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2018-11-20</airdate>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="zh-Hans">倒霉的海昕</title>
+</episode>
+<episode id="225140" update="2019-12-12">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2018-11-21</airdate>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="zh-Hans">海萤堡的烟火</title>
+</episode>
+<episode id="225141" update="2019-12-12">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2018-11-22</airdate>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="zh-Hans">病染海萤堡</title>
+</episode>
+<episode id="225142" update="2019-12-12">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2018-11-23</airdate>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="zh-Hans">魔法石之谜</title>
+</episode>
+<episode id="225143" update="2019-12-12">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2018-11-24</airdate>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="zh-Hans">冰岚城女王</title>
+</episode>
+<episode id="225144" update="2019-12-12">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2018-11-25</airdate>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="zh-Hans">误会冰释</title>
+</episode>
+<episode id="225145" update="2019-12-12">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2018-11-26</airdate>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="zh-Hans">魔达身份</title>
+</episode>
+<episode id="225146" update="2019-12-12">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2018-11-27</airdate>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="zh-Hans">拯救海萤堡</title>
+</episode>
+<episode id="225147" update="2019-12-12">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2018-11-28</airdate>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="zh-Hans">同心事成</title>
+</episode>
+<episode id="225148" update="2019-12-12">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-11-29</airdate>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="zh-Hans">安宁被扰</title>
+</episode>
+<episode id="225149" update="2019-12-12">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-11-30</airdate>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="zh-Hans">金飞鱼大赛（上）</title>
+</episode>
+<episode id="225150" update="2019-12-12">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-12-01</airdate>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="zh-Hans">金飞鱼大赛（下）</title>
+</episode>
+<episode id="225151" update="2019-12-12">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-12-02</airdate>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="zh-Hans">发现深点</title>
+</episode>
+<episode id="225152" update="2019-12-12">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="zh-Hans">保护海洋</title>
+</episode>
+<episode id="225153" update="2019-12-12">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-12-04</airdate>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="zh-Hans">海洋之情</title>
+</episode>
+<episode id="225154" update="2019-12-12">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-12-05</airdate>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="zh-Hans">冰岚城危机</title>
+</episode>
+<episode id="225155" update="2019-12-12">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-12-06</airdate>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="zh-Hans">深点的疑惑</title>
+</episode>
+<episode id="225156" update="2019-12-12">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-12-07</airdate>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="zh-Hans">希雅的陶笛</title>
+</episode>
+<episode id="225157" update="2019-12-12">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-12-08</airdate>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="zh-Hans">巨鲸的忧伤</title>
+</episode>
+<episode id="225158" update="2019-12-12">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-12-09</airdate>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="zh-Hans">国王再现</title>
+</episode>
+<episode id="225159" update="2019-12-12">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2018-12-10</airdate>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="zh-Hans">女王不冰冷</title>
+</episode>
+<episode id="225160" update="2019-12-12">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2018-12-11</airdate>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="zh-Hans">最后一击</title>
+</episode>
+</episodes>
+</anime>

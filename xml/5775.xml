@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5775" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1979-09-15</startdate>
+<enddate>1979-09-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jean Valjean Monogatari</title>
+<title xml:lang="ja" type="official">ジャン・バルジャン物語</title>
+<title xml:lang="en" type="official">Les Miserables</title>
+<title xml:lang="fr" type="official">Les misérables</title>
+<title xml:lang="ar" type="official">البؤساء</title>
+</titles>
+<relatedanime>
+<anime id="4781" type="Alternative Setting">Les Miserables: Shoujo Cosette</anime>
+</relatedanime>
+<creators>
+<name id="5291" type="Character Design">Suda Masami</name>
+<name id="1421" type="Original Work">Victor Hugo</name>
+<name id="6515" type="Direction">Hisaoka Takashi</name>
+</creators>
+<description>* Based on the story of Jean Valjean and Cosette from Les Misérables by http://anidb.net/cr1421 [Victor Hugo].
+Note: In France, this TV Special was cut in 17 short episodes.</description>
+<ratings>
+<permanent count="11">5.44</permanent>
+<temporary count="11">6.00</temporary>
+</ratings>
+<picture>7978.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3813</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5900</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235410</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17604</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>296</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="38570" type="main character in" update="2011-11-10">
+<name>Jean Valjean</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>76922.jpg</picture>
+<seiyuu id="9472" picture="35045.jpg">Kobayashi Akiji</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="88774" update="2011-10-20">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1979-09-15</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

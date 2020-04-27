@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6767" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2005-09-23</startdate>
+<enddate>2005-09-23</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Byulbyul Iyagi</title>
+<title xml:lang="en" type="synonym">If You Were Me: Anima Vision</title>
+<title xml:lang="ko" type="short">별별 이야기</title>
+<title xml:lang="ko" type="official">별별 이야기 -차별에 대한 유쾌한 풍자-</title>
+</titles>
+<relatedanime>
+<anime id="9264" type="Other">Byulbyul Iyagi 2</anime>
+</relatedanime>
+<description>Six animated shorts about discrimination and being different.
+"Daydream" talks about dealing with people with disability. It homes in on the daily life of a father with a daughter whose hands and feet are deformed.
+"Animal Farm" relies on the rough-and-ready feel of stop-motion clay animation to create a satire of bullying and mob dynamics.
+"At Her House" paints a devastating picture of gender inequality within a marriage.
+"Flesh and Bone" gently pillories superficiality and the obsession with outward appearance.
+"Bicycle Trip" focuses on the discrimination experienced by foreign workers in Korea.
+"Be a Human Being" looks at the way young Koreans are barely treated as human beings before they get to university.</description>
+<ratings>
+<permanent count="24">3.80</permanent>
+<temporary count="24">5.18</temporary>
+</ratings>
+<picture>33140.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7420</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="4171" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-10-06">
+<name>claymation</name>
+<description>Short for clay animation.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6166" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>South Korean production</name>
+<description>See also: http://anidb.net/t6762 [North Korean production]</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="106379" update="2011-10-20">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>2005-09-23</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

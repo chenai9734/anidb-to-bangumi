@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8492" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2009-10-21</startdate>
+<enddate>2009-10-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Organic</title>
+<title xml:lang="ja" type="synonym">オーガニック</title>
+<title xml:lang="ja" type="official">Organic</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Must See" uid="331743">Far better than I`d expected it to be. Pretty cool animation dynamics, awesome american indian music and a well-executed, wordless message.</recommendation>
+</recommendations>
+<creators>
+<name id="49164" type="Music">Iritena</name>
+</creators>
+<description>A small flower gives birth to an unknown creature with an unexpected urge to eat, but it will soon end where it started off.</description>
+<ratings>
+<permanent count="50">3.93</permanent>
+<temporary count="51">5.13</temporary>
+</ratings>
+<picture>73203.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>13519</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=IaWhTJhvqlk</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="130848" update="2011-06-11">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2009-10-21</airdate>
+<title xml:lang="en">ONA</title>
+</episode>
+</episodes>
+</anime>

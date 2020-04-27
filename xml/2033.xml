@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2033" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1998-03-07</startdate>
+<enddate>1998-03-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ginga Tetsudou 999: Eternal Fantasy</title>
+<title xml:lang="ko" type="synonym">은하철도 999: 영원한 판타지</title>
+<title xml:lang="en" type="short">GE999 EF</title>
+<title xml:lang="ja" type="official">銀河鉄道999 エターナルファンタジー</title>
+<title xml:lang="en" type="official">Galaxy Express 999: Eternal Fantasy</title>
+</titles>
+<relatedanime>
+<anime id="765" type="Prequel">Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/movie/999/eternal.html</url>
+<creators>
+<name id="1978" type="Direction">Uda Kounosuke</name>
+<name id="1107" type="Original Work">Matsumoto Reiji</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="2211" type="Character Design">Kagami Takahiro</name>
+<name id="1107" type="Chief Designer">Matsumoto Reiji</name>
+</creators>
+<description>* Based on the story by manga master http://anidb.net/cr1107 [Matsumoto Leiji].
+The story picks up one year after the events of Galaxy Express 999 in which a young boy named Tetsuro and his motherly companion Maetel worked to rid the universe on the Mechanized Empire who had taken over Earth.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="183">5.48</permanent>
+<temporary count="185">6.54</temporary>
+<review count="1">5.33</review>
+</ratings>
+<picture>24032.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>147</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3602</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1402</identifier>
+<identifier>hzufzu</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/movie/999/eternal.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Galaxy_Express_999#Movie_version</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>銀河鉄道999_エターナル・ファンタジー#.E9.8A.80.E6.B2.B3.E9.89.84.E9.81.93999_.E3.82.A8.E3.82.BF.E3.83.BC.E3.83.8A.E3.83.AB.E3.83.BB.E3.83.95.E3.82.A1.E3.83.B3.E3.82.BF.E3.82.B8.E3.83.BC</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2606</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89679</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1621</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2619" parentid="2841" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>gunfights</name>
+<description>Fights where two or more parties are firing guns at one another.</description>
+<picurl>211280.jpg</picurl>
+</tag>
+<tag id="2626" parentid="2612" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2639" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space travel</name>
+<description>Space Travel usually refers going to space or travelling there with or without a spacecraft. There are different forms of space travel like Interplanetary travel, Interstellar travel or Intergalactic travel. Since it isn`t possible to travel faster than light, most anime series involve some sort "sub-space travel mechanism" as a way to travel faster than light.</description>
+<picurl>242375.jpg</picurl>
+</tag>
+<tag id="2660" parentid="2627" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>other planet</name>
+<description>The anime will fit this category if some or all of the action takes place on another planet which is supposedly in the same universe as Earth, not a complete fantasy world; usually there has to be some concept of space travel. The Latin name for Earth - Terra, would also pass the condition of being in the same universe as Earth. Basically, even mentioning of Earth existing or having existed would be enough. Although Moon is a moon, it also qualifies as Other Planet.</description>
+</tag>
+<tag id="2661" parentid="2627" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>shipboard</name>
+<description>Beam me up, Scotty! Space stations (think Death Star) also count. Basically, this category is to tell if the setting takes place onboard a spaceship in space. This category is not applicable if the spaceship lies on a planet and never actually gets into space.</description>
+</tag>
+<tag id="2750" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="2087" type="secondary cast in" update="2009-11-03">
+<rating votes="318">9.03</rating>
+<name>Captain Harlock</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Harlock is the archetypical romantic hero, a space pirate with an individualist philosophy of life. He is as noble as he is taciturn, rebellious, stoically fighting against totalitarian regimes, whether they be earthborn or alien. In his own words, he "fight(s) for no one`s sake... only for something deep in (his) heart".
+(Wikipedia)</description>
+<picture>2364.png</picture>
+</character>
+<character id="2493" type="main character in" update="2014-12-13">
+<rating votes="434">8.57</rating>
+<name>Maetel</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>The daughter of Queen Prometheum, ruler of a mechanised empire.</description>
+<picture>38136.jpg</picture>
+<seiyuu id="3703" picture="151656.jpg">Ikeda Masako</seiyuu>
+</character>
+<character id="12667" type="main character in" update="2013-02-28">
+<rating votes="64">4.76</rating>
+<name>Hoshino Tetsurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tetsuro Hoshino is a young boy who was born on Earth into poverty, and who wants nothing more than a machine body. He also wants revenge on Count Mecha, an evil man who was given a machine body and now hunts humans for sport, for killing his mother. As a street urchin, Tetsuro has no means to buy a machine body. However, he has heard that at the end of the Andromeda Galaxy, there exists a planet where such robot bodies are given away for free. All Tetsuro needs to do is get a pass on the Galaxy Express 999, the cosmic railway. And one day, Tetsuro meets the mysterious Maetel, who promises to give him her unlimited use pass for the Express on the condition that she be his travelling companion. Tetsuro happily agrees, and embarks with Maetel on an adventure across the stars. When Tetsuro starts out, he is every bit the whiny, immature, selfish child. However, the adventures he goes with Maetel on, the people he meets, and the sights he witnesses cause Tetsuro to slowly but truly grow into a strong, young man. Tetsuro also grows closer and closer to Maetel, and although the nature of their relationship might not be called romantic, they form a very strong bond of love. Though it is never explicitly stated, it is implied that Tetsuro is Captain Harlock`s son. The evidence for this includes Tetsuro`s mother saying that his father is alive but away for some reason, Captain Harlock`s mysterious attachment to Tetsuro, and simple physical resemblance.</description>
+<picture>38140.jpg</picture>
+<seiyuu id="386" picture="187997.jpg">Nozawa Masako</seiyuu>
+</character>
+<character id="12668" type="secondary cast in" update="2009-10-31">
+<rating votes="21">7.54</rating>
+<name>Claire</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>The dining car waitress on the 999, Claire has a machine body made of clear crystal glass. Unlike others who gave up their humanity by choice, Claire was forced into this existence by her vain mother. She works on the 999 in order to save up enough money to buy back her human body, which is stored on Pluto.</description>
+<picture>38141.jpg</picture>
+<seiyuu id="352" picture="17191.jpg">Minaguchi Yuuko</seiyuu>
+</character>
+<character id="12669" type="secondary cast in" update="2009-10-31">
+<rating votes="66">5.55</rating>
+<name>Shashou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>The main crew member of the Galaxy Express 999. He is an alien being with an invisible body; only his eyes can be seen while he is wearing his conductor uniform. The Conductor prefers to go `strictly by the book` and frequently cites the Galaxy Express rule book, but occasionally ends up bending the rules and getting into adventures with Tetsurou and Maetel.</description>
+<picture>38142.jpg</picture>
+<seiyuu id="3285" picture="193568.jpg">Kimotsuki Kaneta</seiyuu>
+</character>
+<character id="12679" type="appears in" update="2009-10-31">
+<rating votes="9">7.70</rating>
+<name>Arcadia</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>38153.jpg</picture>
+</character>
+<character id="12680" type="appears in" update="2009-10-31">
+<rating votes="4">6.41</rating>
+<name>Queen Emeraldas</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>38154.jpg</picture>
+</character>
+<character id="12681" type="appears in" update="2009-10-31">
+<rating votes="5">7.41</rating>
+<name>999</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>38155.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="20187" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1998-03-07</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

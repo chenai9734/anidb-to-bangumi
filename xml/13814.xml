@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13814" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2011-07-11</startdate>
+<enddate>2011-07-11</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Tu Xia Chuanqi</title>
+<title xml:lang="en" type="synonym">Legend of a Rabbit</title>
+<title xml:lang="zh" type="official">兔侠传奇</title>
+<title xml:lang="de" type="official">Die Legende des Kung Fu Kaninchens</title>
+</titles>
+<relatedanime>
+<anime id="13815" type="Sequel">Tu Xia: Qing Li Chuanshuo</anime>
+</relatedanime>
+<description>Fu, a dopey rabbit, is telepathically given the ultimate kung fu power after rescuing Shifu, a martial arts master, from a fatal attack with the promise that he, Fu, would return the martial arts academy tablet to his, Shifu`s daughter, Penny. While on his journey to the academy thieves ambush Fu and unbeknownst to him he is rescued by Penny. As they become traveling companions they arrive at the academy only to learn it has been taken over by the evil Slash. As Penny takes Slash on in a kung fu showdown to get back her father`s academy Fu will reveal his power and take Slash down while fulfilling his promise.
+Source: Official YouTube</description>
+<ratings>
+<permanent count="14">3.38</permanent>
+<temporary count="14">3.78</temporary>
+</ratings>
+<picture>213086.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32889</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Legend_of_a_Rabbit</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2282" parentid="2841" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2857" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="196985" update="2018-03-10">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2011-07-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="227788" update="2020-03-30">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Trailer (1:30)</title>
+</episode>
+<episode id="227789" update="2020-03-30">
+<epno type="4">T2</epno>
+<length>2</length>
+<title xml:lang="en">Trailer (2:00)</title>
+</episode>
+</episodes>
+</anime>

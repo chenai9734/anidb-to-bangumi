@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12381" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2017-03-17</startdate>
+<enddate>2017-05-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Days (2017)</title>
+<title xml:lang="ja" type="official">DAYS (2017)</title>
+<title xml:lang="zh-Hans" type="official">DAYS OAD</title>
+</titles>
+<relatedanime>
+<anime id="11875" type="Prequel">Days</anime>
+</relatedanime>
+<description>Note: Bundled with limited editions of the 21th and 22th volumes of the Days manga.</description>
+<ratings>
+<permanent count="19">4.41</permanent>
+<temporary count="20">5.75</temporary>
+</ratings>
+<picture>190937.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19892</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34008</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366100</identifier>
+</externalentity>
+<externalentity>
+<identifier>366101</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="180038" update="2018-11-10">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2017-05-17</airdate>
+<title xml:lang="ja">秘密のサイコロトーク編</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Himitsu no Saikoro Talk Hen</title>
+</episode>
+<episode id="180039" update="2018-11-10">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2017-03-17</airdate>
+<title xml:lang="ja">ビーチサッカー・オールスター戦開幕!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Beach Soccer All-star Sen Kaimaku!</title>
+</episode>
+</episodes>
+</anime>

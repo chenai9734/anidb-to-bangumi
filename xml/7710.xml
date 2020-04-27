@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7710" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1991-08-16</startdate>
+<enddate>1991-08-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Huckleberry no Bouken (1991)</title>
+<title xml:lang="ja" type="official">ハックルベリィの冒険 (1991)</title>
+</titles>
+<relatedanime>
+<anime id="3388" type="Full Story">Huckleberry no Bouken</anime>
+</relatedanime>
+<creators>
+<name id="7910" type="Direction">Kohanawa Tameo</name>
+<name id="4985" type="Direction">Higuchi Masakazu</name>
+<name id="5587" type="Direction">Mitsunobu Hiroyoshi</name>
+<name id="6002" type="Music">Koshibe Nobuyoshi</name>
+<name id="6174" type="Original Work">Mark Twain</name>
+</creators>
+<ratings>
+<permanent count="2">8.07</permanent>
+<temporary count="2">5.50</temporary>
+</ratings>
+<picture>52017.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7273</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>19957</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3091</identifier>
+<identifier>urhdvd</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151471</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2690</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120186" update="2010-07-22">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1991-08-16</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

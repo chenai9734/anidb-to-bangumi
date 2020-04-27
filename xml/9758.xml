@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9758" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2012-07</startdate>
+<enddate>2012-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ikitaku Naru Omise Hen</title>
+<title xml:lang="ja" type="official">行きたくなるお店編</title>
+</titles>
+<relatedanime>
+<anime id="8495" type="Other">Ajisai Hen</anime>
+<anime id="8497" type="Other">Sora Hen</anime>
+<anime id="8498" type="Other">Hana Hen</anime>
+<anime id="8592" type="Other">Hoshi Hen</anime>
+<anime id="9755" type="Other">Hassou Hen</anime>
+<anime id="9757" type="Other">Kasa Hen</anime>
+</relatedanime>
+<url>http://www.kyotoanimation.co.jp/company/cm/shop/</url>
+<creators>
+<name id="528" type="Character Design">Horiguchi Yukiko</name>
+<name id="736" type="Animation Work">Kyoto Animation</name>
+</creators>
+<description>*A CM designed by http://anidb.net/cr528 [Horiguchi Yukiko], directed by http://anidb.net/cr519 [Ishihara Tatsuya] and produced at http://anidb.net/cr736 [Kyoto Animation].</description>
+<ratings>
+<permanent count="205">4.68</permanent>
+<temporary count="205">5.62</temporary>
+</ratings>
+<picture>133426.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17791</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.kyotoanimation.co.jp/company/cm/shop/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2857" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="60132" type="main character in" update="2013-10-01">
+<rating votes="1">7.45</rating>
+<name>Onnanoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>143730.jpg</picture>
+<seiyuu id="24092" picture="148715.jpg">Furuya Shizuka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="154440" update="2013-10-01">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">CM</title>
+</episode>
+</episodes>
+</anime>

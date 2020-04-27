@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5037" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1980-08-12</startdate>
+<enddate>1980-08-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Marine Snow no Densetsu</title>
+<title xml:lang="en" type="synonym">The Legend of Marine Snow</title>
+<title xml:lang="ja" type="official">マリンスノーの伝説</title>
+</titles>
+<similaranime>
+<anime id="4746" approval="1" total="2">Sango Shou Densetsu: Aoi Umi no Elfie</anime>
+<anime id="732" approval="1" total="2">Submarine Super 99</anime>
+</similaranime>
+<recommendations total="1">
+<recommendation type="Recommended" uid="220389">Bit different from the usual space stuff. It`s a good watch nontheless.</recommendation>
+</recommendations>
+<creators>
+<name id="1107" type="Original Work">Matsumoto Reiji</name>
+<name id="1107" type="Direction">Matsumoto Reiji</name>
+<name id="1107" type="Chief Designer">Matsumoto Reiji</name>
+</creators>
+<ratings>
+<permanent count="14">6.32</permanent>
+<temporary count="14">5.96</temporary>
+</ratings>
+<picture>11892.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9726</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6942</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>マリンスノーの伝説</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235548</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2476</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>1185</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="71727" update="2010-04-17">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>1980-08-12</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

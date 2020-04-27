@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13897" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2018-04-10</startdate>
+<enddate>2018-06-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ladyspo</title>
+<title xml:lang="ja" type="official">レディスポ</title>
+<title xml:lang="ko" type="official">레이디스포</title>
+<title xml:lang="zh-Hans" type="official">Lady Sport</title>
+</titles>
+<creators>
+<name id="15262" type="Direction">Kimura Hiroshi</name>
+<name id="46950" type="Character Design">Kita Natsuki</name>
+<name id="15262" type="Series Composition">Kimura Hiroshi</name>
+</creators>
+<ratings>
+<permanent count="45">1.35</permanent>
+<temporary count="48">2.52</temporary>
+</ratings>
+<picture>221918.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20739</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37448</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Ladyspo</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>レディスポ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4925</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363623</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>LaDySp2018</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="100012" type="main character in" update="2018-12-29">
+<rating votes="2">8.60</rating>
+<name>Arigetti</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228298.jpg</picture>
+<seiyuu id="57060" picture="228299.jpg">Shimada Saki</seiyuu>
+</character>
+<character id="100013" type="main character in" update="2018-12-29">
+<name>Korupi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228300.jpg</picture>
+<seiyuu id="46510" picture="232193.jpg">Uehara Akari</seiyuu>
+</character>
+<character id="100014" type="main character in" update="2018-12-29">
+<name>Sabina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228301.jpg</picture>
+<seiyuu id="10853" picture="232196.jpg">Kinoshita Suzuna</seiyuu>
+</character>
+<character id="100015" type="secondary cast in" update="2018-12-29">
+<rating votes="1">6.08</rating>
+<name>Mary</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228302.jpg</picture>
+<seiyuu id="22169" picture="58225.jpg">Kusuda Aina</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="197879" update="2018-04-24">
+<epno type="1">4</epno>
+<length>4</length>
+<airdate>2018-05-01</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">プラクティス</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Practice</title>
+</episode>
+<episode id="197880" update="2018-04-24">
+<epno type="1">3</epno>
+<length>4</length>
+<airdate>2018-04-24</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">ローナ</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Rouna</title>
+</episode>
+<episode id="197881" update="2018-04-24">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2018-04-17</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">レイダー</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Reidaa</title>
+</episode>
+<episode id="197882" update="2018-04-24">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2018-04-10</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">キャント</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kyanto</title>
+</episode>
+<episode id="198474" update="2018-04-24">
+<epno type="1">8</epno>
+<length>4</length>
+<airdate>2018-05-29</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">ライバル</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Rival</title>
+</episode>
+<episode id="198475" update="2018-04-24">
+<epno type="1">7</epno>
+<length>4</length>
+<airdate>2018-05-22</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">ビーム</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Beam</title>
+</episode>
+<episode id="198476" update="2018-04-24">
+<epno type="1">6</epno>
+<length>4</length>
+<airdate>2018-05-15</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">ダブルウィナー</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Double Winner</title>
+</episode>
+<episode id="198477" update="2018-04-24">
+<epno type="1">5</epno>
+<length>4</length>
+<airdate>2018-05-08</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">キスアンドクライ</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Kiss and Cry</title>
+</episode>
+<episode id="200505" update="2018-05-29">
+<epno type="1">12</epno>
+<length>4</length>
+<airdate>2018-06-26</airdate>
+<title xml:lang="ja">ファイナル</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Final</title>
+</episode>
+<episode id="200506" update="2018-05-29">
+<epno type="1">11</epno>
+<length>4</length>
+<airdate>2018-06-19</airdate>
+<title xml:lang="ja">リベンジ</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Revenge</title>
+</episode>
+<episode id="200507" update="2018-05-29">
+<epno type="1">10</epno>
+<length>4</length>
+<airdate>2018-06-12</airdate>
+<title xml:lang="ja">ゼロゾーン</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Zero Zone</title>
+</episode>
+<episode id="200508" update="2018-05-29">
+<epno type="1">9</epno>
+<length>4</length>
+<airdate>2018-06-05</airdate>
+<rating votes="1">8.15</rating>
+<title xml:lang="ja">トリプルスレット</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Triple Threat</title>
+</episode>
+</episodes>
+</anime>

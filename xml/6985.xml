@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6985" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1979-07-01</startdate>
+<enddate>1979-07-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ashita no Eleven-tachi</title>
+<title xml:lang="ja" type="synonym">あしたの勇者たち</title>
+<title xml:lang="en" type="synonym">Tomorrow`s Eleven</title>
+<title xml:lang="it" type="synonym">Undici campioni</title>
+<title xml:lang="es" type="synonym">Once jóvenes</title>
+<title xml:lang="ja" type="official">あしたの勇者(イレブン)たち</title>
+<title xml:lang="en" type="official">Young Eleven</title>
+<title xml:lang="it" type="official">11 campioni</title>
+<title xml:lang="es" type="official">Once pares de botas juveniles</title>
+</titles>
+<similaranime>
+<anime id="505" approval="2" total="2">Captain Tsubasa</anime>
+<anime id="1850" approval="1" total="1">Akakichi no Eleven</anime>
+</similaranime>
+<creators>
+<name id="4404" type="Direction">Morishita Kouzou</name>
+</creators>
+<description>A boy from the farm with amazing running speed is asked to join a newly formed national soccer team and discovers a natural talent for the game. The movie is inspired by Japan`s hosting of the world soccer championships that year.</description>
+<ratings>
+<permanent count="12">3.79</permanent>
+<temporary count="12">4.58</temporary>
+</ratings>
+<picture>169995.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>13947</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>あしたの勇者たち</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235159</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4425</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>289</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="997" parentid="2881" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>association football</name>
+<description>Football is a sport that involves kicking a ball in order to score a goal, while the other team tries to stop you by kicking the ball in the other direction to score a goal of their own. In the United States, this sport is known as soccer; the inappropriately titled "American" football (which in fact is played with the egg-shaped "ball" being carried around) is some kind of rugby for babies.</description>
+<picurl>40031.jpg</picurl>
+</tag>
+<tag id="2439" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-16">
+<name>PIC NEEDS IMPROVEMENT</name>
+<description>This entry has a poor picture and needs to have it replaced by a higher-quality alternative. Causes may include: it is too small; its colours or lighting are bad; it has excessive compression or other encoding issues; it is from non-anime sources (anime/char); the face is hard to see (char/creator); the hair/eye/skin colours do not match the anime (char); it does not represent their usual appearance (char); among others. If you can, please swap a better picture in and remove this tag. Thank you.</description>
+<picurl>224875.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="108274" update="2009-09-05">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1979-07-01</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

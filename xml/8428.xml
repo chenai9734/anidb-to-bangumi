@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8428" restricted="false">
+<type>TV Series</type>
+<episodecount>1</episodecount>
+<startdate>2011-03-25</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Shiawase Haitatsu Taneko</title>
+<title xml:lang="ja" type="official">しあわせ配達タネコ</title>
+</titles>
+<url>http://www.ytv.co.jp/taneko/index.html</url>
+<description>The story is centered around a cat who delivers happiness and grants people wishes (Tane and neko are the Japanese words for seed and cat, respectively).</description>
+<picture>6281.png</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14173</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10506</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ytv.co.jp/taneko/index.html</url>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/2806</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>2011/taneko</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="130192" update="2011-05-19">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2011-03-25</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

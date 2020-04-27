@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="714" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2003-02-02</startdate>
+<enddate>2004-01-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Crush Gear Nitro</title>
+<title xml:lang="x-jat" type="synonym">Crash Gear Nitro</title>
+<title xml:lang="ja" type="official">クラッシュギアNitro</title>
+</titles>
+<relatedanime>
+<anime id="2322" type="Prequel">Gekitou! Crush Gear Turbo</anime>
+</relatedanime>
+<url>http://www.crushgear-nitro.net/</url>
+<creators>
+<name id="726" type="Animation Work">Sunrise</name>
+<name id="4296" type="Series Composition">Yamaguchi Ryouta</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="4999" type="Direction">Amino Tetsurou</name>
+<name id="2500" type="Music">Negishi Takayuki</name>
+<name id="43247" type="Animation Character Design">Asakura Santa</name>
+</creators>
+<description>In the future not far from the present, the game Crash Gear becomes popular on the streets after its first debut.
+http://anidb.net/ch32871 [Mahha Masuru], a cheerful boy in elementary school grade five, has taken a liking to Crash Gear ever since he moved homes. Playing the game, Mahha encounters various other players such as a young girl named http://anidb.net/ch32876 [Maeda Natsumi], a Gear shop owner http://anidb.net/ch32878 [Fujiwara Ginjirou], and a young boy named http://anidb.net/ch32874 [Kouda Takeshi]. With this, he begins his journey to become a Gear Fighter.
+His goal is to fight with players from the promotional development group Sanama Laboratory like http://anidb.net/ch32872 [Akusawa Yuu] and the mysterious Elite Gear organization known as ZET.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="20">2.90</permanent>
+<temporary count="20">5.05</temporary>
+</ratings>
+<picture>230008.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>40</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7048</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1165</identifier>
+<identifier>fffmsw</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sunrise-inc.co.jp/work/detail.php?cid=158</url>
+</externalentity>
+<externalentity>
+<url>http://www.crushgear-nitro.net/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>クラッシュギアNitro</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>25</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>240806</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="32871" type="main character in" update="2011-05-29">
+<name>Mahha Masaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72465.jpg</picture>
+<seiyuu id="38419" picture="141689.jpg">Nakayama Eriko</seiyuu>
+</character>
+<character id="32872" type="secondary cast in" update="2011-05-29">
+<name>Akusawa Yuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72466.jpg</picture>
+<seiyuu id="214" picture="238138.jpg">Nojima Hirofumi</seiyuu>
+</character>
+<character id="32873" type="main character in" update="2011-05-29">
+<name>Okita Hidetoshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72467.jpg</picture>
+<seiyuu id="4422" picture="228398.jpg">Iida Toshinobu</seiyuu>
+</character>
+<character id="32874" type="secondary cast in" update="2011-05-29">
+<name>Kouda Takeshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72468.jpg</picture>
+<seiyuu id="5626" picture="29921.jpg">Fujimoto Takayuki</seiyuu>
+</character>
+<character id="32875" type="secondary cast in" update="2011-05-29">
+<name>T.B</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72469.jpg</picture>
+<seiyuu id="82" picture="216596.jpg">Asakawa Yuu</seiyuu>
+</character>
+<character id="32876" type="secondary cast in" update="2011-05-29">
+<name>Maeda Natsumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72470.jpg</picture>
+<seiyuu id="216" picture="171983.jpg">Takahashi Mikako</seiyuu>
+</character>
+<character id="32877" type="secondary cast in" update="2011-05-29">
+<name>Z.D</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72471.jpg</picture>
+<seiyuu id="1441" picture="18827.jpg">Tsuboi Tomohiro</seiyuu>
+</character>
+<character id="32878" type="secondary cast in" update="2011-05-29">
+<name>Fujiwara Ginjirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72472.jpg</picture>
+<seiyuu id="2021" picture="187129.jpg">Tsuji Shinpachi</seiyuu>
+</character>
+<character id="32879" type="secondary cast in" update="2011-05-29">
+<name>Mahha Makoto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72473.jpg</picture>
+<seiyuu id="1436" picture="18822.jpg">Takagi Reiko</seiyuu>
+</character>
+<character id="32880" type="secondary cast in" update="2011-05-29">
+<name>Mahha Mai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72474.jpg</picture>
+<seiyuu id="158" picture="38198.jpg">Neya Michiko</seiyuu>
+</character>
+<character id="32881" type="secondary cast in" update="2011-05-29">
+<name>Sanama Sanpei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72475.jpg</picture>
+<seiyuu id="4916" picture="33317.jpg">Haramaki Kouji</seiyuu>
+</character>
+<character id="32882" type="secondary cast in" update="2011-05-29">
+<name>Field Ya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72476.jpg</picture>
+<seiyuu id="340" picture="17176.jpg">Yabe Masahito</seiyuu>
+</character>
+<character id="32883" type="secondary cast in" update="2011-05-29">
+<name>M.U</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72477.jpg</picture>
+<seiyuu id="52" picture="19811.jpg">Takahashi Hiroki</seiyuu>
+</character>
+<character id="32884" type="secondary cast in" update="2011-05-29">
+<name>Q.T</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72478.jpg</picture>
+<seiyuu id="1917" picture="151688.jpg">Natsuki Rio</seiyuu>
+</character>
+<character id="32885" type="secondary cast in" update="2011-05-29">
+<name>J.C</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72479.jpg</picture>
+<seiyuu id="340" picture="17176.jpg">Yabe Masahito</seiyuu>
+</character>
+<character id="32886" type="secondary cast in" update="2011-05-29">
+<name>K.N</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72480.jpg</picture>
+<seiyuu id="214" picture="238138.jpg">Nojima Hirofumi</seiyuu>
+</character>
+<character id="32887" type="secondary cast in" update="2011-05-29">
+<name>Leon</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72481.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="29554" update="2007-03-15">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2003-10-12</airdate>
+<title xml:lang="ja">森の用心棒</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Mori no Youjinbou</title>
+</episode>
+<episode id="29555" update="2007-03-15">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2003-08-17</airdate>
+<title xml:lang="ja">熱戦! ギアトライアスロン</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Nessen! Gear Triathlon</title>
+</episode>
+<episode id="29556" update="2007-03-15">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2003-02-16</airdate>
+<title xml:lang="ja">覚醒! マッハジャスティス</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Kakusei! Mach Justice</title>
+</episode>
+<episode id="29557" update="2007-03-15">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2004-01-11</airdate>
+<title xml:lang="ja">ギア・バトルロイヤル</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Gear Battle Royal</title>
+</episode>
+<episode id="29558" update="2007-03-15">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2003-03-23</airdate>
+<title xml:lang="ja">特訓! I・O・D</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Tokkun! I-O-D</title>
+</episode>
+<episode id="29559" update="2007-03-15">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2003-10-19</airdate>
+<title xml:lang="ja">地底からの挑戦</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Chitei kara no Chousen</title>
+</episode>
+<episode id="29560" update="2007-03-15">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2003-11-30</airdate>
+<title xml:lang="ja">運命の兄弟対決</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Unmei no Kyoudai Taiketsu</title>
+</episode>
+<episode id="29561" update="2007-03-15">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2003-09-21</airdate>
+<title xml:lang="ja">新たなる黒の王</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Aratanaru Kuro no Ou</title>
+</episode>
+<episode id="29562" update="2007-03-15">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2003-11-02</airdate>
+<title xml:lang="ja">なつみ, 涙の猛特訓</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Natsumi, Namida no Moutokkun</title>
+</episode>
+<episode id="29563" update="2007-03-15">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2003-02-09</airdate>
+<title xml:lang="ja">ヒデの逆襲!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hide no Gyakushuu!</title>
+</episode>
+<episode id="29564" update="2007-03-15">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2003-07-13</airdate>
+<title xml:lang="ja">ニトロ激突! KN対勝!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Nitro Gekitotsu! KN tai Masaru!</title>
+</episode>
+<episode id="29565" update="2007-03-15">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2003-02-23</airdate>
+<title xml:lang="ja">謎の少年 TB</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Nazo no Shounen: TB</title>
+</episode>
+<episode id="29566" update="2007-03-15">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2003-08-03</airdate>
+<title xml:lang="ja">勝の復活!!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Masaru no Fukkatsu!!</title>
+</episode>
+<episode id="29567" update="2007-03-15">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2003-06-22</airdate>
+<title xml:lang="ja">ZET四天王襲来!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">ZET Shitennou Shuurai!</title>
+</episode>
+<episode id="29568" update="2007-03-15">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2003-11-23</airdate>
+<title xml:lang="ja">狼の孤独</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Ookami no Kodoku</title>
+</episode>
+<episode id="29569" update="2007-03-15">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2004-01-18</airdate>
+<title xml:lang="ja">3強激突! 最後の決戦!!!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">3-kyou Gekitotsu! Saigo no Kessen!!!</title>
+</episode>
+<episode id="29570" update="2007-03-15">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2003-08-31</airdate>
+<title xml:lang="ja">古城の亡霊</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Kojou no Bourei</title>
+</episode>
+<episode id="29571" update="2007-03-15">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2004-01-25</airdate>
+<title xml:lang="ja">風(ニトロ)の彼方へ</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Nitro no Kanata e</title>
+</episode>
+<episode id="29572" update="2007-03-15">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2003-03-02</airdate>
+<title xml:lang="ja">ジュリエットを探せ!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Juliet o Sagase!</title>
+</episode>
+<episode id="29573" update="2007-03-15">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2003-08-24</airdate>
+<title xml:lang="ja">ヒデは守り神!?</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Hide wa Mamorigami!?</title>
+</episode>
+<episode id="29574" update="2007-03-15">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2003-09-28</airdate>
+<title xml:lang="ja">入魂! マッハヴィクトリー</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Nyuukon! Mach Victory</title>
+</episode>
+<episode id="29575" update="2007-03-15">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2003-11-16</airdate>
+<title xml:lang="ja">マルコの真実</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Marco no Shinjitsu</title>
+</episode>
+<episode id="29576" update="2007-03-15">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2003-12-21</airdate>
+<title xml:lang="ja">さよならTB</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Sayonara TB</title>
+</episode>
+<episode id="29577" update="2007-03-15">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2003-10-05</airdate>
+<title xml:lang="ja">ギアファイター・誠!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Gear Fighter Makoto!</title>
+</episode>
+<episode id="29578" update="2007-03-15">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2003-12-14</airdate>
+<title xml:lang="ja">ゼロの境地</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Zero no Kyouchi</title>
+</episode>
+<episode id="29579" update="2007-03-15">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2003-03-16</airdate>
+<title xml:lang="ja">留守番パニック</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Rusuban Panic</title>
+</episode>
+<episode id="29580" update="2007-03-15">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2003-06-01</airdate>
+<title xml:lang="ja">幻のギアファイター</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Maboroshi no Gear Fighter</title>
+</episode>
+<episode id="29581" update="2007-03-15">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2003-06-08</airdate>
+<title xml:lang="ja">潜入者は誰だ!?</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Sennyuusha wa Dare Da!?</title>
+</episode>
+<episode id="29582" update="2007-03-15">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2004-01-04</airdate>
+<title xml:lang="ja">頂上決戦! 由宇対勝</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Choujou Kessen! Yuu tai Masaru</title>
+</episode>
+<episode id="29583" update="2007-03-15">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2003-02-02</airdate>
+<title xml:lang="ja">聞け! ギアの鼓動を!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kike! Gear no Kodou o!</title>
+</episode>
+<episode id="29584" update="2007-03-15">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2003-07-20</airdate>
+<title xml:lang="ja">TBの決意</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">TB no Ketsui</title>
+</episode>
+<episode id="29585" update="2007-03-15">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2003-04-27</airdate>
+<title xml:lang="ja">動き出した影</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Ugokidashita Kage</title>
+</episode>
+<episode id="29586" update="2007-03-15">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2003-06-29</airdate>
+<title xml:lang="ja">突入! ZET学園</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Totsunyuu! ZET Gakuen</title>
+</episode>
+<episode id="29587" update="2007-03-15">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2003-11-09</airdate>
+<title xml:lang="ja">世界大会のゆくえ</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Sekai Taikai no Yukue</title>
+</episode>
+<episode id="29588" update="2007-03-15">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2003-03-30</airdate>
+<title xml:lang="ja">ギアファイト禁止令</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Gear Fight Kinshirei</title>
+</episode>
+<episode id="29589" update="2007-03-15">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2003-07-27</airdate>
+<title xml:lang="ja">ウルフ対ジャガー</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Wolf tai Jaguar</title>
+</episode>
+<episode id="29590" update="2007-03-15">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2003-05-18</airdate>
+<title xml:lang="ja">国府田がんばる!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Kouda Ganbaru!</title>
+</episode>
+<episode id="29591" update="2007-03-15">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2003-09-07</airdate>
+<title xml:lang="ja">海の上のギアファイター</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Umi no Ue no Gear Fighter</title>
+</episode>
+<episode id="29592" update="2007-03-15">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2003-12-07</airdate>
+<title xml:lang="ja">キングカイザーの宿命</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">King Kaizer no Shukumei</title>
+</episode>
+<episode id="29593" update="2007-03-15">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2003-08-10</airdate>
+<title xml:lang="ja">世界大会開幕!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Sekai Taikai Kaimaku!</title>
+</episode>
+<episode id="29594" update="2007-03-15">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2003-05-04</airdate>
+<title xml:lang="ja">ZETの刺客</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">ZET no Shikaku</title>
+</episode>
+<episode id="29595" update="2007-03-15">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2003-05-11</airdate>
+<title xml:lang="ja">恐怖のジャマーフィールド!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Kyoufu no Jammer Field!</title>
+</episode>
+<episode id="29596" update="2007-03-15">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2003-09-14</airdate>
+<title xml:lang="ja">進化! ヘビースパイクF(フォース)</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Shinka! Heavy Spike Force</title>
+</episode>
+<episode id="29597" update="2007-03-15">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2003-04-20</airdate>
+<title xml:lang="ja">決戦! 由宇vs勝</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kessen! Yuu vs. Masaru</title>
+</episode>
+<episode id="29598" update="2007-03-15">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2003-12-28</airdate>
+<title xml:lang="ja">ヒデ, 最後の戦い</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Hide, Saigo no Tatakai</title>
+</episode>
+<episode id="29599" update="2007-03-15">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2003-04-13</airdate>
+<title xml:lang="ja">白熱! ギア甲子園</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Hakunetsu! Gear Koushien</title>
+</episode>
+<episode id="29600" update="2007-03-15">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2003-04-06</airdate>
+<title xml:lang="ja">嵐のギアクラブ</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Arashi no Gear Club</title>
+</episode>
+<episode id="29601" update="2007-03-15">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2003-03-09</airdate>
+<title xml:lang="ja">追え! キングシュバルツ</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Oe! King Schwarz</title>
+</episode>
+<episode id="29602" update="2007-03-15">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2003-10-26</airdate>
+<title xml:lang="ja">ふたりのアロラ?</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Futari no Alora?</title>
+</episode>
+<episode id="29603" update="2007-03-15">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2003-05-25</airdate>
+<title xml:lang="ja">奪われたサンダーブレイカー</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Ubawareta Thunder Breaker</title>
+</episode>
+</episodes>
+</anime>

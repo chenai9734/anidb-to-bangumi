@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8422" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2009-11-26</startdate>
+<enddate>2009-11-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Aisubeki Mirai e</title>
+<title xml:lang="ja" type="official">愛すべき未来へ</title>
+</titles>
+<description>Animated music video for http://anidb.net/cr17913 [Exile]`s "Aisubeki Mirai e".</description>
+<ratings>
+<permanent count="110">5.63</permanent>
+<temporary count="111">6.02</temporary>
+</ratings>
+<picture>71865.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7659</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Aisubeki_Mirai_e</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=nAXw68f6lOI</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="130180" update="2016-10-21">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>2009-11-26</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12558" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2017-01-04</startdate>
+<enddate>2017-03-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nanbaka (2017)</title>
+<title xml:lang="en" type="synonym">The Numbers (2017)</title>
+<title xml:lang="x-jat" type="synonym">Nambaka (2017)</title>
+<title xml:lang="ja" type="official">ナンバカ (2017)</title>
+<title xml:lang="en" type="official">Nanbaka (2017)</title>
+<title xml:lang="x-kot" type="official">난바카 (2017)</title>
+</titles>
+<relatedanime>
+<anime id="11075" type="Prequel">Nanbaka</anime>
+</relatedanime>
+<recommendations total="1">
+<recommendation type="Must See" uid="794914">What Nanbaka pretends to be is just a silly light-hearted comedy in a world of crazy designs for the sake of it.
+Yeah sure, but what the hell are these well-thought-out and well-animated action scenes, actually interesting characters, a completely decent plot and nice dialogues doing here, then? I came here just to get a few laughs, why on Earth am I now feeling... interested? Invested even? Why do things feel just BIZARRE and never STUPID? Seriously, the only major complaint I have about this show is, well, the lack of Season 3, that we`re probably never going to get from the looks of it.</recommendation>
+</recommendations>
+<url>http://nanbaka.tv/</url>
+<creators>
+<name id="1043" type="Animation Work">Satelight</name>
+<name id="18386" type="Character Design">Toya Kento</name>
+<name id="7370" type="Series Composition">Hirota Mitsutaka</name>
+<name id="45734" type="Original Work">Futamata Shou</name>
+<name id="113" type="Direction">Takamatsu Shinji</name>
+<name id="2752" type="Music">Fujisawa Kenji</name>
+</creators>
+<description>Four men are assigned to Nanba, the world`s most formidable prison. Jyugo, a man who attempted to break out of prison and ended up extending his jail time; Uno, a man who likes to gamble with women; Rock, a man who likes to get into fights; and Nico, a man who likes anime. A super exciting action comedy about the daily lives of the prison`s inmates and guards.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="336">4.69</permanent>
+<temporary count="340">6.43</temporary>
+</ratings>
+<picture>194988.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18956</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34414</identifier>
+</externalentity>
+<externalentity>
+<identifier>34533</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://nanbaka.tv/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Nanbaka</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ナンバカ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4460</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358879</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07HKYQFP1</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="81903" type="main character in" update="2016-10-13">
+<rating votes="2">6.18</rating>
+<name>Uno</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192732.jpg</picture>
+<seiyuu id="174" picture="41158.jpg">Kakihara Tetsuya</seiyuu>
+</character>
+<character id="81904" type="main character in" update="2016-10-13">
+<rating votes="2">9.65</rating>
+<name>Juugo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192730.jpg</picture>
+<seiyuu id="37466" picture="225911.jpg">Uemura Yuuto</seiyuu>
+</character>
+<character id="81905" type="main character in" update="2016-10-13">
+<rating votes="4">7.29</rating>
+<name>Niko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192729.jpg</picture>
+<seiyuu id="41754" picture="181639.jpg">Kobayashi Daiki</seiyuu>
+</character>
+<character id="81906" type="main character in" update="2016-10-13">
+<rating votes="2">6.18</rating>
+<name>Rokku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192731.jpg</picture>
+<seiyuu id="45735" picture="186119.jpg">Shiozaki Airu</seiyuu>
+</character>
+<character id="81907" type="main character in" update="2016-10-13">
+<rating votes="5">8.43</rating>
+<name>Sugoroku Hajime</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192734.jpg</picture>
+<seiyuu id="236" picture="132757.jpg">Seki Tomokazu</seiyuu>
+</character>
+<character id="81908" type="main character in" update="2016-10-13">
+<rating votes="11">7.21</rating>
+<name>Hyakushiki Momoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192733.jpg</picture>
+<seiyuu id="1511" picture="173601.jpg">Akesaka Satomi</seiyuu>
+</character>
+<character id="82279" type="secondary cast in" update="2016-11-01">
+<rating votes="2">6.18</rating>
+<name>Hitokoe Mitsuru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193881.jpg</picture>
+<seiyuu id="592" picture="170729.jpg">Tsuda Kenjirou</seiyuu>
+</character>
+<character id="82280" type="secondary cast in" update="2016-11-01">
+<name>Tanabata Seitarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193886.jpg</picture>
+<seiyuu id="46605" picture="189833.jpg">Okuyama Keito</seiyuu>
+</character>
+<character id="82281" type="secondary cast in" update="2016-11-01">
+<name>Mitsuba Kiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193882.jpg</picture>
+<seiyuu id="21331" picture="55282.jpg">Kimeru</seiyuu>
+</character>
+<character id="82282" type="secondary cast in" update="2016-11-01">
+<rating votes="1">8.21</rating>
+<name>Godai Yamato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193885.jpg</picture>
+<seiyuu id="42164" picture="176249.jpg">Takeuchi Shunsuke</seiyuu>
+</character>
+<character id="82283" type="secondary cast in" update="2016-11-01">
+<name>Yozakura Kenshirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193883.jpg</picture>
+<seiyuu id="39121" picture="168788.jpg">Yamamoto Shouma</seiyuu>
+</character>
+<character id="82284" type="secondary cast in" update="2016-11-01">
+<rating votes="2">9.65</rating>
+<name>Gokuu Samon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193884.jpg</picture>
+<seiyuu id="381" picture="186189.jpg">Hoshi Souichirou</seiyuu>
+</character>
+<character id="84248" type="secondary cast in" update="2016-10-13">
+<rating votes="1">6.09</rating>
+<name>Upa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192772.jpg</picture>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+<character id="84249" type="secondary cast in" update="2016-10-13">
+<name>Chii</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192771.jpg</picture>
+<seiyuu id="45539" picture="239206.jpg">Ookawa Genki</seiyuu>
+</character>
+<character id="84250" type="secondary cast in" update="2016-10-13">
+<name>Torowa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192770.jpg</picture>
+<seiyuu id="42665" picture="170476.jpg">Adachi Yuuto</seiyuu>
+</character>
+<character id="84251" type="secondary cast in" update="2016-10-13">
+<name>Honey</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192769.jpg</picture>
+<seiyuu id="46758" picture="190627.jpg">Mitsutomi Takao</seiyuu>
+</character>
+<character id="84252" type="secondary cast in" update="2016-10-13">
+<rating votes="2">6.18</rating>
+<name>Musashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192774.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="84253" type="secondary cast in" update="2016-10-13">
+<name>Liang</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192773.jpg</picture>
+<seiyuu id="3831" picture="49743.jpg">Fujiwara Yuuki</seiyuu>
+</character>
+<character id="84254" type="secondary cast in" update="2016-10-13">
+<name>Tsukumo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192775.jpg</picture>
+<seiyuu id="303" picture="166016.jpg">Toyonaga Toshiyuki</seiyuu>
+</character>
+<character id="84255" type="secondary cast in" update="2016-10-13">
+<rating votes="2">10.00</rating>
+<name>Sugoroku Hitoshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192768.jpg</picture>
+<seiyuu id="46603" picture="189831.jpg">Fudemura Eishin</seiyuu>
+</character>
+<character id="86729" type="secondary cast in" update="2016-12-20">
+<name>Sanzou Noriko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="47785" picture="225124.jpg">Ono Fuyuka</seiyuu>
+</character>
+<character id="86730" type="secondary cast in" update="2016-12-20">
+<name>Sanzou Houzuki</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="47785" picture="225124.jpg">Ono Fuyuka</seiyuu>
+</character>
+<character id="86731" type="secondary cast in" update="2016-12-20">
+<name>Gojou Ruka</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4665" picture="27220.jpg">Takahashi Naozumi</seiyuu>
+</character>
+<character id="86732" type="secondary cast in" update="2016-12-20">
+<rating votes="1">6.18</rating>
+<name>Gokuu Enki</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="371" picture="166173.jpg">Kuroda Takaya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="183151" update="2017-01-25">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-01-25</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">壊れていく何か</title>
+<title xml:lang="en">Something Is Breaking</title>
+<title xml:lang="fr">Quelque chose ne tourne pas rond</title>
+<title xml:lang="x-jat">Kowarete Iku Nanika</title>
+<summary>Rock and Yamato suddenly become violent after returning from Building 5 and attack Jyugo and Seitarou.
+Covered in bruises, Jyugo tries his best to protect Uno and Nico.
+Tsukumo, who has been training in Building 5 with Rock, appears.
+Hajime knocks out Yamato and realizes a familiar yellow talisman on the nape of Yamato’s neck.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728385</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183152" update="2017-01-17">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-01-18</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">裏切りの5舎</title>
+<title xml:lang="en">The Traitorous Building 5</title>
+<title xml:lang="fr">Le bâtiment 5 de la traîtrise</title>
+<title xml:lang="x-jat">Uragiri no 5 Sha</title>
+<summary>Yamato takes Rock and Tsukumo to Building 5 for training.
+Rock challenges Samon to a duel, but he is defeated by only one finger.
+The warden gathers all the supervising officers before she leaves for her business trip.
+Nimaijita, the deputy supervisor of Building 2, blames Samon that Nanba Prison’s reputation is ruined because of what happened in Building 5 in the past.
+Unable to take it any longer, Samon leaves the room. 
+This is because someone important to Samon is related to this incident.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728383</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183153" update="2017-01-11">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-01-11</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">スーパー仁志くん</title>
+<title xml:lang="en">Super Hitoshi-kun</title>
+<title xml:lang="fr">Super Hitoshi</title>
+<title xml:lang="x-jat">Super Hitoshi-kun</title>
+<summary>A new guard has come to Building 13. 
+It’s Hajime Sugoroku’s brother(?), Hitoshi Sugoroku.
+This takes Hajime by surprise and he tries to lecture Hitoshi to go home, but he has already been hired.
+Meanwhile, Uno and Rock starts doubting Hitoshi, who can pull off a woman’s guard clothes nicely, is actually a gorilla’s... or Hajime’s brother. 
+To find out the truth, the 2 announce the beginning of Cell 13’s customary game of tag.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728381</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183154" update="2017-01-09">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-01-04</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">ナンバカはギャグアニメである.</title>
+<title xml:lang="en">Nanbaka Is a Comedy Anime.</title>
+<title xml:lang="fr">Nanbaka est un animé comique</title>
+<title xml:lang="x-jat">Nanbaka wa Gag Anime de Aru.</title>
+<summary>Jyugo escapes from prison again and Hajime Sugoroku goes looking for him again.
+Uno, Nico, and Rock are having a good time in Building 13.
+It’s a usual day for the inmates and guards.
+Many things have happened, but it seems like nothing has changed in Nanba Prison.
+But don’t let your guard down!
+Mitsuru Hitokoe, sensing a disturbance in the air, goes spying on each building believing something will happen.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728379</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183795" update="2017-02-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-02-22</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">覚醒する毒</title>
+<title xml:lang="en">Awakening Poison</title>
+<title xml:lang="fr">Le poison de l’éveil</title>
+<title xml:lang="x-jat">Kakusei Suru Doku</title>
+<summary>The medication completely gone from his system, Nico suffers and goes berserk.
+Wanting his medicine, Nico attacks Hachiman.
+Upa and Liang is surprised to see Nico in that state.
+Then, the traitor, Qi, appears.
+Qi understands medications can turn into poison if they’re not handled properly.
+He remembers the days when Hachiman used to treat him like a tool along with Upa and Liang.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728393</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183796" update="2017-02-14">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-02-15</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">愚か者</title>
+<title xml:lang="en">A Fool</title>
+<title xml:lang="fr">Imbécile</title>
+<title xml:lang="x-jat">Orokamono</title>
+<summary>The escaped convict, Hachiman, appears in front of Liang and Upa.
+Nico has remained with them to help.
+Hachiman, former boss of Liang and the others, uses a large weapon and poison to attack.
+That poison was provided by Qi, who has betrayed Building 5 and joined Hachiman.
+Meanwhile, Uno and Jyugo are concerned about Nico, who doesn’t have his medication.
+It seems something horrible will happen to Nico is he doesn’t take his medicine...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728391</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183797" update="2017-02-07">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-02-08</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">それぞれの自由</title>
+<title xml:lang="en">One`s Own Freedom</title>
+<title xml:lang="fr">La liberté de chacun</title>
+<title xml:lang="x-jat">Sorezore no Jiyuu</title>
+<summary>Jyugo, Uno, Nico, Liang, Upa, Honey, and Trois make their way through Building 5 underground cell to find the captured guards.
+They hide in the file room and Jyugo finds document about himself and finds a shocking information.
+The group encounters a Building 5 guard, Rokuriki, who is under someone’s control.
+Liang and Upa tells Jyugo to keep going while they take care of Rokuriki.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728389</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183798" update="2017-01-31">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-02-01</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">お前は弱い</title>
+<title xml:lang="en">You Are Weak</title>
+<title xml:lang="fr">Tu es faible</title>
+<title xml:lang="x-jat">Omae wa Yowai</title>
+<summary>Hajime, Jyugo, Uno, and Nico head to Building 5 to find out about Rock and Yamato.
+Jyugo and the others fall into a trap and end up in level 1 underground cell.
+There, they find the captured Upa and Liang.
+Meanwhile, Hajime is captured by Inori and is escorted to the underground cell where Samon, covered in injuries, is restrained.
+Samon reveals who’s behind the incident.
+It is no other than Enki Gokuu, the former Building 5 supervisor who became a criminal causing havoc in Nanba Prison in the past. He is also Samon’s brother.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728387</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184576" update="2017-03-21">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-03-22</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">サラバカ</title>
+<title xml:lang="en">Sarabaka</title>
+<title xml:lang="fr">Bêtadieu</title>
+<title xml:lang="x-jat">Sarabaka</title>
+<summary>Jyugo heads toward the cell Hajime is trapped in on his own.
+In the underground level 2, Uno, Trois, and Honey are looking for a certain guard relying on the smell.
+Enki finds out Jyugo and the others have escaped.
+Bruised all over, Jyugo finally reaches to Hajime’s cell on level 5.
+However, Hajime says something very heartless to Jyugo.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728401</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184577" update="2017-03-14">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-03-15</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">前に進め!</title>
+<title xml:lang="en">Move Forward!</title>
+<title xml:lang="fr">Fonce !</title>
+<title xml:lang="x-jat">Mae ni Susume!</title>
+<summary>Jyugo, Uno, Nico, Trois are attacked by Ruka’s powerful weapon, Bashosen.
+Honey tries to fight him off, but at this rate, all four will perish.
+Trois tells Jyugo and Uno to go ahead of them while they fight Ruka.
+Uno takes Jyugo’s hand and run towards the stairs.
+But Jyugo is concerned about Honey and Trois who are fighting for them...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728399</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184578" update="2017-03-07">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-03-08</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">音と言葉</title>
+<title xml:lang="en">Sound and Words</title>
+<title xml:lang="fr">Des sons et des mots</title>
+<title xml:lang="x-jat">Oto to Kotoba</title>
+<summary>Jyugo and the others continue to run from Ruka’s attack.
+But Honey tells Jyugo not to follow them because he believes Jyugo’s only in their way.
+Jyugo starts to self-reflect from Honey’s lecture and starts revealing about himself to Uno.
+However, Ruka is quickly approaching.
+Jyugo and Uno are saved by someone unexpected.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728397</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184579" update="2017-02-28">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-03-01</airdate>
+<rating votes="1">3.85</rating>
+<title xml:lang="ja">流されて......</title>
+<title xml:lang="en">Washed Away...</title>
+<title xml:lang="fr">À la dérive...</title>
+<title xml:lang="x-jat">Nagasarete......</title>
+<summary>Beating Hachiman, Nico, Liang, and Upa moves ahead guided by Qi.
+Upa feels someone other than Enki is involved in the incident.
+Jyugo, Uno, Honey, and Trois reaches level 3 underground.
+They encounter Ruka Gojyou, a former Building 5 guard who has escaped from his cell.
+Ruka, along with guards, Youriki and Kokoriki, attacks Jyugo’s party. 
+Running away from Ruka, Honey starts getting irritated at the incompetent Jyugo.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728395</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191337" update="2017-10-01">
+<epno type="2">S1</epno>
+<length>25</length>
+<rating votes="2">1.06</rating>
+<title xml:lang="ja">出席番号のついたバカたち!</title>
+<title xml:lang="en">Idiots with Student Numbers!</title>
+<title xml:lang="fr">Les abrutis aux numéros d’élèves</title>
+<title xml:lang="x-jat">Shusseki Bango no Tsuita Baka-tachi!</title>
+<summary>Seitarou Tanabata is all fired up for his first teaching job at a high school
+But Nanba Building 13 High School l is filled with delinquents.
+The students are troublemakers and even the teachers are odd.
+Seitarou is already bullied by 4 students in the 3rd year, class 13 on his first day.
+Then, the number 1 troublemaker, Hajime Sugoroku, returns after serving his suspencion.
+Can Seitarou ever become the teacher he always wanted to be?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>728403</identifier>
+<identifier>nanbaka</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

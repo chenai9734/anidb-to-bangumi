@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10071" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>1999</startdate>
+<enddate>1999</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaitou Gary no Nihonjin Kouryakuhou!</title>
+<title xml:lang="ja" type="official">怪盗ガリーの日本人攻略法!</title>
+</titles>
+<url>http://www.mushi-pro.co.jp/2011/05/%E6%80%AA%E7%9B%97%E3%82%AC%E3%83%AA%E3%83%BC%E3%81%AE%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%94%BB%E7%95%A5%E6%B3%95%EF%BC%81/</url>
+<ratings>
+<permanent count="6">5.22</permanent>
+<temporary count="6">5.66</temporary>
+</ratings>
+<picture>61057.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28111</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.mushi-pro.co.jp/2011/05/怪盗ガリーの日本人攻略法！/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2439" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-16">
+<name>PIC NEEDS IMPROVEMENT</name>
+<description>This entry has a poor picture and needs to have it replaced by a higher-quality alternative. Causes may include: it is too small; its colours or lighting are bad; it has excessive compression or other encoding issues; it is from non-anime sources (anime/char); the face is hard to see (char/creator); the hair/eye/skin colours do not match the anime (char); it does not represent their usual appearance (char); among others. If you can, please swap a better picture in and remove this tag. Thank you.</description>
+<picurl>224875.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="154692" update="2013-10-03">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

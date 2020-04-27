@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11911" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2016-02-02</startdate>
+<enddate>2016-02-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Historical</title>
+<title xml:lang="ja" type="official">ヒストリカル</title>
+</titles>
+<url>http://www.smile-navi-web.com/historical/</url>
+<creators>
+<name id="44757" type="Story Composition">Wara Tsuyoshi</name>
+<name id="44759" type="Animation Work">Rabbit Machine</name>
+<name id="44759" type="Character Design">Rabbit Machine</name>
+<name id="44759" type="Direction">Rabbit Machine</name>
+<name id="44760" type="Music">Purikoko</name>
+</creators>
+<ratings>
+<permanent count="11">4.56</permanent>
+<temporary count="11">5.40</temporary>
+</ratings>
+<picture>182146.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32665</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.smile-navi-web.com/historical/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355621</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=UnxAhXmjA6g</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=Lmy0ldlcJyU</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="79716" type="main character in" update="2016-02-05">
+<name>Enza</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182237.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="79717" type="appears in" update="2016-02-05">
+<name>Shiki Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182242.jpg</picture>
+<seiyuu id="4964" picture="223212.jpg">Kasahara Akira</seiyuu>
+</character>
+<character id="79718" type="appears in" update="2017-11-14">
+<name>Hijikata Toshizou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182238.jpg</picture>
+<seiyuu id="3141" picture="65575.jpg">Tsuruoka Satoshi</seiyuu>
+</character>
+<character id="79719" type="appears in" update="2017-11-14">
+<name>Okita Souji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182241.jpg</picture>
+<seiyuu id="30311" picture="223328.jpg">Shirai Yuusuke</seiyuu>
+</character>
+<character id="79720" type="secondary cast in" update="2016-02-05">
+<name>Akane Makoto</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182239.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+<character id="79721" type="appears in" update="2017-11-14">
+<name>Kondou Isami</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182240.jpg</picture>
+<seiyuu id="40343" picture="223254.jpg">Kameyama Yuuji</seiyuu>
+</character>
+<character id="79722" type="main character in" update="2016-02-05">
+<name>Kanotsuno Shiki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182243.jpg</picture>
+<seiyuu id="44777" picture="223207.jpg">Fujimoto Ayaka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="174885" update="2016-02-03">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2016-02-02</airdate>
+<rating votes="1">7.46</rating>
+<title xml:lang="ja">新撰組</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Shinsengumi</title>
+</episode>
+<episode id="193099" update="2017-11-17">
+<epno type="4">T1</epno>
+<length>2</length>
+<airdate>2015-12-17</airdate>
+<title xml:lang="en">PV</title>
+</episode>
+</episodes>
+</anime>

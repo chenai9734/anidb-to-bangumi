@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8297" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>2011-04-02</startdate>
+<enddate>2012-03-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tottoko Hamtarou Dechu</title>
+<title xml:lang="ja" type="synonym">とっとこハム太郎でちゅ</title>
+<title xml:lang="ja" type="official">とっとこハム太郎 でちゅ</title>
+</titles>
+<relatedanime>
+<anime id="9163" type="Sequel">Tottoko Hamtarou (2012)</anime>
+<anime id="557" type="Other">Tottoko Hamtarou</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/hamutarodechu/</url>
+<creators>
+<name id="5771" type="Original Work">Kawai Ritsuko</name>
+<name id="2841" type="Animation Work">Shogakukan-Shueisha Productions</name>
+<name id="917" type="Animation Work">TMS Entertainment</name>
+</creators>
+<description>Note: A rerun of the original http://anidb.net/a557 [Tottoko Hamtarou] with digital remastering and different episode order.</description>
+<ratings>
+<permanent count="5">2.11</permanent>
+<temporary count="5">4.40</temporary>
+</ratings>
+<picture>86114.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>12544</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/hamutarodechu/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2176</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>339220</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>13442</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+</tags>
+<characters>
+<character id="27023" type="main character in" update="2011-01-16">
+<name>Koushi-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63520.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="30723" type="secondary cast in" update="2011-04-03">
+<name>Kaburu-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68982.jpg</picture>
+<seiyuu id="4957" picture="91922.jpg">Uchikawa Ai</seiyuu>
+</character>
+<character id="30724" type="secondary cast in" update="2011-04-03">
+<name>Chibimaru-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68996.jpg</picture>
+<seiyuu id="8395" picture="32864.jpg">Matoi Kaori</seiyuu>
+</character>
+<character id="30725" type="secondary cast in" update="2011-04-03">
+<name>Neteru-kun</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68987.jpg</picture>
+<seiyuu id="372" picture="141584.jpg">Sugimoto Yuu</seiyuu>
+</character>
+<character id="30726" type="secondary cast in" update="2011-04-03">
+<name>Noppo-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68985.jpg</picture>
+<seiyuu id="442" picture="187043.jpg">Honda Takako</seiyuu>
+</character>
+<character id="30727" type="secondary cast in" update="2011-04-03">
+<name>Megane-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68984.jpg</picture>
+<seiyuu id="444" picture="17329.jpg">Suzuki Chihiro</seiyuu>
+</character>
+<character id="30728" type="secondary cast in" update="2011-04-03">
+<name>Taishou-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68979.jpg</picture>
+<seiyuu id="493" picture="65381.jpg">Itou Kentarou</seiyuu>
+</character>
+<character id="30729" type="secondary cast in" update="2011-04-03">
+<name>Toraham-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68980.jpg</picture>
+<seiyuu id="689" picture="170354.jpg">Miyata Kouki</seiyuu>
+</character>
+<character id="30730" type="secondary cast in" update="2011-04-03">
+<name>Toraham-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68981.jpg</picture>
+<seiyuu id="394" picture="17239.jpg">Ikezawa Haruna</seiyuu>
+</character>
+<character id="30731" type="secondary cast in" update="2011-04-03">
+<name>Tongari-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68986.jpg</picture>
+<seiyuu id="82" picture="216596.jpg">Asakawa Yuu</seiyuu>
+</character>
+<character id="30732" type="main character in" update="2011-04-03">
+<rating votes="22">8.82</rating>
+<name>Hamtarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Owned by Haruna, Hamtarou is a courageous Ham-Ham who`s always ready to help out his friends and his owner Haruna. However, he cannot stand being ignored by Haruna. He is clueless about many things being that he is of an innocent nature, especially love (much to Bijou`s dismay). Hamtarou makes the most of his life as a small hamster and lives each day in happiness hoping to make more friends and have fun. In the original anime, Hamtarou ends his sentences with `na no da`, a phrase often used by playful characters.</description>
+<picture>68976.jpg</picture>
+<seiyuu id="2766" picture="181834.jpg">Mamiya Kurumi</seiyuu>
+</character>
+<character id="30733" type="main character in" update="2011-04-03">
+<name>Panda-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68978.jpg</picture>
+<seiyuu id="8393" picture="224321.jpg">Saitou Yuuko</seiyuu>
+</character>
+<character id="30734" type="secondary cast in" update="2011-04-25">
+<name>Muffler-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68983.jpg</picture>
+<seiyuu id="555" picture="23759.jpg">Sakuma Rei</seiyuu>
+</character>
+<character id="30735" type="secondary cast in" update="2011-04-03">
+<name>Ribon-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68977.jpg</picture>
+<seiyuu id="1983" picture="151694.jpg">Murai Kazusa</seiyuu>
+</character>
+<character id="30736" type="secondary cast in" update="2011-04-03">
+<name>Maido-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68988.jpg</picture>
+<seiyuu id="372" picture="141584.jpg">Sugimoto Yuu</seiyuu>
+</character>
+<character id="30753" type="appears in" update="2011-04-03">
+<name>Ham-chans</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+</characters>
+<episodes>
+<episode id="129138" update="2011-04-03">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2011-04-02</airdate>
+<title xml:lang="ja">とっとこ登場! ハム太郎</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Tottoko Toujou! Hamtarou</title>
+</episode>
+<episode id="131295" update="2011-06-28">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2011-04-09</airdate>
+<title xml:lang="ja">とっとこ作るよ! 地下ハウス</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Tottoko Tsukuru yo! Chika House</title>
+</episode>
+<episode id="131296" update="2011-06-28">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2011-04-16</airdate>
+<title xml:lang="ja">とっとこ集まれ! ハムちゃんず</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Tottoko Atsumare! Ham-chans</title>
+</episode>
+<episode id="131297" update="2011-06-28">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2011-04-23</airdate>
+<title xml:lang="ja">とっとこ飛び出せ! リボンちゃん</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="131298" update="2011-06-28">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2011-04-30</airdate>
+<title xml:lang="ja">とっとこ踊るよ! トラハムちゃん</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="131299" update="2011-06-28">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2011-05-07</airdate>
+<title xml:lang="ja">とっとこさがすぞ! トラハムくん</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="131300" update="2011-06-28">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2011-05-14</airdate>
+<title xml:lang="ja">とっとこさすらう! トンガリくん</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="131301" update="2011-06-28">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2011-05-21</airdate>
+<title xml:lang="ja">とっとこ大変! リボンちゃん</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="131302" update="2011-06-28">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2011-05-28</airdate>
+<title xml:lang="ja">とっとこ活躍! パンダくん</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="131303" update="2011-06-28">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2011-06-04</airdate>
+<title xml:lang="ja">とっとこ謎だよ! ねてるくん</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="131304" update="2011-06-28">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2011-06-11</airdate>
+<title xml:lang="ja">とっとこ勇気だ! かぶるくん</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="131305" update="2011-06-28">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2011-06-18</airdate>
+<title xml:lang="ja">とっとこ贈るぞ! プレゼント</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="131306" update="2011-06-28">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2011-06-25</airdate>
+<title xml:lang="ja">とっとこドキドキ! 博物館</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="131307" update="2011-06-28">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2011-07-02</airdate>
+<title xml:lang="ja">とっとこかわいい! ちび丸ちゃん</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="131449" update="2011-07-02">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2011-07-09</airdate>
+<title xml:lang="ja">とっとこ追うのだ! パパのメガネ</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="131864" update="2011-07-12">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2011-07-16</airdate>
+<title xml:lang="ja">とっとこママだよ! タイショーくん</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="132099" update="2011-07-30">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2011-07-23</airdate>
+<title xml:lang="ja">とっとこ元気だ! じゃじゃハムちゃん</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="132100" update="2011-07-30">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2011-07-30</airdate>
+<title xml:lang="ja">とっとこいっぱい! コンペイトウ</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="132101" update="2011-07-30">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2011-08-06</airdate>
+<title xml:lang="ja">とっとこ行くのだ! はじめての海!</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="132527" update="2011-08-15">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2011-08-13</airdate>
+<title xml:lang="ja">とっとこ冒険! 夏祭り!</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="132528" update="2011-08-15">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2011-08-20</airdate>
+<title xml:lang="ja">とっとこ遊ぶよ! ひまわり畑</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="132811" update="2011-09-04">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2011-08-27</airdate>
+<title xml:lang="ja">とっとこ学校! 大さわぎ</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="132812" update="2011-09-04">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2011-09-03</airdate>
+<title xml:lang="ja">とっとこがんばれ! にわとり大会</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="132813" update="2011-09-04">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2011-09-10</airdate>
+<title xml:lang="ja">とっとこ初恋! ちび丸ちゃん</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="132899" update="2011-09-11">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2011-09-17</airdate>
+<title xml:lang="ja">とっとこすごいぞ! 長老ハム</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="133085" update="2011-09-17">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2011-09-24</airdate>
+<title xml:lang="ja">とっとここわ~い! 校長先生</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="133273" update="2011-09-26">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2011-10-01</airdate>
+<title xml:lang="ja">とっとこモモちゃん! 夢の遊園地</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="133826" update="2011-10-10">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2011-10-08</airdate>
+<title xml:lang="ja">とっとこまわるよ! ひまわり観覧車</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="133827" update="2011-10-10">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2011-10-15</airdate>
+<title xml:lang="ja">とっとこハラハラ! 仲直り</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="134244" update="2011-10-24">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2011-10-22</airdate>
+<title xml:lang="ja">とっとこデートだ! 動物園</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="134245" update="2011-10-24">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2011-10-29</airdate>
+<title xml:lang="ja">とっとこドッキリ! 怪事件</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="134588" update="2011-11-02">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2011-11-05</airdate>
+<title xml:lang="ja">とっとこ大切! リボンでちゅ</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="135051" update="2011-11-30">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2011-11-12</airdate>
+<title xml:lang="ja">とっとこロコちゃん! 元気になあれ</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="135052" update="2011-11-30">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2011-11-19</airdate>
+<title xml:lang="ja">とっとこみつけた! 小さい秋</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="135053" update="2011-11-30">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2011-11-26</airdate>
+<title xml:lang="ja">とっとこ名探偵! ハム太郎</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="135054" update="2011-11-30">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2011-12-03</airdate>
+<title xml:lang="ja">とっとこ占い! 大当たり</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="135274" update="2011-12-11">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2011-12-10</airdate>
+<title xml:lang="ja">とっとこ誕生! 赤ちゃんヤギ</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="135275" update="2011-12-11">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2011-12-17</airdate>
+<title xml:lang="ja">とっとこ走れ! ハム太郎</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="135754" update="2011-12-28">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2011-12-24</airdate>
+<title xml:lang="ja">とっとこメリー! クリスマス</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="135755" update="2011-12-28">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2012-01-07</airdate>
+<title xml:lang="ja">とっとこ新春! たこあげ大会</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="136240" update="2012-01-09">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2012-01-14</airdate>
+<title xml:lang="ja">とっとこ勇者! ハム太郎伝説</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="137084" update="2012-02-09">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2012-01-21</airdate>
+<title xml:lang="ja">とっとこ元気に! 雪合戦</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="137085" update="2012-02-09">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2012-01-28</airdate>
+<title xml:lang="ja">とっとこすごすぎ! おハムばあさん</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="137086" update="2012-02-09">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2012-02-04</airdate>
+<title xml:lang="ja">とっとこどんちゃん! 大レース</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="137087" update="2012-02-09">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2012-02-11</airdate>
+<title xml:lang="ja">とっとこびっくり! バレンタイン</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="137149" update="2012-02-12">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2012-02-18</airdate>
+<title xml:lang="ja">とっとこ見たなぁ~! 雪女</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="140839" update="2012-07-08">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2012-03-31</airdate>
+<title xml:lang="ja">とっとこ咲かそう! 友情の花</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Tottoko Sakasou! Yuujou no Hana</title>
+</episode>
+<episode id="140840" update="2012-07-08">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2012-03-24</airdate>
+<title xml:lang="ja">とっとこ空飛ぶ! ハムちゃんず</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="140841" update="2012-07-08">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2012-03-17</airdate>
+<title xml:lang="ja">とっとことどけ! 大事な手紙</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="140842" update="2012-07-08">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2012-03-10</airdate>
+<title xml:lang="ja">とっとこさよなら! リボンちゃん</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="140843" update="2012-07-08">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2012-03-03</airdate>
+<title xml:lang="ja">とっとこ楽しい! ひなまつり</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="140844" update="2012-07-08">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2012-02-25</airdate>
+<title xml:lang="ja">とっとこあったか! マフラー大作戦</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+</episodes>
+</anime>

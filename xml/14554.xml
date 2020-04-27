@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14554" restricted="false">
+<type>Web</type>
+<episodecount>3</episodecount>
+<startdate>2015-05-15</startdate>
+<enddate>2015</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Onaka-hime</title>
+<title xml:lang="ja" type="official">おなか姫</title>
+</titles>
+<url>http://www.bifix.jp/project/onakahime/</url>
+<creators>
+<name id="54199" type="Music">Karasuda Haruna</name>
+<name id="53936" type="Direction">YKBX</name>
+<name id="47265" type="Animation Work">Echoes</name>
+</creators>
+<description>This anime short is a promotion for the snack and confectionery company Glico.
+The shorts tell the story of two twin princesses, Berry and Flora, whose mother died giving birth to them. The two grow up until their father chooses Berry to don the title of "Onaka Hime," or Stomach Princess, who is endowed with the power to heal the kingdom`s citizens of illness and make its women beautiful through using BifiX 1000. Flora is disheartened at not being chosen, yet continues her studies. When it seems Berry is yet unable to use the powers of BifiX 1000 to heal a woman who is ill, Flora steals the product to try to do it herself. When Berry finds out what Flora is up to, she takes the product back before Flora has a chance to try to use it.</description>
+<ratings>
+<permanent count="3">3.49</permanent>
+<temporary count="3">4.66</temporary>
+</ratings>
+<picture>66949.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31057</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.bifix.jp/project/onakahime/</url>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="100058" type="main character in" update="2018-12-30">
+<name>Flora</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228439.jpg</picture>
+<seiyuu id="54243" picture="215168.jpg">Jitsukawa Kimiko</seiyuu>
+</character>
+<character id="100059" type="main character in" update="2018-12-30">
+<name>Berry</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228440.jpg</picture>
+<seiyuu id="57113" picture="228438.jpg">Kinai Fumika</seiyuu>
+</character>
+<character id="100063" type="appears in" update="2018-12-30">
+<name>Ouhi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66984.png</picture>
+</character>
+<character id="100064" type="appears in" update="2018-12-30">
+<name>Kokuou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66985.png</picture>
+</character>
+<character id="100065" type="appears in" update="2018-12-30">
+<name>Maaya</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66987.png</picture>
+</character>
+</characters>
+<episodes>
+<episode id="211547" update="2018-12-29">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="211548" update="2018-12-29">
+<epno type="1">2</epno>
+<length>0</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="211549" update="2018-12-29">
+<epno type="1">3</epno>
+<length>0</length>
+<title xml:lang="en">Episode 3</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11711" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1988</startdate>
+<enddate>1988</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Tang Lang Bu Chan</title>
+<title xml:lang="en" type="synonym">The Praying Mantis</title>
+<title xml:lang="en" type="synonym">A Story in Summertime</title>
+<title xml:lang="zh-Hans" type="official">螳螂捕蝉</title>
+</titles>
+<description>* A short film using the Chinese ink wash painting technique, based on the ancient Chinese fable "The mantis stalks the cicada, unaware of the oriole behind".
+A cicada is resting high on a tree. It is chirping for all it`s worth and drinking in the dew, oblivious of a mantis behind. The mantis, bending over and arching up its front leg, is going to catch the cicada but does not know that there is an oriole beside it. The bird has stretched out its neck, ready to peck at the mantis. Again the oriole is unaware that a weasel is sneaking up to it. The three creatures all covet gains ahead without being aware of an imminent danger behind.</description>
+<ratings>
+<permanent count="40">4.42</permanent>
+<temporary count="40">5.32</temporary>
+</ratings>
+<picture>178551.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31972</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>螳螂捕蝉</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="3968" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>animal protagonist</name>
+<description>The anime revolves around an animal, usually only communicating with typical onomatopoeia. The animal mostly lives in a human family and has adventures on a regular base. This can be the discovery of a new room, or being lost by having taken a wrong turn in the outside world.
+Typical example: http://anidb.net/a5801 [Chii`s Sweet Home].
+Not to be confused with http://anidb.net/t4259 [animal world], where the whole world is composed of animals.</description>
+<picurl>10255.jpeg</picurl>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="172937" update="2015-10-28">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

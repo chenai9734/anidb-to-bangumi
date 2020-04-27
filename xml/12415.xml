@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12415" restricted="false">
+<type>OVA</type>
+<episodecount>7</episodecount>
+<startdate>1988-11-21</startdate>
+<enddate>1990-11-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tama &amp; Friends: 3 Choume Monogatari</title>
+<title xml:lang="ja" type="official">TAMA&amp;FRIENDS 3丁目物語</title>
+</titles>
+<relatedanime>
+<anime id="12416" type="Sequel">3-Choume no Tama: Uchi no Tama Shirimasenka?</anime>
+</relatedanime>
+<creators>
+<name id="774" type="Animation Work">Group Tac</name>
+</creators>
+<description>* Part of a mixed media video game and anime project by http://anidb.net/cr774 [Group TAC].</description>
+<ratings>
+<permanent count="8">3.46</permanent>
+<temporary count="8">6.00</temporary>
+</ratings>
+<picture>191389.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>2467</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Tama_and_Friends</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>3丁目のタマ_うちのタマ知りませんか%3F</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235782</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="59682" update="2016-09-17">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1989-10-21</airdate>
+<title xml:lang="ja">クリスマス・イブのなぞ前編 / クリスマス・イブのなぞ後編</title>
+<title xml:lang="en">Christmas Eve Mystery (Part One) / Christmas Eve Mystery (Part Two)</title>
+<title xml:lang="x-jat">Christmas Eve no Nazo Zenpen / Christmas Eve no Nazo Kouhen</title>
+</episode>
+<episode id="59683" update="2016-09-17">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1990-11-01</airdate>
+<title xml:lang="ja">あけましておめでとう / たけしの初夢</title>
+<title xml:lang="en">Happy New Year / Takeshi`s Hatsuyume</title>
+<title xml:lang="x-jat">Akemashite Omedetou / Takeshi no Hatsuyume</title>
+</episode>
+<episode id="59684" update="2016-09-17">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1990-08-01</airdate>
+<title xml:lang="ja">ぼくの大切なもの / 不思議なともだち</title>
+<title xml:lang="en">My Most Precious Item / Strange Friends</title>
+<title xml:lang="x-jat">Boku no Taisetsu na Mono / Fushigi na Tomodachi</title>
+</episode>
+<episode id="59685" update="2016-09-17">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1989-04-21</airdate>
+<title xml:lang="ja">うちのタマ知りませんか? 前編 / うちのタマ知りませんか? 後編</title>
+<title xml:lang="en">Have You Seen My Tama? (Part One) / Have You Seen My Tama? (Part Two)</title>
+<title xml:lang="x-jat">Uchi no Tama Shirimasenka? Zenpen / Uchi no Tama Shirimasenka? Kouhen</title>
+</episode>
+<episode id="59686" update="2016-09-17">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1989-06-21</airdate>
+<title xml:lang="ja">タマが生まれた時の話 / タマとポチの大冒険</title>
+<title xml:lang="en">The Story of When Tama Was Born / Tama and Pochi`s Great Adventure</title>
+<title xml:lang="x-jat">Tama ga Umareta Toki no Hanashi / Tama to Pochi no Dai Bouken</title>
+</episode>
+<episode id="59687" update="2016-09-17">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1989-08-21</airdate>
+<title xml:lang="ja">おまつりの夜 / 3丁目大運動会?</title>
+<title xml:lang="en">Festival Night / The Third Street`s Great Sports Festival</title>
+<title xml:lang="x-jat">Omatsuri no Yoru / 3 Choume Dai Undoukai?</title>
+</episode>
+<episode id="180225" update="2016-09-17">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>1988-11-21</airdate>
+<title xml:lang="ja">TAMA&amp;FRIENDS 3丁目物語</title>
+<title xml:lang="en">Tama &amp; Friends: Third Street Story</title>
+<title xml:lang="x-jat">Tama &amp; Friends: 3 Choume Monogatari</title>
+</episode>
+</episodes>
+</anime>

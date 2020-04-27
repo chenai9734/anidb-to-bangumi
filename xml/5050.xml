@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5050" restricted="false">
+<type>OVA</type>
+<episodecount>4</episodecount>
+<startdate>2007-01-24</startdate>
+<enddate>2007-04-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ginga Tetsudou Monogatari: Wasurerareta Toki no Wakusei</title>
+<title xml:lang="en" type="synonym">The Galaxy Railways: Planet of Forgotten Time</title>
+<title xml:lang="ja" type="official">銀河鉄道物語~忘れられた時の惑星~</title>
+<title xml:lang="en" type="official">The Galaxy Railways: A Letter from the Abandoned Planet</title>
+</titles>
+<relatedanime>
+<anime id="4692" type="Sequel">Ginga Tetsudou Monogatari: Eien e no Bunkiten</anime>
+<anime id="1000" type="Prequel">Ginga Tetsudou Monogatari</anime>
+</relatedanime>
+<url>http://www.gintetsu.com/special/</url>
+<creators>
+<name id="964" type="Animation Production">Planet</name>
+<name id="1107" type="Original Work">Matsumoto Reiji</name>
+<name id="6315" type="Direction">Ooba Hideaki</name>
+<name id="105" type="Chief Animation Direction">Chiba Michinori</name>
+<name id="4808" type="Music">Aoki Nozomi</name>
+</creators>
+<description>The Galaxy Railways, which crosses the vast universe, seems to have to go out of service, as unexplainable events happen on its trains. One time, an SOS message arrives to the Galaxy Railways headquarters from Galaxy Express 999. The message was sent from the vicinity of Planet Helise, a place which is called "the planet of forgotten time", since the galactic rails end there. The elite self-defense force of Galaxy Railways, the Sirius Platoon is ordered to handle the case.
+While in the centre of the story are the SDF soldiers, the protagonists of Galaxy Express 999: Hoshino Tetsurou, Maetel, and the train conductor also appear.</description>
+<ratings>
+<permanent count="103">6.89</permanent>
+<temporary count="103">6.98</temporary>
+</ratings>
+<picture>11911.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5895</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3854</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2953</identifier>
+<identifier>ppdgcx</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gintetsu.com/special/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>銀河鉄道物語</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1419</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>326419</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>8937</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>the-galaxy-railways-a-letter-from-the-abandoned-planet</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1278" parentid="2274" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>android</name>
+<description>An android is a robot or synthetic organism designed to look and act like a human.</description>
+<picurl>223943.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2619" parentid="2841" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>gunfights</name>
+<description>Fights where two or more parties are firing guns at one another.</description>
+<picurl>211280.jpg</picurl>
+</tag>
+<tag id="2626" parentid="2612" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2639" parentid="2846" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space travel</name>
+<description>Space Travel usually refers going to space or travelling there with or without a spacecraft. There are different forms of space travel like Interplanetary travel, Interstellar travel or Intergalactic travel. Since it isn`t possible to travel faster than light, most anime series involve some sort "sub-space travel mechanism" as a way to travel faster than light.</description>
+<picurl>242375.jpg</picurl>
+</tag>
+<tag id="2660" parentid="2627" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>other planet</name>
+<description>The anime will fit this category if some or all of the action takes place on another planet which is supposedly in the same universe as Earth, not a complete fantasy world; usually there has to be some concept of space travel. The Latin name for Earth - Terra, would also pass the condition of being in the same universe as Earth. Basically, even mentioning of Earth existing or having existed would be enough. Although Moon is a moon, it also qualifies as Other Planet.</description>
+</tag>
+<tag id="2661" parentid="2627" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>shipboard</name>
+<description>Beam me up, Scotty! Space stations (think Death Star) also count. Basically, this category is to tell if the setting takes place onboard a spaceship in space. This category is not applicable if the spaceship lies on a planet and never actually gets into space.</description>
+</tag>
+<tag id="2750" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2790" parentid="2605" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-17">
+<name>plot continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+A single linear focused plot is highly continuous.
+A truly random plot is highly discontinuous.</description>
+</tag>
+<tag id="2841" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2885" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-21">
+<name>law and order</name>
+<description>Where there is "wealth", there are criminals. It is up to the civil law enforcement, i.e. detectives, Police or Special Squads, to keep the lawless activities in the real world or in cyberspace under control.
+Note: Do not confuse this with Military presence.</description>
+<picurl>238616.jpg</picurl>
+</tag>
+<tag id="2887" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-16">
+<name>tragedy</name>
+<description>Tragedy is a form of drama characterized by seriousness and dignity, usually involving a conflict between a character and some higher power, such as the law, the gods, fate, or society.</description>
+</tag>
+<tag id="2898" parentid="2885" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-21">
+<name>special squads</name>
+<description>The Special Squads are called in when the police is completely outclassed, e.g. fighting criminal syndicates. These special forces are trained to combat specific forms of crime, e.g. the anti-cyber-crime division.
+There are several such squads: Whereas Section 9 of Ghost in the Shell is an official government organisation, there are also "benevolent" vigilante groups like the Knight Sabers (Bubblegum Crisis).
+Criminal syndicates also have their special forces e.g. "death squads".</description>
+<picurl>238613.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="2493" type="secondary cast in" update="2014-12-13">
+<rating votes="434">8.57</rating>
+<name>Maetel</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>The daughter of Queen Prometheum, ruler of a mechanised empire.</description>
+<picture>38136.jpg</picture>
+<seiyuu id="3703" picture="151656.jpg">Ikeda Masako</seiyuu>
+</character>
+<character id="4408" type="secondary cast in" update="2009-03-07">
+<rating votes="6">4.08</rating>
+<name>Yuuki Manabu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>20482.jpg</picture>
+<seiyuu id="41" picture="16630.jpg">Yanagi Naoki</seiyuu>
+</character>
+<character id="4409" type="secondary cast in" update="2009-03-07">
+<name>Louise Fort Drake</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>20476.jpg</picture>
+<seiyuu id="359" picture="65537.jpg">Sanada Asami</seiyuu>
+</character>
+<character id="4410" type="secondary cast in" update="2009-03-07">
+<name>Schwanhelt Bulge</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>20475.jpg</picture>
+<seiyuu id="286" picture="17117.jpg">Ootsuka Akio</seiyuu>
+</character>
+<character id="4411" type="secondary cast in" update="2009-03-07">
+<name>David Young</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>20478.jpg</picture>
+<seiyuu id="353" picture="17192.jpg">Midorikawa Hikaru</seiyuu>
+</character>
+<character id="4413" type="secondary cast in" update="2009-03-07">
+<name>Layla Destiny Shula</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>20480.jpg</picture>
+<seiyuu id="3697" picture="78864.jpg">Asagami Youko</seiyuu>
+</character>
+<character id="4415" type="secondary cast in" update="2009-03-07">
+<rating votes="6">6.31</rating>
+<name>Yuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>20479.jpg</picture>
+<seiyuu id="2249" picture="61951.jpg">Suzuki Naoko</seiyuu>
+</character>
+<character id="4417" type="secondary cast in" update="2009-03-07">
+<name>Kirian Black</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>20483.jpg</picture>
+<seiyuu id="194" picture="130580.jpg">Ishida Akira</seiyuu>
+</character>
+<character id="12667" type="secondary cast in" update="2013-02-28">
+<rating votes="64">4.76</rating>
+<name>Hoshino Tetsurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tetsuro Hoshino is a young boy who was born on Earth into poverty, and who wants nothing more than a machine body. He also wants revenge on Count Mecha, an evil man who was given a machine body and now hunts humans for sport, for killing his mother. As a street urchin, Tetsuro has no means to buy a machine body. However, he has heard that at the end of the Andromeda Galaxy, there exists a planet where such robot bodies are given away for free. All Tetsuro needs to do is get a pass on the Galaxy Express 999, the cosmic railway. And one day, Tetsuro meets the mysterious Maetel, who promises to give him her unlimited use pass for the Express on the condition that she be his travelling companion. Tetsuro happily agrees, and embarks with Maetel on an adventure across the stars. When Tetsuro starts out, he is every bit the whiny, immature, selfish child. However, the adventures he goes with Maetel on, the people he meets, and the sights he witnesses cause Tetsuro to slowly but truly grow into a strong, young man. Tetsuro also grows closer and closer to Maetel, and although the nature of their relationship might not be called romantic, they form a very strong bond of love. Though it is never explicitly stated, it is implied that Tetsuro is Captain Harlock`s son. The evidence for this includes Tetsuro`s mother saying that his father is alive but away for some reason, Captain Harlock`s mysterious attachment to Tetsuro, and simple physical resemblance.</description>
+<picture>38140.jpg</picture>
+<seiyuu id="386" picture="187997.jpg">Nozawa Masako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="90512" update="2016-11-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2007-01-24</airdate>
+<title xml:lang="en">Episode 1</title>
+<summary>The SDF Sirius Platoon engages on a mission to rescue hostages. Afterwards they begin receiving distress calls from trains near route 309. The SDF Platoon is sent to investigate the cause of these events on an unusual planet.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>719081</identifier>
+<identifier>the-galaxy-railways-a-letter-from-the-abandoned-planet</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="90513" update="2016-11-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2007-02-28</airdate>
+<title xml:lang="en">Episode 2</title>
+<summary>The Galaxy Express 999 has crash landed on a strange planet. Sirius platoon arrive to discover the reason for the crash: The shield protecting the planet has been stretched ... by mysterious hands.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>719083</identifier>
+<identifier>the-galaxy-railways-a-letter-from-the-abandoned-planet</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="90514" update="2016-11-21">
+<epno type="1">3</epno>
+<length>30</length>
+<airdate>2007-03-28</airdate>
+<title xml:lang="en">Episode 3</title>
+<summary>Due to a mysterious drifting space seed, the Alta Line Express 637 is now stuck, and it is once again Sirius to the rescue. But while trying to reach the ship, a beam emerges. Is this the end of the crisis, or the beginning?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>719085</identifier>
+<identifier>the-galaxy-railways-a-letter-from-the-abandoned-planet</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="90515" update="2016-11-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2007-04-25</airdate>
+<title xml:lang="en">Episode 4</title>
+<summary>During the pursuit, the 641 ignores a call from enemies in the main battleship, putting everyone on edge. Big One appears to rescue the 641 in time, only to learn that a civil war may be brewing below on planet Guerra.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>719087</identifier>
+<identifier>the-galaxy-railways-a-letter-from-the-abandoned-planet</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

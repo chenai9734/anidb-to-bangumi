@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14772" restricted="false">
+<type>Web</type>
+<episodecount>0</episodecount>
+<startdate>2020-06-04</startdate>
+<enddate>2020-06-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Baki (2020)</title>
+<title xml:lang="ja" type="synonym">バキ 大擂台賽編</title>
+<title xml:lang="x-jat" type="synonym">Baki: Dai Raitaisai Hen</title>
+<title xml:lang="ja" type="official">バキ (2020)</title>
+</titles>
+<relatedanime>
+<anime id="12569" type="Prequel">Baki (2018)</anime>
+</relatedanime>
+<url>http://baki-anime.jp/</url>
+<creators>
+<name id="2752" type="Music">Fujisawa Kenji</name>
+<name id="1938" type="Direction">Hirano Toshiki</name>
+<name id="8683" type="Original Work">Itagaki Keisuke</name>
+<name id="3405" type="Series Composition">Urahata Tatsuhiko</name>
+<name id="2951" type="Character Design">Suzuki Fujio</name>
+<name id="7495" type="Character Design">Ishikawa Shingo</name>
+<name id="917" type="Animation Work">TMS Entertainment</name>
+</creators>
+<picture>244797.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21976</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39555</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://baki-anime.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>グラップラー刃牙</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367709</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>baki_anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="94544" type="main character in" update="2018-06-26">
+<rating votes="5">8.01</rating>
+<name>Hanma Baki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219532.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="96271" type="secondary cast in" update="2018-06-26">
+<rating votes="7">4.21</rating>
+<name>Matsumoto Kozue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219544.jpg</picture>
+<seiyuu id="34626" picture="144409.jpg">Amamiya Sora</seiyuu>
+</character>
+<character id="96274" type="secondary cast in" update="2018-06-26">
+<rating votes="2">4.09</rating>
+<name>Retsu Kaiou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219535.jpg</picture>
+<seiyuu id="244" picture="23860.jpg">Koyama Rikiya</seiyuu>
+</character>
+<character id="96865" type="secondary cast in" update="2018-07-23">
+<rating votes="2">8.08</rating>
+<name>Hanma Yuujirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220748.jpg</picture>
+<seiyuu id="286" picture="17117.jpg">Ootsuka Akio</seiyuu>
+</character>
+</characters>
+</anime>

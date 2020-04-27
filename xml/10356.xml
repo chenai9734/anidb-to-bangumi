@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10356" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2013-12-23</startdate>
+<enddate>2013-12-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Planet: Valkyrie</title>
+<title xml:lang="ja" type="official">プラネットワルキューレ</title>
+</titles>
+<url>http://p-valkyrie.jp/</url>
+<creators>
+<name id="1385" type="Animation Work">P.A. Works</name>
+<name id="2243" type="Character Design">Sekiguchi Kanami</name>
+<name id="5830" type="Direction">Aoki Ei</name>
+</creators>
+<description>Short animated preview for the twelve episodes of audio drama, a collaboration project between seiyuu/singer Chihara Minori and "Project Valkyrie."
+Source: MAL</description>
+<ratings>
+<permanent count="50">4.17</permanent>
+<temporary count="50">5.07</temporary>
+</ratings>
+<picture>147647.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>21641</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://p-valkyrie.jp/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=XxBcG-9BxiM</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3824" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-01-05">
+<name>sentai</name>
+<description>In Japanese, sentai is a military unit, and may be translated as "squadron", "task force", "group" or "wing". In the anime fandom, however, it usually refers to the Super Sentai Series, a long-running superhero team franchise of http://anidb.net/t5000 [tokusatsu] shows featuring live action characters and colorful special effects, and other similar shows. A prominent characteristic of such shows is that the colour- and elemental-coded heroes, usually numbering around five or more, fight to save the world from the evil that terrorizes the area, which may even span the entire universe.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+</tags>
+<characters>
+<character id="64465" type="main character in" update="2014-02-17">
+<rating votes="1">5.81</rating>
+<name>Type-01</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150378.jpg</picture>
+</character>
+<character id="64466" type="main character in" update="2014-02-17">
+<name>Type-02</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150379.jpg</picture>
+</character>
+<character id="64467" type="main character in" update="2014-02-17">
+<name>Type-03</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150380.jpg</picture>
+</character>
+<character id="64468" type="main character in" update="2014-02-17">
+<name>Type-04</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150381.jpg</picture>
+</character>
+<character id="64469" type="main character in" update="2014-02-17">
+<name>Type-05</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150382.jpg</picture>
+</character>
+<character id="64470" type="main character in" update="2014-02-17">
+<name>Type-06</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150383.jpg</picture>
+</character>
+<character id="64471" type="main character in" update="2014-02-17">
+<name>Type-07</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150384.jpg</picture>
+</character>
+<character id="64472" type="main character in" update="2014-02-17">
+<name>Type-08</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150385.jpg</picture>
+</character>
+<character id="64473" type="main character in" update="2014-02-17">
+<name>Type-09</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150386.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="156826" update="2017-12-03">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2013-12-23</airdate>
+<rating votes="1">2.60</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

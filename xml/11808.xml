@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11808" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1998</startdate>
+<enddate>1998</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sazae-san: Dawn to Ikka de Hawaii Ryokou</title>
+<title xml:lang="ja" type="official">サザエさん ドーンと一家でハワイ旅行</title>
+</titles>
+<relatedanime>
+<anime id="1830" type="Parent Story">Sazae-san</anime>
+</relatedanime>
+<description>A Family Travel special commemorating the 30th Anniversary of Sazae-san series.</description>
+<ratings>
+<permanent count="3">8.04</permanent>
+<temporary count="3">7.00</temporary>
+</ratings>
+<picture>180143.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28615</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="173699" update="2015-12-08">
+<epno type="1">1</epno>
+<length>50</length>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

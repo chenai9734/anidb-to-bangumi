@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8767" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1999</startdate>
+<enddate>1999</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jubilee</title>
+<title xml:lang="ja" type="official">ジュビリー</title>
+</titles>
+<description>Music video by http://anidb.net/cr5753 [Yamamura Kouji] (song by Nakamura Kazuyoshi (中村一義)).</description>
+<ratings>
+<permanent count="91">3.27</permanent>
+<temporary count="92">4.56</temporary>
+</ratings>
+<picture>75976.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>11579</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.yamamura-animation.jp/archive_jubilee.html</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=UFT5A-v1a3A</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2794" parentid="2883" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>music</name>
+<description>Music anime generally revolves around people concerned with music in their everyday lives. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competitions, characters desire for self improvement, and pursuit of a specific goal. This is not unlike the Sports category.</description>
+<picurl>169131.jpg</picurl>
+</tag>
+<tag id="2883" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>the arts</name>
+<description>The arts represent an outlet of human expression, usually influenced by culture, and driven by human creative impulse. Major constituents of the arts include literature – including poetry, novels and short stories, and epics; performing arts – among them music, dance, and theatre; culinary arts such as baking, chocolatiering, and winemaking; media arts like photography and film, and visual arts – including drawing, painting, and sculpting. Some art forms combine a visual element with performance (e.g. film) and the written word (e.g. comics).
+From prehistoric cave paintings to modern day films, art serves as a vessel for storytelling and conveying mankind`s relationship with its environment.
+Source: Wiki</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4280" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2008-06-02">
+<name>surreal</name>
+<description>Refers to things or occurrences that are generally bizarre or dreamlike, with the relentless capability of replacing reality through the eyes of the beholder. Surrealism is boundless, limited only by thought itself.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="134466" update="2011-10-30">
+<epno type="1">1</epno>
+<length>6</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14620" restricted="false">
+<type>TV Series</type>
+<episodecount>51</episodecount>
+<startdate>2019-04-07</startdate>
+<enddate>2020-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Duel Masters!!</title>
+<title xml:lang="ja" type="synonym">デュエル・マスターズ!!</title>
+<title xml:lang="ja" type="official">DUEL MASTERS!!</title>
+<title xml:lang="zh-Hans" type="official">决斗大师！！</title>
+</titles>
+<relatedanime>
+<anime id="15471" type="Sequel">Duel Masters King</anime>
+<anime id="13914" type="Prequel">Duel Masters!</anime>
+</relatedanime>
+<url>https://www.tv-tokyo.co.jp/anime/dm3/</url>
+<creators>
+<name id="2842" type="Animation Work">Shogakukan Music &amp; Digital Entertainment</name>
+<name id="982" type="Animation Work">Brain`s Base</name>
+<name id="12871" type="Character Design">Yabumoto Yousuke</name>
+<name id="9764" type="Series Composition">Katou Youichi</name>
+<name id="5865" type="Direction">Ishiodori Hiroshi</name>
+<name id="26739" type="Chief Direction">Sasaki Shinobu</name>
+<name id="13452" type="Music">Igarashi Jun`ichi</name>
+</creators>
+<ratings>
+<permanent count="4">3.13</permanent>
+<temporary count="4">3.00</temporary>
+</ratings>
+<picture>231764.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22321</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39039</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.tv-tokyo.co.jp/anime/dm3/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5302</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367765</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21897</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="94892" type="secondary cast in" update="2018-04-05">
+<name>Uraraka Momo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215864.jpg</picture>
+<seiyuu id="1438" picture="69192.jpg">Toyosaki Aki</seiyuu>
+</character>
+<character id="94893" type="secondary cast in" update="2018-04-05">
+<name>Pyonko-hime</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215865.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="94894" type="secondary cast in" update="2018-04-05">
+<name>Kabamaro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215867.jpg</picture>
+<seiyuu id="3130" picture="186156.jpg">Watanabe Kumiko</seiyuu>
+</character>
+<character id="94896" type="secondary cast in" update="2018-04-05">
+<name>Kira</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215862.jpg</picture>
+<seiyuu id="303" picture="166016.jpg">Toyonaga Toshiyuki</seiyuu>
+</character>
+<character id="94897" type="secondary cast in" update="2018-04-05">
+<name>Shachou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215868.jpg</picture>
+<seiyuu id="46411" picture="203410.jpg">Nishitani Ryou</seiyuu>
+</character>
+<character id="94898" type="main character in" update="2018-04-05">
+<name>Decky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215861.jpg</picture>
+<seiyuu id="2786" picture="211228.jpg">Satou Setsuji</seiyuu>
+</character>
+<character id="94901" type="secondary cast in" update="2018-04-05">
+<name>Hunter</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215870.jpg</picture>
+<seiyuu id="26648" picture="73162.jpg">Takeda Kouji</seiyuu>
+</character>
+<character id="94902" type="secondary cast in" update="2018-04-05">
+<name>Boltz</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215863.jpg</picture>
+<seiyuu id="434" picture="41082.jpg">Shiraishi Minoru</seiyuu>
+</character>
+<character id="94903" type="secondary cast in" update="2018-04-05">
+<name>Rabbit-taisa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215866.jpg</picture>
+<seiyuu id="32033" picture="85885.jpg">Sugawara Masayoshi</seiyuu>
+</character>
+<character id="94904" type="main character in" update="2018-04-05">
+<name>Kirifuda Joe</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215860.jpg</picture>
+<seiyuu id="320" picture="66660.jpg">Kobayashi Yumiko</seiyuu>
+</character>
+<character id="94905" type="secondary cast in" update="2018-04-05">
+<name>Furukon Purito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215869.jpg</picture>
+<seiyuu id="330" picture="171543.jpg">Morinaga Rika</seiyuu>
+</character>
+<character id="94909" type="secondary cast in" update="2018-04-05">
+<name>Zero</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215877.jpg</picture>
+<seiyuu id="138" picture="23200.jpg">Morita Masakazu</seiyuu>
+</character>
+<character id="101663" type="secondary cast in" update="2019-03-28">
+<name>Kyappu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="42052" picture="225801.jpg">Ichikawa Taichi</seiyuu>
+</character>
+<character id="101664" type="secondary cast in" update="2019-03-28">
+<name>Smaphone</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3130" picture="186156.jpg">Watanabe Kumiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="214710" update="2019-04-04">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-04-07</airdate>
+<title xml:lang="ja">マジでガチャなキャップの事ジョー!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Maji de Gacha na Cap no Jijou!</title>
+</episode>
+<episode id="214711" update="2019-04-04">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2019-04-14</airdate>
+<title xml:lang="ja">変な研究ジョーを探れ! キャップとジョーの潜入調査!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hen na Kenkyuujou o Sagure! Cap to Joe no Sennyuu Chousa!</title>
+</episode>
+<episode id="214712" update="2019-04-04">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2019-04-21</airdate>
+<title xml:lang="ja">火文明に苦ジョー殺到! ボルツ, 怒りのガチャレンジ!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Hi Bunmei ni Kujou Sattou! Boltz, Ikari no Ga Challenge!</title>
+</episode>
+<episode id="214713" update="2019-04-04">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2019-04-28</airdate>
+<title xml:lang="ja">人間界に参ジョー! デュエルウォーリアの正体を暴け!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Ningenkai ni Sanjou! Duel Warrior no Shoutai o Abake!</title>
+</episode>
+<episode id="214941" update="2019-04-10">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2019-04-07</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="214942" update="2019-04-10">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2019-04-07</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="215771" update="2019-04-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2019-05-05</airdate>
+<title xml:lang="ja">正義か否か!? 川守田ハカセとジュニアのジョー熱!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Seigi ka Ina ka!? Kawamorita-hakase to Junior no Jounetsu!</title>
+</episode>
+<episode id="215772" update="2019-04-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2019-05-12</airdate>
+<title xml:lang="ja">会ジョーはこちらです! メカでパーリィなお見合いパーティー!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Kaijou wa Kochira Desu! Mecha de Paris na Omiai Party!</title>
+</episode>
+<episode id="215773" update="2019-04-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2019-05-19</airdate>
+<title xml:lang="ja">怪盗ラーメンキッドを追え! ラーメン地獄村~旅ジョー編~</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Kaitou Ramen Kid o Oe! Ramen Jigoku Mura: Ryojou Hen</title>
+</episode>
+<episode id="215774" update="2019-04-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2019-05-26</airdate>
+<title xml:lang="ja">キャップの超切り札, 登ジョー!? ラーメン地獄村~完結編~</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Cap no Chou Kirifuda, Toujou!? Ramen Jigoku Mura: Kanketsuhen</title>
+</episode>
+<episode id="217175" update="2019-05-19">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2019-06-02</airdate>
+<title xml:lang="ja">これってどういうジョー況!? カバまろ先生, 教壇に立つ!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Korette Dou Iu Joukyou!? Kabamaro-sensei, Kyoudan ni Tatsu!</title>
+</episode>
+<episode id="217176" update="2019-05-19">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2019-06-09</airdate>
+<title xml:lang="ja">水文明にゼーロ現る!? ジョーには言えないキャップの事ジョー!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Mizu Bunmei ni Zero Arawaru!? Joe ni wa Ienai Cap no Jijou!</title>
+</episode>
+<episode id="217177" update="2019-05-19">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2019-06-16</airdate>
+<title xml:lang="ja">ゼーロ, 興奮ジョー態! 闇のドラゴンオーラの恐怖!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Zero, Koufun Joutei! Yami to Dragon Aura no Kyoufu!</title>
+</episode>
+<episode id="217178" update="2019-05-19">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2019-06-23</airdate>
+<title xml:lang="ja">まさかの妖怪事件!? 大妖怪バックベアード登ジョー!?</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Masaka no Youkai Jiken!? Dai Youkai Backbeard Toujou!?</title>
+</episode>
+<episode id="217179" update="2019-05-19">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2019-06-30</airdate>
+<title xml:lang="ja">問題, 続々浮ジョー!? 切札ジョーのデュエマを止めるな!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Mondai, Zokuzoku Fujou!? Kirifuda Joe no Duema o Tomeruna!</title>
+</episode>
+<episode id="218372" update="2019-06-30">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2019-07-07</airdate>
+<title xml:lang="ja">釣りバカジョー等! キャップのバリアマシマシ大作戦!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Tsuri Baka Joutou! Cap no Barrier Mashimashi Daisakusen!</title>
+</episode>
+<episode id="218373" update="2019-06-30">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2019-07-14</airdate>
+<title xml:lang="ja">ジョー識外れのヤツらが集結! 夢のデュエマグランプリ!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Joushiki Hazure no Yatsura ga Shuuketsu! Yume no Due Ma Grand Prix!</title>
+</episode>
+<episode id="218374" update="2019-06-30">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2019-07-21</airdate>
+<title xml:lang="ja">ボルツ城[ジョー]暴走中!? 闇の侵入者をとらえよ!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Boltz Jou Bousouchuu!? Yami no Shinnyuusha o Toraeyo!</title>
+</episode>
+<episode id="218699" update="2019-07-15">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2019-07-28</airdate>
+<title xml:lang="ja">おしり警察登ジョー! 凶悪犯からデッキーの尻を守れ!</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Oshiri Keisatsu Toujou! Kyouaku Han kara Decky no Shiri o Mamore!</title>
+</episode>
+<episode id="218700" update="2019-07-15">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2019-08-04</airdate>
+<title xml:lang="ja">喧嘩ジョー等! 目指せ, 超天! 大番長バトルロワイアル!</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Kenka Joutou! Mezase, Chouten! Dai Banchou Battle Royale!</title>
+</episode>
+<episode id="218701" update="2019-07-15">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2019-08-11</airdate>
+<title xml:lang="ja">デュエマ史ジョー初!? 真夏の10本立て劇ジョー開幕!</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">DueMa Shijou Hatsu!? Manatsu no 10 Hontate Gekijou Kaimaku!</title>
+</episode>
+<episode id="218702" update="2019-07-15">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2019-08-18</airdate>
+<title xml:lang="ja">みんなジョー出来! 実はがんばってたジョーカーズ大賞!!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Minna Joe Shuttai! Jitsu wa Ganbatteta Jokers Taishou!!</title>
+</episode>
+<episode id="219265" update="2019-08-11">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2019-08-25</airdate>
+<title xml:lang="ja">水文明に異ジョー発生! 闇と水の危険な企み!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Mizu Bunmei ni Ijou Hassei! Yami to Mizu no Kiken na Takurami!</title>
+</episode>
+<episode id="219266" update="2019-08-11">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2019-09-01</airdate>
+<title xml:lang="ja">水文明頂ジョー決戦! 恐るべきCode:1059[コードヘブン]の咆哮!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Mizu Bunmei Choujou Kessen! Osorubeki Code Heaven no Houkou!</title>
+</episode>
+<episode id="219268" update="2019-08-11">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2019-09-08</airdate>
+<title xml:lang="ja">ゼーロ, 戦ジョーに立つ! ドラゴンズゼロと闇の卵!</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Zero, Senjou ni Tatsu! Dragons Zero to Yami no Tamago!</title>
+</episode>
+<episode id="219269" update="2019-08-11">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2019-09-15</airdate>
+<title xml:lang="ja">キャップ, 落ち込みジョー態! 今こそ生み出せ水ジョーカーズ!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Cap, Ochikumi Joutai! Imakoso Umidase Mizu Jokers!</title>
+</episode>
+<episode id="220024" update="2019-09-01">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2019-09-22</airdate>
+<title xml:lang="ja">目的不明! 闇執事ギニョールの過ジョーなるデュエマ!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Mokuteki Fumei! Yami Shitsuji Guignol no Kajou Naru Duema!</title>
+</episode>
+<episode id="220025" update="2019-09-01">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2019-09-29</airdate>
+<title xml:lang="ja">捜査線ジョーに浮かぶ影! ウラギリ者を捜し出せ!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Sousa Senjou ni Ukabu Kage! Uragirimono o Sagashidase!</title>
+</episode>
+<episode id="221795" update="2019-09-29">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2019-10-06</airdate>
+<title xml:lang="ja">オトナになりたきゃご来ジョー! ようこそ, 夢のオトナーランドへ!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Otona ni Naritakya Goraijou! Youkoso, Ume no Otonarland e!</title>
+</episode>
+<episode id="221796" update="2019-09-29">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2019-10-13</airdate>
+<title xml:lang="ja">意外な組み合わせ!? キラとギリの友ジョー物語!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Igai na Kumiawase!? Kira to Giri no Yuujou Monogatari!</title>
+</episode>
+<episode id="221797" update="2019-09-29">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2019-10-20</airdate>
+<title xml:lang="ja">マスター候補の修練ジョー! ゴールデンマスターズジムに入門せよ!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Master Kouho no Shuurenjou! Golden Masters Gym ni Nyuumon Seyo!</title>
+</episode>
+<episode id="221798" update="2019-09-29">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2019-10-27</airdate>
+<title xml:lang="ja">兄弟げんかを止めろ! キャップとギャップの事ジョー!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Koudaigenka o Tomero! Cap to Cap no Jijou!</title>
+</episode>
+<episode id="221799" update="2019-09-29">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2019-11-03</airdate>
+<title xml:lang="ja">異ジョーなるブラザーを止めろ! ギャップとジョーの真のデュエル!</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Ijou naru Brother o Tomero! Cap to Joe no Shin no Duel!</title>
+</episode>
+<episode id="221800" update="2019-09-29">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2019-11-10</airdate>
+<title xml:lang="ja">最ジョー階をめざせ! ブラザー王・TT兄弟をたおせ!</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Saijoukai o Mezase! Brother Ou TT Kyoudai o Taose!</title>
+</episode>
+<episode id="223857" update="2019-11-03">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2019-11-17</airdate>
+<title xml:lang="ja">闇の胎動! ゼーロン, 誕ジョーを阻止せよ!</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Yami no Taidou! Zeron, Tanjou o Soshi Seyo!</title>
+</episode>
+<episode id="223858" update="2019-11-03">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2019-11-24</airdate>
+<title xml:lang="ja">ラルクメシア覚醒! キラの決意と光の軍団!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Raruku Messiah Kakusei! Kira no Ketsui to Hikari no Gundan!</title>
+</episode>
+<episode id="223859" update="2019-11-03">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2019-12-01</airdate>
+<title xml:lang="ja">火文明を救え! 史ジョー空前のゾンビパニック!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Hi Bunmei o Sukue! Rekijou Kuuzen no Zombie Panic!</title>
+</episode>
+<episode id="223860" update="2019-11-03">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2019-12-08</airdate>
+<title xml:lang="ja">ジョー, デュエマから退ジョー!? 忍び寄る, ゲジスキーの罠!</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Joe, Duema kara Taijou!? Shinobiyoru, Gejisky no Wana!</title>
+</episode>
+<episode id="224860" update="2019-12-01">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2019-12-15</airdate>
+<title xml:lang="ja">残酷な闘い! 非ジョーなる親子デュエマ!</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Zankoku na Tatakai! Hijou naru Oyako Due Ma!</title>
+</episode>
+<episode id="224861" update="2019-12-01">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2019-12-22</airdate>
+<title xml:lang="ja">帰ってきた相棒! ジョニーとジョーの決闘ジョー!</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Kaette Kita Aibou! Johnny to Joe no Kettoujou!</title>
+</episode>
+<episode id="224862" update="2019-12-01">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2019-12-29</airdate>
+<title xml:lang="ja">ジョー様の! 過ジョーなくらいデュエマしたい!</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Joe-sama no! Kajou na Kurai DueMa Shitai!</title>
+</episode>
+<episode id="225688" update="2019-12-29">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2020-01-12</airdate>
+<title xml:lang="ja">デュエマに登ジョー!? 宇宙の破壊神(?)アルマゲドン!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Due Ma ni Toujou!? Uchuu no Hakaishin (?) Armageddon!</title>
+</episode>
+<episode id="225689" update="2019-12-29">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2020-01-19</airdate>
+<title xml:lang="ja">無重力ジョー態! 宇宙で遭遇! 闇のヤバい襲撃者!</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Mujuuryoku Joutai! Uchuu de Souguu! Yami no Yabai Shuugekisha!</title>
+</episode>
+<episode id="225690" update="2019-12-29">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2020-01-26</airdate>
+<title xml:lang="ja">クリーチャーワールドに非ジョー事態! 龍頭星雲の決闘!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Creature World ni Hijoujitai! Ryuutou Seinun no Kettou!</title>
+</episode>
+<episode id="225691" update="2019-12-29">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2020-02-02</airdate>
+<title xml:lang="ja">闇の独壇ジョー! ゼーロとジョーの最終決戦!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Yami no Dokudanjou! Zero to Joe no Saishuu Kessen!</title>
+</episode>
+<episode id="225692" update="2019-12-29">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2020-02-09</airdate>
+<title xml:lang="ja">超緊急異ジョー事態! 失われた友の記憶を取り戻せ!</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Chou Kinkyuu Ijou Jitai! Ushinawareta Tomo no Kioku o Torimodose!</title>
+</episode>
+<episode id="226617" update="2020-02-02">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2020-02-16</airdate>
+<title xml:lang="ja">永久[とわ]に群ジョーなれ! さらばブラザー!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Towa ni Gunjou Nare! Saraba Brother!</title>
+</episode>
+<episode id="226618" update="2020-02-02">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2020-02-23</airdate>
+<title xml:lang="ja">ジョラゴン恋の悩み!? 相手のおジョーさんはピョンコ姫!?</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Joragon Koi no Nayami!? Aite no Ojou-san wa Pyonko-hime!?</title>
+</episode>
+<episode id="226619" update="2020-02-02">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2020-03-01</airdate>
+<title xml:lang="ja">新たな相棒を探せ! 自然文明の大長老, 登ジョー!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Arata na Aibou o Sagase! Jizen Bunmei no Dai Chourou, Toujou!</title>
+</episode>
+<episode id="226620" update="2020-02-02">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2020-03-08</airdate>
+<title xml:lang="ja">ボルツ施ジョー中! ロックなジョー前にご注意あれ!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Boltz Sejou Chuu! Rock na Jouzen ni Gochuui Are!</title>
+</episode>
+<episode id="227299" update="2020-03-01">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2020-03-15</airdate>
+<title xml:lang="ja">学校で頂ジョー対決! デュエマ超天決戦!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Gakkou de Choujou Taiketsu! Due Ma Chouten Kessen!</title>
+</episode>
+<episode id="227300" update="2020-03-01">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2020-03-22</airdate>
+<title xml:lang="ja">友ジョー決裂!? ジョーとキラの純ジョーなる感ジョー!</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Yuujou Ketsuretsu!? Joe to Tora no Junjou naru Kanjou!</title>
+</episode>
+<episode id="227301" update="2020-03-01">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2020-03-29</airdate>
+<title xml:lang="ja">正義か? 友ジョーか? 運命回すぜ! 超天フィーバー!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Seigi ka? Yuujou ka? Unmei Mawasuze! Chouten Fever!</title>
+</episode>
+</episodes>
+</anime>

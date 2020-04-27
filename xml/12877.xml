@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12877" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1935</startdate>
+<enddate>1935</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Propagate</title>
+<title xml:lang="ja" type="synonym">開花</title>
+<title xml:lang="x-jat" type="synonym">Kaika</title>
+<title xml:lang="ja" type="official">PROPAGATE</title>
+</titles>
+<creators>
+<name id="50343" type="Direction">Ogino Shigeji</name>
+</creators>
+<description>This work dynamically expresses the organic growth and propagation of plants by using geometrical figures.
+Source: Animation Film Archive</description>
+<ratings>
+<permanent count="33">1.92</permanent>
+<temporary count="33">3.65</temporary>
+</ratings>
+<picture>198731.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35406</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="5529" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-11-05">
+<name>black and white</name>
+<description>Some or all of this anime is in black and white, typical of older anime made before ~1960. Some modern anime may intentionally shift to black and white for certain scenes or episodes as an artistic effect.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="184954" update="2017-02-22">
+<epno type="1">1</epno>
+<length>4</length>
+<rating votes="1">1.35</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

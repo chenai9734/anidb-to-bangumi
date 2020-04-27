@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7115" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1917-02</startdate>
+<enddate>1917-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dekoboko Shin Gachou: Meian no Shippai</title>
+<title xml:lang="ja" type="official">凸凹新画帳 名案の失敗</title>
+</titles>
+<ratings>
+<permanent count="6">2.85</permanent>
+<temporary count="6">5.00</temporary>
+</ratings>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23189</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="110787" update="2009-10-20">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14322" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2015-12-01</startdate>
+<enddate>2015-12-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ainone</title>
+<title xml:lang="ja" type="official">アイノネ</title>
+</titles>
+<description>A music video for the song "Ainone" by Yen Town Band.
+Source: MAL</description>
+<ratings>
+<permanent count="29">2.82</permanent>
+<temporary count="30">4.40</temporary>
+</ratings>
+<picture>222743.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32804</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=yOdoCVkUY0A</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2748" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>sex</name>
+<description>Sexual intercourse, the ultimate bond of love and the "Origin of the World" (just think of Gustave Courbet`s painting: http://en.wikipedia.org/wiki/L%27Origine_du_monde).
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+<picurl>161190.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="4298" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-04-07">
+<name>rotoscoping</name>
+<description>Rotoscoping is an animation technique in which animators trace over footage, frame by frame, for use in live-action and animated films.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="204634" update="2018-08-27">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2015-12-01</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

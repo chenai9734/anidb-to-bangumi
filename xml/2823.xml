@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2823" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>1979-10-25</startdate>
+<enddate>1980-05-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sasurai no Shoujo Nell</title>
+<title xml:lang="en" type="synonym">Wandering Girl Nell</title>
+<title xml:lang="en" type="synonym">Nell the Wandering Girl</title>
+<title xml:lang="x-jat" type="synonym">Sasurai no Shojo Nell</title>
+<title xml:lang="ja" type="official">さすらいの少女ネル</title>
+<title xml:lang="fr" type="official">Nell</title>
+<title xml:lang="it" type="official">La piccola Nell</title>
+<title xml:lang="ar" type="official">مغامرات نوال</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Recommended" uid="20183">Nice anime easy watch. Enjoyable</recommendation>
+</recommendations>
+<creators>
+<name id="18508" type="Original Work">Charles Dickens</name>
+<name id="4979" type="Character Design">Kabashima Yoshio</name>
+<name id="7469" type="Chief Direction">Nishimaki Hideo</name>
+<name id="31876" type="Music">Ibe Harumi</name>
+<name id="35998" type="Direction">Tsuchiya Keinosuke</name>
+</creators>
+<description>* Based on The Old Curiosity Shop by http://anidb.net/cr18508 [Charles Dickens].</description>
+<ratings>
+<permanent count="17">3.55</permanent>
+<temporary count="17">5.50</temporary>
+</ratings>
+<picture>5375.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1726</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3877</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1952</identifier>
+<identifier>kwoafz</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>さすらいの少女ネル</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89446</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>547</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>1979/neru</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>307</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="104364" type="main character in" update="2019-07-11">
+<name>Trent</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236163.jpg</picture>
+<seiyuu id="5292" picture="2352.gif">Mine Eken</seiyuu>
+</character>
+<character id="104365" type="main character in" update="2019-07-11">
+<name>Nell</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236164.jpg</picture>
+<seiyuu id="3697" picture="78864.jpg">Asagami Youko</seiyuu>
+</character>
+<character id="104366" type="secondary cast in" update="2019-07-11">
+<name>Kit</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236165.jpg</picture>
+<seiyuu id="1828" picture="20727.jpg">Oota Yoshiko</seiyuu>
+</character>
+<character id="104367" type="secondary cast in" update="2019-07-11">
+<name>Quilp</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236167.jpg</picture>
+<seiyuu id="3386" picture="24413.jpg">Kumakura Kazuo</seiyuu>
+</character>
+<character id="104514" type="appears in" update="2019-07-18">
+<name>Rosa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236436.jpg</picture>
+<seiyuu id="32508" picture="87117.jpg">Takahashi Naoko</seiyuu>
+</character>
+<character id="104516" type="secondary cast in" update="2019-07-18">
+<name>Brass</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236439.jpg</picture>
+<seiyuu id="30715" picture="94899.jpg">Yashiro Shun</seiyuu>
+</character>
+<character id="104650" type="appears in" update="2019-07-27">
+<name>Martha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236675.jpg</picture>
+<seiyuu id="24890">Nunami Terue</seiyuu>
+</character>
+<character id="104651" type="secondary cast in" update="2019-07-27">
+<name>Ciro</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236677.jpg</picture>
+</character>
+<character id="104652" type="appears in" update="2019-07-27">
+<name>Mario</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236678.jpg</picture>
+</character>
+<character id="104653" type="appears in" update="2019-07-27">
+<name>Nazo no Otoko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236679.jpg</picture>
+<seiyuu id="6662" picture="24334.jpg">Sogabe Kazuyuki</seiyuu>
+</character>
+<character id="104654" type="appears in" update="2019-07-27">
+<name>Band</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236680.jpg</picture>
+</character>
+<character id="104655" type="appears in" update="2019-07-27">
+<name>Short</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236681.jpg</picture>
+</character>
+<character id="104656" type="appears in" update="2019-07-27">
+<name>Codlin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236682.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="50044" update="2009-06-13">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1979-10-25</airdate>
+<title xml:lang="ja">夜明けの脱出</title>
+<title xml:lang="en">Escape at Dawn</title>
+<title xml:lang="fr">Un départ à l`aube</title>
+<title xml:lang="x-jat">Yoake no Dasshutsu</title>
+</episode>
+<episode id="50045" update="2009-06-13">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1979-11-01</airdate>
+<title xml:lang="ja">パラダイスへ行った母</title>
+<title xml:lang="en">Mother Went to Paradise</title>
+<title xml:lang="fr">Où est passée maman ?</title>
+<title xml:lang="x-jat">Paradise e Itta Haha</title>
+</episode>
+<episode id="50046" update="2009-06-13">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1979-11-08</airdate>
+<title xml:lang="ja">売られたネル</title>
+<title xml:lang="en">Nell Sold</title>
+<title xml:lang="fr">Le cirque Paradis</title>
+<title xml:lang="x-jat">Urareta Nell</title>
+</episode>
+<episode id="50047" update="2009-06-13">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1979-11-15</airdate>
+<title xml:lang="ja">つかのまのしあわせ</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="fr">Un moment de bonheur</title>
+<title xml:lang="x-jat">Tsukanoma no Shiawase</title>
+</episode>
+<episode id="50048" update="2009-06-13">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1979-11-22</airdate>
+<title xml:lang="ja">嵐の一夜</title>
+<title xml:lang="en">Stormy Night</title>
+<title xml:lang="fr">Une nuit d`orage</title>
+<title xml:lang="x-jat">Arashi no Ichiya</title>
+</episode>
+<episode id="50049" update="2009-06-13">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1979-11-29</airdate>
+<title xml:lang="ja">母の面影</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="fr">Mademoiselle Julie</title>
+<title xml:lang="x-jat">Haha no Omokage</title>
+</episode>
+<episode id="50050" update="2009-06-13">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1979-12-13</airdate>
+<title xml:lang="ja">危険な山越え</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="fr">Les pièges de la montagne</title>
+<title xml:lang="x-jat">Kiken na Yamagoe</title>
+</episode>
+<episode id="50051" update="2009-06-13">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1979-12-06</airdate>
+<title xml:lang="ja">鳥になった少年</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="fr">L`enfant oiseau</title>
+<title xml:lang="x-jat">Tori ni Natta Shounen</title>
+</episode>
+<episode id="50052" update="2009-06-13">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1979-12-20</airdate>
+<title xml:lang="ja">クリスマスイブの出来事</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="fr">Le réveillon de Noël</title>
+<title xml:lang="x-jat">Christmas Eve no Dekigoto</title>
+</episode>
+<episode id="50053" update="2009-06-13">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1979-12-27</airdate>
+<title xml:lang="ja">波止場の追跡</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="fr">Poursuite à Liverpool</title>
+<title xml:lang="x-jat">Hatoba no Tsuiseki</title>
+</episode>
+<episode id="50054" update="2009-06-13">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1980-01-10</airdate>
+<title xml:lang="ja">よろこびの船路</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="fr">Une traversée sans histoire</title>
+<title xml:lang="x-jat">Yorokobi no Funaji</title>
+</episode>
+<episode id="50055" update="2009-06-13">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1980-01-17</airdate>
+<title xml:lang="ja">パラダイスはどこ?</title>
+<title xml:lang="en">Where`s Paradise?</title>
+<title xml:lang="fr">Où est Paradis ?</title>
+<title xml:lang="x-jat">Paradise wa Doko?</title>
+</episode>
+<episode id="50056" update="2009-06-13">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1980-01-24</airdate>
+<title xml:lang="ja">消えたオルゴール</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="fr">La disparition de la boite à musique</title>
+<title xml:lang="x-jat">Kieta Orgel</title>
+</episode>
+<episode id="50057" update="2009-06-13">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1980-01-31</airdate>
+<title xml:lang="ja">つかまったネル</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="fr">Une tentative de rapt</title>
+<title xml:lang="x-jat">Tsukamatta Nell</title>
+</episode>
+<episode id="50058" update="2009-06-13">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1980-02-07</airdate>
+<title xml:lang="ja">さよなら・おじいちゃん</title>
+<title xml:lang="en">Goodbye, Grandpa</title>
+<title xml:lang="fr">La gifle</title>
+<title xml:lang="x-jat">Sayonara Ojii-chan</title>
+</episode>
+<episode id="50059" update="2009-06-13">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1980-02-14</airdate>
+<title xml:lang="ja">キルプのわるだくみ</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="fr">Une sombre machination</title>
+<title xml:lang="x-jat">Quilp no Warudakumi</title>
+</episode>
+<episode id="50060" update="2009-06-13">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1980-02-21</airdate>
+<title xml:lang="ja">秘密の家のお客さま</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="fr">Les visiteurs de la maison secrète</title>
+<title xml:lang="x-jat">Himitsu no Ie no Okyaku-sama</title>
+</episode>
+<episode id="50061" update="2009-06-13">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1980-02-28</airdate>
+<title xml:lang="ja">兄さんがいた?</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="fr">Nell trouve un frère</title>
+<title xml:lang="x-jat">Nii-san ga Ita?</title>
+</episode>
+<episode id="50062" update="2009-06-13">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1980-03-06</airdate>
+<title xml:lang="ja">花の女王</title>
+<title xml:lang="en">Flower Queen</title>
+<title xml:lang="fr">Les larmes de la reine des fleurs</title>
+<title xml:lang="x-jat">Hana no Joou</title>
+</episode>
+<episode id="50063" update="2009-06-13">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1980-03-13</airdate>
+<title xml:lang="ja">ジュリエットの恋人</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="fr">Milo retrouve une amie</title>
+<title xml:lang="x-jat">Juliette no Koibito</title>
+</episode>
+<episode id="50064" update="2009-06-13">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1980-03-20</airdate>
+<title xml:lang="ja">古城のゆうれい</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="fr">Le château hanté</title>
+<title xml:lang="x-jat">Kojou no Yuurei</title>
+</episode>
+<episode id="50065" update="2009-06-13">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1980-03-27</airdate>
+<title xml:lang="ja">おじいちゃんの秘密</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="fr">Le secret de grand père</title>
+<title xml:lang="x-jat">Ojii-chan no Himitsu</title>
+</episode>
+<episode id="50066" update="2009-06-13">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1980-04-10</airdate>
+<title xml:lang="ja">幸運のぼろきれ王子</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="fr">Le petit prince vagabond</title>
+<title xml:lang="x-jat">Kouun no Borokire Ouji</title>
+</episode>
+<episode id="50067" update="2009-06-13">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1980-04-17</airdate>
+<title xml:lang="ja">追いつめられたキルプ</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="fr">Quilp en mauvaise posture</title>
+<title xml:lang="x-jat">Oitsumerareta Quilp</title>
+</episode>
+<episode id="50068" update="2009-06-13">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1980-04-24</airdate>
+<title xml:lang="ja">愛の楽園</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="fr">La mauvaise nouvelle</title>
+<title xml:lang="x-jat">Ai no Rakuen</title>
+</episode>
+<episode id="50069" update="2009-06-13">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1980-05-01</airdate>
+<title xml:lang="ja">希望の旅立ち</title>
+<title xml:lang="en">Departure of Hope</title>
+<title xml:lang="fr">Retour à Londres</title>
+<title xml:lang="x-jat">Kibou no Tabidachi</title>
+</episode>
+</episodes>
+</anime>

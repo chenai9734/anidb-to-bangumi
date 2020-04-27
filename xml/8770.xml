@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8770" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1968-01</startdate>
+<enddate>1968-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dororo</title>
+<title xml:lang="en" type="synonym">Dororo Pilot</title>
+<title xml:lang="ja" type="official">どろろ</title>
+</titles>
+<relatedanime>
+<anime id="1119" type="Alternative Setting">Dororo to Hyakkimaru</anime>
+</relatedanime>
+<url>http://tezukaosamu.net/jp/anime/105.html</url>
+<creators>
+<name id="1195" type="Original Work">Tezuka Osamu</name>
+<name id="3665" type="Direction">Sugii Gisaburou</name>
+<name id="2078" type="Music">Tomita Isao</name>
+</creators>
+<description>Before producing a TV series, a pilot film was made to let sponsors and television stations grasp the work`s pervasive quality. This is the pilot film for "Dororo" in which the characters are closer to those of the original story compared to the characters in the TV series. The faces and personalities of the characters in the TV series are altered from time to time to gain popularity among its viewers. As a result, sometimes viewers really loved it, but at other times it didn`t go over as well. The pilot for "Dororo" was made in color, but the TV series was monochrome due to a tighter budget. The story depicts a journey in which the boy thief named Dororo and a cursed man called Hyakkimaru destroy monsters. Hyakkimaru can be a complete "human" only after he destroys 48 devils.</description>
+<ratings>
+<permanent count="79">5.43</permanent>
+<temporary count="79">5.70</temporary>
+</ratings>
+<picture>75536.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>11471</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tezukaosamu.net/jp/anime/105.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://tezukaosamu.net/en/anime/105.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="134496" update="2011-11-01">
+<epno type="1">1</epno>
+<length>15</length>
+<rating votes="1">9.08</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

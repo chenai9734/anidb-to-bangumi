@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4962" restricted="false">
+<type>TV Series</type>
+<episodecount>100</episodecount>
+<startdate>1984-04-07</startdate>
+<enddate>1986-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Doushite Monogatari</title>
+<title xml:lang="ja" type="official">まんがどうして物語</title>
+<title xml:lang="ar" type="official">ينابيع المعرفة</title>
+</titles>
+<relatedanime>
+<anime id="4709" type="Other">Manga Naruhodo Monogatari</anime>
+<anime id="4952" type="Other">Manga Hajimete Omoshiro Juku</anime>
+<anime id="4965" type="Other">21 Seiki Manga Hajimete Monogatari</anime>
+<anime id="6300" type="Other">Manga Hajimete Monogatari</anime>
+</relatedanime>
+<ratings>
+<permanent count="5">4.16</permanent>
+<temporary count="5">5.20</temporary>
+</ratings>
+<picture>33044.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>703</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10136</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まんがどうして物語</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>85882</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1308</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>1696</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="106195" update="2009-08-10">
+<epno type="1">100</epno>
+<length>25</length>
+<airdate>1986-03-29</airdate>
+<title xml:lang="en">Episode 100</title>
+</episode>
+<episode id="106196" update="2009-08-10">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1984-04-07</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

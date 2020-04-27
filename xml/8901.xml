@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8901" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2012-01-22</startdate>
+<enddate>2012-01-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Happening Star</title>
+<title xml:lang="ja" type="synonym">ハプニングスター☆</title>
+<title xml:lang="ja" type="official">Happening Star ☆</title>
+</titles>
+<url>http://happening-star.net/</url>
+<creators>
+<name id="30153" type="Direction">Matsumoto Chihiro</name>
+</creators>
+<description>The science-fiction adventure story takes place 46 million light years away from Earth in the Sombrero Galaxy on a planet named Milky. The alien boy Kid, who refers to himself as Space`s #1 Pilot, uses a Power Crystal to modify his spaceship and travel through dimensions.
+Source: ANN
+Note: Happening Star distributed at the Sunshine Creation doujinshi event on January 22, 2012.</description>
+<picture>79489.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>12643</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://happening-star.net/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>343315</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=mtRKjt01h6k</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="136172" update="2012-01-05">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2012-01-22</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

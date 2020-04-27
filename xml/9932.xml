@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9932" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>2013-06-14</startdate>
+<enddate>2013-12-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yuuto-kun ga Iku</title>
+<title xml:lang="ja" type="official">ゆうとくんがいく</title>
+<title xml:lang="zh-Hans" type="official">GOGO佑都</title>
+</titles>
+<relatedanime>
+<anime id="10454" type="Other">Gekijouban Yuuto-kun ga Iku</anime>
+</relatedanime>
+<url>http://gogo-yuto.com/</url>
+<creators>
+<name id="22100" type="Work">Shirogumi</name>
+<name id="20085" type="Music">Kasamatsu Miki</name>
+</creators>
+<ratings>
+<permanent count="5">3.83</permanent>
+<temporary count="5">2.00</temporary>
+</ratings>
+<picture>138757.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15385</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>18983</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://gogo-yuto.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゆうとくんがいく</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>346190</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17266</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="64673" type="main character in" update="2014-02-20">
+<name>Yuuto-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Protagonist of the series.</description>
+<picture>150514.jpg</picture>
+<seiyuu id="302" picture="17134.jpg">Takeuchi Junko</seiyuu>
+</character>
+<character id="64674" type="secondary cast in" update="2014-02-20">
+<name>Kana-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s friend from kindergarten.</description>
+<picture>150515.jpg</picture>
+</character>
+<character id="64675" type="secondary cast in" update="2014-02-20">
+<name>Maa-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s friend from kindergarten.</description>
+<picture>150516.jpg</picture>
+</character>
+<character id="64676" type="secondary cast in" update="2014-02-20">
+<name>Hayato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Bully from the neighborhood.</description>
+<picture>150517.jpg</picture>
+</character>
+<character id="64677" type="secondary cast in" update="2014-02-20">
+<name>Otouto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s younger brother.</description>
+<picture>150518.jpg</picture>
+</character>
+<character id="64678" type="secondary cast in" update="2014-02-20">
+<name>Okaasan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s mother.</description>
+<picture>150519.jpg</picture>
+</character>
+<character id="64679" type="secondary cast in" update="2014-02-20">
+<name>Onee-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s older sister.</description>
+<picture>150520.jpg</picture>
+</character>
+<character id="64680" type="secondary cast in" update="2014-02-20">
+<name>Sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s club teacher at junior high school.</description>
+<picture>150521.jpg</picture>
+</character>
+<character id="64681" type="secondary cast in" update="2014-02-20">
+<name>Eki-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s senpai from soccer club.</description>
+<picture>150522.jpg</picture>
+</character>
+<character id="64682" type="secondary cast in" update="2014-02-20">
+<name>Shibi-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s senpai from soccer club.</description>
+<picture>150523.jpg</picture>
+</character>
+<character id="64683" type="secondary cast in" update="2014-02-20">
+<name>John</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s senpai from soccer club.</description>
+<picture>150524.jpg</picture>
+</character>
+<character id="64684" type="secondary cast in" update="2014-02-20">
+<name>Eiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s classmate.</description>
+<picture>150525.jpg</picture>
+</character>
+<character id="64685" type="appears in" update="2014-02-20">
+<name>Hikiwake Tarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hot-blooded supermarket manager.</description>
+<picture>150528.jpg</picture>
+</character>
+<character id="64686" type="appears in" update="2014-02-20">
+<name>Kaori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Office lady from Tokyo.</description>
+<picture>150527.jpg</picture>
+</character>
+<character id="64687" type="secondary cast in" update="2014-02-20">
+<name>Katachikara Hairu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s senpai from soccer team.</description>
+<picture>150529.jpg</picture>
+</character>
+<character id="64688" type="appears in" update="2014-02-20">
+<name>Rob</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>A dog which Yuuto befriends.</description>
+<picture>150530.jpg</picture>
+</character>
+<character id="64697" type="secondary cast in" update="2014-02-20">
+<name>Sakurai-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuto`s senpai from the club.</description>
+<picture>150534.jpg</picture>
+</character>
+<character id="64698" type="secondary cast in" update="2014-02-20">
+<name>Kayo-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Manager of the club.</description>
+<picture>150535.jpg</picture>
+</character>
+<character id="64699" type="appears in" update="2014-02-20">
+<name>Sasaki-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150536.jpg</picture>
+</character>
+<character id="64700" type="appears in" update="2014-02-20">
+<name>Tomoki-chan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150537.jpg</picture>
+</character>
+<character id="64701" type="appears in" update="2014-02-20">
+<name>Ojisan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Old man who sells antiques on the market.</description>
+<picture>150538.jpg</picture>
+</character>
+<character id="64702" type="appears in" update="2014-02-20">
+<name>Tanaka Ito</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A rookie from public relations.</description>
+<picture>150526.jpg</picture>
+</character>
+<character id="64752" type="appears in" update="2014-02-21">
+<name>YT-16N</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<description>Old-fashioned robot, which is exhibited in the Science Museum.</description>
+<picture>150553.jpg</picture>
+</character>
+<character id="64753" type="appears in" update="2014-02-21">
+<name>Dorobou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A thief.</description>
+<picture>150554.jpg</picture>
+</character>
+<character id="64754" type="appears in" update="2014-02-21">
+<name>Shiroda-sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A doctor of professional athletes.</description>
+<picture>150555.jpg</picture>
+</character>
+<character id="64755" type="appears in" update="2014-02-21">
+<name>Pedro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>An Italian who loves Japan.</description>
+<picture>150556.jpg</picture>
+</character>
+<character id="64756" type="appears in" update="2014-02-21">
+<name>Ottoriino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>An Italian who mades pizza.</description>
+<picture>150557.jpg</picture>
+</character>
+<character id="64757" type="appears in" update="2014-02-21">
+<name>Oksana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A wife of Ottoriino.</description>
+<picture>150558.jpg</picture>
+</character>
+<character id="64758" type="appears in" update="2014-02-21">
+<name>Toninho</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A boy from neighborhood who loves Elena.</description>
+<picture>150559.jpg</picture>
+</character>
+<character id="64759" type="appears in" update="2014-02-21">
+<name>Elena</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>An idol from downtown who is loved by many boys.</description>
+<picture>150560.jpg</picture>
+</character>
+<character id="64760" type="appears in" update="2014-02-21">
+<name>Pinto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Toninho`s classmate.</description>
+<picture>150561.jpg</picture>
+</character>
+<character id="64761" type="appears in" update="2014-02-21">
+<name>Giuseppe</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Film director.</description>
+<picture>150562.jpg</picture>
+</character>
+<character id="64762" type="appears in" update="2014-02-21">
+<name>Usagi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>A rabbit living on the moon.</description>
+<picture>150563.jpg</picture>
+</character>
+<character id="64763" type="appears in" update="2014-02-21">
+<name>Staff</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A staff member who takes care of Yuuto.</description>
+<picture>150564.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="153871" update="2017-07-12">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2013-06-14</airdate>
+<title xml:lang="ja">サッカーとの出会い</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Soccer to no Deai</title>
+</episode>
+<episode id="153872" update="2017-07-12">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2013-06-21</airdate>
+<title xml:lang="ja">サッカー少年</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Soccer Shounen</title>
+</episode>
+<episode id="153873" update="2017-07-12">
+<epno type="1">4</epno>
+<length>1</length>
+<airdate>2013-07-05</airdate>
+<title xml:lang="ja">兄と弟の決闘!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Ani to Otouto no Kettou!</title>
+</episode>
+<episode id="153874" update="2017-07-12">
+<epno type="1">5</epno>
+<length>1</length>
+<airdate>2013-07-12</airdate>
+<title xml:lang="ja">挑戦者</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Chousensha</title>
+</episode>
+<episode id="153875" update="2017-07-12">
+<epno type="1">12</epno>
+<length>1</length>
+<airdate>2013-08-30</airdate>
+<title xml:lang="ja">気配り上手</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kikubari Jouzu</title>
+</episode>
+<episode id="153876" update="2017-07-12">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2013-06-28</airdate>
+<title xml:lang="ja">ニコリ笑顔上手</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Nikori Egao Jouzu</title>
+</episode>
+<episode id="153877" update="2017-07-12">
+<epno type="1">7</epno>
+<length>1</length>
+<airdate>2013-07-26</airdate>
+<title xml:lang="ja">ベンキョーはつらいよ</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Benkyou wa Tsurai yo</title>
+</episode>
+<episode id="153878" update="2017-07-12">
+<epno type="1">6</epno>
+<length>1</length>
+<airdate>2013-07-19</airdate>
+<title xml:lang="ja">ゆれる心</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Yureru Kokoro</title>
+</episode>
+<episode id="153879" update="2017-07-12">
+<epno type="1">8</epno>
+<length>1</length>
+<airdate>2013-08-02</airdate>
+<title xml:lang="ja">転校するあの子</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Tenkou Suru Ano Ko</title>
+</episode>
+<episode id="153880" update="2017-07-12">
+<epno type="1">11</epno>
+<length>1</length>
+<airdate>2013-08-23</airdate>
+<title xml:lang="ja">何ごとも形から</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Nanigoto mo Katachi kara</title>
+</episode>
+<episode id="153881" update="2017-07-12">
+<epno type="1">9</epno>
+<length>1</length>
+<airdate>2013-08-09</airdate>
+<title xml:lang="ja">初めてのお仕事</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Hajimete no Oshigoto</title>
+</episode>
+<episode id="153882" update="2017-07-12">
+<epno type="1">10</epno>
+<length>1</length>
+<airdate>2013-08-16</airdate>
+<title xml:lang="ja">上京物語</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Joukyou Monogatari</title>
+</episode>
+<episode id="158137" update="2017-07-12">
+<epno type="1">26</epno>
+<length>1</length>
+<airdate>2013-12-06</airdate>
+<title xml:lang="ja">勝利の余韻!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Shouri no Yo`in!</title>
+</episode>
+<episode id="158138" update="2017-07-12">
+<epno type="1">25</epno>
+<length>1</length>
+<airdate>2013-11-29</airdate>
+<title xml:lang="ja">最終確認!!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Saishuu Kakunin!!</title>
+</episode>
+<episode id="158139" update="2017-07-12">
+<epno type="1">24</epno>
+<length>1</length>
+<airdate>2013-11-22</airdate>
+<title xml:lang="ja">究極の挑戦!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Kyuukyoku no Chousen!</title>
+</episode>
+<episode id="158140" update="2017-07-12">
+<epno type="1">23</epno>
+<length>1</length>
+<airdate>2013-11-15</airdate>
+<title xml:lang="ja">スター俳優</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Star Haiyuu</title>
+</episode>
+<episode id="158141" update="2017-07-12">
+<epno type="1">22</epno>
+<length>1</length>
+<airdate>2013-11-08</airdate>
+<title xml:lang="ja">小さな恋のメロディー</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Chiisana Koi no Melody</title>
+</episode>
+<episode id="158142" update="2017-07-12">
+<epno type="1">21</epno>
+<length>1</length>
+<airdate>2013-11-01</airdate>
+<title xml:lang="ja">ピザ屋のお手伝い</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Pisa-ya no Otetsudai</title>
+</episode>
+<episode id="158143" update="2017-07-12">
+<epno type="1">20</epno>
+<length>1</length>
+<airdate>2013-10-25</airdate>
+<title xml:lang="ja">日本魂</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Nippon Tamashii</title>
+</episode>
+<episode id="158144" update="2017-07-12">
+<epno type="1">19</epno>
+<length>1</length>
+<airdate>2013-10-18</airdate>
+<title xml:lang="ja">チームドクター</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Team Doctor</title>
+</episode>
+<episode id="158145" update="2017-07-12">
+<epno type="1">18</epno>
+<length>1</length>
+<airdate>2013-10-11</airdate>
+<title xml:lang="ja">一日署長</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Ichinichi Shochou</title>
+</episode>
+<episode id="158146" update="2017-07-12">
+<epno type="1">17</epno>
+<length>1</length>
+<airdate>2013-10-04</airdate>
+<title xml:lang="ja">ロボくん(後編)</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Robo-kun (Kouhen)</title>
+</episode>
+<episode id="158147" update="2017-07-12">
+<epno type="1">16</epno>
+<length>1</length>
+<airdate>2013-09-27</airdate>
+<title xml:lang="ja">ロボくん(前編)</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Robo-kun (Zenpen)</title>
+</episode>
+<episode id="158148" update="2017-07-12">
+<epno type="1">15</epno>
+<length>1</length>
+<airdate>2013-09-20</airdate>
+<title xml:lang="ja">新入社員</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Shinnyuu Sha`in</title>
+</episode>
+<episode id="158149" update="2017-07-12">
+<epno type="1">14</epno>
+<length>1</length>
+<airdate>2013-09-13</airdate>
+<title xml:lang="ja">初めてのお給料</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Hajimete no Okyuuryou</title>
+</episode>
+<episode id="158150" update="2017-07-12">
+<epno type="1">13</epno>
+<length>1</length>
+<airdate>2013-09-06</airdate>
+<title xml:lang="ja">全力勝負!!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Zenryoku Shoubu!!</title>
+</episode>
+</episodes>
+</anime>

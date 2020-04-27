@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8454" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2008-07-22</startdate>
+<enddate>2008-07-22</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Jin Sheng Yuan</title>
+<title xml:lang="zh-Hans" type="official">今生缘</title>
+</titles>
+<url>http://www.youtube.com/watch?v=2HKbbDukbJE</url>
+<description>* An animated music video of a song of http://anidb.net/s83829 [the same name], written and sung by Chuan Zi.
+Reminiscing on the bitter past while among friends...
+We were a group of reckless young teenagers, fearless in our attempt to join the "clan" (Triads). Youth isn`t forever, but our friendships continue to last within our hearts, forming beautiful memories.
+— Written by CDB-Man, adapted from YouTube description.</description>
+<ratings>
+<permanent count="56">6.21</permanent>
+<temporary count="56">5.99</temporary>
+</ratings>
+<picture>72198.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10132</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=2HKbbDukbJE</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="130403" update="2011-05-24">
+<epno type="1">1</epno>
+<length>5</length>
+<rating votes="1">2.63</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8670" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1988-08-23</startdate>
+<enddate>1988-08-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hare Tokidoki Buta (1988)</title>
+<title xml:lang="ja" type="official">はれときどきぶた (1988)</title>
+<title xml:lang="en" type="official">Fair, then Partly Piggy</title>
+</titles>
+<relatedanime>
+<anime id="2989" type="Other">Hare Tokidoki Buta</anime>
+</relatedanime>
+<creators>
+<name id="24619" type="Original Work">Yadama Shirou</name>
+<name id="3308" type="Direction">Hirata Toshio</name>
+</creators>
+<description>Eight year old Noriyasu writes and draws in his diary, discovering later that everything he writes in it comes true, even if involves talking pigs and strange adventures.
+Source: The Anime Encyclopedia</description>
+<ratings>
+<permanent count="9">3.80</permanent>
+<temporary count="9">4.77</temporary>
+</ratings>
+<picture>58471.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20712</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>24877</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>はれときどきぶた#.E3.82.A2.E3.83.8B.E3.83.A1.E6.98.A0.E7.94.BB</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150543</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2423</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="133297" update="2018-03-03">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>1988-08-23</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

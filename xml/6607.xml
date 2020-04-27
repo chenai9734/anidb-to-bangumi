@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6607" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1983-04-29</startdate>
+<enddate>1983-04-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pro Yakyuu o 10-bai Tanoshiku Miru Houhou</title>
+<title xml:lang="ja" type="official">プロ野球を10倍楽しく見る方法</title>
+</titles>
+<relatedanime>
+<anime id="6608" type="Sequel">Pro Yakyuu o 10-bai Tanoshiku Miru Houhou Part 2</anime>
+</relatedanime>
+<creators>
+<name id="3478" type="Animation Work">Tokyo Movie Shinsha</name>
+<name id="4229" type="Chief Animation Direction">Shibayama Tsutomu</name>
+<name id="3479" type="Music">Ootani Kazuo</name>
+<name id="16246" type="Direction">Suzuki Kiyoshi</name>
+<name id="5235" type="Original Work">Emoto Takenori</name>
+</creators>
+<description>Based on the two books of career reminiscences by real-life Hanshin Tigers baseball star Takenori Emoto.
+Mix of live action and animation to tell humorous anecdotes from professional baseball (nine short tales in nine "innings").</description>
+<ratings>
+<permanent count="5">2.20</permanent>
+<temporary count="5">4.20</temporary>
+</ratings>
+<picture>27836.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22399</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>18339</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3132</identifier>
+<identifier>mwbger</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>148501</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3978</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="28" parentid="2881" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-16">
+<name>baseball</name>
+<description>Baseball is like a complicated version of Rounders. It involves hitting a ball with a stick, then running around several bases placed in the form of a diamond on a field. Big in the US, and also in Japan.</description>
+<picurl>29801.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="103928" update="2011-10-20">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>1983-04-29</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

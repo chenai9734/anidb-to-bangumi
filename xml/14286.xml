@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14286" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1960</startdate>
+<enddate>1960</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kasa Jizou</title>
+<title xml:lang="ja" type="official">かさじぞう</title>
+</titles>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+<ratings>
+<permanent count="7">4.09</permanent>
+<temporary count="7">4.28</temporary>
+</ratings>
+<picture>222229.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32623</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205969" update="2018-09-03">
+<epno type="1">1</epno>
+<length>11</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

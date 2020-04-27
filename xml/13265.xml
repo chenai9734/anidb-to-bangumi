@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13265" restricted="false">
+<type>Movie</type>
+<episodecount>3</episodecount>
+<startdate>2020</startdate>
+<enddate>2026</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Zero Century</title>
+<title xml:lang="ja" type="synonym">零世紀</title>
+<title xml:lang="x-jat" type="synonym">Rei Seiki</title>
+<title xml:lang="ja" type="official">THE ZERO CENTURY</title>
+</titles>
+<url>http://zero-century.net</url>
+<creators>
+<name id="1389" type="Character Design">Sadamoto Yoshiyuki</name>
+<name id="44522" type="Work">Production Good Book</name>
+<name id="1107" type="Original Work">Matsumoto Reiji</name>
+<name id="3584" type="Direction">Yamaga Hiroyuki</name>
+<name id="5808" type="Chief Animation Direction">Kaiya Toshihisa</name>
+</creators>
+<picture>204745.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35853</identifier>
+</externalentity>
+<externalentity>
+<identifier>35854</identifier>
+</externalentity>
+<externalentity>
+<identifier>35855</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://zero-century.net</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361218</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>zerocenturynet</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="188821" update="2017-07-06">
+<epno type="1">3</epno>
+<length>0</length>
+<title xml:lang="en">Maetel</title>
+</episode>
+<episode id="188822" update="2017-07-06">
+<epno type="1">2</epno>
+<length>0</length>
+<title xml:lang="en">Herlock</title>
+</episode>
+<episode id="188823" update="2017-07-06">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="ja">エメラルダス</title>
+<title xml:lang="en">Emeraldas</title>
+<title xml:lang="x-jat">Emeraldas</title>
+</episode>
+</episodes>
+</anime>

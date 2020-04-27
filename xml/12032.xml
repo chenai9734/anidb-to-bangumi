@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12032" restricted="false">
+<type>TV Series</type>
+<episodecount>24</episodecount>
+<startdate>2016-10-01</startdate>
+<enddate>2017-03-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Time Bokan 24</title>
+<title xml:lang="en" type="synonym">Time Bokan 24 (2016)</title>
+<title xml:lang="ja" type="official">タイムボカン24</title>
+<title xml:lang="en" type="official">Time Bokan 24</title>
+<title xml:lang="zh-Hans" type="official">时间飞船24</title>
+</titles>
+<relatedanime>
+<anime id="13039" type="Sequel">Time Bokan: Gyakushuu no San-Okunin</anime>
+<anime id="2546" type="Other">Time Bokan</anime>
+</relatedanime>
+<url>http://www.ytv.co.jp/timebokan24/</url>
+<creators>
+<name id="830" type="Animation Work">Tatsunoko Production</name>
+<name id="9764" type="Series Composition">Katou Youichi</name>
+<name id="830" type="Original Work">Tatsunoko Production</name>
+<name id="8114" type="Direction">Inagaki Takayuki</name>
+</creators>
+<description>The story centers on http://anidb.net/ch84216 [Tokio], a junior high student living in the present time who is suddenly made a member of the 24th century`s Space-Time Administration Bureau. Immediately, he learns that the history he has learned in the textbooks is wrong, and there is a more interesting version of history where the peerless beauty Cleopatra is actually the comic duo of Cleo and Patra, and Momotarou is more of an ogre than actual ogres. Together with his teammate http://anidb.net/ch84213 [Calen], they use the 24 Bokan Mecha to search for the True History. The villains in the story include http://anidb.net/ch84217 [Bimajo], http://anidb.net/ch84215 [Tsubuyakky] and http://anidb.net/ch84214 [Suzukky], who are employed by History Paradise (the world`s largest textbook company) to keep history as it was written in the textbooks.
+Source: ANN</description>
+<ratings>
+<permanent count="78">3.29</permanent>
+<temporary count="78">4.72</temporary>
+</ratings>
+<picture>187469.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18180</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33026</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ytv.co.jp/timebokan24/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Time_Bokan_24</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>タイムボカン24</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4325</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356143</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19493</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07J2WKHFD</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="84213" type="main character in" update="2017-09-25">
+<rating votes="4">8.87</rating>
+<name>Calen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207514.jpg</picture>
+<seiyuu id="41766" picture="242448.jpg">Kitou Akari</seiyuu>
+</character>
+<character id="84214" type="secondary cast in" update="2017-09-25">
+<name>Suzukky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207519.jpg</picture>
+<seiyuu id="178" picture="228660.jpg">Miyake Kenta</seiyuu>
+</character>
+<character id="84215" type="secondary cast in" update="2017-09-25">
+<name>Tsubuyakky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207518.jpg</picture>
+<seiyuu id="323" picture="211661.jpg">Hirata Hiroaki</seiyuu>
+</character>
+<character id="84216" type="main character in" update="2017-09-25">
+<name>Tokio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207513.jpg</picture>
+<seiyuu id="45621" picture="205087.jpg">Wakayama Akihisa</seiyuu>
+</character>
+<character id="84217" type="secondary cast in" update="2017-09-25">
+<rating votes="2">6.53</rating>
+<name>Bimajo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207517.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+<character id="91529" type="secondary cast in" update="2017-09-25">
+<name>Picobo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207515.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="91530" type="secondary cast in" update="2017-09-25">
+<name>Peralino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207516.jpg</picture>
+<seiyuu id="76" picture="16684.jpg">Maeda Takeshi</seiyuu>
+</character>
+<character id="91531" type="appears in" update="2017-09-25">
+<name>B01 Mechabuton</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207520.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="91532" type="appears in" update="2017-09-25">
+<name>B02 Kuwagattan</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207521.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="91533" type="appears in" update="2017-09-25">
+<name>B01+B02 Bokan Dragon</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207522.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="91534" type="appears in" update="2017-09-25">
+<name>B16 Kumomoter</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>207523.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="91535" type="appears in" update="2017-09-25">
+<name>B04 Cattonbow</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207524.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="91536" type="appears in" update="2017-09-25">
+<name>B05 Hachibloon</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207525.jpg</picture>
+<seiyuu id="2230" picture="21782.jpg">Iwasaki Masami</seiyuu>
+</character>
+<character id="91537" type="appears in" update="2017-09-25">
+<name>B12 Suzumupeaker</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207526.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="91538" type="appears in" update="2017-09-25">
+<name>B13 Aribomber</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207527.jpg</picture>
+<seiyuu id="2230" picture="21782.jpg">Iwasaki Masami</seiyuu>
+</character>
+<character id="91539" type="appears in" update="2017-09-25">
+<name>B06 Kamakiripper</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207528.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="91540" type="appears in" update="2017-09-25">
+<name>B17 Sasomobile</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>207529.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="91541" type="appears in" update="2017-09-25">
+<name>B07 Semitobun</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207530.jpg</picture>
+<seiyuu id="2230" picture="21782.jpg">Iwasaki Masami</seiyuu>
+</character>
+<character id="91542" type="appears in" update="2017-09-25">
+<name>B09 Hotarugyro</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207531.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="91543" type="appears in" update="2017-09-25">
+<name>B18 Okedriller</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>207532.jpg</picture>
+<seiyuu id="2230" picture="21782.jpg">Iwasaki Masami</seiyuu>
+</character>
+<character id="91544" type="appears in" update="2017-09-25">
+<name>B22 Imomushiitank</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>207533.jpg</picture>
+<seiyuu id="2230" picture="21782.jpg">Iwasaki Masami</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="180300" update="2016-11-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2016-10-22</airdate>
+<title xml:lang="ja">恐竜は人間のペットだった!</title>
+<title xml:lang="en">Dinosaurs Were Humans` Pets!</title>
+<title xml:lang="x-jat">Kyouryuu wa Ningen no Pet Datta!</title>
+<summary>This time, they travel to the Mesozoic Era. They arrive to a jungle in the Mesozoic Era and find a True History signal. Right when they get there, a dinosaur pops out! However, it has a ribbon on and they find out that dinosaurs are pets. Tokio mentions that he wants a T-Rex for a pet but then Mechabuton gets taken. At this rate, they won`t be able to return to their own time...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720933</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180301" update="2016-11-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2016-10-15</airdate>
+<title xml:lang="ja">桃太郎は鬼よりも鬼だった!</title>
+<title xml:lang="en">Momotaro Was Actually More of an Ogre Than an Actual Ogre!</title>
+<title xml:lang="x-jat">Momotarou wa Oni yori mo Oni Datta!</title>
+<summary>Tokio and Calen go to Onigashima to find the next True History. And then a peach came rolling down the river... wait, that`s a red ogre`s butt?! The red ogre tells them that he was punished by someone more ogre-like than actual ogres and starts crying. He leads them to a stage, where loud music is playing, and the one on stage who has all the female ogres` attention is a super hot Momotaro?! Calen tries to go talk some sense into him, but falls for him, too! Wait, Bimajo, too?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720931</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180302" update="2016-11-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2016-10-08</airdate>
+<title xml:lang="ja">ライト兄弟はひとりっ子だった!</title>
+<title xml:lang="en">The Wright Brothers Were Actually an Only Child!</title>
+<title xml:lang="x-jat">Light Kyodai wa Hitorikko Datta!</title>
+<summary>Tokio and Calen travel to North Carolina in 1903 in order to find the True History behind the Wright Brothers. The Wright Brothers they met there were not making planes, let alone bicycles, but were apparently brothers that just happened to make "lights" for bicycles. However, there seemed to be something wrong with the younger brother, Orville... actually, uh, he`s a doll?! Akudarma wants to keep the history as it is in the textbooks, and tries to get Wright to fly a plane. It appears that Tsubuyakky has a plan, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720929</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180303" update="2016-11-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2016-10-01</airdate>
+<rating votes="1">2.27</rating>
+<title xml:lang="ja">クレオパトラはクレ夫とパトラという漫才コンビだった!</title>
+<title xml:lang="en">Cleopatra Was Actually a Comedy Duo Known as Cleo and Patra!</title>
+<title xml:lang="x-jat">Cleopatra wa Cleo to Patra to Iu Manzai Combi Datta!</title>
+<summary>Time traveler Calen is hopping through time, trying to get away from Akudarma Trio. After a direct hit, she is forced to crash land in 2016 and encounters a boy named Tokio. The Akudarma Trio is right behind, so she has no choice but to take Tokio with her to the 24th century to escape. There, Tokio finds out that Calen works for the JKK, an organization that travels through time, trying to find out the True History. Tokio then finds himself travelling with Calen to Ancient Egypt to find out the truth about Cleopatra.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720927</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180678" update="2016-10-01">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2016-10-01</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="180679" update="2016-10-01">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2016-10-01</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="181041" update="2016-11-30">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2016-11-19</airdate>
+<title xml:lang="ja">シートンの動物記はドーナツ記だった!</title>
+<title xml:lang="en">Seton Animal Chronicles Was Actually Donut Chronicles!</title>
+<title xml:lang="x-jat">Seton no Doubutsuki wa Doughnutski Datta!</title>
+<summary>Tokio and Calen arrive to New York in the late 1800`s to discover the True History about Seton`s Animal Chronicles. When they arrive, they find out that Seton isn`t trying to chronicle animals, but donuts instead...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720941</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181042" update="2016-11-30">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2016-11-12</airdate>
+<title xml:lang="ja">コロンブスが発見したのは新大陸ではなく新体操だった!</title>
+<title xml:lang="en">What Columbus Discovered Was Not a New Continent, but a New Exercise Called Gymnastics!</title>
+<title xml:lang="x-jat">Columbus ga Hakken Shita no wa Shin Tairiku de wa Naku Shintaisou Datta!</title>
+<summary>Tokio and Calen go back to Spain in 1492 to find the true history about Columbus and his journey to find the new continent. However, when they find him, they realize he has no interest in a new continent, but is trying to discover the next new exercise...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720939</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181043" update="2016-11-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2016-11-05</airdate>
+<title xml:lang="ja">渋谷のハチ公は蜂だった!</title>
+<title xml:lang="en">Shibuya`s Hachiko Was Actually a Bee!</title>
+<title xml:lang="x-jat">Shibuya no Hachikou wa Hachi Datta!</title>
+<summary>Tokio and Calen arrive to Shibuya Station in the 8th year of Showa to find the True History about Hachiko. They immediately find a dog waiting outside the station. They figure it must be Hachiko and go over to him, but instead, they find... Just then, they get a True History signal, but can`t seem to find Hachiko. But they look closer the dog`s nose, and they see a bee... Wait, is the bee Hachiko?! Of course, Akudarma shows up once again to get in their way of the True History.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720937</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181044" update="2016-11-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2016-10-29</airdate>
+<title xml:lang="ja">ハロウィンのトリック・オア・トリートは鳥取or島根だった!</title>
+<title xml:lang="en">Halloween`s Trick or Treat Was Actually Tottori or Shimane!</title>
+<title xml:lang="x-jat">Halloween no Trick or Treat wa Tottori or Shimane Datta!</title>
+<summary>This time, it`s the True History about Halloween. However, the place they arrive is the Tottori Desert in the 4th year of the Meiji Era. Tokio and Calen meet the host, Fukuzawa-san, who they think they`ve seen before. Apparently people mistake Tottori and Shimane quite often, so he holds a quiz about them. It starts on October 31st... Wait, does that mean "trick or treat" was originally "Tottori or Shimane"? Akudarma won`t allow for such a punny history, so they also participate in the quiz...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720935</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181835" update="2016-12-18">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2016-12-17</airdate>
+<title xml:lang="ja">ジャンヌ・ダルクは初代○○だった!</title>
+<title xml:lang="en">Joan of Arc Was the First ______!</title>
+<title xml:lang="x-jat">Jeanne d`Arc wa Shoudai .. Datta!</title>
+<summary>In search of the True History about Jeanne D`arc, Tokio and Calen arrive to Orléans, France. The encounter a thief as soon as they get there, but then a magical girl shows up. Huh? And she`s Jeanne D`arc? You`d think she`d use magic but instead she just hits the thief with her wand. Apparently she`s acting like a magical girl because of her boyfriend. Meanwhile, Akudarma shows up disguised as angels from Heaven and try to give Jeanne a sword, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720949</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181836" update="2016-12-14">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2016-12-10</airdate>
+<title xml:lang="ja">鉄砲伝来は○○伝来だった!</title>
+<title xml:lang="en">Guns First Being Introduced to Japan Was Actually ______ First Being Introduced to Japan!</title>
+<title xml:lang="x-jat">Teppou Denrai wa .. Denrai Datta!</title>
+<summary>Tokio and Calen arrive to Tanegashima in 1543 to when guns first arrived to Japan. What the Europeans actually brought were... actually underwear?! However, Akudarma actually steals the underwear and at this rate, they won`t be able to witness the True History. And so instead, they use... Tokio`s underwear?! His underwear ends up becoming a hit throughout the town. Despite it being their mission, Calen couldn`t help but feel conflicted about it. Apparently there was something strange about the lord of Tanegashima, as well...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720947</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181837" update="2016-12-04">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2016-12-03</airdate>
+<title xml:lang="ja">戦国時代の国盗り合戦は○○合戦だった!</title>
+<title xml:lang="en">The Land-taking Battle During the Warring States Era Was Actually a _____ Battle!</title>
+<title xml:lang="x-jat">Sengokujidai no Kuni Tori Kassen wa .. Kassen Datta!</title>
+<summary>Tokio and Calen travel back to 1560 into the Sengoku Era in order to find the True History about Oda Nobunaga. When they get to Kiyosu Castle, there were giant rhinoceros beetles decorating the roof! The guards at the gate even had dung beetle helmets and were holding bug nets rather than swords. Nobunaga says that the one who rules over bugs will rule over Japan and was having a bug-catching battle. Akudarama presents Nobunaga with a fake rhinoceros beetle, so they can move quickly up the ranks and control Nobunaga...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720945</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181838" update="2016-11-30">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2016-11-26</airdate>
+<title xml:lang="ja">ガガーリンの名言は「地球は○○だった!」</title>
+<title xml:lang="en">Gagarin`s Famous Quote Was, "The Earth Is ______"!</title>
+<title xml:lang="x-jat">Gagarin no Meigen wa "Chikyuu wa Marumaru Datta!"</title>
+<summary>In order to find out the True History about Gagarin, who was famous for saying that the Earth was blue, Tokio and Calen head back to the Soviet Union in 1961. They find some astronaut trainees and immediately find that Akudarma is already there. Gagarin comes in between them, saying that it`s not right to fight underneath the blue sky, but he seems extremely interested in Tokio. Apparently, he really likes the color blue, but... This time, they can`t seem to find a True History signal very easily, so the head to Space with Gagarin. Just what is the True History this time?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720943</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="182730" update="2016-12-25">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2016-12-24</airdate>
+<title xml:lang="ja">サンタクロースは○○だった!</title>
+<title xml:lang="en">Santa Claus Was Actually ______!</title>
+<title xml:lang="x-jat">Santa Claus wa .. Datta!</title>
+<summary>Tokio and Calen arrive to Greenland in 2016 and meet a very musculuar old man with a white beard and and red suit named Rudolph and his reindeer. For a moment, they thought that the True History that Santa was a macho guy, but then starts pulling the sleigh himself. However, Rudolph ends up passing out from a fever. Tokio and Calen take over delivering presents for him. Apparently Bimajo has some unfinished business with Santa and was waiting for this chance, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>720951</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183082" update="2017-01-21">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2017-01-21</airdate>
+<title xml:lang="ja">ガリレオ・ガリレイは○○だった!</title>
+<title xml:lang="en">Galileo Galilei Was Actually a ______!</title>
+<title xml:lang="x-jat">Galileo Galilei wa .. Datta!</title>
+<summary>Tokio and Calen arrive to Italy in 1589. They find some slightly chubby people pushing the Leaning Tower of Pisa diagonally. Apparently it always ends up straight when no one’s pushing on it. And then, Galileo Galilei shows up swaying to some music and starts rapping. Apparently Galileo was a rapper! Akudarma attempt to do a rap battle with him to try to get him to study astronomy...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727811</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183083" update="2017-01-16">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2017-01-14</airdate>
+<title xml:lang="ja">ピタゴラスは○○の天才だった!</title>
+<title xml:lang="en">Pythagoras Was Actually a Genius of ______!</title>
+<title xml:lang="x-jat">Pythagoras wa .. no Tensai Datta!</title>
+<summary>Calen and Tokio travel back to Ancient Greece to find out the True History about Pythagoras. When they get there, they find rather than finding a mathmatician, they find an old man who`s amazing at making trick mechanisms...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727809</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183084" update="2017-01-09">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2017-01-07</airdate>
+<title xml:lang="ja">忍者 服部半蔵は○○だった!</title>
+<title xml:lang="en">The Ninja Hattori Hanzo Was Actually a ______!</title>
+<title xml:lang="x-jat">Ninja Hattori Hanzou wa .. Datta!</title>
+<summary>Tokio and Calen arrive to Suruga Province in 1585. There, they find Hattori Hanzo showing off something like ninjutsu called Hanzo Power. However, Akudarma is trying to get him to become a ninja like in the history books by revealing the secrets to all of his magic tricks. This greatly depresses Hanzo because it`ll be hard to regain his audience that he lost. Tokio then suggests that he try to make a castle on top of a mountain disappear...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727807</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183706" update="2017-02-23">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2017-02-18</airdate>
+<title xml:lang="ja">新撰組は人○○集団だった!</title>
+<title xml:lang="en">The Shinsengumi Was Actually a _________ Group!</title>
+<title xml:lang="x-jat">Shinsengumi wa Hito .. Shuudan Datta!</title>
+<summary>Tokio and Calen travel back to the Bakumatsu Era of Japan to find out the True History about the Shinsengumi. When they get there, rather than seeing a group of brave samurai ready to cut down those who oppose the shogunate, they find a bunch of guys wearing masks, running away from girls. Apparently the Shinsengumi was a group of hot guys who were too deathly shy to show their faces in public.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727819</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183707" update="2017-02-23">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2017-02-11</airdate>
+<title xml:lang="ja">紫式部は○○だった!</title>
+<title xml:lang="en">Murasaki Shikibu Was Actually a ________!</title>
+<title xml:lang="x-jat">Murasaki Shikibu wa .. Datta!</title>
+<summary>Calen and Tokio travel back to Kyoto in 1008 to find out the True History about Murasaki Shikibu. They immediately try to find her, but instead, they find a club where all the women there are dressed in purple. They also seem rather startled at the fact that Calen is wearing pink. Apparently Murasaki Shikibu was the name of a club where the members loved purple more than anything else. Bimajo tries to become the president of the club and tries to squash the club as well as the True History...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727817</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183708" update="2017-02-07">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2017-02-04</airdate>
+<title xml:lang="ja">ナスカの地上絵は○○だった!</title>
+<title xml:lang="en">The Nazca Lines Were __________!</title>
+<title xml:lang="x-jat">Nazca no Chijoue wa .. Datta!</title>
+<summary>Tokio and Calen arrive to Peru when the Nasca Lines were being drawn. There, they meet a young man named Nasca, who is drawing on the ground. He apparently wants to tell someone how he really feels, and that`s why he`s drawing on the ground, but the drawings look awful. As usual, Akudarma arrives and tries to get in the way with an artist mecha. However Nasca isn`t even upset... Rather he`s moved by how great the drawings are and asks Akudarma to let him be their apprentice and jumps into their cockpit...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727815</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183709" update="2017-02-07">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2017-01-28</airdate>
+<title xml:lang="ja">三蔵法師が目指したのは世界一の○○だった!</title>
+<title xml:lang="en">What Sanzo Hoshi Was Striving for Was the World`s Best ______!</title>
+<title xml:lang="x-jat">Sanzou Houshi ga Mezashita no wa Sekaiichi no .. Datta!</title>
+<summary>Calen and Tokio travel back to Ancient China to find out the True History about Sanzo Hoshi. When they get there, they find out that Sanzo Hoshi is actually a comedy producer and Son Goku and the others are comedians. Right when they get there, they seem to be having a dispute...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727813</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184468" update="2017-03-18">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2017-03-18</airdate>
+<title xml:lang="ja">天才ダ・ヴィンチが最終回だった!</title>
+<title xml:lang="en">The Genius da Vinci Was the Final Episode!</title>
+<title xml:lang="x-jat">Tensai Da Vinci ga Saishuukai Datta!</title>
+<summary>Akudarma arrive to the Republic of Florence in the 16th century, and meet da Vinci, who welcomes them with open arms. However, upon closer inspection, they see that there are even more hands and feet behind him... There are 24 people behind him! Tokio and Calen are also surprised, but they are suddenly thrown into a mecha battle. They go in with Bokan Dragon, but Akudarma powers up with a secret weapon and they get blown away. They quickly Time Bokan and manage to get away, but apparently da Vinci followed them to the 24th century?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727827</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184469" update="2017-03-11">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2017-03-11</airdate>
+<title xml:lang="ja">ナイチンゲールは白衣の○○だった!</title>
+<title xml:lang="en">Nightingale Was Actually the ________ in White!</title>
+<title xml:lang="x-jat">Nightingale wa Hakui no .. Datta!</title>
+<summary>Tokio and Calen arrive to Tuscany in 1820 and meet Nightingale, who had just been born. They then continue to Time Bokan looking for the True History as she grows up, but Nightingale continues to grow more and more high-handed. She then makes a white nurse’s uniform and starts posing in it. Bimajo makes the comment that rather than an angel in white, she seems like a tengu in white. It’s then that Calen’s visor gets a signal... Wait, that’s the True History this time?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727825</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184470" update="2017-03-04">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2017-03-04</airdate>
+<title xml:lang="ja">アメリカの月面着陸はヤラセだった!</title>
+<title xml:lang="en">America`s Moon Landing Was Staged!</title>
+<title xml:lang="x-jat">America no Getsumenchakuriku wa Yarase Datta!!</title>
+<summary>Tokio and Calen arrive in America in 1969 to find out the True History about the Moon landing. However, they arrive in Hollywood and sneak into a studio... There, they find a set that looks like the Moon landing. Apparently they were preparing to deal with filming since President Nixon suddenly said they would go to the Moon on July 20th. Meanwhile, Akudarma tries to figure out what to do since they find out the Moon landing was fake. Bimajo says that they should just go to the Moon themselves, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727823</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="184471" update="2017-02-25">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2017-02-25</airdate>
+<title xml:lang="ja">ヴェルサイユ宮殿は○○センターだった!</title>
+<title xml:lang="en">Versailles Was Actually a ________ Center!</title>
+<title xml:lang="x-jat">Versailles Kyuuden wa .. Center Datta!</title>
+<summary>Tokio and Calen arrive to Versailles in France in the 18th century. However, when they get there, they see a sign for “Fashion Center Versailles.” When they went in, they find a young woman in casual clothes welcoming in housewives. However, the housewives get angry and go home without buying anything. Huh? Apparently that girl is Marie Antoinette?! Akudarma steps in and tries to lead tries to lead Marie into the lifestyle of extravagance, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727821</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14335" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1956-01</startdate>
+<enddate>1956-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Uriko-hime to Amanojaku</title>
+<title xml:lang="ja" type="official">瓜子姫とあまのじゃく</title>
+</titles>
+<creators>
+<name id="9587" type="Direction">Mochinaga Tadahito</name>
+<name id="13314" type="Direction">Tanaka Yoshitsugu</name>
+<name id="9919" type="Music">Sakamoto Yoshitaka</name>
+</creators>
+<description>Japan`s first puppet animation directed by http://anidb.net/cr9587 [Mochinaga Tadahito] and http://anidb.net/cr13314 [Tanaka Yoshitsugu].</description>
+<ratings>
+<permanent count="9">3.25</permanent>
+<temporary count="9">4.00</temporary>
+</ratings>
+<picture>222978.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29917</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>12142</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205818" update="2018-08-30">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

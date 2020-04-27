@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4961" restricted="false">
+<type>TV Series</type>
+<episodecount>88</episodecount>
+<startdate>1980-10-11</startdate>
+<enddate>1982-06-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Kotowaja Jiten</title>
+<title xml:lang="en" type="synonym">Manga Proverb Encyclopedia</title>
+<title xml:lang="ja" type="official">まんがことわざ事典</title>
+</titles>
+<creators>
+<name id="6383" type="Direction">Kondou Eisuke</name>
+</creators>
+<description>An educational anime, each episode contains three short cartoons.</description>
+<ratings>
+<permanent count="1">1.35</permanent>
+<temporary count="1">2.00</temporary>
+</ratings>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>992</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33300</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まんがことわざ事典</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235554</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1304</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>1211</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="106197" update="2009-08-10">
+<epno type="1">88</epno>
+<length>0</length>
+<airdate>1982-06-13</airdate>
+<title xml:lang="en">Episode 88</title>
+</episode>
+<episode id="106198" update="2009-08-10">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1980-10-11</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12113" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2016-05-09</startdate>
+<enddate>2016-11-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Arslan Senki (2016)</title>
+<title xml:lang="ja" type="synonym">アルスラーン戦記 外伝</title>
+<title xml:lang="x-jat" type="synonym">Arslan Senki: Gaiden</title>
+<title xml:lang="ja" type="official">アルスラーン戦記 THE HEROIC LEGEND OF ARSLAN (2016)</title>
+<title xml:lang="ko" type="official">아르슬란 전기: 외전</title>
+</titles>
+<relatedanime>
+<anime id="10910" type="Parent Story">Arslan Senki (2015)</anime>
+</relatedanime>
+<description>Note: Bundled with limited editions of the 5th and 6th volumes of the Arslan Senki manga.</description>
+<ratings>
+<permanent count="182">4.34</permanent>
+<temporary count="182">6.14</temporary>
+</ratings>
+<picture>186834.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33254</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アルスラーン戦記#.E3.83.86.E3.83.AC.E3.83.93.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358463</identifier>
+</externalentity>
+<externalentity>
+<identifier>358464</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="72533" type="main character in" update="2015-09-30">
+<rating votes="37">6.86</rating>
+<name>Arslan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168179.jpg</picture>
+<seiyuu id="38670" picture="185856.jpg">Kobayashi Yuusuke</seiyuu>
+</character>
+<character id="72534" type="secondary cast in" update="2015-02-01">
+<rating votes="36">8.46</rating>
+<name>Daryun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168180.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="72953" type="secondary cast in" update="2015-02-01">
+<rating votes="17">5.41</rating>
+<name>Elam</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168181.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="72954" type="secondary cast in" update="2015-07-29">
+<rating votes="29">8.38</rating>
+<name>Narsus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168178.jpg</picture>
+<seiyuu id="265" picture="25730.jpg">Namikawa Daisuke</seiyuu>
+</character>
+<character id="73416" type="secondary cast in" update="2015-02-22">
+<rating votes="24">8.03</rating>
+<name>Gieve</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169103.jpg</picture>
+<seiyuu id="367" picture="17213.jpg">Kenn</seiyuu>
+</character>
+<character id="73417" type="secondary cast in" update="2015-02-22">
+<rating votes="51">7.93</rating>
+<name>Farangis</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169102.jpg</picture>
+<seiyuu id="227" picture="205854.jpg">Sakamoto Maaya</seiyuu>
+</character>
+<character id="73599" type="appears in" update="2015-03-01">
+<rating votes="16">5.86</rating>
+<name>Gin Kamen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169631.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="73823" type="appears in" update="2015-07-08">
+<rating votes="7">2.40</rating>
+<name>Inokentis VII</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175255.jpg</picture>
+<seiyuu id="2603" picture="22591.jpg">Sakurai Toshiharu</seiyuu>
+</character>
+<character id="73825" type="appears in" update="2015-05-10">
+<rating votes="9">5.57</rating>
+<name>Quishward</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173242.jpg</picture>
+</character>
+<character id="73826" type="appears in" update="2015-07-08">
+<rating votes="6">3.67</rating>
+<name>Guiscarl</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175254.jpg</picture>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+<character id="73827" type="appears in" update="2015-05-10">
+<rating votes="10">4.20</rating>
+<name>Kubard</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173245.jpg</picture>
+</character>
+<character id="73830" type="appears in" update="2015-05-10">
+<rating votes="13">1.39</rating>
+<name>Bodan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173260.jpg</picture>
+<seiyuu id="4731" picture="27599.jpg">Saitou Shirou</seiyuu>
+</character>
+<character id="75519" type="secondary cast in" update="2015-07-29">
+<rating votes="20">4.45</rating>
+<name>Alfreed</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175444.jpg</picture>
+<seiyuu id="17069" picture="80944.jpg">Numakura Manami</seiyuu>
+</character>
+<character id="75521" type="appears in" update="2015-07-14">
+<rating votes="13">5.13</rating>
+<name>Jaswant</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175445.jpg</picture>
+<seiyuu id="29" picture="202917.jpg">Hatano Wataru</seiyuu>
+</character>
+<character id="75522" type="appears in" update="2015-09-30">
+<rating votes="9">2.81</rating>
+<name>Rajendra</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175446.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="76872" type="appears in" update="2015-09-23">
+<rating votes="1">7.39</rating>
+<name>Mahendra</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177822.jpg</picture>
+<seiyuu id="3094" picture="50367.jpg">Kanao Tetsuo</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="177419" update="2016-11-16">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2016-11-09</airdate>
+<rating votes="2">4.43</rating>
+<title xml:lang="ja">友情の宴</title>
+<title xml:lang="en">Banquet of Friendship</title>
+<title xml:lang="ko">우정의 잔치</title>
+<title xml:lang="x-jat">Yuujou no Utage</title>
+</episode>
+<episode id="177420" update="2016-05-28">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2016-05-09</airdate>
+<rating votes="2">7.01</rating>
+<title xml:lang="ja">汗血恋路</title>
+<title xml:lang="en">The Road of Blood and Love</title>
+<title xml:lang="ko">땀 혈액 연애</title>
+<title xml:lang="x-jat">Kanketsu Koiji</title>
+</episode>
+</episodes>
+</anime>

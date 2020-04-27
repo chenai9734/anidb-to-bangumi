@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8502" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1992-04-01</startdate>
+<enddate>1992-04-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shika to Kanta</title>
+<title xml:lang="ja" type="official">シカとカンタ</title>
+</titles>
+<creators>
+<name id="4295" type="Music">Yokoyama Seiji</name>
+<name id="14000" type="Direction">Watanabe Hideo</name>
+<name id="10235" type="Original Work">Ikeda Daisaku</name>
+</creators>
+<description>One day, Kanta, a lonely boy, rescues an orphaned baby deer and names it Poyu. There is something special about Poyu, his golden tail. When hunters go after Poyu, Kanta is determined to protect his golden-tailed friend and the other deer.
+Source: MAL</description>
+<ratings>
+<permanent count="6">2.35</permanent>
+<temporary count="6">3.50</temporary>
+</ratings>
+<picture>238123.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19958</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30447</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235720</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="34521" type="main character in" update="2012-04-25">
+<name>Kanta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="393" picture="46104.jpg">Takayama Minami</seiyuu>
+</character>
+<character id="34522" type="main character in" update="2011-07-13">
+<name>Poyu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="353" picture="17192.jpg">Midorikawa Hikaru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="131887" update="2011-07-15">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1992-04-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3951" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1993-03-22</startdate>
+<enddate>1993-03-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kamen Rider SD Kaiki?! Kumo Otoko</title>
+<title xml:lang="ar" type="synonym">الدراج المقنع</title>
+<title xml:lang="ja" type="official">仮面ライダーSD 怪奇!?クモ男</title>
+<title xml:lang="en" type="official">Masked Rider Super-Deformed</title>
+</titles>
+<relatedanime>
+<anime id="12527" type="Other">Kamen Rider Den-O: Imagin Anime</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="1211" type="Original Work">Ishinomori Shoutarou</name>
+<name id="20082" type="Music">Yoshida Akihiko</name>
+<name id="5211" type="Direction">Kawada Takenori</name>
+<name id="5361" type="Character Design">Iriyoshi Satoru</name>
+</creators>
+<description>* Based on http://anidb.net/cr1211 [Ishinomori Shoutarou]`s Kamen Rider series.
+All of the Kamen Riders are turned into SD characters in this parody.</description>
+<ratings>
+<permanent count="71">3.40</permanent>
+<temporary count="71">5.26</temporary>
+</ratings>
+<picture>31848.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3810</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3100</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3255</identifier>
+<identifier>swtljj</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>仮面ライダーSD_怪奇!?クモ男#OVA</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88350</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1915</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2623" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="2652" parentid="2853" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super deformed</name>
+<description>A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s http://anidb.net/t4055 [face suddenly turns into a simplified version], the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).</description>
+<picurl>65692.png</picurl>
+</tag>
+<tag id="2655" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="4474" parentid="2655" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-07-04">
+<name>self-parody</name>
+<description>The anime is a parody of itself. 
+I.e. the authors make fun of the genre they are portraying, and take the actions of their characters and story lightly.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="53678" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1993-03-22</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

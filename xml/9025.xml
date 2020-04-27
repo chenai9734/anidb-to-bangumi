@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9025" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1985-03-16</startdate>
+<enddate>1985-03-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ninja Hattori-kun Plus Perman: Ninja Kaijuu Jippou Tai Miracle Tamago</title>
+<title xml:lang="x-jat" type="synonym">Ninja Hattori-kun Plus Paaman: Ninja Kaijuu Jippou Tai Miracle Tamago</title>
+<title xml:lang="x-jat" type="synonym">Ninja Hattori-kun Plus Parman: Ninja Kaijuu Jippou Tai Miracle Tamago</title>
+<title xml:lang="ja" type="official">忍者ハットリくん+パーマン 忍者怪獣ジッポウVSミラクル卵</title>
+</titles>
+<relatedanime>
+<anime id="2607" type="Parent Story">Ninja Hattori-kun</anime>
+<anime id="3205" type="Parent Story">Perman</anime>
+</relatedanime>
+<creators>
+<name id="4142" type="Original Work">Fujiko Fujio</name>
+<name id="5445" type="Direction">Harata Masuji</name>
+<name id="3986" type="Chief Direction">Sasagawa Hiroshi</name>
+<name id="3962" type="Music">Kikuchi Shunsuke</name>
+</creators>
+<ratings>
+<permanent count="2">5.21</permanent>
+<temporary count="2">6.50</temporary>
+</ratings>
+<picture>82796.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22472</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>29233</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2528</identifier>
+<identifier>kompxw</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Perman</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>忍者ハットリくん+パーマン_忍者怪獣ジッポウVSミラクル卵</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149348</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="137771" update="2012-03-12">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1985-03-16</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

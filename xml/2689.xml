@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2689" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1996-03-23</startdate>
+<enddate>1996-06-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Marriage</title>
+<title xml:lang="ru" type="synonym">Свадьба</title>
+<title xml:lang="ja" type="official">Marriage ~結婚~</title>
+</titles>
+<relatedanime>
+<anime id="1241" type="Prequel">Sotsugyou: Graduation</anime>
+</relatedanime>
+<similaranime>
+<anime id="242" approval="2" total="6">Futari Ecchi</anime>
+</similaranime>
+<creators>
+<name id="1230" type="Work">Sofix</name>
+<name id="7304" type="Direction">Ozawa Kazuhiro</name>
+<name id="52850" type="Original Plan">Headroom</name>
+<name id="8650" type="Character Design">Takanori Youko</name>
+<name id="14942" type="Music">Hamada Kingo</name>
+<name id="27133" type="Music">Kosaka Kiyoshi</name>
+</creators>
+<description>Shizuka, Mika, Kiyomi, Reiko and Mami are all grown up and have one thing on their mind: finding the ultimate husband! From the workplace to automated dating services, there`s wedding bells to be heard and love to be acted on, all for the ultimate goal: marriage! With biological clocks ticking and youth slipping away, these girls will do whatever it takes to snag a man, love or not!
+-fujiko77</description>
+<ratings>
+<permanent count="94">2.90</permanent>
+<temporary count="94">5.26</temporary>
+</ratings>
+<picture>246370.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>173</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2082</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3039</identifier>
+<identifier>bpctdz</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88203</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2032</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="24867" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1996-03-23</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">出逢ひの赤い糸</title>
+<title xml:lang="en">Red String</title>
+<title xml:lang="x-jat">Doahi no Akai Ito</title>
+</episode>
+<episode id="24868" update="2011-10-20">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1996-06-21</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">五分の二女の悲哀</title>
+<title xml:lang="en">Women`s Sorrow</title>
+<title xml:lang="x-jat">Gobu no Nijo no Hiai</title>
+</episode>
+</episodes>
+</anime>

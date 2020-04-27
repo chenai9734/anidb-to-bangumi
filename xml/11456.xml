@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11456" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2013-07-03</startdate>
+<enddate>2013-07-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Picotopia</title>
+<title xml:lang="ja" type="official">ピコトピア</title>
+</titles>
+<similaranime>
+<anime id="11433" approval="1" total="1">Wonder</anime>
+</similaranime>
+<description>RIKEN`s (The Incorporated Administrative Agency Rikagaku Kenkyusho) promotional video with animation by Mirai Mizue and music by twoth.</description>
+<ratings>
+<permanent count="77">3.63</permanent>
+<temporary count="78">4.82</temporary>
+</ratings>
+<picture>175748.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>21607</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4218" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-04">
+<name>cast-free</name>
+<description>A cast-free show is one with no characters or spoken dialogue from any source. This does not include narration; a show that fits the previous requirements but has a narrator is still considered cast-free. Additionally, a show with only "characters" that are equivalent to background scenery should be considered cast-free; please ask before adding or removing the tag from shows that may fit this characteristic.</description>
+</tag>
+<tag id="4280" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2008-06-02">
+<name>surreal</name>
+<description>Refers to things or occurrences that are generally bizarre or dreamlike, with the relentless capability of replacing reality through the eyes of the beholder. Surrealism is boundless, limited only by thought itself.</description>
+</tag>
+<tag id="4610" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-22">
+<name>commercial</name>
+<description>This title is used to sell and/or promote a real-life product or service. Not to be confused with "product placement" or "subliminal advertising" — this features *direct* promotion for such element.
+Depending on the setting, some could even be considered as "animated infomercials".</description>
+</tag>
+<tag id="5257" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false">
+<name>psychedelic</name>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="177301" update="2016-04-25">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2013-07-03</airdate>
+<rating votes="1">1.58</rating>
+<title xml:lang="en">Picotopia</title>
+</episode>
+</episodes>
+</anime>

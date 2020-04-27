@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11349" restricted="false">
+<type>TV Special</type>
+<episodecount>3</episodecount>
+<startdate>2015-07-09</startdate>
+<enddate>2015-07-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yakyuubu Aruaru</title>
+<title xml:lang="ja" type="official">野球部あるある</title>
+<title xml:lang="zh-Hans" type="official">棒球部常有的事</title>
+</titles>
+<creators>
+<name id="43896" type="Original Work">Kuromatsu Tetsurou</name>
+</creators>
+<description>Note: Nine stories were made in three episodes and aired on HAB. Later they were released in a stand-alone format on Youtube.</description>
+<ratings>
+<permanent count="9">2.65</permanent>
+<temporary count="9">2.66</temporary>
+</ratings>
+<picture>175205.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31177</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>353557</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="169579" update="2015-07-06">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2015-07-11</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="169580" update="2015-07-06">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2015-07-10</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="169581" update="2015-07-06">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-07-09</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="203700" update="2018-08-03">
+<epno type="4">T2</epno>
+<length>0</length>
+<title xml:lang="en">T2</title>
+</episode>
+<episode id="203701" update="2018-08-03">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">PV</title>
+</episode>
+<episode id="203702" update="2018-08-03">
+<epno type="3">C2</epno>
+<length>1</length>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="203703" update="2018-08-03">
+<epno type="3">C1</epno>
+<length>1</length>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

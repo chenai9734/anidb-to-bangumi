@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8543" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981</startdate>
+<enddate>1981</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kagirinaki Rakuen</title>
+<title xml:lang="en" type="synonym">Limitless Paradise</title>
+<title xml:lang="ja" type="official">限りなき楽園</title>
+</titles>
+<creators>
+<name id="13433" type="Direction">Harada Hiroshi</name>
+</creators>
+<picture>75603.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4755</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23569</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="131917" update="2011-07-16">
+<epno type="1">1</epno>
+<length>40</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

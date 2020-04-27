@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13930" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016</startdate>
+<enddate>2016</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Age of Obscure</title>
+<title xml:lang="ja" type="official">AGE OF OBSCURE - 茫漠時代 -</title>
+</titles>
+<url>https://peopleap.tokyo/products/project-001/</url>
+<ratings>
+<permanent count="4">3.33</permanent>
+<temporary count="5">5.60</temporary>
+</ratings>
+<picture>65852.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34436</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://peopleap.tokyo/products/project-001/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="197238" update="2018-03-22">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Short version</title>
+</episode>
+<episode id="197239" update="2018-03-22">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

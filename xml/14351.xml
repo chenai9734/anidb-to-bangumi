@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14351" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1964</startdate>
+<enddate>1964</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Man and Woman and Dog</title>
+<title xml:lang="ja" type="synonym">男と女と犬</title>
+<title xml:lang="x-jat" type="synonym">Otoko to Onna to Inu</title>
+<title xml:lang="ja" type="official">MAN and WOMAN and DOG</title>
+</titles>
+<creators>
+<name id="11207" type="Work">Kuri Youji</name>
+</creators>
+<description>A short animation film by http://anidb.net/cr11207 [Kuri Youji].</description>
+<ratings>
+<permanent count="12">2.65</permanent>
+<temporary count="13">4.30</temporary>
+</ratings>
+<picture>223034.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29635</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14140</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205899" update="2018-09-01">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

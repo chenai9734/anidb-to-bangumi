@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12763" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-11-04</startdate>
+<enddate>2017-11-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dance with Devils: Fortuna</title>
+<title xml:lang="ja" type="official">Dance with Devils -Fortuna-</title>
+</titles>
+<relatedanime>
+<anime id="11067" type="Prequel">Dance with Devils</anime>
+</relatedanime>
+<url>http://dwd-movie.com/</url>
+<creators>
+<name id="982" type="Animation Work">Brain`s Base</name>
+<name id="8890" type="Character Design">Takashina Yuka</name>
+<name id="31365" type="Original Plan">Iwasaki Daisuke</name>
+<name id="19290" type="Direction">Yoshimura Ai</name>
+<name id="3894" type="Music">Elements Garden</name>
+</creators>
+<ratings>
+<permanent count="11">5.20</permanent>
+<temporary count="11">6.68</temporary>
+</ratings>
+<picture>203558.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19742</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34830</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dwd-movie.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359565</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>DwD_info</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="73182" type="main character in" update="2015-08-02">
+<rating votes="2">9.06</rating>
+<name>Nanashiro Mage</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168562.jpg</picture>
+<seiyuu id="25023" picture="70106.jpg">Kimura Subaru</seiyuu>
+</character>
+<character id="73183" type="main character in" update="2015-08-02">
+<rating votes="2">9.06</rating>
+<name>Natsumezaka Shiki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168563.jpg</picture>
+<seiyuu id="99" picture="139554.jpg">Hirakawa Daisuke</seiyuu>
+</character>
+<character id="73184" type="main character in" update="2015-08-02">
+<rating votes="1">6.92</rating>
+<name>Sogami Urie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168561.jpg</picture>
+<seiyuu id="616" picture="18138.jpg">Kondou Takashi</seiyuu>
+</character>
+<character id="73185" type="main character in" update="2015-08-02">
+<rating votes="3">7.61</rating>
+<name>Tachibana Lindo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168560.jpg</picture>
+<seiyuu id="29" picture="202917.jpg">Hatano Wataru</seiyuu>
+</character>
+<character id="73186" type="main character in" update="2015-08-02">
+<rating votes="5">7.57</rating>
+<name>Kaginuki Rem</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168559.jpg</picture>
+<seiyuu id="36680" picture="153752.jpg">Saitou Souma</seiyuu>
+</character>
+<character id="76403" type="main character in" update="2015-08-02">
+<rating votes="3">3.45</rating>
+<name>Tachibana Ritsuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175883.jpg</picture>
+<seiyuu id="38966" picture="147731.jpg">Akaneya Himika</seiyuu>
+</character>
+<character id="76404" type="secondary cast in" update="2015-08-02">
+<rating votes="1">5.01</rating>
+<name>Kuzuha Azuna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175884.jpg</picture>
+<seiyuu id="41504" picture="178543.jpg">Matsuda Risae</seiyuu>
+</character>
+<character id="77246" type="secondary cast in" update="2015-11-18">
+<name>Roen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177153.jpg</picture>
+<seiyuu id="644" picture="205640.jpg">Suzuki Tatsuhisa</seiyuu>
+</character>
+<character id="77247" type="secondary cast in" update="2015-09-06">
+<rating votes="1">6.92</rating>
+<name>Jeki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177154.jpg</picture>
+<seiyuu id="11275" picture="65394.jpg">Suzuki Yuuto</seiyuu>
+</character>
+<character id="79262" type="secondary cast in" update="2015-12-29">
+<name>Nesta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>181006.jpg</picture>
+<seiyuu id="244" picture="23860.jpg">Koyama Rikiya</seiyuu>
+</character>
+<character id="89783" type="secondary cast in" update="2017-06-05">
+<name>Marius</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>203559.jpg</picture>
+<seiyuu id="303" picture="166016.jpg">Toyonaga Toshiyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="188144" update="2017-11-03">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>2017-11-04</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

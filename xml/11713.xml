@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11713" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-02-06</startdate>
+<enddate>2016-02-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Last Exile: Gin`yoku no Fam - Over the Wishes</title>
+<title xml:lang="ja" type="official">劇場版 LASTEXILE 銀翼のファム Over the wishes</title>
+<title xml:lang="zh-Hans" type="official">剧场版 最终流放 银翼之法姆 Over the Wishes</title>
+</titles>
+<relatedanime>
+<anime id="8260" type="Full Story">Last Exile: Gin`yoku no Fam</anime>
+</relatedanime>
+<url>http://www.lastexile-fam.com/</url>
+<creators>
+<name id="735" type="Animation Work">Gonzo</name>
+<name id="3897" type="Character Design">Murata Renji</name>
+<name id="7061" type="Character Design">Takaoka Jun`ichi</name>
+<name id="4314" type="Character Design">Horiuchi Osamu</name>
+<name id="735" type="Original Work">Gonzo</name>
+<name id="1464" type="Series Composition">Kouyama Shuuichi</name>
+<name id="15891" type="Direction">Takahashi Yukio</name>
+<name id="1824" type="Music">Kuroishi Hitomi</name>
+</creators>
+<ratings>
+<permanent count="41">4.58</permanent>
+<temporary count="41">6.19</temporary>
+</ratings>
+<picture>224022.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17789</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31866</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.lastexile-fam.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ラストエグザイル-銀翼のファム-#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354733</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18936</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>19952</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="3322" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-06-04">
+<name>remake</name>
+<description>This anime is a remake of a previously released story, anime, or movie.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="173015" update="2016-02-10">
+<epno type="1">1</epno>
+<length>120</length>
+<airdate>2016-02-06</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

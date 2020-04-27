@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6806" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1991-07-21</startdate>
+<enddate>1991-09-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kyoufu Shinbun</title>
+<title xml:lang="ja" type="official">恐怖新聞</title>
+</titles>
+<relatedanime>
+<anime id="11031" type="Alternative Setting">Kyoufu Shinbun (2014)</anime>
+</relatedanime>
+<creators>
+<name id="5687" type="Character Design">Uemura Eiji</name>
+<name id="4252" type="Direction">Annou Takashi</name>
+<name id="10448" type="Original Work">Tsunoda Jirou</name>
+<name id="37067" type="Music">Tsunoda Takashi</name>
+</creators>
+<description>* Based on http://anidb.net/ch10448 [Tsunoda Jirou]`s classic horror manga.
+For reasons unknown to him, Rei receives every morning the Kyoufu Shinbun, a newspaper which foresees deaths and catastrophes...</description>
+<ratings>
+<permanent count="14">3.11</permanent>
+<temporary count="14">4.85</temporary>
+</ratings>
+<picture>33444.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7307</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17615</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2966</identifier>
+<identifier>ugsjom</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>恐怖新聞</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88510</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2727</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="72679" type="main character in" update="2015-01-18">
+<name>Kigata Rei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="454" picture="17354.jpg">Furuya Tooru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="106447" update="2013-05-03">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1991-09-21</airdate>
+<title xml:lang="ja">因縁霊は七代たたる</title>
+<title xml:lang="en">Volume 2</title>
+<title xml:lang="x-jat">Innenrei wa Nanadai Tataru</title>
+</episode>
+<episode id="106448" update="2013-05-03">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1991-07-21</airdate>
+<title xml:lang="ja">真夜中に奇怪な新聞が来た</title>
+<title xml:lang="en">A Strange Newspaper Came at Night</title>
+<title xml:lang="x-jat">Mayonaka ni Kikai na Shinbun ga Kita</title>
+</episode>
+<episode id="127667" update="2011-01-24">
+<epno type="2">S1</epno>
+<length>0</length>
+<title xml:lang="en">Manga Video</title>
+</episode>
+<episode id="150318" update="2013-05-02">
+<epno type="2">S3</epno>
+<length>20</length>
+<airdate>1991-09-21</airdate>
+<title xml:lang="ja">つのだじろうの恐怖心霊レポート ~琵琶湖幽霊ホテル編~ 其ノ二</title>
+<title xml:lang="en">Episode S3</title>
+<title xml:lang="x-jat">Tsunoda Jirou no Kyoufu Shinrei Report: Biwako Yuurei Hotel Hen - Sono Ni</title>
+</episode>
+<episode id="150319" update="2013-05-02">
+<epno type="2">S2</epno>
+<length>20</length>
+<airdate>1991-07-21</airdate>
+<title xml:lang="ja">つのだじろうの恐怖心霊レポート ~琵琶湖幽霊ホテル編~</title>
+<title xml:lang="en">Episode S2</title>
+<title xml:lang="x-jat">Tsunoda Jirou no Kyoufu Shinrei Report: Biwako Yuurei Hotel Hen</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11559" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2003</startdate>
+<enddate>2003</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bollogi Iyagi</title>
+<title xml:lang="en" type="official">Bologee Story</title>
+<title xml:lang="ko" type="official">볼로기 이야기</title>
+</titles>
+<description>An award winning surreal stop motion anime from Korea using noodles, about a little Bologee who was born on the Concave Planet. He desperately wants to get to a another planet called Convex Star.
+When he finally manages to get there he falls in love with a girl from the Convex Planet. The people living there do not approve...</description>
+<ratings>
+<permanent count="24">5.27</permanent>
+<temporary count="24">5.37</temporary>
+</ratings>
+<picture>177162.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7504</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6166" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>South Korean production</name>
+<description>See also: http://anidb.net/t6762 [North Korean production]</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="171975" update="2015-10-03">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

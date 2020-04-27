@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11176" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2015-10-03</startdate>
+<enddate>2015-12-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Soukyuu no Fafner: Dead Aggressor - Exodus (2015)</title>
+<title xml:lang="en" type="synonym">Fafner in the Azure: Exodus (2015)</title>
+<title xml:lang="ko" type="synonym">창궁의 파프너 EXODUS (2015)</title>
+<title xml:lang="ja" type="official">蒼穹のファフナー Dead Aggressor EXODUS (2015)</title>
+<title xml:lang="zh-Hans" type="official">苍穹之法芙娜 EXODUS 第2期</title>
+</titles>
+<relatedanime>
+<anime id="12701" type="Sequel">Soukyuu no Fafner: Dead Aggressor - The Beyond</anime>
+<anime id="9639" type="Prequel">Soukyuu no Fafner: Dead Aggressor - Exodus</anime>
+</relatedanime>
+<recommendations total="1">
+<recommendation type="Recommended" uid="369497">A few times pretentious, sometimes confusing, often depressing.
+
+Still a good watch for mecha-enthusiast.
+
+(Me starting with Exodus 1 into this series might explain the confusing bits; there are no recaps.)</recommendation>
+</recommendations>
+<url>http://fafner-exodus.jp/</url>
+<creators>
+<name id="34843" type="Animation Work">Xebec Zwei</name>
+<name id="620" type="Character Design">Hirai Hisashi</name>
+<name id="1963" type="Series Composition">Ubukata Tou</name>
+<name id="719" type="Original Work">Xebec</name>
+<name id="5332" type="Direction">Habara Nobuyoshi</name>
+<name id="16603" type="Chief Direction">Noto Takashi</name>
+<name id="4364" type="Music">Saitou Tsuneyoshi</name>
+</creators>
+<description>2150 AD. The battle against the silicon-based Festums from outer space reaches a new phase.
+Fragments of the North Pole Mir were scattered throughout the world. Eventually, they began to act on their own as independent Mirs. Most hated humanity and attacked them, but some chose to coexist with mankind. Some with the same way of thinking existed within the human race, as well: those who were both human and Festum. They added to the chaos of the battle and brought about even more hatred.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="266">6.78</permanent>
+<temporary count="267">7.24</temporary>
+</ratings>
+<picture>177272.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17124</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30549</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://fafner-exodus.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Fafner_in_the_Azure</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>蒼穹のファフナー</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3919</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354122</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17743</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2274" parentid="2638" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2645" parentid="2274" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>piloted robot</name>
+<description>Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.</description>
+<picurl>222199.jpg</picurl>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="4215" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-30">
+<name>daikaijuu</name>
+<description>Literally translating to giant monster, daikaiju is an element found often in Japanese entertainment. Although usually for the science fiction genre it is also often used in horror, fantasy, mecha, and to a lesser extent comedy. Any monster that towers over a house technically qualifies as a daikaiju. Some anime, usually mecha, will go as far as calling their daikaiju with a specific title.</description>
+<picurl>60039.png</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+<tag id="6614" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-03-12">
+<name>Animeism</name>
+<description>Animeism is a late-night Japanese programming block established in April 2012. It is devoted to anime and broadcast each Thursday night on MBS, in a fashion similar to Fuji TV`s http://anidb.net/t3865 [noitaminA] that also airs on Thursdays. Just like noitaminA, the block airs two series back to back. From April 2015 onwards, the block was moved to Friday nights.
+Source: Wikipedia</description>
+<picurl>63625.png</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="12180" type="main character in" update="2015-02-14">
+<rating votes="16">7.37</rating>
+<name>Minashiro Soushi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Minashiro Soushi is Kazuki`s close friend who is easily identifiable by the large scar from his left eyelid down to his cheek, which was given to him accidentally by Kazuki when they were very young.
+Soushi`s father is the headmaster of the school on Tatsumiya Island, as well as the commander of Alvis. His mother died while he was still young. He is capable of linking with Fafner robots as well as very skilled at using the Siegfried System.</description>
+<picture>74952.jpg</picture>
+<seiyuu id="332" picture="47528.jpg">Kiyasu Kouhei</seiyuu>
+</character>
+<character id="12181" type="secondary cast in" update="2015-02-15">
+<rating votes="18">7.32</rating>
+<name>Toomi Maya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Toomi Maya is a childhood friend of both Kazuki and Soshi. She is a very lively girl who enjoys rock climbing. She is very frank about everything she says which gives her an air of reliability... but when it comes to romance she has a long way to go.
+Her mother, Chizuru, is the only doctor on the whole of Tatsumiya Island. She also has an older sister named Yumiko who works as a teacher for the handicapped. Although her family works a lot in the medical field, Maya herself has never had much skill in the field... in fact, she even has trouble applying a bandage when needed.</description>
+<picture>74954.jpg</picture>
+<seiyuu id="5700" picture="172104.jpg">Matsumoto Marika</seiyuu>
+</character>
+<character id="12182" type="main character in" update="2016-07-17">
+<rating votes="8">5.94</rating>
+<name>Makabe Kazuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Makabe Kazuki is very quiet which makes it seem like he has a cold personality, but he is in fact a very kind and sincere character. He lives with his father Fumihiko who he gets along with very well. Kazuki has a fear of hurting those around him, which causes him to distance himself from everybody - even his friends.
+He became the pilot of the Fafner Mark Erf two years ago, when he was forced to battle with the Festum.</description>
+<picture>74951.jpg</picture>
+<seiyuu id="605" picture="226544.jpg">Ishii Makoto</seiyuu>
+</character>
+<character id="12183" type="secondary cast in" update="2018-03-18">
+<rating votes="5">1.77</rating>
+<name>Kondou Kenji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kondou Kenji is a good-looking young man who doesn`t try to hide who he is - in his opinion school exists for the girls, not the studies. Kenji`s mother, Akino, is a school maths teacher.
+Kenji sees Kazuki as his rival, but Kazuki does not see him in the same way. Even so, Kenji often challenges Kazuki to various things but is beaten more often than not.</description>
+<picture>166610.jpg</picture>
+<seiyuu id="434" picture="41082.jpg">Shiraishi Minoru</seiyuu>
+</character>
+<character id="12184" type="secondary cast in" update="2018-03-18">
+<rating votes="6">5.40</rating>
+<name>Kaname Sakura</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kaname Sakura is the only daughter born into the family that runs the Kaname Dojo on Tatsumiya Island.
+Her mother, Kiyomi, is a P.E teacher, and her father Seiichiro was a powerful martial artist who was killed in the first assault of the Festum - much to Sakura`s dismay. She now fights against the Festum to continue what her father left behind him.</description>
+<picture>74953.jpg</picture>
+<seiyuu id="600" picture="148972.jpg">Arai Satomi</seiyuu>
+</character>
+<character id="26068" type="secondary cast in" update="2015-11-29">
+<name>Ian Camp</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180007.jpg</picture>
+<seiyuu id="3185" picture="171529.jpg">Terasoma Masaki</seiyuu>
+</character>
+<character id="26069" type="secondary cast in" update="2015-11-29">
+<name>Jeremy Lee Mashee</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180008.jpg</picture>
+<seiyuu id="424" picture="224027.jpg">Endou Aya</seiyuu>
+</character>
+<character id="26070" type="secondary cast in" update="2015-02-14">
+<rating votes="1">1.63</rating>
+<name>Douma Hiroto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168036.jpg</picture>
+<seiyuu id="270" picture="25681.jpg">Sasaki Nozomu</seiyuu>
+</character>
+<character id="26071" type="secondary cast in" update="2013-06-25">
+<name>Kodate Tamotsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139088.jpg</picture>
+<seiyuu id="2365" picture="211146.jpg">Takase Akimitsu</seiyuu>
+</character>
+<character id="26073" type="secondary cast in" update="2015-02-14">
+<rating votes="2">3.77</rating>
+<name>Hino Miwa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>166608.jpg</picture>
+<seiyuu id="9036" picture="215515.jpg">Morohoshi Sumire</seiyuu>
+</character>
+<character id="26074" type="main character in" update="2013-02-26">
+<rating votes="2">2.21</rating>
+<name>Kurusu Misao</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132796.jpg</picture>
+<seiyuu id="2225" picture="192115.jpg">Kimura Ryouhei</seiyuu>
+</character>
+<character id="26075" type="secondary cast in" update="2014-02-01">
+<name>Mizoguchi Kyouhei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132799.jpg</picture>
+<seiyuu id="614" picture="18136.jpg">Hashi Takaya</seiyuu>
+</character>
+<character id="26077" type="secondary cast in" update="2015-02-14">
+<name>Makabe Fumihiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139087.jpg</picture>
+<seiyuu id="284" picture="225436.jpg">Tanaka Masahiko</seiyuu>
+</character>
+<character id="26079" type="secondary cast in" update="2018-03-18">
+<rating votes="2">6.09</rating>
+<name>Tatekami Seri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Pilot of the Mark Zwölf (XII) in the sequel Heaven and Earth and Exodus and friends with Rina, Akira and Hiroto. Seri develops emotional bond with the island`s core, Tsubaki and Orihime Minashiro.</description>
+<picture>132801.jpg</picture>
+<seiyuu id="304" picture="17139.jpg">Fukuen Misato</seiyuu>
+</character>
+<character id="26080" type="secondary cast in" update="2018-12-31">
+<rating votes="8">8.47</rating>
+<name>Hazama Kanon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132797.jpg</picture>
+<seiyuu id="333" picture="18379.jpg">Kobayashi Sanae</seiyuu>
+</character>
+<character id="26081" type="secondary cast in" update="2013-06-25">
+<rating votes="6">3.46</rating>
+<name>Hazama Youko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139077.jpg</picture>
+<seiyuu id="1659" picture="223004.jpg">Katsuragi Nanaho</seiyuu>
+</character>
+<character id="26082" type="secondary cast in" update="2018-03-18">
+<name>Nishio Akira</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Rina`s twin brother. Appears more prominetly in the movies and sequel series. In contrast with his twin sister, Akira is calm and gentle but can be somewhat impulsive too.</description>
+<picture>166609.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="26083" type="secondary cast in" update="2015-01-18">
+<rating votes="1">6.09</rating>
+<name>Nishio Ikumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167655.jpg</picture>
+<seiyuu id="34" picture="240893.jpg">Kyouda Hisako</seiyuu>
+</character>
+<character id="26084" type="secondary cast in" update="2018-03-18">
+<rating votes="7">6.08</rating>
+<name>Nishio Rina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>She greatly admires Maya and actively seeks the chance to be praised by her. She also has a crush on Kenji and is a bit shocked hearing that Kenji and Sakura will be marry. Akira`s twin sister. Pilot of the Mark Neun (IX) and Zero Fafner in the sequel Heaven and Earth and Exodus.</description>
+<picture>132800.jpg</picture>
+<seiyuu id="208" picture="20458.jpg">Shiraishi Ryouko</seiyuu>
+</character>
+<character id="26085" type="secondary cast in" update="2013-06-25">
+<rating votes="6">3.46</rating>
+<name>Kaname Kiyomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139079.jpg</picture>
+<seiyuu id="2091" picture="151645.jpg">Ishikawa Shizuka</seiyuu>
+</character>
+<character id="26086" type="secondary cast in" update="2011-11-15">
+<rating votes="4">6.08</rating>
+<name>Toomi Chizuru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77139.jpg</picture>
+<seiyuu id="295" picture="25758.jpg">Shinohara Emi</seiyuu>
+</character>
+<character id="52090" type="main character in" update="2013-06-25">
+<rating votes="1">8.00</rating>
+<name>Kasugai Kouyou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139083.jpg</picture>
+<seiyuu id="470" picture="17419.jpg">Irino Miyu</seiyuu>
+</character>
+<character id="52093" type="secondary cast in" update="2015-04-04">
+<rating votes="6">6.08</rating>
+<name>Toomi Yumiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>166612.jpg</picture>
+<seiyuu id="15" picture="44976.jpg">Yukana</seiyuu>
+</character>
+<character id="68283" type="secondary cast in" update="2018-03-18">
+<name>Mikado Reo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Reo is the oldest trio of the third-generation Fafner pilot of Tatsumiya Island and skillful in sword-art and making pastry. He has a crush on Mimika, although she is yet to be aware of his feeling. Pilot of Fafner Mark XIV (Susanoo)</description>
+<picture>168151.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="68284" type="secondary cast in" update="2018-03-18">
+<rating votes="2">6.09</rating>
+<name>Mikagami Mimika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Pilot of Fafner Mark XV (Tsukuyomi). She idolizes Hiroto Douma and enjoys reading Mobile Samurai Goubain manga while in her spend time. Ultimately, Hiroto passes his Goubain helmet to her before he leaves the island. In the sequel Exodus, her SDP ability is able to create the barrier to hold on the enemies, though it will also form the black spheres on parts of her body and ultimately, her whole body, as the effect of using her SDP ability. It is shown when she pilots her Fafner to her limit when shielding the island from the Festums, making her whole body is assimilated and changed into the black sphere. However, her soul and her mind still retain within. Kazuki saves her eventually, returning to her body to normal.</description>
+<picture>168153.jpg</picture>
+<seiyuu id="443" picture="145927.jpg">Ishikawa Yui</seiyuu>
+</character>
+<character id="68285" type="secondary cast in" update="2018-03-18">
+<name>Kaburagi Sui</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Pilot of Fafner Mark XVI (Amaterasu). President of Tatsumiyajima Middle School student council. He has a sister named Sanae Kaburagi who was the pilot of Fafner Titan Model and died while participating in the L-Plan as seen in the prequel Right of Left. Sui has a strained relationship with his mother since his sister passed away. He rarely speaks up his mind firmly but as the series progress, find the strength to do so and finally reconciles with his mother.</description>
+<picture>168152.jpg</picture>
+<seiyuu id="4755" picture="183070.jpg">Ono Kenshou</seiyuu>
+</character>
+<character id="69683" type="secondary cast in" update="2015-02-13">
+<name>Walter Barghest</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168671.jpg</picture>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+<character id="69684" type="secondary cast in" update="2015-01-27">
+<rating votes="1">6.09</rating>
+<name>Emery Almond</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168037.jpg</picture>
+<seiyuu id="38351" picture="141252.jpg">Sasaki Rio</seiyuu>
+</character>
+<character id="69685" type="secondary cast in" update="2014-08-26">
+<name>Keith Water</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4743" picture="186157.jpg">Unone Aki</seiyuu>
+</character>
+<character id="69686" type="secondary cast in" update="2015-01-18">
+<name>Jonathan Mitsuhiro Bertrand</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167608.jpg</picture>
+<seiyuu id="390" picture="33609.jpg">Okamoto Nobuhiko</seiyuu>
+</character>
+<character id="69687" type="secondary cast in" update="2015-11-29">
+<name>Dustin Morgan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180009.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="69688" type="secondary cast in" update="2015-02-14">
+<name>Narain Wiseman Bose</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168614.jpg</picture>
+<seiyuu id="2053" picture="23204.jpg">Ootomo Ryuuzaburou</seiyuu>
+</character>
+<character id="70191" type="secondary cast in" update="2015-01-18">
+<rating votes="1">6.09</rating>
+<name>Aishwaria Fein</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167610.jpg</picture>
+<seiyuu id="27977" picture="76416.jpg">Han Megumi</seiyuu>
+</character>
+<character id="70192" type="secondary cast in" update="2015-01-18">
+<name>Billy Morgan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167609.jpg</picture>
+<seiyuu id="138" picture="23200.jpg">Morita Masakazu</seiyuu>
+</character>
+<character id="70891" type="secondary cast in" update="2015-02-13">
+<rating votes="4">6.08</rating>
+<name>Douma Mai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168670.jpg</picture>
+<seiyuu id="314" picture="10231.jpeg">Seto Saori</seiyuu>
+</character>
+<character id="70892" type="secondary cast in" update="2015-02-13">
+<rating votes="3">6.08</rating>
+<name>Masaoka Saki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168674.jpg</picture>
+<seiyuu id="1876" picture="66007.jpg">Asakura Azumi</seiyuu>
+</character>
+<character id="70893" type="secondary cast in" update="2015-02-13">
+<name>Jinnai Mitsugu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168673.jpg</picture>
+<seiyuu id="644" picture="205640.jpg">Suzuki Tatsuhisa</seiyuu>
+</character>
+<character id="71360" type="secondary cast in" update="2014-11-15">
+<rating votes="1">6.09</rating>
+<name>Chin Shoushou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="30011" picture="79270.jpg">Komatsu Michiko</seiyuu>
+</character>
+<character id="78700" type="secondary cast in" update="2015-11-29">
+<rating votes="2">6.09</rating>
+<name>Minashiro Orihime</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180010.jpg</picture>
+<seiyuu id="312" picture="245047.jpg">Nakanishi Tamaki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="167542" update="2015-04-04">
+<epno type="4">T1</epno>
+<length>1</length>
+<airdate>2015-04-03</airdate>
+<title xml:lang="ja">TVアニメ「蒼穹のファフナー EXODUS」 続編告知PV!</title>
+<title xml:lang="en">Sequel Announcement PV</title>
+</episode>
+<episode id="171823" update="2016-11-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2015-10-24</airdate>
+<title xml:lang="ja">永訣の火</title>
+<title xml:lang="en">Flames of the Final Farewell</title>
+<title xml:lang="x-jat">Eiketsu no Hi</title>
+<summary>As Canon continues to fight alone in Dreizehn, for just a moment, she glimpses a faint hope for the future. Her mother can only watch from outside, unaware of her daughter`s battle to grasp that hope. Meanwhile, Sui`s father discovers the link between Sui`s SDP and the good luck charm that his sister had left behind.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686657</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="171824" update="2016-11-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2015-10-17</airdate>
+<title xml:lang="ja">命の行方</title>
+<title xml:lang="en">Where Life Is</title>
+<title xml:lang="x-jat">Inochi no Yukue</title>
+<summary>The high-speed crafts are heading toward Tatsumiyajima to report what has happened to Narain`s party. One of them carries the staff injured in the battle. Meanwhile at Tatsumiyajima, Canon battles with her own SDP, and talk of a "Second Plan L" begins to be heard.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686655</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="171825" update="2016-11-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2015-10-10</airdate>
+<title xml:lang="ja">交戦規定アルファ</title>
+<title xml:lang="en">ROE Alpha</title>
+<title xml:lang="x-jat">Kousen Kitei Alpha</title>
+<summary>Narain`s party has almost reached the base when they suffer a surprise attack and struggle to evacuate. Mitsuhiro realizes what has happened and orders the Fafners to retreat while, at brigade control, Emery says a prayer in hopes that the enemy will receive her message... but their enemy launches into an even crueler strategy.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686653</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="171826" update="2016-11-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-10-03</airdate>
+<title xml:lang="ja">夜明けの行進</title>
+<title xml:lang="en">The March for Dawn</title>
+<title xml:lang="x-jat">Yoake no Koushin</title>
+<summary>In order to initiate the regrowth of Ashoka the World Tree, the Mir fragment needed for Miwa and Altair to converse, Narain leads the Esperantos and the refugees to a new land. First they head for the Human Army base at Dhaka, accompanied by Kazuki and Soushi, but on the way they encounter a blinding sandstorm... and a swarm of enemies.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686651</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172496" update="2018-04-26">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2015-10-03</airdate>
+<title xml:lang="en">Ending 1a</title>
+</episode>
+<episode id="172497" update="2015-10-10">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2015-10-03</airdate>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="172593" update="2016-11-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2015-11-21</airdate>
+<title xml:lang="ja">目覚めの時</title>
+<title xml:lang="en">Time of Awakening</title>
+<title xml:lang="x-jat">Mezame no Toki</title>
+<summary>Narain`s party has arrived at the next camp, located in a that lost the majority of its land in battle. They fish in the adjacent sea, replenish their supplies, and indulge in a brief rest. Maya offers flowers to the ocean in memory of Shouko`s birthday, and remembers that the next day is Kazuki`s birthday, a connection she once thought of as strange. Meanwhile, the top brass at the Neo UN orders the use of something they`ve been developing in secret to finish Narain`s forces once and for all.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686665</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172594" update="2016-11-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2015-11-14</airdate>
+<title xml:lang="ja">戦士の帰還</title>
+<title xml:lang="en">The Soldiers Return Home</title>
+<title xml:lang="x-jat">Senshi no Kikan</title>
+<summary>The escape plan is in motion, but quickly faces a crisis. The fangs of the giant Festum that holds Alvis in its clutches sink in deeper and deeper, and Welle Shield 1 is destroyed, with Welle Shield 2 in imminent danger. Orihime endures the pain silently, but as he watches her, Fumihiko secretly makes the decision to enact the next plan. Meanwhile, Kenji and Sui witness something that shouldn`t be possible...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686663</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172595" update="2016-11-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2015-11-07</airdate>
+<title xml:lang="ja">生者の誓い</title>
+<title xml:lang="en">The Oath of the Living</title>
+<title xml:lang="x-jat">Seija no Chikai</title>
+<summary>The actions of the Human Army send a shock through everyone in the camp. Wounded and desperate for salvation, everyone`s true feelings begin to spill forth. Meanwhile, flight from Tatsumiyajima is still impossible and effects on the island ecosystem have grown severe. Their sights turn toward devising an escape, and Alvis depends on the Fafners` SDPs to break free of the current crisis. On top of everything, the pilots` new assimilation phenomena continue to worsen...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686661</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172596" update="2016-11-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2015-10-31</airdate>
+<title xml:lang="ja">罪を重ねて</title>
+<title xml:lang="en">Layering Sins Upon Sins</title>
+<title xml:lang="x-jat">Tsumi o Kasanete</title>
+<summary>A Festum as large as Alvis itself rises from the sea to attack Tatsumiyajima, accompanied by a swarm of countless tiny Festum the size of mites. As the island pilots struggle to come up with a way to fight these new enemies, Narain`s party ventures into a forest of Festum to retrieve the core. Emery and Miwa assert that the Festum are not hostile, but instead they detect hostility from humans nearby...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686659</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172964" update="2015-10-31">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2015-10-31</airdate>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="172965" update="2018-04-27">
+<epno type="3">C5</epno>
+<length>2</length>
+<airdate>2015-10-31</airdate>
+<title xml:lang="en">Ending 2a</title>
+</episode>
+<episode id="173250" update="2016-11-21">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2015-12-19</airdate>
+<title xml:lang="ja">蒼穹作戦</title>
+<title xml:lang="en">Azure Sky Plan</title>
+<title xml:lang="x-jat">Soukyuu Sakusen</title>
+<summary>After making contact with Mitsuhiro, the enemy core plots to win over the commander who seized Australia`s habitable zone, and the commander is actually influenced by the core`s words. On Tatsumiyajima, Miwa is once again attempting to communicate with Altair, but it isn`t going well. Later, as the final battle draws near, a long-planned coming-of-age ceremony is held for Kazuki, Soushi, Maya, Kenji, Sakura, and Kouyou, in which Fumihiko grants them official status as Alvis personnel.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686673</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173251" update="2016-11-21">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2015-12-12</airdate>
+<title xml:lang="ja">第三アルヴィス</title>
+<title xml:lang="en">The Third Alvis</title>
+<title xml:lang="x-jat">Daisan Alvis</title>
+<summary>The Alvis top brass are searching for the place the Esperantos chose for the new settlement. There`s a chance it may be occupied by the enemy, but out of respect to the Esperantos` wishes, they`re determined to take it back if that is the case. Meanwhile, in the Tatsumiyajima burg, progress is being made with the improvement of the Zero Fafner. Siblings Rina and Akira are chosen yet again to pilot it, as their SDPs are expected to work in synergy with the Zero Fafner`s power.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686671</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173252" update="2016-11-21">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2015-12-05</airdate>
+<title xml:lang="ja">理由なき力</title>
+<title xml:lang="en">Power Without Reason</title>
+<title xml:lang="x-jat">Riyuu Naki Chikara</title>
+<summary>The Neo UN agrees to the terms proposed by the top brass of Alvis for the return of the latter`s prisoners of war. At the same time, Hester Gallop is informed that the new Fafner under development by the Neo UN is in experimental stages. Memories from her youth, when she first established the Neo UN, flash through Hester`s mind; she has her own convictions and things she wishes to protect. However, certain personnel within the Neo UN have contacted Tatsumiyajima with plans of their own...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686669</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173253" update="2016-11-21">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2015-11-28</airdate>
+<title xml:lang="ja">憎しみの記憶</title>
+<title xml:lang="en">Memories of Hatred</title>
+<title xml:lang="x-jat">Nikushimi no Kioku</title>
+<summary>Narain`s party successfully reaches Tatsumiyajima, but the enemy awaits them there. They struggle as both a huge Festum swarm and the Human Army surround them, but Soushi insists reinforcements are coming. The Fafner unit arriving from the island tries to avoid fighting the Human Army and uphold Fumihiko`s wish to not fight with other humans, but the Argos platoon pursues them with orders to capture an island Fafner.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686667</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173706" update="2016-11-21">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2015-12-26</airdate>
+<title xml:lang="ja">竜宮島</title>
+<title xml:lang="en">Tatsumiyajima</title>
+<title xml:lang="x-jat">Tatsumiyajima</title>
+<summary>As the Human Army`s large fleet approaches, the voice of Tatsumiyajima finally reaches them in the form of Birds sent by Fumihiko. Human Army forces begin to abandon the Neo UN`s cause and aid Tatsumiyajima against the enemy core and those under its manipulation. As the battle goes on, Altair makes its appearance at last...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>686675</identifier>
+<identifier>fafner-exodus</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="198523" update="2018-04-26">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2015-10-10</airdate>
+<title xml:lang="en">Ending 1b</title>
+</episode>
+<episode id="198574" update="2018-04-27">
+<epno type="3">C6</epno>
+<length>2</length>
+<airdate>2015-11-21</airdate>
+<title xml:lang="en">Ending 2b</title>
+</episode>
+</episodes>
+</anime>

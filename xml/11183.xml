@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11183" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1937</startdate>
+<enddate>1937</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Katsura Hime</title>
+<title xml:lang="ja" type="official">かつら姫</title>
+</titles>
+<ratings>
+<permanent count="37">4.02</permanent>
+<temporary count="37">4.93</temporary>
+</ratings>
+<picture>171623.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28419</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="168237" update="2015-08-19">
+<epno type="2">S1</epno>
+<length>3</length>
+<rating votes="1">8.55</rating>
+<title xml:lang="ja">色彩漫画の出来る迄</title>
+<title xml:lang="en">Making of Katsura Hime</title>
+<title xml:lang="x-jat">Shikisai Manga no Dekiru Made</title>
+</episode>
+<episode id="168238" update="2015-04-29">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

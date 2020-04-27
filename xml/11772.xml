@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11772" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2015-04-12</startdate>
+<enddate>2015-04-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Grendizer Giga</title>
+<title xml:lang="ja" type="official">グレンダイザー ギガ</title>
+</titles>
+<relatedanime>
+<anime id="962" type="Alternative Setting">UFO Robo Grendizer</anime>
+</relatedanime>
+<creators>
+<name id="868" type="Original Work">Nagai Gou</name>
+</creators>
+<description>An animated promotional video for Grendizer Giga, a retelling of the original UFO Robo Grendizer.</description>
+<ratings>
+<permanent count="29">5.39</permanent>
+<temporary count="29">5.63</temporary>
+</ratings>
+<picture>179328.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31467</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="182747" update="2016-12-04">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2015-04-12</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

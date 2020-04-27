@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12332" restricted="false">
+<type>Movie</type>
+<episodecount>2</episodecount>
+<startdate>2017-04-22</startdate>
+<enddate>2017-07-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Free! Timeless Medley</title>
+<title xml:lang="ja" type="official">劇場版 Free!-Timeless Medley-</title>
+<title xml:lang="de" type="official">Free! - Timeless Medley</title>
+</titles>
+<relatedanime>
+<anime id="9858" type="Full Story">Free!</anime>
+<anime id="10415" type="Full Story">Free! Eternal Summer</anime>
+<anime id="11155" type="Full Story">Eiga High Speed!: Free! Starting Days</anime>
+</relatedanime>
+<url>http://tm.iwatobi-sc.com/</url>
+<creators>
+<name id="736" type="Animation Work">Kyoto Animation</name>
+<name id="1538" type="Animation Work">Animation Do</name>
+<name id="529" type="Character Design">Nishiya Futoshi</name>
+<name id="3527" type="Series Composition">Yokotani Masahiro</name>
+<name id="2530" type="Direction">Kawanami Eisaku</name>
+<name id="10106" type="Music">Katou Tatsuya</name>
+<name id="49303" type="Original Plan">Ooji Kouji</name>
+</creators>
+<description>Note: The first movie retells the events of (mostly) http://anidb.net/a10415 [Free! Eternal Summer] from Haruka and the Iwatobi Swim Club`s point of view, while the second movie focuses on Rin and the Samezuka swimming team`s story.</description>
+<ratings>
+<permanent count="61">5.74</permanent>
+<temporary count="61">6.26</temporary>
+</ratings>
+<picture>199857.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19352</identifier>
+</externalentity>
+<externalentity>
+<identifier>19351</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37859</identifier>
+</externalentity>
+<externalentity>
+<identifier>33845</identifier>
+</externalentity>
+<externalentity>
+<identifier>37858</identifier>
+</externalentity>
+<externalentity>
+<identifier>35191</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tm.iwatobi-sc.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360110</identifier>
+</externalentity>
+<externalentity>
+<identifier>360109</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>iwatobi_sc</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="55" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-08-11">
+<name>awards</name>
+</tag>
+<tag id="3013" parentid="55" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-12-10">
+<name>Newtype Anime Award</name>
+<description>This anime has won 1 or more Newtype Anime Award(s)</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="55396" type="main character in" update="2014-07-28">
+<rating votes="67">7.01</rating>
+<name>Matsuoka Rin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135909.jpg</picture>
+<seiyuu id="255" picture="40713.jpg">Miyano Mamoru</seiyuu>
+</character>
+<character id="55397" type="main character in" update="2014-07-28">
+<rating votes="73">6.05</rating>
+<name>Nanase Haruka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135907.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="55398" type="main character in" update="2014-07-28">
+<rating votes="41">5.38</rating>
+<name>Hazuki Nagisa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135910.jpg</picture>
+<seiyuu id="586" picture="171556.jpg">Yonaga Tsubasa</seiyuu>
+</character>
+<character id="55399" type="main character in" update="2014-07-28">
+<rating votes="39">5.56</rating>
+<name>Ryuugazaki Rei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135911.jpg</picture>
+<seiyuu id="99" picture="139554.jpg">Hirakawa Daisuke</seiyuu>
+</character>
+<character id="55400" type="main character in" update="2014-07-28">
+<rating votes="73">4.57</rating>
+<name>Tachibana Makoto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135908.jpg</picture>
+<seiyuu id="644" picture="205640.jpg">Suzuki Tatsuhisa</seiyuu>
+</character>
+<character id="56633" type="secondary cast in" update="2014-07-28">
+<rating votes="38">7.45</rating>
+<name>Matsuoka Gou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137776.jpg</picture>
+<seiyuu id="192" picture="41287.jpg">Watanabe Akeno</seiyuu>
+</character>
+<character id="56634" type="appears in" update="2014-07-28">
+<rating votes="26">4.48</rating>
+<name>Amakata Miho</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137777.jpg</picture>
+<seiyuu id="271" picture="171555.jpg">Yukino Satsuki</seiyuu>
+</character>
+<character id="57697" type="appears in" update="2014-07-28">
+<rating votes="16">6.82</rating>
+<name>Mikoshiba Seijuurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mikoshiba Seijuurou is attending Samezuka Academy, 3rd year. He is a captain of swimming club.</description>
+<picture>144101.jpg</picture>
+<seiyuu id="592" picture="170729.jpg">Tsuda Kenjirou</seiyuu>
+</character>
+<character id="57698" type="appears in" update="2014-07-28">
+<rating votes="5">5.33</rating>
+<name>Hanamura Chigusa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139507.jpg</picture>
+<seiyuu id="162" picture="23208.jpg">Satou Satomi</seiyuu>
+</character>
+<character id="57709" type="secondary cast in" update="2014-07-29">
+<rating votes="17">3.33</rating>
+<name>Nitori Aiichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nitori Aiichirou is attending Samezuka Academy, 1st year. He is a member of swimming club.</description>
+<picture>158687.jpg</picture>
+<seiyuu id="689" picture="170354.jpg">Miyata Kouki</seiyuu>
+</character>
+<character id="57710" type="appears in" update="2014-07-28">
+<rating votes="3">5.50</rating>
+<name>Sasabe Gorou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Sasabe Gorou is a former coach of swimming club.</description>
+<picture>144099.jpg</picture>
+<seiyuu id="2016" picture="240331.jpg">Yanaka Hiroshi</seiyuu>
+</character>
+<character id="67139" type="secondary cast in" update="2014-07-28">
+<rating votes="14">8.18</rating>
+<name>Yamazaki Sousuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>156265.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="68546" type="appears in" update="2014-07-10">
+<rating votes="2">4.13</rating>
+<name>Tachibana Ren</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tachibana Ren is Makoto`s younger brother.</description>
+<picture>157856.jpg</picture>
+<seiyuu id="38115" picture="139630.jpg">Maruyama Yuka</seiyuu>
+</character>
+<character id="68547" type="appears in" update="2014-07-10">
+<rating votes="6">5.47</rating>
+<name>Tachibana Ran</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tachibana Ran is Makoto`s younger sister.</description>
+<picture>157855.jpg</picture>
+<seiyuu id="38169" picture="139881.jpg">Kobori Miyuki</seiyuu>
+</character>
+<character id="68554" type="secondary cast in" update="2014-07-29">
+<rating votes="5">6.25</rating>
+<name>Mikoshiba Momotarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mikoshiba Momotarou is the younger brother of former captain Mikoshiba.</description>
+<picture>158686.jpg</picture>
+<seiyuu id="191" picture="17006.jpg">Suzumura Ken`ichi</seiyuu>
+</character>
+<character id="68680" type="appears in" update="2016-02-08">
+<rating votes="2">3.57</rating>
+<name>Sera Tadanori</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Rei`s senpai from track and field club.</description>
+<picture>158176.jpg</picture>
+</character>
+<character id="69577" type="appears in" update="2014-08-21">
+<rating votes="2">4.13</rating>
+<name>Shigino Kisumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kisumi is Haru and Makoto`s schoolmate from junior high school and Hayato`s older brother.</description>
+<picture>159961.jpg</picture>
+<seiyuu id="444" picture="17329.jpg">Suzuki Chihiro</seiyuu>
+</character>
+<character id="69578" type="appears in" update="2014-08-21">
+<rating votes="1">6.80</rating>
+<name>Shigino Hayato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hayato is a kid from Iwatobi swimming club who was scared of water.</description>
+<picture>159959.jpg</picture>
+<seiyuu id="441" picture="171611.jpg">Fujimura Ayumi</seiyuu>
+</character>
+<character id="69694" type="appears in" update="2014-08-28">
+<rating votes="1">4.13</rating>
+<name>Kouchou-sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Principal of Iwatobi High School.</description>
+<picture>160210.jpg</picture>
+<seiyuu id="13802" picture="65373.jpg">Hasu Takehiro</seiyuu>
+</character>
+<character id="69695" type="appears in" update="2014-08-28">
+<rating votes="2">2.51</rating>
+<name>Seikatsu Shidou Kyouyu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Guidance counselor of Iwatobi High School.</description>
+<picture>160209.jpg</picture>
+<seiyuu id="1998" picture="21301.jpg">Nagasako Takashi</seiyuu>
+</character>
+<character id="70061" type="appears in" update="2014-09-18">
+<rating votes="1">6.80</rating>
+<name>Russell</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>161130.jpg</picture>
+</character>
+<character id="70062" type="appears in" update="2014-09-18">
+<rating votes="1">6.80</rating>
+<name>Lori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>161131.jpg</picture>
+</character>
+<character id="77481" type="secondary cast in" update="2018-07-29">
+<rating votes="4">5.77</rating>
+<name>Kirishima Ikuya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177671.jpg</picture>
+<seiyuu id="2588" picture="153507.jpg">Uchiyama Kouki</seiyuu>
+</character>
+<character id="77482" type="secondary cast in" update="2018-07-29">
+<name>Shiina Asahi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177674.jpg</picture>
+<seiyuu id="303" picture="166016.jpg">Toyonaga Toshiyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="186204" update="2017-06-26">
+<epno type="1">2</epno>
+<length>100</length>
+<airdate>2017-07-01</airdate>
+<title xml:lang="ja">約束</title>
+<title xml:lang="en">Promise</title>
+<title xml:lang="de">The Promise</title>
+<title xml:lang="x-jat">Yakusoku</title>
+</episode>
+<episode id="186205" update="2017-04-18">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>2017-04-22</airdate>
+<title xml:lang="ja">絆</title>
+<title xml:lang="en">Bonds</title>
+<title xml:lang="de">The Bond</title>
+<title xml:lang="x-jat">Kizuna</title>
+</episode>
+<episode id="201105" update="2018-06-10">
+<epno type="2">S8</epno>
+<length>5</length>
+<airdate>2017-07-01</airdate>
+<title xml:lang="ja">約束 キャラクター舞台挨拶映像 4</title>
+<title xml:lang="en">Episode S8</title>
+<title xml:lang="x-jat">Yakusoku: Character Butai Aisatsu Eizou 4</title>
+</episode>
+<episode id="201106" update="2018-06-10">
+<epno type="2">S7</epno>
+<length>5</length>
+<airdate>2017-07-01</airdate>
+<title xml:lang="ja">約束 キャラクター舞台挨拶映像 3</title>
+<title xml:lang="en">Episode S7</title>
+<title xml:lang="x-jat">Yakusoku: Character Butai Aisatsu Eizou 3</title>
+</episode>
+<episode id="201107" update="2018-06-10">
+<epno type="2">S6</epno>
+<length>5</length>
+<airdate>2017-07-01</airdate>
+<title xml:lang="ja">約束 キャラクター舞台挨拶映像 2</title>
+<title xml:lang="en">Episode S6</title>
+<title xml:lang="x-jat">Yakusoku: Character Butai Aisatsu Eizou 2</title>
+</episode>
+<episode id="201108" update="2018-06-10">
+<epno type="2">S5</epno>
+<length>5</length>
+<airdate>2017-07-01</airdate>
+<title xml:lang="ja">約束 キャラクター舞台挨拶映像 1</title>
+<title xml:lang="en">Episode S5</title>
+<title xml:lang="x-jat">Yakusoku: Character Butai Aisatsu Eizou 1</title>
+</episode>
+<episode id="201109" update="2018-06-10">
+<epno type="2">S4</epno>
+<length>5</length>
+<airdate>2017-04-22</airdate>
+<title xml:lang="ja">絆 キャラクター舞台挨拶映像 4</title>
+<title xml:lang="en">Episode S4</title>
+<title xml:lang="x-jat">Kizuna: Character Butai Aisatsu Eizou 4</title>
+</episode>
+<episode id="201110" update="2018-06-10">
+<epno type="2">S3</epno>
+<length>4</length>
+<airdate>2017-04-22</airdate>
+<title xml:lang="ja">絆 キャラクター舞台挨拶映像 3</title>
+<title xml:lang="en">Episode S3</title>
+<title xml:lang="x-jat">Kizuna: Character Butai Aisatsu Eizou 3</title>
+</episode>
+<episode id="201111" update="2018-06-10">
+<epno type="2">S2</epno>
+<length>5</length>
+<airdate>2017-04-22</airdate>
+<title xml:lang="ja">絆 キャラクター舞台挨拶映像 2</title>
+<title xml:lang="en">Episode S2</title>
+<title xml:lang="x-jat">Kizuna: Character Butai Aisatsu Eizou 2</title>
+</episode>
+<episode id="201112" update="2018-06-10">
+<epno type="2">S1</epno>
+<length>4</length>
+<airdate>2017-04-22</airdate>
+<title xml:lang="ja">絆 キャラクター舞台挨拶映像 1</title>
+<title xml:lang="en">Episode S1</title>
+<title xml:lang="x-jat">Kizuna: Character Butai Aisatsu Eizou 1</title>
+</episode>
+</episodes>
+</anime>

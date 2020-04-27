@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2219" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1974-03-16</startdate>
+<enddate>1974-03-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kikansha Yaemon: D51 no Daibouken</title>
+<title xml:lang="en" type="synonym">The Great Adventures of Kikansha Yaemon D51</title>
+<title xml:lang="de" type="synonym">Das große Abenteuer von Kikansha Yaemon D51</title>
+<title xml:lang="x-jat" type="synonym">Kikanshaemon D51 no Dai Boken</title>
+<title xml:lang="ja" type="official">きかんしゃやえもん D51の大冒険</title>
+<title xml:lang="de" type="official">Samurai Express</title>
+<title xml:lang="ar" type="official">القاطرة يامون</title>
+</titles>
+<relatedanime>
+<anime id="7456" type="Alternative Setting">Kikansha Yaemon</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_kikansha/</url>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="3637" type="Music">Watanabe Takeo</name>
+<name id="50521" type="Original Work">Agawa Hiroyuki</name>
+</creators>
+<description>An old train engine endeavors to be useful despite the more modern transportation now available in the big city. The story was taken from a highly popular storybook series.</description>
+<ratings>
+<permanent count="12">3.31</permanent>
+<temporary count="12">4.66</temporary>
+</ratings>
+<picture>204477.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3580</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8494</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3143</identifier>
+<identifier>vyicxu</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_kikansha/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>144659</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m058</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="21661" update="2011-10-20">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>1974-03-16</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

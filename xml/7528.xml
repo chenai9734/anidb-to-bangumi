@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7528" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2000-10-07</startdate>
+<enddate>2000-10-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Alexander Senki Gekijouban</title>
+<title xml:lang="ja" type="official">アレクサンダー戦記 劇場版</title>
+</titles>
+<relatedanime>
+<anime id="1194" type="Full Story">Alexander Senki</anime>
+</relatedanime>
+<creators>
+<name id="148" type="Direction">Rintarou</name>
+<name id="23600" type="Original Work">Aramata Hiroshi</name>
+<name id="4790" type="Animation Character Design">Satou Yuuzou</name>
+<name id="19740" type="Character Design">Peter Chung</name>
+<name id="2315" type="Series Composition">Murai Sadayuki</name>
+<name id="1865" type="Direction">Kanemori Yoshinori</name>
+<name id="31021" type="Work">Kwon O-Jun</name>
+</creators>
+<description>http://anidb.net/ch55622 [Prince Alexander], son of http://anidb.net/ch55624 [King Philip II] and heir to the Macedonian Empire, must fend off political saboteurs, assassins, and the jealousy of his own father to ascend the throne. Once there, he begins his quest to conquer all nations and become known as the Great King, though an ancient prophecy foretells that he will be the destroyer of the world, forever remembered as the Devil King.
+Source: ANN</description>
+<ratings>
+<permanent count="33">4.13</permanent>
+<temporary count="33">5.48</temporary>
+</ratings>
+<picture>47735.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7200</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5157</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Reign:_The_Conqueror</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アレクサンダー戦記</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>161557</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4142</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="55622" type="main character in" update="2017-11-13">
+<rating votes="3">8.11</rating>
+<name>Alexander</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Alexander III of Macedon (commonly known as Alexander the Great) was a king of Macedon, a state in northern ancient Greece. Born in Pella in 356 BC, Alexander was tutored by Aristotle until the age of 16. He was undefeated in battle and is considered one of history`s most successful commanders.</description>
+<picture>136295.jpg</picture>
+<seiyuu id="384" picture="17230.jpg">Seki Toshihiko</seiyuu>
+</character>
+<character id="55623" type="secondary cast in" update="2017-11-13">
+<rating votes="1">2.49</rating>
+<name>Aristotle</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Aristotle was a Greek philosopher and polymath, a student of Plato and teacher of Alexander the Great. His writings cover many subjects, including physics, metaphysics, poetry, theater, music, logic, rhetoric, linguistics, politics, government, ethics, biology, and zoology. Together with Plato and Socrates, Aristotle is one of the most important founding figures in Western philosophy. Aristotle`s writings were the first to create a comprehensive system of Western philosophy, encompassing morality, aesthetics, logic, science, politics, and metaphysics.</description>
+<picture>136296.jpg</picture>
+<seiyuu id="3380" picture="187130.jpg">Nozawa Nachi</seiyuu>
+</character>
+<character id="55624" type="secondary cast in" update="2013-05-06">
+<rating votes="1">2.49</rating>
+<name>Philip II</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Philip II was king of Macedon from 359 BC until his assassination in 336 BC. He was the father of Alexander the Great and Philip III.</description>
+<picture>136298.jpg</picture>
+<seiyuu id="4438" picture="26713.jpg">Sakaguchi Yoshisada</seiyuu>
+</character>
+<character id="55625" type="secondary cast in" update="2013-05-06">
+<rating votes="1">4.27</rating>
+<name>Haphaestion</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hephaestion, son of Amyntor, was a Macedonian nobleman and a general in the army of Alexander the Great. He was "... by far the dearest of all the king`s friends; he had been brought up with Alexander and shared all his secrets." This friendship lasted their whole lives, and was compared, by others as well as themselves, to that of Achilles and Patroclus.</description>
+<picture>136300.jpg</picture>
+<seiyuu id="342" picture="17179.jpg">Tsujitani Kouji</seiyuu>
+</character>
+<character id="55626" type="secondary cast in" update="2013-05-08">
+<rating votes="2">1.56</rating>
+<name>Ptolemy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Ptolemy was a Macedonian general under Alexander the Great, who became ruler of Egypt (323-283 BC) and founder of both the Ptolemaic Kingdom and the Ptolemaic Dynasty. In 305/4 BC he took the title of Pharaoh.</description>
+<picture>136301.jpg</picture>
+<seiyuu id="413" picture="151647.jpg">Ikeda Shuuichi</seiyuu>
+</character>
+<character id="55628" type="secondary cast in" update="2013-05-06">
+<rating votes="1">4.27</rating>
+<name>Cleitus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Cleitus was an officer of the Macedonian army led by Alexander the Great. Cleitus was son of Dropides and brother of Alexander`s nurse, Lanike.</description>
+<picture>136303.jpg</picture>
+<seiyuu id="297" picture="233915.jpg">Ootsuka Houchuu</seiyuu>
+</character>
+<character id="55629" type="secondary cast in" update="2013-05-06">
+<rating votes="1">1.51</rating>
+<name>Darius III</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Darius III was the last king of the Achaemenid Empire of Persia from 336 BC to 330 BC.</description>
+<picture>136304.jpg</picture>
+<seiyuu id="380" picture="158572.jpg">Yamadera Kouichi</seiyuu>
+</character>
+<character id="55630" type="secondary cast in" update="2013-05-06">
+<rating votes="2">4.01</rating>
+<name>Olympias</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Olympias was a Greek princess of Epirus, daughter of king Neoptolemus I of Epirus, the fourth wife of the king of Macedonia, Philip II, and mother of Alexander the Great. She was a devout member of the orgiastic snake-worshiping cult of Dionysus, and it is suggested by the 1st century AD biographer, Plutarch, that she may have slept with snakes.</description>
+<picture>136305.jpg</picture>
+<seiyuu id="29012" picture="76619.jpg">Mashina Junko</seiyuu>
+</character>
+<character id="55631" type="appears in" update="2013-05-06">
+<rating votes="1">4.27</rating>
+<name>Roxanne</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Roxana was a Bactrian (Persian Empire) princess and a wife of Alexander the Great.</description>
+<picture>136306.jpg</picture>
+<seiyuu id="352" picture="17191.jpg">Minaguchi Yuuko</seiyuu>
+</character>
+<character id="55632" type="secondary cast in" update="2013-05-06">
+<rating votes="1">2.49</rating>
+<name>Cassandra</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>136307.jpg</picture>
+<seiyuu id="222" picture="19786.jpg">Tanaka Atsuko</seiyuu>
+</character>
+<character id="55633" type="secondary cast in" update="2013-05-06">
+<rating votes="1">2.49</rating>
+<name>Philotas</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Philotas was the eldest son of Parmenion, Alexander`s most experienced and talented general.</description>
+<picture>136308.jpg</picture>
+<seiyuu id="20546" picture="2047.gif">Meguro Kousuke</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="118403" update="2010-05-11">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>2000-10-07</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13311" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2017-10-03</startdate>
+<enddate>2017-12-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dia Horizon (Kabu)</title>
+<title xml:lang="ja" type="official">ディアホライゾン(被)</title>
+</titles>
+<relatedanime>
+<anime id="13327" type="Other">Dia Horizon (Web)</anime>
+</relatedanime>
+<url>http://portal.dia-horizon.jp/</url>
+<creators>
+<name id="23366" type="Animation Work">Fanworks</name>
+<name id="49838" type="Series Composition">Takabayashi Yuuki</name>
+<name id="21427" type="Direction">Kasugamori Haruki</name>
+</creators>
+<ratings>
+<permanent count="17">2.60</permanent>
+<temporary count="17">3.12</temporary>
+</ratings>
+<picture>207572.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23160</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35999</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://portal.dia-horizon.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ディアホライゾン</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4736</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361357</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20698</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="91556" type="main character in" update="2017-09-26">
+<name>Ingrit</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="17149" picture="174125.jpg">Yamamura Hibiku</seiyuu>
+</character>
+<character id="91557" type="main character in" update="2017-09-26">
+<name>Wolf</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="168" picture="246304.jpg">Fujiwara Keiji</seiyuu>
+</character>
+<character id="91558" type="main character in" update="2017-09-26">
+<name>Sofia</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="36618" picture="175524.jpg">Tanaka Aimi</seiyuu>
+</character>
+<character id="91559" type="main character in" update="2017-09-26">
+<name>Ryan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="37882" picture="173035.jpg">Yamashita Seiichirou</seiyuu>
+</character>
+<character id="91560" type="secondary cast in" update="2017-09-26">
+<name>Let</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="36230" picture="242785.jpg">Serizawa Yuu</seiyuu>
+</character>
+<character id="91561" type="secondary cast in" update="2017-09-26">
+<name>Victor</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="191394" update="2017-10-03">
+<epno type="1">12</epno>
+<length>4</length>
+<airdate>2017-12-19</airdate>
+<title xml:lang="ja">聖戦 (被)</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Seisen (Hi)</title>
+</episode>
+<episode id="191395" update="2017-10-03">
+<epno type="1">11</epno>
+<length>4</length>
+<airdate>2017-12-12</airdate>
+<title xml:lang="ja">理由</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Riyuu</title>
+</episode>
+<episode id="191396" update="2017-10-03">
+<epno type="1">10</epno>
+<length>4</length>
+<airdate>2017-12-01</airdate>
+<title xml:lang="ja">ホームシック</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Homesick</title>
+</episode>
+<episode id="191397" update="2017-10-03">
+<epno type="1">9</epno>
+<length>4</length>
+<airdate>2017-11-28</airdate>
+<title xml:lang="ja">恋のゆくえ</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Koi no Yukue</title>
+</episode>
+<episode id="191398" update="2017-10-03">
+<epno type="1">8</epno>
+<length>4</length>
+<airdate>2017-11-21</airdate>
+<title xml:lang="ja">帝国の怪人</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Teikoku no Kaijin</title>
+</episode>
+<episode id="191399" update="2017-10-03">
+<epno type="1">7</epno>
+<length>4</length>
+<airdate>2017-11-14</airdate>
+<title xml:lang="ja">中途採用のエナ</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Chuutosaiyou no Ena</title>
+</episode>
+<episode id="191400" update="2017-10-03">
+<epno type="1">6</epno>
+<length>4</length>
+<airdate>2017-11-07</airdate>
+<title xml:lang="ja">ソフィアの贈り物</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Sofia no Okurimono</title>
+</episode>
+<episode id="191401" update="2017-10-03">
+<epno type="1">5</epno>
+<length>4</length>
+<airdate>2017-10-31</airdate>
+<title xml:lang="ja">お局のイングリット</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Otsubone no Ingrid</title>
+</episode>
+<episode id="191402" update="2017-10-03">
+<epno type="1">4</epno>
+<length>4</length>
+<airdate>2017-10-24</airdate>
+<title xml:lang="ja">ウルフの正体</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Wolf no Shoutai</title>
+</episode>
+<episode id="191403" update="2017-10-03">
+<epno type="1">3</epno>
+<length>4</length>
+<airdate>2017-10-17</airdate>
+<title xml:lang="ja">名前を入力してください</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Namae o Nyuuryoku Shite Kudasai</title>
+</episode>
+<episode id="191404" update="2017-10-03">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2017-10-10</airdate>
+<rating votes="1">1.39</rating>
+<title xml:lang="ja">禁じ手</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kinjite</title>
+</episode>
+<episode id="191405" update="2017-10-03">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2017-10-03</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">サラリーマン冒険者</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Salaryman Boukensha</title>
+</episode>
+</episodes>
+</anime>

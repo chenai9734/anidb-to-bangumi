@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10649" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2012-09-21</startdate>
+<enddate>2012-09-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hashi no Mukou</title>
+<title xml:lang="ja" type="official">端ノ向フ</title>
+</titles>
+<url>http://iyasakado.com/works/hashi_no_mukou/</url>
+<creators>
+<name id="40025" type="Character Design">Tsukahara Shigeyoshi</name>
+<name id="40025" type="Original Work">Tsukahara Shigeyoshi</name>
+<name id="40025" type="Direction">Tsukahara Shigeyoshi</name>
+<name id="40026" type="Animation Work">Iyasakadou</name>
+<name id="53935" type="Music">Akatsuki Chouta</name>
+</creators>
+<description>11th Independent Animation Festival Grand Prix.
+There are old stories of children disappearing by the river`s edge. This has haunted Otoha ever since her friend Jiro disappeared when she was seven years old and now she is back in her hometown covering the war between the government and the dissidents. When she gets separated from the squad, Otoha thinks someone seems to be leading her deeper into the back alleys of the town.
+Source: MAL</description>
+<ratings>
+<permanent count="57">5.25</permanent>
+<temporary count="57">5.42</temporary>
+</ratings>
+<picture>156132.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24127</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://iyasakado.com/works/hashi_no_mukou/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2851" parentid="7050" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-11">
+<name>horror</name>
+<description>The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.</description>
+<picurl>214682.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="67577" type="secondary cast in" update="2014-05-22">
+<name>Jiro-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155862.jpg</picture>
+</character>
+<character id="67578" type="secondary cast in" update="2014-05-22">
+<name>Sassa Kunidan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155858.jpg</picture>
+<seiyuu id="40237" picture="156697.jpg">Tsuchiya Junpei</seiyuu>
+</character>
+<character id="67579" type="secondary cast in" update="2014-05-22">
+<name>Kai Katsudou Benshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155860.jpg</picture>
+<seiyuu id="30007" picture="178756.jpg">Sakamoto Raikou</seiyuu>
+</character>
+<character id="67580" type="secondary cast in" update="2014-05-22">
+<name>Kagomachi Heichou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155859.jpg</picture>
+</character>
+<character id="67581" type="main character in" update="2014-05-22">
+<name>Aoyagi Otoha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155861.jpg</picture>
+<seiyuu id="36228" picture="133328.jpg">Ozaki Aya</seiyuu>
+</character>
+<character id="67582" type="secondary cast in" update="2014-05-22">
+<name>Komamoto Ittouhei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155863.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="160079" update="2015-05-10">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2012-09-21</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3589" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1982-03-13</startdate>
+<enddate>1982-03-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Nippon Mukashibanashi: Horafuki Tengu/Okesa Neko</title>
+<title xml:lang="en" type="synonym">Japanese Folklore Tales Movie</title>
+<title xml:lang="ja" type="official">まんが日本昔ばなし ほらふき天狗・おけさねこ</title>
+<title xml:lang="el" type="official">Παλιά Γιαπωνέζικα Παραμύθια</title>
+</titles>
+<relatedanime>
+<anime id="3588" type="Parent Story">Manga Nippon Mukashibanashi (1976)</anime>
+</relatedanime>
+<description>Note: Episode from http://anidb.net/a3588 [Manga Nippon Mukashibanashi]. Shown in the Toei Manga Matsuri film festival together with http://anidb.net/a2270 [Aladdin to Mahou no Lamp], http://anidb.net/a1926 [Asari-chan]`s 53rd episode (愛のメルヘン少女) and some tokusatsu features.</description>
+<ratings>
+<permanent count="10">2.92</permanent>
+<temporary count="11">4.72</temporary>
+</ratings>
+<picture>5255.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10285</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3158</identifier>
+<identifier>icijct</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>148012</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="41440" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1982-03-13</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12768" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1992-06</startdate>
+<enddate>1992-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sowa Sowa Calendar</title>
+<title xml:lang="ja" type="official">そわそわカレンダー</title>
+</titles>
+<url>http://www2.nhk.or.jp/minna/search/index.cgi?id=MIN199206_03</url>
+<ratings>
+<permanent count="6">2.34</permanent>
+<temporary count="7">4.14</temporary>
+</ratings>
+<picture>197606.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32074</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www2.nhk.or.jp/minna/search/index.cgi?id=MIN199206_03</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="185492" update="2017-03-09">
+<epno type="1">1</epno>
+<length>2</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

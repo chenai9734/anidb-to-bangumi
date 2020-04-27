@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12108" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981-03-14</startdate>
+<enddate>1981-03-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kitty to Mimi no Atarashii Kasa</title>
+<title xml:lang="ja" type="official">キティとミミィのあたらしいかさ</title>
+</titles>
+<creators>
+<name id="5281" type="Original Work">Tsuji Shintarou</name>
+<name id="35092" type="Direction">Nakamura Takeo</name>
+</creators>
+<description>The first Hello Kitty movie. It was released in theaters on 14.03.1981 together with the first http://anidb.net/a1267 [Unico] movie as a double feature.</description>
+<picture>187767.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35032</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>147535</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="178190" update="2016-08-07">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1981-03-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

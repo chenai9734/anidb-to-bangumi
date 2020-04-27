@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7188" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1996-06-15</startdate>
+<enddate>1996-06-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Apo Apo World: Giant Baba 90-bun Ippon Shoubu</title>
+<title xml:lang="ja" type="official">APO APOワールド ジャイアント馬場 90分1本勝負</title>
+</titles>
+<creators>
+<name id="4316" type="Direction">Yasumi Tetsuo</name>
+</creators>
+<description>Animation based around the real-life Japanese wrestler Giant Baba (Baba Shouhei, 23.01.1938-31.01.1999).</description>
+<ratings>
+<permanent count="3">3.23</permanent>
+<temporary count="3">4.33</temporary>
+</ratings>
+<picture>244282.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22851</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>152890</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4745</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1482" parentid="2751" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-08">
+<name>wrestling</name>
+<description>Wrestling is a fight between two people without weapons, in which each person tries to beat their opponent. Wrestlers use clinching, holding, locking, and leverage. It resembles ritual fighting as it avoids things that will likely lead to serious injury. It is similar to military hand-to-hand combat or self-defence systems.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2751" parentid="2881" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-27">
+<name>combat</name>
+<description>Combat involves a violent conflict with the goal to establish dominance over an opponent.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="111360" update="2009-11-12">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1996-06-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

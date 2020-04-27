@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11688" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1997</startdate>
+<enddate>1997</enddate>
+<titles>
+<title xml:lang="en" type="main">Teo the Magic Planet</title>
+<title xml:lang="ja" type="official">TEO THE MAGIC PLANET</title>
+</titles>
+<creators>
+<name id="3778" type="Character Design">Kamimura Sachiko</name>
+<name id="723" type="Work">Tezuka Productions</name>
+<name id="6275" type="Original Plan">Tezuka Makoto</name>
+<name id="5106" type="Direction">Sakai Akio</name>
+<name id="45471" type="Music">Hasebe Tooru</name>
+</creators>
+<description>* Based on the pet-raising simulation game Fin Fin on Teo the Magic Planet by Fujitsu.
+Note: This is a pilot episode for the planned TV series which was later cancelled.</description>
+<ratings>
+<permanent count="7">3.59</permanent>
+<temporary count="7">5.00</temporary>
+</ratings>
+<picture>63239.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32732</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="173354" update="2015-11-17">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

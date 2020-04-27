@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9928" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1958-10-15</startdate>
+<enddate>1958-10-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mogura no Adventure</title>
+<title xml:lang="en" type="synonym">Mole`s Adventure</title>
+<title xml:lang="ja" type="official">もぐらのアバンチュール</title>
+</titles>
+<description>A mole named Kuro-chan falls asleep under the sun and embarks on a space voyage in his dreams. There, he meets some strange-looking aliens living on a different planet.
+Note: This is the oldest known surviving Japanese television animated work. Until its discovery, http://anidb.net/a5486 [Atarashii Douga: Mittsu no Hanashi], a 1960 black-and-white work produced by NHK, held that distinction.</description>
+<ratings>
+<permanent count="41">3.01</permanent>
+<temporary count="42">4.21</temporary>
+</ratings>
+<picture>138752.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17149</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>19125</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mole's_Adventure</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>モグラのアバンチュール</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>346213</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16893</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="151184" update="2013-06-16">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

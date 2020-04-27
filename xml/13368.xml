@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13368" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002</startdate>
+<enddate>2002</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kono Mayonnaise wa Yuru Sugiru</title>
+<title xml:lang="ja" type="official">このマヨネーズはゆるすぎる</title>
+<title xml:lang="en" type="official">This Mayonnaise is too liquid.</title>
+<title xml:lang="fr" type="official">Cette mayonnaise est trop liquid.</title>
+</titles>
+<creators>
+<name id="25815" type="Direction">Wada Atsushi</name>
+</creators>
+<description>Everything is liquid in this world, like the mayonnaise.
+Source: Official website</description>
+<ratings>
+<permanent count="21">1.38</permanent>
+<temporary count="21">2.42</temporary>
+</ratings>
+<picture>205885.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30212</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kankaku.jp/independent-jp/liquid.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://kankaku.jp/independent-en/liquid.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="192470" update="2017-11-03">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

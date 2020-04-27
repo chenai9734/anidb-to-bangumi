@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6276" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2007-06-29</startdate>
+<enddate>2007-06-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekishoku Elegy</title>
+<title xml:lang="ja" type="synonym">Akairo Elegy</title>
+<title xml:lang="en" type="synonym">Red Colored Elegy</title>
+<title xml:lang="ja" type="official">赤色エレジー</title>
+</titles>
+<url>http://www.ganime.jp/sekishoku/index.html</url>
+<creators>
+<name id="7267" type="Music">Suzuki Kei`ichi</name>
+<name id="11077" type="Original Work">Hayashi Seiichi</name>
+<name id="11077" type="Direction">Hayashi Seiichi</name>
+</creators>
+<description>A legendary masterpiece of love comics, SEKISHOKU Elegy brought baby-boomers to tears for its depiction of the heart-rending sorrow of cohabitation symbolizing young Japanese couples in the 1970s. The famous painter Seiichi Hayashi, well known for his work in Koume Chan candies and Sendai`s renowned confectionery Hagi No Tsuki, draws the animation as the original writer and also directs it. Hayashi also teams up with folk singer Morio Agata for the first time in more than three decades. Agata enjoyed a huge hit with a song originating from the comic. New renditions give new life to SEKISHOKU Elegy as a work of Ganime.</description>
+<ratings>
+<permanent count="15">4.57</permanent>
+<temporary count="15">5.40</temporary>
+</ratings>
+<picture>15843.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7953</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6268</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ganime.jp/sekishoku/index.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>327977</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="3645" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-01-08">
+<name>ganime</name>
+<description>Ganime label is for the new style of artistic visual content characterized by pictures, words and music to express the artists’ unique perspectives.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="95887" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2007-06-29</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

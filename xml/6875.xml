@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6875" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1951-02</startdate>
+<enddate>1951-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ponsuke no Udekurabe</title>
+<title xml:lang="ja" type="official">ポン助の腕くらべ</title>
+</titles>
+<ratings>
+<permanent count="2">1.72</permanent>
+<temporary count="2">2.00</temporary>
+</ratings>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7527</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>321229</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106676" update="2009-08-26">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

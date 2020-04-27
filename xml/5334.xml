@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5334" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1993-08-14</startdate>
+<enddate>1993-08-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">3-Choume no Tama: Onegai! Momo-chan o Sagashite!!</title>
+<title xml:lang="en" type="synonym">Tama and Friends movie</title>
+<title xml:lang="en" type="synonym">Tama and Friends: Please! Search for Momo-chan!!</title>
+<title xml:lang="x-jat" type="synonym">3 Choume no Tama: Onegai! Momo-chan o Sagashite!!</title>
+<title xml:lang="ja" type="official">3丁目のタマ おねがい! モモちゃんを捜して!!</title>
+</titles>
+<relatedanime>
+<anime id="4678" type="Parent Story">3-Choume no Tama: Uchi no Tama Shirimasenka? (1994)</anime>
+</relatedanime>
+<creators>
+<name id="774" type="Animation Work">Group Tac</name>
+<name id="5732" type="Direction">Nanba Hitoshi</name>
+<name id="7110" type="Music">Tsuru Norihiro</name>
+</creators>
+<ratings>
+<permanent count="16">4.26</permanent>
+<temporary count="16">5.12</temporary>
+</ratings>
+<picture>190038.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1777</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>12589</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3100</identifier>
+<identifier>kcstgl</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Tama_and_Friends</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>3丁目のタマ_おねがい!モモちゃんを捜して!!</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>152026</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2969</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="85209" type="main character in" update="2019-06-13">
+<name>Tama</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>234746.jpg</picture>
+<seiyuu id="167" picture="16972.jpg">Kasahara Hiroko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="79731" update="2016-08-12">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>1993-08-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

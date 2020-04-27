@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7982" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2010-11-20</startdate>
+<enddate>2010-11-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anime Tenchou x Touhou Project</title>
+<title xml:lang="ja" type="official">アニメ店長×東方Project</title>
+</titles>
+<relatedanime>
+<anime id="8624" type="Alternative Setting">Gensou Mangekyou: The Memories of Phantasm</anime>
+<anime id="6262" type="Alternative Setting">Touhou Niji Sousaku Doujin Anime: Musou Kakyou</anime>
+<anime id="5315" type="Character">Anime Tenchou</anime>
+<anime id="8063" type="Other">Anime Tenchou Gekijouban</anime>
+</relatedanime>
+<url>http://www.animate.co.jp/aniten/10th_project03.html</url>
+<description>A project made to celebrate the 10th anniversary of the http://anidb.net/cr803 [Animate] mascot character Anime Tenchou, screened at the Animate Ichioshi Bishoujo Matsuri event in Tokyo.</description>
+<ratings>
+<permanent count="53">3.87</permanent>
+<temporary count="55">5.63</temporary>
+</ratings>
+<picture>55378.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9875</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://web.archive.org/web/20160224003334/https://www.animate.co.jp/aniten/10th_project03.html#round1</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="6639" type="main character in" update="2009-08-02">
+<rating votes="73">7.52</rating>
+<name>Anizawa Meito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Anizawa Meito, also known as Anime Tenchou, is the manager of the Animate Ikebukuro shop (However, he appeared in the (old) Oomiya shop and the comic market booth in the Anime and appeared in the Akihabara shop in the PS2 Video Game), he was originally the mascot of Animate and Hero of Anime Tenchou.
+He and his staff consider Konata their most valued customer, known as "Legendary Girl A" (伝説の少女A ,Densetsu no Shoujo A), and go to great lengths to sell their merchandise to her, often to the point of using espionage and military-style strategies, and at one point, Meito himself uses "Geass" on Konata to persuade her to buy a DVD from him; however when she tries to pay it, she fell short only three yen. Their attempts usually fail miserably. His appearance is heavily stylized, compared to the other characters, and he is known for his passionate yelling and highly energetic movements and poses. He appeared as a special guest during the Lucky Channel segment in episode seventeen, during which he and Minoru parody Mobile Fighter G Gundam`s Domon Kasshu, referencing the fact that Meito`s voice actor also played the character. He also appeared in episode twelve, fighting against another sales manager (about how valuable "so-called leftovers" can be after they ran out of rare and limited edition "thingies") in a dramatic way. Meito`s colleagues at Animate are all similarly enthusiastic about selling their merchandise. In 2002, Gainax produced a single original video animation, where Meito Anisawa and his fellow employees are the focus.</description>
+<picture>29604.jpg</picture>
+</character>
+<character id="25316" type="secondary cast in" update="2010-11-25">
+<rating votes="62">7.46</rating>
+<name>Flandre Scarlet</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Flandre is the younger sister of Remilia and the "dirty little secret" of Scarlet Devil Mansion. Because of her unstable personality and incredible destructive power, her sister has had her ordered not to get out of the mansion for nearly 500 years. She knows little about the world outside and until the heroines arrived during the Extra Stage of Embodiment of Scarlet Devil, she has had no substantive contact with any humans other than Sakuya.</description>
+<picture>59802.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="122660" update="2019-02-24">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2010-11-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="145159" update="2019-02-24">
+<epno type="4">T1</epno>
+<length>2</length>
+<airdate>2010-10-11</airdate>
+<title xml:lang="en">Anime Tenchou x Touhou Project Trailer (1:27)</title>
+</episode>
+</episodes>
+</anime>

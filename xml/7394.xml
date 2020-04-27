@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7394" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1993-03-26</startdate>
+<enddate>1993-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ganbare Goemon: Jigen Jou no Akumu</title>
+<title xml:lang="ja" type="official">がんばれゴエモン 次元城の悪夢</title>
+</titles>
+<relatedanime>
+<anime id="2423" type="Character">Ganbare Goemon</anime>
+</relatedanime>
+<creators>
+<name id="6114" type="Character Design">Tsuruyama Osamu</name>
+<name id="732" type="Work">AIC</name>
+<name id="4151" type="Direction">Ide Yasunori</name>
+<name id="925" type="Work">Konami</name>
+<name id="925" type="Original Work">Konami</name>
+<name id="20896" type="Music">Konami Kukeiha Club</name>
+</creators>
+<ratings>
+<permanent count="4">3.03</permanent>
+<temporary count="4">4.37</temporary>
+</ratings>
+<picture>43513.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16268</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8862</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3273</identifier>
+<identifier>vpuwcm</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88353</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2994</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="116572" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1993-03-26</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

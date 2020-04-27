@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14338" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1958-05</startdate>
+<enddate>1958-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bunbuku Chagama (1958)</title>
+<title xml:lang="ja" type="official">ぶんぶくちゃがま</title>
+</titles>
+<creators>
+<name id="9587" type="Direction">Mochinaga Tadahito</name>
+</creators>
+<description>A short puppet animation movie directed by http://anidb.net/cr9587 [Mochinaga Tadahito].</description>
+<ratings>
+<permanent count="8">3.44</permanent>
+<temporary count="8">4.00</temporary>
+</ratings>
+<picture>222981.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29921</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>16430</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205821" update="2018-09-18">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

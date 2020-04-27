@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10477" restricted="false">
+<type>Web</type>
+<episodecount>5</episodecount>
+<startdate>2013-12-20</startdate>
+<enddate>2014-01-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Momoya x Peeping Life: Goen Desu yo! II</title>
+<title xml:lang="ja" type="official">桃屋×Peeping Life ご縁ですよ! II</title>
+</titles>
+<relatedanime>
+<anime id="10476" type="Prequel">Momoya x Peeping Life: Goen Desu yo!</anime>
+</relatedanime>
+<url>http://www.momoya.co.jp/goendesuyo//</url>
+<creators>
+<name id="10345" type="Work">CoMix Wave Films</name>
+<name id="20221" type="Direction">Mori Ryouichi</name>
+<name id="43709" type="Animation Work">Forest Hunting One</name>
+<name id="43709" type="Work">Forest Hunting One</name>
+</creators>
+<description>A continuation of last season as Shiromeshi-kun continues his attempts at dating and finding refuge in Momoya food toppings.
+Source: MAL</description>
+<ratings>
+<permanent count="10">2.64</permanent>
+<temporary count="10">5.00</temporary>
+</ratings>
+<picture>150741.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22671</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.momoya.co.jp/goendesuyo//</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>playlist?list=PL8Vd-cvqk4GtlojsZ-gQvbHtNtfs7JxI1</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="159424" update="2016-09-19">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2014-01-17</airdate>
+<title xml:lang="ja">リベンジ ラー油ちゃんの場合</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Revenge Raayu-chan no Baai</title>
+</episode>
+<episode id="159425" update="2016-09-19">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2014-01-10</airdate>
+<title xml:lang="ja">キムチの素子ちゃんの場合</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kimchi no Motoko-chan no Baai</title>
+</episode>
+<episode id="159426" update="2016-09-19">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2014-01-03</airdate>
+<title xml:lang="ja">きざみしょうがさんの場合</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Kizami Shouga-san no Baai</title>
+</episode>
+<episode id="159427" update="2016-09-19">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2013-12-27</airdate>
+<title xml:lang="ja">きざみにんにくちゃんの場合</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kizami Ninniku-chan no Baai</title>
+</episode>
+<episode id="159428" update="2016-09-19">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2013-12-20</airdate>
+<title xml:lang="ja">白飯くんの場合</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Shiromeshi-kun no Baai</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8562" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1999-07-31</startdate>
+<enddate>1999-07-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chiisana Kyojin Microman: Daigekisen! Microman vs Saikyou Senshi Gorgon</title>
+<title xml:lang="ja" type="official">小さな巨人 ミクロマン 大激戦! ミクロマンVS最強戦士ゴルゴン</title>
+</titles>
+<relatedanime>
+<anime id="3948" type="Parent Story">Chiisana Kyojin Microman</anime>
+</relatedanime>
+<url>http://pierrot.jp/archives/mov_list_20th/mov_017.html</url>
+<creators>
+<name id="4566" type="Direction">Abe Noriyuki</name>
+<name id="1905" type="Music">Nagaoka Seikou</name>
+</creators>
+<ratings>
+<permanent count="5">3.12</permanent>
+<temporary count="5">4.40</temporary>
+</ratings>
+<picture>89798.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>13267</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>24269</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3073</identifier>
+<identifier>ypixsw</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://pierrot.jp/archives/mov_list_20th/mov_017.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>161813</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11322</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="132307" update="2011-08-08">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1999-07-31</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

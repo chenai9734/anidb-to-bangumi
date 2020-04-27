@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8231" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2011-01-21</startdate>
+<enddate>2011</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Golden Kids</title>
+<title xml:lang="ja" type="synonym">Golden★Kids</title>
+<title xml:lang="ja" type="official">ゴールデン★キッズ</title>
+</titles>
+<url>http://www.goldenkids.jp/jp/index.html</url>
+<creators>
+<name id="5117" type="Original Work">Takahashi Youichi</name>
+</creators>
+<description>The Koganedai Downtown FC Golden Kids haven`t won a single game since they formed.
+The captain and goal keeper, Goal Kitagawa is determined to win a game with the current members before he moves away next month.
+However, even after all the determination to win the next game they lose terribly, extending their losing streak to 22 games.
+Even the adults in the community who support the team begin to get fed up with all the losses.
+At school, the constantly losing Golden Kids members start to get picked on and bullied, and the adults worry that the bullying will only get worse.
+When the team members become depressed and lose their will to play, they see Goal practicing outside, silently and as hard as he can. Once again, the Golden Kids start to practice intensely to get that one win.
+The next game for the Golden Kids will be against the second best team in the Jonan League, the Wild Tigers.
+Will the Golden Kids finally get their first win ever? What will the adults decide to do with the team?
+Note: Anime was launched worldwide through an exclusive app for iPhone and other iOS devices.</description>
+<ratings>
+<permanent count="3">1.97</permanent>
+<temporary count="3">2.33</temporary>
+</ratings>
+<picture>64137.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>12942</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10323</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.goldenkids.jp/jp/index.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.goldenkids.jp/en/index.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="997" parentid="2881" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>association football</name>
+<description>Football is a sport that involves kicking a ball in order to score a goal, while the other team tries to stop you by kicking the ball in the other direction to score a goal of their own. In the United States, this sport is known as soccer; the inappropriately titled "American" football (which in fact is played with the egg-shaped "ball" being carried around) is some kind of rugby for babies.</description>
+<picurl>40031.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="4033" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2018-07-29">
+<name>discontinued</name>
+<description>This anime plot was supposed to run on more episodes, but it was prematurely discontinued before reaching the end.
+Generally, we can only reasonably observe that a show is discontinued after the fact. As such, this tag should not be added to an anime until at least 5 years have passed since the anime airing has ended.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="127607" update="2012-08-30">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>2011-01-21</airdate>
+<title xml:lang="ja">「最弱チーム」前半</title>
+<title xml:lang="en">The worst team -First half-</title>
+<title xml:lang="x-jat">"Saijaku Team" Zenpan</title>
+</episode>
+<episode id="127608" update="2012-10-22">
+<epno type="1">2</epno>
+<length>15</length>
+<title xml:lang="ja">「最弱チーム」 後半</title>
+<title xml:lang="en">The worst team -Second half-</title>
+<title xml:lang="x-jat">"Saijaku Team" Kouhan</title>
+</episode>
+</episodes>
+</anime>

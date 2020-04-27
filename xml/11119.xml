@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11119" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2015-03-08</startdate>
+<enddate>2015-03-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ima, Futari no Michi</title>
+<title xml:lang="ja" type="official">今, ふたりの道</title>
+<title xml:lang="zh-Hans" type="official">现在，两人的道路</title>
+</titles>
+<relatedanime>
+<anime id="11988" type="Other">Soshite, Kono Hama kara</anime>
+</relatedanime>
+<creators>
+<name id="4257" type="Direction">Nishizawa Susumu</name>
+<name id="25078" type="Character Design">Hashimoto Kouhei</name>
+<name id="47952" type="Animation Work">Asahi Production Miyagi Shiroishi Studio</name>
+<name id="47952" type="Work">Asahi Production Miyagi Shiroishi Studio</name>
+</creators>
+<description>The anime`s story focuses on a pair of 16-year-old high school students who experience the Tohoku disaster and grow in the aftermath. Agatsuma Jun`s father is a doctor, and she worries about the future. Satou Kunpei`s father is a fisherman, and it was decided that the boy will succeed his father in the job. The pair`s lives are suddenly disrupted when the 2011 earthquake and tsunami hit their area. The two determine their futures as Miyagi Prefecture recovers in the wake of the disaster.
+Source: ANN
+Note: The purpose of the short is to thank people for help during the Miyagi prefecture`s reconstruction efforts and prevent victims` memories of the 2011 disaster from fading away.</description>
+<ratings>
+<permanent count="34">4.46</permanent>
+<temporary count="34">5.75</temporary>
+</ratings>
+<picture>169697.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30133</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>352202</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="166851" update="2015-03-04">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-03-08</airdate>
+<rating votes="1">1.80</rating>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

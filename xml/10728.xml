@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10728" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2014-09-25</startdate>
+<enddate>2014-09-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!</title>
+<title xml:lang="ja" type="official">幕末Rock 湯煙推理劇[ミステリー]! 温泉怪事件ぜよ!!</title>
+</titles>
+<relatedanime>
+<anime id="10505" type="Other">Bakumatsu Rock</anime>
+</relatedanime>
+<url>http://bakumatsu.marv.jp/game/ultrasoul/shopping/box.html</url>
+<description>http://anidb.net/ch65433 [Ryouma] and others go to a beautiful hot springs resort, but a murder case happens at their inn. The victim has the mysterious number 69 written on his feet.
+Source: ANN
+Note: Bundled with the game Bakumatsu Rock: Ultra Soul.</description>
+<ratings>
+<permanent count="17">3.40</permanent>
+<temporary count="17">4.82</temporary>
+</ratings>
+<picture>157538.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25077</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://bakumatsu.marv.jp/game/ultrasoul/shopping/box.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="160976" update="2014-07-03">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2014-09-25</airdate>
+<title xml:lang="en">OAD</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5813" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1989-03-11</startdate>
+<enddate>1989-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Utsu no Miko</title>
+<title xml:lang="ja" type="official">宇宙皇子</title>
+</titles>
+<relatedanime>
+<anime id="5938" type="Sequel">Tenjou Hen: Utsu no Miko (1990)</anime>
+<anime id="2799" type="Alternative Setting">Tenjou Hen: Utsu no Miko</anime>
+</relatedanime>
+<creators>
+<name id="8125" type="Direction">Yoshida Kenji</name>
+<name id="4509" type="Chief Animation Direction">Kurokawa Fumio</name>
+<name id="2743" type="Character Design">Inomata Mutsumi</name>
+<name id="4537" type="Original Work">Fujikawa Keisuke</name>
+<name id="31273" type="Music">Kawano Kunihiro</name>
+</creators>
+<description>In the chaos of the Jinshin-no-Ran civil war of 762, a child with a small horn in his forehead was born. The child`s mother condemned him as an oni and cast him away. An elderly shuugenja woman claimed the child and named him Utsunomiko, or `Divine Child of the Heavens`, telling Miko that his horn smybolizes the union of heaven and earth. Miko matured in the wilderness learning the ways of Shugendou, and soon started venturing into villages out of curiosity. He found that the common people of the villages live in poverty and suffering, and began using his spiritual powers to help them. But his anger at the self-serving rulers and their petty power-struggles grew until he came into open conflict with the Imperial Court, setting Miko down a long path as a champion of the oppressed.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="8">4.82</permanent>
+<temporary count="8">4.50</temporary>
+</ratings>
+<picture>8825.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4623</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5921</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2469</identifier>
+<identifier>pzcpgk</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150719</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="88831" update="2011-10-20">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1989-03-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4724" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1965-01-03</startdate>
+<enddate>1965-01-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shin Takarajima</title>
+<title xml:lang="en" type="synonym">New Treasure Island</title>
+<title xml:lang="ja" type="official">新宝島</title>
+</titles>
+<relatedanime>
+<anime id="2038" type="Alternative Setting">Takarajima</anime>
+<anime id="2214" type="Alternative Setting">Doubutsu Takarajima</anime>
+</relatedanime>
+<url>http://tezukaosamu.net/jp/anime/52.html</url>
+<creators>
+<name id="2078" type="Music">Tomita Isao</name>
+<name id="6360" type="Original Work">Robert Louis Stevenson</name>
+</creators>
+<description>* Based on http://anidb.net/cr6360 [Robert Louis Stevenson]`s Treasure Island, but featuring the characters in the form of animals instead; for example, the pirate Silver is illustrated as a wolf, whereas the main character Jim is changed into a rabbit.
+Note: This was supposed to be the first episode of Mushi Pro Land, a unique series of 60-minute animated programmes; it was also Japan`s first 60-minute animated TV programme. However, the series never materialised and only this episode was actually ever aired.</description>
+<ratings>
+<permanent count="19">4.07</permanent>
+<temporary count="19">4.84</temporary>
+</ratings>
+<picture>11286.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1494</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>15823</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tezukaosamu.net/jp/anime/52.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>新宝島_(テレビアニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234401</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7262</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>11</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="5529" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-11-05">
+<name>black and white</name>
+<description>Some or all of this anime is in black and white, typical of older anime made before ~1960. Some modern anime may intentionally shift to black and white for certain scenes or episodes as an artistic effect.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="64073" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

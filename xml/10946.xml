@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10946" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>2013-06-15</startdate>
+<enddate>2015-04-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pac-World</title>
+<title xml:lang="ja" type="official">パックワールド</title>
+<title xml:lang="en" type="official">Pac-Man and the Ghostly Adventures</title>
+<title xml:lang="pl" type="official">Pac-Man i upiorne przygody</title>
+<title xml:lang="zh-Hans" type="official">吃豆人世界</title>
+</titles>
+<url>http://pacworld.channel.or.jp/</url>
+<creators>
+<name id="32346" type="Animation Work">OLM Digital</name>
+<name id="3512" type="Original Work">Bandai Namco Games</name>
+<name id="4642" type="Music">Takahashi Tetsuya</name>
+<name id="27469" type="Music">Horikou Naoyuki</name>
+<name id="23424" type="Music">Oonishi Shougo</name>
+<name id="22647" type="Music">Kitazato Reiji</name>
+<name id="41510" type="Direction">Sakakibara Motonori</name>
+<name id="41512" type="Series Composition">Sean Catherine Derek</name>
+<name id="41513" type="Animation Work">Sprite Animation Studios</name>
+<name id="41515" type="Music">Ookubo Masafumi</name>
+<name id="41516" type="Music">Morohashi Kuniyuki</name>
+</creators>
+<description>We follow the daily events of http://anidb.net/ch71631 [Pac] as he saves Pac-World. Together with his friends http://anidb.net/ch71633 [Cyli] and http://anidb.net/ch71632 [Spiral], Pac and his buds face the issues of being teenagers while also protecting Pac-World from a ghostly army led by the evil http://anidb.net/ch71634 [Betrayus]. Pac-Worlders do not want Betrayus and his ghostly minions returning from the Netherworld and wreaking havoc. So, President http://anidb.net/ch71636 [Spheros] teaches Pac and his pals the legend prophesizing a round yellow Pac-Worlder rescuing the planet. Pac, the only round yellow citizen, is the man for the job. Each adventure follows Pac and his friends as they try to return the ghosts to Netherworld, saving Pac-World.
+Note: Initially aired in North America on Disney XD channel. The Japanese run began on 05.04.2014 with some episodes reordered.</description>
+<ratings>
+<permanent count="11">3.96</permanent>
+<temporary count="11">3.63</temporary>
+</ratings>
+<picture>164717.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15998</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>28595</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://pacworld.channel.or.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Pac-Man_and_the_Ghostly_Adventures</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>パックワールド</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3384</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348823</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17121</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="71631" type="main character in" update="2014-11-24">
+<name>Pac</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164737.jpg</picture>
+<seiyuu id="10985" picture="39444.jpg">Sugiura Naoko</seiyuu>
+<seiyuu id="3830" picture="25450.jpg">Terasaki Yuka</seiyuu>
+</character>
+<character id="71632" type="main character in" update="2014-11-24">
+<name>Spiral</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164738.jpg</picture>
+<seiyuu id="2002" picture="21307.jpg">Katsu Anri</seiyuu>
+</character>
+<character id="71633" type="main character in" update="2014-11-24">
+<name>Cylindria</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164739.jpg</picture>
+<seiyuu id="31813" picture="223582.jpg">Inagawa Eri</seiyuu>
+</character>
+<character id="71634" type="secondary cast in" update="2014-11-24">
+<name>Betrayus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164740.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="71635" type="secondary cast in" update="2014-11-24">
+<name>Cumference Hakase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164741.jpg</picture>
+<seiyuu id="20532" picture="188517.jpg">Takubo Shuuhei</seiyuu>
+</character>
+<character id="71636" type="secondary cast in" update="2014-11-24">
+<name>Spheros Daitouryou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164742.jpg</picture>
+<seiyuu id="11054" picture="39865.jpg">Sakamoto Kunpei</seiyuu>
+</character>
+<character id="71637" type="secondary cast in" update="2014-11-24">
+<name>Blinky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164743.jpg</picture>
+<seiyuu id="28878" picture="188708.jpg">Fusegawa Kazuhiro</seiyuu>
+</character>
+<character id="71638" type="secondary cast in" update="2014-11-24">
+<name>Pinky</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164744.jpg</picture>
+<seiyuu id="27357" picture="75009.jpg">Yasuno Kiyono</seiyuu>
+</character>
+<character id="71639" type="secondary cast in" update="2014-11-24">
+<name>Inky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164745.jpg</picture>
+<seiyuu id="4005" picture="171558.jpg">Toudou Mai</seiyuu>
+</character>
+<character id="71640" type="secondary cast in" update="2014-11-24">
+<name>Clyde</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>164746.jpg</picture>
+<seiyuu id="11054" picture="39865.jpg">Sakamoto Kunpei</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="164392" update="2014-11-24">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2013-06-15</airdate>
+<title xml:lang="ja">ゴーストたちがやってきた!</title>
+<title xml:lang="en">The Adventure Begins (Part 1)</title>
+<title xml:lang="x-jat">Ghost-tachi ga Yatte Kita!</title>
+</episode>
+<episode id="164401" update="2014-11-24">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2013-09-28</airdate>
+<title xml:lang="ja">パックランティス - 失われたベリー</title>
+<title xml:lang="en">PacLantis</title>
+<title xml:lang="x-jat">PacLantis - Ushinawareta Berry</title>
+</episode>
+<episode id="164402" update="2014-11-24">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2013-09-21</airdate>
+<title xml:lang="ja">愛しのパックマン</title>
+<title xml:lang="en">Stand by Your Pac-Man</title>
+<title xml:lang="x-jat">Itoshi no Pac-Man</title>
+</episode>
+<episode id="164403" update="2014-11-24">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2013-09-14</airdate>
+<title xml:lang="ja">ゴーストロイドの大接近!</title>
+<title xml:lang="en">Planet Pac vs. the Ghosteroid</title>
+<title xml:lang="x-jat">Ghosteroid no Daisekkin!</title>
+</episode>
+<episode id="164404" update="2014-11-24">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2013-08-31</airdate>
+<title xml:lang="ja">インディアナ・パックとスライムの魔宮</title>
+<title xml:lang="en">Indiana Pac and the Temple of Slime</title>
+<title xml:lang="x-jat">Indiana Pac to Slime no Makyuu</title>
+</episode>
+<episode id="164405" update="2014-11-24">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2013-07-23</airdate>
+<title xml:lang="ja">不運のくすりと魔女の結婚式</title>
+<title xml:lang="en">Jinxed</title>
+<title xml:lang="x-jat">Fuun no Kusuri to Majo no Kekkonshiki</title>
+</episode>
+<episode id="164406" update="2014-11-24">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2013-07-22</airdate>
+<title xml:lang="ja">仮免許でGO!</title>
+<title xml:lang="en">Driver`s Pac</title>
+<title xml:lang="x-jat">Karimenkyo de Go!</title>
+</episode>
+<episode id="164407" update="2014-11-24">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2013-07-05</airdate>
+<title xml:lang="ja">パックポンで大フィーバー</title>
+<title xml:lang="en">Pac-Pong Fever</title>
+<title xml:lang="x-jat">Pac-Pong de Dai Fever</title>
+</episode>
+<episode id="164408" update="2014-11-24">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2013-07-03</airdate>
+<title xml:lang="ja">お熱いのはお好き?!</title>
+<title xml:lang="en">Betrayus Turns the Heat Up</title>
+<title xml:lang="x-jat">Oatsui no wa Osuki?!</title>
+</episode>
+<episode id="164409" update="2014-11-24">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2013-07-02</airdate>
+<title xml:lang="ja">パックの功より年の功</title>
+<title xml:lang="en">Seems Like Old Times</title>
+<title xml:lang="x-jat">Pac no Kou yori Toshinokou</title>
+</episode>
+<episode id="164410" update="2014-11-24">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2013-07-01</airdate>
+<title xml:lang="ja">この体は誰のもの?</title>
+<title xml:lang="en">Nobody Knows</title>
+<title xml:lang="x-jat">Kono Karada wa Dare no Mono?</title>
+</episode>
+<episode id="164411" update="2014-11-24">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2013-06-28</airdate>
+<title xml:lang="ja">誰かぼくを止めてくれ!</title>
+<title xml:lang="en">Mission ImPacable!</title>
+<title xml:lang="x-jat">Dareka Boku o Tometekure!</title>
+</episode>
+<episode id="164412" update="2014-11-24">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2013-06-27</airdate>
+<title xml:lang="ja">パワーアップ! スキーボ</title>
+<title xml:lang="en">Heebo-Skeebo</title>
+<title xml:lang="x-jat">Power Up! Skeebo</title>
+</episode>
+<episode id="164413" update="2014-11-24">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2013-06-26</airdate>
+<title xml:lang="ja">パック・トゥ・ザ・フューチャー</title>
+<title xml:lang="en">Pac to the Future</title>
+<title xml:lang="x-jat">Pac to the Future</title>
+</episode>
+<episode id="164414" update="2014-11-24">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2013-06-25</airdate>
+<title xml:lang="ja">にきびをぶっ飛ばせ!</title>
+<title xml:lang="en">Is Zit You or Is Zit Me?</title>
+<title xml:lang="x-jat">Nikibi o Buttobase!</title>
+</episode>
+<episode id="164415" update="2014-11-24">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2013-06-24</airdate>
+<title xml:lang="ja">取りつかれた大統領</title>
+<title xml:lang="en">President Possessed!</title>
+<title xml:lang="x-jat">Toritsukareta Daitouryou</title>
+</episode>
+<episode id="164416" update="2014-11-24">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2013-06-21</airdate>
+<title xml:lang="ja">食べ放題ばんざい!</title>
+<title xml:lang="en">All You Can Eat</title>
+<title xml:lang="x-jat">Tabehoudai Banzai!</title>
+</episode>
+<episode id="164417" update="2014-11-24">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2013-06-20</airdate>
+<title xml:lang="ja">ペットお断り. とくにモンスターは!</title>
+<title xml:lang="en">No Pets Allowed.... Especially Monsters! (Part II)</title>
+<title xml:lang="x-jat">Pet Okotowari. Toku ni Monster wa!</title>
+</episode>
+<episode id="164418" update="2014-11-24">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2013-06-19</airdate>
+<title xml:lang="ja">おしり博士のクローン大作戦</title>
+<title xml:lang="en">No Pets Allowed.... Especially Monsters! (Part I)</title>
+<title xml:lang="x-jat">Oshiri-hakase no Clone Daisakusen</title>
+</episode>
+<episode id="164419" update="2014-11-24">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2013-06-15</airdate>
+<title xml:lang="ja">生命の樹をとりもどせ!</title>
+<title xml:lang="en">The Adventure Begins (Part II)</title>
+<title xml:lang="x-jat">Seimei no Ki o Torimodose!</title>
+</episode>
+<episode id="164420" update="2014-11-24">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2014-06-12</airdate>
+<title xml:lang="ja">異次元ワープの大競争</title>
+<title xml:lang="en">Cosmic Contest</title>
+<title xml:lang="x-jat">Ijigen Warp no Daikyousou</title>
+</episode>
+<episode id="164421" update="2014-11-24">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2014-06-11</airdate>
+<title xml:lang="ja">ねらわれた原始人</title>
+<title xml:lang="en">Cave Pac-Man</title>
+<title xml:lang="x-jat">Nerawareta Genshijin</title>
+</episode>
+<episode id="164422" update="2014-11-24">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2014-06-10</airdate>
+<title xml:lang="ja">お願い事にご用心</title>
+<title xml:lang="en">Meanie Genie</title>
+<title xml:lang="x-jat">Onegaigoto ni Goyoujin</title>
+</episode>
+<episode id="164423" update="2014-11-24">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2014-06-09</airdate>
+<title xml:lang="ja">絶叫マシーン!パクトパス</title>
+<title xml:lang="en">Ride the Wild Pac-topus</title>
+<title xml:lang="x-jat">Zekkyou Machine! Pac-topus</title>
+</episode>
+<episode id="164424" update="2014-11-24">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2013-11-09</airdate>
+<title xml:lang="ja">パックワールド大ピンチ!</title>
+<title xml:lang="en">Invasion of the Pointy Heads</title>
+<title xml:lang="x-jat">Pac-World Dai Pinch!</title>
+</episode>
+<episode id="164425" update="2014-11-24">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2013-11-02</airdate>
+<title xml:lang="ja">最強スパイのべとべと大作戦</title>
+<title xml:lang="en">The Spy Who Slimed Me</title>
+<title xml:lang="x-jat">Saikyou Spy no Betobeto Daisakusen</title>
+</episode>
+<episode id="164426" update="2014-11-24">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2013-10-26</airdate>
+<title xml:lang="ja">とんがりエイリアンの侵略</title>
+<title xml:lang="en">Robo Woes</title>
+<title xml:lang="x-jat">Tongari Alien no Shinryaku</title>
+</episode>
+<episode id="164427" update="2014-11-24">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2013-10-19</airdate>
+<title xml:lang="ja">ワカワカマシン猛レース</title>
+<title xml:lang="en">The Great Chase!</title>
+<title xml:lang="x-jat">Wakawaka Machine Mou Race</title>
+</episode>
+<episode id="164428" update="2014-11-24">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2013-10-12</airdate>
+<title xml:lang="ja">ハロウィンどたばた大騒動!</title>
+<title xml:lang="en">A Berry Scary Night</title>
+<title xml:lang="x-jat">Halloween Dotobata Oosoudou!</title>
+</episode>
+<episode id="164429" update="2014-11-24">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2013-10-05</airdate>
+<title xml:lang="ja">パカザウルスの襲撃</title>
+<title xml:lang="en">Jurassic Pac</title>
+<title xml:lang="x-jat">Pacosaurus no Shuugeki</title>
+</episode>
+<episode id="164430" update="2015-02-05">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2014-12-02</airdate>
+<title xml:lang="ja">素敵なメリー・ベリー・デー</title>
+<title xml:lang="en">Happy Holidays and a Merry Berry Day</title>
+<title xml:lang="x-jat">Suteki na Merry Berry Day</title>
+</episode>
+<episode id="164431" update="2014-11-24">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2014-10-15</airdate>
+<title xml:lang="ja">カチコチ鎧の騎士団</title>
+<title xml:lang="en">A Hard Dazed Knight</title>
+<title xml:lang="x-jat">Kachi Kochi Yoroi no Kishidan</title>
+</episode>
+<episode id="164432" update="2014-11-24">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2014-10-14</airdate>
+<title xml:lang="ja">ゴースト海賊船</title>
+<title xml:lang="en">Cap`n Banshee and His Interstellar Buccaneers</title>
+<title xml:lang="x-jat">Ghost Kaizokusen</title>
+</episode>
+<episode id="164433" update="2015-02-05">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2014-10-08</airdate>
+<title xml:lang="ja">名探偵 vs オオカミフット</title>
+<title xml:lang="en">The Shadow of the Were-Pac</title>
+<title xml:lang="x-jat">Meitantei vs. Ookamifoot</title>
+</episode>
+<episode id="164434" update="2014-11-24">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2014-06-30</airdate>
+<title xml:lang="ja">燃えよパック・フー</title>
+<title xml:lang="en">The Pac Be With You</title>
+<title xml:lang="x-jat">Moeyo Pac Fu</title>
+</episode>
+<episode id="164435" update="2014-11-24">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2014-06-24</airdate>
+<title xml:lang="ja">誰でも簡単ゴースト退治?!</title>
+<title xml:lang="en">Spooka-Bazooka!</title>
+<title xml:lang="x-jat">Daredemo Kantan Ghost Taiji?!</title>
+</episode>
+<episode id="164436" update="2014-11-24">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2014-06-23</airdate>
+<title xml:lang="ja">浦島パックとゾンビの街</title>
+<title xml:lang="en">Rip Van Packle</title>
+<title xml:lang="x-jat">Urashima Pac to Zombie no Machi</title>
+</episode>
+<episode id="164437" update="2014-11-24">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2014-06-17</airdate>
+<title xml:lang="ja">君こそスターだ!</title>
+<title xml:lang="en">Pac-Mania</title>
+<title xml:lang="x-jat">Kimi koso Star Da!</title>
+</episode>
+<episode id="164438" update="2014-11-24">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2014-06-16</airdate>
+<title xml:lang="ja">天才!パック教授</title>
+<title xml:lang="en">That Smarts!</title>
+<title xml:lang="x-jat">Tensai! Pac-kyouju</title>
+</episode>
+<episode id="165772" update="2015-02-05">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2015-01-31</airdate>
+<title xml:lang="ja">ダブル選挙で大忙し!</title>
+<title xml:lang="en">Peace Without Slime</title>
+<title xml:lang="x-jat">Double Senkyo de Ooisogashi!</title>
+</episode>
+<episode id="165773" update="2015-02-05">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2015-02-07</airdate>
+<title xml:lang="ja">影の支配者</title>
+<title xml:lang="en">The Ghost Behind the Throne</title>
+<title xml:lang="x-jat">Kage no Shihaisha</title>
+</episode>
+<episode id="166446" update="2015-02-10">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2015-02-14</airdate>
+<title xml:lang="ja">怪しい転校生</title>
+<title xml:lang="en">Nerd is The World</title>
+<title xml:lang="x-jat">Ayashii Tenkousei</title>
+</episode>
+<episode id="166467" update="2015-02-14">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2015-02-21</airdate>
+<title xml:lang="ja">ロボットの恋</title>
+<title xml:lang="en">Bride of Grinder</title>
+<title xml:lang="x-jat">Robot no Koi</title>
+</episode>
+<episode id="166805" update="2015-03-01">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2015-03-07</airdate>
+<title xml:lang="ja">恐怖の巨人伝説</title>
+<title xml:lang="en">The Legend of Creepy Hollow</title>
+<title xml:lang="x-jat">Kyoufu no Kyojin Densetsu</title>
+</episode>
+<episode id="166806" update="2015-03-01">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2015-02-28</airdate>
+<title xml:lang="ja">イースター・エッグは復讐の味?</title>
+<title xml:lang="en">Easter Egg Island!</title>
+<title xml:lang="x-jat">Easter Egg wa Fukushuu no Aji?</title>
+</episode>
+<episode id="166885" update="2015-03-07">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2015-03-14</airdate>
+<title xml:lang="ja">パックとおかしな魔法の国</title>
+<title xml:lang="en">The Wizard of Odd Through the Looking Glass</title>
+<title xml:lang="x-jat">Pac to Okashina Mahou no Kuni</title>
+</episode>
+<episode id="166929" update="2015-03-13">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2015-03-21</airdate>
+<title xml:lang="ja">インディアナ・パックと魔法の入れ歯</title>
+<title xml:lang="en">Indiana Pac and the Dentures of Doom</title>
+<title xml:lang="x-jat">Indiana Pac to Mahou no Ireba</title>
+</episode>
+<episode id="167194" update="2015-03-21">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2015-03-28</airdate>
+<title xml:lang="ja">デジタル・パック</title>
+<title xml:lang="en">Honey, I Digitized the Pac-Man</title>
+<title xml:lang="x-jat">Digital Pac</title>
+</episode>
+<episode id="167522" update="2015-04-03">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2015-04-04</airdate>
+<title xml:lang="ja">幽霊やしきの脳みそ博士</title>
+<title xml:lang="en">Pac`s Very Scary Halloween (Part I)</title>
+<title xml:lang="x-jat">Yuurei Yashiki no Noumiso Hakase</title>
+</episode>
+<episode id="167523" update="2015-04-03">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2015-04-11</airdate>
+<title xml:lang="ja">ぼくの体を返せ!</title>
+<title xml:lang="en">Pac`s Very Scary Halloween (Part II)</title>
+<title xml:lang="x-jat">Boku no Karada o Kaese!</title>
+</episode>
+<episode id="167842" update="2015-04-11">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2015-04-18</airdate>
+<title xml:lang="ja">サンタが街にやってくる</title>
+<title xml:lang="en">Santa Pac</title>
+<title xml:lang="x-jat">Santa ga Machi ni Yattekuru</title>
+</episode>
+<episode id="167964" update="2015-04-18">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2015-04-25</airdate>
+<title xml:lang="ja">恋するパック</title>
+<title xml:lang="en">New Girl in Town</title>
+<title xml:lang="x-jat">Koi Suru Pac</title>
+</episode>
+</episodes>
+</anime>

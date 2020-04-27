@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14458" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1997</startdate>
+<enddate>1997</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Experiment</title>
+<title xml:lang="ja" type="official">experiment</title>
+</titles>
+<description>A short film by Tsuji Naoyuki that blends stop motion with 2D drawn animation.</description>
+<ratings>
+<permanent count="4">1.04</permanent>
+<temporary count="4">2.50</temporary>
+</ratings>
+<picture>225888.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33114</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="224815" update="2019-11-29">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

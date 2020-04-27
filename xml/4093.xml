@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4093" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2005-06-22</startdate>
+<enddate>2005-06-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Spectral Force Chronicle Divergence</title>
+<title xml:lang="ja" type="official">スペクトラルフォース クロニクル ディバージェンス</title>
+</titles>
+<relatedanime>
+<anime id="3975" type="Other">Spectral Force</anime>
+</relatedanime>
+<url>http://www.ideaf.co.jp/force/ova.html</url>
+<creators>
+<name id="1164" type="Financial Production">Idea Factory</name>
+<name id="6053" type="Direction">Satou Yoshiteru</name>
+<name id="18234" type="Character Design">Nakamura Tatsunori</name>
+</creators>
+<description>* Based on JRPG series Spectral Force.</description>
+<ratings>
+<permanent count="32">2.15</permanent>
+<temporary count="32">4.25</temporary>
+</ratings>
+<picture>10102.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23196</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3695</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ideaf.co.jp/force/ova.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>322355</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>9500</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="42751" update="2005-10-30">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2005-06-22</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

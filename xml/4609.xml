@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4609" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2006-09-27</startdate>
+<enddate>2006-09-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Highway Jenny</title>
+<title xml:lang="bg" type="synonym">Джени по магистралата</title>
+<title xml:lang="ja" type="official">Highway Jenny</title>
+</titles>
+<recommendations total="2">
+<recommendation type="For Fans" uid="576019">Not MY highway, but strikes me as personal and sincere, which is of course missing from most media, including anime, but is the essence of all art.</recommendation>
+<recommendation type="Recommended" uid="139195">Amazing music and experimental animation.</recommendation>
+</recommendations>
+<url>http://www.ganime.jp/highway/index.html</url>
+<creators>
+<name id="1009" type="Animation Production">Toei Douga</name>
+<name id="12585" type="Music">Asai Ken`ichi</name>
+</creators>
+<description>Various places in the world, trouble is awakening the terror inside every person`s view of life, the distant future of overhead airspace is shown in Highway Jenny.
+It compares existance with one`s lifetime and afterlife, it contemplates the purity and death of future generations, and to the person who looks at the importance of the choices in their own life, it will be appealing.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="120">3.59</permanent>
+<temporary count="120">5.29</temporary>
+</ratings>
+<picture>11097.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7954</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6181</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3776</identifier>
+<identifier>gbwavr</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/sp/ganime/highway/index.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>326651</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="3645" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-01-08">
+<name>ganime</name>
+<description>Ganime label is for the new style of artistic visual content characterized by pictures, words and music to express the artists’ unique perspectives.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="53666" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2006-09-27</airdate>
+<rating votes="1">1.00</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

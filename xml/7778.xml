@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7778" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1993-07-21</startdate>
+<enddate>1993-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hello Kitty no Shirayuki Hime</title>
+<title xml:lang="en" type="synonym">Hello Kitty and Friends: Snow White</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 1</title>
+<title xml:lang="ja" type="official">ハローキティのしらゆきひめ</title>
+<title xml:lang="en" type="official">Hello Kitty in Snow White</title>
+</titles>
+<creators>
+<name id="23124" type="Direction">Ishikawa Yasuo</name>
+<name id="10149" type="Original Work">Grimm Kyoudai</name>
+<name id="13820" type="Music">Nanba Tadashi</name>
+</creators>
+<ratings>
+<permanent count="11">4.74</permanent>
+<temporary count="11">4.90</temporary>
+</ratings>
+<picture>52337.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17951</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>161197</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3055" parentid="3876" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>fairy tale</name>
+<description>This anime is either based on or contains parts of fairy tales. Usually those parts are highly modified or twisted when compared with the original source.</description>
+</tag>
+<tag id="3597" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-02-26">
+<name>mythology</name>
+<description>The anime gets inspirations from many forms of mythologies (either Greek, Egyptian, Nord, etc.) to form its story and setting.</description>
+</tag>
+<tag id="3876" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>folklore</name>
+<description>Folklore, or simply Lore, are the traditions of a culture, subculture, or group, in the form of legends, music, proverbs, jokes, popular beliefs, fairy tales, stories, tall tales and customs. In usage, there is a continuum between folklore and mythology.
+Folklore is generally divided into four areas of study: physical artifacts, transmissible entities and stories, culture and technologies, and behaviors and rituals.
+[From Wikipedia]</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+<tag id="6612" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>Snow White</name>
+<description>Snow White is a 19th-century German fairy tale which The Brothers Grimm published in 1812 in the first edition of their collection Grimms` Fairy Tales. It features such elements as the magic mirror, the poisoned apple, the glass coffin, and the characters of the evil queen and the Seven Dwarfs.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="36775" type="main character in" update="2011-09-17">
+<name>Shirayukihime</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56017.jpg</picture>
+<seiyuu id="13" picture="16583.jpg">Hayashibara Megumi</seiyuu>
+</character>
+<character id="36776" type="secondary cast in" update="2011-09-17">
+<name>Ouji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56028.jpg</picture>
+<seiyuu id="6503" picture="128359.jpg">Takahashi Gou</seiyuu>
+</character>
+<character id="36777" type="secondary cast in" update="2011-09-17">
+<name>Joou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56051.jpg</picture>
+<seiyuu id="1509" picture="19311.jpg">Fukami Rika</seiyuu>
+</character>
+<character id="36784" type="appears in" update="2011-09-17">
+<name>Kagami</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56121.jpg</picture>
+<seiyuu id="67" picture="25195.jpg">Ishii Kouji</seiyuu>
+</character>
+<character id="36785" type="appears in" update="2011-09-17">
+<rating votes="1">3.84</rating>
+<name>Karyuudo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56123.jpg</picture>
+<seiyuu id="2021" picture="187129.jpg">Tsuji Shinpachi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="120579" update="2011-08-29">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>1993-07-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

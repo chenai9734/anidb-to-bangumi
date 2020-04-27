@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14688" restricted="false">
+<type>Web</type>
+<episodecount>52</episodecount>
+<startdate>2019-04-05</startdate>
+<enddate>2020-03-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Beyblade Burst Gachi</title>
+<title xml:lang="x-jat" type="synonym">Beyblade Burst GT</title>
+<title xml:lang="ja" type="official">ベイブレードバースト ガチ</title>
+</titles>
+<relatedanime>
+<anime id="15438" type="Sequel">Beyblade Burst Super King</anime>
+<anime id="13791" type="Prequel">Beyblade Burst Chouzetsu</anime>
+</relatedanime>
+<url>https://beyblade.jp/teaser_gt/</url>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="11196" type="Character Design">Oohashi Toshiaki</name>
+<name id="5273" type="Series Composition">Sonoda Hideki</name>
+<name id="3987" type="Chief Direction">Akiyama Katsuhito</name>
+<name id="4938" type="Chief Animation Direction">Nagamori Yoshihiro</name>
+<name id="13318" type="Chief Animation Direction">Makiuchi Momoko</name>
+<name id="32344" type="Chief Animation Direction">Fukuchi Junpei</name>
+<name id="11196" type="Chief Animation Direction">Oohashi Toshiaki</name>
+</creators>
+<ratings>
+<permanent count="1">5.44</permanent>
+<temporary count="1">6.00</temporary>
+</ratings>
+<picture>231317.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21818</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39282</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://beyblade.jp/teaser_gt/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ベイブレードバースト</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367613</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21883</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>playlist?list=PLhWipIfRhqz3IdDV9vo_0TE0mk5qkiPJw</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="81501" type="main character in" update="2016-04-08">
+<name>Aoi Valt</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185401.jpg</picture>
+<seiyuu id="11" picture="32253.jpg">Inoue Marina</seiyuu>
+</character>
+<character id="101491" type="main character in" update="2019-03-20">
+<name>Akane Delta</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4755" picture="183070.jpg">Ono Kenshou</seiyuu>
+</character>
+<character id="101492" type="main character in" update="2019-03-20">
+<name>Kusaba Amane</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="545" picture="188506.jpg">Abe Atsushi</seiyuu>
+</character>
+<character id="101493" type="main character in" update="2019-03-20">
+<name>Kouryuu Drum</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="27977" picture="76416.jpg">Han Megumi</seiyuu>
+</character>
+<character id="101494" type="main character in" update="2019-03-20">
+<name>Kanemichi Fumiya</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="214817" update="2019-04-13">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2019-04-05</airdate>
+<title xml:lang="ja">ガチだぜエースドラゴン!</title>
+<title xml:lang="en">Time to Get Serious, Ace Dragon!</title>
+<title xml:lang="x-jat">Gachi Daze Ace Dragon!</title>
+</episode>
+<episode id="215015" update="2019-04-13">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2019-04-12</airdate>
+<title xml:lang="ja">イカすぜブシンアシュラ!</title>
+<title xml:lang="en">Looking Awesome, Bushin Asura!</title>
+<title xml:lang="x-jat">Ikasuze Bushin Ashura!</title>
+</episode>
+<episode id="215819" update="2019-04-21">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2019-04-19</airdate>
+<title xml:lang="ja">魔ジカ!? ウィザードファブニル!!</title>
+<title xml:lang="en">Seeriously?! Wizard Fafnir!</title>
+<title xml:lang="x-jat">Maji ka!? Wizard Fafnir!!</title>
+</episode>
+<episode id="216256" update="2019-04-28">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2019-04-26</airdate>
+<title xml:lang="ja">炎のグランドラゴン!</title>
+<title xml:lang="en">The Fiery Grand Dragon!</title>
+<title xml:lang="x-jat">Honoo no Grand Dragon!</title>
+</episode>
+<episode id="216460" update="2019-05-05">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2019-05-03</airdate>
+<title xml:lang="ja">ドラゴンVSファブニル!</title>
+<title xml:lang="en">Dragon vs Fafnir!</title>
+<title xml:lang="x-jat">Dragon vs Fafnir!</title>
+</episode>
+<episode id="216676" update="2019-05-11">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2019-05-10</airdate>
+<title xml:lang="ja">爆速グランビート!</title>
+<title xml:lang="en">Explosive Speed, Grand Beat!</title>
+<title xml:lang="x-jat">Bakusoku Grand Beat!</title>
+</episode>
+<episode id="217132" update="2019-05-17">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2019-05-17</airdate>
+<title xml:lang="ja">バルトに挑戦だーッ!</title>
+<title xml:lang="en">Valt, I Challenge You!</title>
+<title xml:lang="x-jat">Valt ni Chousen Daa!</title>
+</episode>
+<episode id="217697" update="2019-05-27">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2019-05-24</airdate>
+<title xml:lang="ja">燃えろッベイカーニバル!</title>
+<title xml:lang="en">The Exciting Bey Carnival</title>
+<title xml:lang="x-jat">Moero Bey Carnival!</title>
+</episode>
+<episode id="217829" update="2019-06-01">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2019-05-31</airdate>
+<title xml:lang="ja">オールイン♠ ジャッジメントジョーカ!</title>
+<title xml:lang="en">All-in! Judgement Joker!</title>
+<title xml:lang="x-jat">All In: Judgement Joker!</title>
+</episode>
+<episode id="217900" update="2019-06-08">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2019-06-07</airdate>
+<title xml:lang="ja">ガチバトルだぜベスト4!</title>
+<title xml:lang="en">It`s a Gatinko Battle in the Top Four!</title>
+<title xml:lang="x-jat">Gachi Battle Daze Best 4!</title>
+</episode>
+<episode id="218099" update="2019-06-15">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2019-06-14</airdate>
+<title xml:lang="ja">ガチVSトリック!</title>
+<title xml:lang="en">Serious vs Tricks!</title>
+<title xml:lang="x-jat">Gachi vs Trick!</title>
+</episode>
+<episode id="218176" update="2019-06-21">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2019-06-21</airdate>
+<title xml:lang="ja">重鋼ツヴァイロンギヌス!</title>
+<title xml:lang="en">Heavy Steel! Zwei Longinus!</title>
+<title xml:lang="x-jat">Juukou Zwei Longinus</title>
+</episode>
+<episode id="218346" update="2019-06-29">
+<epno type="1">13</epno>
+<length>15</length>
+<airdate>2019-06-28</airdate>
+<title xml:lang="ja">決めるぜっガチシュート!</title>
+<title xml:lang="en">I`ve Got This! Go, Shoot!</title>
+<title xml:lang="x-jat">Kimeruze Gachi Shoot!</title>
+</episode>
+<episode id="218524" update="2019-07-06">
+<epno type="1">14</epno>
+<length>15</length>
+<airdate>2019-07-05</airdate>
+<title xml:lang="ja">ガチンコ炸裂ゴールドターボ!</title>
+<title xml:lang="en">Serious Burst! Gold Turbo!</title>
+<title xml:lang="x-jat">Gachinko Sakuretsu Gold Turbo!</title>
+</episode>
+<episode id="218656" update="2019-07-12">
+<epno type="1">15</epno>
+<length>15</length>
+<airdate>2019-07-12</airdate>
+<title xml:lang="ja">ドラムVSデルタ!!</title>
+<title xml:lang="en">Drum vs Delta!!</title>
+<title xml:lang="x-jat">Drum vs Delta!!</title>
+</episode>
+<episode id="218860" update="2019-07-20">
+<epno type="1">16</epno>
+<length>15</length>
+<airdate>2019-07-19</airdate>
+<title xml:lang="ja">悪魔のベイ, ディアボロス!</title>
+<title xml:lang="en">Bey of the Devil, Diabolos!</title>
+<title xml:lang="x-jat">Akuma no Bei, Diabolos!</title>
+</episode>
+<episode id="219032" update="2019-07-27">
+<epno type="1">17</epno>
+<length>15</length>
+<airdate>2019-07-26</airdate>
+<title xml:lang="ja">飛翔, ヘブンペガサス!</title>
+<title xml:lang="en">Fly, Heaven Pegasus!</title>
+<title xml:lang="x-jat">Hishou, Heaven Pegasus!</title>
+</episode>
+<episode id="219160" update="2019-08-03">
+<epno type="1">18</epno>
+<length>15</length>
+<airdate>2019-08-02</airdate>
+<title xml:lang="ja">最凶アート, ドレッドバハムート!</title>
+<title xml:lang="en">The Most Sinister Art, Dread Bahamut!</title>
+<title xml:lang="x-jat">Saikyou Art, Dread Bahamut!</title>
+</episode>
+<episode id="219219" update="2019-08-09">
+<epno type="1">19</epno>
+<length>15</length>
+<airdate>2019-08-09</airdate>
+<title xml:lang="ja">閃光, シャイニングクロス!</title>
+<title xml:lang="en">Flash, Shining Cross!</title>
+<title xml:lang="x-jat">Senkou, Shining Cross!</title>
+</episode>
+<episode id="219364" update="2019-08-16">
+<epno type="1">20</epno>
+<length>15</length>
+<airdate>2019-08-16</airdate>
+<title xml:lang="ja">天然VS神の子!</title>
+<title xml:lang="en">Airhead vs God`s Child!</title>
+<title xml:lang="x-jat">Tennen vs Kami no Ko!</title>
+</episode>
+<episode id="219597" update="2019-08-23">
+<epno type="1">21</epno>
+<length>15</length>
+<airdate>2019-08-23</airdate>
+<title xml:lang="ja">天空の戦い!</title>
+<title xml:lang="en">Battle in the Sky!</title>
+<title xml:lang="x-jat">Tenkuu no Tatakai!</title>
+</episode>
+<episode id="219997" update="2019-08-31">
+<epno type="1">22</epno>
+<length>15</length>
+<airdate>2019-08-30</airdate>
+<title xml:lang="ja">出ろッ6! バトルジャーニー!!</title>
+<title xml:lang="en">Make It Six! Battle Journey!</title>
+<title xml:lang="x-jat">Dero 6! Battle Journey!!</title>
+</episode>
+<episode id="220972" update="2019-09-07">
+<epno type="1">23</epno>
+<length>15</length>
+<airdate>2019-09-06</airdate>
+<title xml:lang="ja">回せ! 進め! 勝ち残れ!</title>
+<title xml:lang="en">Spin! Battle! Win!</title>
+<title xml:lang="x-jat">Mawase! Susume! Kachinokore!</title>
+</episode>
+<episode id="221336" update="2019-09-13">
+<epno type="1">24</epno>
+<length>15</length>
+<airdate>2019-09-13</airdate>
+<title xml:lang="ja">激突GT3!</title>
+<title xml:lang="en">Clash of the GT3!</title>
+<title xml:lang="x-jat">Gekitotsu GT3!</title>
+</episode>
+<episode id="221437" update="2019-09-20">
+<epno type="1">25</epno>
+<length>15</length>
+<airdate>2019-09-20</airdate>
+<title xml:lang="ja">アイガに挑戦だーッ!</title>
+<title xml:lang="en">A Challenge to Aiga!</title>
+<title xml:lang="x-jat">Aiga ni Chousen Daa!</title>
+</episode>
+<episode id="221710" update="2019-09-27">
+<epno type="1">26</epno>
+<length>15</length>
+<airdate>2019-09-27</airdate>
+<title xml:lang="ja">ガチ! ドラムVSアイガ!!</title>
+<title xml:lang="en">It`s Serious! Drum vs Aiga!!</title>
+<title xml:lang="x-jat">Gachi! Drum vs Aiga!!</title>
+</episode>
+<episode id="221991" update="2019-10-04">
+<epno type="1">27</epno>
+<length>15</length>
+<airdate>2019-10-04</airdate>
+<title xml:lang="ja">煌け, オレのゴールドターボ!</title>
+<title xml:lang="en">Shine, My Gold Turbo!</title>
+<title xml:lang="x-jat">Kirameke, Ore no Gold Turbo!</title>
+</episode>
+<episode id="222183" update="2019-10-11">
+<epno type="1">28</epno>
+<length>15</length>
+<airdate>2019-10-11</airdate>
+<title xml:lang="ja">超ゼツ! アイガVSデルタ!!</title>
+<title xml:lang="en">Super Z! Aiga vs Delta!!</title>
+<title xml:lang="x-jat">Chouzetsu! Aiga vs Delta!!</title>
+</episode>
+<episode id="222662" update="2019-10-18">
+<epno type="1">29</epno>
+<length>15</length>
+<airdate>2019-10-18</airdate>
+<title xml:lang="ja">襲来! HELLの王・アーサー!!</title>
+<title xml:lang="en">Assault! Arthur, the King of Hell!!</title>
+<title xml:lang="x-jat">Shuurai! Hell no Ou Arthur!!</title>
+</episode>
+<episode id="223558" update="2019-10-25">
+<epno type="1">30</epno>
+<length>15</length>
+<airdate>2019-10-25</airdate>
+<title xml:lang="ja">終焉のベイ, アポカリプス!</title>
+<title xml:lang="en">The Bey of Demise, Apocalypse!</title>
+<title xml:lang="x-jat">Shuuen no Bey, Apocalypse!</title>
+</episode>
+<episode id="223822" update="2019-11-02">
+<epno type="1">31</epno>
+<length>15</length>
+<airdate>2019-11-01</airdate>
+<title xml:lang="ja">ガチ誕! インペリアルドラゴン!!</title>
+<title xml:lang="en">Serious Birth! Imperial Dragon!!</title>
+<title xml:lang="x-jat">Gachi Tan! Imperial Dragon!!</title>
+</episode>
+<episode id="224042" update="2019-11-09">
+<epno type="1">32</epno>
+<length>15</length>
+<airdate>2019-11-08</airdate>
+<title xml:lang="ja">摩天楼[ヘルタワー]の戦い!</title>
+<title xml:lang="en">The Battle at Hell Tower!</title>
+<title xml:lang="x-jat">Hell Tower no Tatakai!</title>
+</episode>
+<episode id="224493" update="2019-11-19">
+<epno type="1">33</epno>
+<length>15</length>
+<airdate>2019-11-15</airdate>
+<title xml:lang="ja">ジェネシス発動!!</title>
+<title xml:lang="en">Genesis Activates!!</title>
+<title xml:lang="x-jat">Genesis Hatsudou!!</title>
+</episode>
+<episode id="224546" update="2019-11-23">
+<epno type="1">34</epno>
+<length>15</length>
+<airdate>2019-11-22</airdate>
+<title xml:lang="ja">逆襲のディアボロス!!</title>
+<title xml:lang="en">Diabolos` Counterattack!!</title>
+<title xml:lang="x-jat">Gyakushuu no Diabolos!!</title>
+</episode>
+<episode id="224818" update="2019-11-30">
+<epno type="1">35</epno>
+<length>15</length>
+<airdate>2019-11-29</airdate>
+<title xml:lang="ja">ドラゴンVSアポカリプス!</title>
+<title xml:lang="en">Dragon vs Apocalypse!</title>
+<title xml:lang="x-jat">Dragon vs Apocalypse!</title>
+</episode>
+<episode id="225071" update="2019-12-06">
+<epno type="1">36</epno>
+<length>15</length>
+<airdate>2019-12-06</airdate>
+<title xml:lang="ja">破れるか!? 無限ロックシステム!</title>
+<title xml:lang="en">Can It Be Broken!? The Infinite Lock System!!</title>
+<title xml:lang="x-jat">Yabureruka!? Mugen Lock System!</title>
+</episode>
+<episode id="225264" update="2019-12-14">
+<epno type="1">37</epno>
+<length>15</length>
+<airdate>2019-12-13</airdate>
+<title xml:lang="ja">最高[ドラゴン]VS完全[ジェネシス]!</title>
+<title xml:lang="en">Dragon vs Genesis!</title>
+<title xml:lang="x-jat">Dragon vs Genesis!</title>
+</episode>
+<episode id="225539" update="2019-12-25">
+<epno type="1">38</epno>
+<length>15</length>
+<airdate>2019-12-20</airdate>
+<title xml:lang="ja">極光! スペリオルターボ!</title>
+<title xml:lang="en">The Aurora: Superior Turbo!!</title>
+<title xml:lang="x-jat">Kyokkou! Superior Turbo!!</title>
+</episode>
+<episode id="225600" update="2019-12-27">
+<epno type="1">39</epno>
+<length>15</length>
+<airdate>2019-12-27</airdate>
+<title xml:lang="ja">蘇れッディアボロス!!</title>
+<title xml:lang="en">Revive, Diabolos!!</title>
+<title xml:lang="x-jat">Yomigaere! Diabolos!!</title>
+</episode>
+<episode id="225835" update="2020-01-10">
+<epno type="1">40</epno>
+<length>15</length>
+<airdate>2020-01-03</airdate>
+<title xml:lang="ja">輝けッマスタースマッシュ!!</title>
+<title xml:lang="en">Shine, Master Smash!!</title>
+<title xml:lang="x-jat">Kagayake! Master Smash!!</title>
+</episode>
+<episode id="225968" update="2020-01-10">
+<epno type="1">41</epno>
+<length>15</length>
+<airdate>2020-01-10</airdate>
+<title xml:lang="ja">創世! ビッグバンジェネシス!!</title>
+<title xml:lang="en">Creation of the World! Big Bang Genesis!!</title>
+<title xml:lang="x-jat">Sousei! Big Bang Genesis!!</title>
+</episode>
+<episode id="226145" update="2020-01-20">
+<epno type="1">42</epno>
+<length>15</length>
+<airdate>2020-01-17</airdate>
+<title xml:lang="ja">超速! 超転! 超撃!</title>
+<title xml:lang="en">Super Speed! Super Spinning! Super Attack!</title>
+<title xml:lang="x-jat">Chousoku! Chouten! Chougeki!</title>
+</episode>
+<episode id="226337" update="2020-01-25">
+<epno type="1">43</epno>
+<length>15</length>
+<airdate>2020-01-24</airdate>
+<title xml:lang="ja">光れッ武神[アシュラ]</title>
+<title xml:lang="en">Shine, Ashura!</title>
+<title xml:lang="x-jat">Hikare! Ashura</title>
+</episode>
+<episode id="226606" update="2020-02-02">
+<epno type="1">44</epno>
+<length>15</length>
+<airdate>2020-01-31</airdate>
+<title xml:lang="ja">ガチ対決! wbba.[ダブリュービービーエー] VS HELL!!</title>
+<title xml:lang="en">A Serious Showdown! WBBA. vs Hell!!</title>
+<title xml:lang="x-jat">Gachi Taiketsu! WBBA. vs Hell!!</title>
+</episode>
+<episode id="226768" update="2020-02-07">
+<epno type="1">45</epno>
+<length>15</length>
+<airdate>2020-02-07</airdate>
+<title xml:lang="ja">ドラゴン究極覚醒!!</title>
+<title xml:lang="en">Dragon`s Ultimate Awakening!!</title>
+<title xml:lang="x-jat">Dragon Kyuukyoku Kakusei!!</title>
+</episode>
+<episode id="226885" update="2020-02-14">
+<epno type="1">46</epno>
+<length>15</length>
+<airdate>2020-02-14</airdate>
+<title xml:lang="ja">漆黒のドレッドジャイロ!</title>
+<title xml:lang="en">The Jet Black Dread Gyro!</title>
+<title xml:lang="x-jat">Shikkoku no Dread Gyro!</title>
+</episode>
+<episode id="227007" update="2020-02-21">
+<epno type="1">47</epno>
+<length>15</length>
+<airdate>2020-02-21</airdate>
+<title xml:lang="ja">ガチ激! タッグバトル!!</title>
+<title xml:lang="en">A Seriously Intense Tag Battle!!</title>
+<title xml:lang="x-jat">Gachi Geki! Tag Battle!!</title>
+</episode>
+<episode id="227151" update="2020-02-28">
+<epno type="1">48</epno>
+<length>15</length>
+<airdate>2020-02-28</airdate>
+<title xml:lang="ja">最強の方程式!!</title>
+<title xml:lang="en">The Strongest Formula!!</title>
+<title xml:lang="x-jat">Saikyou no Houteishiki!!</title>
+</episode>
+<episode id="227340" update="2020-03-08">
+<epno type="1">49</epno>
+<length>15</length>
+<airdate>2020-03-06</airdate>
+<title xml:lang="ja">最ッ高のタッグバトル!!</title>
+<title xml:lang="en">The Ultimate Tag Battle!!</title>
+<title xml:lang="x-jat">Saikkou no Tag Battle!!</title>
+</episode>
+<episode id="227393" update="2020-03-13">
+<epno type="1">50</epno>
+<length>15</length>
+<airdate>2020-03-13</airdate>
+<title xml:lang="ja">これがビクトリーズだ!!</title>
+<title xml:lang="en">This Is Victories!!</title>
+<title xml:lang="x-jat">Kore ga Victories Da!!</title>
+</episode>
+<episode id="227491" update="2020-03-22">
+<epno type="1">51</epno>
+<length>15</length>
+<airdate>2020-03-20</airdate>
+<title xml:lang="ja">ガチ友情! マスタードラゴン!!</title>
+<title xml:lang="en">A Serious Friendship! Master Dragon!!</title>
+<title xml:lang="x-jat">Gachi Yuujou! Master Dragon!!</title>
+</episode>
+<episode id="227620" update="2020-03-27">
+<epno type="1">52</epno>
+<length>15</length>
+<airdate>2020-03-27</airdate>
+<title xml:lang="ja">ガチンコ! ドラムVSグウィン!!</title>
+<title xml:lang="en">It`s Serious! Drum vs Gwyn!!</title>
+<title xml:lang="x-jat">Gachinko! Drum vs Gwyn!!</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13016" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-10-21</startdate>
+<enddate>2017-10-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">DC Super Heroes vs Taka no Tsume Dan</title>
+<title xml:lang="ja" type="synonym">DCスーパーヒーローズvs鷹の爪団</title>
+<title xml:lang="en" type="synonym">DC Super Heroes vs Eagle Talon</title>
+<title xml:lang="ja" type="official">DC Super Heroes vs 鷹の爪団</title>
+</titles>
+<relatedanime>
+<anime id="4408" type="Other">The Frogman Show</anime>
+<anime id="5611" type="Other">Batman: Gotham Knight</anime>
+</relatedanime>
+<url>http://dc-taka.com/</url>
+<creators>
+<name id="12416" type="Animation Work">DLE</name>
+<name id="3825" type="Original Plan">Frogman</name>
+<name id="3825" type="Direction">Frogman</name>
+</creators>
+<description>Joker has come to Japan to steal the Eagle Talon Society`s secret weapons in his continued scheme for pure chaos. However, the Justice League is on his trail, but there`s something off with Batman. Now, it`s up to Eagle Talon to go find out what`s wrong with Batman, and that means going back in time to Bruce Wayne`s most traumatic experience, the murder of his parents. If that wasn`t enough to worry about, the Eagle Talon Society also have to keep their eyes on their production budget, especially with most of that money going toward the licensing fee for DC`s popular characters. Will the Eagle Talon Society and the Justice League be able to stop the Joker before their budget dries up, and they`re reduced to simple stick figures!?
+Source: ANN</description>
+<ratings>
+<permanent count="6">3.36</permanent>
+<temporary count="6">3.16</temporary>
+</ratings>
+<picture>202884.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19832</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35219</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dc-taka.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360158</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=9IEnjuOuVu8</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2623" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="3315" parentid="2623" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-28">
+<name>superhero</name>
+<description>In modern popular fiction, a superhero is a type of costumed heroic character who possesses supernatural or superhuman powers and who is dedicated to fighting crime, protecting the public, and usually battling supervillains. A female superhero is sometimes called a superheroine. Fiction centered on such characters, especially in American comic books since the 1930s, is known as superhero fiction.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="187980" update="2017-10-17">
+<epno type="1">1</epno>
+<length>105</length>
+<airdate>2017-10-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="195815" update="2018-02-05">
+<epno type="2">S1</epno>
+<length>2</length>
+<airdate>2018-02-02</airdate>
+<title xml:lang="ja">『DCスーパーヒーローズ vs 鷹の爪団』プロモーション映像</title>
+<title xml:lang="en">DC Super Heroes vs Taka no Tsume Dan Promotion Eizou</title>
+<title xml:lang="x-jat">"DC Super Heroes vs Taka no Tsume Dan" Promotion Eizou</title>
+</episode>
+</episodes>
+</anime>

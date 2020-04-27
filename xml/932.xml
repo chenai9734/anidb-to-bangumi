@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="932" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1994-09-18</startdate>
+<enddate>1994-09-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Samurai Spirits: Haten Gouma no Shou</title>
+<title xml:lang="ru" type="synonym">Самурайский дух - Фильм</title>
+<title xml:lang="ja" type="official">サムライスピリッツ 破天降魔の章</title>
+<title xml:lang="en" type="official">Samurai Shodown The Motion Picture</title>
+<title xml:lang="fr" type="official">Samurai Shodown</title>
+</titles>
+<relatedanime>
+<anime id="960" type="Sequel">Samurai Spirits 2: Asura Zanmaden</anime>
+</relatedanime>
+<creators>
+<name id="741" type="Unknown Relation">Fuji TV</name>
+<name id="783" type="Unknown Relation">NAS</name>
+<name id="1225" type="Unknown Relation">SNK Playmore</name>
+<name id="2703" type="Music">Wada Kaoru</name>
+<name id="5865" type="Direction">Ishiodori Hiroshi</name>
+</creators>
+<description>One hundred years after their deaths, six legendary holy warriors are reborn to seek justice against the former comrade who betrayed them into the hands of an evil god! The six warriors search the feudal province of Edo questing for the last Saint Soldier, Haohmaru, and their sworn nemesis Shirou Amakusa. Will the followers of the divine light triumph over the forces of darkness, or is history destined to repeat itself? Before their hundred-year journey has ended, six samurai will prove that the only thing stronger than their holy blades is the steel of their wills!</description>
+<ratings>
+<permanent count="174">2.23</permanent>
+<temporary count="182">4.96</temporary>
+</ratings>
+<picture>42604.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>643</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2591</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235394</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1589" parentid="2622" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-08">
+<name>samurai</name>
+<picurl>244341.jpg</picurl>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2622" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+<picurl>211286.jpg</picurl>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+<tag id="2841" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="14132" type="main character in" update="2010-01-15">
+<rating votes="9">7.96</rating>
+<name>Nakoruru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nakoruru is a popular Ainu girl from SNK`s Samurai Spirits fighting game and considered one of the most recognised characters and "mascot" of the series.</description>
+<picture>41532.jpg</picture>
+<seiyuu id="12359" picture="41534.jpg">Chiba Reiko</seiyuu>
+</character>
+<character id="29246" type="appears in" update="2017-11-12">
+<rating votes="1">3.38</rating>
+<name>Hattori Hanzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201723.jpg</picture>
+<seiyuu id="28" picture="23184.jpg">Aono Takeshi</seiyuu>
+</character>
+<character id="89051" type="main character in" update="2017-04-28">
+<rating votes="1">9.93</rating>
+<name>Haohmaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201711.jpg</picture>
+</character>
+<character id="89052" type="secondary cast in" update="2017-04-28">
+<rating votes="1">8.23</rating>
+<name>Yagyu Jubei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201712.jpg</picture>
+</character>
+<character id="89053" type="secondary cast in" update="2017-04-28">
+<rating votes="1">8.23</rating>
+<name>Kyoshiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201714.jpg</picture>
+</character>
+<character id="89098" type="secondary cast in" update="2017-04-30">
+<name>Galford D. Weller</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201855.jpg</picture>
+<seiyuu id="335" picture="64826.jpg">Takagi Wataru</seiyuu>
+</character>
+<character id="89099" type="secondary cast in" update="2017-04-30">
+<rating votes="1">9.93</rating>
+<name>Tam Tam</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>201856.jpg</picture>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="9683" update="2005-04-07">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1994-09-18</airdate>
+<rating votes="1">1.58</rating>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5488" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1969-01-02</startdate>
+<enddate>1969-01-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Wonder-kun no Hatsu Yume Uchuu Ryokou</title>
+<title xml:lang="ja" type="synonym">ワンダーくんの初夢宇宙旅行</title>
+<title xml:lang="ja" type="official">ワンダー君の初夢宇宙旅行</title>
+</titles>
+<creators>
+<name id="1195" type="Original Plan">Tezuka Osamu</name>
+<name id="3842" type="Direction">Sugiyama Taku</name>
+<name id="4295" type="Music">Yokoyama Seiji</name>
+</creators>
+<ratings>
+<permanent count="3">2.47</permanent>
+<temporary count="3">3.66</temporary>
+</ratings>
+<picture>6288.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3314</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>12807</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234402</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7263</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>66</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="37196" type="main character in" update="2011-09-29">
+<name>Wonder-kun</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4915" picture="48429.jpg">Miwa Katsue</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="83810" update="2011-10-20">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

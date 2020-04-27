@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2715" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1992-07-04</startdate>
+<enddate>1992-07-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zouressha ga Yatte Kita</title>
+<title xml:lang="ja" type="synonym">ぞう列車がやってきた</title>
+<title xml:lang="ja" type="official">象列車がやってきた</title>
+</titles>
+<url>http://www.mushi-pro.co.jp/2010/08/ぞう列車がやってきた/</url>
+<creators>
+<name id="833" type="Animation Work">Mushi Production</name>
+<name id="4330" type="Music">Koroku Reijirou</name>
+<name id="5939" type="Direction">Katou Tai</name>
+<name id="7050" type="Character Design">Kitazaki Masahiro</name>
+</creators>
+<description>* An educational film about the Elephant Trains in Japan.
+During WW2 many zoos were slaughtering their dangerous animals (such as elephants) as a safeguard against Allied bombings which could possibly release the animals. After WW2, the only elephants that remained in Japan were the two at Higashiyama Zoo in Nagoya. Special trains called Elephant Trains were arranged to bring children from all over the country to Higashiyama Zoo.
+Source: MAL</description>
+<ratings>
+<permanent count="6">3.13</permanent>
+<temporary count="6">3.83</temporary>
+</ratings>
+<picture>51298.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3199</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>11095</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.mushi-pro.co.jp/2010/08/ぞう列車がやってきた/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151714</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="52468" update="2010-04-16">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1992-07-04</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

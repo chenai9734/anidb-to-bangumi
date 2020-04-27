@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5642" restricted="false">
+<type>TV Series</type>
+<episodecount>51</episodecount>
+<startdate>2007-10-07</startdate>
+<enddate>2008-09-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pururun! Shizuku-chan Aha</title>
+<title xml:lang="ja" type="official">ぷるるんっ! しずくちゃんあはっ☆</title>
+</titles>
+<relatedanime>
+<anime id="9444" type="Sequel">Picchipichi Shizuku-chan</anime>
+<anime id="4716" type="Prequel">Pururun! Shizuku-chan</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/shizuku/main_index.html</url>
+<creators>
+<name id="917" type="Animation Work">TMS Entertainment</name>
+<name id="3474" type="Series Composition">Onodera Hiroyuki</name>
+<name id="2533" type="Music">Kameyama Kouichirou</name>
+<name id="6244" type="Character Design">Masuda Toshihiko</name>
+<name id="7886" type="Direction">Yano Atsushi</name>
+<name id="30412" type="Original Plan">Q-LiA</name>
+</creators>
+<description>* Second season of http://anidb.net/a4716 [Pururun! Shizuku-chan].</description>
+<ratings>
+<permanent count="5">3.43</permanent>
+<temporary count="5">3.20</temporary>
+</ratings>
+<picture>7046.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8864</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9533</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4093</identifier>
+<identifier>vnhymz</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/shizuku/main_index.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Pururun!_Shizuku-chan</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ぷるるんっ!しずくちゃん</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1268</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>328868</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>9440</identifier>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/2127</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>2007/shizukuchan2</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="27033" type="secondary cast in" update="2012-10-06">
+<name>Hanaji-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59349.png</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="49625" type="main character in" update="2012-10-06">
+<name>Shizuku-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59343.png</picture>
+<seiyuu id="6925" picture="201846.jpg">Itou Miyako</seiyuu>
+</character>
+<character id="49626" type="main character in" update="2012-10-06">
+<name>Uruoi-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59344.png</picture>
+<seiyuu id="253" picture="222833.jpg">Yuzuki Ryouka</seiyuu>
+</character>
+<character id="49627" type="secondary cast in" update="2012-10-06">
+<name>Mirumiru-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59345.png</picture>
+<seiyuu id="1927" picture="21136.jpg">Narita Sayaka</seiyuu>
+</character>
+<character id="49628" type="secondary cast in" update="2015-02-24">
+<name>Aseo-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169197.jpg</picture>
+<seiyuu id="2401" picture="23194.jpg">Kawazu Yasuhiko</seiyuu>
+</character>
+<character id="49629" type="secondary cast in" update="2012-10-06">
+<name>Namida-kimi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59347.png</picture>
+<seiyuu id="605" picture="226544.jpg">Ishii Makoto</seiyuu>
+</character>
+<character id="49630" type="secondary cast in" update="2012-10-06">
+<name>Koron-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>59348.png</picture>
+<seiyuu id="68" picture="16675.jpg">Yasumura Makoto</seiyuu>
+</character>
+<character id="49632" type="secondary cast in" update="2012-10-06">
+<name>Shampoo-nee-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126498.jpg</picture>
+<seiyuu id="557" picture="228659.jpg">Takada Yumi</seiyuu>
+</character>
+<character id="49633" type="main character in" update="2012-10-06">
+<name>Tsumurin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10250.gif</picture>
+<seiyuu id="340" picture="17176.jpg">Yabe Masahito</seiyuu>
+</character>
+<character id="49634" type="secondary cast in" update="2012-10-06">
+<name>Rince-nee-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10251.gif</picture>
+<seiyuu id="1917" picture="151688.jpg">Natsuki Rio</seiyuu>
+</character>
+<character id="49635" type="secondary cast in" update="2012-10-06">
+<name>Rainey</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126499.jpg</picture>
+<seiyuu id="1901" picture="186579.jpg">Kobayashi Yuuko</seiyuu>
+</character>
+<character id="49636" type="secondary cast in" update="2012-10-06">
+<name>Ametarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126500.jpg</picture>
+<seiyuu id="301" picture="186193.jpg">Oonishi Takeharu</seiyuu>
+</character>
+<character id="49637" type="secondary cast in" update="2015-02-24">
+<name>Dororon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169427.jpg</picture>
+<seiyuu id="29489" picture="77480.jpg">Ichita Rie</seiyuu>
+</character>
+<character id="49638" type="secondary cast in" update="2012-10-06">
+<name>Hanatare-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10254.gif</picture>
+<seiyuu id="301" picture="186193.jpg">Oonishi Takeharu</seiyuu>
+</character>
+<character id="49639" type="secondary cast in" update="2012-10-06">
+<name>Gokuraku-sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10255.gif</picture>
+<seiyuu id="20255" picture="52681.jpg">Shinohara Daisaku</seiyuu>
+</character>
+<character id="49640" type="secondary cast in" update="2012-10-06">
+<name>Midoriko-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10256.gif</picture>
+<seiyuu id="252" picture="149852.jpg">Shindou Naomi</seiyuu>
+</character>
+<character id="49641" type="secondary cast in" update="2012-10-06">
+<name>Reti</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10257.gif</picture>
+<seiyuu id="1927" picture="21136.jpg">Narita Sayaka</seiyuu>
+</character>
+<character id="49642" type="secondary cast in" update="2012-10-06">
+<name>Ronron</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10258.gif</picture>
+<seiyuu id="237" picture="95027.jpg">Yajima Akiko</seiyuu>
+</character>
+<character id="49643" type="appears in" update="2012-10-06">
+<name>Mine-okun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10259.gif</picture>
+<seiyuu id="65" picture="170428.jpg">Yoshino Hiroyuki</seiyuu>
+</character>
+<character id="49644" type="appears in" update="2012-10-18">
+<name>Yodare-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10260.gif</picture>
+<seiyuu id="9599" picture="222797.jpg">Aoyama Touko</seiyuu>
+</character>
+<character id="49645" type="appears in" update="2012-10-06">
+<name>Koyuki-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126501.jpg</picture>
+<seiyuu id="271" picture="171555.jpg">Yukino Satsuki</seiyuu>
+</character>
+<character id="49646" type="appears in" update="2012-10-06">
+<name>Tsurara-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126502.jpg</picture>
+<seiyuu id="9197" picture="2589.gif">Momomori Sumomo</seiyuu>
+</character>
+<character id="49647" type="secondary cast in" update="2012-10-06">
+<name>Honey-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10261.gif</picture>
+<seiyuu id="2792" picture="26717.jpg">Kawata Taeko</seiyuu>
+</character>
+<character id="49648" type="appears in" update="2012-10-06">
+<name>Amino-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126503.jpg</picture>
+<seiyuu id="3698" picture="172063.jpg">Nishino Masato</seiyuu>
+</character>
+<character id="49650" type="appears in" update="2012-10-06">
+<name>Kakao-kun</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126505.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="49657" type="appears in" update="2012-10-06">
+<name>Penki-sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126512.jpg</picture>
+<seiyuu id="469" picture="17418.jpg">Umezu Hideyuki</seiyuu>
+</character>
+<character id="49658" type="appears in" update="2012-10-06">
+<name>Ponshu-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126513.jpg</picture>
+<seiyuu id="35798">Onoda Kouji</seiyuu>
+</character>
+<character id="49659" type="appears in" update="2012-10-06">
+<name>Love-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126514.jpg</picture>
+<seiyuu id="348" picture="17186.jpg">Enomoto Atsuko</seiyuu>
+</character>
+<character id="49661" type="appears in" update="2012-10-06">
+<name>Chaira-hime</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126516.jpg</picture>
+<seiyuu id="355" picture="71573.jpg">Gotou Saori</seiyuu>
+</character>
+<character id="49662" type="appears in" update="2012-10-06">
+<name>Chaita-ouji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126517.jpg</picture>
+<seiyuu id="4634" picture="223664.jpg">Kinoshita Sayaka</seiyuu>
+</character>
+<character id="49663" type="appears in" update="2012-10-06">
+<name>Maple Syrup-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126518.jpg</picture>
+<seiyuu id="11273" picture="86104.jpg">Miruno Jun</seiyuu>
+</character>
+<character id="49665" type="appears in" update="2012-10-06">
+<name>Machamaro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126520.jpg</picture>
+<seiyuu id="2013" picture="21316.jpg">Shimowada Hiroki</seiyuu>
+</character>
+<character id="49666" type="appears in" update="2012-10-06">
+<name>Amigo Hanagedes</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126521.jpg</picture>
+<seiyuu id="67" picture="25195.jpg">Ishii Kouji</seiyuu>
+</character>
+<character id="49667" type="appears in" update="2012-10-06">
+<name>Suishou-san</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126522.jpg</picture>
+<seiyuu id="2050" picture="224288.jpg">Ishimura Tomoko</seiyuu>
+</character>
+<character id="49668" type="appears in" update="2012-10-06">
+<name>Ajisai-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126523.jpg</picture>
+<seiyuu id="2413" picture="22272.jpg">Mizuta Wasabi</seiyuu>
+</character>
+<character id="49669" type="appears in" update="2012-10-06">
+<name>Noririn</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126524.jpg</picture>
+<seiyuu id="5700" picture="172104.jpg">Matsumoto Marika</seiyuu>
+</character>
+<character id="49670" type="appears in" update="2012-10-06">
+<name>Maimai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126525.jpg</picture>
+<seiyuu id="10854" picture="38961.jpg">Sasaki Hinako</seiyuu>
+</character>
+<character id="49673" type="appears in" update="2012-10-06">
+<name>Hotaru-chan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126529.jpg</picture>
+<seiyuu id="1660" picture="53927.jpg">Maeda Ai</seiyuu>
+</character>
+<character id="49674" type="appears in" update="2012-10-06">
+<name>Marin-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126531.jpg</picture>
+<seiyuu id="349" picture="79057.jpg">Kanda Akemi</seiyuu>
+</character>
+<character id="49678" type="appears in" update="2012-10-06">
+<name>Yuurei-kun</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126536.jpg</picture>
+<seiyuu id="2460" picture="22350.jpg">Nagasawa Nao</seiyuu>
+</character>
+<character id="49681" type="appears in" update="2012-10-06">
+<name>Gasorinda</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126539.jpg</picture>
+<seiyuu id="4900" picture="28280.jpg">Sasamori Aki</seiyuu>
+</character>
+<character id="49683" type="appears in" update="2012-10-06">
+<name>Bloody-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126541.jpg</picture>
+<seiyuu id="158" picture="38198.jpg">Neya Michiko</seiyuu>
+</character>
+<character id="49685" type="appears in" update="2012-10-06">
+<name>Amelie-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126545.jpg</picture>
+<seiyuu id="142" picture="68482.jpg">Ooura Fuyuka</seiyuu>
+</character>
+<character id="49687" type="secondary cast in" update="2012-10-06">
+<name>Torino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10262.gif</picture>
+<seiyuu id="3183" picture="24177.jpg">Hanai Nao</seiyuu>
+</character>
+<character id="49688" type="secondary cast in" update="2012-10-18">
+<name>Numao-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126976.jpg</picture>
+<seiyuu id="554" picture="244340.jpg">Iwata Mitsuo</seiyuu>
+</character>
+<character id="49689" type="secondary cast in" update="2012-10-06">
+<name>Madame Blanche</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10263.gif</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="49690" type="secondary cast in" update="2012-10-06">
+<name>Monsieur Vino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10264.gif</picture>
+<seiyuu id="68" picture="16675.jpg">Yasumura Makoto</seiyuu>
+</character>
+<character id="49691" type="secondary cast in" update="2012-10-06">
+<name>Roze-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10265.gif</picture>
+<seiyuu id="476" picture="23579.jpg">Saitou Momoko</seiyuu>
+</character>
+<character id="49692" type="appears in" update="2012-10-06">
+<name>Gurun</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126546.jpg</picture>
+<seiyuu id="65" picture="170428.jpg">Yoshino Hiroyuki</seiyuu>
+</character>
+<character id="49915" type="appears in" update="2012-10-18">
+<name>Salataoil-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126967.jpg</picture>
+<seiyuu id="603" picture="223012.jpg">Jou Masako</seiyuu>
+</character>
+<character id="49916" type="appears in" update="2012-10-18">
+<name>Poyoyon</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126968.jpg</picture>
+<seiyuu id="237" picture="95027.jpg">Yajima Akiko</seiyuu>
+</character>
+<character id="49917" type="appears in" update="2012-10-18">
+<name>Hanagechotto</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126969.jpg</picture>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+<character id="49918" type="appears in" update="2012-10-18">
+<name>Hanagedes no Tsuma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126970.jpg</picture>
+<seiyuu id="653" picture="18181.jpg">Tsuda Shouko</seiyuu>
+</character>
+<character id="49919" type="appears in" update="2012-10-18">
+<name>Chirikara Red</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126971.jpg</picture>
+<seiyuu id="455" picture="17356.jpg">Matsumoto Yasunori</seiyuu>
+</character>
+<character id="49920" type="appears in" update="2012-10-18">
+<name>Urara-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126972.jpg</picture>
+<seiyuu id="2438" picture="156420.jpg">Takimoto Fujiko</seiyuu>
+</character>
+<character id="49921" type="appears in" update="2012-10-18">
+<name>Ao-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126973.jpg</picture>
+<seiyuu id="252" picture="149852.jpg">Shindou Naomi</seiyuu>
+</character>
+<character id="49922" type="appears in" update="2012-10-18">
+<name>Red-chan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126974.jpg</picture>
+<seiyuu id="9599" picture="222797.jpg">Aoyama Touko</seiyuu>
+</character>
+<character id="49923" type="appears in" update="2012-10-18">
+<name>Hamihami</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126975.jpg</picture>
+<seiyuu id="300" picture="226467.jpg">Gotou Tetsuo</seiyuu>
+</character>
+<character id="49924" type="appears in" update="2012-10-18">
+<name>Sebastian</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126977.jpg</picture>
+<seiyuu id="1683" picture="223030.jpg">Kanemitsu Nobuaki</seiyuu>
+</character>
+<character id="49925" type="appears in" update="2012-10-18">
+<name>Maguman</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126978.jpg</picture>
+<seiyuu id="6884" picture="31685.jpg">Suzuki Akiko</seiyuu>
+</character>
+<character id="49926" type="appears in" update="2012-10-18">
+<name>Tsuyuko-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126979.jpg</picture>
+<seiyuu id="10822" picture="77513.jpg">Nishikawa Hazuki</seiyuu>
+</character>
+<character id="49927" type="appears in" update="2012-10-18">
+<name>Aroma-san</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126980.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="49928" type="appears in" update="2012-10-18">
+<name>Lili-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>126981.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="50153" type="appears in" update="2012-10-27">
+<name>Puririn</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127336.jpg</picture>
+<seiyuu id="1436" picture="18822.jpg">Takagi Reiko</seiyuu>
+</character>
+<character id="50154" type="appears in" update="2012-10-27">
+<name>Shabon-san</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127337.jpg</picture>
+<seiyuu id="1813" picture="172159.jpg">Katsuki Masako</seiyuu>
+</character>
+<character id="50155" type="appears in" update="2012-10-27">
+<name>Karesuski</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127338.jpg</picture>
+<seiyuu id="272" picture="233512.jpg">Naitou Ryou</seiyuu>
+</character>
+<character id="50156" type="appears in" update="2012-10-27">
+<name>Bonbon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127340.jpg</picture>
+<seiyuu id="3183" picture="24177.jpg">Hanai Nao</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="86156" update="2016-04-01">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2007-10-07</airdate>
+<title xml:lang="ja">しずくの森へいらっしゃい! / ようこそ! ヴィーノ・ファミリー</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="86158" update="2007-12-26">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2008-01-06</airdate>
+<title xml:lang="ja">おもちになったポヨヨン / 恋のキューピット!?あじさいさん</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="86159" update="2007-12-26">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2007-12-23</airdate>
+<title xml:lang="ja">サンタさんをさがせ!</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="86160" update="2007-12-26">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2007-12-16</airdate>
+<title xml:lang="ja">ヌマオ君とハニーちゃん / はなたれ君のスパイ大作戦</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="86161" update="2007-12-26">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2007-12-09</airdate>
+<title xml:lang="ja">しずくの森のヒーローたち / 対決! まちゃまろとカカオ君</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="86162" update="2007-12-26">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2007-12-02</airdate>
+<title xml:lang="ja">しずくの森に保育園ができた! / ミネ夫君に聞いてみよう!</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="86163" update="2007-12-26">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2007-11-25</airdate>
+<title xml:lang="ja">はなぢ悟空の大冒険! / 早口しゃべくりんを倒せ!</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="86164" update="2007-12-26">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2007-11-18</airdate>
+<title xml:lang="ja">料理は愛! サラ田オイル先生 / さわやかサンサン!?なみだ君</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="86165" update="2007-12-26">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2007-11-11</airdate>
+<title xml:lang="ja">怪奇! 透明人間あらわるっ! / ママをさがせ大作戦!</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="86166" update="2007-12-26">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2007-11-04</airdate>
+<title xml:lang="ja">ロゼちゃんの王子様を探して / アセオ君とヨダレ君のお食事会</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="86167" update="2007-12-26">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2007-10-28</airdate>
+<title xml:lang="ja">コロン君のキョーレツコロン!? / 猛特訓! はなぢ君とはなたれ君</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="86168" update="2007-12-26">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2007-10-21</airdate>
+<title xml:lang="ja">ぐるぐる! ぐるん / 僕ちゃまトリーノざんす</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="86169" update="2007-12-26">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2007-10-14</airdate>
+<title xml:lang="ja">うるおいちゃんのアイドルへの道 / みるみるちゃんと牧場のお友達</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="86869" update="2008-01-13">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2008-01-13</airdate>
+<title xml:lang="ja">しずく太郎の鬼退治 / がんばれ! ポンシュさん</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="86973" update="2008-01-17">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2008-01-20</airdate>
+<title xml:lang="ja">帰ってきたアミーゴ・ハナゲデス</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="87873" update="2008-02-01">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2008-02-03</airdate>
+<title xml:lang="ja">こんな鬼でごめんなさい!? / デートリレーだ! うるおいちゃん</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="87874" update="2008-02-01">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2008-01-27</airdate>
+<title xml:lang="ja">ツララさんとうららちゃん / つむりんの冬の恋物語</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="88329" update="2008-02-21">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2008-03-09</airdate>
+<title xml:lang="ja">マダム・ブランシュの学校改造計画 / アロマさんとつゆこ先生</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="88330" update="2008-02-21">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2008-03-02</airdate>
+<title xml:lang="ja">恋する赤ちゃんたち / おらマグマンだべ</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="88331" update="2008-02-21">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2008-02-24</airdate>
+<title xml:lang="ja">燃えよ! アセオ君 / あたしが一番! うるおい姫</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="88332" update="2008-02-21">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2008-02-17</airdate>
+<title xml:lang="ja">ブラッディー先生は吸血鬼!? / どろろんのバラバラロボット</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="88333" update="2008-02-21">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2008-02-10</airdate>
+<title xml:lang="ja">お菓子な家にご用心! / はみがき侍ハミハミ参上!</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="91508" update="2008-06-22">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2008-03-16</airdate>
+<title xml:lang="ja">どろろんの新発明!? / なかよし!? つむりんとトリーノ</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="91509" update="2008-06-22">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2008-03-23</airdate>
+<title xml:lang="ja">ロゼちゃんの初めてのお花見 / アメリちゃん, しずくの森へ</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="91510" update="2008-06-22">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2008-03-30</airdate>
+<title xml:lang="ja">ハチャメチャ! ハニーずきんちゃん / ミネ夫君のウソウソ大作戦</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="91511" update="2008-06-22">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2008-04-06</airdate>
+<title xml:lang="ja">うるおいちゃんのアイドル修行 / チャイタ王子の不思議なつぼ</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="91512" update="2008-06-22">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2008-04-13</airdate>
+<title xml:lang="ja">しずくの森の家庭訪問 / キャプテンみるみるちゃんの大冒険!</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="91513" update="2008-06-22">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2008-04-20</airdate>
+<title xml:lang="ja">春は眠いよ! シャンリン姉妹 / 忘れないで, うるおいちゃん!</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="91514" update="2008-06-22">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2008-04-27</airdate>
+<title xml:lang="ja">伝説の歌姫! ボンボン登場 / 大スクープをねらえ! なみだ君</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="91515" update="2008-06-22">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2008-05-04</airdate>
+<title xml:lang="ja">保育園で遊ぼう! / シュワッとさわやか! 炭酸先生</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="91516" update="2008-06-22">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2008-05-11</airdate>
+<title xml:lang="ja">ママの日は大騒ぎ! / ヴィーノ夫妻の物語</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="91517" update="2008-06-22">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2008-05-18</airdate>
+<title xml:lang="ja">愛と情熱? の料理対決 / 華麗なる変身! なみだ君</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="91518" update="2008-06-22">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2008-05-25</airdate>
+<title xml:lang="ja">ぷりりんのスイーツパーティ / ヨダレ君と食いしん坊おばけ</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="91519" update="2008-06-22">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2008-06-01</airdate>
+<title xml:lang="ja">しずくの城の大奥ものがたり / おかしな四角関係</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="91520" update="2008-06-22">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2008-06-08</airdate>
+<title xml:lang="ja">しずくの森でフラダンス / 突撃! カビ軍団</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="91521" update="2008-06-22">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2008-06-15</airdate>
+<title xml:lang="ja">はなたれ君のわらしべ長者 / しずくちゃんと木の長老</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="93065" update="2008-09-21">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2008-06-22</airdate>
+<title xml:lang="ja">カレススキーとあじさいさん / どろろんとシャボンさん</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="93066" update="2008-09-21">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2008-06-29</airdate>
+<title xml:lang="ja">ボンボンとポンシュさん / まいまい, タレントになる!</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="93067" update="2008-09-21">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2008-07-06</airdate>
+<title xml:lang="ja">怪盗忍び団, 参上! / 七夕の日の約束</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="93068" update="2008-09-21">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2008-07-13</airdate>
+<title xml:lang="ja">本音をあばけ! 水晶玉 / どろろん一族の謎!?</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="93069" update="2008-09-21">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2008-07-20</airdate>
+<title xml:lang="ja">シャンリン姉妹のロボット大作戦 / さらば!? 三人娘</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="93070" update="2008-09-21">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2008-07-27</airdate>
+<title xml:lang="ja">しずくちゃん絶体絶命!? / なみだ君, 愛の大暴走</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="93071" update="2008-09-21">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2008-08-03</airdate>
+<title xml:lang="ja">大暴れ! しずくちゃん / まいまい運命のオーディション</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="93072" update="2008-09-21">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2008-08-10</airdate>
+<title xml:lang="ja">しずさんつむさんの珍道中 (前編, 後編)</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="93073" update="2008-09-21">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2008-08-17</airdate>
+<title xml:lang="ja">がんばれ! ユーレイ君 / ブラッディー家の謎のお祭り</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="93074" update="2008-09-21">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2008-08-24</airdate>
+<title xml:lang="ja">恐怖の笑いダコ / みるみるちゃんラプソディー</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="93075" update="2008-09-21">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2008-08-31</airdate>
+<title xml:lang="ja">謎の島で大冒険! / パパとママの大人の秘密</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="93076" update="2008-09-21">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2008-09-07</airdate>
+<title xml:lang="ja">キョーレツ! ほれぐすり / のっぺら君の顔を探せ!</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="93077" update="2008-09-21">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2008-09-14</airdate>
+<title xml:lang="ja">大忙し! しずく社長 / 秋のジメジメ対決!</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="93355" update="2008-10-09">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2008-09-21</airdate>
+<title xml:lang="ja">まちゃまろの恋人探し / 負けるな! ぷりりん</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="93356" update="2008-10-09">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2008-09-28</airdate>
+<title xml:lang="ja">みんなの夢 / ウエディングでエンディング</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="122409" update="2010-09-15">
+<epno type="3">C3</epno>
+<length>0</length>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="122410" update="2010-09-15">
+<epno type="3">C2</epno>
+<length>0</length>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="122411" update="2010-09-15">
+<epno type="3">C1</epno>
+<length>0</length>
+<title xml:lang="en">Opening 1</title>
+</episode>
+</episodes>
+</anime>

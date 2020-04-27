@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11895" restricted="false">
+<type>unknown</type>
+<episodecount>1</episodecount>
+<startdate>2012-09</startdate>
+<enddate>2012-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Celebration and Chorale</title>
+<title xml:lang="ja" type="synonym">祝典とコラール</title>
+<title xml:lang="ja" type="official">celebration and chorale</title>
+</titles>
+<url>http://nakauchiyukie.hacca.jp/</url>
+<ratings>
+<permanent count="19">4.69</permanent>
+<temporary count="19">5.60</temporary>
+</ratings>
+<picture>181709.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32345</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://nakauchiyukie.hacca.jp/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="178015" update="2016-06-11">
+<epno type="1">1</epno>
+<length>5</length>
+<rating votes="1">4.46</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

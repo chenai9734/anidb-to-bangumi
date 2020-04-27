@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9681" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2013-01-25</startdate>
+<enddate>2013-01-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yonhyakunijuu Renpai Girl</title>
+<title xml:lang="ja" type="official">四百二十連敗ガール</title>
+</titles>
+<url>http://www.youtube.com/watch?v=HHZQuTCw1p0</url>
+<creators>
+<name id="29313" type="Work">Trigger</name>
+<name id="6056" type="Direction">Ootsuka Masahiko</name>
+</creators>
+<description>The anime promotional video for Kiriyama Naruto`s Yonhyaku-Nijuu Renpai Girl (Rejected by 420 Girls in a Row) novel with illustrations by Nanamomo Rio.
+Source: ANN</description>
+<ratings>
+<permanent count="149">3.57</permanent>
+<temporary count="150">5.07</temporary>
+</ratings>
+<picture>131306.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17871</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>四百二十連敗ガール</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=HHZQuTCw1p0</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="52376" type="main character in" update="2013-01-25">
+<name>Tsuwabuki Haru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>131308.jpg</picture>
+<seiyuu id="2575" picture="139952.jpg">Eguchi Takuya</seiyuu>
+</character>
+<character id="52377" type="main character in" update="2013-01-25">
+<rating votes="1">6.08</rating>
+<name>Dokuutsugi Miyako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>131309.jpg</picture>
+<seiyuu id="34626" picture="144409.jpg">Amamiya Sora</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="146980" update="2013-01-25">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2013-01-25</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

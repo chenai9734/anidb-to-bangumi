@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12917" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002-10-19</startdate>
+<enddate>2002-10-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yume Kakeru Kougen: Kiyosato no Chichi Paul Rusch</title>
+<title xml:lang="ja" type="official">夢かける高原 清里の父 ポール・ラッシュ</title>
+</titles>
+<similaranime>
+<anime id="4752" approval="2" total="2">Zeno Kagiri Naki Ai Ni</anime>
+</similaranime>
+<creators>
+<name id="893" type="Animation Work">Magic Bus</name>
+<name id="5433" type="Character Design">Shibuichi Setsuko</name>
+<name id="146" type="Direction">Dezaki Satoshi</name>
+<name id="6029" type="Music">Nakajima Yuuki</name>
+</creators>
+<description>In 1925 Paul Rusch, an American missionary, arrived in Japan to help The Young Men`s Christian Association with reconstruction efforts after the Great Kantou earthquake. Through his association with the Anglican Church he also became a professor at Rikkyo University in Tokyo and deepened his attachement to Japan as a result of conversations with his students. However, he had to leave the country when the Pacific War broke out.
+In 1945 Paul came to Japan again as an officer of General Headquarters and grieved over the deaths of many of his former students. He vowed to dedicate the rest of his life to helping the people living in Kiyosato - a highland area in Yamanashi Prefecture. He raised funds in the United States, helped build various facilities for the population and established the first highland dairy farm in Japan. However, not all Japanese were happy to deal with an American after the war ended, and so emerged one more important task for Paul: to help soothe post-WWII relationships between the people of two countries.</description>
+<ratings>
+<permanent count="14">6.18</permanent>
+<temporary count="14">6.03</temporary>
+</ratings>
+<picture>199819.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33828</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>夢かける高原_清里の父_ポール・ラッシュ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>371853</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="4616" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-05">
+<name>based on real events</name>
+<description>Contains content based on real-life events.
+Depending on the creators` wishes those events may have been altered. In the most substantial cases, expect many things to have been changed from the original events.</description>
+</tag>
+<tag id="4814" parentid="4616" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>biographical film</name>
+<description>A biographical film, or biopic, is a film that dramatizes the life of an actual person or people. Such films show the life of a historical person and the central character’s real name is used. They differ from films "based on a true story" or "historical films" in that they attempt to comprehensively tell a person’s life story or at least the most historically important years of their lives.
+(Source: en.wiki)</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="185422" update="2017-03-08">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2002-10-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

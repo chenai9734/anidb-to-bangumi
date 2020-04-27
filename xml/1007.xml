@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1007" restricted="false">
+<type>TV Series</type>
+<episodecount>65</episodecount>
+<startdate>1969-10-05</startdate>
+<enddate>1970-12-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Muumin</title>
+<title xml:lang="x-jat" type="synonym">Moomin</title>
+<title xml:lang="x-jat" type="synonym">Mumin</title>
+<title xml:lang="ja" type="official">ムーミン</title>
+<title xml:lang="ko" type="official">무밍</title>
+<title xml:lang="hu" type="official">Múmin</title>
+</titles>
+<relatedanime>
+<anime id="1008" type="Sequel">Muumin (1972)</anime>
+</relatedanime>
+<url>http://www.tms-e.com/search/index.php?pdt_no=278</url>
+<creators>
+<name id="782" type="Work">Tokyo Movie</name>
+<name id="148" type="Chief Direction">Rintarou</name>
+<name id="7142" type="Original Work">Tove Jansson</name>
+<name id="4382" type="Music">Uno Seiichirou</name>
+</creators>
+<description>Well, it`s about the moomin trolls.
+Cute and nice, living in the moomin valley.
+Episodes 01-26 produced by Tokyo Movie Shinsha.
+Episodes 27-65 produced by Mushi Production.</description>
+<ratings>
+<permanent count="103">4.08</permanent>
+<temporary count="108">6.13</temporary>
+</ratings>
+<picture>35693.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>431</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8234</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2457</identifier>
+<identifier>mibqxn</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tms-e.com/search/index.php?pdt_no=278</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Moomin_(1969_TV_series)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ムーミン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89615</identifier>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/1975</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>82</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3763" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-06-01">
+<name>Sekai Meisaku Gekijou</name>
+<description>World Masterpiece Theatre is a Japanese TV anime staple that showcases an animated version of a different classical book or story each year. It originally aired from 1969 to 1997 and then resumed in 2007. WMT series were originally produced by http://anidb.net/cr833 [Mushi Production] and Zuiyo Eizo, and then by the latter`s successor http://anidb.net/cr728 [Nippon Animation], and originally air primarily on http://anidb.net/cr741 [Fuji Television].
+The series has been known by various different names over the years, often reflecting changes to the sponsors, but "World Masterpiece Theatre" is the name most commonly used by viewers. Nippon Animation`s official English name for the series is The Classic Family Theater Series.
+Source: Wikipedia</description>
+<picurl>234097.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="28701" update="2007-09-20">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>1970-05-31</airdate>
+<title xml:lang="ja">夏祭りのオーロラ</title>
+<title xml:lang="en">Summer festival aurora</title>
+</episode>
+<episode id="28702" update="2007-09-20">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>1970-04-05</airdate>
+<title xml:lang="ja">顔をなくしたスニフ</title>
+<title xml:lang="en">Non-non loses his face</title>
+</episode>
+<episode id="28703" update="2007-09-20">
+<epno type="1">3</epno>
+<length>25</length>
+<title xml:lang="ja">雨だ! 嵐だ! 洪水だ!</title>
+<title xml:lang="en">Rain! Storm! Flood!</title>
+</episode>
+<episode id="28704" update="2007-09-20">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>1970-08-30</airdate>
+<title xml:lang="ja">歩いてきた山びこ</title>
+<title xml:lang="en">Echo came walking in</title>
+</episode>
+<episode id="28705" update="2007-09-20">
+<epno type="1">8</epno>
+<length>25</length>
+<title xml:lang="ja">ノンノンがあぶない!</title>
+<title xml:lang="en">Non-non in danger!</title>
+</episode>
+<episode id="28706" update="2007-09-20">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>1970-06-07</airdate>
+<title xml:lang="ja">ムーミンパパのノート</title>
+<title xml:lang="en">Moominpapa`s notebook</title>
+</episode>
+<episode id="28707" update="2007-09-20">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>1970-12-06</airdate>
+<title xml:lang="ja">氷姫のいたずら</title>
+<title xml:lang="en">Ice princess`s prank</title>
+</episode>
+<episode id="28708" update="2007-09-20">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>1970-10-18</airdate>
+<title xml:lang="ja">鳩は飛ばない</title>
+<title xml:lang="en">Flightless dove</title>
+</episode>
+<episode id="28709" update="2007-09-20">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>1970-07-19</airdate>
+<title xml:lang="ja">大きな大きなプレゼント</title>
+<title xml:lang="en">A big, big present</title>
+</episode>
+<episode id="28710" update="2007-09-20">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>1970-12-27</airdate>
+<title xml:lang="ja">おやすみムーミン</title>
+<title xml:lang="en">Good night, Moomin</title>
+</episode>
+<episode id="28711" update="2007-09-20">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>1970-05-10</airdate>
+<title xml:lang="ja">森のゆうれい屋敷</title>
+<title xml:lang="en">Haunted house in the forest</title>
+</episode>
+<episode id="28712" update="2007-09-20">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>1970-10-04</airdate>
+<title xml:lang="ja">凧が知っていた</title>
+<title xml:lang="en">What the kite knew</title>
+</episode>
+<episode id="28713" update="2007-09-20">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>1970-06-21</airdate>
+<title xml:lang="ja">人魚さんこんにちは</title>
+<title xml:lang="en">Hello, mermaid</title>
+</episode>
+<episode id="28714" update="2007-09-20">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>1970-09-27</airdate>
+<title xml:lang="ja">月夜に踊る人形</title>
+<title xml:lang="en">Doll dancing in the moonlight</title>
+</episode>
+<episode id="28715" update="2007-09-20">
+<epno type="1">2</epno>
+<length>25</length>
+<title xml:lang="ja">悪魔のハートをねらえ</title>
+<title xml:lang="en">After the devil`s heart</title>
+</episode>
+<episode id="28716" update="2007-09-20">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1970-03-01</airdate>
+<title xml:lang="ja">山男だよヤッホー!</title>
+<title xml:lang="en">It`s bigfoot, yahoo!</title>
+</episode>
+<episode id="28717" update="2007-09-20">
+<epno type="1">4</epno>
+<length>25</length>
+<title xml:lang="ja">ふしぎの泉はどこにある?</title>
+<title xml:lang="en">Where is the mysterious spring</title>
+</episode>
+<episode id="28718" update="2007-09-20">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1970-03-22</airdate>
+<title xml:lang="ja">おめでとうスノーク</title>
+<title xml:lang="en">Congratulations, Snork</title>
+</episode>
+<episode id="28719" update="2007-09-20">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1970-02-15</airdate>
+<title xml:lang="ja">スキーでハッスル!</title>
+<title xml:lang="en">Hustle on skis!</title>
+</episode>
+<episode id="28720" update="2007-09-20">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>1970-07-12</airdate>
+<title xml:lang="ja">マメルクをつかまえろ!</title>
+<title xml:lang="en">Capture Mameluke!</title>
+</episode>
+<episode id="28721" update="2007-09-20">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>1970-11-08</airdate>
+<title xml:lang="ja">ノンノンがいなくなる?</title>
+<title xml:lang="en">Non-non disappears?</title>
+</episode>
+<episode id="28722" update="2007-09-20">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>1970-09-06</airdate>
+<title xml:lang="ja">ピアノなんか大嫌い</title>
+<title xml:lang="en">I hate the piano</title>
+</episode>
+<episode id="28723" update="2007-09-20">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>1970-04-19</airdate>
+<title xml:lang="ja">ひこう鬼現わる!</title>
+<title xml:lang="en">A flying demon appears!</title>
+</episode>
+<episode id="28724" update="2007-09-20">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>1970-09-13</airdate>
+<title xml:lang="ja">眠りの輪をぬけだせ</title>
+<title xml:lang="en">Take off the ring of sleep</title>
+</episode>
+<episode id="28725" update="2007-09-20">
+<epno type="1">5</epno>
+<length>25</length>
+<title xml:lang="ja">パパの思い出のライフル</title>
+<title xml:lang="en">Papa`s rifle of memories</title>
+</episode>
+<episode id="28726" update="2007-09-20">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>1970-04-12</airdate>
+<title xml:lang="ja">小さな大冒険</title>
+<title xml:lang="en">Big little adventure</title>
+</episode>
+<episode id="28727" update="2007-09-20">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>1970-05-17</airdate>
+<title xml:lang="ja">おくびょうな豆泥棒</title>
+<title xml:lang="en">Cowardly bean thief</title>
+</episode>
+<episode id="28728" update="2007-09-20">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>1970-07-05</airdate>
+<title xml:lang="ja">ニョロニョロのひみつ</title>
+<title xml:lang="en">Secret of Nyoronyoro</title>
+</episode>
+<episode id="28729" update="2007-09-20">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>1970-08-09</airdate>
+<title xml:lang="ja">悪魔の鳥がやってきた</title>
+<title xml:lang="en">Arrival of the demon bird</title>
+</episode>
+<episode id="28730" update="2007-09-20">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>1970-10-11</airdate>
+<title xml:lang="ja">さようなら渡り鳥</title>
+<title xml:lang="en">Goodbye, migratory birds</title>
+</episode>
+<episode id="28731" update="2007-09-20">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>1970-05-24</airdate>
+<title xml:lang="ja">金の馬・銀の馬</title>
+<title xml:lang="en">Gold horse, silver horse</title>
+</episode>
+<episode id="28732" update="2007-09-20">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>1970-08-02</airdate>
+<title xml:lang="ja">海の星はどこに?</title>
+<title xml:lang="en">Where have the sea`s stars gone</title>
+</episode>
+<episode id="28733" update="2007-09-20">
+<epno type="1">7</epno>
+<length>25</length>
+<title xml:lang="ja">さよならガオガオ</title>
+<title xml:lang="en">Goodbye Gao-gao</title>
+</episode>
+<episode id="28734" update="2007-09-20">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1970-02-01</airdate>
+<title xml:lang="ja">乞食になりたい</title>
+<title xml:lang="en">I want to be a bum (or I hate rich people)</title>
+</episode>
+<episode id="28735" update="2007-09-20">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1970-02-08</airdate>
+<title xml:lang="ja">月着陸OK!</title>
+<title xml:lang="en">Moon landing OK!</title>
+</episode>
+<episode id="28736" update="2007-09-20">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>1970-08-23</airdate>
+<title xml:lang="ja">なくしたペンダント</title>
+<title xml:lang="en">The lost pendant</title>
+</episode>
+<episode id="28737" update="2007-09-20">
+<epno type="1">1</epno>
+<length>25</length>
+<title xml:lang="ja">シルクハットの秘密</title>
+<title xml:lang="en">Secret of the silk hat</title>
+</episode>
+<episode id="28738" update="2007-09-20">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1970-03-08</airdate>
+<title xml:lang="ja">チビのミイ笑作戦</title>
+<title xml:lang="en">Little Mee`s big plan</title>
+</episode>
+<episode id="28739" update="2007-09-20">
+<epno type="1">13</epno>
+<length>25</length>
+<title xml:lang="ja">パパは売れっ子作家</title>
+<title xml:lang="en">Papa`s a popular writer</title>
+</episode>
+<episode id="28740" update="2007-09-20">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1970-02-22</airdate>
+<title xml:lang="ja">ふしぎな家なき子</title>
+<title xml:lang="en">A mysterious homeless child</title>
+</episode>
+<episode id="28741" update="2007-09-20">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>1970-06-28</airdate>
+<title xml:lang="ja">家にいるのは誰だ?</title>
+<title xml:lang="en">Who`s in the house?</title>
+</episode>
+<episode id="28742" update="2007-09-20">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>1970-12-13</airdate>
+<title xml:lang="ja">一日だけのお姫様</title>
+<title xml:lang="en">Princess for a day</title>
+</episode>
+<episode id="28743" update="2007-09-20">
+<epno type="1">9</epno>
+<length>25</length>
+<title xml:lang="ja">ムーミン谷の列車大強盗</title>
+<title xml:lang="en">Great train robbery of Moomin valley</title>
+</episode>
+<episode id="28744" update="2007-09-20">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1970-03-15</airdate>
+<title xml:lang="ja">おさびし山のガンマン</title>
+<title xml:lang="en">Gunman of Mount Lonesome</title>
+</episode>
+<episode id="28745" update="2007-09-20">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1970-01-18</airdate>
+<title xml:lang="ja">謎のグノース博士</title>
+<title xml:lang="en">Mysterious Professor Gnorth</title>
+</episode>
+<episode id="28746" update="2007-09-20">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>1970-10-25</airdate>
+<title xml:lang="ja">ムーミン谷のカーニバル</title>
+<title xml:lang="en">Carnival in Moomin valley</title>
+</episode>
+<episode id="28747" update="2007-09-20">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>1970-04-26</airdate>
+<title xml:lang="ja">天国からの贈りもの</title>
+<title xml:lang="en">Gift from heaven</title>
+</episode>
+<episode id="28748" update="2007-09-20">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>1970-07-26</airdate>
+<title xml:lang="ja">あらしの怪獣島</title>
+<title xml:lang="en">Stormy monster island</title>
+</episode>
+<episode id="28749" update="2007-09-20">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1970-03-29</airdate>
+<title xml:lang="ja">ノンノンこっち向いて</title>
+<title xml:lang="en">Turn this way, Non-non</title>
+</episode>
+<episode id="28750" update="2007-09-20">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1970-01-04</airdate>
+<title xml:lang="ja">ムーミン谷最後の日</title>
+<title xml:lang="en">Last day of Moomin valley</title>
+</episode>
+<episode id="28751" update="2007-09-20">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1970-01-11</airdate>
+<title xml:lang="ja">帆をあげろ! ムーミン号!</title>
+<title xml:lang="en">Raise the sails!! Ship Moomin</title>
+</episode>
+<episode id="28752" update="2007-09-20">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>1970-05-03</airdate>
+<title xml:lang="ja">ごめんねスティンキー</title>
+<title xml:lang="en">Sorry, Stinky</title>
+</episode>
+<episode id="28753" update="2007-09-20">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>1970-11-29</airdate>
+<title xml:lang="ja">消えた雪うさぎ</title>
+<title xml:lang="en">Snow bunny disappeared</title>
+</episode>
+<episode id="28754" update="2007-09-20">
+<epno type="1">12</epno>
+<length>25</length>
+<title xml:lang="ja">ムーミン谷のクリスマス</title>
+<title xml:lang="en">Christmas in Moomin valley</title>
+</episode>
+<episode id="28755" update="2007-09-20">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>1970-11-01</airdate>
+<title xml:lang="ja">お婆ちゃんのひみつ</title>
+<title xml:lang="en">Big sister`s secret</title>
+</episode>
+<episode id="28756" update="2007-09-20">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>1970-08-16</airdate>
+<title xml:lang="ja">真夏の雪を探せ!</title>
+<title xml:lang="en">Looking for snow in summer</title>
+</episode>
+<episode id="28757" update="2007-09-20">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>1970-11-15</airdate>
+<title xml:lang="ja">手品にはタネがある</title>
+<title xml:lang="en">There`s a trick to magic</title>
+</episode>
+<episode id="28758" update="2007-09-20">
+<epno type="1">11</epno>
+<length>25</length>
+<title xml:lang="ja">消えたコレクション</title>
+<title xml:lang="en">The collection vanishes</title>
+</episode>
+<episode id="28759" update="2007-09-20">
+<epno type="1">10</epno>
+<length>25</length>
+<title xml:lang="ja">不思議なこびと</title>
+<title xml:lang="en">A mysterious dwarf</title>
+</episode>
+<episode id="28760" update="2007-09-20">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>1970-11-22</airdate>
+<title xml:lang="ja">ひとりぼっちの冬</title>
+<title xml:lang="en">Winter all alone</title>
+</episode>
+<episode id="28761" update="2007-09-20">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>1970-12-20</airdate>
+<title xml:lang="ja">影なんか恐くない</title>
+<title xml:lang="en">I`m not afraid of my shadow</title>
+</episode>
+<episode id="28762" update="2007-09-20">
+<epno type="1">6</epno>
+<length>25</length>
+<title xml:lang="ja">かえってきたノンノン</title>
+<title xml:lang="en">Non-non returns</title>
+</episode>
+<episode id="28763" update="2007-09-20">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>1970-06-14</airdate>
+<title xml:lang="ja">小さなみにくいペット</title>
+<title xml:lang="en">Ugly little pet</title>
+</episode>
+<episode id="28764" update="2007-09-20">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>1970-09-20</airdate>
+<title xml:lang="ja">秋はおセンチに</title>
+<title xml:lang="en">Autumn, a time of sentimentality</title>
+</episode>
+<episode id="28765" update="2007-09-20">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1970-01-25</airdate>
+<title xml:lang="ja">ベビーはどこから?</title>
+<title xml:lang="en">Where is baby?</title>
+</episode>
+<episode id="89101" update="2010-06-06">
+<epno type="3">C1</epno>
+<length>1</length>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="118694" update="2010-06-06">
+<epno type="3">C2</epno>
+<length>1</length>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14046" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2018-01-19</startdate>
+<enddate>2018-01-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Morimori Shima no Mogu to Perol</title>
+<title xml:lang="ja" type="official">モリモリ島のモーグとペロル</title>
+</titles>
+<url>http://www.dw-f.jp/mogupero/</url>
+<ratings>
+<permanent count="8">6.67</permanent>
+<temporary count="8">5.75</temporary>
+</ratings>
+<picture>218250.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37145</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.dw-f.jp/mogupero/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="203632" update="2018-07-31">
+<epno type="1">1</epno>
+<length>9</length>
+<airdate>2018-01-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

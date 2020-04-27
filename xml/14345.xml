@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14345" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1977</startdate>
+<enddate>1977</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nobara</title>
+<title xml:lang="ja" type="official">野ばら</title>
+</titles>
+<creators>
+<name id="33724" type="Original Work">Ogawa Mimei</name>
+</creators>
+<description>* A short puppet animation movie based on a story by http://anidb.net/cr33724 [Ogawa Mimei].
+The bloom of wild roses connects an aging soldier from a large country with a youthful soldier from a small country, but the two are soon parted as one of them becomes a casualty of war.
+Source: Doshinsha`s Kamishibai</description>
+<ratings>
+<permanent count="6">2.85</permanent>
+<temporary count="6">3.50</temporary>
+</ratings>
+<picture>223000.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29900</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>943</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205870" update="2018-08-31">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

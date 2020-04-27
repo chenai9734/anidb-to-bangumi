@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12805" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2017-03-11</startdate>
+<enddate>2018-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Buppu na Mainichi</title>
+<title xml:lang="ja" type="official">ぶっぷな毎日</title>
+</titles>
+<url>http://www.ktv.jp/buppu/</url>
+<creators>
+<name id="33855" type="Animation Work">Kachidoki Studio</name>
+<name id="31526" type="Direction">Onaka Takeshi</name>
+</creators>
+<description>The story will focus on a cat who begins living with 10 dogs, and the animals` busy everyday life.
+Source: ANN</description>
+<ratings>
+<permanent count="3">2.26</permanent>
+<temporary count="3">1.00</temporary>
+</ratings>
+<picture>197905.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34891</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ktv.jp/buppu/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ぶっぷな毎日</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4839</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359672</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="87536" type="main character in" update="2017-02-09">
+<name>Yunbo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197971.jpg</picture>
+<seiyuu id="22171" picture="173757.jpg">Iida Riho</seiyuu>
+</character>
+<character id="87537" type="main character in" update="2017-02-09">
+<name>Kenta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197970.jpg</picture>
+<seiyuu id="42932" picture="172064.jpg">Tsukui Ayami</seiyuu>
+</character>
+<character id="87538" type="main character in" update="2017-02-09">
+<name>Dora</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197972.jpg</picture>
+<seiyuu id="617" picture="65451.jpg">Nanjou Yoshino</seiyuu>
+</character>
+<character id="87605" type="secondary cast in" update="2017-02-09">
+<name>Margaret</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197962.jpg</picture>
+</character>
+<character id="87606" type="secondary cast in" update="2017-02-09">
+<name>Charlie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197963.jpg</picture>
+</character>
+<character id="87607" type="secondary cast in" update="2017-02-09">
+<name>Debit</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197964.jpg</picture>
+</character>
+<character id="87608" type="secondary cast in" update="2017-02-09">
+<name>Diana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197965.jpg</picture>
+</character>
+<character id="87609" type="secondary cast in" update="2017-02-09">
+<name>Baby-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197966.jpg</picture>
+</character>
+<character id="87610" type="secondary cast in" update="2017-02-09">
+<name>Boku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197967.jpg</picture>
+</character>
+<character id="87611" type="secondary cast in" update="2017-02-09">
+<name>Junior</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197968.jpg</picture>
+</character>
+<character id="87612" type="secondary cast in" update="2017-02-09">
+<name>Rio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>197969.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="185172" update="2017-03-11">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2017-03-11</airdate>
+<title xml:lang="ja">おひざ争奪戦の巻</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Ohiza Soudatsusen no Maki</title>
+</episode>
+<episode id="185509" update="2017-03-11">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2017-03-18</airdate>
+<title xml:lang="ja">大事な話の巻</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="213492" update="2020-04-17">
+<epno type="1">3</epno>
+<length>1</length>
+<title xml:lang="ja">ご主人様のお仕事の巻</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="213493" update="2020-04-17">
+<epno type="1">4</epno>
+<length>1</length>
+<title xml:lang="ja">変なものの巻</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="213494" update="2020-04-17">
+<epno type="1">5</epno>
+<length>1</length>
+<title xml:lang="ja">チャーリーかく語りきの巻</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="213495" update="2020-04-17">
+<epno type="1">6</epno>
+<length>1</length>
+<title xml:lang="ja">いい匂いの巻</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="213496" update="2020-04-17">
+<epno type="1">7</epno>
+<length>1</length>
+<title xml:lang="ja">優雅な午後の巻</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="213497" update="2020-04-17">
+<epno type="1">8</epno>
+<length>1</length>
+<title xml:lang="ja">嫌がってる? の巻</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="213498" update="2020-04-17">
+<epno type="1">9</epno>
+<length>1</length>
+<title xml:lang="ja">明るいベビちゃん一家の巻</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="213499" update="2020-04-17">
+<epno type="1">10</epno>
+<length>1</length>
+<title xml:lang="ja">屋根の上からの巻</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="213500" update="2020-04-17">
+<epno type="1">11</epno>
+<length>1</length>
+<title xml:lang="ja">ジュニアとゆんぼの巻</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="213501" update="2020-04-17">
+<epno type="1">12</epno>
+<length>1</length>
+<title xml:lang="ja">許す? 許さない? の巻</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="213502" update="2020-04-17">
+<epno type="1">13</epno>
+<length>1</length>
+<title xml:lang="ja">気にしないでの巻</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="213503" update="2020-04-17">
+<epno type="1">14</epno>
+<length>1</length>
+<title xml:lang="ja">ボクに訊けの巻</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="213504" update="2020-04-17">
+<epno type="1">15</epno>
+<length>1</length>
+<title xml:lang="ja">好きなタイプの巻</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="213505" update="2020-04-17">
+<epno type="1">16</epno>
+<length>1</length>
+<title xml:lang="ja">チャーリーかく語りき(2)の巻</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="213506" update="2020-04-17">
+<epno type="1">17</epno>
+<length>1</length>
+<title xml:lang="ja">くるくるくるの巻</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="213507" update="2020-04-17">
+<epno type="1">18</epno>
+<length>1</length>
+<title xml:lang="ja">流しましょうの巻</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="213508" update="2020-04-17">
+<epno type="1">19</epno>
+<length>1</length>
+<title xml:lang="ja">明るいベビちゃん一家(2)の巻</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="213509" update="2020-04-17">
+<epno type="1">20</epno>
+<length>1</length>
+<title xml:lang="ja">屋根の上から(2)の巻</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="213510" update="2020-04-17">
+<epno type="1">21</epno>
+<length>1</length>
+<title xml:lang="ja">リオは寝てばかりの巻</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="213511" update="2020-04-17">
+<epno type="1">22</epno>
+<length>1</length>
+<title xml:lang="ja">犯人は誰だ? の巻</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="213512" update="2020-04-17">
+<epno type="1">23</epno>
+<length>1</length>
+<title xml:lang="ja">ケンタの骨の巻</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="213513" update="2020-04-17">
+<epno type="1">24</epno>
+<length>1</length>
+<title xml:lang="ja">趣味を持ちたいの巻</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="213514" update="2020-04-17">
+<epno type="1">25</epno>
+<length>1</length>
+<title xml:lang="ja">チャーリーかく語りき(3)の巻</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="213515" update="2020-04-17">
+<epno type="1">26</epno>
+<length>1</length>
+<title xml:lang="ja">招かれざる客の巻</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="213516" update="2020-04-17">
+<epno type="1">27</epno>
+<length>1</length>
+<title xml:lang="ja">リオは寝てばかり(2)の巻</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="213517" update="2020-04-17">
+<epno type="1">28</epno>
+<length>1</length>
+<title xml:lang="ja">大きさ対決の巻</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="213518" update="2020-04-17">
+<epno type="1">29</epno>
+<length>1</length>
+<title xml:lang="ja">ボクに訊け(2)の巻</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="213519" update="2020-04-17">
+<epno type="1">30</epno>
+<length>1</length>
+<title xml:lang="ja">将棋ブームの巻</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="213520" update="2020-04-17">
+<epno type="1">31</epno>
+<length>1</length>
+<title xml:lang="ja">よしよしよしよしの巻</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="213521" update="2020-04-17">
+<epno type="1">32</epno>
+<length>1</length>
+<title xml:lang="ja">ごめんなさいが言えなくての巻</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="213522" update="2020-04-17">
+<epno type="1">33</epno>
+<length>1</length>
+<title xml:lang="ja">明るいベビちゃん一家(3)の巻</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="213523" update="2020-04-17">
+<epno type="1">34</epno>
+<length>1</length>
+<title xml:lang="ja">雨の日の巻</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="213524" update="2020-04-17">
+<epno type="1">35</epno>
+<length>1</length>
+<title xml:lang="ja">使い道はいろいろの巻</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="213525" update="2020-04-17">
+<epno type="1">36</epno>
+<length>1</length>
+<title xml:lang="ja">屋根の上から(3)の巻</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="213526" update="2020-04-17">
+<epno type="1">37</epno>
+<length>1</length>
+<title xml:lang="ja">ヒーローになりたいの巻</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="213527" update="2020-04-17">
+<epno type="1">38</epno>
+<length>1</length>
+<title xml:lang="ja">ぐうの音の巻</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="213528" update="2020-04-17">
+<epno type="1">39</epno>
+<length>1</length>
+<title xml:lang="ja">猫のきもちの巻</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="213529" update="2020-04-17">
+<epno type="1">40</epno>
+<length>1</length>
+<title xml:lang="ja">いたずらしちゃおの巻</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="213530" update="2020-04-17">
+<epno type="1">41</epno>
+<length>1</length>
+<title xml:lang="ja">罠の巻</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="213531" update="2020-04-17">
+<epno type="1">42</epno>
+<length>1</length>
+<title xml:lang="ja">ジュニアのエリザベスカラーの巻</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="213532" update="2020-04-17">
+<epno type="1">43</epno>
+<length>1</length>
+<title xml:lang="ja">何があったの? の巻</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="213533" update="2020-04-17">
+<epno type="1">44</epno>
+<length>1</length>
+<title xml:lang="ja">ねこじゃらしの巻</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="213534" update="2020-04-17">
+<epno type="1">45</epno>
+<length>1</length>
+<title xml:lang="ja">分かったからの巻</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="213535" update="2020-04-17">
+<epno type="1">46</epno>
+<length>1</length>
+<title xml:lang="ja">そっぽの巻</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="213536" update="2020-04-17">
+<epno type="1">47</epno>
+<length>1</length>
+<title xml:lang="ja">寝坊した? の巻</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="213537" update="2020-04-17">
+<epno type="1">48</epno>
+<length>1</length>
+<title xml:lang="ja">あの話をしようの巻</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="213538" update="2020-04-17">
+<epno type="1">49</epno>
+<length>1</length>
+<title xml:lang="ja">屋根の上から(4)の巻</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="213539" update="2020-04-17">
+<epno type="1">50</epno>
+<length>1</length>
+<title xml:lang="ja">招かれざらないの巻</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+</episodes>
+</anime>

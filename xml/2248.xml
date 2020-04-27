@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2248" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981-03-20</startdate>
+<enddate>1981-03-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Akuma to Himegimi</title>
+<title xml:lang="en" type="synonym">The Devil and the Princess</title>
+<title xml:lang="ja" type="official">悪魔と姫君</title>
+</titles>
+<url>http://corp.toei-anim.co.jp/english/film/the_devil_and_a_princess.php</url>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="20429" type="Original Work">Yoshida Akimi</name>
+<name id="13912" type="Music">Chikada Haruo</name>
+</creators>
+<description>* Adapted from a fairy tale by http://anidb.net/cr20429 [Yoshida Akimi]. http://anidb.net/cr660 [Takahashi Ryosuke]`s directorial debut.</description>
+<ratings>
+<permanent count="2">2.37</permanent>
+<temporary count="2">2.50</temporary>
+</ratings>
+<picture>22877.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3653</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23779</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3086</identifier>
+<identifier>sndger</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://corp.toei-anim.co.jp/english/film/the_devil_and_a_princess.php</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>悪魔と姫ぎみ#.E3.82.A2.E3.83.8B.E3.83.A1.E6.98.A0.E7.94.BB</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>147548</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="21683" update="2010-03-12">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1981-03-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

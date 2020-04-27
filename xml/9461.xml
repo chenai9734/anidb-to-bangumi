@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9461" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1989-03-18</startdate>
+<enddate>1989-03-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!</title>
+<title xml:lang="ja" type="official">おそ松くん スイカの星からこんにちわザンス!</title>
+</titles>
+<relatedanime>
+<anime id="2702" type="Parent Story">Osomatsu-kun (1988)</anime>
+</relatedanime>
+<url>http://pierrot.jp/archives/mov_list_20th/mov_006.html</url>
+<creators>
+<name id="5136" type="Character Design">Kishi Yoshiyuki</name>
+<name id="977" type="Original Work">Akatsuka Fujio</name>
+<name id="6067" type="Direction">Shigino Akira</name>
+<name id="4326" type="Music">Honma Yuusuke</name>
+</creators>
+<ratings>
+<permanent count="4">5.72</permanent>
+<temporary count="4">5.25</temporary>
+</ratings>
+<picture>126397.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19879</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3122</identifier>
+<identifier>alrsag</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://pierrot.jp/archives/mov_list_20th/mov_006.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おそ松くん#.E5.8A.87.E5.A0.B4.E7.89.88</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150722</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2288</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="37177" type="main character in" update="2015-10-12">
+<rating votes="27">6.20</rating>
+<name>Osomatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63250.png</picture>
+<seiyuu id="5008" picture="28621.jpg">Inoue You</seiyuu>
+</character>
+<character id="37182" type="main character in" update="2015-10-12">
+<rating votes="12">8.42</rating>
+<name>Iyami</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63256.png</picture>
+<seiyuu id="3285" picture="193568.jpg">Kimotsuki Kaneta</seiyuu>
+</character>
+<character id="37183" type="main character in" update="2015-10-12">
+<rating votes="11">7.21</rating>
+<name>Chibita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63253.png</picture>
+<seiyuu id="322" picture="17159.jpg">Tanaka Mayumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="144464" update="2012-10-03">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1989-03-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

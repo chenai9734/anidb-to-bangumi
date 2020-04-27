@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2208" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1968-03-19</startdate>
+<enddate>1968-03-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Andersen Monogatari</title>
+<title xml:lang="en" type="synonym">Andersen Stories</title>
+<title xml:lang="en" type="synonym">Andersen story</title>
+<title xml:lang="fr" type="synonym">Fables de Hans Christian Andersen</title>
+<title xml:lang="ru" type="synonym">Сказки Андерсена</title>
+<title xml:lang="ja" type="official">アンデルセン物語</title>
+<title xml:lang="en" type="official">The World of Hans Christian Andersen</title>
+<title xml:lang="it" type="official">Le Meravigliose Favole Di Andersen</title>
+</titles>
+<relatedanime>
+<anime id="2314" type="Same Setting">Andersen Monogatari (1971)</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_andersen/</url>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="4382" type="Music">Uno Seiichirou</name>
+<name id="5203" type="Character Design">Daikuhara Akira</name>
+</creators>
+<description>* Adaptation of many http://anidb.net/cr6294 [Hans Christian Andersen] stories.
+The film includes Andersen himself as a main character, as he and his friends play roles in numerous classic tales which seem to blend into each other.
+It focuses on two stories The Red Shoes, and The Little Match Girl</description>
+<ratings>
+<permanent count="36">4.76</permanent>
+<temporary count="36">5.79</temporary>
+</ratings>
+<picture>204347.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3531</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5098</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2314</identifier>
+<identifier>mwmhzn</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_andersen/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>The_World_of_Hans_Christian_Andersen</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アンデルセン物語</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>142365</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3450</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m021</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3055" parentid="3876" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>fairy tale</name>
+<description>This anime is either based on or contains parts of fairy tales. Usually those parts are highly modified or twisted when compared with the original source.</description>
+</tag>
+<tag id="3597" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-02-26">
+<name>mythology</name>
+<description>The anime gets inspirations from many forms of mythologies (either Greek, Egyptian, Nord, etc.) to form its story and setting.</description>
+</tag>
+<tag id="3876" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>folklore</name>
+<description>Folklore, or simply Lore, are the traditions of a culture, subculture, or group, in the form of legends, music, proverbs, jokes, popular beliefs, fairy tales, stories, tall tales and customs. In usage, there is a continuum between folklore and mythology.
+Folklore is generally divided into four areas of study: physical artifacts, transmissible entities and stories, culture and technologies, and behaviors and rituals.
+[From Wikipedia]</description>
+</tag>
+</tags>
+<episodes>
+<episode id="21625" update="2009-04-28">
+<epno type="1">1</epno>
+<length>80</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

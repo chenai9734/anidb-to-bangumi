@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11625" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2005</startdate>
+<enddate>2005</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mochibei</title>
+<title xml:lang="en" type="synonym">Fat-Ass</title>
+<title xml:lang="ja" type="official">餅兵衛</title>
+</titles>
+<description>Short movie by Kurosaka Keita.</description>
+<ratings>
+<permanent count="97">1.55</permanent>
+<temporary count="102">3.00</temporary>
+</ratings>
+<picture>177661.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31586</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4499" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2014-07-28">
+<name>some weird shit goin` on</name>
+<description>Scenes of this show point to insanely strange events which seem to be taking place; throughout its episodes, the show may or may not explain what is going on. Either way, many viewers will find that a succinct and accurate way to describe the show is "WTF?", and the show`s explanations (or lack thereof) to the events will often be subject of heated debate.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="172031" update="2015-09-27">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

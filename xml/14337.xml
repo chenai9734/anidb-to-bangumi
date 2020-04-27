@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14337" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1956-06</startdate>
+<enddate>1956-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Go-hiki no Kozaru-tachi</title>
+<title xml:lang="ja" type="official">五匹の子猿たち</title>
+</titles>
+<creators>
+<name id="9587" type="Direction">Mochinaga Tadahito</name>
+<name id="13314" type="Direction">Tanaka Yoshitsugu</name>
+<name id="24781" type="Music">Katou Saburou</name>
+</creators>
+<description>A short puppet animation movie directed by http://anidb.net/cr9587 [Mochinaga Tadahito] and http://anidb.net/cr13314 [Tanaka Yoshitsugu].</description>
+<ratings>
+<permanent count="7">2.77</permanent>
+<temporary count="7">3.57</temporary>
+</ratings>
+<picture>222980.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29918</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>12148</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2857" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="3206" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-06">
+<name>stop motion</name>
+<description>Stop motion (also known as stop-action or frame-by-frame) is an animation technique to make a physically manipulated object appear to move on its own. The object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played as a continuous sequence.</description>
+</tag>
+<tag id="4259" parentid="2857" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>animal world</name>
+<description>All characters of the show are walking-talking animals. Their behaviour and clothing can resemble that of humans. They also may try to mirror human society.
+There are no humans present in this world.
+Not to be confused with http://anidb.net/t3968 [animal protagonist].</description>
+<picurl>10254.jpeg</picurl>
+</tag>
+<tag id="4349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>puppetmation</name>
+<description>A puppet is an inanimate object or representational figure animated or manipulated by a puppeteer. It is usually (but by no means always) a depiction of a human character, and is used in puppetry, a play or a presentation that is a very ancient form of theatre. The puppet undergoes a process of transformation through being animated, and is normally manipulated by at least one puppeteer.
+There are many different varieties of puppets, and they are made of a wide range of materials, depending on their form and intended use. They can be extremely complex or very simple in their construction. They may even be found objects. As Oscar Wilde wrote, "There are many advantages in puppets. They never argue. They have no crude views about art. They have no private lives".</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="205820" update="2018-08-30">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

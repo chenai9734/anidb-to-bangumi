@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14903" restricted="false">
+<type>TV Series</type>
+<episodecount>0</episodecount>
+<startdate>2020-10</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Go-Toubun no Hanayome 2</title>
+<title xml:lang="en" type="synonym">The Quintessential Quintuplets 2</title>
+<title xml:lang="x-jat" type="synonym">Go-Toubun no Hanayome ∬</title>
+<title xml:lang="ja" type="official">五等分の花嫁∬</title>
+</titles>
+<relatedanime>
+<anime id="14247" type="Prequel">Go-Toubun no Hanayome</anime>
+</relatedanime>
+<url>http://www.tbs.co.jp/anime/5hanayome/</url>
+<creators>
+<name id="29512" type="Direction">Kaori</name>
+<name id="55863" type="Original Work">Haruba Negi</name>
+<name id="19347" type="Series Composition">Oochi Keiichirou</name>
+<name id="51361" type="Animation Work">Bibury Animation Studios</name>
+</creators>
+<description>* Based on a comedy romance shounen manga series written and drawn by http://anidb.net/cr55863 [Haruba Negi].</description>
+<picture>244533.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22925</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39783</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tbs.co.jp/anime/5hanayome/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>The_Quintessential_Quintuplets</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>五等分の花嫁</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>368193</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>5Hanayome_anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="98730" type="main character in" update="2019-01-10">
+<rating votes="18">7.86</rating>
+<name>Uesugi Fuutarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228906.jpg</picture>
+<seiyuu id="20249" picture="186289.jpg">Matsuoka Yoshitsugu</seiyuu>
+</character>
+<character id="98731" type="main character in" update="2018-11-11">
+<rating votes="53">7.66</rating>
+<name>Nakano Ichika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226618.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="98732" type="main character in" update="2018-11-11">
+<rating votes="83">5.77</rating>
+<name>Nakano Miku</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226620.jpg</picture>
+<seiyuu id="37283" picture="238137.jpg">Itou Miku</seiyuu>
+</character>
+<character id="98733" type="main character in" update="2018-11-11">
+<rating votes="31">6.36</rating>
+<name>Nakano Nino</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226619.jpg</picture>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+<character id="98734" type="main character in" update="2019-01-10">
+<rating votes="93">7.60</rating>
+<name>Nakano Itsuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228905.jpg</picture>
+<seiyuu id="21013" picture="201781.jpg">Minase Inori</seiyuu>
+</character>
+<character id="98735" type="main character in" update="2018-11-11">
+<rating votes="47">7.13</rating>
+<name>Nakano Yotsuba</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226622.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+</characters>
+</anime>

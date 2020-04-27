@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11801" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2012-08-04</startdate>
+<enddate>2012-08-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yahabe</title>
+<title xml:lang="ja" type="official">ヤハべえ</title>
+</titles>
+<description>Yosuke Kamogawa had nothing to live for, but a mysterious pyramid appears called Yahabe! With the power to turn back time, how will Yosuke`s life change?</description>
+<ratings>
+<permanent count="6">2.05</permanent>
+<temporary count="6">3.00</temporary>
+</ratings>
+<picture>180050.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33744</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2637" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>time travel</name>
+<description>In time travel anime characters are transported through time either figuratively or literally to find themselves either in the past or the future</description>
+<picurl>210068.jpg</picurl>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="5773" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-06-14">
+<name>secret organisation</name>
+<description>A secret organisation or secret society is an organisation whose activities and inner functioning are concealed from non-members. The society may or may not attempt to conceal its existence itself. Examples of historical and existing secret societies include Freemasonry, the Knights Templar, the Rosicrucians, Skull and Bones, the Thule Society, and the Illuminati.</description>
+<picurl>192876.jpg</picurl>
+</tag>
+<tag id="6191" parentid="2881" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-05">
+<name>card games</name>
+<description>A card game is any game using playing cards as the primary device with which the game is played, be they traditional or game-specific. Countless card games exist, including families of related games (such as poker). A small number of card games played with traditional decks have formally standardized rules, but most are folk games whose rules vary by region, culture, and person.
+Many games that are not generally placed in the family of card games do in fact use cards for some aspect of their gameplay. Similarly, some games that are placed in the card game genre involve a board. The distinction is that the gameplay of a card game primarily depends on the use of the cards by players (the board is simply a guide for scorekeeping or for card placement), while board games (the principal non-card game genre to use cards) generally focus on the players` positions on the board, and use the cards for some secondary purpose.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="173882" update="2016-01-10">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2012-08-04</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

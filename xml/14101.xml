@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14101" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2018-05-22</startdate>
+<enddate>2018-05-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kado: Beyond Information</title>
+<title xml:lang="ja" type="synonym">正解するカド KADO:Beyond Information</title>
+<title xml:lang="ja" type="official">KADO:Beyond Information</title>
+</titles>
+<relatedanime>
+<anime id="11762" type="Alternative Setting">Seikai Suru Kado</anime>
+</relatedanime>
+<url>http://seikaisuru-kado.com/</url>
+<ratings>
+<permanent count="24">4.38</permanent>
+<temporary count="24">5.54</temporary>
+</ratings>
+<picture>221511.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37922</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://seikaisuru-kado.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Kado:_The_Right_Answer</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>正解するカド</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>Seikaisuru_Kado</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="200232" update="2018-05-23">
+<epno type="1">1</epno>
+<length>120</length>
+<airdate>2018-05-22</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

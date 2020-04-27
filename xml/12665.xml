@@ -1,0 +1,3930 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12665" restricted="false">
+<type>TV Series</type>
+<episodecount>136</episodecount>
+<startdate>2017-10-03</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Black Clover (2017)</title>
+<title xml:lang="ar" type="synonym">بلاك كلوفر</title>
+<title xml:lang="tr" type="synonym">Kara Yonca</title>
+<title xml:lang="bg" type="synonym">Черна детелина</title>
+<title xml:lang="en" type="short">bctv</title>
+<title xml:lang="ja" type="official">ブラッククローバー (2017)</title>
+<title xml:lang="en" type="official">Black Clover</title>
+<title xml:lang="fr" type="official">Black Clover</title>
+<title xml:lang="ar" type="official">ورقة النفل السوداء</title>
+<title xml:lang="zh-Hant" type="official">黑色五葉草</title>
+<title xml:lang="zh-Hans" type="official">黑色五叶草</title>
+</titles>
+<relatedanime>
+<anime id="12351" type="Other">Black Clover</anime>
+<anime id="15343" type="Other">Mugyutto! Black Clover</anime>
+</relatedanime>
+<similaranime>
+<anime id="6662" approval="9" total="12">Fairy Tail</anime>
+<anime id="69" approval="4" total="11">One Piece</anime>
+<anime id="12414" approval="3" total="14">Berserk (2017)</anime>
+<anime id="239" approval="2" total="9">Naruto</anime>
+</similaranime>
+<recommendations total="2">
+<recommendation type="For Fans" uid="573230">Since everybody says the voice acting is terrible and it ruins the show my recommendation is to try watching the English dub version. The voice acting is fair, personally I`m enjoying the show for what a Battle Shounen is worth.</recommendation>
+<recommendation type="Recommended" uid="755112">If you can get past the horrendous voices in the beginning, it becomes a great watching experience. They quickly overcome the "voice situation" and it isn`t as annoying as before. Story wise it is a typical shonen anime but has its own strengths. If you have any doubts regarding this anime, please give it a try and stay with it for a bit. You probably won`t regret it :)</recommendation>
+</recommendations>
+<url>http://bclover.jp/</url>
+<creators>
+<name id="724" type="Animation Work">Studio Pierrot</name>
+<name id="46835" type="Original Work">Tabata Yuuki</name>
+<name id="6825" type="Character Design">Takeda Itsuko</name>
+<name id="7582" type="Series Composition">Fudeyasu Kazuyuki</name>
+<name id="19251" type="Direction">Yoshihara Tatsuya</name>
+<name id="32762" type="Music">Seki Minako</name>
+<name id="8679" type="Chief Animation Direction">Shibata Shirou</name>
+<name id="6825" type="Chief Animation Direction">Takeda Itsuko</name>
+<name id="43383" type="Chief Animation Direction">Akasaka Shunji</name>
+<name id="26662" type="Chief Animation Direction">Sunagawa Takaya</name>
+</creators>
+<description>* Based on a fantasy shounen manga series written and illustrated by http://anidb.net/cr46835 [Tabata Yuuki].
+http://anidb.net/ch90440 [Asta] and http://anidb.net/ch90441 [Yuno] are orphans who were raised together from birth after being abandoned at a church orphanage on the outskirts of the Clover Kingdom at the same time. In a world where everyone has the natural ability to perform a kind of magic, or a Magical Power (魔力 Maryoku), Asta is the only person born without any, leading him to train physically as compensation. Conversely, Yuno was born as a prodigy with immense magical power and the talent to control it. When they are 15, Asta and Yuno are granted the ability to become wizards known as Magic Knights by receiving grimoires, with which all magical power is channeled. Yuno is granted a wind-based grimoire held by the kingdom`s first Wizard King, while Asta does not receive one. However, when a thief incapacitates Yuno to try and sell his grimoire on the black market, Asta summons his own grimoire, which contains the rare and mysterious Anti-Magic (enabling him to cancel out all magical effects), to defeat him. The story then follows the two boys in their time within separate squads in the Magic Knights, as they build a friendly rivalry to try and become the Wizard King themselves.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="675">3.41</permanent>
+<temporary count="699">5.83</temporary>
+</ratings>
+<picture>224478.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19743</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34572</identifier>
+</externalentity>
+<externalentity>
+<identifier>38768</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/bclover/</url>
+</externalentity>
+<externalentity>
+<url>http://bclover.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Black_Clover</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ブラッククローバー</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4717</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359196</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20612</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>bclover_PR</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07FSFNJV1</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="1244" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-06-01">
+<name>summoning</name>
+<description>Ability to call/materialize some kind of creature.</description>
+</tag>
+<tag id="2094" parentid="2849" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>magic</name>
+<description>Magic is the art of purportedly manipulating aspects of reality either by supernatural means or through knowledge of unknown occult laws.</description>
+<picurl>178878.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2622" parentid="2841" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+<picurl>211286.jpg</picurl>
+</tag>
+<tag id="2625" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2628" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-31">
+<name>fictional location</name>
+<description>A fictional location is a place or world which is run by different set of rules than our common and ordinary world. This may include completely fictional worlds with no semblance of Earth, computer-generated worlds, fantasy worlds, magical worlds, parallel worlds accessible through portals, and so on. Or it may be fictional places like floating islands, dungeons or planets, which can co-exist with ordinary Earth, but are otherwise separate from it.
+A world that generally shares the characteristics of, and/or is generally indistinguishable from the real world (bar research on a "more than cursory" level), would NOT be considered a fictional world. A good example is http://anidb.net/a4521 [Code Geass]. It contains several real world nationalities, such as http://anidb.net/a4521 [China], http://anidb.net/t2672 [Japan] (now Area 11), http://anidb.net/t5091 [India], etc, along with fictional nationalities such as http://anidb.net/t2361 [Britannia]. China, Japan, and India are easily identified with a cursory look. The location is unmistakably the planet Earth, even though national borders have been redrawn.
+The fictional world should only be tagged if it plays a materially important role in the plot and setting; generally, an episodic occurrence of a fictional world should not be tagged.
+A fantasy world is a type of fictional world, part of a fictional universe. Typical worlds involve, but are not limited to: magic or magical abilities, and/or a medieval theme. Some examples include: a parallel world tenuously connected to Earth via magical portals or items; a fictional Earth-like planet in the remote past or future; or an entirely independent world set in another universe. Many fantasy worlds draw heavily on real world history, geography, and sociology, and also on folklore.</description>
+</tag>
+<tag id="2646" parentid="2849" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>demon</name>
+<description>In Western lore, demons are often described as minions from Hell, generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls. In Eastern lore, on the other hand, they are generally supernatural, often but not always malevolent beings who can be more mischievous than actually evil, or simply supernatural spirits of no specific alignment.</description>
+</tag>
+<tag id="2774" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>spellcasting</name>
+<description>The magic version of “call your attacks”. The protagonist will explicitly call out the magical incantation for the spells.</description>
+</tag>
+<tag id="2785" parentid="2858" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>unrequited love</name>
+<description>At least one character has a romantic interest in another one, but the feelings are not returned. 
+This is the cornerstone of all love triangles or love polygons.</description>
+</tag>
+<tag id="2791" parentid="6230" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2011-12-25">
+<name>stereotypes</name>
+<description>This show presents stereotypes, which are generalizations about a group of people. Examples would be saying that people from a certain country or with a certain hair color are stupid. If the show deals with comedy, the stereotypes are likely to be played on for laughs; if the show is a parody, the stereotypes will be exaggerated to have their flaws exposed and may be used as a form of social commentary.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2862" parentid="2607" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>friendship</name>
+<description>The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.</description>
+<picurl>65691.png</picurl>
+</tag>
+<tag id="2874" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-05-07">
+<name>disaster</name>
+<description>A disaster is a large-scale situation that causes great loss of or damage or threat to life, health, property, society, or the environment, irrespective of its source or cause. Disasters have substantial, long-lasting negative repercussions, and great effort must be spent in order to undo or mitigate their effects.</description>
+</tag>
+<tag id="3040" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>male protagonist</name>
+<description>This anime has a male protagonist.</description>
+</tag>
+<tag id="3411" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>fighting</name>
+<description>For some reason or other one faction has to take it out on some opponent via fight or battle. Typical examples of this are all the anime with "endless pointless fighting" tag.</description>
+<picurl>211266.jpg</picurl>
+</tag>
+<tag id="3589" parentid="4251" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-04">
+<name>multiple protagonists - TO BE MOVED TO PARENT OR DELETED</name>
+<description>This tag is to be moved into its parent tag http://anidb.net/t4251 [ensemble cast], or removed entirely. If the tagged entry meets the updated definition of ensemble cast, tag ensemble cast and delete multiple protagonist. If it does not meet the ensemble cast definition, delete this tag and take no further action.</description>
+</tag>
+<tag id="3822" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-15">
+<name>strong male lead</name>
+<description>The lead male protagonist in this anime shows backbone, is competent, and does not shy away from seemingly insurmountable objectives.</description>
+</tag>
+<tag id="3863" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-07-05">
+<name>competition</name>
+<description>Some sort of confrontation occurs in this show. The protagonists "duke it out" via various competitions.</description>
+</tag>
+<tag id="4251" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-20">
+<name>ensemble cast</name>
+<description>A show with an ensemble cast focuses on a larger group of main characters in a single plot narrative; anime containing several segmented plot narratives (such as episodic or arc-based plots) are excluded. As such, it doesn`t really have a "main" or "lead" character; instead, every member of the central main character group plays an important part in the show`s grander scheme; no single character is more important or prominent than the others (equality of importance). Further, subplots (if any) lead by each character in the ensemble have equal weighting in importance (or lack of weight).
+
+* In a show where no single main character is more important or prominent than the others, 4+ main characters is almost always an ensemble cast.
+* A show with 3 main characters of equal importance is likely also an ensemble cast; equality of importance must be considered carefully.
+* A show with 2 main characters of equal importance is generally not an ensemble cast situation; however, on an exception basis where neither main character is considered an antagonist, a 2-main-character anime may be considered an ensemble (e.g. http://anidb.net/a11829 [Kimi no Na wa.]).
+
+Pictured: http://anidb.net/a9043 [K (anime)]</description>
+<picurl>94914.jpg</picurl>
+</tag>
+<tag id="4537" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-15">
+<name>time skip</name>
+<description>The plot features at least one skip or jump in time.
+Example: A skip from the present into the past, or time skips in increments, e.g. every hour there is a time skip by a day.</description>
+</tag>
+<tag id="5821" parentid="5826" weight="0" localspoiler="false" globalspoiler="false" verified="true">
+<name>sibling rivalry</name>
+</tag>
+<tag id="5826" parentid="2607" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-12">
+<name>rivalry</name>
+<description>Quite broadly used term describing a conflict, contest, struggle, or opposition of some sort.
+Typical examples: The mostly comedic rivalry for the love of a protagonist in a harem anime (love polygon), the more "mindless" battles between wannabe delinquents in a school fighting anime, or the struggle between good &amp; evil in an epic conflict for world domination.</description>
+</tag>
+<tag id="5863" parentid="2798" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-06">
+<name>Weekly Shounen Jump</name>
+<description>The Weekly Shounen Jump is a Japanese manga magazine released on a weekly basis. Its main target audience consists of young males and it features several manga titles. The magazine was created by http://anidb.net/cr780 [Shueisha] in July, 1968, and was originally only called Shounen Jump, because it was not published every week at the time. A number of very famous shounen manga were or are published in it, such as http://anidb.net/a386 [Hokuto no Ken], http://anidb.net/a231 [Dragon Ball], http://anidb.net/a942 [City Hunter], http://anidb.net/a826 [Saint Seiya], http://anidb.net/a590 [Slam Dunk], http://anidb.net/a312 [Yuu Yuu Hakushou], http://anidb.net/a69 [One Piece], http://anidb.net/a239 [Naruto], http://anidb.net/a2369 [Bleach], http://anidb.net/a4563 [Death Note], http://anidb.net/a3468 [Gintama], to name a few of the most well-known.</description>
+<picurl>66685.png</picurl>
+</tag>
+<tag id="5889" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-05">
+<name>magic weapons</name>
+<description>The characters in this anime wield magic weapons.</description>
+</tag>
+<tag id="5952" parentid="2874" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2014-08-25">
+<name>end of the world</name>
+<description>The imminent end of the world may range from the total destruction of the planet Earth, to the destruction of Earth`s surface, or to the point where human life on the planet is no longer possible, aka the end of humanity.
+In any case it looks grim, and the protagonists battle to preserve what they can.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="90440" type="main character in" update="2019-02-12">
+<rating votes="30">2.27</rating>
+<name>Asta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206180.jpg</picture>
+<seiyuu id="50490" picture="239207.jpg">Kajiwara Gakuto</seiyuu>
+</character>
+<character id="90441" type="main character in" update="2019-02-12">
+<rating votes="8">6.80</rating>
+<name>Yuno</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206181.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="90573" type="secondary cast in" update="2017-08-15">
+<rating votes="6">8.85</rating>
+<name>Yami Sukehiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206184.jpg</picture>
+<seiyuu id="200" picture="17015.jpg">Suwabe Jun`ichi</seiyuu>
+</character>
+<character id="90826" type="secondary cast in" update="2017-08-15">
+<rating votes="5">3.30</rating>
+<name>Gauche Adlai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206189.jpg</picture>
+<seiyuu id="315" picture="70740.jpg">Hino Satoshi</seiyuu>
+</character>
+<character id="90827" type="secondary cast in" update="2017-08-15">
+<rating votes="4">4.85</rating>
+<name>Gordon Agrippa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206185.jpg</picture>
+<seiyuu id="2488" picture="186147.jpg">Matsuda Ken`ichirou</seiyuu>
+</character>
+<character id="90828" type="secondary cast in" update="2017-09-25">
+<rating votes="8">6.30</rating>
+<name>Charmy Pappitson</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207542.jpg</picture>
+<seiyuu id="27357" picture="75009.jpg">Yasuno Kiyono</seiyuu>
+</character>
+<character id="90829" type="secondary cast in" update="2017-09-25">
+<rating votes="10">6.19</rating>
+<name>Noelle Silva</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207539.jpg</picture>
+<seiyuu id="37986" picture="139351.jpg">Yuuki Kana</seiyuu>
+</character>
+<character id="90830" type="secondary cast in" update="2017-09-25">
+<rating votes="13">7.57</rating>
+<name>Vanessa Enoteca</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207541.jpg</picture>
+<seiyuu id="18" picture="170423.jpg">Mizuki Nana</seiyuu>
+</character>
+<character id="90831" type="secondary cast in" update="2017-08-15">
+<rating votes="5">5.42</rating>
+<name>Finral Roulacase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206183.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="90832" type="secondary cast in" update="2017-08-15">
+<rating votes="4">6.66</rating>
+<name>Magna Swing</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206186.jpg</picture>
+<seiyuu id="29668" picture="239507.jpg">Muro Genki</seiyuu>
+</character>
+<character id="90833" type="secondary cast in" update="2017-09-25">
+<rating votes="4">5.16</rating>
+<name>Luck Voltia</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207540.jpg</picture>
+<seiyuu id="30656" picture="153750.jpg">Murase Ayumu</seiyuu>
+</character>
+<character id="90938" type="secondary cast in" update="2017-08-15">
+<rating votes="2">4.76</rating>
+<name>Grey</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206191.jpg</picture>
+<seiyuu id="46416" picture="233690.jpg">Akasaka Masayuki</seiyuu>
+</character>
+<character id="91076" type="secondary cast in" update="2017-09-25">
+<rating votes="9">7.68</rating>
+<name>Charlotte Roselei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207553.jpg</picture>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+<character id="91077" type="secondary cast in" update="2017-09-25">
+<rating votes="2">1.82</rating>
+<name>Jack the Ripper</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207555.jpg</picture>
+<seiyuu id="265" picture="25730.jpg">Namikawa Daisuke</seiyuu>
+</character>
+<character id="91078" type="secondary cast in" update="2017-09-25">
+<rating votes="2">3.46</rating>
+<name>Nozel Silva</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207549.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="91079" type="secondary cast in" update="2017-09-25">
+<rating votes="5">6.29</rating>
+<name>Fuegoleon Vermilion</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207552.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+<character id="91080" type="secondary cast in" update="2017-09-25">
+<rating votes="4">8.66</rating>
+<name>Julius Novachrono</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207558.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+<character id="91134" type="secondary cast in" update="2017-09-25">
+<rating votes="2">5.03</rating>
+<name>William Vangeance</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207545.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="91135" type="secondary cast in" update="2017-09-25">
+<rating votes="4">3.96</rating>
+<name>Klaus Lunettes</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207547.jpg</picture>
+<seiyuu id="202" picture="25743.jpg">Terashima Takuma</seiyuu>
+</character>
+<character id="91136" type="secondary cast in" update="2017-09-25">
+<rating votes="8">4.57</rating>
+<name>Mimosa Vermillion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207546.jpg</picture>
+<seiyuu id="4616" picture="170439.jpg">Nishi Asuka</seiyuu>
+</character>
+<character id="91251" type="secondary cast in" update="2017-09-25">
+<rating votes="10">5.72</rating>
+<name>Sister Lily</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207560.jpg</picture>
+<seiyuu id="36583" picture="134947.jpg">Kubota Miyu</seiyuu>
+</character>
+<character id="91252" type="secondary cast in" update="2017-09-25">
+<rating votes="3">2.58</rating>
+<name>Sekke Bronzazza</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207556.jpg</picture>
+<seiyuu id="29979" picture="223317.jpg">Oosaka Ryouta</seiyuu>
+</character>
+<character id="91253" type="secondary cast in" update="2017-09-25">
+<rating votes="1">4.70</rating>
+<name>Shinpu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207559.jpg</picture>
+<seiyuu id="46708" picture="190451.jpg">Nakao Kazuki</seiyuu>
+</character>
+<character id="91549" type="secondary cast in" update="2017-09-25">
+<rating votes="3">7.98</rating>
+<name>Nero</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207543.jpg</picture>
+<seiyuu id="45708" picture="246632.jpg">Sasaki Hitomi</seiyuu>
+</character>
+<character id="91550" type="appears in" update="2017-09-25">
+<rating votes="1">10.00</rating>
+<name>Kuro no Bougyuu</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>207544.jpg</picture>
+</character>
+<character id="91551" type="appears in" update="2017-09-25">
+<rating votes="1">10.00</rating>
+<name>Kin`iro no Yoake</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>207548.jpg</picture>
+</character>
+<character id="91552" type="appears in" update="2017-09-25">
+<name>Gin`yoku no Oowashi</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>207551.jpg</picture>
+</character>
+<character id="91553" type="appears in" update="2017-09-25">
+<name>Guren no Shishi Ou</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>207550.jpg</picture>
+</character>
+<character id="91554" type="appears in" update="2017-09-25">
+<name>Ao no Nobara</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>207554.jpg</picture>
+</character>
+<character id="91555" type="appears in" update="2017-09-25">
+<name>Suiryoku no Tourou</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>207557.jpg</picture>
+</character>
+<character id="92050" type="appears in" update="2017-10-31">
+<name>Rill Boismortier</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>209047.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="92051" type="appears in" update="2017-10-31">
+<name>Mizuiro no Genroku</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>209048.jpg</picture>
+</character>
+<character id="92052" type="appears in" update="2017-10-31">
+<rating votes="3">5.19</rating>
+<name>Dorothy Unsworth</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>209049.jpg</picture>
+</character>
+<character id="92053" type="appears in" update="2017-10-31">
+<name>Sango no Kujaku</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>209050.jpg</picture>
+</character>
+<character id="92054" type="appears in" update="2017-10-31">
+<name>Gueldre Poizot</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>209051.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="92055" type="appears in" update="2017-10-31">
+<name>Shion no Shachi</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>209052.jpg</picture>
+</character>
+<character id="93970" type="secondary cast in" update="2018-02-24">
+<rating votes="2">1.39</rating>
+<name>Nebra Silva</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65790.png</picture>
+<seiyuu id="32201" picture="217159.jpg">Aizawa Yurika</seiyuu>
+</character>
+<character id="93971" type="secondary cast in" update="2018-02-25">
+<rating votes="1">1.35</rating>
+<name>Solid Silva</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65791.png</picture>
+<seiyuu id="39121" picture="168788.jpg">Yamamoto Shouma</seiyuu>
+</character>
+<character id="93972" type="secondary cast in" update="2018-02-24">
+<rating votes="4">4.82</rating>
+<name>Leopold Vermillion</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65792.png</picture>
+<seiyuu id="367" picture="17213.jpg">Kenn</seiyuu>
+</character>
+<character id="93973" type="secondary cast in" update="2018-02-25">
+<rating votes="5">6.49</rating>
+<name>Sol Marron</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65793.png</picture>
+</character>
+<character id="93974" type="appears in" update="2018-02-24">
+<name>Hamon Caseus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65794.png</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="93975" type="appears in" update="2018-02-24">
+<name>Siren Tium</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65795.png</picture>
+<seiyuu id="46416" picture="233690.jpg">Akasaka Masayuki</seiyuu>
+</character>
+<character id="93976" type="appears in" update="2018-02-24">
+<name>Alecdora Sandler</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213484.jpg</picture>
+<seiyuu id="45539" picture="239206.jpg">Ookawa Genki</seiyuu>
+</character>
+<character id="93977" type="appears in" update="2018-02-24">
+<rating votes="1">6.09</rating>
+<name>Aruru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213492.jpg</picture>
+<seiyuu id="45708" picture="246632.jpg">Sasaki Hitomi</seiyuu>
+</character>
+<character id="93978" type="appears in" update="2018-02-24">
+<name>Nash</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213490.jpg</picture>
+<seiyuu id="39006" picture="148260.jpg">Satou Hana</seiyuu>
+</character>
+<character id="93979" type="appears in" update="2018-02-24">
+<name>Horo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213493.jpg</picture>
+<seiyuu id="46938" picture="223461.jpg">Mano Ayumi</seiyuu>
+</character>
+<character id="93980" type="appears in" update="2018-02-24">
+<name>Rekka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213489.jpg</picture>
+<seiyuu id="53913" picture="213494.jpg">Kageyama Risa</seiyuu>
+</character>
+<character id="93981" type="appears in" update="2018-02-24">
+<rating votes="1">2.42</rating>
+<name>Lebuchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213491.jpg</picture>
+<seiyuu id="11275" picture="65394.jpg">Suzuki Yuuto</seiyuu>
+</character>
+<character id="93982" type="appears in" update="2018-02-24">
+<rating votes="1">2.42</rating>
+<name>Madousho Tou no Tou Nushi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213487.jpg</picture>
+<seiyuu id="40318" picture="223674.jpg">Miyamoto Takayuki</seiyuu>
+</character>
+<character id="93983" type="appears in" update="2018-02-25">
+<rating votes="3">6.59</rating>
+<name>Sylph</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213589.jpg</picture>
+<seiyuu id="1614" picture="148394.jpg">Uchida Aya</seiyuu>
+</character>
+<character id="93984" type="appears in" update="2018-02-25">
+<name>Heath Grice</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213575.jpg</picture>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+<character id="93985" type="appears in" update="2018-02-25">
+<rating votes="2">3.46</rating>
+<name>Mars</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213584.jpg</picture>
+<seiyuu id="39792" picture="176251.jpg">Umehara Yuuichirou</seiyuu>
+</character>
+<character id="93986" type="appears in" update="2018-02-25">
+<rating votes="1">7.68</rating>
+<name>Lotus Whomalt</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213583.jpg</picture>
+<seiyuu id="2037" picture="244859.jpg">Horiuchi Ken`yuu</seiyuu>
+</character>
+<character id="93987" type="appears in" update="2018-02-25">
+<rating votes="1">7.58</rating>
+<name>Asta (Youshouki)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213516.jpg</picture>
+<seiyuu id="32614" picture="87675.jpg">Fujita Nao</seiyuu>
+</character>
+<character id="93988" type="appears in" update="2018-02-24">
+<rating votes="1">7.58</rating>
+<name>Yuno (6-sai)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213517.jpg</picture>
+<seiyuu id="53924" picture="213518.jpg">Sekine Arisa</seiyuu>
+</character>
+<character id="93989" type="appears in" update="2018-02-25">
+<rating votes="2">8.20</rating>
+<name>Rebecca Scarlett</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213580.jpg</picture>
+<seiyuu id="29400" picture="157186.jpg">Yamaguchi Rikako</seiyuu>
+</character>
+<character id="93990" type="appears in" update="2018-02-25">
+<rating votes="1">4.70</rating>
+<name>Rouba</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213578.jpg</picture>
+</character>
+<character id="93991" type="appears in" update="2018-02-25">
+<name>Salim de Hapshass</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213573.jpg</picture>
+<seiyuu id="22360" picture="223532.jpg">Shimozuma Yoshiyuki</seiyuu>
+</character>
+<character id="94032" type="appears in" update="2018-02-25">
+<name>Seihi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213577.jpg</picture>
+<seiyuu id="38264" picture="140212.jpg">Sano Yasuyuki</seiyuu>
+</character>
+<character id="94033" type="appears in" update="2018-02-25">
+<name>Nick</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213576.jpg</picture>
+<seiyuu id="36584" picture="186849.jpg">Shibuya Azuki</seiyuu>
+</character>
+<character id="94034" type="appears in" update="2018-02-25">
+<name>Hittakuri-han</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213579.jpg</picture>
+<seiyuu id="52140" picture="208224.jpg">Miyamoto Jun</seiyuu>
+</character>
+<character id="94035" type="appears in" update="2018-02-25">
+<name>Marx Francois</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213582.jpg</picture>
+<seiyuu id="36495" picture="176250.jpg">Yamaya Yoshitaka</seiyuu>
+</character>
+<character id="94036" type="appears in" update="2018-02-25">
+<rating votes="1">7.68</rating>
+<name>Fana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>213585.jpg</picture>
+<seiyuu id="36368" picture="224755.jpg">Mao</seiyuu>
+</character>
+<character id="94037" type="appears in" update="2018-02-25">
+<name>Diamond Oukoku</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>213586.jpg</picture>
+</character>
+<character id="94038" type="appears in" update="2018-02-25">
+<name>Byakuya no Magan</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>213587.jpg</picture>
+</character>
+<character id="94039" type="appears in" update="2018-02-25">
+<name>Clover Oukoku</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>213588.jpg</picture>
+</character>
+<character id="94239" type="appears in" update="2018-03-03">
+<name>Rades</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214071.jpg</picture>
+<seiyuu id="46416" picture="233690.jpg">Akasaka Masayuki</seiyuu>
+</character>
+<character id="94240" type="appears in" update="2018-03-03">
+<name>Valtos</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214072.jpg</picture>
+<seiyuu id="39583" picture="186257.jpg">Hamano Daiki</seiyuu>
+</character>
+<character id="94667" type="appears in" update="2018-03-20">
+<rating votes="1">7.68</rating>
+<name>Catherine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65861.png</picture>
+<seiyuu id="54243" picture="215168.jpg">Jitsukawa Kimiko</seiyuu>
+</character>
+<character id="94879" type="appears in" update="2018-04-29">
+<rating votes="2">2.46</rating>
+<name>Sally</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>216943.jpg</picture>
+<seiyuu id="21823" picture="131326.jpg">Tsuda Minami</seiyuu>
+</character>
+<character id="95371" type="appears in" update="2018-05-04">
+<name>Neige</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66011.png</picture>
+<seiyuu id="40642" picture="62085.png">Amasaki Kouhei</seiyuu>
+</character>
+<character id="95372" type="appears in" update="2018-11-16">
+<rating votes="1">4.70</rating>
+<name>Theresa Rapual</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226791.jpg</picture>
+<seiyuu id="693" picture="226546.jpg">Igarashi Rei</seiyuu>
+</character>
+<character id="95598" type="appears in" update="2018-05-17">
+<rating votes="1">1.05</rating>
+<name>Baro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66032.png</picture>
+<seiyuu id="29668" picture="239507.jpg">Muro Genki</seiyuu>
+</character>
+<character id="95686" type="appears in" update="2018-05-23">
+<rating votes="1">4.70</rating>
+<name>Marie Adlai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66050.png</picture>
+<seiyuu id="45708" picture="246632.jpg">Sasaki Hitomi</seiyuu>
+</character>
+<character id="96089" type="appears in" update="2018-06-12">
+<rating votes="2">3.46</rating>
+<name>Vetto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66199.png</picture>
+<seiyuu id="3396" picture="24705.jpg">Takatsuka Masaya</seiyuu>
+</character>
+<character id="96090" type="appears in" update="2018-06-12">
+<rating votes="1">7.68</rating>
+<name>Rhya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66200.png</picture>
+</character>
+<character id="96672" type="appears in" update="2018-07-29">
+<rating votes="2">6.21</rating>
+<name>Kahono</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220965.jpg</picture>
+<seiyuu id="27977" picture="76416.jpg">Han Megumi</seiyuu>
+</character>
+<character id="96859" type="appears in" update="2018-07-29">
+<rating votes="1">2.42</rating>
+<name>Kiato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220966.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="96860" type="appears in" update="2018-07-29">
+<rating votes="1">1.35</rating>
+<name>Jifuso</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220967.jpg</picture>
+<seiyuu id="694" picture="52187.jpg">Choo</seiyuu>
+</character>
+<character id="100518" type="secondary cast in" update="2019-01-24">
+<rating votes="2">5.02</rating>
+<name>Grey</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67085.png</picture>
+<seiyuu id="33633" picture="151771.jpg">Takahashi Minami</seiyuu>
+</character>
+<character id="100519" type="secondary cast in" update="2019-01-24">
+<rating votes="1">1.20</rating>
+<name>Langris Vaude</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67086.png</picture>
+<seiyuu id="34296" picture="225238.jpg">Ishikawa Kaito</seiyuu>
+</character>
+<character id="101230" type="appears in" update="2019-03-04">
+<rating votes="2">6.76</rating>
+<name>Mereoleona Vermillion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67247.png</picture>
+<seiyuu id="570" picture="151691.jpg">Minagawa Junko</seiyuu>
+</character>
+<character id="101241" type="appears in" update="2019-03-04">
+<rating votes="1">8.64</rating>
+<name>Zora Ideale</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230918.jpg</picture>
+<seiyuu id="353" picture="17192.jpg">Midorikawa Hikaru</seiyuu>
+</character>
+<character id="101242" type="appears in" update="2019-03-04">
+<name>Kirsch Vermillion</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230919.jpg</picture>
+<seiyuu id="265" picture="25730.jpg">Namikawa Daisuke</seiyuu>
+</character>
+<character id="101243" type="appears in" update="2019-03-04">
+<rating votes="1">8.64</rating>
+<name>Majo Ou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230920.jpg</picture>
+<seiyuu id="19415" picture="50423.jpg">Gi Ryouko</seiyuu>
+</character>
+<character id="101244" type="appears in" update="2019-03-04">
+<name>Ladros</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230921.jpg</picture>
+<seiyuu id="198" picture="202893.jpg">Kusao Takeshi</seiyuu>
+</character>
+<character id="105392" type="secondary cast in" update="2019-09-15">
+<rating votes="1">2.58</rating>
+<name>Fanzell Kruger</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67911.png</picture>
+<seiyuu id="17631" picture="172640.jpg">Mikami Satoshi</seiyuu>
+</character>
+<character id="105393" type="appears in" update="2019-09-15">
+<name>Dominante Code</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67912.png</picture>
+<seiyuu id="23517" picture="77564.jpg">Tomioka Misako</seiyuu>
+</character>
+<character id="105394" type="appears in" update="2019-09-15">
+<name>Mariella</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67913.png</picture>
+<seiyuu id="38108" picture="172027.jpg">Senbongi Sayaka</seiyuu>
+</character>
+<character id="108190" type="secondary cast in" update="2020-02-01">
+<rating votes="2">7.04</rating>
+<name>Secre Swallowtail</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>244152.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="108266" type="appears in" update="2020-02-03">
+<name>Helene Barbary</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>244255.jpg</picture>
+<seiyuu id="43430" picture="243752.jpg">Koga Aoi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="190904" update="2017-10-25">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-10-24</airdate>
+<rating votes="7">5.89</rating>
+<title xml:lang="ja">魔法騎士団入団試験</title>
+<title xml:lang="en">The Magic Knights Entrance Exam</title>
+<title xml:lang="fr">Le test de recrutement</title>
+<title xml:lang="x-jat">Mahou Kishidan Nyuudan Shiken</title>
+<summary>Asta and Yuno head toward the colosseum in the royal capital for the Magic Knights Entrance Exam, while looking around and admiring all the things they’ve never seen before.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748939</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190905" update="2017-10-17">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-10-17</airdate>
+<rating votes="8">2.84</rating>
+<title xml:lang="ja">クローバー王国, 王都へ!</title>
+<title xml:lang="en">To the Royal Capital of the Clover Kingdom!</title>
+<title xml:lang="fr">En route pour la capitale !</title>
+<title xml:lang="x-jat">Clover Oukoku, Outo e!</title>
+<summary>Asta and Yuno spend six months training for the upcoming Magic Knights Entrance Exam. Everyone seems to think Yuno is sure to pass, but worries that Asta is just wasting his time.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748937</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190906" update="2017-10-15">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-10-10</airdate>
+<rating votes="11">2.86</rating>
+<title xml:lang="ja">少年の誓い</title>
+<title xml:lang="en">The Boys` Promise</title>
+<title xml:lang="fr">Le Serment</title>
+<title xml:lang="x-jat">Shounen no Chikai</title>
+<summary>The grimoire that Yuno received was a legendary grimoire with a four-leaf clover. A bandit named Revchi comes to steal it, and Asta comes to Yuno`s rescue.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748935</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190907" update="2017-09-18">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-10-03</airdate>
+<rating votes="11">3.92</rating>
+<title xml:lang="ja">アスタとユノ</title>
+<title xml:lang="en">Asta and Yuno</title>
+<title xml:lang="fr">Asta et Yuno</title>
+<title xml:lang="x-jat">Asta to Yuno</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748933</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191599" update="2019-12-09">
+<epno type="3">C21</epno>
+<length>2</length>
+<airdate>2017-10-10</airdate>
+<title xml:lang="en">Ending 1a</title>
+</episode>
+<episode id="191600" update="2019-12-09">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-10-10</airdate>
+<title xml:lang="en">Opening 1a</title>
+</episode>
+<episode id="191858" update="2017-11-27">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-11-21</airdate>
+<rating votes="5">3.73</rating>
+<title xml:lang="ja">ゴーゴー初任務</title>
+<title xml:lang="en">Go! Go! First Mission</title>
+<title xml:lang="fr">Première mission</title>
+<title xml:lang="x-jat">Go Go Hatsu Ninmu</title>
+<summary>The Magic Knights: heroes that everyone in the kingdom looks up to and dreams of becoming one day. But the new recruit, Asta, has yet to do anything that seems like what a Magic Knight should be doing, as he’s stuck doing random chores.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748947</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191859" update="2017-11-14">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-11-14</airdate>
+<rating votes="5">7.06</rating>
+<title xml:lang="ja">もう一人の新人団員</title>
+<title xml:lang="en">The Other New Recruit</title>
+<title xml:lang="fr">La seconde recrue</title>
+<title xml:lang="x-jat">Mou Hitori no Shinjin Danin</title>
+<summary>As a new member of the Black Bulls, Asta is thrilled to receive his very first private room, even though it`s tiny. Everything Asta sees as Magna shows him around the squad`s base is new and exciting to him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748945</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191860" update="2017-11-07">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-11-07</airdate>
+<rating votes="5">6.39</rating>
+<title xml:lang="ja">黒の暴牛</title>
+<title xml:lang="en">The Black Bulls</title>
+<title xml:lang="fr">Le Taureau noir</title>
+<title xml:lang="x-jat">Kuro no Bougyuu</title>
+<summary>Asta has arrived at the home of the Black Bulls, which Yami himself called the absolute worst Magic Knights Squad. He is greeted by the squad`s unique members.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748943</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191861" update="2017-10-31">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-10-31</airdate>
+<rating votes="5">7.57</rating>
+<title xml:lang="ja">魔法帝への道</title>
+<title xml:lang="en">The Path to the Wizard King</title>
+<title xml:lang="fr">Premier pas</title>
+<title xml:lang="x-jat">Mahou Tei e no Michi</title>
+<summary>The entrance exam finally comes to a close. The time has arrives for the captains to decide which candidates they want to join their squads.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748941</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192855" update="2017-12-19">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-12-19</airdate>
+<rating votes="3">4.58</rating>
+<title xml:lang="ja">魔法帝は見た</title>
+<title xml:lang="en">The Wizard King Saw</title>
+<title xml:lang="fr">Rencontre avec l`Empereur</title>
+<title xml:lang="x-jat">Mahou Tei wa Mita</title>
+<summary>As they were visiting the Black Market, Asta and the others see an old woman get robbed, and Asta goes after the thief.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748955</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192856" update="2019-08-08">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-12-12</airdate>
+<rating votes="4">3.82</rating>
+<title xml:lang="ja">とある日の城下町での出来事</title>
+<title xml:lang="en">What Happened on a Certain Day in the Castle Town</title>
+<title xml:lang="fr">Visite à la basse-ville</title>
+<title xml:lang="x-jat">Toaru Hi no Joukamachi de no Dekigoto</title>
+<summary>After Asta, Magna, and Noelle saved the villagers of Saussy Village, the Wizard King gives the Black Bulls a star of honor. Asta and Noelle also receive their first pay as Magic Knights, and Asta is filled with happiness.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748953</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192857" update="2019-08-08">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-12-05</airdate>
+<rating votes="5">6.06</rating>
+<title xml:lang="ja">護る者</title>
+<title xml:lang="en">Those Who Protect</title>
+<title xml:lang="fr">Le défenseur</title>
+<title xml:lang="x-jat">Mamoru Mono</title>
+<summary>Asta, Noelle, and Magna are doing their best to protect the villagers of Rayaka from the ice magic user Heath and his underlings, but Asta’s attacks don’t seem to be working, and Magna’s magical powers are running low.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748951</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192858" update="2017-11-28">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-11-28</airdate>
+<rating votes="5">6.51</rating>
+<title xml:lang="ja">獣</title>
+<title xml:lang="en">Beasts</title>
+<title xml:lang="fr">La bête</title>
+<title xml:lang="x-jat">Kemono</title>
+<summary>On Yami’s orders, Asta and Noelle go on their first mission with Magna to hunt wild boars. They successfully complete the mission and go to Saussy Village to meet with the mayor, Seyhe.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748949</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193622" update="2017-12-26">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2017-12-26</airdate>
+<rating votes="4">4.36</rating>
+<title xml:lang="ja">続・魔法帝は見た</title>
+<title xml:lang="en">The Wizard King Saw, Continued</title>
+<title xml:lang="fr">Rencontre avec l`Empereur – suite</title>
+<title xml:lang="x-jat">Zoku: Mahou Tei wa Mita</title>
+<summary>While on an escort mission, Yuno, Klaus and Mimosa are attacked by a mysterious group of men. Klaus senses that they’re in danger and wants to escort Salim as quickly as possible, but Salim insists on visiting Yuno’s hometown, Hage Village.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748957</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194233" update="2018-01-24">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-01-23</airdate>
+<rating votes="4">4.27</rating>
+<title xml:lang="ja">仲間</title>
+<title xml:lang="en">Friends</title>
+<title xml:lang="fr">Solidarité</title>
+<title xml:lang="x-jat">Nakama</title>
+<summary>Yuno, Mimosa, and Klaus get close to the treasure chamber in the dungeon. However, a mage from the Diamond Kingdom named Mars gets in their way.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758895</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194234" update="2018-01-17">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-01-16</airdate>
+<rating votes="4">6.21</rating>
+<title xml:lang="ja">ダイヤモンドの魔導戦士</title>
+<title xml:lang="en">The Diamond Mage</title>
+<title xml:lang="fr">Le mage de Diamond</title>
+<title xml:lang="x-jat">Diamond no Madou Senshi</title>
+<summary>Yuno, Klaus, and Mimosa from the Golden Dawn appear in front of Asta and Noelle, apparently sent on the same mission. Klaus mocks the Black Bulls for their awful reputation and gets in an argument with Asta.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758893</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194235" update="2018-01-09">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-01-09</airdate>
+<rating votes="5">3.71</rating>
+<title xml:lang="ja">魔宮[ダンジョン]</title>
+<title xml:lang="en">Dungeon</title>
+<title xml:lang="fr">Le donjon</title>
+<title xml:lang="x-jat">Dungeon</title>
+<summary>A dungeon appeared near the border of the Clover Kingdom and the Diamond Kingdom. The dungeon is like an ancient ruin. It may contain important treasures, but they`re guarded by various magical traps.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758891</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195194" update="2018-02-20">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-02-20</airdate>
+<rating votes="4">6.87</rating>
+<title xml:lang="ja">王都集結</title>
+<title xml:lang="en">Assembly at the Royal Capital</title>
+<title xml:lang="fr">Rassemblement à la cité royale</title>
+<title xml:lang="x-jat">Outo Shuuketsu</title>
+<summary>Asta and Noelle head to the Magic Knights Headquarters in the Noble Realm to report on their mission to capture the dungeon. On their way, they run into Yuno, Klaus, and Mimosa, and they all head to the headquarters together.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758903</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195195" update="2018-02-13">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-02-13</airdate>
+<rating votes="4">8.17</rating>
+<title xml:lang="ja">崩壊と救済</title>
+<title xml:lang="en">Destruction and Salvation</title>
+<title xml:lang="fr">Effondrement et sauvetage</title>
+<title xml:lang="x-jat">Houkai to Kyuusai</title>
+<summary>Asta is gravely injured in the battle against Mars and collapses. Despite his own injuries, something drives Mars onward, and he tries to finish off Asta.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758901</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195196" update="2018-02-06">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-02-06</airdate>
+<rating votes="4">6.77</rating>
+<title xml:lang="ja">追憶の君</title>
+<title xml:lang="en">Memories of You</title>
+<title xml:lang="fr">Réminiscences</title>
+<title xml:lang="x-jat">Tsuioku no Kimi</title>
+<summary>Asta, Yuno and the others finally get to the treasure chamber, and they’re in awe at the mountain of treasure in front of them. Yuno finds a strange scroll with strange writing, and then his grimoire does something strange...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758899</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195197" update="2018-01-31">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-01-30</airdate>
+<rating votes="4">4.85</rating>
+<title xml:lang="ja">破壊者</title>
+<title xml:lang="en">Destroyer</title>
+<title xml:lang="fr">Le destructeur</title>
+<title xml:lang="x-jat">Hakaisha</title>
+<summary>In order to go to the treasure chamber together with his friends, Yuno confronts Mars alongside Klaus, so that the injured Mimosa can heal herself. But they have a hard time harming Mars at all.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758897</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196081" update="2018-03-20">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-03-20</airdate>
+<rating votes="4">7.32</rating>
+<title xml:lang="ja">ブラックアウト</title>
+<title xml:lang="en">Blackout</title>
+<title xml:lang="fr">Blackout</title>
+<title xml:lang="x-jat">Blackout</title>
+<summary>While the masses were praising the Magic Knights for saving them, most of the Magic Knights present are swallowed up by a spatial magic spell known as Blackout.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758911</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196082" update="2018-03-13">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-03-13</airdate>
+<rating votes="4">5.03</rating>
+<title xml:lang="ja">紅蓮の獅子王</title>
+<title xml:lang="en">The Crimson Lion King</title>
+<title xml:lang="fr">Le Lion flamboyant</title>
+<title xml:lang="x-jat">Guren no Shishi Ou</title>
+<summary>Thanks to Noelle’s help, Asta is now able to concentrate on the battle. However, because of the attack he took earlier, Asta continues to lose stamina and isn’t able to move as well as he’d like.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758909</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196083" update="2018-03-06">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-03-06</airdate>
+<rating votes="4">7.09</rating>
+<title xml:lang="ja">魔法乱舞</title>
+<title xml:lang="en">Wild Magic Dance</title>
+<title xml:lang="fr">Des sorts à la pelle</title>
+<title xml:lang="x-jat">Mahou Ranbu</title>
+<summary>After hearing about the attack on the capital, Asta rushed out, and the rest of the Magic Knights quickly followed. They found that corpses being controlled by Rades’s wraith magic were attacking the citizens.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758907</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196084" update="2018-02-28">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-02-27</airdate>
+<rating votes="4">7.72</rating>
+<title xml:lang="ja">王都騒乱</title>
+<title xml:lang="en">Capital Riot</title>
+<title xml:lang="fr">La cité royale s`embrase</title>
+<title xml:lang="x-jat">Outo Souran</title>
+<summary>Asta defends Noelle from her siblings at the decoration ceremony, and the other nobles try to put him in his place. Meanwhile, Leopold and Fuegoleon seem to have taken a liking to Asta, which causes an argument between Fuegoleon and Nozel.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758905</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196634" update="2019-12-09">
+<epno type="3">C23</epno>
+<length>2</length>
+<airdate>2018-01-09</airdate>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="196635" update="2019-12-09">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2018-01-09</airdate>
+<title xml:lang="en">Opening 2a</title>
+</episode>
+<episode id="196940" update="2018-04-03">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2018-04-03</airdate>
+<rating votes="5">7.95</rating>
+<title xml:lang="ja">手負いの獣</title>
+<title xml:lang="en">Wounded Beasts</title>
+<title xml:lang="fr">Comme un animal blessé</title>
+<title xml:lang="x-jat">Teoi no Kemono</title>
+<summary>More enemies appear before Asta and the others. Despite being badly wounded, Asta and Leopold haven’t lost their fighting spirit, and they charge at the new enemies. The enemies realize how dangerous they are and try to kill them immediately.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758915</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196941" update="2018-03-27">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2018-03-27</airdate>
+<rating votes="4">6.72</rating>
+<title xml:lang="ja">逆境</title>
+<title xml:lang="en">Adversity</title>
+<title xml:lang="fr">Dans l`adversité</title>
+<title xml:lang="x-jat">Gyakkyou</title>
+<summary>Captain Fuegoleon is swallowed up by spatial magic right in front of Asta and the others. Noelle realizes that the spellcaster must be nearby, since the spell pinpointed Fuegoleon. Asta finds the spellcaster, but something unbelievable happens next.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758913</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197513" update="2018-04-17">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2018-04-17</airdate>
+<rating votes="4">7.14</rating>
+<title xml:lang="ja">心に決めた人</title>
+<title xml:lang="en">The One I`ve Set My Heart On</title>
+<title xml:lang="fr">L`élu de mon cœur</title>
+<title xml:lang="x-jat">Kokoro ni Kimeta Hito</title>
+<summary>Finral invites Asta and Luck to go to a mixer with him. Noelle hears about this and ends up following them because she’s concerned about Asta. To deepen her cover, she even gets a job at the pub they go to.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768405</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197514" update="2018-04-10">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2018-04-10</airdate>
+<rating votes="4">5.03</rating>
+<title xml:lang="ja">光</title>
+<title xml:lang="en">Light</title>
+<title xml:lang="fr">Lumière</title>
+<title xml:lang="x-jat">Hikari</title>
+<summary>The one who saved Asta from the group calling themselves the Eye of the Midnight Sun was the Wizard King, Julius, who was waiting for them at their base. Asta and the members of the Eye of the Midnight Sun are in awe of Julius’s power.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768403</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197886" update="2018-05-15">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2018-05-15</airdate>
+<rating votes="3">4.75</rating>
+<title xml:lang="ja">三つ葉の芽</title>
+<title xml:lang="en">Three-Leaf Sprouts</title>
+<title xml:lang="fr">Pousses de trèfle</title>
+<title xml:lang="x-jat">Mitsuba no Me</title>
+<summary>Asta and the others arrive at the dungeon where the children were being held. Seeing that Marie was hurt by the enemy, Gauche loses his mind. Asta is enraged at the fact that the children had their magic stolen, and he and Gauche go after Baro and Neige.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768413</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197887" update="2018-05-08">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2018-05-08</airdate>
+<rating votes="3">6.81</rating>
+<title xml:lang="ja">雪上の追跡</title>
+<title xml:lang="en">Pursuit over the Snow</title>
+<title xml:lang="fr">Poursuite sous la neige</title>
+<title xml:lang="x-jat">Setsujou no Tsuiseki</title>
+<summary>Asta, Gauche, and Theresa go to find the abducted children. Gauche is able to track the faint trace of mana from the magic mirror that Marie always carries with her. On their way there, Asta spots Marco in the snow and goes to him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768411</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197888" update="2018-05-01">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2018-05-01</airdate>
+<rating votes="4">6.01</rating>
+<title xml:lang="ja">鏡の魔道士</title>
+<title xml:lang="en">The Mirror Mage</title>
+<title xml:lang="fr">Magie de miroirs</title>
+<title xml:lang="x-jat">Kagami no Madoushi</title>
+<summary>The Black Bulls get a day off after getting paid, and Gauche goes to visit his beloved little sister Marie. To his surprise, he finds Asta already there and playing with her.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768409</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197889" recap="true" update="2018-04-24">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2018-04-24</airdate>
+<rating votes="4">1.50</rating>
+<title xml:lang="ja">道</title>
+<title xml:lang="en">Path</title>
+<title xml:lang="fr">La voie</title>
+<title xml:lang="x-jat">Michi</title>
+<summary>Months have passed since Asta and Yuno became Magic Knights and took their first steps toward becoming the Wizard King. Father and Sister Lily couldn’t be happier about all of their hard work.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768407</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="198837" update="2018-06-12">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2018-06-12</airdate>
+<rating votes="4">7.89</rating>
+<title xml:lang="ja">三つの眼</title>
+<title xml:lang="en">Three Eyes</title>
+<title xml:lang="fr">Le troisième œil</title>
+<title xml:lang="x-jat">Mittsu no Me</title>
+<summary>With the help of Gauche, Yami and Asta are able to defeat Licht. However, their victory is short-lived, as the three who call themselves the Third Eye appear and come to Licht’s aid.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768421</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="198838" update="2018-06-05">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2018-06-05</airdate>
+<rating votes="3">8.96</rating>
+<title xml:lang="ja">裁きの光</title>
+<title xml:lang="en">The Light of Judgment</title>
+<title xml:lang="fr">Lumière punitive</title>
+<title xml:lang="x-jat">Sabaki no Hikari</title>
+<summary>Yami and Licht continue their battle and Asta faces off with Valtos. Meanwhile, Finral manages to get all of the kids and Theresa back to the town and Theresa gets treated for her injuries.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768419</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="198839" update="2018-05-30">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2018-05-29</airdate>
+<rating votes="3">7.19</rating>
+<title xml:lang="ja">光魔法VS闇魔法</title>
+<title xml:lang="en">Light Magic vs. Dark Magic</title>
+<title xml:lang="fr">Magie de lumière vs magie de ténèbres</title>
+<title xml:lang="x-jat">Hikari Mahou VS Yami Mahou</title>
+<summary>After defeating Sally and Baro, Asta and Gauche suddenly end up having to face Licht, the leader of the Eye of the Midnight Sun. Licht`s attacks are too fast for Asta to see, and he gets injured.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768417</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="198840" update="2018-05-22">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2018-05-22</airdate>
+<rating votes="3">4.75</rating>
+<title xml:lang="ja">いつか誰かの為になる</title>
+<title xml:lang="en">To Help Somebody Someday</title>
+<title xml:lang="fr">Un jour, aider quelqu`un</title>
+<title xml:lang="x-jat">Itsuka Dareka no Tame ni Naru</title>
+<summary>Sally’s gel magic is extremely incompatible with Gauche’s mirror magic. She uses her dark magic item and turns Baro into a giant mud monster, which makes Gauche take Marie and flee.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768415</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="200817" update="2018-07-11">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2018-07-10</airdate>
+<rating votes="5">5.68</rating>
+<title xml:lang="ja">黒の海岸物語</title>
+<title xml:lang="en">A Black Beach Story</title>
+<title xml:lang="fr">Le Taureau Noir à la plage</title>
+<title xml:lang="x-jat">Kuro no Kaigan Monogatari</title>
+<summary>Entrusted with a mission by the Wizard King, Asta and the other Black Bulls head to Raquey, a place that’s surrounded by strong mana. With Captain Yami gone off somewhere, the other members decide to play around on the beach in their swimsuits.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774901</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="200818" update="2018-07-04">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2018-07-03</airdate>
+<rating votes="4">6.21</rating>
+<title xml:lang="ja">三つ葉の敬礼</title>
+<title xml:lang="en">Three-Leaf Salute</title>
+<title xml:lang="fr">Le salut des trois feuilles</title>
+<title xml:lang="x-jat">Mitsuba no Keirei</title>
+<summary>Thanks to Asta, Julius and Marx were able to undo the protection spell that was on the captives from the Eye of the Midnight Sun and ask them who the traitor among them was.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768427</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="200819" update="2018-06-26">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2018-06-26</airdate>
+<rating votes="4">5.64</rating>
+<title xml:lang="ja">魔法騎士団団長会議</title>
+<title xml:lang="en">The Magic Knights Captain Conference</title>
+<title xml:lang="fr">L`assemblée des capitaines</title>
+<title xml:lang="x-jat">Mahou Kishidan Danchou Kaigi</title>
+<summary>The Wizard King summons Asta after his work dealing with the Eye of the Midnight Sun. Yami tells Asta he can come with him to the royal capital, since he has to go to a conference of all the Magic Knights Captains.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768425</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="200820" update="2018-06-19">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2018-06-19</airdate>
+<rating votes="5">7.56</rating>
+<title xml:lang="ja">魔力無き者</title>
+<title xml:lang="en">The One with No Magic</title>
+<title xml:lang="fr">Le sans-magie</title>
+<title xml:lang="x-jat">Maryoku Naki Mono</title>
+<summary>Three of the Magic Knight captains—Jack the Ripper, Charlotte, and Nozel—appear and come to Yami and Asta`s aid in fighting the Third Eye. Asta is told that his grimoire and swords belong to Licht`s master, and Licht wants them back.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768423</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202533" update="2018-08-07">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2018-08-07</airdate>
+<rating votes="5">4.98</rating>
+<title xml:lang="ja">愚直な火球と奔放な稲妻</title>
+<title xml:lang="en">The Pointlessly Direct Fireball and the Wild Lightning</title>
+<title xml:lang="fr">L`enflammé et l`électrisé</title>
+<title xml:lang="x-jat">Guchoku na Hidama to Honbou na Inazuma</title>
+<summary>One of the members of the Third Eye, Vetto, appears at the Underwater Temple along with his underlings.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774905</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202534" update="2018-08-01">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2018-07-31</airdate>
+<rating votes="5">5.59</rating>
+<title xml:lang="ja">神殿バトルロワイヤル</title>
+<title xml:lang="en">Temple Battle Royale</title>
+<title xml:lang="fr">Sanctuary Battle Royale</title>
+<title xml:lang="x-jat">Shinden Battle Royal</title>
+<summary>Asta and the other Black Bulls are split up throughout the Underwater Temple due to Gifso’s magic. They are forced to go head-to-head with the temple mages in a battle royale.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774904</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202535" update="2018-07-24">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2018-07-24</airdate>
+<rating votes="5">4.47</rating>
+<title xml:lang="ja">海底神殿</title>
+<title xml:lang="en">The Underwater Temple</title>
+<title xml:lang="fr">Le sanctuaire englouti</title>
+<title xml:lang="x-jat">Kaitei Shinden</title>
+<summary>Because of Noelle’s hard work, the Black Bulls are able to get through the harsh mana currents and safely arrive at the Underwater Temple. Everyone is nervous, since they’ve never been here before, but the underwater people welcome them with open arms.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774903</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202536" update="2018-07-17">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2018-07-17</airdate>
+<rating votes="5">4.66</rating>
+<title xml:lang="ja">水の娘成長物語</title>
+<title xml:lang="en">The Water Girl Grows Up</title>
+<title xml:lang="fr">La fille de l`eau</title>
+<title xml:lang="x-jat">Mizu no Ko Seichou Monogatari</title>
+<summary>Asta and Noelle train for their upcoming mission and meet a girl named Kahono, whose dream is to become an idol who can sing, dance, and use magic.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774902</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="203640" update="2018-09-05">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2018-09-04</airdate>
+<rating votes="5">8.20</rating>
+<title xml:lang="ja">絶望VS希望</title>
+<title xml:lang="en">Despair vs. Hope</title>
+<title xml:lang="fr">Espoir vs désespoir</title>
+<title xml:lang="x-jat">Zetsubou VS Kibou</title>
+<summary>Asta continues his attacks against Vetto with support from Vanessa and Finral. They finally manage to land a blow on Vetto, but it’s not very effective. Vanessa and Finral remember when they were younger and much weaker.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774909</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="203641" update="2018-08-28">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2018-08-28</airdate>
+<rating votes="5">6.30</rating>
+<title xml:lang="ja">唯一の武器</title>
+<title xml:lang="en">The Only Weapon</title>
+<title xml:lang="fr">Ma seule arme</title>
+<title xml:lang="x-jat">Yuiitsu no Buki</title>
+<summary>Despite being greatly injured in the battle against Vetto, Asta stands up to face him again. Seeing this, Vanessa and Finral come to assist Asta, too.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774908</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="203642" update="2018-08-21">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2018-08-21</airdate>
+<rating votes="5">6.04</rating>
+<title xml:lang="ja">覚醒</title>
+<title xml:lang="en">Awakening</title>
+<title xml:lang="fr">L`éveil</title>
+<title xml:lang="x-jat">Kakusei</title>
+<summary>Kahono and Noelle reach Asta and the others. Noelle is astonished at how powerful Vetto is, but Kahono remains confident. She is the granddaughter of Gifso and cherishes everyone at the Underwater Temple, which she is willing to do anything to protect.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774907</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="203643" update="2018-08-14">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2018-08-14</airdate>
+<rating votes="5">5.89</rating>
+<title xml:lang="ja">諦めの悪い男</title>
+<title xml:lang="en">The Guy Who Doesn`t Know When to Quit</title>
+<title xml:lang="fr">Obstiné</title>
+<title xml:lang="x-jat">Akirame no Warui Otoko</title>
+<summary>Magna, Luck, and Gio, the most powerful Underwater Temple mage, risk their lives fighting Vetto. Asta and Kahono’s older brother, Kiato, also arrive at the scene.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774906</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="205196" update="2018-09-11">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2018-09-11</airdate>
+<rating votes="5">8.47</rating>
+<title xml:lang="ja">限界の先</title>
+<title xml:lang="en">Beyond Limits</title>
+<title xml:lang="fr">Au-delà des limites</title>
+<title xml:lang="x-jat">Genkai no Saki</title>
+<summary>Asta’s sword finally manages to take down Vetto! But that was all a part of Vetto’s plan. He manages to steal Asta’s sword and break his arm. Vetto proudly proclaims victory, but Asta doesn’t give up hope.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774910</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="205197" update="2018-09-18">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2018-09-18</airdate>
+<rating votes="5">6.70</rating>
+<title xml:lang="ja">戦いの果て 絶望の終わり</title>
+<title xml:lang="en">End of the Battle, End of Despair</title>
+<title xml:lang="fr">Au bout du combat, la fin du désespoir</title>
+<title xml:lang="x-jat">Tatakai no Hate Zetsubou no Owari</title>
+<summary>The members of the Black Bulls all surpassed their limits and defeated a powerful enemy. They manage to safely get the magic stone and successfully complete their mission, and all the members other than Captain Yami go recuperate.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774911</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="205198" update="2018-09-25">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2018-09-25</airdate>
+<rating votes="6">4.21</rating>
+<title xml:lang="ja">正しさの証明</title>
+<title xml:lang="en">Proof of Rightness</title>
+<title xml:lang="fr">La preuve</title>
+<title xml:lang="x-jat">Tadashisa no Shoumei</title>
+<summary>The Black Bulls return home after their battle against Vetto in the Underwater Temple. Yami, Asta, and Charmy go see the Wizard King to report on the battle.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774912</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208576" update="2018-10-02">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2018-10-02</airdate>
+<rating votes="5">7.14</rating>
+<title xml:lang="ja">強い方が勝つ</title>
+<title xml:lang="en">Whoever`s Strongest Wins</title>
+<title xml:lang="fr">Le plus fort l`emporte</title>
+<title xml:lang="tr">En Güçlü Olan Kazanır</title>
+<title xml:lang="x-jat">Tsuyoi Hou ga Katsu</title>
+<summary>The Golden Dawn continue fighting the Diamond forces. The Diamonds soon realize they are about to be overpowered when William uses his world tree magic, basically ending the fight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777425</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208577" update="2018-10-16">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>2018-10-09</airdate>
+<rating votes="5">7.51</rating>
+<title xml:lang="ja">仮面の奥</title>
+<title xml:lang="en">Behind the Mask</title>
+<title xml:lang="fr">Derrière le masque</title>
+<title xml:lang="tr">Maskenin Ardı</title>
+<title xml:lang="x-jat">Kamen no Oku</title>
+<summary>During the attack on the Clover Kingdom by the Diamond Kingdom, Yami saves the captain of the Golden Dawn, William Vangeance, from Lotus`s attack. Yami then asks William a question that`s been on his mind for quite some time. Meanwhile, Asta runs into Yuno in Kiten and they are confronted by Finral`s younger half-brother, Langris. Langris was always beaming with potential and joined the elite Magic Knight Squad of the Golden Dawn and became the vice-captain. He also despises his older brother Finral and considers him a total failure. Langris mocks his brother as well as the other Black Bulls and Finral finally stands up to him...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777426</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208578" update="2018-10-16">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>2018-10-16</airdate>
+<rating votes="6">6.70</rating>
+<title xml:lang="ja">もう二度と</title>
+<title xml:lang="en">Never Again</title>
+<title xml:lang="fr">Plus jamais</title>
+<title xml:lang="tr">Bir Daha Asla</title>
+<title xml:lang="x-jat">Mou Nido to</title>
+<summary>After Kiten is successfully protected Yami introduces Asta to a recovery mage named Owen that works directly under the Wizard King so he can get his arms healed. Owen is known as the most powerful recovery mage in the Clover Kingdom, but Asta`s arms were in a horrific condition. Finral happens to walk by the room when Owen tells Asta something about his injury, and then he tells the rest of the Black Bulls, who are shocked. The Black Bulls go to check on Asta and see that he`s still not discouraged at the bad news, and they all come to a decision...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777427</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208579" update="2018-11-05">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>2018-10-23</airdate>
+<rating votes="4">3.62</rating>
+<title xml:lang="ja">ファンゼルという男</title>
+<title xml:lang="en">The Man Named Fanzell</title>
+<title xml:lang="fr">Un homme nommé Fanzell</title>
+<title xml:lang="tr">Fanzell Adlı Adam</title>
+<title xml:lang="x-jat">Fanzell to Iu Otoko</title>
+<summary>The first time Asta met Fanzell Kruger was shortly after he received his grimoire. In order to train with his new anti-magic sword, Asta holes up in the woods and meets Fanzell, who is looking for his missing fiancée, Dominante Code. Fanzell uses wind magic and is able to turn wind into a sword so he helps Asta train. One day while they’re in the forest, someone comes for Fanzell’s life...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777428</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208848" update="2018-11-05">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>2018-10-30</airdate>
+<rating votes="5">6.18</rating>
+<title xml:lang="ja">続・ファンゼルという男</title>
+<title xml:lang="en">The Man Named Fanzell Continued</title>
+<title xml:lang="fr">Un homme nommé Fanzell – suite</title>
+<title xml:lang="tr">Fanzell Adlı Adam Devam Ediyor</title>
+<title xml:lang="x-jat">Zoku: Fanzell to Iu Otoko</title>
+<summary>A few months after being trained by Fanzell, Asta is able to join the Black Bulls. One day, Fanzell suddenly shows up at the Black Bulls` base. Fanzell recognized Noelle`s staff and wanted to ask her about it. It was created by his fiancee, Domina, and he was thankful to find another clue as to her whereabouts. But then, more assassins who are after Fanzell also appear at the Black Bulls` base...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777429</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209594" update="2018-11-20">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>2018-11-06</airdate>
+<rating votes="5">6.51</rating>
+<title xml:lang="ja">潜入</title>
+<title xml:lang="en">Infiltration</title>
+<title xml:lang="fr">Infiltration</title>
+<title xml:lang="tr">Sızma</title>
+<title xml:lang="x-jat">Sennyuu</title>
+<summary>Noelle and Finral go to visit Asta`s sword instructor, Fanzell, in hopes that he`d know a way to fix Asta`s arms. Fanzell`s fiancee, Domina, tells them that the Queen of Witches in the Witches` Forest should be able to dispel ancient curses, so they go to visit her. They eventually get Asta as well as Mariella to tag along and Domina leads them to the forest. However an incident occurs and their infiltration soon gets found out. They manage to bust into the Queen of Witches`s mansion, but she already had a prior guest. It was Vanessa, who also came from the Witches` Forest just like Domina...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777430</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209595" update="2018-12-03">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>2018-11-13</airdate>
+<rating votes="5">6.71</rating>
+<title xml:lang="ja">戦場の決断</title>
+<title xml:lang="en">Battlefield Decision</title>
+<title xml:lang="fr">Dans le feu de l`action</title>
+<title xml:lang="tr">Savaş Alanı Kararı</title>
+<title xml:lang="x-jat">Senjou no Ketsudan</title>
+<summary>While Asta and the others were meeting with the Queen of Witches, the forces of the Diamond Kingdom and the Eye of the Midnight Sun were getting closer to the Witches` Forest. The party asks the Queen of Witches to cure Asta`s arms so he can help protect the witches from the incoming forces. The Queen of Witches takes interest in Asta`s anti-magic sword and cures Asta`s arms. The party splits up into two different teams to go face off with both of the incoming forces.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777431</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209596" update="2018-12-03">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>2018-11-20</airdate>
+<rating votes="4">6.41</rating>
+<title xml:lang="ja">憎悪の炎</title>
+<title xml:lang="en">Flames of Hatred</title>
+<title xml:lang="fr">Les flammes de la haine</title>
+<title xml:lang="tr">Nefretin Alevleri</title>
+<title xml:lang="x-jat">Zouo no Honoo</title>
+<summary>Noelle uses her water magic to try to put out the fires that have sprouted up around the forest while Asta, Finral, and Vanessa confront another member of the Third Eye, Fana. Asta tries to reason with Fana by talking to her, but that quickly gets shut down when Fana attacks with her fire spirit, salamander. They soon find out that Fana not only has fire magic, but other magic using different attributes...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777432</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209597" update="2018-12-03">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>2018-11-27</airdate>
+<rating votes="5">7.16</rating>
+<title xml:lang="ja">離反者の贖罪</title>
+<title xml:lang="en">Defectors` Atonement</title>
+<title xml:lang="fr">Pénitence</title>
+<title xml:lang="tr">Sığınmacının Telafisi</title>
+<title xml:lang="x-jat">Rihansha no Shokuzai</title>
+<summary>While Asta and the other Black Bulls were fighting with Fana, Fanzell was facing off with the forces of the Diamond Kingdom, which he used to be a part of. The forces happen to be led by two of Fanzell`s former students, Ladros and Mars. Fanzell left the Diamond Kingdom because he didn`t agree with the kingdom`s methods, but before, he would train children on how to use their powers for the Diamond Kingdom. Fanzell tries to reason with his former students, but Ladros attacks regardlessly, forcing Fanzell to fight with them.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777433</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210506" update="2018-12-24">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>2018-12-04</airdate>
+<rating votes="5">7.59</rating>
+<title xml:lang="ja">約束の世界</title>
+<title xml:lang="en">The Promised World</title>
+<title xml:lang="fr">Le monde promis</title>
+<title xml:lang="tr">Söz Dünyası</title>
+<title xml:lang="x-jat">Yakusoku no Sekai</title>
+<summary>Fanzell ends up bring Mars and Ladros to where Asta was fighting. In order to defeat Ladros who absorbs the magic of his enemies, Fanzell thinks of a plan to have Asta`s anti-magic counter that. Asta doesn`t really understand what`s going on but does what Fanzell asks him to do. He bats away Fana`s spirit magic with his sword. Meanwhile, Mars sees Fana, and...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777434</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210507" update="2018-12-24">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>2018-12-11</airdate>
+<rating votes="5">7.12</rating>
+<title xml:lang="ja">高め合う存在</title>
+<title xml:lang="en">Those Who Boost Each Other Up</title>
+<title xml:lang="fr">Mutuellement</title>
+<title xml:lang="tr">Birbirlerini Güçlendirenler</title>
+<title xml:lang="x-jat">Takame Au Sonzai</title>
+<summary>Working alongside Mars, Asta is able to stop Fana from self-destructing. Fana regains her senses and they ask her what happened. However, Fana doesn`t remember the events that happened after she had lost consciousness, other than she felt the strong need to take back the magic stones and that she was being controlled by someone`s extreme hatred. Meanwhile, Ladros, who they thought they`d defeated, comes back even stronger and attacks them. The attack was so sudden that everyone didn`t have time to react. Asta tries to face Ladros alone, and...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777435</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210508" update="2019-01-14">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>2018-12-18</airdate>
+<rating votes="6">9.28</rating>
+<title xml:lang="ja">何でも無い</title>
+<title xml:lang="en">Not in the Slightest</title>
+<title xml:lang="fr">Moins que rien</title>
+<title xml:lang="tr">Zerresine Kadar</title>
+<title xml:lang="x-jat">Nandemonai</title>
+<summary>Asta loses consciousness after Ladros`s attack and the Queen of Witches tries to use this opportunity to awaken Asta`s true powers. Meanwhile, Asta ends up waking up in a strange space, and he realizes there`s a giant being in front of him. The being offers to lend him strength in exchange for Asta`s body, but Asta declines. Asta finally regains consciousness and seems to have powers that Noelle and the others had never seen before...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777436</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210509" update="2019-01-14">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>2018-12-25</airdate>
+<rating votes="5">8.86</rating>
+<title xml:lang="ja">運命の赤い糸</title>
+<title xml:lang="en">The Red Thread of Fate</title>
+<title xml:lang="fr">Le fil rouge du destin</title>
+<title xml:lang="tr">Kaderin Kızıl İpliği</title>
+<title xml:lang="x-jat">Unmei no Akai Ito</title>
+<summary>As promised, Asta and the others get rid of the invaders who attacked the Witches` Forest. However, the Queen of Witches was after Asta and his swords to begin with. She uses a spell to make Asta her puppet and tries to get him to kill his own friends. Vanessa begs the queen to stop, but she refuses. But in her helplessness, Vanessa ends up awakening to a new spell...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777437</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210826" update="2018-12-24">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2018-12-02</airdate>
+<rating votes="2">1.25</rating>
+<title xml:lang="ja">オール魔法騎士感謝祭</title>
+<title xml:lang="en">The All Magic Knights Thanksgiving Festa</title>
+<title xml:lang="fr">La Thanksgiving des Chevaliers-Mages</title>
+<title xml:lang="tr">Tüm Büyücü Şövalyelerinin Şükran Günü Ziyafeti</title>
+<title xml:lang="x-jat">All Mahou Kishi Kanshasai</title>
+<summary>Jump Festa Special
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780145</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211417" update="2019-01-14">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>2019-01-08</airdate>
+<rating votes="6">7.34</rating>
+<title xml:lang="ja">ただいま</title>
+<title xml:lang="en">I`m Home</title>
+<title xml:lang="fr">Retour au bercail</title>
+<title xml:lang="tr">Evdeyim</title>
+<title xml:lang="x-jat">Tadaima</title>
+<summary>The Queen of Witches had been waiting patiently for Vanessa to awaken to her true powers, but ironically, it was those powers that helped them defeat the queen. The Queen of Witches realizes that she was wrong and heals Asta and the rest of the party, and tells Vanessa that she may do as she pleases now. They ask the queen if she knows why the Eye of the Midnight Sun is after the magic stones and she explains that both the swords Asta has as well as the magic stones all belonged to the legendary elf tribe that no longer exists...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780893</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211418" recap="true" update="2019-01-21">
+<epno type="1">66</epno>
+<length>25</length>
+<airdate>2019-01-15</airdate>
+<rating votes="4">1.54</rating>
+<title xml:lang="ja">白夜の魔眼のひみつ</title>
+<title xml:lang="en">The Eye of the Midnight Sun`s Secret</title>
+<title xml:lang="fr">Le secret de l`Œil maléfique</title>
+<title xml:lang="tr">Gece Yarısı Güneşinin Gözü’nün Sırrı</title>
+<title xml:lang="x-jat">Byakuya no Magan no Himitsu</title>
+<summary>Asta and the others safely return to the Black Bulls` base after defeating the Eye of the Midnight Sun and the Diamond Kingdom in the Witches` Forest. Now that Asta`s arms have healed, the Black Bulls as well as Yuno, Klaus, and Mimosa are relieved. However, there`s no telling when the Eye of the Midnight Sun or the Diamond Kingdom will try to attack the Clover Kingdom again. Klaus then brings up a proposal to Yuno and Mimosa.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780894</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211419" update="2019-02-04">
+<epno type="1">67</epno>
+<length>25</length>
+<airdate>2019-01-22</airdate>
+<rating votes="5">7.35</rating>
+<title xml:lang="ja">楽しいお祭りW[ダブル]デート</title>
+<title xml:lang="en">A Fun Festival Double Date</title>
+<title xml:lang="fr">Un double rencard animé</title>
+<title xml:lang="tr">Birlikte Şenliğe Giden İki Çift</title>
+<title xml:lang="x-jat">Tanoshii Omatsuri Double Date</title>
+<summary>The Star Festival, the biggest festival of the year in the Clover Kingdom was about to take place. Every year the festival, the number of stars each Magic Knight squad had acquired would be announced. Captain Yami and the other Black Bulls prepare to go all out for this festival. Noelle tries to use this chance to enjoy the festival with Asta, but Asta ends up inviting some guests to the festival. The guests happened to be Kahono and Kiato...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780895</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211420" update="2019-02-04">
+<epno type="1">68</epno>
+<length>25</length>
+<airdate>2019-01-29</airdate>
+<rating votes="5">3.86</rating>
+<title xml:lang="ja">死闘!? ヤミVSジャック</title>
+<title xml:lang="en">Battle to the Death?! Yami vs Jack</title>
+<title xml:lang="fr">Combat à mort ? Yami contre Jack</title>
+<title xml:lang="tr">Ölümüne Savaş‚ Yami Jack’e Karşı</title>
+<title xml:lang="x-jat">Shitou!? Yami vs Jack</title>
+<summary>The Star Festival, the biggest festival of the year in the Clover Kingdom was about to take place. Every year the festival, the number of stars each Magic Knight squad had acquired would be announced. Captain Yami and the other Black Bulls prepare to go all out for this festival. Noelle tries to use this chance to enjoy the festival with Asta, but Asta ends up inviting some guests to the festival. The guests happened to be Kahono and Kiato...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780896</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212106" update="2019-02-12">
+<epno type="1">69</epno>
+<length>25</length>
+<airdate>2019-02-05</airdate>
+<rating votes="4">7.66</rating>
+<title xml:lang="ja">荊乙女の憂鬱</title>
+<title xml:lang="en">The Briar Maiden`s Melancholy</title>
+<title xml:lang="fr">La mélancolie d`une fille épineuse</title>
+<title xml:lang="x-jat">Ibara Otome no Yuuutsu</title>
+<summary>Asta ends up passing a group of guys at the Star Festival who all seem to be looking in the direction of a beautiful woman. This beautiful woman happened to be the captain of the Blue Rose Knights, Charlotte, who was forced to wear a dress by one of her squad members, Sol Marron. Charlotte isn`t very fond of men, so she was getting frustrated by all the staring, but then she happens to see Yami. Yami teases Charlotte for wearing a dress and she tries to keep her cool. Vanessa then shows up and starts to feel a fierce rivalry against Charlotte...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780897</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212107" update="2019-02-19">
+<epno type="1">70</epno>
+<length>25</length>
+<airdate>2019-02-12</airdate>
+<rating votes="3">6.79</rating>
+<title xml:lang="ja">二つの新星</title>
+<title xml:lang="en">Two New Stars</title>
+<title xml:lang="fr">Deux nouvelles stars</title>
+<title xml:lang="x-jat">Futatsu no Shinsei</title>
+<summary>The Star Festival finally reaches its climax. The ranking of each Magic Knight squad is about to be announced. As the crowd watches in anticipation, the Golden Dawn is announced as taking first place, but then the Black Bulls get announced as taking second place?! On top of that, Asta and Yuno both get called up to the stage for the excellent work they had done. Both of them had worked hard to achieve everything they could for their respective squads and now, they`ll get a chance to achieve something even more!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780898</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212108" update="2019-03-06">
+<epno type="1">71</epno>
+<length>25</length>
+<airdate>2019-02-19</airdate>
+<rating votes="3">6.92</rating>
+<title xml:lang="ja">無冠無敗の女獅子</title>
+<title xml:lang="en">The Uncrowned, Undefeated Lioness</title>
+<title xml:lang="fr">La lionne invaincue</title>
+<title xml:lang="x-jat">Mukan Muhai no Onna Shishi</title>
+<summary>Asta and Yuno end up seeing Mereoleona scolding the members of the Crimson Lion Kings after the Star Festival. Mereoleona is the older sister of their former captain, Fuegoleon, and was unhappy with their performance at the Star Festival. She calls her brother a fool and Leopold and the other squad members defend him. She then says they`re going to a volcano for a training camp and also ends up taking Asta, Yuno, Yami, Charlotte and Noelle with them as well...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780899</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212109" update="2019-03-06">
+<epno type="1">72</epno>
+<length>25</length>
+<airdate>2019-02-26</airdate>
+<rating votes="4">6.31</rating>
+<title xml:lang="ja">セントエルモの火</title>
+<title xml:lang="en">Saint Elmo`s Fire</title>
+<title xml:lang="fr">Le feu de Saint-Elme</title>
+<title xml:lang="x-jat">Saint Elmo no Hi</title>
+<summary>Asta and Yuno end up seeing Mereoleona scolding the members of the Crimson Lion Kings after the Star Festival. Mereoleona is the older sister of their former captain, Fuegoleon, and was unhappy with their performance at the Star Festival. She calls her brother a fool and Leopold and the other squad members defend him. She then says they`re going to a volcano for a training camp and also ends up taking Asta, Yuno, Yami, Charlotte and Noelle with them as well...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780900</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212262" update="2019-12-09">
+<epno type="3">C14</epno>
+<length>2</length>
+<airdate>2018-10-02</airdate>
+<title xml:lang="en">Opening 5a</title>
+</episode>
+<episode id="212263" update="2019-12-09">
+<epno type="3">C17</epno>
+<length>2</length>
+<airdate>2019-01-08</airdate>
+<title xml:lang="en">Opening 6</title>
+</episode>
+<episode id="212264" update="2019-12-09">
+<epno type="3">C8</epno>
+<length>2</length>
+<airdate>2018-04-17</airdate>
+<title xml:lang="en">Opening 3a</title>
+</episode>
+<episode id="212265" update="2019-12-09">
+<epno type="3">C11</epno>
+<length>2</length>
+<airdate>2018-07-10</airdate>
+<title xml:lang="en">Opening 4a</title>
+</episode>
+<episode id="212276" update="2019-12-09">
+<epno type="3">C24</epno>
+<length>2</length>
+<airdate>2018-04-17</airdate>
+<title xml:lang="en">Ending 3a</title>
+</episode>
+<episode id="212277" update="2019-12-09">
+<epno type="3">C26</epno>
+<length>2</length>
+<airdate>2018-07-10</airdate>
+<title xml:lang="en">Ending 4a</title>
+</episode>
+<episode id="212278" update="2019-12-09">
+<epno type="3">C29</epno>
+<length>2</length>
+<airdate>2018-10-02</airdate>
+<title xml:lang="en">Ending 6a</title>
+</episode>
+<episode id="212279" update="2019-12-09">
+<epno type="3">C33</epno>
+<length>2</length>
+<airdate>2019-01-08</airdate>
+<title xml:lang="en">Ending 8</title>
+</episode>
+<episode id="212773" update="2019-03-06">
+<epno type="1">73</epno>
+<length>25</length>
+<airdate>2019-03-05</airdate>
+<rating votes="3">6.10</rating>
+<title xml:lang="ja">王撰騎士団[ロイヤルナイツ]選抜試験</title>
+<title xml:lang="en">The Royal Knights Selection Test</title>
+<title xml:lang="fr">La sélection des chevaliers royaux</title>
+<title xml:lang="x-jat">Royal Knights Senpatsushiken</title>
+<summary>The exam to determine the Royal Knights that will fight against the Eye of the Midnight Sun. Asta and Yuno participate along with the Black Bulls, Noelle, Magna, Luck, and Finral, as well as Mimosa and Klaus from the Golden Dawn. Other Magic Knights include Leopold from the Crimson Lion Kings as well as many other notable Magic Knights. The Wizard King then announces the teams that will be participating in the Royal Knights Selection Exam.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780901</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212774" update="2019-04-08">
+<epno type="1">74</epno>
+<length>25</length>
+<airdate>2019-03-12</airdate>
+<rating votes="3">5.75</rating>
+<title xml:lang="ja">誓いの花</title>
+<title xml:lang="en">Flower of Resolution</title>
+<title xml:lang="fr">La floraison promise</title>
+<title xml:lang="x-jat">Chikai no Hana</title>
+<summary>The first round of the Royal Knights Selection Exam... Asta`s team is first up to fight. Asta ends up on a team with Mimosa and a mage named Xerx Lügner. The way to win the battle is to destroy the other team`s crystal. However, before the match even starts, Xerx upsets the enemy team by being rude to the Wizard King and they heavily damage Asta`s team`s crystal. Asta and Mimosa panic. Meanwhile, Xerx doesn`t seem like he wants to do this at all and takes a break. Asta and Mimosa must now fight alone... What will they do?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780902</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212775" update="2019-04-08">
+<epno type="1">75</epno>
+<length>25</length>
+<airdate>2019-03-19</airdate>
+<rating votes="3">6.58</rating>
+<title xml:lang="ja">激戦</title>
+<title xml:lang="en">Fierce Battle</title>
+<title xml:lang="fr">Un combat acharné</title>
+<title xml:lang="x-jat">Gekisen</title>
+<summary>Asta and the other Black Bulls continue to fight through stage one of the exam, trying to get to stage two. Magna ends up teaming up with the vice-captain of the Coral Peacocks, Kirsch, also happens to be Mimosa`s older brother and Sol from the Blue Rose Knights. Kirsch seems to just go on about how beautiful he is and Magna and Sol don`t know how to deal with the biggest narcissist they`ve ever met. Meanwhile, Finral ends up on a team with Leopold and Hamon and Finral was getting fired up, thinking about having to fight his brother Langris soon...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780903</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212776" update="2019-04-08">
+<epno type="1">76</epno>
+<length>25</length>
+<airdate>2019-03-26</airdate>
+<rating votes="3">6.58</rating>
+<title xml:lang="ja">魔道士X[エックス]</title>
+<title xml:lang="en">Mage X</title>
+<title xml:lang="fr">Le concurrent mystère</title>
+<title xml:lang="x-jat">Madoushi X</title>
+<summary>The members of the Black Bulls show off strength that far surpasses their ranks of Junior Magic Knights. Finally, round 5 of stage 1 of the Royal Knights Selection Exam was about to begin. However, they can`t seem to find the person called "X" on the I team, which is one of the teams that`s about to fight. Finally, Mage X shows up, but they`re actually...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780904</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214269" update="2019-05-06">
+<epno type="1">77</epno>
+<length>25</length>
+<airdate>2019-04-02</airdate>
+<rating votes="3">6.92</rating>
+<title xml:lang="ja">因縁</title>
+<title xml:lang="en">Bad Blood</title>
+<title xml:lang="fr">Règlement de comptes</title>
+<title xml:lang="x-jat">Innen</title>
+<summary>Klaus, Puli, and Luck’s team battle has now begun. Between Klaus’s cautious nature, Luck’s tendency to go beserk, and Puli’s hyperactive personality, they’re able to pull a win. Then Yuno, Noelle, and En end up battling against Alecdora Sandler and Solid Silva in the last battle of the first stage.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780905</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214270" update="2019-05-06">
+<epno type="1">78</epno>
+<length>25</length>
+<airdate>2019-04-09</airdate>
+<rating votes="3">7.38</rating>
+<title xml:lang="ja">下民[げみん]の罠</title>
+<title xml:lang="en">Peasant Trap</title>
+<title xml:lang="fr">Piège de gueux</title>
+<title xml:lang="x-jat">Gemin no Wana</title>
+<summary>The first stage of the Royal Knights Selection Exam comes to a close and the second stage begins. The first match is between Asta, Mimosa, Xerx and Magna, Kirsch, and Sol. Kirsch is as narcissistic and powerful as ever, giving Asta problems. But then he remembers his training back at the volcano and uses his Black Asta powers. Will he be able to defeat Kirsch?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780906</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214271" update="2019-05-06">
+<epno type="1">79</epno>
+<length>25</length>
+<airdate>2019-04-16</airdate>
+<rating votes="3">7.70</rating>
+<title xml:lang="ja">ヤンキー先輩VS筋肉バカ</title>
+<title xml:lang="en">Mister Delinquent vs. Muscle Brains</title>
+<title xml:lang="fr">Racaille vs Boule de muscles</title>
+<title xml:lang="x-jat">Yankee Senpai vs Kinniku Baka</title>
+<summary>Asta is able to stop Kirsch from moving with the help of Xerx, but the Magna appears before them. Magna has always been an expert at controlling his powers and he now has a new spell. He uses the new spell to gradually damage Asta’s team’s crystal. Meanwhile, Mimosa realizes that the enemy team’s crystal is inside Sol’s golem and she comes up with a plan.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783256</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214272" update="2019-05-06">
+<epno type="1">80</epno>
+<length>25</length>
+<airdate>2019-04-23</airdate>
+<rating votes="4">8.37</rating>
+<title xml:lang="ja">優等生の弟VS不出来の兄</title>
+<title xml:lang="en">Special Little Brother vs. Failed Big Brother</title>
+<title xml:lang="fr">Le cadet prodige vs l`aîné raté</title>
+<title xml:lang="x-jat">Yuutousei no Otouto vs Fudeki no Ani</title>
+<summary>The Wizard King ends up changing the order of the matches. Now, Asta’s team and Langris’s team begin their match. Langris is as powerful as ever and continues to show his deep hatred, meanwhile, Asta faces off with him passionately, angered by the fact that he mocked and injured Finral. Seeing Asta fight, Xerx remembers a certain someone. Meanwhile, something had been bothering Julius for quite a while, so he quietly watches the match.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783257</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214273" update="2019-05-06">
+<epno type="1">81</epno>
+<length>25</length>
+<airdate>2019-04-30</airdate>
+<rating votes="3">7.82</rating>
+<title xml:lang="ja">ある一人の男の生き方</title>
+<title xml:lang="en">The Life of a Certain Man</title>
+<title xml:lang="fr">Un tragique destin</title>
+<title xml:lang="x-jat">Aru Hitori no Otoko no Ikikata</title>
+<summary>The Wizard King ends up changing the order of the matches. Now, Asta’s team and Langris’s team begin their match. Langris is as powerful as ever and continues to show his deep hatred, meanwhile, Asta faces off with him passionately, angered by the fact that he mocked and injured Finral. Seeing Asta fight, Xerx remembers a certain someone. Meanwhile, something had been bothering Julius for quite a while, so he quietly watches the match.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783258</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="215598" recap="true" update="2019-06-05">
+<epno type="1">82</epno>
+<length>25</length>
+<airdate>2019-05-07</airdate>
+<rating votes="3">2.03</rating>
+<title xml:lang="ja">プチット・クローバー! 悪夢のチャーミーSP!</title>
+<title xml:lang="en">Petit Clover! The Nightmarish Charmy SP!</title>
+<title xml:lang="fr">Mini Clover, Le cauchemar de Charmy</title>
+<title xml:lang="x-jat">Petite Clover! Akumu Charmy SP!</title>
+<summary>The Black Bulls are doing much better than anyone expected during the Royal Knights Selection Exam. Meanwhile, Charmy decides that she wants to make something yummy for her Meal-saving Prince and goes to gather some ingredients. However, she ends up eating some poisonous mushrooms and starts to see strange dreams. In that strange dream world, everyone seems to be much smaller... A special episode with a bunch of Petit Clover episodes!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783259</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="215599" update="2019-05-20">
+<epno type="1">83</epno>
+<length>25</length>
+<airdate>2019-05-14</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">今, 焼き付ける</title>
+<title xml:lang="en">Burn It into You</title>
+<title xml:lang="fr">Grave-toi ça dans le crâne</title>
+<title xml:lang="x-jat">Ima, Yakitsukeru</title>
+<summary>Xerx’s magic seems to have little effect against Langris, as well, so Asta decides to use his Black Asta powers. Will he be able to defeat Langris, despite Langris’s tremendous magical powers? Luck’s team then faces off with Rill’s team and then finally, Rill’s team goes up against Yuno’s team...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783260</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="215600" update="2019-06-06">
+<epno type="1">84</epno>
+<length>25</length>
+<airdate>2019-05-21</airdate>
+<rating votes="3">8.62</rating>
+<title xml:lang="ja">勝者</title>
+<title xml:lang="en">The Victors</title>
+<title xml:lang="fr">Les grands vainqueurs</title>
+<title xml:lang="x-jat">Shousha</title>
+<summary>The final match of the Royal Knights Selection Exam has finally come down to Yuno, Noelle, and En’s team versus Rill’s team. Yuno takes on the captain of the Aqua Deer as Noelle and En guard their crystal. Both Yuno and Rill have extreme amounts of magic and natural skill, and Asta watched their battle, trying to hold back his own disappointment...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783261</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="216327" update="2019-12-09">
+<epno type="3">C34</epno>
+<length>2</length>
+<airdate>2019-04-02</airdate>
+<rating votes="1">7.40</rating>
+<title xml:lang="en">Ending 9</title>
+</episode>
+<episode id="216328" update="2019-12-09">
+<epno type="3">C18</epno>
+<length>2</length>
+<airdate>2019-04-02</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="en">Opening 7</title>
+</episode>
+<episode id="217068" update="2019-06-06">
+<epno type="1">85</epno>
+<length>25</length>
+<airdate>2019-05-28</airdate>
+<rating votes="3">7.38</rating>
+<title xml:lang="ja">裸の付き合い</title>
+<title xml:lang="en">Together in the Bath</title>
+<title xml:lang="fr">Mis à nu</title>
+<title xml:lang="x-jat">Hadaka no Tsukiai</title>
+<summary>For some reason, Captain Yami tells all the Black Bulls to take a bath with him. After not being able to fight with Yuno in the Royal Knights Selection Exam finals, Asta had been acting like his soul was gone. While in the bath, Yami starts to tell the Black Bulls about an incident that happened when he had just become a Magic Knight and had gone on a journey to train.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783262</identifier>
+<identifier>fr/black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217069" update="2019-06-16">
+<epno type="1">86</epno>
+<length>25</length>
+<airdate>2019-06-04</airdate>
+<rating votes="3">4.68</rating>
+<title xml:lang="ja">ヤミとヴァンジャンス</title>
+<title xml:lang="en">Yami and Vangeance</title>
+<title xml:lang="fr">Yami et Vangeance</title>
+<title xml:lang="x-jat">Yami to Vangeance</title>
+<summary>A few years after Vangeance had saved Yami from the group of bandits, they were still Magic Knight squad members and were assigned a special mission by Julius. It was a mission to track down the Magic Knights that were aiding a group of bandits who were terrorizing places throughout the Clover Kingdom. Yami and William decide to split up to cover more ground and Yami ends up running into the bandits!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783263</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217070" update="2019-06-16">
+<epno type="1">87</epno>
+<length>25</length>
+<airdate>2019-06-11</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">王撰騎士団[ロイヤルナイツ]結成</title>
+<title xml:lang="en">Formation of the Royal Knights</title>
+<title xml:lang="fr">La composition des chevaliers royaux</title>
+<title xml:lang="x-jat">Royal Knights Kessei</title>
+<summary>Asta, Noelle, and Luck are suddenly taken away by Captain Mereoleona, who suddenly dropped in at the Black Bulls’ base. It just so happened the three of them had passed the Royal Knights Selection Exam. The other Magic Knights who passed had also gathered, including the two Magic Knights who fought a fierce battle in the finals, Yuno and the captain of the Aqua Deer, Rill. They were then informed that there would be one more member of the Black Bulls joining them, and it happened to be... Finally, Captain Nozel from the Silver Eagles also joined them as the captain of the Royal Knights, Mereoleona prepped them for their battle against the Eye of the Midnight Sun.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783264</identifier>
+<identifier>fr/black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217071" update="2019-07-15">
+<epno type="1">88</epno>
+<length>25</length>
+<airdate>2019-06-18</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">白夜の魔眼アジト 突入!!!</title>
+<title xml:lang="en">Storming the Eye of the Midnight Sun`s Hideout!!!</title>
+<title xml:lang="fr">À l`assaut de l`antre de l`ennemi</title>
+<title xml:lang="x-jat">Byakuya no Magan Ajito Totsunyuu!!!</title>
+<summary>The Royal Knights arrive at the floating dungeon at the Gravito Stones, which is where the Eye of the Midnight Sun’s hideout is. Mereoleona orders them to split into five different teams and they begin their assault. Asta heads in with Mereoleona and Zora Ideale. Meanwhile, Captain Nozel of the Silver Eagles also heads in, vowing to get revenge for a fallen rival.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783265</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217072" update="2019-07-15">
+<epno type="1">89</epno>
+<length>25</length>
+<airdate>2019-06-25</airdate>
+<rating votes="3">7.82</rating>
+<title xml:lang="ja">黒の暴牛アジト</title>
+<title xml:lang="en">The Black Bulls` Hideout</title>
+<title xml:lang="fr">Le siège du Taureau noir</title>
+<title xml:lang="x-jat">Kuro no Baku Gyuu Ajito</title>
+<summary>While the Royal Knights began their assault on the Eye of the Midnight Sun’s hideout, Rades, Valtos and Sally from the Eye of the Midnight Sun attack the Black Bulls’ hideout. Gauche, Gordon, and Grey who remained back at the hideout end up having to fight. Gauche is worried about the fact that his mirror magic doesn’t work well against Sally’s gel magic, but he works together with Grey and Gordon to do everything they can to protect their hideout.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783266</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218274" update="2019-07-15">
+<epno type="1">90</epno>
+<length>25</length>
+<airdate>2019-07-02</airdate>
+<rating votes="3">5.97</rating>
+<title xml:lang="ja">ムチャクチャな魔法戦</title>
+<title xml:lang="en">Crazy Magic Battle</title>
+<title xml:lang="fr">Un combat magique titanesque</title>
+<title xml:lang="x-jat">Muchakucha na Mahou Sen</title>
+<summary>During the battle at the Black Bulls’ hideout, the hideout suddenly changes its shape, and Gauche and the others are surprised by the mysterious figure that emerges from it. This was the identity of the rumored ghost that lived in the hideout. His name was Henry Legolant, and he was the true master of the mansion. Henry is able to change the mansion into any form he chooses and had been watching over the rest of the Black Bulls ever since Yami had given him a cloak. He fights alongside his precious friends to protect their home.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783267</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218298" update="2019-07-15">
+<epno type="1">91</epno>
+<length>25</length>
+<airdate>2019-07-09</airdate>
+<rating votes="3">7.05</rating>
+<title xml:lang="ja">メレオレオナVS不実のライア</title>
+<title xml:lang="en">Mereoleona vs. Raia the Disloyal</title>
+<title xml:lang="fr">Mereoleona vs Ryah le perfide</title>
+<title xml:lang="x-jat">Mereoleona vs Fujitsu no Raina</title>
+<summary>Mereoleona and Nozel plow their way through the dungeon to get to Licht along with the other Royal Knights. It is then that the final member of the Third Eye, Raia the Disloyal, appears in front of Mereoleona. Asta and Zora are astounded at how powerful Mereoleona is, but then suddenly, there are two Astas. Mereoleona doesn’t even hesitate and decides to attack both of the Astas.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783268</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218299" update="2019-08-05">
+<epno type="1">92</epno>
+<length>25</length>
+<airdate>2019-07-16</airdate>
+<rating votes="3">8.62</rating>
+<title xml:lang="ja">魔法帝VS白夜の魔眼頭首</title>
+<title xml:lang="en">The Wizard King vs. the Leader of the Eye of the Midnight Sun</title>
+<title xml:lang="fr">L’Empereur-Mage vs le chef de l’Œil maléfique</title>
+<title xml:lang="x-jat">Mahou Tei vs Byakuya no Mame Toushu</title>
+<summary>While the Wizard King Julius was thinking about how the Royal Knights were fairing on their raid of the Eye of the Midnight Sun’s hideout, a person appeared before him. It was someone Julius was very familiar with and they start reminiscing about the past. Meanwhile, Yami had appeared at the Golden Dawn’s headquarters because he had received a message from Vangeance saying that he wanted to apologize for Langris injuring Finral. But no matter how long Yami waited, Vangeance didn’t show up, which was irritating Yami to no end.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783269</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218620" update="2019-08-05">
+<epno type="1">93</epno>
+<length>25</length>
+<airdate>2019-07-23</airdate>
+<rating votes="4">9.37</rating>
+<title xml:lang="ja">ユリウス・ノヴァクロノ</title>
+<title xml:lang="en">Julius Novachrono</title>
+<title xml:lang="fr">Julius Novachrono</title>
+<title xml:lang="x-jat">Julius Novachrono</title>
+<summary>The battle between the Clover Kingdom’s most powerful wizard, the Wizard King Julius Novachrono, and the leader of the Eye of the Midnight Sun, Licht, had begun. Julius had been chosen by a very unique grimoire and he used time magic. As the Wizard King, he firmly believed in the path he had walked and the future he wanted for everyone, so a very fierce battle begins. Licht uses light magic which is super powerful and fast, but apparently, it’s no match for Julius’s time magic.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787444</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218621" update="2019-08-05">
+<epno type="1">94</epno>
+<length>25</length>
+<airdate>2019-07-30</airdate>
+<rating votes="3">9.21</rating>
+<title xml:lang="ja">新しい未来</title>
+<title xml:lang="en">New Future</title>
+<title xml:lang="fr">Un nouvel avenir</title>
+<title xml:lang="x-jat">Atarashii Mirai</title>
+<summary>After receiving an emergency message from Julius’s aide, Marx, Yami hurries to the scene of Julius and Licht’s battle. However, once he gets there, he sees an unbelievable sight. Meanwhile, the Royal Knights continued their battle at the Eye of the Midnight Sun’s hideout. Captain Mereoleona had the final member of the Third Eye, Raia, cornered. Seeing no way out, Raia was about to activate a self-destruct spell when Asta nullifies his spell and then gives him a piece of his mind.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787445</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218622" update="2019-08-19">
+<epno type="1">95</epno>
+<length>25</length>
+<airdate>2019-08-06</airdate>
+<rating votes="3">6.58</rating>
+<title xml:lang="ja">転生</title>
+<title xml:lang="en">Reincarnation</title>
+<title xml:lang="fr">Réincarnations</title>
+<title xml:lang="x-jat">Tensei</title>
+<summary>Long ago, there were beings with very high magical powers living in the Clover Kingdom called elves. The elf Licht possessed a four-leaf grimoire and he lived peacefully with his brethren, who trusted him greatly. One day, a human named Tetia and her older brother happened to come by their village. Her older brother also had a four-leaf grimoire just like Licht and hoped to bring humans and elves together. The siblings and Licht shared similar ideals, so they became rather close, and eventually, Tetia became pregnant with Licht’s child. But then, a great tragedy fell upon the elves...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787446</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218623" update="2019-08-19">
+<epno type="1">96</epno>
+<length>25</length>
+<airdate>2019-08-13</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">黒の暴牛団長VS深紅の野薔薇</title>
+<title xml:lang="en">The Black Bulls Captain vs the Crimson Wild Rose</title>
+<title xml:lang="fr">Le capitaine du Taureau noir vs la Rose écarlate</title>
+<title xml:lang="x-jat">Kuro no Baku Gyuu Danchou vs Shinku no Nobara</title>
+<summary>While the Royal Knights were infiltrating the floating dungeon base of the Eye of the Midnight Sun, something strange was happening in the Clover Kingdom. The devil’s skull back in Asta’s home of Hage started to shine, and a number of people throughout the kingdom also started to shine. This was due to the power of the stolen magic stones and Licht activating a reincarnation spell. As Captain Yami was trying to find out more about this phenomenon, Marx and Owen appear in front of him. They then call themselves elves and attack Yami with an incredible amount of power that they’d never shown before. Meanwhile, Captain Charlotte also...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787447</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219191" update="2019-09-15">
+<epno type="1">97</epno>
+<length>25</length>
+<airdate>2019-08-20</airdate>
+<rating votes="3">7.50</rating>
+<title xml:lang="ja">圧倒的劣勢</title>
+<title xml:lang="en">Overwhelming Disadvantage</title>
+<title xml:lang="fr">Infériorité écrasante</title>
+<title xml:lang="x-jat">Attouteki Ressei</title>
+<summary>The effects of the reincarnation spell had affected some of the Royal Knights back at the floating dungeon as well. Luck was fighting alongside Noelle when suddenly, he attacks his friends with extremely powerful magic. Meanwhile, Raia’s magic is also enhanced from the spell and suddenly, the captain of the Aqua Deer, Rill, also appears before them. Just like Luck, his personality had changed and he attacks Asta and the others. After being forced to face off with the ones calling themselves elves, Captain Mereoleona...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787448</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219192" update="2019-09-15">
+<epno type="1">98</epno>
+<length>25</length>
+<airdate>2019-08-27</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">眠れる獅子</title>
+<title xml:lang="en">The Sleeping Lion</title>
+<title xml:lang="fr">Le lion endormi</title>
+<title xml:lang="x-jat">Nemureru Shishi</title>
+<summary>The Clover Kingdom is thrown into chaos as people calling themselves “elves” attack. These effects were visible at the Crimson Lion Kings’ base, as well. Vice Captain Randall’s personality had completely changed and he attacked his comrades. Because of the sheer difference in power, the other members of the Crimson Lion Kings start to give up, but Leopold refuses to do so. As the younger brother of the captains Fuegoleon and Mereoleona, Leopold refuses to lose!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787449</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219193" update="2019-09-15">
+<epno type="1">99</epno>
+<length>25</length>
+<airdate>2019-09-03</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">命懸けの生きる道</title>
+<title xml:lang="en">The Desperate Path Toward Survival</title>
+<title xml:lang="fr">La survie à tout prix</title>
+<title xml:lang="x-jat">Inochigake no Ikiru Michi</title>
+<summary>After being surrounded by members of the Royal Knights who were affected by the reincarnation spell, Captain Mereoleona had managed to let Asta and Zora escape. She uses her sheer will and the help of the mana zone to fight the elves. Is it actually possible for her to defeat the elves that hate the humans so much? Meanwhile, after being flung away from the battle, Zora tries to find a way for them to escape, but Asta doesn’t like that idea.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787450</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219194" update="2019-10-04">
+<epno type="1">100</epno>
+<length>25</length>
+<airdate>2019-09-10</airdate>
+<rating votes="5">9.21</rating>
+<title xml:lang="ja">オマエには負けない</title>
+<title xml:lang="en">We Won`t Lose to You</title>
+<title xml:lang="fr">Je ne perdrai pas face à toi</title>
+<title xml:lang="x-jat">Omae ni wa Makenai</title>
+<summary>Asta was taken deep back into the labyrinth by Raia, who had suddenly appeared. There, he found not only Mimosa, but Klaus, Hamon, and Yuno who had reincarnated as elves. Klaus and Hamon have completely different personalities and they attack Asta. However, Yuno doesn’t join the fight yet one way or another. Asta doesn’t want to fight his friends and says that he’s going to survive and become the Wizard King. That somehow brings out a change in Yuno. Meanwhile, there was someone else watching the battle quietly: Another Licht that looked just like “the leader of the Eye of the Midnight Sun Licht.” Apparently, he is the real Licht, the leader of the elves.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787451</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219294" update="2019-12-09">
+<epno type="3">C35</epno>
+<length>2</length>
+<airdate>2019-07-02</airdate>
+<rating votes="1">7.40</rating>
+<title xml:lang="en">Ending 10</title>
+</episode>
+<episode id="219295" update="2019-12-09">
+<epno type="3">C19</epno>
+<length>2</length>
+<airdate>2019-08-06</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="en">Opening 8</title>
+</episode>
+<episode id="220744" update="2019-10-04">
+<epno type="1">101</epno>
+<length>25</length>
+<airdate>2019-09-17</airdate>
+<rating votes="3">9.21</rating>
+<title xml:lang="ja">最果ての村の命</title>
+<title xml:lang="en">The Lives of the Village in the Sticks</title>
+<title xml:lang="fr">Les vies de Hadge</title>
+<title xml:lang="x-jat">Saihate no Mura no Inochi</title>
+<summary>Despite being affected by the reincarnation spell, Yuno was able to regain his consciousness. Asta and Yuno then fight the leader of the elves, Licht. Licht then uses one of Asta’s swords and attacks them both. Asta and Yuno are pushed to the edge but they manage to fight back. Meanwhile, another reincarnated elf shows up in Asta and Yuno’s home village of Hage and attacks the villagers.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787452</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="220745" recap="true" update="2019-10-04">
+<epno type="1">102</epno>
+<length>25</length>
+<airdate>2019-09-24</airdate>
+<rating votes="2">3.59</rating>
+<title xml:lang="ja">2つのキセキ</title>
+<title xml:lang="en">Two Miracles</title>
+<title xml:lang="fr">Deux miracles</title>
+<title xml:lang="x-jat">Futatsu no Kiseki</title>
+<summary>Asta and Yuno get back to their village after an elf had attacked it. They were heading to the royal capital along with Captain Nozel and Noelle, but they saw that their village was in trouble and were given permission to make a detour. In order to protect the villagers, Asta and Yuno face off with the elf. The father that had raised them was able to see how much Asta and Yuno had grown, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787453</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="221608" update="2019-11-08">
+<epno type="1">103</epno>
+<length>25</length>
+<airdate>2019-10-01</airdate>
+<rating votes="3">8.62</rating>
+<title xml:lang="ja">因果解放</title>
+<title xml:lang="en">Release from Misfortune</title>
+<title xml:lang="fr">Libération karmique</title>
+<title xml:lang="x-jat">Inga Kaihou</title>
+<summary>The Father and the other villagers of Hage Village are attacked by a Magic Knight from the Purple Orcas who had reincarnated as an elf who uses poison plant magic. Asta and Yuno try to save the villagers but they can’t seem to find a way to break the spell. During their battle the sword that Licht had taken out of the ground of the floating dungeon suddenly appears out of Asta’s grimoire. Asta takes it in hand and realizes that it’s much more powerful than he can control easily. Though hesitant, Asta puts the sword up to Father and...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789293</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="221609" update="2019-11-08">
+<epno type="1">104</epno>
+<length>25</length>
+<airdate>2019-10-08</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">怒りの雷VS仲間</title>
+<title xml:lang="en">Lightning of Rage vs. Friends</title>
+<title xml:lang="fr">Foudres de la colère vs camarades</title>
+<title xml:lang="ar">برق الغضب ضد الأصدقاء</title>
+<title xml:lang="x-jat">Ikari no Kaminari vs Nakama</title>
+<summary>Magna had been training with Vanessa to become more powerful and during their travels they ended up in a town that was being destroyed by none other than Luck from the Black Bulls who had reincarnated as an elf. Magna and Vanessa do everything they can to try to stop Luck but Luck had turned into someone else and attacks them both. And because Vanessa’s magic protects all the members of the Black Bulls it kept protecting Luck even though he was someone else inside.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789294</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="221610" update="2019-11-08">
+<epno type="1">105</epno>
+<length>25</length>
+<airdate>2019-10-15</airdate>
+<rating votes="3">8.62</rating>
+<title xml:lang="ja">笑顔 涙</title>
+<title xml:lang="en">Smiles, Tears</title>
+<title xml:lang="fr">Sourires et larmes</title>
+<title xml:lang="ar">ابتسامات، دموع</title>
+<title xml:lang="x-jat">Egao Namida</title>
+<summary>Asta had caught up with Magna and Vanessa with his new sword. Asta tries to work with Magna and Vanessa to save Luck, who had been reincarnated into an elf, but Luck’s body had a lot of pent up magical power that was now surging and they have a hard time getting to him. Despite that, Asta and the others try to bring the normal Luck back. Will their feelings get through to their precious friend?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789295</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="221611" update="2019-11-08">
+<epno type="1">106</epno>
+<length>25</length>
+<airdate>2019-10-22</airdate>
+<rating votes="3">7.18</rating>
+<title xml:lang="ja">復讐の道 償いの道</title>
+<title xml:lang="en">Path of Revenge, Path of Atonement</title>
+<title xml:lang="fr">Vengeance ou rédemption</title>
+<title xml:lang="ar">طريق الانتقام، طريق التكفير</title>
+<title xml:lang="x-jat">Fukushuu no Michi Tsugunai no Michi</title>
+<summary>Asta had caught up with Magna and Vanessa with his new sword. Asta tries to work with Magna and Vanessa to save Luck, who had been reincarnated into an elf, but Luck’s body had a lot of pent up magical power that was now surging and they have a hard time getting to him. Despite that, Asta and the others try to bring the normal Luck back. Will their feelings get through to their precious friend?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789296</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="221612" update="2019-12-11">
+<epno type="1">107</epno>
+<length>25</length>
+<airdate>2019-10-29</airdate>
+<rating votes="3">7.94</rating>
+<title xml:lang="ja">決戦 クローバー城</title>
+<title xml:lang="en">The Battle for Clover Castle</title>
+<title xml:lang="fr">Combat décisif à la cité royale</title>
+<title xml:lang="ar">معركة قلعة كلوفر</title>
+<title xml:lang="x-jat">Kessen: Clover Shiro</title>
+<summary>Captain Yami arrives at the royal residence inside the castle along with Finral. Even though Yami was a Magic Knight Squad Captain, dealing with these powerful elves on his own was proving to be difficult. Then suddenly, Captain Jack comes to their aid. Captain Yami and Captain Jack are able to defeat one elf after another with Finral’s support. But then, the floating dungeon carrying the leader of the elves, Licht, arrives...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789297</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="221613" update="2019-12-11">
+<epno type="1">108</epno>
+<length>25</length>
+<airdate>2019-11-05</airdate>
+<rating votes="3">8.62</rating>
+<title xml:lang="ja">戦場の舞姫</title>
+<title xml:lang="en">Battlefield Dancer</title>
+<title xml:lang="fr">La princesse qui virevoltait au combat</title>
+<title xml:lang="ar">راقصة ساحة المعركة</title>
+<title xml:lang="x-jat">Senjou no Maihime</title>
+<summary>Noelle, Nozel, and Zora arrive at the Silva residence where Noelle and Nozel grew up and end up fighting the elf Kivn there. However Kivn’s magic interferes with their magic, making it hard to fight her. Even then, Noelle is able to fight back but Captain Nozel is gravely injured. With her pride and confidence as a Magic Knight and her desire to protect her older brother, Noelle is able to awaken to a new power.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789298</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="221817" update="2019-12-09">
+<epno type="3">C20</epno>
+<length>2</length>
+<airdate>2019-10-01</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="en">Opening 9</title>
+</episode>
+<episode id="221886" update="2019-12-09">
+<epno type="3">C36</epno>
+<length>2</length>
+<airdate>2019-10-01</airdate>
+<rating votes="1">3.34</rating>
+<title xml:lang="en">Ending 11</title>
+</episode>
+<episode id="223527" update="2019-12-11">
+<epno type="1">109</epno>
+<length>25</length>
+<airdate>2019-11-12</airdate>
+<rating votes="3">8.62</rating>
+<title xml:lang="ja">空間魔道士の兄弟</title>
+<title xml:lang="en">Spatial Mage Brothers</title>
+<title xml:lang="fr">Les frères mages spatiaux</title>
+<title xml:lang="ar">الساحران المكانيان الأخوان</title>
+<title xml:lang="x-jat">Kuukan Madoushi no Kyoudai</title>
+<summary>While Mimosa, Kirsch, and En were protecting the Vermillion residence from the elves, Langris, who had reincarnated as an elf, had arrived at the castle. He goes after the king’s life but Finral shows up with Captain Yami and Captain Jack. Despite knowing the difference in power between him and his younger brother, Finral continues to support Captain Yami and Captain Jack in this fight against Langris. Finral goes for a risky attack which injures him, and...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789299</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="223528" update="2019-12-11">
+<epno type="1">110</epno>
+<length>25</length>
+<airdate>2019-11-19</airdate>
+<rating votes="3">8.24</rating>
+<title xml:lang="ja">暴れ牛 頂上決戦参戦!!</title>
+<title xml:lang="en">The Raging Bull Joins the Showdown!!</title>
+<title xml:lang="fr">Le Taureau noir enragé déboule</title>
+<title xml:lang="ar">الثور الهائج ينضم للمواجهة!!</title>
+<title xml:lang="x-jat">Abare Ushi: Choujou Kessen Sansen!!</title>
+<summary>As the battle at Clover Castle continues the Shadow Palace appears. Captain Yami and Captain Jack get a bad feeling about this, so they try to infiltrate the palace, but Magic Knights who had reincarnated as elves keep getting in their way. Then Asta and the other Black Bulls as well as Rades, Sally, and Valtos arrive! Asta tries to undo the reincarnation spell that’s been cast on the Magic Knights, but then the Captain of the Coral Peacocks, Dorothy Unsworth, who has also reincarnated as an elf appears before them!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789300</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="223529" update="2019-12-11">
+<epno type="1">111</epno>
+<length>25</length>
+<airdate>2019-11-26</airdate>
+<rating votes="3">8.62</rating>
+<title xml:lang="ja">鏡の中の瞳</title>
+<title xml:lang="en">The Eyes in the Mirror</title>
+<title xml:lang="fr">La prunelle dans le miroir</title>
+<title xml:lang="ar">الأعين التي في المرآة</title>
+<title xml:lang="x-jat">Kagami no Naka no Hitomi</title>
+<summary>Due to Captain Dorothy’s magic, Vanessa, who can use magic to alter fate and Charmy, who can use magic to recover mana had disappeared.   Asta and the remaining Black Bulls have lost the bulk of their defense and are now struggling against Gauche and Marie’s combo magic being used against them. Meanwhile, Vanessa and her team try to figure out how to get out of Captain Dorothy’s dream world.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789301</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="223530" update="2019-12-11">
+<epno type="1">112</epno>
+<length>25</length>
+<airdate>2019-12-03</airdate>
+<rating votes="3">9.21</rating>
+<title xml:lang="ja">信じられる人間</title>
+<title xml:lang="en">Humans Who Can Be Trusted</title>
+<title xml:lang="fr">Un humain digne de confiance</title>
+<title xml:lang="ar">البشر الذين يمكن الوثوق بهم</title>
+<title xml:lang="x-jat">Shinjirareru Ningen</title>
+<summary>Vanessa and her team are able to figure out how to leave Captain Dorothy’s Glamour World due to quick thinking on Sally’s part, but it’s easier said than done. But then Luck gets an idea to help them out. Meanwhile, Asta continues to try to undo the reincarnation spell on Gauche and Marie but can’t even get close to them. Henry sees this and decides to make a great sacrifice...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789302</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="224776" update="2020-01-11">
+<epno type="1">113</epno>
+<length>25</length>
+<airdate>2019-12-10</airdate>
+<rating votes="2">8.47</rating>
+<title xml:lang="ja">突入 影の王宮</title>
+<title xml:lang="en">Storming the Shadow Palace</title>
+<title xml:lang="fr">Le palais des ombres</title>
+<title xml:lang="ar">اقتحام قصر الظلال</title>
+<title xml:lang="x-jat">Totsunyuu: Kage no Oukyuu</title>
+<summary>After their last battle, Asta and some of the others decide to chase after Captain Yami and some others who had already headed into the Shadow Palace. However, the elves get in their way. It was then that Captain Fuegoleon and Captain Mereoleona, both who had just awakened, showed off their true powers. Asta and the others are happy to have their help, but then notice that the door to the Shadow Palace closing. In order to get Asta and his group into the palace, the other Black Bulls hold off the elves outside.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789303</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="224777" update="2020-01-11">
+<epno type="1">114</epno>
+<length>25</length>
+<airdate>2019-12-17</airdate>
+<rating votes="2">9.36</rating>
+<title xml:lang="ja">最後の入城者</title>
+<title xml:lang="en">The Final Invaders</title>
+<title xml:lang="fr">Le dernier arrivé</title>
+<title xml:lang="ar">آخر الغزاة</title>
+<title xml:lang="x-jat">Saigo no Nyuujousha</title>
+<summary>The Black Bulls fight off the elves as Asta and the captains head into the Shadow Palace. However, they start to feel cornered from being so run down from one battle after another. It was then that Yuno had finally arrived to save them, bringing other Magic Knights he found throughout the land with him. Yuno hears the situation from Charmy and decides to head into the Shadow Palace, too. However, the entrance was now closed. But then, his pendant starts to react in a strange way...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789304</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="224778" update="2020-01-21">
+<epno type="1">115</epno>
+<length>25</length>
+<airdate>2019-12-24</airdate>
+<rating votes="2">8.47</rating>
+<title xml:lang="ja">黒幕</title>
+<title xml:lang="en">Mastermind</title>
+<title xml:lang="fr">Le cerveau</title>
+<title xml:lang="ar">عقل مدبر</title>
+<title xml:lang="x-jat">Kuromaku</title>
+<summary>Yuno manages to enter the Shadow Palace with his pendant and runs into Patry and the others. However, his pendant is immediately stolen. Now, all of the necessary magic stones have been collected and the elves’ wish was supposed to come true. However, an uninvited guest appears before them: A devil from another world. They find out everything that happened between the elves and humans were actually a part of his plan all along. Yuno can’t hide is astonishment at how powerful the devil is as he tries to fight it, and then Asta and Mimosa also arrive!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>789305</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225094" update="2019-12-09">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2017-10-17</airdate>
+<title xml:lang="en">Opening 1b</title>
+</episode>
+<episode id="225095" update="2019-12-09">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2018-01-30</airdate>
+<title xml:lang="en">Opening 2b</title>
+</episode>
+<episode id="225096" update="2019-12-09">
+<epno type="3">C5</epno>
+<length>2</length>
+<airdate>2018-02-13</airdate>
+<title xml:lang="en">Opening 2c</title>
+</episode>
+<episode id="225097" update="2019-12-09">
+<epno type="3">C6</epno>
+<length>2</length>
+<airdate>2018-02-20</airdate>
+<title xml:lang="en">Opening 2d</title>
+</episode>
+<episode id="225098" update="2019-12-09">
+<epno type="3">C7</epno>
+<length>2</length>
+<airdate>2018-03-06</airdate>
+<title xml:lang="en">Opening 2e</title>
+</episode>
+<episode id="225099" update="2019-12-09">
+<epno type="3">C9</epno>
+<length>2</length>
+<airdate>2018-05-01</airdate>
+<title xml:lang="en">Opening 3b</title>
+</episode>
+<episode id="225100" update="2019-12-09">
+<epno type="3">C10</epno>
+<length>2</length>
+<airdate>2018-05-22</airdate>
+<title xml:lang="en">Opening 3c</title>
+</episode>
+<episode id="225101" update="2019-12-09">
+<epno type="3">C12</epno>
+<length>2</length>
+<airdate>2018-07-31</airdate>
+<title xml:lang="en">Opening 4b</title>
+</episode>
+<episode id="225102" update="2019-12-09">
+<epno type="3">C13</epno>
+<length>2</length>
+<airdate>2018-08-07</airdate>
+<title xml:lang="en">Opening 4c</title>
+</episode>
+<episode id="225103" update="2019-12-09">
+<epno type="3">C15</epno>
+<length>2</length>
+<airdate>2018-10-16</airdate>
+<title xml:lang="en">Opening 5b</title>
+</episode>
+<episode id="225104" update="2019-12-09">
+<epno type="3">C16</epno>
+<length>2</length>
+<airdate>2018-10-30</airdate>
+<title xml:lang="en">Opening 5c</title>
+</episode>
+<episode id="225105" update="2019-12-09">
+<epno type="3">C22</epno>
+<length>2</length>
+<airdate>2017-10-24</airdate>
+<title xml:lang="en">Ending 1b</title>
+</episode>
+<episode id="225106" update="2019-12-09">
+<epno type="3">C25</epno>
+<length>2</length>
+<airdate>2018-05-08</airdate>
+<title xml:lang="en">Ending 3b</title>
+</episode>
+<episode id="225107" update="2019-12-09">
+<epno type="3">C27</epno>
+<length>2</length>
+<airdate>2018-07-24</airdate>
+<title xml:lang="en">Ending 4b</title>
+</episode>
+<episode id="225108" update="2019-12-09">
+<epno type="3">C28</epno>
+<length>2</length>
+<airdate>2018-09-18</airdate>
+<title xml:lang="en">Ending 5</title>
+</episode>
+<episode id="225109" update="2019-12-09">
+<epno type="3">C30</epno>
+<length>2</length>
+<airdate>2018-10-09</airdate>
+<title xml:lang="en">Ending 6b</title>
+</episode>
+<episode id="225110" update="2019-12-09">
+<epno type="3">C31</epno>
+<length>2</length>
+<airdate>2018-10-16</airdate>
+<title xml:lang="en">Ending 6c</title>
+</episode>
+<episode id="225111" update="2019-12-09">
+<epno type="3">C32</epno>
+<length>2</length>
+<airdate>2018-12-02</airdate>
+<title xml:lang="en">Ending 7</title>
+</episode>
+<episode id="225525" update="2020-01-21">
+<epno type="1">116</epno>
+<length>25</length>
+<airdate>2020-01-07</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">最強の天敵</title>
+<title xml:lang="en">The Ultimate Natural Enemy</title>
+<title xml:lang="fr">L`ennemi ultime</title>
+<title xml:lang="ar">العدو الطبيعي المطلق</title>
+<title xml:lang="x-jat">Saikyou no Tenteki</title>
+<summary>“When the owner of the four-leaf grimoire is filled with despair, the five-leaf clover grimoire will be born.” Patry is filled with despair after learning he had been manipulated by the devil all this time and turns into a dark elf. He then starts attacking Yuno and Asta, fueled by nothing but hatred and malice. Somehow, becoming a dark elf had made Patry even stronger, which gives Yuno and Asta an even harder time fighting him. Then Captain Nozel appears before them. Nozel happens to have the best magical attribute to fight against light magic, mercury magic.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792252</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225526" update="2020-01-24">
+<epno type="1">117</epno>
+<length>25</length>
+<airdate>2020-01-14</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">今 封を切る時</title>
+<title xml:lang="en">Breaking the Seal</title>
+<title xml:lang="fr">L`heure de briser le sceau</title>
+<title xml:lang="ar">كسر الختم</title>
+<title xml:lang="x-jat">Ima Fuu o Kiru Toki</title>
+<summary>The strange little black bird Nero, who kept following Asta around, suddenly appears before Finral, who had just finished fighting with his brother Langris, and demands that he take them to the Demon’s bones back in Hage Village. Finral is obviously startled that Nero’s suddenly speaking human words but obliges and takes Nero to the bones and witnesses an unbelievable sight. We will finally find out the true events that befell the elves 500 years ago! Meanwhile, back at the Shadow Palace, the devil’s eerie magic fills the room.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792253</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225527" update="2020-02-27">
+<epno type="1">118</epno>
+<length>25</length>
+<airdate>2020-01-21</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">時空を超えた再会</title>
+<title xml:lang="en">A Reunion Across Time and Space</title>
+<title xml:lang="fr">Retrouvailles par-delà l`espace-temps</title>
+<title xml:lang="ar">لقاء عبر الزمان والمكان</title>
+<title xml:lang="x-jat">Jikuu o Koeta Saikai</title>
+<summary>To stop the devil from leaving the Shadow Palace Asta, Yuno, and Patry, who had just regained his senses, head to the top floor. Once they get there, they are greeted by the first Wizard King, Lumiere Silvamillion Clover and the one who serves him, Secré Swallowtail。Secré is the true form of the mysterious bird, Nero, and she is a mage that uses a rare magic called sealing magic. She uses her magic to break the seal on Licht, and they are able to witness the true leader of the elves, Licht, and his true powers. An epic battle begins so that Licht and Lumiere can get revenge against the devil.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792254</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225528" update="2020-02-27">
+<epno type="1">119</epno>
+<length>25</length>
+<airdate>2020-01-28</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">終わりの一撃</title>
+<title xml:lang="en">The Final Attack</title>
+<title xml:lang="fr">Le coup final</title>
+<title xml:lang="ar">الهجوم الأخير</title>
+<title xml:lang="x-jat">Owari no Ichigeki</title>
+<summary>Licht and Lumiere fight against the devil using incredibly powerful magic. But the devil has incredible regeneration powers and quickly heals himself, making him difficult to defeat. Asta witnesses the two powerful mages fighting and tries to figure out if he can use his anti-magic in a more useful way. He’s able to use a new power, but it’s so powerful that he’s having a hard time controlling it. Meanwhile, Yuno also awakens to a new power... Asta and Yuno, who both aspire to be the future Wizard King, pull off an impressive attack in front of the first Wizard King!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792255</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225529" update="2020-03-05">
+<epno type="1">120</epno>
+<length>25</length>
+<airdate>2020-02-04</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">夜明け</title>
+<title xml:lang="en">Dawn</title>
+<title xml:lang="fr">L`aube</title>
+<title xml:lang="ar">فجر</title>
+<title xml:lang="x-jat">Yoake</title>
+<summary>The Shadow Palace begins to shatter, but Asta and the others manage to escape. Meanwhile, the elves continued to attack the kingdom because they still didn’t know the truth. Asta is the only one who can undo the resurrection, but it won’t be easy to save all of them at once. Patry then frees Vangeance, who’s sleeping inside him, so he can use his world tree magic and Licht can use his magic that connects him with all of the elves and Asta is able to undo the resurrection of all the elves at once. Finally, the long battle is coming to an end.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792256</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="226511" update="2020-03-05">
+<epno type="1">121</epno>
+<length>25</length>
+<airdate>2020-02-11</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">3つの困ったこと</title>
+<title xml:lang="en">Three Problems</title>
+<title xml:lang="fr">Trois problèmes</title>
+<title xml:lang="ar">ثلاث مشاكل</title>
+<title xml:lang="x-jat">Mittsu no Komatta Koto</title>
+<summary>The battle involving the whole Clover Kingdom is finally over. But because of the battle, the kingdom was heavily damaged, so the Magic Knights were busy trying to repair everything. Meanwhile, someone rather unexpected shows up in front of Asta and the others and states three problems that will come up for the Clover Kingdom. Asta and the others are surprised, but just as they were told, someone showed up to try to judge Asta and his devil power.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792257</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="226512" update="2020-03-05">
+<epno type="1">122</epno>
+<length>25</length>
+<airdate>2020-02-18</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">真っ黒けっけ</title>
+<title xml:lang="en">As Pitch Black as It Gets</title>
+<title xml:lang="fr">D`un noir éclatant</title>
+<title xml:lang="ar">أحلك سواد ممكن</title>
+<title xml:lang="x-jat">Makkuro Kekke</title>
+<summary>Asta, who has the power of the devil, and Secré who used forbidden magic and turned into Nero, were called before the Magical Parliament to be judged. Asta maintains his innocence, but Damnatio Kira will do everything he can to probe that Asta is guilty. In order to save Asta and Secré, Yami shows up with the Black Bulls and they cause a ruckus. While the Black Bulls cause trouble, a few others show up...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792258</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="226513" update="2020-03-05">
+<epno type="1">123</epno>
+<length>25</length>
+<airdate>2020-02-25</airdate>
+<rating votes="1">3.34</rating>
+<title xml:lang="ja">ネロ, 追懐そして... 前編</title>
+<title xml:lang="en">Nero Reminisces... Part One</title>
+<title xml:lang="fr">Les souvenirs de Nero, première partie</title>
+<title xml:lang="ar">نيرو تتذكر... الجزء الأول</title>
+<title xml:lang="x-jat">Nero, Tsuikai Soshite... Zenpen</title>
+<summary>Because she used forbidden magic, Nero survived for centuries. In the back of her mind, memories from long ago start to replay in her head. From when Nero was still called Secré and when Secré first met the most powerful and talented mage in the Clover Kingdom, Prince Lumiere. They become friends with Licht and the other elves, but due to the evil plans of a devil, the humans end up killing all of Licht’s comrades. Because of that, Licht ends up turning into a demon and Lumiere finds him in that state. What will he have to do to protect the ones he loves?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792259</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="226514" update="2020-03-05">
+<epno type="1">124</epno>
+<length>25</length>
+<airdate>2020-03-03</airdate>
+<rating votes="1">3.34</rating>
+<title xml:lang="ja">ネロ, 追懐そして... 後編</title>
+<title xml:lang="en">Nero Reminisces... Part Two</title>
+<title xml:lang="fr">Les souvenirs de Nero, deuxième partie</title>
+<title xml:lang="ar">نيرو تتذكر... الجزء الثاني</title>
+<title xml:lang="x-jat">Nero, Tsuikai Soshite... Kouhen</title>
+<summary>After using forbidden magic in the fight against the devil, Secré turns into a bird and ends up spending centuries all alone. During that time, she ends up meeting Asta, who ends up with Licht’s grimoire that has a different devil residing in it. Patry ends up reviving due to resurrection magic, and then he becomes the leader of the Eye of the Midnight Sun and vows to get revenge. This was all according to the devil’s plan and Secré uses her sealing magic to free Lumiere and Licht so they can finish off the devil once and for all along with Asta. The battle comes to an end, and Secré now begins her new life as a member of the Black Bulls.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792260</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227138" update="2020-03-24">
+<epno type="1">125</epno>
+<length>25</length>
+<airdate>2020-03-10</airdate>
+<rating votes="1">7.40</rating>
+<title xml:lang="ja">帰還</title>
+<title xml:lang="en">Return</title>
+<title xml:lang="fr">Retour au QG</title>
+<title xml:lang="ar">عودة</title>
+<title xml:lang="x-jat">Kikan</title>
+<summary>The Black Bulls return to where their base originally was. Henry has to return the Raging Bull back into their hideout, but apparently, that takes some time. Meanwhile, Yami tells the Black Bulls to go find the magical beasts that escaped from the hideout. They had run away when Rades and the others had attacked the hideout and had been wandering around the forest ever since. There was even a chance that they had returned to their feral states. Their fear comes true, as one Black Bull is attacked after another.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792261</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227139" update="2020-03-24">
+<epno type="1">126</epno>
+<length>25</length>
+<airdate>2020-03-17</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">碧薔薇の告白</title>
+<title xml:lang="en">The Blue Rose`s Confession</title>
+<title xml:lang="fr">La déclaration de la Rose bleue</title>
+<title xml:lang="ar">اعتراف الوردة الزرقاء</title>
+<title xml:lang="x-jat">Ao Bara no Kokuhaku</title>
+<summary>The Black Bulls were ordered by the Wizard King to investigate the devils. Yami takes Asta and Nero and goes to talk to Captain Charlotte of the Blue Rose Knights, since she has experience with forbidden magic and curses. But when they get there, Charlotte suddenly runs off somewhere and they’re all in shock. Charlotte had memories of while Charla took over her body and fears that Yami had found out her true feelings and she ended up panicking. But then, she makes a decision.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792262</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227140" update="2020-04-05">
+<epno type="1">127</epno>
+<length>25</length>
+<airdate>2020-03-24</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">手掛かり</title>
+<title xml:lang="en">Clues</title>
+<title xml:lang="fr">Indices</title>
+<title xml:lang="ar">دلائل</title>
+<title xml:lang="x-jat">Tegakari</title>
+<summary>In order to find out more about the forbidden curse, Asta, Gordon, Grey, and Gauche head to Gordon`s house, since he comes from a family of famous curse mages. Once they get there, they can`t help but show their wariness towards Gordon`s family. But in the end, they end up finding out valuable information while they`re there. Meanwhile, Noelle goes to talk to the Dorothy Unsworth, the Captain of the Coral Peacocks, after her brother tells her to talk to her to find out the truth behind their mother`s death. Dorothy tells her the name of the devil who had killed her mother, and the same name is spoken by Gordon`s grandmother. That devil`s name is...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792263</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227141" update="2020-02-26">
+<epno type="1">128</epno>
+<length>25</length>
+<airdate>2020-03-31</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">ハート王国へ!</title>
+<title xml:lang="en">To the Heart Kingdom!</title>
+<title xml:lang="fr">En route vers le royaume de Heart</title>
+<title xml:lang="ar">إلى مملكة هارت</title>
+<title xml:lang="x-jat">Heart Oukoku e!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792264</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227851" update="2020-03-31">
+<epno type="1">129</epno>
+<length>25</length>
+<airdate>2020-04-07</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">悪魔メギキュラ</title>
+<title xml:lang="en">The Devil Megicula</title>
+<title xml:lang="fr">Le démon Megicula</title>
+<title xml:lang="ar">الشيطان ميغيكولا</title>
+<title xml:lang="x-jat">Akuma Megikyura</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>794724</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227852" update="2020-03-31">
+<epno type="1">130</epno>
+<length>25</length>
+<airdate>2020-04-14</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">新・魔法騎士団団長会議</title>
+<title xml:lang="en">The New Magic Knight Squad Captains` Meeting</title>
+<title xml:lang="fr">Les capitaines à nouveau réunis</title>
+<title xml:lang="ar">اجتماع قادة فرق فرسان السحر الجديد</title>
+<title xml:lang="x-jat">Shin Mahou Kishidan Danchou Kaigi</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>794725</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227853" update="2020-03-31">
+<epno type="1">131</epno>
+<length>25</length>
+<airdate>2020-04-21</airdate>
+<rating votes="1">8.64</rating>
+<title xml:lang="ja">新たなる決意</title>
+<title xml:lang="en">A New Resolve</title>
+<title xml:lang="ar">عزيمة جديدة</title>
+<title xml:lang="x-jat">Arata naru Ketsui</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>794726</identifier>
+<identifier>black-clover</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="227854" update="2020-03-31">
+<epno type="1">132</epno>
+<length>25</length>
+<airdate>2020-04-28</airdate>
+<title xml:lang="ja">目覚める獅子</title>
+<title xml:lang="en">The Lion Awakens</title>
+<title xml:lang="x-jat">Mezameru Shishi</title>
+</episode>
+<episode id="228543" update="2020-04-21">
+<epno type="1">133</epno>
+<length>25</length>
+<airdate>2020-05-05</airdate>
+<title xml:lang="en">Episode 133</title>
+</episode>
+<episode id="228544" update="2020-04-21">
+<epno type="1">134</epno>
+<length>25</length>
+<airdate>2020-05-12</airdate>
+<title xml:lang="en">Episode 134</title>
+</episode>
+<episode id="228545" update="2020-04-21">
+<epno type="1">135</epno>
+<length>25</length>
+<airdate>2020-05-19</airdate>
+<title xml:lang="en">Episode 135</title>
+</episode>
+<episode id="228546" update="2020-04-21">
+<epno type="1">136</epno>
+<length>25</length>
+<airdate>2020-05-26</airdate>
+<title xml:lang="en">Episode 136</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6360" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2003-03-13</startdate>
+<enddate>2003-03-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Asu o Tsukutta Otoko: Tanabe Sakurou to Biwako Sosui</title>
+<title xml:lang="ja" type="official">明日をつくった男 ~田辺朔郎と琵琶湖疏水~</title>
+</titles>
+<url>http://www.mushi-pro.co.jp/2010/08/%E6%98%8E%E6%97%A5%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%9F%E7%94%B7_%E7%94%B0%E8%BE%BA%E6%9C%94%E9%83%8E%E3%81%A8%E7%90%B5%E7%90%B6%E6%B9%96%E7%96%8F%E6%B0%B4-2/</url>
+<creators>
+<name id="833" type="Work">Mushi Production</name>
+<name id="51448" type="Original Work">Tamura Yoshiko</name>
+</creators>
+<ratings>
+<permanent count="2">3.33</permanent>
+<temporary count="2">3.00</temporary>
+</ratings>
+<picture>19169.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2649</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>28091</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.mushi-pro.co.jp/2010/08/明日をつくった男_田辺朔郎と琵琶湖疏水-2/</url>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16261</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="97026" update="2009-02-16">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>2003-03-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

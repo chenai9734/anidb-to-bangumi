@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3606" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1979-10-07</startdate>
+<enddate>1979-10-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Daikyouryuu Jidai</title>
+<title xml:lang="ja" type="synonym">大恐竜物語</title>
+<title xml:lang="en" type="synonym">Age Of The Great Dinosaurs</title>
+<title xml:lang="en" type="synonym">The Era of the Great Dinosaurs</title>
+<title xml:lang="es" type="synonym">La era de los dinosaurios</title>
+<title xml:lang="x-jat" type="synonym">Daikyouryu Monogatari</title>
+<title xml:lang="x-jat" type="synonym">Daikyouryu no Jidai</title>
+<title xml:lang="ja" type="official">大恐竜時代</title>
+<title xml:lang="it" type="official">Quando vivevano i dinosauri</title>
+<title xml:lang="el" type="official">Στην εποχή των δεινοσαύρων</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Recommended" uid="347159">b</recommendation>
+</recommendations>
+<creators>
+<name id="737" type="Unknown Relation">Toei</name>
+<name id="812" type="Unknown Relation">Nippon Television Network</name>
+<name id="1009" type="Work">Toei Douga</name>
+<name id="5198" type="Original Work">Ishinomori Shoutarou</name>
+<name id="5198" type="Series Composition">Ishinomori Shoutarou</name>
+<name id="5198" type="Direction">Ishinomori Shoutarou</name>
+<name id="38849" type="Music">Shogun</name>
+</creators>
+<description>http://anidb.net/ch32677 [Jun], his female companion, http://anidb.net/ch32678 [Remi], and her little brother, http://anidb.net/ch32679 [Chobi], are taken to the Cretaceous Period by a flying saucer.</description>
+<ratings>
+<permanent count="34">3.47</permanent>
+<temporary count="35">5.37</temporary>
+</ratings>
+<picture>146586.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4037</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4907</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>大恐竜時代</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235442</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>787</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>300</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="32677" type="main character in" update="2011-05-22">
+<name>Jun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72107.jpg</picture>
+</character>
+<character id="32678" type="main character in" update="2011-05-22">
+<name>Remi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72108.jpg</picture>
+<seiyuu id="2793" picture="171396.jpg">Horie Mitsuko</seiyuu>
+</character>
+<character id="32679" type="main character in" update="2011-05-22">
+<name>Chobi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72109.jpg</picture>
+<seiyuu id="19200" picture="50076.jpg">Tsukase Noriko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="53719" update="2011-10-20">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1979-10-07</airdate>
+<rating votes="1">2.36</rating>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

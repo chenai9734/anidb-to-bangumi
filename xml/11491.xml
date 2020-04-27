@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11491" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2015-02-26</startdate>
+<enddate>2015-02-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Diabolik Lovers (2015)</title>
+<title xml:lang="ja" type="official">DIABOLIK LOVERS (2015)</title>
+<title xml:lang="zh-Hans" type="official">魔鬼恋人 OAD</title>
+</titles>
+<relatedanime>
+<anime id="9717" type="Parent Story">Diabolik Lovers</anime>
+</relatedanime>
+<url>http://www.otomate.jp/dialover/df/</url>
+<creators>
+<name id="21222" type="Direction">Yoshida Risako</name>
+<name id="43929" type="Music">Sugiura Yuuki</name>
+</creators>
+<description>Bundled with a limited set of the PlayStation Vita game Diabolik Lovers Dark Fate.</description>
+<ratings>
+<permanent count="132">2.06</permanent>
+<temporary count="133">4.39</temporary>
+</ratings>
+<picture>176122.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>27417</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.otomate.jp/dialover/df/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="171930" update="2015-10-03">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2015-02-26</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

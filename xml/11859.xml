@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11859" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2015-11-25</startdate>
+<enddate>2015-11-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nirvana</title>
+<title xml:lang="ja" type="official">ニルバナ</title>
+</titles>
+<relatedanime>
+<anime id="11170" type="Other">Noragami Aragoto</anime>
+</relatedanime>
+<description>Music video bundled with the limited edition of the http://anidb.net/a11170 [Noragami Aragoto] http://anidb.net/co8597 [ED single].</description>
+<ratings>
+<permanent count="123">4.77</permanent>
+<temporary count="125">5.82</temporary>
+</ratings>
+<picture>180824.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32468</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2794" parentid="2883" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>music</name>
+<description>Music anime generally revolves around people concerned with music in their everyday lives. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competitions, characters desire for self improvement, and pursuit of a specific goal. This is not unlike the Sports category.</description>
+<picurl>169131.jpg</picurl>
+</tag>
+<tag id="2883" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>the arts</name>
+<description>The arts represent an outlet of human expression, usually influenced by culture, and driven by human creative impulse. Major constituents of the arts include literature – including poetry, novels and short stories, and epics; performing arts – among them music, dance, and theatre; culinary arts such as baking, chocolatiering, and winemaking; media arts like photography and film, and visual arts – including drawing, painting, and sculpting. Some art forms combine a visual element with performance (e.g. film) and the written word (e.g. comics).
+From prehistoric cave paintings to modern day films, art serves as a vessel for storytelling and conveying mankind`s relationship with its environment.
+Source: Wiki</description>
+</tag>
+</tags>
+<characters>
+<character id="60133" type="main character in" update="2013-11-05">
+<rating votes="116">2.94</rating>
+<name>Yukine</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145351.jpg</picture>
+</character>
+<character id="60135" type="appears in" update="2013-11-05">
+<rating votes="129">7.07</rating>
+<name>Bishamon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145355.jpg</picture>
+</character>
+<character id="60138" type="main character in" update="2013-11-05">
+<rating votes="192">7.92</rating>
+<name>Yato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145349.jpg</picture>
+</character>
+<character id="60139" type="main character in" update="2017-03-13">
+<rating votes="192">7.73</rating>
+<name>Iki Hiyori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145350.jpg</picture>
+</character>
+<character id="60531" type="appears in" update="2015-03-07">
+<rating votes="43">6.17</rating>
+<name>Nora</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nora is a Stray shinki and the main "nora" in the series, which means she has many names. And like any other nora, she`s mostly used for dirty works. and is considered a dirty being from other Deities.
+She has many masters since all her body is full of name marks. however only 3 of her masters has been revealed so far. She cares deeply for Yato and constantly tries to get him back to using her again by any means. She also is able to command and shape far shore beings under the curse of a "Mask"
+As Rabo`s Shinki, her name is Reiki.
+spoiler from non-anime material:
+As Yato`s Shinki, her name is Hiiro.
+As Ebisu`s Shinki, her name is Tsutsumi.</description>
+<picture>145358.jpg</picture>
+</character>
+<character id="62107" type="appears in" update="2014-02-17">
+<rating votes="4">3.13</rating>
+<name>Kuraha</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150393.jpg</picture>
+</character>
+<character id="64453" type="appears in" update="2015-09-19">
+<rating votes="20">5.55</rating>
+<name>Kinuha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177583.jpg</picture>
+</character>
+<character id="65094" type="appears in" update="2015-09-19">
+<rating votes="21">3.11</rating>
+<name>Akiha</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177578.jpg</picture>
+</character>
+<character id="65095" type="appears in" update="2015-09-19">
+<rating votes="15">4.96</rating>
+<name>Tsuguha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177587.jpg</picture>
+</character>
+<character id="65096" type="appears in" update="2015-10-03">
+<rating votes="16">6.74</rating>
+<name>Kuraha</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178223.jpg</picture>
+</character>
+<character id="65097" type="appears in" update="2015-09-19">
+<rating votes="27">6.38</rating>
+<name>Karuha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177581.jpg</picture>
+</character>
+<character id="65099" type="appears in" update="2015-09-19">
+<rating votes="14">3.68</rating>
+<name>Kazuha</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177582.jpg</picture>
+</character>
+<character id="65389" type="appears in" update="2014-03-04">
+<rating votes="7">4.94</rating>
+<name>Hinaha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>151055.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="173911" update="2015-12-26">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-11-25</airdate>
+<rating votes="1">9.03</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12100" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-04-08</startdate>
+<enddate>2015-04-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ai o Komete</title>
+<title xml:lang="en" type="synonym">With Love</title>
+<title xml:lang="ja" type="official">愛をこめて</title>
+</titles>
+<url>http://dioramanimation.jimdo.com/animation/愛をこめて/</url>
+<description>At the start of summer vacation, a young girl comes home from elementary school, bringing home with her some cherry tomatoes that she lovingly raised. Is this the start of the girl`s and the tomatoes` happy days together?</description>
+<ratings>
+<permanent count="22">4.67</permanent>
+<temporary count="22">5.56</temporary>
+</ratings>
+<picture>186016.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://dioramanimation.jimdo.com/animation/愛をこめて/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=aazChwoCAaU</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="177299" update="2016-04-25">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2015-04-08</airdate>
+<title xml:lang="en">With Love</title>
+<title xml:lang="x-jat">Ai o Komete</title>
+</episode>
+</episodes>
+</anime>

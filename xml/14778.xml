@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14778" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2018-08-15</startdate>
+<enddate>2018-08-15</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">An tu! An tu!</title>
+<title xml:lang="en" type="synonym">And2 Girls</title>
+<title xml:lang="zh-Hans" type="official">安菟！安菟！</title>
+</titles>
+<ratings>
+<permanent count="5">3.20</permanent>
+<temporary count="5">6.00</temporary>
+</ratings>
+<picture>231494.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38346</identifier>
+</externalentity>
+</resource>
+<resource type="33">
+<externalentity>
+<identifier>安菟！安菟！</identifier>
+</externalentity>
+</resource>
+<resource type="34">
+<externalentity>
+<url>https://www.bilibili.com/bangumi/media/md121372</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="214740" update="2019-04-04">
+<epno type="1">1</epno>
+<length>35</length>
+<airdate>2018-08-15</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

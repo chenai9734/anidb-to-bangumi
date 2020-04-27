@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6393" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1990-11-07</startdate>
+<enddate>1990-11-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ranma 1/2: Nettou Uta Gassen</title>
+<title xml:lang="en" type="synonym">Ranma 1/2: Hot Song Contest</title>
+<title xml:lang="x-jat" type="synonym">Ranma ½: Nettou Uta Gassen</title>
+<title xml:lang="ja" type="official">らんま1/2 熱闘歌合戦</title>
+</titles>
+<relatedanime>
+<anime id="193" type="Parent Story">Ranma 1/2 Nettou Hen</anime>
+</relatedanime>
+<recommendations total="1">
+<recommendation type="Recommended" uid="153140">I recommend this anime for all Ranma 1/2 fans, a truly rare finding, but it`s worth to get it.</recommendation>
+</recommendations>
+<creators>
+<name id="1410" type="Direction">Furuhashi Kazuhiro</name>
+<name id="970" type="Work">Kitty Film</name>
+<name id="818" type="Original Work">Takahashi Rumiko</name>
+</creators>
+<description>A two-part music OVA series never released outside of Japan featuring the main Ranma 1/2 characters. They appear to be having a music contest at a local TV station. As everybody knows, these characters can`t get along for more than three minutes and hilarity and hijinks ensue.</description>
+<ratings>
+<permanent count="191">5.19</permanent>
+<temporary count="192">6.32</temporary>
+</ratings>
+<picture>19491.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>6713</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88265</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2634</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="7247" type="main character in" update="2009-06-28">
+<rating votes="295">8.00</rating>
+<name>Saotome Ranma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Ranma, the only son of Genma and Nodoka Saotome, was taken from his home by his father when approximately 2 years old, to begin a 13-14-year training trip to perfect his skills in the martial arts.
+Later, near the end of the trip, Genma took Ranma to a training ground in China named Jusenkyo that few people used, due to the springs being cursed. Falling into them would transform a person into whatever first fell in. Not knowing this, and not having the patience to listen to a warning from the local guide, Genma attempted to train with Ranma atop the bamboo poles which jutted up out of the pools. When Ranma knocked Genma into Shonmaoniichuan/"Spring of `Drowned` Panda", he was surprised to watch a panda emerge from the pond and leap onto one of the poles. Genma, now cursed, was able to hit a surprised Ranma into Nyannichuan, or the "Spring of `Drowned` Girl". Thus he turns into a female version of his original form when splashed with cold water, which is only temporarily reversible through contact with hot water.</description>
+<picture>30262.jpg</picture>
+<seiyuu id="254" picture="17073.jpg">Yamaguchi Kappei</seiyuu>
+</character>
+<character id="7338" type="main character in" update="2009-05-27">
+<rating votes="272">6.21</rating>
+<name>Tendou Akane</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>26138.jpg</picture>
+<seiyuu id="268" picture="17093.jpg">Hidaka Noriko</seiyuu>
+</character>
+<character id="7449" type="main character in" update="2009-05-27">
+<rating votes="404">8.31</rating>
+<name>Saotome Ranma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>He turns into a female version of his original form when splashed with cold water, which is only (temporarily) reversible through contact with hot water.</description>
+<picture>26086.jpg</picture>
+<seiyuu id="13" picture="16583.jpg">Hayashibara Megumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="97134" update="2009-02-24">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1990-11-07</airdate>
+<rating votes="2">3.83</rating>
+<title xml:lang="en">Volume 1</title>
+</episode>
+<episode id="97135" update="2009-02-24">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1990-11-21</airdate>
+<rating votes="2">3.83</rating>
+<title xml:lang="en">Volume 2</title>
+</episode>
+</episodes>
+</anime>

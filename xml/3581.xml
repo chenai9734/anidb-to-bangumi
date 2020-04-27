@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3581" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1986-05-01</startdate>
+<enddate>1986-05-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Niji no Kanata e! Shoujo Diana Monogatari</title>
+<title xml:lang="en" type="synonym">Over the Rainbow: Story of Girl Diana</title>
+<title xml:lang="ja" type="official">虹のかなたへ! 少女ダイアナ物語</title>
+</titles>
+<creators>
+<name id="1041" type="Animation Work">Aubec</name>
+<name id="6118" type="Character Design">Arai Yutaka</name>
+<name id="19655" type="Direction">Kubo Hidemi</name>
+</creators>
+<description>The rare anime biography of Princess Diana from her birth to her early teen years.</description>
+<ratings>
+<permanent count="5">3.40</permanent>
+<temporary count="5">3.60</temporary>
+</ratings>
+<picture>68517.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5249</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>12165</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="30482" type="main character in" update="2011-03-27">
+<rating votes="1">6.08</rating>
+<name>Diana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68517.jpg</picture>
+<seiyuu id="508" picture="140061.jpg">Shimamoto Sumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="53720" update="2011-03-26">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1986-05-01</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

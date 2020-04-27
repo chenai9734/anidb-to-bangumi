@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10825" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-11-15</startdate>
+<enddate>2014-11-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Peeping Life: We Are the Hero</title>
+<title xml:lang="ja" type="official">Peeping Life -WE ARE THE HERO-</title>
+</titles>
+<relatedanime>
+<anime id="7302" type="Other">Peeping Life</anime>
+</relatedanime>
+<url>http://www.cwfilms.jp/peeping/</url>
+<ratings>
+<permanent count="3">1.52</permanent>
+<temporary count="3">3.66</temporary>
+</ratings>
+<picture>160506.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>27399</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.cwfilms.jp/peeping/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>350234</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="162549" update="2014-09-06">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2014-11-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

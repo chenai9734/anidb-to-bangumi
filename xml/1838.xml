@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1838" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2004-04-09</startdate>
+<enddate>2004-09-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shin Getter Robo</title>
+<title xml:lang="x-unk" type="synonym">Getter Robo Re:Model</title>
+<title xml:lang="ja" type="official">新ゲッターロボ</title>
+<title xml:lang="en" type="official">New Getter Robo</title>
+</titles>
+<relatedanime>
+<anime id="955" type="Alternative Setting">Getter Robo</anime>
+</relatedanime>
+<similaranime>
+<anime id="4575" approval="13" total="18">Tengen Toppa Gurren Lagann</anime>
+</similaranime>
+<url>http://www.bandaivisual.co.jp/new_getter/</url>
+<creators>
+<name id="868" type="Original Work">Nagai Gou</name>
+<name id="982" type="Animation Work">Brain`s Base</name>
+<name id="2961" type="Series Composition">Oonishi Shinsuke</name>
+<name id="4419" type="Original Work">Ishikawa Ken</name>
+<name id="5667" type="Direction">Kawagoe Jun</name>
+<name id="8193" type="Music">Nobuta Kazuo</name>
+<name id="2951" type="Character Design">Suzuki Fujio</name>
+</creators>
+<description>Humanity is under attack by demonic creatures called Oni. Unable to fight back by any other means, the scientist Dr. Saotome creates a series of giant robots that harness the mysterious power of Getter Rays, giving them the strength necessary to fight the Oni. The strongest of these is Getter Robo, and Saotome must enlist three very different men to pilot it - martial artist Nagare Ryouma, criminal leader Jin Hayato, and monk Musashibou Benkei. Together, the Getter Team fights to end the Oni menace forever.
+Source: ANN</description>
+<ratings>
+<permanent count="291">6.59</permanent>
+<temporary count="295">7.25</temporary>
+</ratings>
+<picture>136414.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3868</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2978</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1624</identifier>
+<identifier>jomfta</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.b-ch.com/ttl/index.php?ttl_c=286</url>
+</externalentity>
+<externalentity>
+<url>http://www.bandaivisual.co.jp/new_getter/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>New_Getter_Robo</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>新ゲッターロボ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2049</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>320019</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6757</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>2004/shin_getterrobo</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1393" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-03-08">
+<name>drill</name>
+</tag>
+<tag id="1589" parentid="2622" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-08">
+<name>samurai</name>
+<picurl>244341.jpg</picurl>
+</tag>
+<tag id="1802" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-01-24">
+<name>seinen</name>
+<description>Seinen, literally "young man", is one of the main demographic classifications applied to manga, and, by extension, to anime, especially manga-based ones. As the name implies, seinen works are marketed primarily to an audience of young men; the age range commonly understood to be the target of such works goes roughly from 17 to somewhere in the 40s.</description>
+<picurl>181651.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2282" parentid="2841" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2617" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-10-15">
+<name>calling your attacks</name>
+<description>"GIGAAAAAA DRIIIIIILLL BREAKEEEEEERRR"
+If you can do something more impressive than just throw a punch, your attack(s) must have an equally impressive name. More than that, you have to call it out as you launch the attack. It doesn`t matter if it`s a martial arts move, a magical spell or your secret superweapon, if you can`t say its name, it just isn`t nearly as cool or effective.
+Having a special attack is always a must, but not impressive enough. Every special attack needs a name. A really awesome and outstanding name which is easy to remember and even easier and impressive to yell. Because it just is not enough to name your attack. No, to unleash the full power of your attack, you have to call its name in your most MANLY and LOUDEST voice.
+It does not matter whether it is a martial arts move, a magical spell or flying drills from your mecha, if you can`t call its name, it just isn`t nearly as cool or effective. Not a requirement but wearing shades while calling your attack makes it at least twice as cool, moreover giving your mecha or magical companion shades too results in an immeasurable level of awesomeness, bringing down every enemy just through the POWER OF YOUR VOICE.
+A standard feature of practically every mecha, mahou shoujo, high fantasy, or martial arts anime.
+[Source: TV Tropes]</description>
+<picurl>144260.jpg</picurl>
+</tag>
+<tag id="2619" parentid="2841" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>gunfights</name>
+<description>Fights where two or more parties are firing guns at one another.</description>
+<picurl>211280.jpg</picurl>
+</tag>
+<tag id="2622" parentid="2841" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+<picurl>211286.jpg</picurl>
+</tag>
+<tag id="2624" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2630" parentid="2613" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2637" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>time travel</name>
+<description>In time travel anime characters are transported through time either figuratively or literally to find themselves either in the past or the future</description>
+<picurl>210068.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2640" parentid="2625" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-06-02">
+<name>alternative past</name>
+<description>An anime that takes place in an alternative past is an anime that clearly does not belong to the future or the present, and isn`t tied particularly closely to our history, or has ties to our history but only as a premise: there are too many things that don`t make sense for the time-period. In some cases there is futuristic technology present, but the overall setting still feels that of the past. However the setting must still take place on Earth, since we can not know if the history of a fantasy world is an alternate one or not.</description>
+</tag>
+<tag id="2642" parentid="2624" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-28">
+<name>alternative present</name>
+<description>Anime that fit in the alternative present category usually have technology and society that is very similar to ours, but with differences in both, history and culture, which sometimes are blatantly obvious, but sometimes harder to place; this one can at times be very subjective.</description>
+</tag>
+<tag id="2644" parentid="2274" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-14">
+<name>transforming craft</name>
+<description>A transforming craft is an object built by humans or other intelligent lifeforms, usually a robot but sometimes also a vehicle of some sort, that can rearrange its parts in order to switch between a minimum of two forms.</description>
+<picurl>224142.jpg</picurl>
+</tag>
+<tag id="2645" parentid="2274" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>piloted robot</name>
+<description>Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.</description>
+<picurl>222199.jpg</picurl>
+</tag>
+<tag id="2646" parentid="2849" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>demon</name>
+<description>In Western lore, demons are often described as minions from Hell, generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls. In Eastern lore, on the other hand, they are generally supernatural, often but not always malevolent beings who can be more mischievous than actually evil, or simply supernatural spirits of no specific alignment.</description>
+</tag>
+<tag id="2672" parentid="2834" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2750" parentid="2604" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2790" parentid="2605" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-17">
+<name>plot continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+A single linear focused plot is highly continuous.
+A truly random plot is highly discontinuous.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2874" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-05-07">
+<name>disaster</name>
+<description>A disaster is a large-scale situation that causes great loss of or damage or threat to life, health, property, society, or the environment, irrespective of its source or cause. Disasters have substantial, long-lasting negative repercussions, and great effort must be spent in order to undo or mitigate their effects.</description>
+</tag>
+<tag id="2923" parentid="2874" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-06-25">
+<name>post-apocalyptic</name>
+<description>An anime that takes place on future Earth (or it could be an alternative universe) after a major cataclysm has occurred. World War III, an alien invasion, plague, global warming or some other general disaster are common themes to build a post-apocalyptic world upon, where the effects were severe enough that mankind barely survived.
+The time frame may be immediately after the catastrophe, focusing on the travails or psychology of survivors, or considerably later, often including the theme that the existence of pre-catastrophe civilization has been forgotten (or mythologised). Post-apocalyptic stories often take place in an agrarian, non-technological future world, or a world where only scattered elements of technology remain. There is a considerable degree of blurring between post-apocalyptic fiction and that which deals with false utopias or dystopian societies.</description>
+<picurl>42081.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3087" parentid="2274" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>super robot</name>
+<description>These robots tend to have almost semi-magical attacks, which seem impossible or non-realistic, and/or perform non-realistic transformation sequences where they seem to gain/lose mass and utterly change their form, even if it means making their super-hard armour bend like plastic sheets.</description>
+<picurl>222137.jpg</picurl>
+</tag>
+<tag id="3327" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-08">
+<name>manly</name>
+<description>Masculinity is possessing qualities or characteristics considered typical of or appropriate to a man.
+Typical characteristics associated with masculinity are: courage, a strong physique, competitive, strong willed, and a sense of honor.
+Very important for being considered masculine however is the ability to inspire respect from your fellow brethren and/or being perceived as a virile man by the opposite sex.</description>
+</tag>
+<tag id="3419" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-05">
+<name>psycho face</name>
+<description>A psycho face or comical angry face is a weird or scary face that makes the character look like a psycho. This includes, but is not limited to: popping veins, eyes with different sizes, miniature pupils, grins, evil grins, showing incredible tongue, licking something, and/or drooling.
+This can result from either:
+
+* A character trait, as in, the character`s face is structurally naturally scary looking; or
+* A habit, as in, their face is NOT structurally naturally scary looking, but they like making scary faces (by virtue of their personality, for example), such as when angry.
+
+Generally, the habit version is the most common cause for psycho faces.</description>
+<picurl>221604.jpg</picurl>
+</tag>
+<tag id="4096" parentid="2750" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-23">
+<name>gore</name>
+<description>A Splatter film or Gore film is a sub-genre of horror film that deliberately focuses on graphic portrayals of gore and graphic violence. These films, through the use of special effects and excessive blood and guts, tend to display an overt interest in the vulnerability of the human body and the theatricality of its mutilation. Due to their willingness to portray images society might consider shocking, splatter films share some ideological grounds with the transgressive art movement. The term "splatter cinema" was coined by George A. Romero to describe his film Dawn of the Dead, though Dawn of the Dead is generally considered by critics to have higher aspirations, such as social commentary, than to be simply exploitative for its own sake.
+[Source: wiki]</description>
+<picurl>32491.jpg</picurl>
+</tag>
+<tag id="4215" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-30">
+<name>daikaijuu</name>
+<description>Literally translating to giant monster, daikaiju is an element found often in Japanese entertainment. Although usually for the science fiction genre it is also often used in horror, fantasy, mecha, and to a lesser extent comedy. Any monster that towers over a house technically qualifies as a daikaiju. Some anime, usually mecha, will go as far as calling their daikaiju with a specific title.</description>
+<picurl>60039.png</picurl>
+</tag>
+<tag id="4469" parentid="2644" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-29">
+<name>gattai</name>
+<description>Gattai is when two fighting spirits collide and unite, when a man`s soul is ablaze!
+When you are about to get your asses kicked by the big bad evil, it`s time to show your true fighting spirit and gattai, literally combine with your mecha to become at least ten times as powerful and kick the big bad evil`s ass.</description>
+<picurl>66429.png</picurl>
+</tag>
+<tag id="4479" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-02-03">
+<name>sense of foreboding</name>
+<description>The anime starts off quietly, everything seems to be fine, but from episode to episode the signs that something ominous is about to happen increase. E.g. a typical mystery setting.</description>
+</tag>
+<tag id="4611" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-22">
+<name>nearly almighty protagonist</name>
+<description>Man 1: "Hey man, did you see me take down that guy over there, there`s no way he could have survived that!"
+Man 2: "Yeah I know what you mean, it would take the strength of 1 million men to be able to ..... HE`S GETTING BACK UP!!?!?"
+*synonymous jaws dropping*
+This anime`s main character is comparable to the gods themselves in terms of resistibility, strength and/or downright bad-assery. Whenever they seem as if the fire inside has burnt out, they rise from the ashes with enough tenacity and ferocity to vanquish any foe that dare stand against them.</description>
+</tag>
+<tag id="5865" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-05-22">
+<name>manly tears</name>
+<description>Somewhere down the line, it became the "norm" that boys don`t cry. The scenario does not matter; shedding tears is the ultimate no-no in terms of what you can and cannot do as a man (at least in the West, anyway). But there comes a time when a man`s emotions do get the better of him, and they pour forth - as prerequisite an impassioned speech may or may not be present - by cascading down his cheeks. These are what we like to call "manly tears". Extremely powerful. Not limited but often used in hot-blooded / super robot shows. Examples include Yuusha Ou GaoGaiGar, Getter Robo and Tengen Toppa Gurren Lagann.
+The opposite of manly tears are "girly tears".</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+<tag id="7119" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-06">
+<name>Super Robot Wars</name>
+<description>Super Robot Wars is a series of tactical role-playing video games produced by Banpresto. The main feature of the franchise is having a story that crosses over several popular mecha anime, manga and video games, allowing characters and mecha from different titles to team up or battle one another. Due to the nature of crossover games and licensing involved, only a few games have been released outside Japan, and in English; early English-language games only feature Banpresto`s original characters and mecha, and a flagship installment were to never be released until 2016, with the English release of Super Robot Wars V in Southeast Asian countries. The franchise celebrated its 25th anniversary in 2016.
+Source: Wikipedia</description>
+<picurl>221614.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="32210" type="secondary cast in" update="2012-02-24">
+<rating votes="24">4.28</rating>
+<name>Saotome Hakase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82087.jpg</picture>
+<seiyuu id="409" picture="24867.jpg">Arimoto Kinryuu</seiyuu>
+</character>
+<character id="32211" type="main character in" update="2011-05-13">
+<rating votes="74">8.24</rating>
+<name>Nagare Ryouma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nagare Ryouma is a fictional character created by Go Nagai and Ken Ishikawa. He is the protagonist and main pilot in the Getter Robo franchise. He is a hot-blooded youth in high school. He pilots the Getter-1, Getter Dragon, and Shin Getter-1 in the manga and anime.
+Ryouma goes to high school with Musashi, Hayato, and Michiru. He travels to the Satome Research Institute on the day the Prototype Getter Robo is being tested. He witnesses the death of the Prototype Getter Robo team including the son of Professor Tomoe at the hands of the Evil Dinosaur Empire. He enlists the aid of Musashi Tomoe and Hayato Jin in order to pilot the real Getter Robo. Ryoma piloting the Getter-1 is key to battling the Dinosaur Empire. Ryouma and his friends fight the Dinosaur Empire until the final battle in which Musahi gives his life to defeat them.
+Even after the defeat of the Dinosaur Empire, a new threat arises in the form of the Clan of the 100 Demons. The remaining members of the Getter Robo team get Benkei Kurama to pilot the last jet of the Getter Robo G. Ryouma pilots the Getter Dragon in the second series.
+In the 1998 OVA series Getter Robo Armageddon, Ryouma was framed for the murder of Dr. Saotome. After a resurrected Dr. Saotome threatens to destroy the world, he is released from jail to commit the very murder he was accused of. Ryouma holds a grudge with Hayato; who not only committed the murder of Saotome, he also testified against him. After failing to stop a nuclear attack on Shin Dragon, he vanishes from Earth. He reappears 13 years later in an abandoned base located on the Moon. He rejoins the fight against The Invaders piloting a customized Getter, the Black Getter.
+Ryouma appears as a supporting characters in Shin Getter Robo vs Neo Getter Robo. Mentally scarred after being tortured by the Dinosaur Empire and the death of Musashi, he quits the Getter Team and wanders Japan as a martial artist. He returns and helps the New Getter Team when the Dinosaurs Empire attempts to destroy Shin Getter Robo.</description>
+<picture>71452.jpg</picture>
+<seiyuu id="258" picture="17080.jpg">Ishikawa Hideo</seiyuu>
+</character>
+<character id="32215" type="main character in" update="2012-02-24">
+<rating votes="31">8.39</rating>
+<name>Jin Hayato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Jin Hayato is a fictional character from the mecha series, Getter Robo. The aloof and seemingly anti-social Hayato Jin, displays considerable skill at various sports, but generally likes to be left alone. Despite this he eventually gets all the girls, including the Kyoryu Empire android spies. Hayato pilots the Jaguar Machine into battle with Ryoma Nagare and Musashi Tomoe. When combined with the others he pilots Getter 2. The machine reflects Hayato`s physical strength and speed.</description>
+<picture>82084.jpg</picture>
+<seiyuu id="266" picture="17091.jpg">Uchida Naoya</seiyuu>
+</character>
+<character id="32221" type="secondary cast in" update="2012-02-28">
+<rating votes="6">3.33</rating>
+<name>Saotome Michiru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82422.jpg</picture>
+<seiyuu id="442" picture="187043.jpg">Honda Takako</seiyuu>
+</character>
+<character id="32223" type="appears in" update="2011-05-13">
+<name>Saotome Tatsuhito</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3161" picture="69050.jpg">Yamanoi Jin</seiyuu>
+</character>
+<character id="47803" type="secondary cast in" update="2017-11-11">
+<name>Abe no Seimei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Seimei Abe is the villain of the series. He is responsible for bringing the Oni to attack the world.</description>
+<picture>92414.jpg</picture>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+<character id="50518" type="secondary cast in" update="2012-11-10">
+<name>Minamoto Raikou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127931.jpg</picture>
+<seiyuu id="566" picture="25408.jpg">Paku Romi</seiyuu>
+</character>
+<character id="68846" type="main character in" update="2017-11-14">
+<name>Musashibou Benkei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A warrior monk named after the legendary Japanese hero of the same name, in addition to http://anidb.net/ch32208 [Tomoe Musashi] and http://anidb.net/ch32214 [Kuruma Benkei]. Pilots the Bear Machine and Getter-3.</description>
+<picture>158571.jpg</picture>
+<seiyuu id="287" picture="73062.jpg">Yanada Kiyoyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="18763" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2004-04-09</airdate>
+<rating votes="1">6.09</rating>
+<title xml:lang="ja">竜馬が行く</title>
+<title xml:lang="en">Ryouma Goes</title>
+<title xml:lang="x-jat">Ryouma ga Iku</title>
+</episode>
+<episode id="19070" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2004-04-09</airdate>
+<title xml:lang="ja">隼人が来る</title>
+<title xml:lang="en">Hayato Comes</title>
+<title xml:lang="x-jat">Hayato ga Kuru</title>
+</episode>
+<episode id="19071" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2004-05-14</airdate>
+<title xml:lang="ja">武蔵坊弁慶</title>
+<title xml:lang="en">Musashibou Benkei</title>
+<title xml:lang="x-jat">Musashibou Benkei</title>
+</episode>
+<episode id="19072" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2004-05-14</airdate>
+<title xml:lang="ja">三匹が行く</title>
+<title xml:lang="en">Three Animals Go</title>
+<title xml:lang="x-jat">Sambiki ga Iku</title>
+</episode>
+<episode id="21716" update="2011-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2004-09-10</airdate>
+<title xml:lang="ja">天と地と</title>
+<title xml:lang="en">Heaven and Earth</title>
+<title xml:lang="x-jat">Ten to Chi to</title>
+</episode>
+<episode id="21717" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2004-07-09</airdate>
+<title xml:lang="ja">激突</title>
+<title xml:lang="en">Crash</title>
+<title xml:lang="x-jat">Gekitotsu</title>
+</episode>
+<episode id="21718" update="2011-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2004-09-10</airdate>
+<title xml:lang="ja">かくて神風は吹く</title>
+<title xml:lang="en">The Divine Wind Blows This Way</title>
+<title xml:lang="x-jat">Kakute Kamikaze wa Fuku</title>
+</episode>
+<episode id="21719" update="2011-10-20">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2004-09-10</airdate>
+<title xml:lang="ja">竜馬がいく</title>
+<title xml:lang="en">Ryouma Goes</title>
+<title xml:lang="x-jat">Ryouma ga Iku</title>
+</episode>
+<episode id="21720" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2004-06-11</airdate>
+<title xml:lang="ja">鬼火</title>
+<title xml:lang="en">Will-o-Wisp</title>
+<title xml:lang="x-jat">Onibi</title>
+</episode>
+<episode id="21721" update="2011-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2004-08-13</airdate>
+<title xml:lang="ja">ひとり狼</title>
+<title xml:lang="en">Lone Wolf</title>
+<title xml:lang="x-jat">Hitori Ookami</title>
+</episode>
+<episode id="21722" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2004-06-11</airdate>
+<title xml:lang="ja">鬼の棲む館</title>
+<title xml:lang="en">The Mansion Where the Oni Lives</title>
+<title xml:lang="x-jat">Oni no Sumu Yakata</title>
+</episode>
+<episode id="21723" update="2011-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2004-08-13</airdate>
+<title xml:lang="ja">地獄変</title>
+<title xml:lang="en">Picture of Hell</title>
+<title xml:lang="x-jat">Jigokuhen</title>
+</episode>
+<episode id="21724" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2004-07-09</airdate>
+<title xml:lang="ja">陰陽師</title>
+<title xml:lang="en">Diviner</title>
+<title xml:lang="x-jat">Inyou Shi</title>
+</episode>
+<episode id="121859" update="2010-09-05">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="121860" update="2010-09-05">
+<epno type="3">C1</epno>
+<length>2</length>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

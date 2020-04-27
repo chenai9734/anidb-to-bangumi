@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11755" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Utakata Overdrive</title>
+<title xml:lang="ja" type="official">ウタカタ・オーバードライブ</title>
+</titles>
+<url>https://twitter.com/utakata_od</url>
+<creators>
+<name id="43153" type="Character Design">Nob-C</name>
+<name id="43153" type="Original Plan">Nob-C</name>
+<name id="130" type="Direction">Mizushima Seiji</name>
+<name id="44149" type="Original Work">Amane Tou</name>
+<name id="44149" type="Original Plan">Amane Tou</name>
+</creators>
+<picture>179127.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32012</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354688</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>utakata_od</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6004" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>development hell</name>
+<description>Due to unforeseen circumstances, the production or release of this anime has been pushed back, stalled, or cancelled one or more times from when it was first announced.
+While some of them have eventually been completed, others might have only had a trailer released or have been changed into another format (e.g. a TV series turned into an OVA).
+Common reasons for a work to become stuck in development hell include creative differences, legal issues, financial problems, scheduling conflicts or the death of an involved creator.</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="173427" update="2015-11-21">
+<epno type="1">1</epno>
+<length>40</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

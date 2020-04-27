@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13915" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2020</startdate>
+<enddate>2020</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bean Bandit</title>
+<title xml:lang="ja" type="synonym">Project [B.B]</title>
+<title xml:lang="ja" type="official">BEAN BANDIT</title>
+</titles>
+<relatedanime>
+<anime id="45" type="Alternative Setting">Gun Smith Cats</anime>
+<anime id="419" type="Other">Riding Bean</anime>
+</relatedanime>
+<creators>
+<name id="4506" type="Character Design">Shimizu Keizou</name>
+<name id="3983" type="Original Work">Sonoda Ken`ichi</name>
+<name id="27920" type="Direction">Aoki Yuu</name>
+<name id="3983" type="Chief Animation Direction">Sonoda Ken`ichi</name>
+<name id="3983" type="Chief Direction">Sonoda Ken`ichi</name>
+</creators>
+<description>Note: A pilot film was shown at Anime Central in May 2019.</description>
+<picture>221366.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37483</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367004</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>Anime_ProjectBB</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6004" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>development hell</name>
+<description>Due to unforeseen circumstances, the production or release of this anime has been pushed back, stalled, or cancelled one or more times from when it was first announced.
+While some of them have eventually been completed, others might have only had a trailer released or have been changed into another format (e.g. a TV series turned into an OVA).
+Common reasons for a work to become stuck in development hell include creative differences, legal issues, financial problems, scheduling conflicts or the death of an involved creator.</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<characters>
+<character id="17247" type="main character in" update="2010-04-29">
+<rating votes="9">6.71</rating>
+<name>Minnie May</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>May is the explosives expert of the pair. She looks even younger than she is, leading to her nickname of Minnie (since she`s "as cute as Minnie Mouse"). Likes Chinese food.</description>
+<picture>1392.jpeg</picture>
+<seiyuu id="5663" picture="228631.jpg">Igarashi Hiromi</seiyuu>
+</character>
+<character id="17249" type="secondary cast in" update="2010-04-29">
+<rating votes="8">6.54</rating>
+<name>Becky Farrah</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Becky is the main source of information for the Gunsmith Cats. Her fees are high, but her leads are worth it. She drives a BMW 2002 Turbo.</description>
+<picture>1393.jpeg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+<character id="22084" type="main character in" update="2010-10-03">
+<rating votes="10">7.60</rating>
+<name>Bean Bandit</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Bean Bandit is one tough man. Perhaps "virtually unstoppable" is a better way to put it. To start, his clothes provide LOTS of protection. A kevlar-titanium combination line his jacket and headband, and both are able to stop bullets. He also has kevlar is his gloves, pants, and boots.
+As you can imagine, Bean`s very strong. He`s strong enough to tangle with the best of them either with just his bare hands or with his knife, which he can pitch with incredible speed and power.</description>
+<picture>55838.jpg</picture>
+<seiyuu id="12637" picture="130507.jpg">Takahashi Hidenori</seiyuu>
+</character>
+<character id="42508" type="main character in" update="2012-03-16">
+<rating votes="10">7.38</rating>
+<name>Rally Vincent</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>In her depiction in Riding Bean, Rally Vincent is a 20-year-old, blonde Englishwoman who works as http://anidb.net/ch22084 [Bean Bandit]`s business partner.</description>
+<picture>83832.jpg</picture>
+<seiyuu id="38232" picture="140073.jpg">Asai Ayaka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="217259" update="2019-05-23">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2019-05-18</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+<episode id="219212" update="2019-08-08">
+<epno type="4">T1</epno>
+<length>8</length>
+<airdate>2019-05-18</airdate>
+<title xml:lang="en">Special Preview</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8129" restricted="false">
+<type>Web</type>
+<episodecount>10</episodecount>
+<startdate>2007</startdate>
+<enddate>2007</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pankunchi</title>
+<title xml:lang="ja" type="synonym">ぱんくんち</title>
+<title xml:lang="ja" type="official">PANKUNCHI</title>
+</titles>
+<url>http://www.sanrio.co.jp/characters/pankunchi/</url>
+<description>Pankun is a baby panda who was abandoned in a forest where pandas live. His favorite possession is an old mitten that was in the box with him when he was abandoned. Pankun loves bread, and his tummy rumbles whenever he sees the two pieces of bread, Shokupan and Koppepan.</description>
+<ratings>
+<permanent count="12">3.16</permanent>
+<temporary count="12">4.75</temporary>
+</ratings>
+<picture>60388.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>5260</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sanrio.co.jp/characters/pankunchi/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1973" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-22">
+<name>cooking</name>
+<description>Cooking is the process of preparing food by using heat.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2653" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2795" parentid="1973" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>baking</name>
+<description>The art of making bread, cakes, pastries, pies, tarts, quiches, cookies and similar food in the oven.
+Mmmm.... smells nice.</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<characters>
+<character id="83969" type="main character in" update="2016-08-22">
+<name>Pan-kun</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190326.jpg</picture>
+</character>
+<character id="83970" type="main character in" update="2016-08-22">
+<name>Koppepan-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190327.jpg</picture>
+</character>
+<character id="83971" type="main character in" update="2016-08-22">
+<name>Shokupan-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190328.jpg</picture>
+</character>
+<character id="83972" type="secondary cast in" update="2016-08-22">
+<name>Japan-kun</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190329.jpg</picture>
+</character>
+<character id="83973" type="secondary cast in" update="2016-08-22">
+<name>Chinpan-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190330.jpg</picture>
+</character>
+<character id="83974" type="secondary cast in" update="2016-08-22">
+<name>Pumpkin-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190331.jpg</picture>
+</character>
+<character id="83975" type="secondary cast in" update="2016-08-22">
+<name>Raisin-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190332.jpg</picture>
+</character>
+<character id="83976" type="appears in" update="2016-08-22">
+<name>Fry Pan-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190333.jpg</picture>
+</character>
+<character id="83977" type="appears in" update="2016-08-22">
+<name>Pasta Pan-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190334.jpg</picture>
+</character>
+<character id="83978" type="appears in" update="2016-08-22">
+<name>Milk Pan-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190335.jpg</picture>
+</character>
+<character id="83979" type="appears in" update="2016-08-22">
+<name>Tanpan Hakase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190336.jpg</picture>
+</character>
+<character id="83980" type="appears in" update="2016-08-22">
+<name>Onna no Hito</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190337.jpg</picture>
+</character>
+<character id="83981" type="appears in" update="2016-08-22">
+<name>Rejigakari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190338.jpg</picture>
+</character>
+<character id="83982" type="secondary cast in" update="2016-08-22">
+<name>Tanpanrobo 1 gou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190339.jpg</picture>
+</character>
+<character id="83983" type="secondary cast in" update="2016-08-22">
+<name>Tanpanrobo 2 gou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190340.jpg</picture>
+</character>
+<character id="83984" type="appears in" update="2016-08-22">
+<name>Tanpanrobo 3 gou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190341.jpg</picture>
+</character>
+<character id="83985" type="secondary cast in" update="2016-08-22">
+<name>Tanpanrobo 4 gou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190342.jpg</picture>
+</character>
+<character id="83986" type="secondary cast in" update="2016-08-22">
+<name>Tanpanrobo 5 gou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190343.jpg</picture>
+</character>
+<character id="83987" type="appears in" update="2016-08-22">
+<name>Tanpanrobo 6 gou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190344.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="125857" update="2016-08-22">
+<epno type="1">6</epno>
+<length>2</length>
+<rating votes="1">2.60</rating>
+<title xml:lang="ja">じゃぱんくん</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Japan-kun</title>
+</episode>
+<episode id="125858" update="2016-08-22">
+<epno type="1">5</epno>
+<length>2</length>
+<rating votes="1">2.60</rating>
+<title xml:lang="ja">短パンタウン2</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Tan Pan Town 2</title>
+</episode>
+<episode id="125859" update="2016-08-22">
+<epno type="1">4</epno>
+<length>2</length>
+<rating votes="1">2.60</rating>
+<title xml:lang="ja">短パンタウン</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Tan Pan Town</title>
+</episode>
+<episode id="125860" update="2016-08-22">
+<epno type="1">3</epno>
+<length>2</length>
+<rating votes="1">5.68</rating>
+<title xml:lang="ja">ぱんくん</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Pan-kun</title>
+</episode>
+<episode id="125861" update="2016-08-22">
+<epno type="1">2</epno>
+<length>2</length>
+<rating votes="1">1.28</rating>
+<title xml:lang="ja">ショクパンくん</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Shokupan-kun</title>
+</episode>
+<episode id="125862" update="2016-08-22">
+<epno type="1">1</epno>
+<length>2</length>
+<rating votes="1">1.28</rating>
+<title xml:lang="ja">コッペパンくん</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Koppepan-kun</title>
+</episode>
+<episode id="156501" update="2016-08-22">
+<epno type="1">10</epno>
+<length>2</length>
+<rating votes="1">2.60</rating>
+<title xml:lang="ja">ぱんくんちクッキング</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Pankunchi Cooking</title>
+</episode>
+<episode id="156502" update="2013-12-04">
+<epno type="1">9</epno>
+<length>2</length>
+<rating votes="1">5.68</rating>
+<title xml:lang="ja">レーズンパンさん</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Raisin Pan-san</title>
+</episode>
+<episode id="156503" update="2013-12-04">
+<epno type="1">8</epno>
+<length>2</length>
+<rating votes="1">2.60</rating>
+<title xml:lang="ja">パンプキンちゃん</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Pumpkin-chan</title>
+</episode>
+<episode id="156504" update="2013-12-04">
+<epno type="1">7</epno>
+<length>2</length>
+<rating votes="1">2.60</rating>
+<title xml:lang="ja">てっぱんキッチン</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Teppan Kitchen</title>
+</episode>
+</episodes>
+</anime>

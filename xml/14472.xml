@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14472" restricted="false">
+<type>Web</type>
+<episodecount>15</episodecount>
+<startdate>2018-12-03</startdate>
+<enddate>2018-12-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hero Mask</title>
+<title xml:lang="ja" type="synonym">HERO≠MASK</title>
+<title xml:lang="ja" type="synonym">ヒーロー・マスク</title>
+<title xml:lang="ja" type="official">HERO MASK</title>
+<title xml:lang="zh-Hans" type="official">英雄面具</title>
+</titles>
+<relatedanime>
+<anime id="15021" type="Sequel">Hero Mask (2019)</anime>
+</relatedanime>
+<url>http://heromask.jp/</url>
+<creators>
+<name id="724" type="Animation Work">Studio Pierrot</name>
+<name id="12026" type="Character Design">Katagiri Takahisa</name>
+<name id="25575" type="Series Composition">Aoki Hiroyasu</name>
+<name id="25575" type="Direction">Aoki Hiroyasu</name>
+<name id="56604" type="Music">Katou Hisaki</name>
+</creators>
+<description>Now there`s a mysterious Mask before http://anidb.net/ch99014 [James Blood], and the man behind it is one that shouldn`t exist. What is the mystery surrounding this mask...?
+So begins an action-packed crime story set in a beautiful city!
+Source: Official page</description>
+<ratings>
+<permanent count="117">3.73</permanent>
+<temporary count="118">5.76</temporary>
+</ratings>
+<picture>226252.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21551</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38628</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://heromask.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Hero_Mask</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>HERO_MASK</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366016</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21670</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>heromask_anime</identifier>
+</externalentity>
+</resource>
+<resource type="34">
+<externalentity>
+<url>https://www.netflix.com/title/80200027</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="6018" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-27">
+<name>predominantly adult cast</name>
+<description>This show features mostly adults. That means children and teenagers are relatively rare and unlikely to hold significance to the plot.
+That is a rare trait in anime, as most shows spin around children or teenagers.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<characters>
+<character id="99008" type="secondary cast in" update="2018-11-02">
+<rating votes="1">3.78</rating>
+<name>Anna Winehouse</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4721" picture="232384.jpg">Miyadera Tomoko</seiyuu>
+</character>
+<character id="99009" type="secondary cast in" update="2018-11-02">
+<rating votes="1">3.78</rating>
+<name>Eve Palmer</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="12783" picture="225340.jpg">Fujii Yukiyo</seiyuu>
+</character>
+<character id="99010" type="main character in" update="2018-11-02">
+<rating votes="1">8.22</rating>
+<name>Edmond Chandler</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226259.jpg</picture>
+<seiyuu id="56605" picture="226254.jpg">Takano Kentarou</seiyuu>
+</character>
+<character id="99011" type="secondary cast in" update="2018-11-02">
+<rating votes="1">3.78</rating>
+<name>Grimm</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="31811" picture="85614.jpg">Karasuma Yuuichi</seiyuu>
+</character>
+<character id="99012" type="main character in" update="2018-11-02">
+<rating votes="3">5.60</rating>
+<name>Sarah Sinclair</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226256.jpg</picture>
+<seiyuu id="160" picture="30490.jpg">Kaida Yuuko</seiyuu>
+</character>
+<character id="99013" type="secondary cast in" update="2018-11-02">
+<rating votes="1">6.00</rating>
+<name>Geffrey Connor</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="369" picture="223406.jpg">Aoyama Yutaka</seiyuu>
+</character>
+<character id="99014" type="main character in" update="2018-11-02">
+<rating votes="1">8.22</rating>
+<name>James Blood</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226255.jpg</picture>
+<seiyuu id="2674" picture="41437.jpg">Kase Yasuyuki</seiyuu>
+</character>
+<character id="99015" type="secondary cast in" update="2018-11-02">
+<name>Steven Martland</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="464" picture="24725.jpg">Sugou Takayuki</seiyuu>
+</character>
+<character id="99016" type="main character in" update="2018-11-02">
+<rating votes="1">8.22</rating>
+<name>Harry Creighton</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226258.jpg</picture>
+<seiyuu id="2588" picture="153507.jpg">Uchiyama Kouki</seiyuu>
+</character>
+<character id="99017" type="secondary cast in" update="2018-11-02">
+<rating votes="1">3.78</rating>
+<name>Fred Faraday</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="78" picture="16686.jpg">Shimura Tomoyuki</seiyuu>
+</character>
+<character id="99018" type="secondary cast in" update="2018-11-02">
+<name>Monica Campbell</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="42677" picture="170580.jpg">Shibuya Haruka</seiyuu>
+</character>
+<character id="99019" type="secondary cast in" update="2018-11-02">
+<name>Richard Burner</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="415" picture="241624.jpg">Nakano Yutaka</seiyuu>
+</character>
+<character id="99020" type="main character in" update="2018-11-02">
+<rating votes="1">3.78</rating>
+<name>Lennox Gallagher</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226257.jpg</picture>
+<seiyuu id="32220" picture="86164.jpg">Morita Junpei</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="209827" update="2018-11-02">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="209828" update="2018-11-02">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="209829" update="2018-11-02">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="209830" update="2018-11-02">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="209831" update="2018-11-02">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="209832" update="2018-11-02">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">3.44</rating>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="209833" update="2018-11-02">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="209834" update="2018-11-02">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="209835" update="2018-11-02">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="209836" update="2018-11-02">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">3.44</rating>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="209837" update="2018-11-02">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">1.43</rating>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="209838" update="2018-11-02">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">3.44</rating>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="209839" update="2018-11-02">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<rating votes="1">3.44</rating>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="209840" update="2018-11-02">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="209841" update="2018-11-02">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-12-03</airdate>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="219712" update="2019-08-24">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2018-12-03</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

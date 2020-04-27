@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11303" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1976</startdate>
+<enddate>1976</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Are wa Dare?</title>
+<title xml:lang="ja" type="official">あれはだれ?</title>
+<title xml:lang="en" type="official">Who`s That?</title>
+</titles>
+<ratings>
+<permanent count="25">3.23</permanent>
+<temporary count="25">4.18</temporary>
+</ratings>
+<picture>174746.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29791</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="3206" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-06">
+<name>stop motion</name>
+<description>Stop motion (also known as stop-action or frame-by-frame) is an animation technique to make a physically manipulated object appear to move on its own. The object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played as a continuous sequence.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="169080" update="2015-06-19">
+<epno type="1">1</epno>
+<length>25</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

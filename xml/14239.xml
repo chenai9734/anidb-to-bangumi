@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14239" restricted="false">
+<type>Movie</type>
+<episodecount>2</episodecount>
+<startdate>2020-08-15</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Fate/Grand Order: Shinsei Entaku Ryouiki Camelot</title>
+<title xml:lang="x-unk" type="short">FGO6</title>
+<title xml:lang="ja" type="official">劇場版 Fate/Grand Order -神聖円卓領域キャメロット-</title>
+</titles>
+<relatedanime>
+<anime id="14238" type="Sequel">Fate/Grand Order: Zettai Majuu Sensen Babylonia</anime>
+<anime id="12519" type="Prequel">Fate/Grand Order: First Order</anime>
+</relatedanime>
+<url>https://anime.fate-go.jp/ep6-movie/</url>
+<creators>
+<name id="58837" type="Character Design">Onsen Nakaya</name>
+<name id="1595" type="Music">Fukasawa Hideyuki</name>
+<name id="22485" type="Music">Haga Keita</name>
+<name id="1757" type="Chief Animation Direction">Kise Kazuchika</name>
+<name id="27520" type="Direction">Suezawa Kei</name>
+<name id="927" type="Original Work">Type-Moon</name>
+<name id="2174" type="Original Work">Nasu Kinoko</name>
+<name id="721" type="Work">Production I.G</name>
+<name id="2173" type="Main Character Design">Takeuchi Takashi</name>
+<name id="1757" type="Character Design">Kise Kazuchika</name>
+<name id="12437" type="Character Design">Hosoi Mieko</name>
+<name id="43312" type="Animation Work">Signal MD</name>
+<name id="721" type="Animation Work">Production I.G</name>
+<name id="45020" type="Direction">Arai Kazuto</name>
+</creators>
+<description>* Based on the Camelot Singularity of Fate/Grand Order, the Japanese smartphone role-playing game created by http://anidb.net/cr58840 [Delight Works] based on the Fate series by http://anidb.net/cr927 [Type-Moon].</description>
+<picture>239211.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22020</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38085</identifier>
+</externalentity>
+<externalentity>
+<identifier>38086</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://anime.fate-go.jp/ep6-movie/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365061</identifier>
+</externalentity>
+<externalentity>
+<identifier>365062</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>FGOAP_ep6</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="85948" type="main character in" update="2016-11-02">
+<rating votes="56">5.36</rating>
+<name>Mash Kyrielight</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193951.jpg</picture>
+<seiyuu id="38380" picture="224406.jpg">Takahashi Rie</seiyuu>
+</character>
+<character id="85953" type="secondary cast in" update="2016-12-15">
+<rating votes="9">4.65</rating>
+<name>Romani Archaman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195896.jpg</picture>
+<seiyuu id="191" picture="17006.jpg">Suzumura Ken`ichi</seiyuu>
+</character>
+<character id="85954" type="main character in" update="2016-11-02">
+<rating votes="31">1.64</rating>
+<name>Fujimaru Ritsuka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193981.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="92906" type="secondary cast in" update="2017-12-18">
+<rating votes="4">6.57</rating>
+<name>Saber</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>210945.jpg</picture>
+<seiyuu id="326" picture="17162.jpg">Mizushima Takahiro</seiyuu>
+</character>
+<character id="104840" type="secondary cast in" update="2019-08-04">
+<rating votes="12">4.47</rating>
+<name>Leonardo da Vinci</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>236923.jpg</picture>
+<seiyuu id="227" picture="205854.jpg">Sakamoto Maaya</seiyuu>
+</character>
+<character id="105851" type="main character in" update="2019-10-05">
+<name>Bedivere</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239212.jpg</picture>
+<seiyuu id="255" picture="40713.jpg">Miyano Mamoru</seiyuu>
+</character>
+<character id="108788" type="secondary cast in" update="2020-03-21">
+<name>Agravain</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+<character id="108789" type="secondary cast in" update="2020-03-21">
+<name>Arash</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3141" picture="65575.jpg">Tsuruoka Satoshi</seiyuu>
+</character>
+<character id="108790" type="secondary cast in" update="2020-03-21">
+<name>Ozymandias</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+<character id="108791" type="secondary cast in" update="2020-03-21">
+<name>Tristan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2588" picture="153507.jpg">Uchiyama Kouki</seiyuu>
+</character>
+<character id="108792" type="secondary cast in" update="2020-03-21">
+<name>Nitocris</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="38297" picture="150939.jpg">Tanaka Minami</seiyuu>
+</character>
+<character id="108793" type="secondary cast in" update="2020-03-21">
+<name>Mordred</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="108794" type="secondary cast in" update="2020-03-21">
+<name>Lancelot</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+<character id="108795" type="secondary cast in" update="2020-03-21">
+<name>Noroi Ude no Hasan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1616" picture="23191.jpg">Inada Tetsu</seiyuu>
+</character>
+<character id="108796" type="secondary cast in" update="2020-03-21">
+<name>Shishi-ou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="12" picture="184301.jpg">Kawasumi Ayako</seiyuu>
+</character>
+<character id="108797" type="secondary cast in" update="2020-03-21">
+<name>Xuanzang Sanzang</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="16085" picture="178446.jpg">Komatsu Mikako</seiyuu>
+</character>
+<character id="108798" type="secondary cast in" update="2020-03-21">
+<name>Seihitsu no Hasan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="38108" picture="172027.jpg">Senbongi Sayaka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="203587" update="2018-07-29">
+<epno type="1">2</epno>
+<length>0</length>
+<title xml:lang="ja">Paladin; Agateram</title>
+<title xml:lang="en">Paladin; Agateram</title>
+<title xml:lang="x-jat">Paladin; Agateram</title>
+</episode>
+<episode id="203588" update="2020-03-21">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2020-08-15</airdate>
+<title xml:lang="ja">Wandering; Agateram</title>
+<title xml:lang="en">Wandering; Agateram</title>
+<title xml:lang="x-jat">Wandering; Agateram</title>
+</episode>
+</episodes>
+</anime>

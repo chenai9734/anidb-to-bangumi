@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9755" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2012-04</startdate>
+<enddate>2012-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hassou Hen</title>
+<title xml:lang="ja" type="official">発想編</title>
+</titles>
+<relatedanime>
+<anime id="8495" type="Other">Ajisai Hen</anime>
+<anime id="8497" type="Other">Sora Hen</anime>
+<anime id="8498" type="Other">Hana Hen</anime>
+<anime id="8592" type="Other">Hoshi Hen</anime>
+<anime id="9757" type="Other">Kasa Hen</anime>
+<anime id="9758" type="Other">Ikitaku Naru Omise Hen</anime>
+</relatedanime>
+<url>http://www.kyotoanimation.co.jp/company/cm/idea/</url>
+<creators>
+<name id="736" type="Animation Work">Kyoto Animation</name>
+<name id="528" type="Character Design">Horiguchi Yukiko</name>
+<name id="5054" type="Music">Nomi Yuuji</name>
+</creators>
+<description>*A CM directed by http://anidb.net/cr1675 [Miyoshi Ichirou], designed by http://anidb.net/cr528 [Horiguchi Yukiko] and produced by http://anidb.net/cr736 [Kyoto Animation].</description>
+<ratings>
+<permanent count="190">3.72</permanent>
+<temporary count="190">5.13</temporary>
+</ratings>
+<picture>133419.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17811</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.kyotoanimation.co.jp/company/cm/idea/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="154438" update="2013-10-01">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">CM</title>
+</episode>
+</episodes>
+</anime>

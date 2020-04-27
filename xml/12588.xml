@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12588" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1970-10</startdate>
+<enddate>1970-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Avignon no Hashi de</title>
+<title xml:lang="ja" type="official">アビニョンの橋で</title>
+</titles>
+<url>https://www.nhk.or.jp/minna/songs/MIN197010_01/</url>
+<description>A Japanese version of an old 15th century French song `Sur le Pont d`Avignon,` which describes how people would come and dance on the Pont St. Bénézet (Pont d`Avignon).</description>
+<ratings>
+<permanent count="23">2.61</permanent>
+<temporary count="24">4.16</temporary>
+</ratings>
+<picture>195600.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8778</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.nhk.or.jp/minna/songs/MIN197010_01/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="182778" update="2016-12-05">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

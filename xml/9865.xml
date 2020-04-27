@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9865" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1990-03-28</startdate>
+<enddate>1990-03-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Noobow: Kieta Medal</title>
+<title xml:lang="ja" type="official">ぬ~ぼ~ 消えたメダル</title>
+</titles>
+<creators>
+<name id="23648" type="Direction">Oota Hiromitsu</name>
+</creators>
+<ratings>
+<permanent count="3">4.74</permanent>
+<temporary count="3">5.00</temporary>
+</ratings>
+<picture>139252.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18575</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ぬーぼー</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235812</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2590</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="151259" update="2013-06-22">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1990-03-28</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

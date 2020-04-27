@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10396" restricted="false">
+<type>Web</type>
+<episodecount>8</episodecount>
+<startdate>2014-02-28</startdate>
+<enddate>2014-06-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">X Maiden</title>
+<title xml:lang="ja" type="official">エクスメイデン</title>
+</titles>
+<url>http://xmaiden.jp/</url>
+<description>In 20XX C.E., a mysterious alien race named Firow suddenly appears on Earth. The Firow`s dreadful attacks force humanity to engage in a difficult battle. But humanity`s last hope, the X Maiden who wear weapons built to destroy the Firow, are about to set out.
+Source: ANN</description>
+<ratings>
+<permanent count="9">1.99</permanent>
+<temporary count="9">3.88</temporary>
+</ratings>
+<picture>148491.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22983</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>24839</identifier>
+</externalentity>
+<externalentity>
+<identifier>22757</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://xmaiden.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>エクスメイデン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348322</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17208</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="63063" type="main character in" update="2014-01-13">
+<rating votes="1">5.01</rating>
+<name>Hagino Midori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hagino Midori is a 15-year-old girl from Kansai who is very shy. She loves reading books about everything, from love to the occult.
+Source: ANN</description>
+<picture>148498.jpg</picture>
+<seiyuu id="578" picture="193571.jpg">Tatsumi Yuiko</seiyuu>
+</character>
+<character id="63064" type="main character in" update="2014-01-13">
+<name>Wanderlei Zillminnko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Wanderlei Zillminnko is a 15-year-old optimistic girl who is the type of person who is in such high spirits that she ends up accidentally breaking things in the classroom.
+Source: ANN</description>
+<picture>148499.jpg</picture>
+<seiyuu id="98" picture="172032.jpg">Mako</seiyuu>
+</character>
+<character id="63065" type="secondary cast in" update="2014-01-13">
+<rating votes="1">5.01</rating>
+<name>Virgo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Virgo is a 17-year-old alien from the "Firow" race who threaten mankind. She works part-time at the Tamaki bar. She is a brave and good girl who works very hard and is constantly confused by the cultural differences between her kind and humanity.
+Source: ANN</description>
+<picture>148500.jpg</picture>
+<seiyuu id="3712" picture="240126.jpg">Tamura Mutsumi</seiyuu>
+</character>
+<character id="63066" type="secondary cast in" update="2014-01-13">
+<name>Croix</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Croix is a six-year-old cat who is an older-sister type who is very good at taking care of others. She often speaks with Virgo when she is taking breaks from her work at the bar.</description>
+<picture>148501.jpg</picture>
+<seiyuu id="39025" picture="148502.jpg">Noda Mami</seiyuu>
+</character>
+<character id="63067" type="main character in" update="2014-01-13">
+<rating votes="1">5.01</rating>
+<name>Tachibana Aoi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tachibana Aoi is a 15-year-old girl who plays the "straight man" to everyone else, especially to Jun and Zill. She is a secret fujoshi whose shelves are lined with boys-love manga.
+Source: ANN</description>
+<picture>148496.jpg</picture>
+<seiyuu id="34544" picture="171992.jpg">Iida Yuuko</seiyuu>
+</character>
+<character id="63068" type="secondary cast in" update="2014-01-13">
+<rating votes="1">5.01</rating>
+<name>Yukino Matsuri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yukino Matsuri is the 25-year-old superior to Jun and the chief of the secret base. She is straight-laced and old fashioned, but she is also a bit of an airhead.
+Source: ANN</description>
+<picture>148495.jpg</picture>
+<seiyuu id="89" picture="148709.jpg">Yahagi Sayuri</seiyuu>
+</character>
+<character id="63069" type="secondary cast in" update="2014-01-13">
+<rating votes="2">7.23</rating>
+<name>Tamaki Harumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tamaki Harumi is the 25-year-old owner of the Tamaki bar. She is an energetic and reliable waitress who is old friends with Matsuri.
+Source: ANN</description>
+<picture>148494.jpg</picture>
+<seiyuu id="593" picture="17990.jpg">Honda Youko</seiyuu>
+</character>
+<character id="63070" type="main character in" update="2014-01-13">
+<rating votes="2">7.23</rating>
+<name>Akamaru Jun</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Akamaru Jun is a 15-year-old bright and energetic girl. She has a fear of strangers to the point of getting sweaty palms, but she is oddly always full of confidence.
+Source: ANN</description>
+<picture>148497.jpg</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="160534" update="2014-06-28">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2014-02-28</airdate>
+<title xml:lang="ja">起動! エクスメイデン</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kidou! X Maiden</title>
+</episode>
+<episode id="160789" update="2014-06-27">
+<epno type="2">S7</epno>
+<length>7</length>
+<airdate>2014-06-13</airdate>
+<title xml:lang="ja">居酒屋たまき ~あさりのお味噌汁~</title>
+<title xml:lang="en">Episode S7</title>
+<title xml:lang="x-jat">Izakaya Tamaki: Asari no Omisoshiru</title>
+</episode>
+<episode id="160790" update="2014-06-27">
+<epno type="2">S6</epno>
+<length>6</length>
+<airdate>2014-05-16</airdate>
+<title xml:lang="ja">居酒屋たまき ~路地裏談義 三~</title>
+<title xml:lang="en">Episode S6</title>
+<title xml:lang="x-jat">Izakaya Tamaki: Rojiura Dangi San</title>
+</episode>
+<episode id="160791" update="2014-06-27">
+<epno type="2">S5</epno>
+<length>8</length>
+<airdate>2014-04-18</airdate>
+<title xml:lang="ja">居酒屋たまき ~コラーゲン鍋~</title>
+<title xml:lang="en">Episode S5</title>
+<title xml:lang="x-jat">Izakaya Tamaki: Kollagen Nabe</title>
+</episode>
+<episode id="160792" update="2014-06-27">
+<epno type="2">S4</epno>
+<length>5</length>
+<airdate>2014-04-11</airdate>
+<title xml:lang="ja">居酒屋たまき ~路地裏談義 二~</title>
+<title xml:lang="en">Episode S4</title>
+<title xml:lang="x-jat">Izakaya Tamaki: Rojiura Dangi Ni</title>
+</episode>
+<episode id="160793" update="2014-06-27">
+<epno type="2">S3</epno>
+<length>5</length>
+<airdate>2014-03-21</airdate>
+<title xml:lang="ja">居酒屋たまき ~路地裏談義 一~</title>
+<title xml:lang="en">Episode S3</title>
+<title xml:lang="x-jat">Izakaya Tamaki: Rojiura Dangi Ichi</title>
+</episode>
+<episode id="160794" update="2014-06-27">
+<epno type="4">T1</epno>
+<length>2</length>
+<airdate>2014-02-18</airdate>
+<title xml:lang="en">PV</title>
+</episode>
+<episode id="160795" update="2014-06-27">
+<epno type="2">S2</epno>
+<length>7</length>
+<airdate>2014-03-10</airdate>
+<title xml:lang="ja">居酒屋たまき ~イカ刺し~</title>
+<title xml:lang="en">Episode S2</title>
+<title xml:lang="x-jat">Izakaya Tamaki: Ikasashi</title>
+</episode>
+<episode id="160796" update="2014-06-27">
+<epno type="2">S1</epno>
+<length>8</length>
+<airdate>2014-03-10</airdate>
+<title xml:lang="ja">居酒屋たまき ~ほっけの塩焼き~</title>
+<title xml:lang="en">Episode S1</title>
+<title xml:lang="x-jat">Izakaya Tamaki: Hokke no Shioyaki</title>
+</episode>
+<episode id="160797" update="2014-06-27">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2014-06-20</airdate>
+<title xml:lang="ja">決断, そしてジレンマ</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Ketsudan, Soshite Dilemma</title>
+</episode>
+<episode id="160798" update="2014-06-27">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2014-06-06</airdate>
+<title xml:lang="ja">甘い罠</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Amai Wana</title>
+</episode>
+<episode id="160799" update="2014-06-27">
+<epno type="1">6</epno>
+<length>20</length>
+<airdate>2014-05-23</airdate>
+<title xml:lang="ja">言の葉</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Koto no Ha</title>
+</episode>
+<episode id="160800" update="2014-06-27">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2014-05-09</airdate>
+<title xml:lang="ja">空の支配者</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Sora no Shihaisha</title>
+</episode>
+<episode id="160801" update="2014-06-27">
+<epno type="1">4</epno>
+<length>10</length>
+<airdate>2014-05-02</airdate>
+<title xml:lang="ja">友情と欲望</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Yuujou to Yokubou</title>
+</episode>
+<episode id="160802" update="2014-06-27">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2014-04-25</airdate>
+<title xml:lang="ja">思念のリミット</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Shinen no Limit</title>
+</episode>
+<episode id="160803" update="2014-06-27">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2014-04-04</airdate>
+<title xml:lang="ja">第四の搭乗者</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Dai Yon no Toujousha</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13976" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2018-05-23</startdate>
+<enddate>2018-05-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Houkago Midnighters: Short Movies Season 2</title>
+<title xml:lang="ja" type="official">放課後ミッドナイターズ ショートムービーズ Season2</title>
+</titles>
+<relatedanime>
+<anime id="9164" type="Prequel">Houkago Midnighters</anime>
+</relatedanime>
+<url>http://afterschool-midnighters.com/</url>
+<creators>
+<name id="36236" type="Direction">Takekiyo Hitoshi</name>
+<name id="54289" type="Animation Work">MontBlanc Pictures</name>
+</creators>
+<ratings>
+<permanent count="2">2.26</permanent>
+<temporary count="2">3.50</temporary>
+</ratings>
+<picture>221349.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37591</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://afterschool-midnighters.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363727</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>kyunsama_asm</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="197314" update="2018-03-24">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2018-05-23</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

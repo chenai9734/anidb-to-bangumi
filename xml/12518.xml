@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12518" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-03-10</startdate>
+<enddate>2017-03-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shimajirou to Niji no Oasis</title>
+<title xml:lang="ja" type="official">しまじろうと にじのオアシス</title>
+</titles>
+<url>http://kodomo.benesse.ne.jp/open/movie/2017-oasis/</url>
+<creators>
+<name id="1292" type="Animation Work">The Answer Studio</name>
+<name id="31433" type="Direction">Hirabayashi Isamu</name>
+<name id="47789" type="Original Work">Benesse Corporation</name>
+</creators>
+<ratings>
+<permanent count="1">2.92</permanent>
+<temporary count="1">2.00</temporary>
+</ratings>
+<picture>193936.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23115</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34315</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kodomo.benesse.ne.jp/open/movie/2017-oasis/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358711</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="181649" update="2017-02-25">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2017-03-10</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

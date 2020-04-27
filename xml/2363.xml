@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2363" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1984-10-28</startdate>
+<enddate>1984-10-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ginga Hyouryuu Vifam: Kachua kara no Tayori</title>
+<title xml:lang="ja" type="official">銀河漂流バイファム カチュアからの便り</title>
+</titles>
+<relatedanime>
+<anime id="2361" type="Parent Story">Ginga Hyouryuu Vifam</anime>
+</relatedanime>
+<creators>
+<name id="726" type="Animation Production">Sunrise</name>
+<name id="3489" type="Character Design">Ashida Toyoo</name>
+<name id="1945" type="Original Work">Hoshiyama Hiroyuki</name>
+<name id="1352" type="Original Plan">Yatate Hajime</name>
+<name id="147" type="Original Plan">Tomino Yoshiyuki</name>
+<name id="4508" type="Music">Watanabe Toshiyuki</name>
+<name id="5515" type="Series Composition">Miura Masanori</name>
+<name id="5084" type="Original Work">Kanda Takeyuki</name>
+<name id="5084" type="Direction">Kanda Takeyuki</name>
+</creators>
+<ratings>
+<permanent count="15">5.04</permanent>
+<temporary count="15">5.86</temporary>
+</ratings>
+<picture>134912.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7424</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9387</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>銀河漂流バイファム#OVA</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2900</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>162289</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11192</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="46901" type="main character in" update="2012-07-15">
+<name>Pench Eliza</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90955.jpg</picture>
+<seiyuu id="30725" picture="21217.jpg">Akiyama Runa</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="22181" update="2009-08-12">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1984-10-28</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

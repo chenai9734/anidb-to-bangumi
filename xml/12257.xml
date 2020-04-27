@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12257" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-02-09</startdate>
+<enddate>2017-02-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Armed Blue: Gunvolt</title>
+<title xml:lang="ja" type="official">蒼き雷霆[アームドブルー] ガンヴォルト</title>
+</titles>
+<url>http://www.gunvolt.com/anime/</url>
+<creators>
+<name id="3434" type="Character Design">Sunagawa Masakazu</name>
+<name id="19212" type="Chief Animation Direction">Nakahara Ryuuta</name>
+<name id="30252" type="Work">LandQ Studio</name>
+<name id="971" type="Work">Touhoku Shinsha</name>
+<name id="12546" type="Direction">Odaka Yoshinori</name>
+<name id="48729" type="Original Work">Tsuda Yoshihisa</name>
+</creators>
+<description>* Based on action-platform game released by Inti Creates.
+It is the near future, and among humankind exists Adepts, people who possess extraordinary abilities known as Septimal Powers. The existence of these Adepts has caused widespread chaos around the world, but in the nation of Japan, order and peace is maintained by a large conglomerate known as the Sumeragi Group.
+...However, this would prove to be a temporary peace, granted to the citizens of Japan by the sacrifice of countless Adepts at the hands of Sumeragi. On the surface, the Sumeragi Group appears be a rather normal, clean company. Below the surface, Sumeragi captures Adepts, holds them against their will, and performs inhumane scientific experiments on them.
+One group known as QUILL (Quorum for Unrestricted Information, Law, and Liberty) made this discovery and pledged to revolt against the Sumeragi Group. A member of QUILL, a young man named http://anidb.net/ch87393 [Gunvolt], sets out one evening to infiltrate a Sumeragi facility in the name of freedom for his fellow Adepts.
+Source: Official page</description>
+<ratings>
+<permanent count="67">2.85</permanent>
+<temporary count="68">4.87</temporary>
+</ratings>
+<picture>197655.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19021</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33564</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gunvolt.com/anime/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.gunvolt.com/anime/en/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>357266</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+</tags>
+<characters>
+<character id="87391" type="secondary cast in" update="2017-02-01">
+<name>Acura</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="41878" picture="166459.jpg">Masuo Kousuke</seiyuu>
+</character>
+<character id="87392" type="secondary cast in" update="2017-02-01">
+<name>Asimov</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="48734" picture="197666.jpg">Yukita Masashi</seiyuu>
+</character>
+<character id="87393" type="main character in" update="2017-02-01">
+<name>Gunvolt</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34296" picture="225238.jpg">Ishikawa Kaito</seiyuu>
+</character>
+<character id="87394" type="secondary cast in" update="2017-02-01">
+<name>Cyan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="29669" picture="228702.jpg">Sakuragawa Megu</seiyuu>
+</character>
+<character id="87395" type="secondary cast in" update="2017-02-01">
+<name>Zeno</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="39260" picture="150015.jpg">Ishiya Haruki</seiyuu>
+</character>
+<character id="87396" type="secondary cast in" update="2017-02-01">
+<name>Merak</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="12421" picture="78914.jpg">Kasuya Yuuta</seiyuu>
+</character>
+<character id="87397" type="secondary cast in" update="2017-02-01">
+<name>Moniqa</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34713" picture="129185.jpg">Otaka Moemi</seiyuu>
+</character>
+<character id="87398" type="secondary cast in" update="2017-02-01">
+<name>Morpho</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="29669" picture="228702.jpg">Sakuragawa Megu</seiyuu>
+</character>
+<character id="87399" type="secondary cast in" update="2017-02-01">
+<name>Romeo</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="48733" picture="197665.jpg">Makino Hideki</seiyuu>
+</character>
+<character id="87400" type="secondary cast in" update="2017-02-01">
+<name>Shiden</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="30656" picture="153750.jpg">Murase Ayumu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="184265" update="2017-02-11">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-02-09</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

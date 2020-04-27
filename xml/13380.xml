@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13380" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-08-09</startdate>
+<enddate>2017-08-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Uma no Friends</title>
+<title xml:lang="ja" type="official">ウマのフレンズ</title>
+</titles>
+<relatedanime>
+<anime id="12057" type="Parent Story">Kemono Friends</anime>
+</relatedanime>
+<url>http://umabi.jp/kemono-friends/</url>
+<description>An anime collaboration between Kemono Friends and the Japan Racing Association.</description>
+<ratings>
+<permanent count="72">4.37</permanent>
+<temporary count="72">5.53</temporary>
+</ratings>
+<picture>205958.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>36119</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://umabi.jp/kemono-friends/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=EX_Fgi7vd5I</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="86455" type="main character in" update="2017-03-22">
+<rating votes="11">5.37</rating>
+<name>Kaban</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>199986.jpg</picture>
+<seiyuu id="1614" picture="148394.jpg">Uchida Aya</seiyuu>
+</character>
+<character id="86463" type="main character in" update="2016-11-29">
+<rating votes="8">7.24</rating>
+<name>Serval</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195317.jpg</picture>
+<seiyuu id="44218" picture="223383.jpg">Ozaki Yuka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="192406" update="2017-11-07">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2017-08-08</airdate>
+<rating votes="2">5.59</rating>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

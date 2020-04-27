@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2128" restricted="false">
+<type>TV Series</type>
+<episodecount>65</episodecount>
+<startdate>2000-12-04</startdate>
+<enddate>2001-03-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pipopapo Patrol-kun</title>
+<title xml:lang="x-jat" type="synonym">Pipo Papo Patrol-kun</title>
+<title xml:lang="ja" type="official">ピポパポパトルくん</title>
+</titles>
+<url>http://www.toei-anim.co.jp/tv/patoru/</url>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+</creators>
+<description>A children`s anime about police and their talking police cars.</description>
+<ratings>
+<permanent count="17">3.11</permanent>
+<temporary count="17">4.88</temporary>
+</ratings>
+<picture>11262.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3589</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3458</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/tv/patoru/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ピポパポパトルくん</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4624</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2759" parentid="2881" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-06">
+<name>motorsport</name>
+<description>Driving involves driving in a competitive manner. Note that just driving to get groceries does not suffice, unless one does it like Takumi Fujiwara in Initial D.</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="60514" update="2006-08-16">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2000-12-04</airdate>
+<title xml:lang="ja">ぼく, パトルだよ!</title>
+<title xml:lang="en">I`m Patrol!</title>
+</episode>
+<episode id="60515" update="2006-08-16">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2000-12-05</airdate>
+<title xml:lang="ja">ひまわりタウンについたよ!</title>
+<title xml:lang="en">Arriving in Sunflower Town!</title>
+</episode>
+<episode id="60516" update="2006-08-16">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2000-12-06</airdate>
+<title xml:lang="ja">はっしん!スーパーパトル</title>
+<title xml:lang="en">Heading Out! Super Patrol!</title>
+</episode>
+<episode id="60517" update="2006-08-16">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2000-12-07</airdate>
+<rating votes="1">1.76</rating>
+<title xml:lang="ja">おねえさんとパトカーパット</title>
+<title xml:lang="en">Big Sister Patrol Car: Pat</title>
+</episode>
+<episode id="60518" update="2006-08-16">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2000-12-08</airdate>
+<title xml:lang="ja">ビートはとまれない!?</title>
+<title xml:lang="en">Beat Can`t Stop?!</title>
+</episode>
+<episode id="60519" update="2006-08-16">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2000-12-11</airdate>
+<title xml:lang="ja">おとどけものだいすき!</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="60520" update="2006-08-16">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2000-12-12</airdate>
+<title xml:lang="ja">けんかともだちエドワードとオーサ</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="60521" update="2006-08-16">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2000-12-13</airdate>
+<title xml:lang="ja">マックのひみつ</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="60522" update="2006-08-16">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2000-12-14</airdate>
+<title xml:lang="ja">あやしいクルマをおいかけろ!</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="60523" update="2006-08-16">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2000-12-15</airdate>
+<title xml:lang="ja">赤がきらいなしょうぼう車</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="60524" update="2006-08-16">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2000-12-18</airdate>
+<title xml:lang="ja">おちばであそぼ</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="60525" update="2006-08-16">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2000-12-19</airdate>
+<title xml:lang="ja">りょこうはたのしい!?</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="60526" update="2006-08-16">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2000-12-20</airdate>
+<title xml:lang="ja">おにいちゃんになりたい</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="60527" update="2006-08-16">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2000-12-21</airdate>
+<title xml:lang="ja">はじめてのゆき</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="60528" update="2006-08-16">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2000-12-22</airdate>
+<title xml:lang="ja">パトルのクリスマス</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="60529" update="2006-08-16">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2000-12-25</airdate>
+<title xml:lang="ja">怪盗カーマニアとうじょう!</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="60530" update="2006-08-16">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2000-12-26</airdate>
+<title xml:lang="ja">パトルきゅうきゅう車になる</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="60531" update="2006-08-16">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2000-12-27</airdate>
+<title xml:lang="ja">タクシーパトル</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="60532" update="2006-08-16">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2000-12-28</airdate>
+<title xml:lang="ja">パートナーをかえるの?</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="60533" update="2006-08-16">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2000-12-29</airdate>
+<title xml:lang="ja">のろのろシャトル</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="60534" update="2006-08-16">
+<epno type="1">21</epno>
+<length>5</length>
+<airdate>2001-01-04</airdate>
+<title xml:lang="ja">パトルのけんこうしんだん</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="60535" update="2006-08-16">
+<epno type="1">22</epno>
+<length>5</length>
+<airdate>2001-01-05</airdate>
+<title xml:lang="ja">はしれ!パトル</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="60536" update="2019-10-21">
+<epno type="1">23</epno>
+<length>5</length>
+<airdate>2001-01-08</airdate>
+<title xml:lang="ja">だれがいちばんかっこいい?</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="60537" update="2019-10-21">
+<epno type="1">24</epno>
+<length>5</length>
+<airdate>2001-01-09</airdate>
+<title xml:lang="ja">さよなら, エドワードさん</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="60538" update="2006-08-16">
+<epno type="1">25</epno>
+<length>5</length>
+<airdate>2001-01-10</airdate>
+<title xml:lang="ja">パトルは恋のキューピッド</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="60539" update="2006-08-16">
+<epno type="1">27</epno>
+<length>5</length>
+<airdate>2001-01-12</airdate>
+<title xml:lang="ja">パワフルくるまイスくん</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="60540" update="2006-08-16">
+<epno type="1">26</epno>
+<length>5</length>
+<airdate>2001-01-11</airdate>
+<title xml:lang="ja">おしゃまコンビとうじょう!</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="60541" update="2006-08-16">
+<epno type="1">28</epno>
+<length>5</length>
+<airdate>2001-01-15</airdate>
+<title xml:lang="ja">らぶらぶパトル</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="60542" update="2006-08-16">
+<epno type="1">29</epno>
+<length>5</length>
+<airdate>2001-01-16</airdate>
+<title xml:lang="ja">空からきたおともだち</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="60543" update="2006-08-16">
+<epno type="1">30</epno>
+<length>5</length>
+<airdate>2001-01-17</airdate>
+<title xml:lang="ja">たすけたカメにつれられて</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="60544" update="2006-08-16">
+<epno type="1">31</epno>
+<length>5</length>
+<airdate>2001-01-18</airdate>
+<title xml:lang="ja">パトルがヒーロー!?</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="60545" update="2006-08-16">
+<epno type="1">32</epno>
+<length>5</length>
+<airdate>2001-01-19</airdate>
+<title xml:lang="ja">ガッツ, 空をとぶ</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="60546" update="2006-08-16">
+<epno type="1">33</epno>
+<length>5</length>
+<airdate>2001-01-22</airdate>
+<title xml:lang="ja">パトルのくんしょう</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="60547" update="2006-08-16">
+<epno type="1">34</epno>
+<length>5</length>
+<airdate>2001-01-23</airdate>
+<title xml:lang="ja">それいけ!つりたいけつ</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="60548" update="2006-08-16">
+<epno type="1">35</epno>
+<length>5</length>
+<airdate>2001-01-24</airdate>
+<title xml:lang="ja">ダイエットなんてだいっきらい</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="60549" update="2006-08-16">
+<epno type="1">36</epno>
+<length>5</length>
+<airdate>2001-01-25</airdate>
+<title xml:lang="ja">ひまわりタウンのうんどうかい</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="60550" update="2006-08-16">
+<epno type="1">37</epno>
+<length>5</length>
+<airdate>2001-01-26</airdate>
+<title xml:lang="ja">あこがれのボギーさん</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="60551" update="2006-08-16">
+<epno type="1">38</epno>
+<length>5</length>
+<airdate>2001-01-29</airdate>
+<title xml:lang="ja">ライバルくんはてんさいくん</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="60552" update="2006-08-16">
+<epno type="1">39</epno>
+<length>5</length>
+<airdate>2001-01-30</airdate>
+<title xml:lang="ja">パトル対ジニアス</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="60553" update="2006-08-16">
+<epno type="1">40</epno>
+<length>5</length>
+<airdate>2001-01-31</airdate>
+<title xml:lang="ja">スーパービークルをさがして</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="60554" update="2006-08-16">
+<epno type="1">41</epno>
+<length>5</length>
+<airdate>2001-02-01</airdate>
+<title xml:lang="ja">ゴミしゅうしゅう車スウィープ</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="60555" update="2006-08-16">
+<epno type="1">42</epno>
+<length>5</length>
+<airdate>2001-02-02</airdate>
+<title xml:lang="ja">パトルはおにいちゃん!?</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="60556" update="2006-08-16">
+<epno type="1">43</epno>
+<length>5</length>
+<airdate>2001-02-05</airdate>
+<title xml:lang="ja">かいぶつあらわる!</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="60557" update="2006-08-16">
+<epno type="1">44</epno>
+<length>5</length>
+<airdate>2001-02-06</airdate>
+<title xml:lang="ja">じてんしゃにのろう</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="60558" update="2006-08-16">
+<epno type="1">45</epno>
+<length>5</length>
+<airdate>2001-02-07</airdate>
+<title xml:lang="ja">せんすいかんをすくえ!</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="60559" update="2006-08-16">
+<epno type="1">46</epno>
+<length>5</length>
+<airdate>2001-02-08</airdate>
+<title xml:lang="ja">おおきなおおきなバースディケーキ</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="60560" update="2006-08-16">
+<epno type="1">47</epno>
+<length>5</length>
+<airdate>2001-02-09</airdate>
+<title xml:lang="ja">はじめなんかいらない!</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="60561" update="2006-08-16">
+<epno type="1">48</epno>
+<length>5</length>
+<airdate>2001-02-12</airdate>
+<title xml:lang="ja">デートでびっくりまるやまさん</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="60562" update="2006-08-16">
+<epno type="1">49</epno>
+<length>5</length>
+<airdate>2001-02-13</airdate>
+<title xml:lang="ja">すぺえすおぺらパトルくん</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="60563" update="2006-08-16">
+<epno type="1">50</epno>
+<length>5</length>
+<airdate>2001-02-14</airdate>
+<title xml:lang="ja">ひまわりタウン大レース!</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="60564" update="2006-08-16">
+<epno type="1">51</epno>
+<length>5</length>
+<airdate>2001-02-15</airdate>
+<title xml:lang="ja">パトル, おとなになる</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="60565" update="2006-08-16">
+<epno type="1">52</epno>
+<length>5</length>
+<airdate>2001-02-16</airdate>
+<title xml:lang="ja">絵をかこう!</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="60566" update="2006-08-16">
+<epno type="1">53</epno>
+<length>5</length>
+<airdate>2001-02-19</airdate>
+<title xml:lang="ja">海ぞくの宝をさがせ</title>
+<title xml:lang="en">Episode 53</title>
+</episode>
+<episode id="60567" update="2006-08-16">
+<epno type="1">54</epno>
+<length>5</length>
+<airdate>2001-02-20</airdate>
+<title xml:lang="ja">ジャンボがあぶない</title>
+<title xml:lang="en">Episode 54</title>
+</episode>
+<episode id="60568" update="2006-08-16">
+<epno type="1">55</epno>
+<length>5</length>
+<airdate>2001-02-21</airdate>
+<title xml:lang="ja">カーマニアまたまたあらわる</title>
+<title xml:lang="en">Episode 55</title>
+</episode>
+<episode id="60569" update="2006-08-16">
+<epno type="1">56</epno>
+<length>5</length>
+<airdate>2001-02-22</airdate>
+<title xml:lang="ja">ゆうかいされたジニアス</title>
+<title xml:lang="en">Episode 56</title>
+</episode>
+<episode id="60570" update="2006-08-16">
+<epno type="1">57</epno>
+<length>5</length>
+<airdate>2001-02-23</airdate>
+<title xml:lang="ja">くるまどろぼうをやっつけろ!</title>
+<title xml:lang="en">Episode 57</title>
+</episode>
+<episode id="60571" update="2006-08-16">
+<epno type="1">58</epno>
+<length>5</length>
+<airdate>2001-02-26</airdate>
+<title xml:lang="ja">ひとりぼっちのきょう竜くん</title>
+<title xml:lang="en">Episode 58</title>
+</episode>
+<episode id="60572" update="2006-08-16">
+<epno type="1">59</epno>
+<length>5</length>
+<airdate>2001-02-27</airdate>
+<title xml:lang="ja">牧場のダンはがんばりや</title>
+<title xml:lang="en">Episode 59</title>
+</episode>
+<episode id="60573" update="2006-08-16">
+<epno type="1">60</epno>
+<length>5</length>
+<airdate>2001-02-28</airdate>
+<title xml:lang="ja">さよなら, ジニアス</title>
+<title xml:lang="en">Episode 60</title>
+</episode>
+<episode id="60574" update="2006-08-16">
+<epno type="1">61</epno>
+<length>5</length>
+<airdate>2001-03-01</airdate>
+<title xml:lang="ja">UFOくんとうちゅうのおさんぽ</title>
+<title xml:lang="en">Episode 61</title>
+</episode>
+<episode id="60575" update="2006-08-16">
+<epno type="1">62</epno>
+<length>5</length>
+<airdate>2001-03-02</airdate>
+<title xml:lang="ja">めいたんていパトル</title>
+<title xml:lang="en">Episode 62</title>
+</episode>
+<episode id="60576" update="2006-08-16">
+<epno type="1">63</epno>
+<length>5</length>
+<airdate>2001-03-05</airdate>
+<title xml:lang="ja">はじめのひとりたび</title>
+<title xml:lang="en">Episode 63</title>
+</episode>
+<episode id="60577" update="2006-08-16">
+<epno type="1">64</epno>
+<length>5</length>
+<airdate>2001-03-06</airdate>
+<title xml:lang="ja">パトルのスーパービークル</title>
+<title xml:lang="en">Episode 64</title>
+</episode>
+<episode id="60578" update="2006-08-16">
+<epno type="1">65</epno>
+<length>5</length>
+<airdate>2001-03-07</airdate>
+<title xml:lang="ja">うたっておどってひまわりタウン</title>
+<title xml:lang="en">Episode 65</title>
+</episode>
+<episode id="96361" update="2009-01-16">
+<epno type="5">P1</epno>
+<length>25</length>
+<airdate>2009-01-15</airdate>
+<rating votes="1">1.24</rating>
+<title xml:lang="en">Fake `Naruto Shippuuden` (eps. 58, 64, 4, 8, 32, 49)</title>
+</episode>
+<episode id="122666" update="2010-09-24">
+<epno type="3">C2</epno>
+<length>0</length>
+<airdate>2000-12-04</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="122667" update="2010-09-24">
+<epno type="3">C1</epno>
+<length>0</length>
+<airdate>2000-12-04</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

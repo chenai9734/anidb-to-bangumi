@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12371" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2016-09</startdate>
+<enddate>2016-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ishiyama-dera Engi Emaki</title>
+<title xml:lang="ja" type="official">石山寺縁起絵巻</title>
+</titles>
+<description>Screened in the Ishiyama-dera temple`s Rennyo Hall.</description>
+<ratings>
+<permanent count="2">5.56</permanent>
+<temporary count="2">4.50</temporary>
+</ratings>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33982</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="189832" update="2017-08-06">
+<epno type="1">1</epno>
+<length>7</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="200377" update="2018-05-27">
+<epno type="2">S1</epno>
+<length>12</length>
+<title xml:lang="ja">石山寺 デジタル 縁起絵巻</title>
+<title xml:lang="en">Long version</title>
+<title xml:lang="x-jat">Ishiyamadera Digital Engi Emaki</title>
+</episode>
+</episodes>
+</anime>

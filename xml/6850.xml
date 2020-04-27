@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6850" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1934-06-23</startdate>
+<enddate>1934-06-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Genroku Koi Moyou: Sankichi to Osayo</title>
+<title xml:lang="en" type="synonym">Love in the Genroku Era</title>
+<title xml:lang="ja" type="official">元禄恋模様 三吉とおさよ</title>
+<title xml:lang="en" type="official">Sankichi and Osayo: A Genroku Romance</title>
+</titles>
+<creators>
+<name id="10323" type="Direction">Seo Mitsuyo</name>
+<name id="13255" type="Music">Nishigaki Tetsuo</name>
+</creators>
+<description>When a samurai witnesses a dancing maiden being kidnapped by ruffians, he rescues the poor damsel and takes her to the spring flower dance.</description>
+<ratings>
+<permanent count="41">3.43</permanent>
+<temporary count="41">4.29</temporary>
+</ratings>
+<picture>33812.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23265</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://archive.today/VgWC9</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106595" update="2009-08-25">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

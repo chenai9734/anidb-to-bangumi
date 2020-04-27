@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4952" restricted="false">
+<type>TV Series</type>
+<episodecount>110</episodecount>
+<startdate>1989-02-04</startdate>
+<enddate>1991-04-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Hajimete Omoshiro Juku</title>
+<title xml:lang="en" type="synonym">Interesting Coaching School for the First Time on Manga</title>
+<title xml:lang="ja" type="official">まんがはじめて面白塾</title>
+</titles>
+<relatedanime>
+<anime id="4709" type="Other">Manga Naruhodo Monogatari</anime>
+<anime id="4962" type="Other">Manga Doushite Monogatari</anime>
+<anime id="4965" type="Other">21 Seiki Manga Hajimete Monogatari</anime>
+<anime id="6300" type="Other">Manga Hajimete Monogatari</anime>
+</relatedanime>
+<ratings>
+<permanent count="4">3.94</permanent>
+<temporary count="4">5.75</temporary>
+</ratings>
+<picture>13204.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>875</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10138</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まんがはじめて面白塾</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>85884</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1316</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>2759</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="106201" update="2009-08-10">
+<epno type="1">110</epno>
+<length>0</length>
+<airdate>1991-04-27</airdate>
+<title xml:lang="en">Episode 110</title>
+</episode>
+<episode id="106202" update="2009-08-10">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1989-02-04</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="167186" update="2015-05-10">
+<epno type="2">S4</epno>
+<length>65</length>
+<airdate>1970-01-01</airdate>
+<title xml:lang="en">Manga Hajimete Omoshiro Juku Compilation OVA 04</title>
+</episode>
+<episode id="167187" update="2015-05-10">
+<epno type="2">S3</epno>
+<length>110</length>
+<airdate>1970-01-01</airdate>
+<title xml:lang="en">Manga Hajimete Omoshiro Juku Compilation OVA 03</title>
+</episode>
+<episode id="167188" update="2015-05-10">
+<epno type="2">S2</epno>
+<length>100</length>
+<airdate>1970-01-01</airdate>
+<title xml:lang="en">Manga Hajimete Omoshiro Juku Compilation OVA 02</title>
+</episode>
+<episode id="167189" update="2015-05-10">
+<epno type="2">S1</epno>
+<length>120</length>
+<airdate>1970-01-01</airdate>
+<title xml:lang="en">Manga Hajimete Omoshiro Juku Compilation OVA 01</title>
+</episode>
+</episodes>
+</anime>

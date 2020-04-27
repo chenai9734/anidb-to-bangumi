@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14742" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2019-03-16</startdate>
+<enddate>2019-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next (2019)</title>
+<title xml:lang="ja" type="official">忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT (2019)</title>
+</titles>
+<relatedanime>
+<anime id="15477" type="Sequel">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next (2020)</anime>
+<anime id="14027" type="Prequel">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next (2017)</anime>
+</relatedanime>
+<url>https://www.nhk.or.jp/anime/nintama/nintama-cosmic/</url>
+<picture>238083.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>https://www.nhk.or.jp/anime/nintama/nintama-cosmic/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5238</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="213412" update="2019-03-08">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-03-16</airdate>
+<title xml:lang="ja">土星めぐりでシャッターチャンス!?の段</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="213413" update="2019-03-08">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2019-03-30</airdate>
+<title xml:lang="ja">宇宙の果てまで宝探し! の段</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+</episodes>
+</anime>

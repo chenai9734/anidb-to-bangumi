@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11587" restricted="false">
+<type>Web</type>
+<episodecount>4</episodecount>
+<startdate>2015-06-29</startdate>
+<enddate>2016-02-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaette Kite yoo Toyama kara</title>
+<title xml:lang="ja" type="official">帰ってきてよぉ富山から</title>
+</titles>
+<url>http://perorich-toyama.com/story/</url>
+<creators>
+<name id="12416" type="Animation Work">DLE</name>
+</creators>
+<ratings>
+<permanent count="5">1.91</permanent>
+<temporary count="5">3.00</temporary>
+</ratings>
+<picture>177335.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31599</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://perorich-toyama.com/story/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354099</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="171343" update="2017-05-09">
+<epno type="1">2</epno>
+<length>3</length>
+<airdate>2015-09-11</airdate>
+<title xml:lang="ja">富山の「黒」</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Toyama no "Kuro"</title>
+</episode>
+<episode id="171344" update="2017-05-09">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2015-06-29</airdate>
+<title xml:lang="ja">ペロリッチ富山へ</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Peroricchi Toyama e</title>
+</episode>
+<episode id="187559" update="2017-05-09">
+<epno type="1">4</epno>
+<length>4</length>
+<airdate>2016-02-19</airdate>
+<title xml:lang="ja">富山に, 暮らす</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Toyama ni, Kurasu</title>
+</episode>
+<episode id="187560" update="2017-05-09">
+<epno type="1">3</epno>
+<length>4</length>
+<airdate>2015-11-21</airdate>
+<title xml:lang="ja">エンジョイ, 富山</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Enjoy, Toyama</title>
+</episode>
+</episodes>
+</anime>

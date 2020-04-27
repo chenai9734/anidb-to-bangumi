@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10290" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-04-19</startdate>
+<enddate>2014-04-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Meitantei Conan: Ijigen no Sniper</title>
+<title xml:lang="en" type="synonym">Detective Conan Movie 18: The Sniper from Another Dimension</title>
+<title xml:lang="en" type="synonym">Case Closed: Dimensional Sniper</title>
+<title xml:lang="de" type="synonym">Detektiv Conan - 18. Film: Scharfschütze aus einer anderen Dimension</title>
+<title xml:lang="ar" type="synonym">المحقق كونان: القناص من بعد آخر</title>
+<title xml:lang="zh-Hans" type="synonym">名侦探柯南 异次元的狙击手</title>
+<title xml:lang="ja" type="official">名探偵コナン・異次元の狙撃手[スナイパー]</title>
+<title xml:lang="en" type="official">Detective Conan: Dimensional Sniper</title>
+<title xml:lang="de" type="official">Detektiv Conan - 18. Film: Der Scharfschütze aus einer anderen Dimension</title>
+<title xml:lang="es-LA" type="official">Detective Conan 18 - El francotirador de otra dimensión</title>
+</titles>
+<relatedanime>
+<anime id="266" type="Parent Story">Meitantei Conan</anime>
+</relatedanime>
+<url>http://www.conan-movie.jp/index.html</url>
+<creators>
+<name id="917" type="Animation Work">TMS Entertainment</name>
+<name id="474" type="Original Work">Aoyama Goushou</name>
+<name id="14495" type="Direction">Shizuno Koubun</name>
+<name id="4325" type="Music">Oono Katsuo</name>
+<name id="3743" type="Character Design">Sudou Masatomo</name>
+<name id="3743" type="Chief Animation Direction">Sudou Masatomo</name>
+<name id="49260" type="Animation Work">V1 Studio</name>
+</creators>
+<description>A vicious sniper has appeared in Tokyo, rendering the people too scared to go outside. Once again it`s up to http://anidb.net/ch2260 [Conan] to figure out the meaning behind the killings and capture the mysterious sniper before more lives are lost.
+Source: ANN</description>
+<ratings>
+<permanent count="266">7.47</permanent>
+<temporary count="269">7.47</temporary>
+</ratings>
+<picture>146684.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15794</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>21419</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.conan-movie.jp/index.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Detective_Conan:_Dimensional_Sniper</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>名探偵コナン_異次元の狙撃手</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>347764</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17001</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2676" parentid="2672" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Tokyo</name>
+<description>Tokyo, officially Tokyo Metropolis, is the capital city of Japan and one of its 47 prefectures. The Greater Tokyo Area is the most populous metropolitan area in the world. It is the seat of the Emperor of Japan and the Japanese government. Tokyo is in the Kantou region on the southeastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands.
+Source: Wikipedia</description>
+<picurl>214311.jpg</picurl>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="3028" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-17">
+<name>real-world location</name>
+<description>Places seen in the show exist in reality.
+Note: This could be sometime in the future, though names and certain places will still be recognizable.</description>
+</tag>
+<tag id="3037" parentid="2676" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Tokyo Skytree</name>
+<description>Tokyo Skytree is a broadcasting, restaurant, and observation tower in Sumida, Tokyo, Japan. It became the tallest structure in Japan in 2010 and reached its full height of 634.0 metres in March 2011, making it the tallest tower in the world, displacing the Canton Tower, and the second tallest structure in the world after Burj Khalifa (829.8 m).
+Source: Wikipedia
+Note: Not to be confused with the very much older http://anidb.net/t3667 [Tokyo Tower].</description>
+<picurl>161122.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="2260" type="main character in" update="2012-02-12">
+<rating votes="1562">7.54</rating>
+<name>Edogawa Conan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81480.jpg</picture>
+<seiyuu id="393" picture="46104.jpg">Takayama Minami</seiyuu>
+</character>
+<character id="2263" type="appears in" update="2013-07-05">
+<rating votes="724">7.91</rating>
+<name>Kudou Shin`ichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139561.jpg</picture>
+<seiyuu id="254" picture="17073.jpg">Yamaguchi Kappei</seiyuu>
+</character>
+<character id="2343" type="main character in" update="2018-02-03">
+<rating votes="1032">7.69</rating>
+<name>Mouri Ran</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mouri Ran is one of the main characters in Detective Conan. She is the daughter of Mouri Kogoro, a famous but lazy detective. She is also friends with Kudo Shinichi, another famous detective, who is still in high school. She is the captain of the high school karate team, and is very strong willed.</description>
+<picture>65742.png</picture>
+<seiyuu id="321" picture="17158.jpg">Yamazaki Wakana</seiyuu>
+</character>
+<character id="8163" type="secondary cast in" update="2011-04-09">
+<rating votes="513">6.60</rating>
+<name>Mouri Kogorou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kogorou was once with the police, but due to an incident that involved his wife Eri as well, he quit. Due to the same incident, he and Eri split up.
+He`s got custody of his daughter Ran who lives with him in an apartment that is at the same time his detective agency, on top of a café named Coffee Poirot. Despite of having been a good policeman, he`s a bad detective - but still very famous. That only comes due to the fact that Conan is "abusing" this adult`s sedated body to deduct his theories for the sake of outing the high amount of murderers whose crimes he solved.
+Kogorou might be a smoking, drinking, good-for-nothing loudmouth with a high affection to idol Okino Youko, but he still is a good guy when it comes to handling his daughter or wife.
+Due to Conan having made him famous as the Sleeping Kogorou, he sometimes gets over his head and just believes he`s the big shot everybody else thinks he is.
+Kogorou finally accepts Conan as a "lodger", when Conan`s "mother" gave him access to an account filled with 10.000.000 Yen (about 90.000€/122.500$).
+His voice is Number 59 on Conan`s bowtie.</description>
+<picture>54062.jpg</picture>
+<seiyuu id="244" picture="23860.jpg">Koyama Rikiya</seiyuu>
+</character>
+<character id="8164" type="secondary cast in" update="2011-01-15">
+<rating votes="255">3.94</rating>
+<name>Agasa Hiroshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Agasa Hiroshi  is a good friend of Shin`ichi / Conan who invents several devices to help him out, such as the voice changing bowtie or the watch with which Conan can tranquilize people.
+Note: His name Hiroshi is written with the kanji 博士, which can also be read `Hakase` (Professor)</description>
+<picture>27247.jpg</picture>
+<seiyuu id="604" picture="154161.jpg">Ogata Ken`ichi</seiyuu>
+</character>
+<character id="8165" type="secondary cast in" update="2009-06-03">
+<rating votes="987">8.25</rating>
+<name>Haibara Ai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27248.jpg</picture>
+<seiyuu id="13" picture="16583.jpg">Hayashibara Megumi</seiyuu>
+</character>
+<character id="8167" type="secondary cast in" update="2009-08-23">
+<rating votes="352">5.85</rating>
+<name>Yoshida Ayumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27250.jpg</picture>
+<seiyuu id="1623" picture="171605.jpg">Iwai Yukiko</seiyuu>
+</character>
+<character id="8168" type="secondary cast in" update="2009-08-23">
+<rating votes="138">2.86</rating>
+<name>Tsuburaya Mitsuhiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27251.jpg</picture>
+<seiyuu id="7" picture="186500.jpg">Ootani Ikue</seiyuu>
+</character>
+<character id="8169" type="secondary cast in" update="2009-08-23">
+<rating votes="106">4.41</rating>
+<name>Kojima Genta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27252.jpg</picture>
+<seiyuu id="335" picture="64826.jpg">Takagi Wataru</seiyuu>
+</character>
+<character id="8170" type="secondary cast in" update="2013-05-23">
+<rating votes="388">5.35</rating>
+<name>Suzuki Sonoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Sonoko is Mouri Ran`s best friend and is the girlfriend of http://anidb.net/ch8180 [Kyougoku Makoto].
+Source: detectiveconanworld.com</description>
+<picture>28515.jpg</picture>
+<seiyuu id="291" picture="17122.jpg">Matsui Naoko</seiyuu>
+</character>
+<character id="8181" type="secondary cast in" update="2016-11-30">
+<rating votes="82">8.56</rating>
+<name>Takagi Wataru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Takagi Wataru (named after his voice actor who ad-lipped his own name in a scene) is a police officer from the Investigation Division (1st Division).</description>
+<picture>29517.jpg</picture>
+<seiyuu id="335" picture="64826.jpg">Takagi Wataru</seiyuu>
+</character>
+<character id="8182" type="secondary cast in" update="2009-06-03">
+<rating votes="13">1.75</rating>
+<name>Chiba-keiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27266.jpg</picture>
+<seiyuu id="1913" picture="186187.jpg">Chiba Isshin</seiyuu>
+</character>
+<character id="8183" type="secondary cast in" update="2010-04-10">
+<rating votes="62">3.55</rating>
+<name>Megure Juuzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Inspector Juuzou is a veteran police officer who has been working with http://anidb.net/ch2263 [Kudou Shin`ichi], http://anidb.net/ch8175 [Kudou Yuusaku] and http://anidb.net/ch8163 [Mouri Kogoro]. He always wears his hat to hide an old scar which reminds him of a special case from 20 years ago, during his early police days which involved his wife, http://anidb.net/ch16583 [Midori].</description>
+<picture>27267.jpg</picture>
+<seiyuu id="173" picture="150067.jpg">Chafuurin</seiyuu>
+</character>
+<character id="8184" type="secondary cast in" update="2009-06-10">
+<rating votes="61">8.58</rating>
+<name>Shiratori Ninzaburou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>28336.jpg</picture>
+<seiyuu id="189" picture="203306.jpg">Inoue Kazuhiko</seiyuu>
+</character>
+<character id="8185" type="secondary cast in" update="2009-06-03">
+<rating votes="127">5.46</rating>
+<name>Satou Miwako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27269.jpg</picture>
+<seiyuu id="580" picture="17973.jpg">Yuya Atsuko</seiyuu>
+</character>
+<character id="8195" type="secondary cast in" update="2010-04-12">
+<rating votes="6">6.79</rating>
+<name>Jodie Starling</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Jodie Starling was introduced as http://anidb.net/ch2343 [Mouri Ran]`s English teacher under the name of http://anidb.net/ch8975 [Jodie Saintemillion]. She is later revealed to be an FBI agent with a personal vendetta against http://anidb.net/ch8206 [Vermouth] who murdered her father. She knows of http://anidb.net/ch2260 [Edogawa Conan]`s detective skills and often has him help the FBI to battle the Black Organization.</description>
+<picture>27284.jpg</picture>
+<seiyuu id="494" picture="17485.jpg">Ichijou Miyuki</seiyuu>
+</character>
+<character id="8196" type="appears in" update="2020-01-08">
+<rating votes="24">8.58</rating>
+<name>Akai Shuuichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Akai is a FBI agent who`s working with Jodie Starling and James Black. His identity in Black Organization is Moboroshi Dai.
+[spoiler="Spoiler"]His girlfriend is Miyano Akemi, Shiho`s older sister. He had a personal vendetta with Black Organization because her death. After his fake dead by Kir. Akai change is disguise to Okiya Subaru and live in Shin`ichi house.[/spoiler]</description>
+<picture>27285.jpg</picture>
+<seiyuu id="413" picture="151647.jpg">Ikeda Shuuichi</seiyuu>
+</character>
+<character id="8197" type="secondary cast in" update="2009-06-03">
+<rating votes="1">7.63</rating>
+<name>James Black</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27286.jpg</picture>
+<seiyuu id="2143" picture="178043.jpg">Kayumi Iemasa</seiyuu>
+</character>
+<character id="8198" type="secondary cast in" update="2009-06-03">
+<name>Andre Camel</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27287.jpg</picture>
+<seiyuu id="287" picture="73062.jpg">Yanada Kiyoyuki</seiyuu>
+</character>
+<character id="10146" type="appears in" update="2009-07-02">
+<rating votes="5">1.63</rating>
+<name>Ayanokouji Fumimaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>30485.jpg</picture>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+<character id="10242" type="secondary cast in" update="2014-10-07">
+<rating votes="2">7.87</rating>
+<name>Okiya Subaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>30718.jpg</picture>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+<character id="42150" type="main character in" update="2012-03-08">
+<rating votes="14">8.28</rating>
+<name>Sera Masumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>83096.jpg</picture>
+<seiyuu id="268" picture="17093.jpg">Hidaka Noriko</seiyuu>
+</character>
+<character id="70528" type="secondary cast in" update="2014-10-07">
+<name>Carlos Lee</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="38998" picture="148286.jpg">Michael Rivas</seiyuu>
+</character>
+<character id="70529" type="secondary cast in" update="2014-10-07">
+<name>Kevin Yoshino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="40991" picture="162458.jpg">Fukushi Souta</seiyuu>
+</character>
+<character id="70530" type="secondary cast in" update="2014-10-07">
+<name>Jack Waltz</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34515" picture="128551.jpg">Patrick Harlan</seiyuu>
+</character>
+<character id="70531" type="appears in" update="2014-10-07">
+<name>Scott Green</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2021" picture="187129.jpg">Tsuji Shinpachi</seiyuu>
+</character>
+<character id="70532" type="appears in" update="2014-10-07">
+<name>Timothy Hunter</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="259" picture="17082.jpg">Nakai Kazuya</seiyuu>
+</character>
+<character id="70533" type="secondary cast in" update="2014-10-07">
+<name>Bill Murphy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="40993" picture="162460.jpg">Steven Haynes</seiyuu>
+</character>
+<character id="70534" type="secondary cast in" update="2014-10-07">
+<name>Mark Spencer</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="456" picture="17358.jpg">Ootsuka Chikao</seiyuu>
+</character>
+<character id="70535" type="secondary cast in" update="2014-10-07">
+<name>Fujinami Hiroaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="40992" picture="162459.jpg">Greg Irwin</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="156416" update="2014-04-19">
+<epno type="1">1</epno>
+<length>110</length>
+<airdate>2014-04-19</airdate>
+<rating votes="2">7.95</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="159204" update="2014-04-11">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+<episode id="163079" update="2014-10-04">
+<epno type="4">T3</epno>
+<length>1</length>
+<title xml:lang="en">PV 1min</title>
+</episode>
+<episode id="163080" update="2014-10-04">
+<epno type="4">T2</epno>
+<length>1</length>
+<title xml:lang="en">PV 30sec</title>
+</episode>
+<episode id="163424" update="2015-05-10">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="en">Part 4 of 5</title>
+</episode>
+<episode id="163425" update="2015-05-10">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="en">Part 3 of 5</title>
+</episode>
+<episode id="163426" update="2015-05-10">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="en">Part 2 of 5</title>
+</episode>
+<episode id="163427" update="2015-05-10">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="en">Part 1 of 5</title>
+</episode>
+<episode id="163699" update="2015-05-10">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="en">Part 5 of 5</title>
+</episode>
+</episodes>
+</anime>

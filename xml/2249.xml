@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2249" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1991-11-22</startdate>
+<enddate>1991-11-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ninja Ryuukenden</title>
+<title xml:lang="en" type="synonym">Ninja Gaiden OVA</title>
+<title xml:lang="en" type="synonym">Tale of Ninja Ryuken</title>
+<title xml:lang="x-jat" type="synonym">Ninja Ryukenden</title>
+<title xml:lang="ja" type="official">忍者龍剣伝</title>
+<title xml:lang="en" type="official">Ninja Gaiden</title>
+</titles>
+<creators>
+<name id="1069" type="Unknown Relation">Pack-in-Video</name>
+<name id="1181" type="Animation Work">Studio Junio</name>
+<name id="1405" type="Direction">Kanbe Mamoru</name>
+<name id="1182" type="Original Work">Tecmo</name>
+<name id="4314" type="Character Design">Horiuchi Osamu</name>
+<name id="50430" type="Music">Okuda Takuya</name>
+</creators>
+<description>A long time ago, there was a war between the Evil God and the Dragon God. The war finally came to an end when a Dragon Ninja, who had the power of the Dragon God, sealed away the Evil God.
+Several thousand years later, in New York, a young ninja named Ryu is attacked by a couple of men in black suits wearing white masks. He notices that they are related to someone worshiping the same Evil God of the past and resolves to fight against them before the Evil God is unsealed again.</description>
+<ratings>
+<permanent count="350">2.81</permanent>
+<temporary count="357">5.61</temporary>
+</ratings>
+<picture>86968.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2264</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>619</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3395</identifier>
+<identifier>mdxweo</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Ninja_Gaiden</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>忍者龍剣伝</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88544</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2771</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2282" parentid="2841" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2572" parentid="2282" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-09">
+<name>ninja</name>
+<description>A ninja was a covert agent or mercenary of feudal Japan specializing in unorthodox arts of war.
+The functions of the ninja included espionage, sabotage, infiltration, and assassination, as well as open combat in certain situations.
+The ninja, using covert methods of waging war, were contrasted with the samurai, who had strict rules about honor and combat.</description>
+<picurl>244347.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2622" parentid="2841" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+<picurl>211286.jpg</picurl>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2636" parentid="2846" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>human enhancement</name>
+<description>Human enhancement can take various forms: It can be something comparatively non-intrusive as a power-up drug, a form of machine implantation or cyberization (http://anidb.net/a4414 [SAC Solid State Society]), or outright - possibly atrocious - genetic manipulation (http://anidb.net/a361 [Ao no 6 Gou]). Plot-wise enhanced protagonists in anime usually have to pay a price for their enhancements, be it physical or mental.</description>
+<picurl>223945.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+<tag id="2812" parentid="2832" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-15">
+<name>United States</name>
+<description>The United States of America (commonly referred to as the United States, the U.S., the USA, or America) is a federal constitutional republic comprising fifty states and a federal district. The country is situated mostly in central North America, where its forty-eight contiguous states and Washington, D.C., the capital district, lie between the Pacific and Atlantic Oceans, bordered by Canada to the north and Mexico to the south. The state of Alaska is in the north-west of the continent, with Canada to the east and Russia to the west across the Bering Strait. The state of Hawaii is an archipelago in the mid-Pacific. The country also possesses several territories in the Caribbean and Pacific.
+Source: wiki</description>
+<picurl>45504.jpg</picurl>
+</tag>
+<tag id="2832" parentid="2630" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Americas</name>
+<description>The Americas, also collectively called America, encompass the totality of the continents of North America and South America. Together they make up most of Earth`s western hemisphere and comprise the New World.
+Source: Wikipedia</description>
+<picurl>192247.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2907" parentid="2636" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>genetic modification</name>
+<description>Story-wise, genetic modification is usually centred on humans, probably the most subtle and creepy way of messing with mankind. Playing with the fear of the unknown, genetically altered humans are technically a new species, that may not only surpass but actually replace unaltered humans. The level of modification will vary from subtle changes in "look" (e.g. super-human beauty), to mental enhancements (PSI powers), to more or less atrocious adaptations to extreme environments (breath under water, radiation resistance). Note that changes in Aliens would be difficult to pinpoint, after all they are alien.</description>
+<picurl>223941.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="72818" type="secondary cast in" update="2015-01-25">
+<name>Sara</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167953.jpg</picture>
+<seiyuu id="571" picture="172734.jpg">Sakakibara Yoshiko</seiyuu>
+</character>
+<character id="72819" type="secondary cast in" update="2015-01-25">
+<name>Robert</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167954.jpg</picture>
+<seiyuu id="2" picture="16471.jpg">Wakamoto Norio</seiyuu>
+</character>
+<character id="72820" type="secondary cast in" update="2015-01-25">
+<name>Ned</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167955.jpg</picture>
+<seiyuu id="339" picture="79312.jpg">Ishizuka Unshou</seiyuu>
+</character>
+<character id="72821" type="main character in" update="2015-01-25">
+<name>Ryuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167956.jpg</picture>
+<seiyuu id="3282" picture="24710.jpg">Nanba Keiichi</seiyuu>
+</character>
+<character id="72822" type="main character in" update="2015-01-25">
+<name>Irene</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167957.jpg</picture>
+<seiyuu id="1446" picture="19314.jpg">Touma Yumi</seiyuu>
+</character>
+<character id="72823" type="secondary cast in" update="2015-01-25">
+<name>Jeffrey</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167958.jpg</picture>
+<seiyuu id="2946" picture="23373.jpg">Gouri Daisuke</seiyuu>
+</character>
+<character id="72824" type="appears in" update="2015-01-25">
+<name>Bucky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167959.jpg</picture>
+<seiyuu id="544" picture="238510.jpg">Ogawa Shinji</seiyuu>
+</character>
+<character id="72825" type="appears in" update="2015-01-25">
+<name>Bucky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167960.jpg</picture>
+<seiyuu id="544" picture="238510.jpg">Ogawa Shinji</seiyuu>
+</character>
+<character id="72826" type="appears in" update="2015-01-25">
+<name>Catherine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167961.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="45089" update="2011-10-20">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1991-11-22</airdate>
+<rating votes="4">1.98</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

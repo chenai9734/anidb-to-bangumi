@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8555" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>2011-10-02</startdate>
+<enddate>2012-09-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Cross Fight B-Daman</title>
+<title xml:lang="ja" type="synonym">Cross Fight B-Daman</title>
+<title xml:lang="ja" type="official">クロスファイト ビーダマン</title>
+<title xml:lang="en" type="official">B-Daman Crossfire</title>
+<title xml:lang="fr" type="official">B-Daman CrossFire</title>
+<title xml:lang="es" type="official">B-Daman Crossfire</title>
+<title xml:lang="pt" type="official">B-Daman Crossfire</title>
+<title xml:lang="nl" type="official">B-Daman Crossfire</title>
+<title xml:lang="el" type="official">B-Daman CrossFire</title>
+<title xml:lang="zh-Hans" type="official">CROSS FIGHT 弹珠人</title>
+</titles>
+<relatedanime>
+<anime id="9414" type="Sequel">Cross Fight B-Daman eS</anime>
+<anime id="4127" type="Same Setting">Bakukyuu Hit! Crash B-Daman</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/cf_b-daman/</url>
+<creators>
+<name id="1163" type="Animation Work">SynergySP</name>
+<name id="13264" type="Character Design">Fujisaki Kenji</name>
+<name id="7880" type="Series Composition">Inotsume Shin`ichi</name>
+<name id="816" type="Original Work">d-rights</name>
+<name id="10946" type="Original Work">Takara Tomy</name>
+<name id="12546" type="Direction">Odaka Yoshinori</name>
+<name id="13264" type="Chief Animation Direction">Fujisaki Kenji</name>
+<name id="2822" type="Music">Tada Akifumi</name>
+</creators>
+<description>A rumor has spread amongst the children worldwide regarding the popular B-Daman matches: A select group will be allowed to participate in an upcoming secret competition, known as "Cross Fight"!
+~ translated and adapted from official site by Cranston</description>
+<ratings>
+<permanent count="25">2.61</permanent>
+<temporary count="26">4.98</temporary>
+</ratings>
+<picture>78313.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>13256</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>11177</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4952</identifier>
+<identifier>odpfhf</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.at-x.com/program/detail/3141</url>
+</externalentity>
+<externalentity>
+<url>http://www.b-daman.tv/</url>
+</externalentity>
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/cf_b-daman/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>B-Daman_Crossfire</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>クロスファイト_ビーダマン</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2299</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>340590</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>13760</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="36845" type="main character in" update="2011-10-20">
+<rating votes="1">1.63</rating>
+<name>Axel Dracyan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1878.png</picture>
+<seiyuu id="493" picture="65381.jpg">Itou Kentarou</seiyuu>
+</character>
+<character id="36846" type="secondary cast in" update="2011-10-20">
+<rating votes="1">1.63</rating>
+<name>Rev Dravise</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1882.png</picture>
+<seiyuu id="10750" picture="186166.jpg">Takeuchi Ryouta</seiyuu>
+</character>
+<character id="36847" type="secondary cast in" update="2011-11-12">
+<name>Maki Reiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77027.jpg</picture>
+<seiyuu id="12387" picture="223823.jpg">Yanai Hitoshi</seiyuu>
+</character>
+<character id="36848" type="secondary cast in" update="2011-11-12">
+<name>Tsukinowa Gouichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77026.jpg</picture>
+<seiyuu id="399" picture="17244.jpg">Suyama Akio</seiyuu>
+</character>
+<character id="36849" type="secondary cast in" update="2011-10-20">
+<rating votes="2">1.63</rating>
+<name>Shirogane Subaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1880.png</picture>
+<seiyuu id="9365" picture="34581.jpg">Kokuryuu Sachi</seiyuu>
+</character>
+<character id="36850" type="secondary cast in" update="2011-11-12">
+<name>Katsumiya Shumon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77025.jpg</picture>
+<seiyuu id="539" picture="228668.jpg">Aizawa Mai</seiyuu>
+</character>
+<character id="36851" type="secondary cast in" update="2011-11-12">
+<rating votes="1">1.63</rating>
+<name>Samejima Kaito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77024.jpg</picture>
+<seiyuu id="29635" picture="186171.jpg">Takahashi Meguru</seiyuu>
+</character>
+<character id="36852" type="secondary cast in" update="2011-11-12">
+<rating votes="1">1.63</rating>
+<name>Washimura Yukihide</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77023.jpg</picture>
+<seiyuu id="4032" picture="77662.jpg">Okamoto Hiroshi</seiyuu>
+</character>
+<character id="36853" type="main character in" update="2011-10-20">
+<rating votes="1">1.63</rating>
+<name>Ryuugasaki Kakeru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70967.jpg</picture>
+<seiyuu id="1437" picture="18823.jpg">Oohara Momoko</seiyuu>
+</character>
+<character id="37906" type="appears in" update="2011-10-20">
+<rating votes="1">6.08</rating>
+<name>Yamashiro-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>71018.jpg</picture>
+<seiyuu id="23484" picture="151668.jpg">Keichou Yuka</seiyuu>
+</character>
+<character id="37907" type="secondary cast in" update="2012-09-22">
+<rating votes="3">4.55</rating>
+<name>Inaba Natsumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94612.jpg</picture>
+<seiyuu id="1445" picture="33610.jpg">Takamoto Megumi</seiyuu>
+</character>
+<character id="37908" type="appears in" update="2011-10-20">
+<name>Saiga Akira</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>71020.jpg</picture>
+<seiyuu id="10142" picture="37459.jpg">Higo Makoto</seiyuu>
+</character>
+<character id="38663" type="secondary cast in" update="2012-09-22">
+<rating votes="3">5.36</rating>
+<name>Tenpouin Ruri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94611.jpg</picture>
+<seiyuu id="550" picture="151677.jpg">Shimizu Ai</seiyuu>
+</character>
+<character id="38664" type="secondary cast in" update="2011-11-12">
+<name>Tenpouin Saneatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77030.jpg</picture>
+<seiyuu id="3135" picture="24120.jpg">Fujimoto Yuzuru</seiyuu>
+</character>
+<character id="38665" type="appears in" update="2011-11-12">
+<rating votes="1">6.08</rating>
+<name>Kakeru no Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77033.jpg</picture>
+<seiyuu id="247" picture="43238.jpg">Terada Haruhi</seiyuu>
+</character>
+<character id="38667" type="appears in" update="2011-11-12">
+<name>Roll Sasord</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>77034.jpg</picture>
+<seiyuu id="1683" picture="223030.jpg">Kanemitsu Nobuaki</seiyuu>
+</character>
+<character id="49136" type="secondary cast in" update="2012-09-22">
+<name>Raidou Ouga</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94603.jpg</picture>
+<seiyuu id="1692" picture="224934.jpg">Okitsu Kazuyuki</seiyuu>
+</character>
+<character id="49137" type="secondary cast in" update="2012-09-22">
+<name>Watari Daiki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94604.jpg</picture>
+<seiyuu id="1442" picture="18829.jpg">Kaida Yuki</seiyuu>
+</character>
+<character id="49138" type="secondary cast in" update="2012-09-22">
+<rating votes="1">1.63</rating>
+<name>Homura Naoya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94605.jpg</picture>
+<seiyuu id="444" picture="17329.jpg">Suzuki Chihiro</seiyuu>
+</character>
+<character id="49139" type="secondary cast in" update="2012-09-22">
+<name>Kurobuchi Basara</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94606.jpg</picture>
+<seiyuu id="1680" picture="132752.jpg">Tachibana Shinnosuke</seiyuu>
+</character>
+<character id="49140" type="secondary cast in" update="2012-09-22">
+<name>Kamiougi Asuka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94607.jpg</picture>
+<seiyuu id="12623" picture="151646.jpg">Iguchi Yuuichi</seiyuu>
+</character>
+<character id="49141" type="secondary cast in" update="2012-09-22">
+<name>Sumeragi Ryuuji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94608.jpg</picture>
+<seiyuu id="81" picture="41282.jpg">Sanpei Yuuko</seiyuu>
+</character>
+<character id="49142" type="secondary cast in" update="2012-09-22">
+<rating votes="1">1.63</rating>
+<name>Arano Gun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94609.jpg</picture>
+<seiyuu id="20580" picture="53996.jpg">Sonobe Yoshinori</seiyuu>
+</character>
+<character id="49143" type="secondary cast in" update="2012-09-22">
+<rating votes="1">1.63</rating>
+<name>Aruba Kokodouro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94610.jpg</picture>
+<seiyuu id="5666" picture="157275.jpg">Satou Yuudai</seiyuu>
+</character>
+<character id="49144" type="appears in" update="2012-09-22">
+<name>Midai Kamon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94613.jpg</picture>
+<seiyuu id="10130" picture="151714.jpg">Takumi Yasuaki</seiyuu>
+</character>
+<character id="51611" type="appears in" update="2012-12-23">
+<name>Across Iguru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>129885.jpg</picture>
+<seiyuu id="1683" picture="223030.jpg">Kanemitsu Nobuaki</seiyuu>
+</character>
+<character id="51926" type="appears in" update="2013-01-06">
+<name>B-da Ryu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1683" picture="223030.jpg">Kanemitsu Nobuaki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="132964" update="2011-10-10">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2011-10-02</airdate>
+<title xml:lang="ja">これがビーダマン!?</title>
+<title xml:lang="en">Did You Say... B-Daman?</title>
+<title xml:lang="x-jat">Kore ga B-Daman!?</title>
+</episode>
+<episode id="133815" update="2011-10-10">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2011-10-09</airdate>
+<title xml:lang="ja">これがクロスファイト!?</title>
+<title xml:lang="en">Did You Say... B-Daman?</title>
+<title xml:lang="x-jat">Kore ga Cross Fight!?</title>
+</episode>
+<episode id="133816" update="2011-10-10">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2011-10-16</airdate>
+<title xml:lang="ja">あいつがチャンピオン!?</title>
+<title xml:lang="en">Wait a Minute! He`s the Champion!?</title>
+<title xml:lang="x-jat">Aitsu ga Champion!?</title>
+</episode>
+<episode id="133869" update="2011-10-11">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2011-11-06</airdate>
+<title xml:lang="ja">きめろトリプルショット</title>
+<title xml:lang="en">B-Animals? What Are Those?</title>
+<title xml:lang="x-jat">Kimero Triple Shot</title>
+</episode>
+<episode id="133870" update="2011-10-11">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2011-10-30</airdate>
+<title xml:lang="ja">ほえろB-アニマル!</title>
+<title xml:lang="en">B-Animals? What Are Those?</title>
+<title xml:lang="x-jat">Hoero B-Animal!</title>
+</episode>
+<episode id="133871" update="2011-10-11">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2011-10-23</airdate>
+<title xml:lang="ja">え?ファーストレコード!?</title>
+<title xml:lang="en">Wait a Minute! He`s the Champion!?</title>
+<title xml:lang="x-jat">E? First Record!?</title>
+</episode>
+<episode id="135030" update="2011-11-29">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2011-11-13</airdate>
+<title xml:lang="ja">GO!ウェストシティ!!</title>
+<title xml:lang="en">West City, Here We Come!</title>
+<title xml:lang="x-jat">Go! West City!!</title>
+</episode>
+<episode id="135031" update="2011-11-29">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2011-11-20</airdate>
+<title xml:lang="ja">3...2...1, クロスタッグファイト!</title>
+<title xml:lang="en">West City, Here We Come!</title>
+<title xml:lang="x-jat">3... 2... 1, Cross Tag Fight!</title>
+</episode>
+<episode id="135032" update="2011-11-29">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2011-11-27</airdate>
+<title xml:lang="ja">その名はレオージャ!</title>
+<title xml:lang="en">The Name`s Leo! Thunder Leo!</title>
+<title xml:lang="x-jat">Sono Na wa Leohjya!</title>
+</episode>
+<episode id="135033" update="2011-11-29">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2011-12-04</airdate>
+<title xml:lang="ja">うなれブレイクショット!!</title>
+<title xml:lang="en">The Name`s Leo! Thunder Leo!</title>
+<title xml:lang="x-jat">Unare Break Shot!</title>
+</episode>
+<episode id="135260" update="2011-12-11">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2011-12-11</airdate>
+<title xml:lang="ja">いくぞ! メタルアクセル!!</title>
+<title xml:lang="en">Tune Up! Thunder Dracyan!</title>
+<title xml:lang="x-jat">Iku zo! Metal Accele!!</title>
+</episode>
+<episode id="135261" update="2011-12-11">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2011-12-18</airdate>
+<title xml:lang="ja">いけ! Wスーパーショット!!</title>
+<title xml:lang="en">Tune Up! Thunder Dracyan!</title>
+<title xml:lang="x-jat">Ike! W-Super Shot!!</title>
+</episode>
+<episode id="135746" update="2011-12-28">
+<epno type="1">13</epno>
+<length>15</length>
+<airdate>2011-12-25</airdate>
+<title xml:lang="ja">誰だ? 謎のレッドドラゴン使い...</title>
+<title xml:lang="en">Red Dragon? Who is that Guy?</title>
+<title xml:lang="x-jat">Dare Da? Nazo no Red Dragon Tsukai...</title>
+</episode>
+<episode id="135747" update="2011-12-28">
+<epno type="1">14</epno>
+<length>15</length>
+<airdate>2012-01-08</airdate>
+<title xml:lang="ja">え!?アイツが転校生?</title>
+<title xml:lang="en">Red Dragon? Who is that Guy?</title>
+<title xml:lang="x-jat">E!? Aitsu ga Tenkousei?</title>
+</episode>
+<episode id="136234" update="2012-02-04">
+<epno type="1">15</epno>
+<length>15</length>
+<airdate>2012-01-15</airdate>
+<title xml:lang="ja">龍虎合体パーフェクト=ドラグレン!</title>
+<title xml:lang="en">Dragon Tiger Combo! Mighty Dragren!</title>
+<title xml:lang="x-jat">Ryuuko Gattai Perfect Dragren!</title>
+</episode>
+<episode id="136844" update="2012-02-04">
+<epno type="1">18</epno>
+<length>15</length>
+<airdate>2012-02-05</airdate>
+<title xml:lang="ja">イースト VS ウェスト!</title>
+<title xml:lang="en">This is Break Bomber!?</title>
+<title xml:lang="x-jat">East vs. West!</title>
+</episode>
+<episode id="136845" update="2012-02-04">
+<epno type="1">17</epno>
+<length>15</length>
+<airdate>2012-01-29</airdate>
+<title xml:lang="ja">これがブレイクボンバー!?</title>
+<title xml:lang="en">This is Break Bomber!?</title>
+<title xml:lang="x-jat">Kore ga Break Bomber!?</title>
+</episode>
+<episode id="136846" update="2012-02-04">
+<epno type="1">16</epno>
+<length>15</length>
+<airdate>2012-01-22</airdate>
+<title xml:lang="ja">最強のコントロールタイプ...</title>
+<title xml:lang="en">Dragon Tiger Combo! Mighty Dragren!</title>
+<title xml:lang="x-jat">Saikyou no Control Type...</title>
+</episode>
+<episode id="137069" update="2012-02-09">
+<epno type="1">19</epno>
+<length>15</length>
+<airdate>2012-02-12</airdate>
+<title xml:lang="ja">楽しいビーダキャンプ!</title>
+<title xml:lang="en">Camping, B-Shot Style!</title>
+<title xml:lang="x-jat">Tanoshii B-dacamp!</title>
+</episode>
+<episode id="137144" update="2012-02-12">
+<epno type="1">20</epno>
+<length>15</length>
+<airdate>2012-02-19</airdate>
+<title xml:lang="ja">赤き龍の正体!</title>
+<title xml:lang="en">Camping, B-Shot Style!</title>
+<title xml:lang="x-jat">Akaki Ryuu no Shoutai!</title>
+</episode>
+<episode id="137357" update="2012-02-26">
+<epno type="1">22</epno>
+<length>15</length>
+<airdate>2012-03-04</airdate>
+<title xml:lang="ja">無敵のドラゴンタッグ!!</title>
+<title xml:lang="en">Friendship Break Bomber!</title>
+<title xml:lang="x-jat">Muteki no Dragon Tag!!</title>
+</episode>
+<episode id="137358" update="2012-02-26">
+<epno type="1">21</epno>
+<length>15</length>
+<airdate>2012-02-26</airdate>
+<title xml:lang="ja">友情のブレイクボンバー!</title>
+<title xml:lang="en">Friendship Break Bomber!</title>
+<title xml:lang="x-jat">Yuujou no Break Bomber!</title>
+</episode>
+<episode id="137512" update="2012-03-04">
+<epno type="1">23</epno>
+<length>15</length>
+<airdate>2012-03-11</airdate>
+<title xml:lang="ja">誰だ?イーストチャンピオン!</title>
+<title xml:lang="en">The East Champ Is Revealed!</title>
+<title xml:lang="x-jat">Dare Da? East Champion!</title>
+</episode>
+<episode id="137737" update="2012-03-11">
+<epno type="1">24</epno>
+<length>15</length>
+<airdate>2012-03-18</airdate>
+<title xml:lang="ja">3, 2, 1...B-ファイナル!</title>
+<title xml:lang="en">The East Champ Is Revealed!</title>
+<title xml:lang="x-jat">3, 2, 1... B-Final!</title>
+</episode>
+<episode id="138044" update="2012-03-18">
+<epno type="1">25</epno>
+<length>15</length>
+<airdate>2012-03-25</airdate>
+<title xml:lang="ja">開催!統一チャンピオン決定戦</title>
+<title xml:lang="en">Crowning the Overall Champ!</title>
+<title xml:lang="x-jat">Kaisai! Touitsu Champion Ketteisen</title>
+</episode>
+<episode id="138183" update="2012-03-26">
+<epno type="1">26</epno>
+<length>15</length>
+<airdate>2012-04-01</airdate>
+<title xml:lang="ja">激闘の果てに...</title>
+<title xml:lang="en">Crowning the Overall Champ!</title>
+<title xml:lang="x-jat">Gekitou no Hate ni...</title>
+</episode>
+<episode id="138405" update="2012-04-02">
+<epno type="1">27</epno>
+<length>15</length>
+<airdate>2012-04-08</airdate>
+<title xml:lang="ja">え?まさかクロスファイトが!</title>
+<title xml:lang="en">Crossfire Is... Can It Be True?</title>
+<title xml:lang="x-jat">E? Masaka Cross Fight ga!</title>
+</episode>
+<episode id="138679" update="2012-04-09">
+<epno type="1">28</epno>
+<length>15</length>
+<airdate>2012-04-15</airdate>
+<title xml:lang="ja">新たな開幕!ビーダマン戦国時代</title>
+<title xml:lang="en">Crossfire Is... Can It Be True?</title>
+<title xml:lang="x-jat">Arata na Kaimaku! B-daman Sengoku Jidai</title>
+</episode>
+<episode id="138929" update="2012-04-17">
+<epno type="1">29</epno>
+<length>15</length>
+<airdate>2012-04-22</airdate>
+<title xml:lang="ja">比類なきジャッカー!</title>
+<title xml:lang="en">The Incomparable Jaku!</title>
+<title xml:lang="x-jat">Hiruinaki Jacker!</title>
+</episode>
+<episode id="139065" update="2012-04-22">
+<epno type="1">30</epno>
+<length>15</length>
+<airdate>2012-04-29</airdate>
+<title xml:lang="ja">激闘!イーストGP</title>
+<title xml:lang="en">The Incomparable Jaku!</title>
+<title xml:lang="x-jat">Gekitou! East GP</title>
+</episode>
+<episode id="139238" update="2012-04-29">
+<epno type="1">31</epno>
+<length>15</length>
+<airdate>2012-05-06</airdate>
+<title xml:lang="ja">集まれ!未来のビーダーたち</title>
+<title xml:lang="en">Calling All New B-Shots!</title>
+<title xml:lang="x-jat">Atsumare! Mirai no B-der-tachi</title>
+</episode>
+<episode id="139626" update="2012-05-12">
+<epno type="1">35</epno>
+<length>15</length>
+<airdate>2012-06-03</airdate>
+<title xml:lang="ja">ブリザードの決闘...</title>
+<title xml:lang="en">Brutal Bitter Blizzard Battle!</title>
+<title xml:lang="x-jat">Blizzard no Kettou...</title>
+</episode>
+<episode id="139627" update="2012-05-12">
+<epno type="1">34</epno>
+<length>15</length>
+<airdate>2012-05-27</airdate>
+<title xml:lang="ja">ボンバー!勝つのはどっちだ!?</title>
+<title xml:lang="en">The Wild Wild West GP!</title>
+<title xml:lang="x-jat">Bomber! Katsu no wa Docchi Da!?</title>
+</episode>
+<episode id="139628" update="2012-05-12">
+<epno type="1">33</epno>
+<length>15</length>
+<airdate>2012-05-20</airdate>
+<title xml:lang="ja">バースト!ウェストGP開幕</title>
+<title xml:lang="en">The Wild Wild West GP!</title>
+<title xml:lang="x-jat">Burst! West GP Kaimaku</title>
+</episode>
+<episode id="139629" update="2012-05-12">
+<epno type="1">32</epno>
+<length>15</length>
+<airdate>2012-05-13</airdate>
+<title xml:lang="ja">アスカと勝負!!ブレイクボンバー</title>
+<title xml:lang="en">Calling All New B-Shots!</title>
+<title xml:lang="x-jat">Asuka to Shoubu!! Break Bomber</title>
+</episode>
+<episode id="140085" update="2012-06-11">
+<epno type="1">37</epno>
+<length>15</length>
+<airdate>2012-06-17</airdate>
+<title xml:lang="ja">遺跡の中はミステリー...</title>
+<title xml:lang="en">The Mystery of the Ruins</title>
+<title xml:lang="x-jat">Iseki no Naka wa Mystery...</title>
+</episode>
+<episode id="140086" update="2012-06-11">
+<epno type="1">36</epno>
+<length>15</length>
+<airdate>2012-06-10</airdate>
+<title xml:lang="ja">雪の夜の対決!ジャッカーVSドラゼロス</title>
+<title xml:lang="en">Brutal Bitter Blizzard Battle!</title>
+<title xml:lang="x-jat">Yuki no Yoru no Taiketsu! Jacker vs. Drazeros</title>
+</episode>
+<episode id="140349" update="2012-06-24">
+<epno type="1">39</epno>
+<length>15</length>
+<airdate>2012-07-01</airdate>
+<title xml:lang="ja">ドラゴルド参戦!ノースGP</title>
+<title xml:lang="en">Enter Dragold! The North Grand Prix!</title>
+<title xml:lang="x-jat">Dragold Sansen! North GP</title>
+</episode>
+<episode id="140350" update="2012-06-24">
+<epno type="1">38</epno>
+<length>15</length>
+<airdate>2012-06-24</airdate>
+<title xml:lang="ja">伝説のドラゴンタイプ!</title>
+<title xml:lang="en">The Mystery of the Ruins</title>
+<title xml:lang="x-jat">Densetsu no Dragon Type!</title>
+</episode>
+<episode id="140940" update="2012-07-13">
+<epno type="1">41</epno>
+<length>15</length>
+<airdate>2012-07-15</airdate>
+<title xml:lang="ja">打倒!スマッシュ・ドラゴルド</title>
+<title xml:lang="en">Smash Dragold!</title>
+<title xml:lang="x-jat">Datou! Smash Dragold</title>
+</episode>
+<episode id="140941" update="2012-07-13">
+<epno type="1">40</epno>
+<length>15</length>
+<airdate>2012-07-08</airdate>
+<title xml:lang="ja">戦慄!ゴールドドラゴンの力</title>
+<title xml:lang="en">Enter Dragold! The North Grand Prix!</title>
+<title xml:lang="x-jat">Senritsu! Gold Dragon no Chikara</title>
+</episode>
+<episode id="141589" update="2012-08-14">
+<epno type="1">46</epno>
+<length>15</length>
+<airdate>2012-08-19</airdate>
+<title xml:lang="ja">聖ナルチカラが呼ぶ奇跡</title>
+<title xml:lang="en">The Ultimate Hammer Smash!</title>
+<title xml:lang="x-jat">Seinaru Chikara ga Yobu Kiseki</title>
+</episode>
+<episode id="141590" update="2012-08-14">
+<epno type="1">45</epno>
+<length>15</length>
+<airdate>2012-08-12</airdate>
+<title xml:lang="ja">必殺のドラゴニック・ハンマー!</title>
+<title xml:lang="en">The Ultimate Hammer Smash!</title>
+<title xml:lang="x-jat">Hissatsu no Dragonic Hammer!</title>
+</episode>
+<episode id="141591" update="2012-08-14">
+<epno type="1">44</epno>
+<length>15</length>
+<airdate>2012-08-05</airdate>
+<title xml:lang="ja">ミステリー!超古代ビーダマンの謎</title>
+<title xml:lang="en">The Search for the Mysterious B-Daman!</title>
+<title xml:lang="x-jat">Mystery! Choukodai B-Daman no Nazo</title>
+</episode>
+<episode id="141592" update="2012-08-14">
+<epno type="1">43</epno>
+<length>15</length>
+<airdate>2012-07-29</airdate>
+<title xml:lang="ja">追え!謎の秘境ビーダマン</title>
+<title xml:lang="en">The Search for the Mysterious B-Daman!</title>
+<title xml:lang="x-jat">Oe! Nazo no Hikyou B-Daman</title>
+</episode>
+<episode id="141593" update="2012-08-14">
+<epno type="1">42</epno>
+<length>15</length>
+<airdate>2012-07-22</airdate>
+<title xml:lang="ja">絆のダブル・ショット!!</title>
+<title xml:lang="en">Smash Dragold!</title>
+<title xml:lang="x-jat">Kizuna no Double Shot!!</title>
+</episode>
+<episode id="142551" update="2012-08-30">
+<epno type="1">52</epno>
+<length>15</length>
+<airdate>2012-09-30</airdate>
+<title xml:lang="ja">決着!クロスファイト新世紀</title>
+<title xml:lang="en">This is it! The Final Match!</title>
+<title xml:lang="x-jat">Kecchaku! Cross Fight Shinseiki</title>
+</episode>
+<episode id="142552" update="2012-08-30">
+<epno type="1">51</epno>
+<length>15</length>
+<airdate>2012-09-23</airdate>
+<title xml:lang="ja">いくぞ!ファイナルマッチ</title>
+<title xml:lang="en">This is it! The Final Match!</title>
+<title xml:lang="x-jat">Iku zo! Final Match</title>
+</episode>
+<episode id="142553" update="2012-08-30">
+<epno type="1">50</epno>
+<length>15</length>
+<airdate>2012-09-16</airdate>
+<title xml:lang="ja">真っ向勝負!ドラシアンVSドラグレン!!</title>
+<title xml:lang="en">The Complete Dragon King!</title>
+<title xml:lang="x-jat">Makkou Shoubu! Dracyan vs. Dragren!!</title>
+</episode>
+<episode id="142554" update="2012-08-30">
+<epno type="1">49</epno>
+<length>15</length>
+<airdate>2012-09-09</airdate>
+<title xml:lang="ja">完全なる龍王!</title>
+<title xml:lang="en">The Complete Dragon King!</title>
+<title xml:lang="x-jat">Kanzennaru Ryuuou!</title>
+</episode>
+<episode id="142555" update="2012-08-30">
+<epno type="1">48</epno>
+<length>15</length>
+<airdate>2012-09-02</airdate>
+<title xml:lang="ja">激ファイト! ナオヤVSリュウジ</title>
+<title xml:lang="en">Watch Out! Rudy`s Run Amok!</title>
+<title xml:lang="x-jat">Geki Fight! Naoya vs. Ryuuji</title>
+</episode>
+<episode id="142556" update="2012-08-30">
+<epno type="1">47</epno>
+<length>15</length>
+<airdate>2012-08-26</airdate>
+<title xml:lang="ja">ヒートアップ! リュウジ暴走!!</title>
+<title xml:lang="en">Watch Out! Rudy`s Run Amok!</title>
+<title xml:lang="x-jat">Heat Up! Ryuuji Bousou!!</title>
+</episode>
+</episodes>
+</anime>

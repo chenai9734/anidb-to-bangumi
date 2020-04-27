@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4010" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1989-06-15</startdate>
+<enddate>1989-07-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Moeru! Onii-san (1989)</title>
+<title xml:lang="ja" type="official">燃える! お兄さん (1989)</title>
+</titles>
+<relatedanime>
+<anime id="4009" type="Parent Story">Moeru! Onii-san</anime>
+</relatedanime>
+<creators>
+<name id="5957" type="Character Design">Yamada Michishiro</name>
+<name id="8948" type="Original Work">Satou Tadashi</name>
+<name id="5418" type="Direction">Tonokatsu Hideki</name>
+<name id="3052" type="Direction">Mori Takeshi</name>
+<name id="4287" type="Music">Makaino Kouji</name>
+</creators>
+<ratings>
+<permanent count="11">3.57</permanent>
+<temporary count="11">5.27</temporary>
+</ratings>
+<picture>5603.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7415</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>11959</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2838</identifier>
+<identifier>mwiezi</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88654</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2147</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="41837" update="2007-02-21">
+<epno type="1">1</epno>
+<length>35</length>
+<airdate>1989-06-15</airdate>
+<title xml:lang="ja">ビデオで初めてコンチニワ! 暴走ダック・ニコルソンの巻 / ハチャメチャボウリング! 透明お兄さんの巻</title>
+<title xml:lang="en">Howdy-do on My First Video! The Crazy Outta Control Duck Nicholson Chapter / Extreme Madness Bowling! The invisible Big Brother Chapter</title>
+<title xml:lang="x-jat">Video de Hajimete Konnichiwa! Bousou Duck Nicholson no Maki / Hachamecha Bowling! Toumei Oniisan no Maki</title>
+</episode>
+<episode id="41838" update="2005-10-09">
+<epno type="1">2</epno>
+<length>35</length>
+<airdate>1989-07-15</airdate>
+<title xml:lang="ja">回転ずし 大食い勝負の巻 / 欲のかたまり 文化祭の巻</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kaiten Zushi Daigui Shoubu no Maki / Yoku no Katamari Bunkasai no Maki</title>
+</episode>
+</episodes>
+</anime>

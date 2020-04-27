@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5317" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1986-12-05</startdate>
+<enddate>1986-12-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Twinkle Heart Part 1: Gingakei made Todokanai</title>
+<title xml:lang="ja" type="official">トゥインクルハート 銀河系までとどかない TWINKLE HEART PART 1</title>
+</titles>
+<creators>
+<name id="561" type="Original Work">Okuda Seiji</name>
+<name id="561" type="Chief Direction">Okuda Seiji</name>
+<name id="5516" type="Character Design">Yamamoto Sawako</name>
+<name id="12077" type="Direction">Endou Katsumi</name>
+<name id="4126" type="Original Work">Terada Kenji</name>
+<name id="7537" type="Music">Watanabe Hiroya</name>
+</creators>
+<description>Cherry, Berry and Lemon`s adventure on a dangerous alien planet.</description>
+<ratings>
+<permanent count="71">3.15</permanent>
+<temporary count="73">4.80</temporary>
+</ratings>
+<picture>12667.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7078</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10355</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3045</identifier>
+<identifier>hzlxxs</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88814</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2182</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="760" parentid="2274" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>robot helper</name>
+<description>In a http://anidb.net/t2846 [science fiction] setting, the robot helper is, in a comedic sense, pretty much equivalent to what the "cute comic relief http://anidb.net/t1835 [animal sidekick]" is in a fantasy setting. The usually small machine has artificial intelligence, enabling it to support their owner / master with advice or help with menial tasks.
+http://anidb.net/t1278 [Androids] should not be considered robot helpers since these are far more complex; use the android tag instead.</description>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2638" parentid="2846" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="4033" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2018-07-29">
+<name>discontinued</name>
+<description>This anime plot was supposed to run on more episodes, but it was prematurely discontinued before reaching the end.
+Generally, we can only reasonably observe that a show is discontinued after the fact. As such, this tag should not be added to an anime until at least 5 years have passed since the anime airing has ended.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="103068" update="2010-12-12">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>1986-12-05</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

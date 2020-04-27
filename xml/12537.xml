@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12537" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2001-11-09</startdate>
+<enddate>2001-11-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Meitantei Conan: Nazo no Suisei Kaijuu o Oe!</title>
+<title xml:lang="en" type="synonym">Detective Conan: Chase the Mysterious Comet Monster!</title>
+<title xml:lang="ja" type="official">名探偵コナン 謎のすい星怪獣を追え!</title>
+</titles>
+<relatedanime>
+<anime id="266" type="Parent Story">Meitantei Conan</anime>
+</relatedanime>
+<description>A short story about Conan and the Detective Boys.</description>
+<ratings>
+<permanent count="34">3.75</permanent>
+<temporary count="34">5.30</temporary>
+</ratings>
+<picture>194457.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33145</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="182739" update="2016-12-04">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2001-11-09</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

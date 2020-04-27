@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10500" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002-10-07</startdate>
+<enddate>2002-10-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Peng You Town</title>
+<title xml:lang="ja" type="official">ポンユタウン</title>
+</titles>
+<description>In a small provincial town, three children play football but when they hear breaking glass, two of them flee; leaving a little girl to investigate. She finds that she has broken a fish bowl and a small fish is flapping on the ground gasping for its life. What will the girl do to save this poor creature?</description>
+<ratings>
+<permanent count="8">4.80</permanent>
+<temporary count="8">4.50</temporary>
+</ratings>
+<picture>151119.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7709</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>村田朋泰#.E6.98.A0.E5.83.8F.E4.BD.9C.E5.93.81</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11623</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="159436" update="2014-09-19">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2002-10-07</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

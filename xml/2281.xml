@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2281" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1984-07-14</startdate>
+<enddate>1984-07-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Kabocha Wine: Nita no Aijou Monogatari</title>
+<title xml:lang="en" type="synonym">The Pumpkin Wine: Nita`s Love Story</title>
+<title xml:lang="ja" type="official">Theかぼちゃワイン ニタの愛情物語</title>
+</titles>
+<relatedanime>
+<anime id="1928" type="Other">The Kabocha Wine</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="10216" type="Original Work">Miura Mitsuru</name>
+<name id="7069" type="Music">Shouji Osamu</name>
+</creators>
+<ratings>
+<permanent count="15">5.18</permanent>
+<temporary count="15">6.33</temporary>
+</ratings>
+<picture>49532.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3874</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8524</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2570</identifier>
+<identifier>sswacx</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>The・かぼちゃワイン#.E5.8A.87.E5.A0.B4.E7.89.88.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149075</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21946</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<characters>
+<character id="91269" type="main character in" update="2017-09-05">
+<rating votes="7">9.87</rating>
+<name>Asaoka Natsumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206791.jpg</picture>
+<seiyuu id="9582" picture="219362.jpg">Yokozawa Keiko</seiyuu>
+</character>
+<character id="91270" type="main character in" update="2017-09-05">
+<rating votes="1">1.57</rating>
+<name>Aoba Shunsuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206792.jpg</picture>
+<seiyuu id="2583" picture="23188.jpg">Furukawa Toshio</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="21695" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1984-07-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

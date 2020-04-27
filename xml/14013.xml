@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14013" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2020</startdate>
+<enddate>2020</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Violet Evergarden</title>
+<title xml:lang="en" type="synonym">Violet Evergarden the Movie</title>
+<title xml:lang="ja" type="official">劇場版 ヴァイオレット・エヴァーガーデン</title>
+<title xml:lang="ko" type="official">극장판 바이올렛 에버가든</title>
+</titles>
+<relatedanime>
+<anime id="12138" type="Other">Violet Evergarden</anime>
+</relatedanime>
+<url>http://violet-evergarden.jp/</url>
+<creators>
+<name id="736" type="Animation Work">Kyoto Animation</name>
+<name id="47074" type="Character Design">Takase Akiko</name>
+<name id="45939" type="Original Work">Akatsuki Kana</name>
+<name id="532" type="Direction">Ishidate Taichi</name>
+<name id="47074" type="Chief Animation Direction">Takase Akiko</name>
+<name id="39819" type="Music">Evan Call</name>
+</creators>
+<ratings>
+<permanent count="1">5.96</permanent>
+<temporary count="1">8.00</temporary>
+</ratings>
+<picture>245073.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22376</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37987</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://violet-evergarden.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Violet_Evergarden</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ヴァイオレット・エヴァーガーデン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363980</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>Violet_Letter</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="89959" type="main character in" update="2017-08-22">
+<rating votes="151">8.49</rating>
+<name>Violet Evergarden</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206544.jpg</picture>
+<seiyuu id="443" picture="145927.jpg">Ishikawa Yui</seiyuu>
+</character>
+<character id="90198" type="secondary cast in" update="2017-08-22">
+<rating votes="12">6.07</rating>
+<name>Gilbert Bougainvillea</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206546.jpg</picture>
+<seiyuu id="265" picture="25730.jpg">Namikawa Daisuke</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="215682" update="2020-04-06">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

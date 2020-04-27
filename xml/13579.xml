@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13579" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2003</startdate>
+<enddate>2005</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Yin Shun Daoshi Chuan</title>
+<title xml:lang="zh-Hant" type="official">印順導師傳</title>
+</titles>
+<url>http://www.tzuchi.org.tw/index.php?option=com_content&amp;view=article&amp;id=3109:2010-04-03-01-34-25&amp;catid=93:culture-project&amp;Itemid=386</url>
+<description>Story of Master Yin Shun.</description>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://www.tzuchi.org.tw/index.php?option=com_content&amp;view=article&amp;id=3109:2010-04-03-01-34-25&amp;catid=93:culture-project&amp;Itemid=386</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=baKfY0GMfC4</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2674" parentid="2834" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>China</name>
+<description>China, officially the People`s Republic of China (PRC), is a unitary sovereign state in East Asia and the world`s most populous country. It is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
+Source: Wikipedia</description>
+<picurl>214277.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2876" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>religion</name>
+<description>Religion is a collection of belief systems, cultural systems, and worldviews that relate humanity to spirituality and, sometimes, to moral values. Many religions have narratives, symbols, traditions and sacred histories that are intended to give meaning to life or to explain the origin of life or the universe. They tend to derive morality, ethics, religious laws or a preferred lifestyle from their ideas about the cosmos and human nature.</description>
+</tag>
+<tag id="3363" parentid="2876" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-04">
+<name>Buddhism</name>
+<description>Buddhism is a nontheistic religion or dharma, "right way of living", that encompasses a variety of traditions, beliefs and practices largely based on teachings attributed to Siddhartha Gautama, commonly known as the Buddha ("the awakened one").
+Source: Wikipedia</description>
+<picurl>169453.jpg</picurl>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6219" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-14">
+<name>Taiwanese production</name>
+</tag>
+</tags>
+</anime>

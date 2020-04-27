@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14706" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2019-11-22</startdate>
+<enddate>2019-11-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mayonaka no Occult Koumuin: Fukurokouji to Anoko to Ore to</title>
+<title xml:lang="ja" type="official">真夜中のオカルト公務員 袋小路とあの子と俺と</title>
+<title xml:lang="en" type="official">Midnight Occult Civil Servants: The Blind Alley, the Boy, and I</title>
+<title xml:lang="zh-Hans" type="official">深夜的超自然公务员 OAD</title>
+</titles>
+<relatedanime>
+<anime id="14172" type="Other">Mayonaka no Occult Koumuin</anime>
+</relatedanime>
+<description>* Based on a supernatural shoujo manga by http://anidb.net/cr55468 [Tamotsu Youko].
+Note: Bundled with the limited edition of the 12th manga volume.</description>
+<ratings>
+<permanent count="29">4.92</permanent>
+<temporary count="30">6.35</temporary>
+</ratings>
+<picture>235284.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39382</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mayonaka_no_Occult_Kōmuin</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>真夜中のオカルト公務員</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>368678</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>occultkoumuin</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>midnight-occult-civil-servants</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="213051" update="2019-11-23">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-11-22</airdate>
+<rating votes="1">8.82</rating>
+<title xml:lang="en">OAD</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783017</identifier>
+<identifier>midnight-occult-civil-servants</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

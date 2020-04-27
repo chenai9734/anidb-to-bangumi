@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3608" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2003-12-06</startdate>
+<enddate>2003-12-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Atashinchi</title>
+<title xml:lang="en" type="synonym">Atashinchi Movie</title>
+<title xml:lang="ja" type="official">映画 あたしンち</title>
+</titles>
+<relatedanime>
+<anime id="325" type="Character">Atashinchi</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Animation Production">Toei Douga</name>
+<name id="8225" type="Original Work">Kera Eiko</name>
+<name id="4316" type="Direction">Yasumi Tetsuo</name>
+</creators>
+<description>In a stormy night, Mikan and Mom were stricken by lightning simultaneously and switched bodies. In the following days, while Mom enjoyed being a student again, Mikan had to fought with house chores. Meanwhile, Yuzuhiko and Dad were busy looking for a way to switch them back.
+Source: ANN</description>
+<ratings>
+<permanent count="12">5.33</permanent>
+<temporary count="12">5.91</temporary>
+</ratings>
+<picture>18598.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4950</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9795</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Atashin'chi</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>あたしンち#.E6.98.A0.E7.94.BB</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>186</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>318702</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6431</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="10789" type="appears in" update="2015-09-23">
+<name>Chichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177798.jpg</picture>
+<seiyuu id="604" picture="154161.jpg">Ogata Ken`ichi</seiyuu>
+</character>
+<character id="10790" type="appears in" update="2015-09-23">
+<name>Mikan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177797.jpg</picture>
+<seiyuu id="157" picture="42784.jpg">Orikasa Fumiko</seiyuu>
+</character>
+<character id="10791" type="appears in" update="2015-09-23">
+<name>Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177800.jpg</picture>
+<seiyuu id="3130" picture="186156.jpg">Watanabe Kumiko</seiyuu>
+</character>
+<character id="10792" type="appears in" update="2015-09-23">
+<name>Yuzuhiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177799.jpg</picture>
+<seiyuu id="336" picture="17172.jpg">Sakaguchi Daisuke</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="44855" update="2006-02-15">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>2003-12-06</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

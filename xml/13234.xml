@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13234" restricted="false">
+<type>Web</type>
+<episodecount>3</episodecount>
+<startdate>2014-07-03</startdate>
+<enddate>2014-11-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sushi Ninja</title>
+<title xml:lang="ja" type="synonym">寿司忍者</title>
+<title xml:lang="ja" type="official">スシニンジャ</title>
+</titles>
+<url>http://www.sushininja.jp/</url>
+<creators>
+<name id="41513" type="Animation Work">Sprite Animation Studios</name>
+<name id="31538" type="Character Design">Ishii Tetsuya</name>
+<name id="41510" type="Direction">Sakakibara Motonori</name>
+<name id="4303" type="Music">Hattori Katsuhisa</name>
+</creators>
+<description>Elite Sushi Ninja fights with evil Monsters for justice every day! They are so cool to knock Giant monsters out by their special weapons. They, however, are on the popular superhero TV show...
+In the real world, three-lazy kids watch TV like couch potatoes: They are Ikura, a passionate and prideful guy, Tamago, a greedy and unfussy guy, and Maguro, a cool and narcissistic guy.
+They wish to be Heroes like the Sushi Ninja on TV show, but they always fall out over something stupid. Today, they are fighting over silly things, escalating into a squabble with their looks, and then... Can they be the real Heroes and protect the Princess from the evil?
+Source: Official page</description>
+<ratings>
+<permanent count="7">3.00</permanent>
+<temporary count="7">4.28</temporary>
+</ratings>
+<picture>221970.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25049</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sushininja.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>スシニンジャ</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="188267" update="2017-06-14">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2014-11-28</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="188268" update="2017-06-14">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2014-10-22</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="188269" update="2017-06-14">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2014-07-03</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9706" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>2013-04-06</startdate>
+<enddate>2014-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jewelpet Happiness</title>
+<title xml:lang="ja" type="official">ジュエルペット ハッピネス</title>
+<title xml:lang="zh-Hans" type="official">宝石宠物 Happiness</title>
+</titles>
+<relatedanime>
+<anime id="10440" type="Sequel">Lady Jewelpet</anime>
+<anime id="8960" type="Prequel">Jewelpet Kira Deco!</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/jp-happiness/</url>
+<creators>
+<name id="839" type="Animation Work">Studio Comet</name>
+<name id="6810" type="Character Design">Miyagawa Tomoko</name>
+<name id="9757" type="Character Design">Odashima Hitomi</name>
+<name id="804" type="Work">TV Tokyo</name>
+<name id="1162" type="Work">We`ve</name>
+<name id="1003" type="Work">Medianet</name>
+<name id="10175" type="Original Work">Sega Toys</name>
+<name id="1288" type="Original Work">Sanrio</name>
+<name id="2194" type="Direction">Sakurai Hiroaki</name>
+<name id="5187" type="Music">Maeguchi Wataru</name>
+</creators>
+<description>One day in the peaceful world of Jewel Land, http://anidb.net/ch63750 [Lady Jewelina] entrusts http://anidb.net/ch18426 [Ruby] with the Magical Jewel Box and gives her a mission to make friends and collect Magic Jewels. In order to accomplish that task, Ruby needs to attend the Jewel Academy and open the Jewelpet Café. However, things don`t go as well as she initially expected because the cafe is considered unpopular and needs a lot of work to prosper. However, when Ruby meets three middle school students: http://anidb.net/ch53985 [Tsukikage Chiari], http://anidb.net/ch53989 [Konoe Nene] and http://anidb.net/ch53986 [Hanayama Ruruka], she decides to make friends with them and accepts their help in managing the Jewelpet Café. Now, she and her friends must work together for the cafe to prosper, stick together through thick and thin, and protect the Jewel Box from being stolen.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="22">4.09</permanent>
+<temporary count="22">5.97</temporary>
+</ratings>
+<picture>133826.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15130</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17497</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/jp-happiness/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>List_of_Jewelpet_Happiness_episodes</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ジュエルペット_ハッピネス</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2953</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>345630</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16015</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="4199" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-20">
+<name>live-action closing -- TO BE MOVED AND DELETED</name>
+<description>This tag is set to be removed. For each tagged anime, please tag the corresponding ending/credits episodes with the http://anidb.net/t6679 [live-action episode] tag (adding them and their relation to the ending songs if necessary) and then remove this tag from it. Please do not apply this credit to the main episode that has the live-action ending, only to the corresponding credits episode. For example, if episode 22 has a live-action ending, and that ending is also credits episode C7, tag episode C7, not episode 22.</description>
+</tag>
+<tag id="6148" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO EPISODE</name>
+<description>Tags under this parent tag are going to be moved to episode tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what episodes they should be assigned to.</description>
+</tag>
+</tags>
+<characters>
+<character id="18426" type="main character in" update="2011-02-13">
+<rating votes="13">5.55</rating>
+<name>Ruby</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65684.jpg</picture>
+<seiyuu id="397" picture="43234.jpg">Saitou Ayaka</seiyuu>
+</character>
+<character id="18427" type="main character in" update="2011-02-23">
+<rating votes="12">5.33</rating>
+<name>Garnet</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66335.jpg</picture>
+<seiyuu id="4" picture="177060.jpg">Hirano Aya</seiyuu>
+</character>
+<character id="18428" type="secondary cast in" update="2012-05-13">
+<rating votes="13">4.44</rating>
+<name>Rabura</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87752.jpg</picture>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="18429" type="appears in" update="2015-07-08">
+<name>Milky</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65687.jpg</picture>
+<seiyuu id="19412" picture="50421.jpg">Utsumi Keiko</seiyuu>
+</character>
+<character id="18430" type="main character in" update="2011-02-23">
+<rating votes="12">5.33</rating>
+<name>Sapphire</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66334.jpg</picture>
+<seiyuu id="1992" picture="151673.jpg">Sasaki Nozomi</seiyuu>
+</character>
+<character id="18434" type="appears in" update="2012-05-13">
+<name>Peridot</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87746.jpg</picture>
+<seiyuu id="1442" picture="18829.jpg">Kaida Yuki</seiyuu>
+</character>
+<character id="18436" type="appears in" update="2011-02-14">
+<name>Sango</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65712.jpg</picture>
+<seiyuu id="550" picture="151677.jpg">Shimizu Ai</seiyuu>
+</character>
+<character id="18437" type="appears in" update="2012-05-13">
+<rating votes="3">2.14</rating>
+<name>Luna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87745.jpg</picture>
+<seiyuu id="2038" picture="49098.jpg">Shishido Rumi</seiyuu>
+</character>
+<character id="18441" type="appears in" update="2012-05-13">
+<name>Chitana</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87747.jpg</picture>
+<seiyuu id="543" picture="17747.jpg">Erika</seiyuu>
+</character>
+<character id="18442" type="appears in" update="2012-05-13">
+<name>Rin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87744.jpg</picture>
+<seiyuu id="23500" picture="237150.jpg">Harashima Akari</seiyuu>
+</character>
+<character id="18445" type="appears in" update="2011-02-14">
+<name>Flora</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65710.jpg</picture>
+<seiyuu id="2980" picture="147242.jpg">Kanada Aki</seiyuu>
+</character>
+<character id="28625" type="appears in" update="2011-02-13">
+<rating votes="2">2.14</rating>
+<name>Dian</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65686.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="28626" type="appears in" update="2011-02-13">
+<name>Touru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65689.jpg</picture>
+<seiyuu id="302" picture="17134.jpg">Takeuchi Junko</seiyuu>
+</character>
+<character id="28627" type="appears in" update="2011-02-13">
+<name>Chite</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65690.jpg</picture>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="28628" type="appears in" update="2011-02-13">
+<rating votes="10">2.31</rating>
+<name>Io</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65691.jpg</picture>
+<seiyuu id="1992" picture="151673.jpg">Sasaki Nozomi</seiyuu>
+</character>
+<character id="28629" type="appears in" update="2011-02-13">
+<rating votes="3">2.14</rating>
+<name>Nephrite</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65692.jpg</picture>
+<seiyuu id="18846" picture="156846.jpg">Ozaki Megumi</seiyuu>
+</character>
+<character id="28630" type="appears in" update="2011-02-13">
+<name>Prase</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65693.jpg</picture>
+<seiyuu id="16992" picture="46181.jpg">Iwamura Aiko</seiyuu>
+</character>
+<character id="28631" type="appears in" update="2011-02-13">
+<name>Tata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65694.jpg</picture>
+<seiyuu id="302" picture="17134.jpg">Takeuchi Junko</seiyuu>
+</character>
+<character id="28632" type="appears in" update="2011-02-13">
+<name>Kaiya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65695.jpg</picture>
+<seiyuu id="448" picture="158105.jpg">Sakai Kanako</seiyuu>
+</character>
+<character id="28634" type="appears in" update="2011-02-13">
+<rating votes="4">8.18</rating>
+<name>Amelie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65697.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="28635" type="appears in" update="2011-02-13">
+<rating votes="8">2.28</rating>
+<name>Diana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65698.jpg</picture>
+<seiyuu id="2038" picture="49098.jpg">Shishido Rumi</seiyuu>
+</character>
+<character id="28636" type="appears in" update="2011-02-13">
+<rating votes="5">2.14</rating>
+<name>Opal</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65699.jpg</picture>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="28640" type="appears in" update="2011-02-13">
+<name>Aqua</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65703.jpg</picture>
+<seiyuu id="389" picture="56097.jpg">Okano Kousuke</seiyuu>
+</character>
+<character id="28641" type="appears in" update="2011-02-13">
+<name>Lapiz</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65704.jpg</picture>
+<seiyuu id="302" picture="17134.jpg">Takeuchi Junko</seiyuu>
+</character>
+<character id="28642" type="appears in" update="2011-02-13">
+<name>Kohaku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65705.jpg</picture>
+<seiyuu id="570" picture="151691.jpg">Minagawa Junko</seiyuu>
+</character>
+<character id="28643" type="appears in" update="2011-02-13">
+<name>Rald</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65706.jpg</picture>
+<seiyuu id="20536" picture="165883.jpg">Tsuchiya Mayumi</seiyuu>
+</character>
+<character id="28644" type="appears in" update="2011-02-13">
+<name>King</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65707.jpg</picture>
+<seiyuu id="280" picture="170840.jpg">Kiuchi Hidenobu</seiyuu>
+</character>
+<character id="28645" type="appears in" update="2011-04-07">
+<name>Jasper</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>4011.gif</picture>
+<seiyuu id="367" picture="17213.jpg">Kenn</seiyuu>
+</character>
+<character id="28647" type="appears in" update="2015-02-24">
+<rating votes="5">8.18</rating>
+<name>Charotte</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169382.jpg</picture>
+<seiyuu id="98" picture="172032.jpg">Mako</seiyuu>
+</character>
+<character id="30469" type="secondary cast in" update="2011-03-31">
+<rating votes="5">2.14</rating>
+<name>Angela</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68552.jpg</picture>
+<seiyuu id="1438" picture="69192.jpg">Toyosaki Aki</seiyuu>
+</character>
+<character id="42519" type="appears in" update="2015-02-24">
+<rating votes="1">2.14</rating>
+<name>Coal</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169222.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="48210" type="appears in" update="2012-08-27">
+<name>Sakuran</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93055.jpg</picture>
+<seiyuu id="430" picture="129542.jpg">Hidaka Rina</seiyuu>
+</character>
+<character id="53985" type="main character in" update="2013-04-11">
+<name>Tsukikage Chiari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135102.jpg</picture>
+<seiyuu id="27977" picture="76416.jpg">Han Megumi</seiyuu>
+</character>
+<character id="53986" type="main character in" update="2013-04-11">
+<name>Hanayama Ruruka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135100.jpg</picture>
+<seiyuu id="539" picture="228668.jpg">Aizawa Mai</seiyuu>
+</character>
+<character id="53987" type="secondary cast in" update="2013-04-11">
+<name>Hanazono Marie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135104.jpg</picture>
+<seiyuu id="550" picture="151677.jpg">Shimizu Ai</seiyuu>
+</character>
+<character id="53988" type="secondary cast in" update="2013-04-11">
+<name>Kitajima Nobara</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135105.jpg</picture>
+<seiyuu id="4" picture="177060.jpg">Hirano Aya</seiyuu>
+</character>
+<character id="53989" type="main character in" update="2013-04-11">
+<name>Konoe Nene</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135101.jpg</picture>
+<seiyuu id="9124" picture="186845.jpg">Hayama Ikumi</seiyuu>
+</character>
+<character id="53990" type="secondary cast in" update="2015-07-08">
+<name>Rosa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135107.jpg</picture>
+<seiyuu id="20497" picture="62433.jpg">Kayano Ai</seiyuu>
+</character>
+<character id="53991" type="secondary cast in" update="2013-04-11">
+<name>Mouri Juushirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135106.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="53992" type="secondary cast in" update="2013-04-11">
+<rating votes="1">10.00</rating>
+<name>Sanada Kousuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135108.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="53993" type="secondary cast in" update="2013-04-11">
+<name>Asano Takumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135103.jpg</picture>
+<seiyuu id="2225" picture="192115.jpg">Kimura Ryouhei</seiyuu>
+</character>
+<character id="53994" type="secondary cast in" update="2013-04-11">
+<name>Taira Izumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135109.jpg</picture>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="63750" type="secondary cast in" update="2014-02-05">
+<name>Jewelina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149699.jpg</picture>
+<seiyuu id="1438" picture="69192.jpg">Toyosaki Aki</seiyuu>
+</character>
+<character id="63751" type="appears in" update="2014-02-05">
+<name>Azusa-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="20497" picture="62433.jpg">Kayano Ai</seiyuu>
+</character>
+<character id="63752" type="appears in" update="2014-02-05">
+<name>Yamada Apel</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="370" picture="204461.jpg">Yusa Kouji</seiyuu>
+</character>
+<character id="63753" type="appears in" update="2014-02-05">
+<name>Hokenshitsu no Sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="63754" type="appears in" update="2014-02-05">
+<name>Master</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149722.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="63755" type="appears in" update="2014-02-05">
+<name>Nameko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="63756" type="appears in" update="2014-02-05">
+<name>Machiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="397" picture="43234.jpg">Saitou Ayaka</seiyuu>
+</character>
+<character id="63757" type="appears in" update="2014-02-05">
+<name>Mochida Mutsumi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1992" picture="151673.jpg">Sasaki Nozomi</seiyuu>
+</character>
+<character id="63758" type="appears in" update="2019-04-21">
+<name>Izumikawa Ryouko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>232872.jpg</picture>
+<seiyuu id="18198" picture="228672.jpg">Akasaki Chinatsu</seiyuu>
+</character>
+<character id="63759" type="appears in" update="2014-02-05">
+<name>Ayame</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="23312" picture="205591.jpg">Takamori Natsumi</seiyuu>
+</character>
+<character id="63760" type="appears in" update="2014-02-05">
+<name>Hakamada Sachi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="12783" picture="225340.jpg">Fujii Yukiyo</seiyuu>
+</character>
+<character id="63761" type="appears in" update="2014-02-05">
+<name>Tanaka Paroma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="63762" type="appears in" update="2014-02-05">
+<name>Dragon</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4481" picture="26754.jpg">Shimozaki Hiroshi</seiyuu>
+</character>
+<character id="63763" type="appears in" update="2014-02-05">
+<name>Sanada Saizou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="340" picture="17176.jpg">Yabe Masahito</seiyuu>
+</character>
+<character id="63764" type="appears in" update="2014-02-05">
+<name>Sanada Kazumi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="550" picture="151677.jpg">Shimizu Ai</seiyuu>
+</character>
+<character id="63765" type="appears in" update="2014-02-05">
+<name>Arisa-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="20497" picture="62433.jpg">Kayano Ai</seiyuu>
+</character>
+<character id="63768" type="appears in" update="2014-02-05">
+<name>Yumika</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="10129" picture="37440.jpg">Yurin</seiyuu>
+</character>
+<character id="63769" type="appears in" update="2014-02-05">
+<name>Jewelpet Cafe</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>149705.jpg</picture>
+</character>
+<character id="63770" type="appears in" update="2014-02-05">
+<name>Jewel Gakuen</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>149707.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="149018" update="2013-04-08">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2013-04-06</airdate>
+<title xml:lang="ja">魔法の宝石あつめちゃお!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Mahou no Houseki Atsumechao!</title>
+</episode>
+<episode id="149687" update="2013-04-17">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2013-04-20</airdate>
+<title xml:lang="ja">ブレイクでジュエル!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Break de Jewel!</title>
+</episode>
+<episode id="149688" update="2013-04-17">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2013-04-13</airdate>
+<title xml:lang="ja">消えちゃった~!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kiechattaa!</title>
+</episode>
+<episode id="150325" update="2013-05-03">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2013-05-04</airdate>
+<title xml:lang="ja">どうしても欲しい~!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Doushitemo Hoshiii!</title>
+</episode>
+<episode id="150326" update="2013-05-03">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2013-04-27</airdate>
+<title xml:lang="ja">なかよしらぶ~!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Nakayoshi Labuu!</title>
+</episode>
+<episode id="150437" update="2013-05-10">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2013-06-08</airdate>
+<title xml:lang="ja">赤い月がやな感じ~!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Akai Tsuki ga Ya na Kanjii!</title>
+</episode>
+<episode id="150438" update="2013-05-10">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2013-06-01</airdate>
+<title xml:lang="ja">うらないプリン~!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Uranai Purinn!</title>
+</episode>
+<episode id="150439" update="2013-05-10">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2013-05-25</airdate>
+<title xml:lang="ja">ジュエルペット総選挙~!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Jewelpet Sousenkyoo!</title>
+</episode>
+<episode id="150440" update="2013-05-10">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2013-05-18</airdate>
+<title xml:lang="ja">なでなでするパカ~!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Nade Nade Suru Pacaa!</title>
+</episode>
+<episode id="150441" update="2013-05-10">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2013-05-11</airdate>
+<title xml:lang="ja">バラが咲いてる~!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Bara ga Saiteruu!</title>
+</episode>
+<episode id="151216" update="2013-06-19">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2013-06-15</airdate>
+<title xml:lang="ja">うんどうかいだよ~!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Undoukai Da yoo!</title>
+</episode>
+<episode id="151328" update="2013-06-27">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2013-06-29</airdate>
+<title xml:lang="ja">ドラゴンがいる~!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Dragon ga Iruu!</title>
+</episode>
+<episode id="151329" update="2013-06-27">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2013-06-22</airdate>
+<title xml:lang="ja">ごくろ~さんトリオもっち~!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Gokurousan Trio Mocchii!</title>
+</episode>
+<episode id="151887" update="2013-07-13">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2013-07-20</airdate>
+<title xml:lang="ja">波に乗るって~!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Nami ni Noruttee!</title>
+</episode>
+<episode id="151888" update="2013-07-13">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2013-07-13</airdate>
+<title xml:lang="ja">お手紙とどける~!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Otegami Todokeruu!</title>
+</episode>
+<episode id="151889" update="2013-07-13">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2013-07-06</airdate>
+<title xml:lang="ja">平くんかっこいい~!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Taira-kun Kakkoiii!</title>
+</episode>
+<episode id="152295" update="2013-08-30">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2013-08-17</airdate>
+<title xml:lang="ja">山に登ってコーヒー豆~!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Yama ni Nobotte Coffee Mamee!</title>
+</episode>
+<episode id="152296" update="2013-08-30">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2013-08-10</airdate>
+<title xml:lang="ja">さむいよさむいよ~!</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Samui yo Samui yoo!</title>
+</episode>
+<episode id="152297" update="2013-08-02">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2013-08-03</airdate>
+<title xml:lang="ja">毛利くん卓球だよ~♪</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Mouri-kun Takkyuu Da yoo</title>
+</episode>
+<episode id="152298" update="2013-08-02">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2013-07-27</airdate>
+<title xml:lang="ja">肝試しだよジュエリンパ~!</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Kimodameshi Da yo Jew-rimpaa!</title>
+</episode>
+<episode id="153240" update="2013-08-30">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2013-08-24</airdate>
+<title xml:lang="ja">アレが足りないらぶ~!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Are ga Tarinai Labuu!</title>
+</episode>
+<episode id="153250" update="2013-09-02">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2013-08-31</airdate>
+<title xml:lang="ja">野菜ソムリエあっぷっぷ~!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Yasai Sommelier Appuppuu!</title>
+</episode>
+<episode id="153842" update="2013-09-02">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2013-09-07</airdate>
+<title xml:lang="ja">弟子入りワンコ~!</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Deshiiri Wankoo!</title>
+</episode>
+<episode id="154305" update="2013-09-21">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2013-09-28</airdate>
+<title xml:lang="ja">ジュエルペットカフェでビューティ~!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Jewelpet Cafe de Beautyy!</title>
+</episode>
+<episode id="154306" update="2013-09-21">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2013-09-21</airdate>
+<title xml:lang="ja">プレーズとお芝居~!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Prase to Oshibaii!</title>
+</episode>
+<episode id="154307" update="2013-09-21">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2013-09-14</airdate>
+<title xml:lang="ja">ヒグマの学校なのです!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Higuma no Gakkou na no Desu!</title>
+</episode>
+<episode id="155147" update="2013-10-18">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2013-11-23</airdate>
+<title xml:lang="ja">ジュエル学園なくなっちゃう~!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Jewel Gakuen Naku Nacchauu!</title>
+</episode>
+<episode id="155148" update="2013-10-18">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2013-11-16</airdate>
+<title xml:lang="ja">さよならジュエルペットカフェ!</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Sayonara Jewelpet Cafe!</title>
+</episode>
+<episode id="155149" update="2013-10-18">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2013-11-09</airdate>
+<title xml:lang="ja">食べられちゃったよ~!</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Taberarechatta yoo!</title>
+</episode>
+<episode id="155150" update="2013-10-18">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2013-11-02</airdate>
+<title xml:lang="ja">まりえちゃんにはヒミツでしゅ!</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Marie-chan ni wa Himitsu Deshu!</title>
+</episode>
+<episode id="155151" update="2013-10-18">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2013-10-26</airdate>
+<title xml:lang="ja">ジュエルハロウィ~ン!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Jewel Halloweeen!</title>
+</episode>
+<episode id="155152" update="2013-10-18">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2013-10-19</airdate>
+<title xml:lang="ja">欲しがりすぎはダメなのね~!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Hoshigarisugi wa Dame na no nee!</title>
+</episode>
+<episode id="155153" update="2013-10-18">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2013-10-12</airdate>
+<title xml:lang="ja">あおい鳥が飛んで来た~!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Aoi Tori ga Tonde Kitaa!</title>
+</episode>
+<episode id="155154" update="2013-10-18">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2013-10-05</airdate>
+<title xml:lang="ja">世界チャピオすごいパカ~!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Sekai Chapio Sugoi Pacaa!</title>
+</episode>
+<episode id="155916" update="2013-11-10">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2013-12-28</airdate>
+<title xml:lang="ja">わすれちゃったよ~!</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Wasurechatta yoo!</title>
+</episode>
+<episode id="155917" update="2013-11-10">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2013-12-21</airdate>
+<title xml:lang="ja">歌うジュエルクリスマス~!</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Utau Jewel Christmass!</title>
+</episode>
+<episode id="155918" update="2013-11-10">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2013-12-14</airdate>
+<title xml:lang="ja">友達がほしいヤミ~!</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Tomodachi ga Hoshii Yamii!</title>
+</episode>
+<episode id="155919" update="2013-11-10">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2013-12-07</airdate>
+<title xml:lang="ja">赤ちゃんジュエリーナぶ~!</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Aka-chan Jewelina-buu!</title>
+</episode>
+<episode id="155920" update="2013-11-10">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2013-11-30</airdate>
+<title xml:lang="ja">ハッピネス秘密基地~!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Happiness Himitsu Kichii!</title>
+</episode>
+<episode id="157192" update="2014-01-09">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2014-02-08</airdate>
+<title xml:lang="ja">バレンタインデーご~ろごろ!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Valentine Day Goorogoro!</title>
+</episode>
+<episode id="157193" update="2014-01-09">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2014-02-01</airdate>
+<title xml:lang="ja">キラキラしなくなっちゃった~!</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Kirakira Shinaku Nacchattaa!</title>
+</episode>
+<episode id="157194" update="2014-01-09">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2014-01-25</airdate>
+<title xml:lang="ja">ラストシーンが出てこない~!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Last Scene ga Detekonaii!</title>
+</episode>
+<episode id="157195" update="2014-01-09">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2014-01-18</airdate>
+<title xml:lang="ja">ジュエル駅伝ゴー! ファイト~!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Jewel Ekiden Go! Fightt!</title>
+</episode>
+<episode id="157196" update="2014-01-09">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2014-01-11</airdate>
+<title xml:lang="ja">美少女ジュエルペットどこ~?</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Bishoujo Jewelpet Dokoo?</title>
+</episode>
+<episode id="157197" update="2014-01-09">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2014-01-04</airdate>
+<title xml:lang="ja">ジュエル防衛隊しゅつど~!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Jewel Boueitai Shutsudoo!</title>
+</episode>
+<episode id="157315" update="2014-01-13">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2014-03-29</airdate>
+<title xml:lang="ja">笑い合ったらハッピネス!</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Warai Attara Happiness!</title>
+</episode>
+<episode id="157316" update="2014-01-13">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2014-03-22</airdate>
+<title xml:lang="ja">ちありが変身した~!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Chiari ga Henshin Shitaa!</title>
+</episode>
+<episode id="157317" update="2014-01-13">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2014-03-15</airdate>
+<title xml:lang="ja">ハッピネスはわたしが守るガー!</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Happiness wa Watashi ga Mamoru gaa!</title>
+</episode>
+<episode id="157318" update="2014-01-13">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2014-03-08</airdate>
+<title xml:lang="ja">アンハッピネスでスカポ~ン!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Unhappiness de Sukapoon!</title>
+</episode>
+<episode id="157319" update="2014-01-13">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2014-03-01</airdate>
+<title xml:lang="ja">宇宙から誰か来た~!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Uchuu kara Dareka Kitaa!</title>
+</episode>
+<episode id="157320" update="2014-01-13">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2014-02-22</airdate>
+<title xml:lang="ja">ブラックジュエル城よいです!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Black Jewel-jou Yoi Desu!</title>
+</episode>
+<episode id="157321" update="2014-01-13">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2014-02-15</airdate>
+<title xml:lang="ja">EKメンズ! ばきゅ~ん!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">EK Mens! Bakyuun!</title>
+</episode>
+</episodes>
+</anime>

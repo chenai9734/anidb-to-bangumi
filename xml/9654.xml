@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9654" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2013-02-06</startdate>
+<enddate>2013-04-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chokkyuu Hyoudai Robot Anime: Straight Title</title>
+<title xml:lang="ja" type="official">直球表題 ロボットアニメ-STRAIGHT TITLE-</title>
+<title xml:lang="en" type="official">Straight Title Robot Anime</title>
+<title xml:lang="zh-Hans" type="official">直白标题机器人动画</title>
+</titles>
+<similaranime>
+<anime id="8899" approval="1" total="4">Joshiraku</anime>
+</similaranime>
+<url>http://www.robotanime.jp/</url>
+<creators>
+<name id="29709" type="Series Composition">Ishidate Koutarou</name>
+<name id="27965" type="Character Design">Kei</name>
+<name id="34863" type="Chief Animation Direction">Cort</name>
+<name id="34863" type="Work">Cort</name>
+</creators>
+<description>The story of the anime is set in the year Mobile Century 8013. It has been over seven millennia since humanity was wiped out on Earth, but the surviving military robots continue to wage war with no end in sight. The war has embroiled the Rebellion Federation that controls Europe and the Principality of Shin centered in Asia. Three young robots stand up to put an end to this futile war.
+Source: ANN</description>
+<ratings>
+<permanent count="82">2.19</permanent>
+<temporary count="82">4.39</temporary>
+</ratings>
+<picture>130545.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15095</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17127</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.robotanime.jp/</url>
+</externalentity>
+<externalentity>
+<url>http://s.mxtv.jp/robotanime/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Chokkyuu_Hyoudai_Robot_Anime</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>直球表題ロボットアニメ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2903</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>345349</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>15923</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2202" parentid="2846" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2645" parentid="2274" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>piloted robot</name>
+<description>Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.</description>
+<picurl>222199.jpg</picurl>
+</tag>
+<tag id="2652" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super deformed</name>
+<description>A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s http://anidb.net/t4055 [face suddenly turns into a simplified version], the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).</description>
+<picurl>65692.png</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2874" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-05-07">
+<name>disaster</name>
+<description>A disaster is a large-scale situation that causes great loss of or damage or threat to life, health, property, society, or the environment, irrespective of its source or cause. Disasters have substantial, long-lasting negative repercussions, and great effort must be spent in order to undo or mitigate their effects.</description>
+</tag>
+<tag id="2923" parentid="2874" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2014-06-25">
+<name>post-apocalyptic</name>
+<description>An anime that takes place on future Earth (or it could be an alternative universe) after a major cataclysm has occurred. World War III, an alien invasion, plague, global warming or some other general disaster are common themes to build a post-apocalyptic world upon, where the effects were severe enough that mankind barely survived.
+The time frame may be immediately after the catastrophe, focusing on the travails or psychology of survivors, or considerably later, often including the theme that the existence of pre-catastrophe civilization has been forgotten (or mythologised). Post-apocalyptic stories often take place in an agrarian, non-technological future world, or a world where only scattered elements of technology remain. There is a considerable degree of blurring between post-apocalyptic fiction and that which deals with false utopias or dystopian societies.</description>
+<picurl>42081.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="51996" type="main character in" update="2013-02-22">
+<name>Mori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132534.jpg</picture>
+<seiyuu id="10973" picture="78574.jpg">Ookubo Rumi</seiyuu>
+</character>
+<character id="51997" type="main character in" update="2013-02-22">
+<name>Katou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132533.jpg</picture>
+<seiyuu id="27221" picture="131964.jpg">Arakawa Miho</seiyuu>
+</character>
+<character id="51998" type="main character in" update="2013-02-22">
+<name>Fujii</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132532.jpg</picture>
+<seiyuu id="4616" picture="170439.jpg">Nishi Asuka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="147269" update="2016-11-21">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2013-02-06</airdate>
+<rating votes="1">1.27</rating>
+<title xml:lang="en">Episode 1</title>
+<summary>The robots try to discover what it means to laugh.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619399</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="147545" update="2016-11-21">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2013-02-20</airdate>
+<title xml:lang="en">Episode 3</title>
+<summary>Maybe the re-introduction of one liners will stop the war, or maybe not.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619403</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="147546" update="2016-11-21">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2013-02-13</airdate>
+<title xml:lang="en">Episode 2</title>
+<summary>The robots continue their mission to discover what it means to laugh by trying impersonating various robots.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619401</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="147601" update="2016-11-21">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2013-02-21</airdate>
+<title xml:lang="en">Episode 4</title>
+<summary>The trio discusses the comedic art of reaction humor.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619405</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148147" update="2016-11-21">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2013-04-24</airdate>
+<title xml:lang="en">Episode 12</title>
+<summary>The trio makes a choice...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619421</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148148" update="2016-11-21">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2013-04-17</airdate>
+<title xml:lang="en">Episode 11</title>
+<summary>The trio discusses the comedy technique of "Comedic Dialogue".
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619419</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148149" update="2016-11-21">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2013-04-10</airdate>
+<title xml:lang="en">Episode 10</title>
+<summary>The trio discusses the comedy technique of "saying something clever".
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619417</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148150" update="2016-11-21">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2013-04-03</airdate>
+<title xml:lang="en">Episode 9</title>
+<summary>The trio discusses the comedy technique of "retort"
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619415</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148151" update="2016-11-21">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2013-03-27</airdate>
+<title xml:lang="en">Episode 8</title>
+<summary>The trio discusses the feelings of "relatable situations"
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619413</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148152" update="2016-11-21">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2013-03-20</airdate>
+<title xml:lang="en">Episode 7</title>
+<summary>The trio discusses the special expression of "self-satisfied expression"
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619411</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148153" update="2016-11-21">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2013-03-13</airdate>
+<title xml:lang="en">Episode 6</title>
+<summary>The trio discusses the comedic art of cliché humor.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619409</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="148154" update="2016-11-21">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2013-03-06</airdate>
+<title xml:lang="en">Episode 5</title>
+<summary>The trio discusses the comedic art of the sharp tounge.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>619407</identifier>
+<identifier>straight-title-robot-anime</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7827" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2001-07-20</startdate>
+<enddate>2001-07-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bad Badtz-maru no Ookami ga Kita!</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 1b</title>
+<title xml:lang="ja" type="official">バッドばつ丸のオオカミが来た!</title>
+<title xml:lang="en" type="official">Bad Badtz-Maru in The Boy Who Cried Wolf</title>
+</titles>
+<creators>
+<name id="7852" type="Character Design">Oota Masahiko</name>
+</creators>
+<ratings>
+<permanent count="15">3.06</permanent>
+<temporary count="15">3.93</temporary>
+</ratings>
+<picture>59537.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22500</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22451</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120674" update="2011-04-15">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11178" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981-07-16</startdate>
+<enddate>1981-07-16</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Chatchoi Katung Loufuji</title>
+<title xml:lang="zh" type="synonym">Qicai Katong Laofuzi</title>
+<title xml:lang="en" type="official">Color Old Master Q</title>
+<title xml:lang="zh-Hant" type="official">七彩卡通老夫子</title>
+</titles>
+<relatedanime>
+<anime id="11230" type="Sequel">Loufuji Seui Fu Chyun</anime>
+</relatedanime>
+<description>* Based on a popular Chinese manhua Lao Fu Zi.
+The gag comedy follows Old Master Q and his two best friends, Big Potato and Mr.Chin, living in an urban city setting. Unlike his somewhat old-fashioned costume, Old Master Q is very playful and childlike in nature, which is why he always gets himself into various zany situations, and the slapstick ensues.
+— written by Singan</description>
+<ratings>
+<permanent count="17">4.16</permanent>
+<temporary count="17">4.58</temporary>
+</ratings>
+<picture>171492.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30095</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Old_Master_Q</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>七彩卡通老夫子</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2655" parentid="2853" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6493" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manhua</name>
+<description>The Chinese equivalent of the Japanese manga, produced in Mainland China, Hong Kong, and Taiwan.
+See also http://anidb.net/t2798 [manga] and http://anidb.net/t5010 [manhwa].</description>
+</tag>
+<tag id="7261" parentid="6493" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>4-koma manhua</name>
+</tag>
+</tags>
+<episodes>
+<episode id="168220" update="2015-04-28">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1981-07-16</airdate>
+<rating votes="1">2.63</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

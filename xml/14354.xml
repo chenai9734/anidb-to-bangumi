@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14354" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1966</startdate>
+<enddate>1966</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tsuiseki</title>
+<title xml:lang="ja" type="official">追跡</title>
+</titles>
+<creators>
+<name id="56072" type="Work">Manabe Hiroshi</name>
+</creators>
+<description>A short experimental animation film by http://anidb.net/cr56072 [Manabe Hiroshi].</description>
+<ratings>
+<permanent count="10">2.59</permanent>
+<temporary count="10">3.30</temporary>
+</ratings>
+<picture>223038.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29649</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14148</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205902" update="2018-09-01">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

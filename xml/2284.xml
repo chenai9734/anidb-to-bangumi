@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2284" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1986-03-15</startdate>
+<enddate>1986-03-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gegege no Kitarou: Youkai Daisensou</title>
+<title xml:lang="en" type="synonym">Spooky Kitarou: Ghost War Struggle</title>
+<title xml:lang="en" type="synonym">Gegege no Kitaro: The Great Yokai War</title>
+<title xml:lang="x-jat" type="synonym">Gegege no Kitarou: Youkai Taisen Arasou</title>
+<title xml:lang="ja" type="official">ゲゲゲの鬼太郎 妖怪大戦争</title>
+</titles>
+<relatedanime>
+<anime id="1453" type="Prequel">Gegege no Kitarou (1985)</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="4341" type="Original Work">Mizuki Shigeru</name>
+<name id="4531" type="Direction">Kasai Osamu</name>
+<name id="5277" type="Music">Kawasaki Masahiro</name>
+</creators>
+<ratings>
+<permanent count="11">6.37</permanent>
+<temporary count="11">6.00</temporary>
+</ratings>
+<picture>204350.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3857</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8153</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2435</identifier>
+<identifier>qczjlp</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゲゲゲの鬼太郎_妖怪大戦争</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149714</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2190</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="21700" update="2006-07-30">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>1986-03-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

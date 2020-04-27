@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2912" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2005-03-12</startdate>
+<enddate>2005-03-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Rockman.EXE: Hikari to Yami no Program</title>
+<title xml:lang="en" type="synonym">Theater Edition Rockman EXE: Program of Light and Dark</title>
+<title xml:lang="en" type="synonym">Rockman EXE the Movie: Program of Light and Dark</title>
+<title xml:lang="en" type="synonym">MegaMan the Movie: Program of Light and Dark</title>
+<title xml:lang="ja" type="official">劇場版ロックマンエグゼ 光と闇の遺産[プログラム]</title>
+</titles>
+<relatedanime>
+<anime id="5973" type="Alternative Setting">Irregular Hunter X</anime>
+<anime id="2664" type="Parent Story">Rockman.EXE Stream</anime>
+</relatedanime>
+<creators>
+<name id="719" type="Animation Work">Xebec</name>
+<name id="783" type="Unknown Relation">NAS</name>
+<name id="1082" type="Financial Production">Shogakukan</name>
+<name id="1283" type="Original Work">Capcom</name>
+<name id="1283" type="Original Plan">Capcom</name>
+<name id="682" type="Direction">Kato Takao</name>
+<name id="5874" type="Character Design">Ishihara Mitsuru</name>
+<name id="5874" type="Chief Animation Direction">Ishihara Mitsuru</name>
+<name id="6285" type="Music">Naruse Shuuhei</name>
+</creators>
+<description>The Dematerialization Phenomenon, in which the real world becomes digital, has become a problem and must be resolved immediately. After hearing of this incident, Netto and Rockman left off after their father and Network Researcher, Yuuichirou. He also had found news of an invasion in the computer of the Trinity Brain trust company: `The Earth itself will understand the way things stand in the cyber world`. In order to destroy the program causing the incident, Netto and Rockman have to go deep underground. But old enemies await them there, as well as new ones. As they fought each other, the vicious cyber-life, Nebula Grey, awakens. The Dematerialization Phenomenon will not be stopped unless Nebula Grey is defeated.
+Source: ANN</description>
+<ratings>
+<permanent count="109">5.21</permanent>
+<temporary count="111">6.89</temporary>
+</ratings>
+<picture>5575.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4927</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2111</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3540</identifier>
+<identifier>cegnea</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ロックマンエグゼ_光と闇の遺産</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>321632</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7855</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="33068" type="main character in" update="2015-10-20">
+<rating votes="8">6.73</rating>
+<name>Rockman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178660.jpg</picture>
+<seiyuu id="188" picture="1804.gif">Kimura Akiko</seiyuu>
+</character>
+<character id="33069" type="appears in" update="2013-02-03">
+<rating votes="14">6.53</rating>
+<name>Roll</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>78012.jpg</picture>
+<seiyuu id="603" picture="223012.jpg">Jou Masako</seiyuu>
+</character>
+<character id="33070" type="main character in" update="2015-10-20">
+<rating votes="6">6.73</rating>
+<name>Hikari Netto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178659.jpg</picture>
+<seiyuu id="690" picture="187038.jpg">Higa Kumiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="41747" update="2011-10-20">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2005-03-12</airdate>
+<rating votes="1">3.86</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="177334" update="2016-04-28">
+<epno type="2">S3</epno>
+<length>1</length>
+<title xml:lang="ja">「ロックマンエグゼ」TV新シリーズ・タイトル</title>
+<title xml:lang="en">`Rockman.EXE` New TV Series Title</title>
+<title xml:lang="x-jat">Rockman.EXE TV Shin Series Title</title>
+</episode>
+<episode id="177335" update="2016-04-28">
+<epno type="2">S2</epno>
+<length>3</length>
+<title xml:lang="ja">GBA「ロックマンエグゼ6」スペシャル映像</title>
+<title xml:lang="en">GBA `Rockman.EXE 6` Special Movie</title>
+<title xml:lang="x-jat">GBA `Rockman.EXE 6` Special Eizou</title>
+</episode>
+<episode id="177336" update="2016-04-28">
+<epno type="2">S1</epno>
+<length>3</length>
+<title xml:lang="ja">劇場版ロックマンエグゼ&amp;デュエルマスターズ予告</title>
+<title xml:lang="en">Rockman.EXE &amp; Duel Masters Movie Announcement</title>
+<title xml:lang="x-jat">Gekijouban Rockman.EXE &amp; Duel Masters Yokoku</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13918" restricted="false">
+<type>TV Series</type>
+<episodecount>23</episodecount>
+<startdate>2018-10-06</startdate>
+<enddate>2019-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gyakuten Saiban: Sono "Shinjitsu", Igi Ari! Season 2</title>
+<title xml:lang="en" type="synonym">Ace Attorney S2</title>
+<title xml:lang="ja" type="official">逆転裁判~その「真実」, 異議あり!~ Season 2</title>
+<title xml:lang="en" type="official">Ace Attorney Season 2</title>
+<title xml:lang="ko" type="official">역전재판 2</title>
+<title xml:lang="zh-Hant" type="official">逆轉裁判 第二季</title>
+<title xml:lang="zh-Hans" type="official">逆转裁判 第二季</title>
+</titles>
+<relatedanime>
+<anime id="13396" type="Sequel">Gyakuten Saiban 6 Prologue</anime>
+<anime id="11598" type="Prequel">Gyakuten Saiban: Sono "Shinjitsu", Igi Ari!</anime>
+</relatedanime>
+<url>http://www.ytv.co.jp/animegyakuten/</url>
+<creators>
+<name id="9785" type="Character Design">Oota Keiko</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="829" type="Work">Yomiuri TV</name>
+<name id="1303" type="Work">A-1 Pictures</name>
+<name id="1283" type="Original Work">Capcom</name>
+<name id="5317" type="Direction">Watanabe Ayumu</name>
+<name id="9785" type="Chief Animation Direction">Oota Keiko</name>
+<name id="2703" type="Music">Wada Kaoru</name>
+<name id="54910" type="Animation Work">Clover Works</name>
+</creators>
+<ratings>
+<permanent count="109">5.41</permanent>
+<temporary count="112">6.68</temporary>
+</ratings>
+<picture>221414.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21192</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37490</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ytv.co.jp/animegyakuten/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>逆転裁判_〜その「真実」、異議あり!〜</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5099</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363701</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18980</identifier>
+</externalentity>
+</resource>
+<resource type="14">
+<externalentity>
+<identifier>716</identifier>
+<identifier>v</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07KGGRS23</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+</tags>
+<characters>
+<character id="78976" type="secondary cast in" update="2016-03-10">
+<rating votes="9">5.29</rating>
+<name>Mitsurugi Reiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>184020.jpg</picture>
+<seiyuu id="32984" picture="226278.jpg">Tamaki Masashi</seiyuu>
+</character>
+<character id="78977" type="main character in" update="2016-03-10">
+<rating votes="7">6.77</rating>
+<name>Naruhodou Ryuuichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>184018.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="78978" type="secondary cast in" update="2016-03-10">
+<rating votes="5">3.69</rating>
+<name>Yahari Masashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>184023.jpg</picture>
+<seiyuu id="2072" picture="223678.jpg">Nara Tooru</seiyuu>
+</character>
+<character id="78979" type="secondary cast in" update="2016-03-10">
+<rating votes="6">5.37</rating>
+<name>Itonokogiri Keisuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>184022.jpg</picture>
+<seiyuu id="2230" picture="21782.jpg">Iwasaki Masami</seiyuu>
+</character>
+<character id="78980" type="secondary cast in" update="2018-11-05">
+<rating votes="18">6.33</rating>
+<name>Ayasato Chihiro</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>184021.jpg</picture>
+<seiyuu id="234" picture="244740.jpg">Nakamura Chie</seiyuu>
+</character>
+<character id="78981" type="secondary cast in" update="2016-03-10">
+<rating votes="13">6.00</rating>
+<name>Ayasato Mayoi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>184019.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="85744" type="secondary cast in" update="2016-10-20">
+<rating votes="4">5.20</rating>
+<name>Ayasato Harumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193303.jpg</picture>
+<seiyuu id="20806" picture="182700.jpg">Kuno Misaki</seiyuu>
+</character>
+<character id="98593" type="secondary cast in" update="2018-10-13">
+<rating votes="1">6.73</rating>
+<name>Godou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225449.jpg</picture>
+<seiyuu id="323" picture="211661.jpg">Hirata Hiroaki</seiyuu>
+</character>
+<character id="107058" type="secondary cast in" update="2019-11-19">
+<name>Miyanagi Chinami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68111.png</picture>
+<seiyuu id="97" picture="222166.jpg">Satou Rina</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="208737" update="2018-10-15">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2018-10-06</airdate>
+<rating votes="5">3.66</rating>
+<title xml:lang="ja">失われた逆転</title>
+<title xml:lang="en">The Lost Turnabout</title>
+<title xml:lang="x-jat">Ushinawareta Gyakuten</title>
+<summary>Our ace attorney finds himself unconscious in the courthouse lobby, and he`s unable to recall anything! How will he save his client?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777735</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208738" update="2018-10-16">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-10-13</airdate>
+<rating votes="4">3.46</rating>
+<title xml:lang="ja">盗まれた逆転 - 1st Trial</title>
+<title xml:lang="en">The Stolen Turnabout: 1st Trial</title>
+<title xml:lang="x-jat">Nusumareta Gyakuten: 1st Trial</title>
+<summary>A Kurain Village treasure exhibit is set to be held at the Lordly Tailor, the biggest department store in the city. But the sacred urn is stolen by none other than Mask DeMasque, renowned phantom thief!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777736</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208739" update="2018-10-31">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-10-20</airdate>
+<rating votes="4">3.49</rating>
+<title xml:lang="ja">盗まれた逆転 - 2nd Trial</title>
+<title xml:lang="en">The Stolen Turnabout: 2nd Trial</title>
+<title xml:lang="x-jat">Nusumareta Gyakuten: 2nd Trial</title>
+<summary>The trial of Mask DeMasque for stealing the Kurain urn begins, with plenty of twists and turns in the tale!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777737</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208740" update="2018-10-31">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2018-10-27</airdate>
+<rating votes="4">3.22</rating>
+<title xml:lang="ja">盗まれた逆転 - 3rd Trial</title>
+<title xml:lang="en">The Stolen Turnabout: 3rd Trial</title>
+<title xml:lang="x-jat">Nusumareta Gyakuten: 3rd Trial</title>
+<summary>The client was at the scene of a murder when it happened, and our Ace Attorney was the one who proved that in court! How can he get out of this mess?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777738</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208983" update="2018-10-06">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2018-10-06</airdate>
+<rating votes="2">5.86</rating>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="208984" update="2019-01-20">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2018-10-06</airdate>
+<rating votes="2">4.12</rating>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="209504" update="2018-11-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2018-11-03</airdate>
+<rating votes="4">3.99</rating>
+<title xml:lang="ja">盗まれた逆転 - Last Trial</title>
+<title xml:lang="en">The Stolen Turnabout: Last Trial</title>
+<title xml:lang="x-jat">Nusumareta Gyakuten: Last Trial</title>
+<summary>With the murder trial beginning, our ace attorney must unravel the elaborate scheme surrounding the two incidents that occurred simultaneously and unmask the true killer.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777739</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209505" update="2018-11-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2018-11-10</airdate>
+<rating votes="3">4.27</rating>
+<title xml:lang="ja">届け逆転のメロディ</title>
+<title xml:lang="en">Sound the Turnabout Melody</title>
+<title xml:lang="x-jat">Todoke Gyakuten no Melody</title>
+<summary>Hearing the radio at a restaurant brings back memories of when it helped connect two distant friends.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777740</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209506" update="2018-11-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2018-11-17</airdate>
+<rating votes="3">5.43</rating>
+<title xml:lang="ja">逆転のレシピ - 1st Trial</title>
+<title xml:lang="en">Recipe for Turnabout: 1st Trial</title>
+<title xml:lang="x-jat">Gyakuten no Recipe: 1st Trial</title>
+<summary>Hearing the radio at a restaurant brings back memories of when it helped connect two distant friends.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777741</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209507" update="2018-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2018-11-24</airdate>
+<rating votes="3">4.71</rating>
+<title xml:lang="ja">逆転のレシピ - 2nd Trial</title>
+<title xml:lang="en">Recipe for Turnabout: 2nd Trial</title>
+<title xml:lang="x-jat">Gyakuten no Recipe: 2nd Trial</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777742</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210339" update="2018-11-17">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2018-12-01</airdate>
+<rating votes="2">6.09</rating>
+<title xml:lang="ja">逆転のレシピ - Last Trial</title>
+<title xml:lang="en">Recipe for Turnabout: Last Trial</title>
+<title xml:lang="x-jat">Gyakuten no Recipe: Last Trial</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777743</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210340" update="2018-12-17">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2018-12-08</airdate>
+<rating votes="3">6.64</rating>
+<title xml:lang="ja">逆転特急, 北へ - 1st Trial</title>
+<title xml:lang="en">Northward, Turnabout Express: 1st Trial</title>
+<title xml:lang="x-jat">Gyakuten Tokkyuu, Kita e: 1st Trial</title>
+<summary>A dream train ride takes a drastic turn when it`s hijacked by a fugitive demanding a retrial.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777744</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210341" update="2018-12-17">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2018-12-15</airdate>
+<rating votes="3">5.43</rating>
+<title xml:lang="ja">逆転特急, 北へ - 2nd Trial</title>
+<title xml:lang="en">Northward, Turnabout Express: 2nd Trial</title>
+<title xml:lang="x-jat">Gyakuten Tokkyuu, Kita e: 2nd Trial</title>
+<summary>The trial is underway, and the evidence mounts against the defendant, but it is interrupted by a blood-curdling scream and the discovery of a corpse.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777745</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210342" update="2019-01-14">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2018-12-22</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">逆転特急, 北へ - Last Trial</title>
+<title xml:lang="en">Northward, Turnabout Express: Last Trial</title>
+<title xml:lang="x-jat">Gyakuten Tokkyuu, Kita e: Last Trial</title>
+<summary>The case rumbles towards its climax, as more details emerge about the case a year ago, and the truth is revealed.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777746</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211281" update="2019-01-22">
+<epno type="1">13</epno>
+<length>50</length>
+<airdate>2019-01-19</airdate>
+<rating votes="2">5.42</rating>
+<title xml:lang="ja">思い出の逆転</title>
+<title xml:lang="en">Turnabout Memories</title>
+<title xml:lang="x-jat">Omoide no Gyakuten</title>
+<summary>Five years ago, our ace attorney found himself in court under very different circumstances. And unbeknownst to him, these memories are the key to overcoming the trials and tribulations he will soon come to face.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777747</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211727" update="2019-02-04">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2019-01-26</airdate>
+<rating votes="2">2.45</rating>
+<title xml:lang="ja">逆転の潮騒が聞こえる</title>
+<title xml:lang="en">Hear the Waves of Turnabout</title>
+<title xml:lang="x-jat">Gyakuten no Shiosai ga Kikoeru</title>
+<summary>Our ace attorney gets a surprise visit from his little friend, who comes with the request of a lifetime. She wants him to accompany her to a certain beach, which is the only place a very special kind of seashell can be found.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781999</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211728" update="2019-02-04">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2019-02-02</airdate>
+<rating votes="2">5.42</rating>
+<title xml:lang="ja">始まりの逆転 - 1st Trial</title>
+<title xml:lang="en">Turnabout Beginnings: 1st Trial</title>
+<title xml:lang="x-jat">Hajimari no Gyakuten: 1st Trial</title>
+<summary>The clock rewinds to six years ago, to the first-ever case our ace attorney`s mentor handled. Her client: a death row inmate on the hook for murdering a policewoman during his escape attempt. She quickly learns that there`s more to this case than meets the eye.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782000</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211729" update="2019-03-04">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2019-02-09</airdate>
+<rating votes="2">5.42</rating>
+<title xml:lang="ja">始まりの逆転 - Last Trial</title>
+<title xml:lang="en">Turnabout Beginnings: Last Trial</title>
+<title xml:lang="x-jat">Hajimari no Gyakuten: Last Trial</title>
+<summary>As the pivotal case from six years ago headed toward its climax, the truth seemed to be well within reach... But there was to be one last twist in the tale.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782001</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212067" update="2019-01-20">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2019-01-19</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="212068" update="2019-01-20">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2019-01-19</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="212388" update="2019-03-04">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2019-02-16</airdate>
+<rating votes="2">2.45</rating>
+<title xml:lang="ja">華麗なる逆転 - 1st Trial</title>
+<title xml:lang="en">Bridge to the Turnabout: 1st Trial</title>
+<title xml:lang="x-jat">Karei naru Gyakuten: 1st Trial</title>
+<summary>Back in the present, our spirit medium decides to hit up Hazakura Temple, a renowned training spot, to boost her powers. There, the gang runs into some familiar faces, some unforgettable.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782002</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212389" update="2019-03-04">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2019-02-23</airdate>
+<rating votes="2">5.42</rating>
+<title xml:lang="ja">華麗なる逆転 - 2nd Trial</title>
+<title xml:lang="en">Bridge to the Turnabout: 2nd Trial</title>
+<title xml:lang="x-jat">Karei naru Gyakuten: 2nd Trial</title>
+<summary>Genius prosecutor-turned-temporary defense attorney takes the court to defend a client at his best friend`s request, but the prosecution`s case is strong. Can he turn things about?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782003</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212390" update="2019-04-30">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2019-03-02</airdate>
+<rating votes="2">3.73</rating>
+<title xml:lang="ja">華麗なる逆転 - 3rd Trial</title>
+<title xml:lang="en">Bridge to the Turnabout: 3rd Trial</title>
+<title xml:lang="x-jat">Karei naru Gyakuten: 3rd Trial</title>
+<summary>The self-proclaimed genius apprentice artist takes the witness stand to testify about the "crazy" events he saw unfold.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782004</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212391" update="2019-04-30">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2019-03-09</airdate>
+<rating votes="2">2.45</rating>
+<title xml:lang="ja">華麗なる逆転 - 4th Trial</title>
+<title xml:lang="en">Bridge to the Turnabout: 4th Trial</title>
+<title xml:lang="x-jat">Karei naru Gyakuten: 4th Trial</title>
+<summary>Our ace attorney is back in action, and he visits Hazakura Temple to get a better understanding of what really happened.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782005</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212912" update="2019-04-30">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2019-03-16</airdate>
+<rating votes="2">5.42</rating>
+<title xml:lang="ja">華麗なる逆転 - 5th Trial</title>
+<title xml:lang="en">Bridge to the Turnabout: 5th Trial</title>
+<title xml:lang="x-jat">Karei naru Gyakuten: 5th Trial</title>
+<summary>With the terrifying assassination plot uncovered, our ace attorney returns to court once again, only to be confronted by a baffling testimony.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782006</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212913" update="2019-04-30">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2019-03-23</airdate>
+<rating votes="2">3.73</rating>
+<title xml:lang="ja">華麗なる逆転 - 6th Trial</title>
+<title xml:lang="en">Bridge to the Turnabout: 6th Trial</title>
+<title xml:lang="x-jat">Karei naru Gyakuten: 6th Trial</title>
+<summary>The switcheroo has been revealed, and now the ghosts of the past must be laid to rest.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782007</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212914" update="2019-04-30">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2019-03-30</airdate>
+<rating votes="2">5.42</rating>
+<title xml:lang="ja">華麗なる逆転 - Last Trial</title>
+<title xml:lang="en">Bridge to the Turnabout: Last Trial</title>
+<title xml:lang="x-jat">Karei naru Gyakuten: Last Trial</title>
+<summary>The ghosts of the past have been laid to rest, but the case has yet to be fully solved. The tragic truth must come to light, no matter what the cost.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782008</identifier>
+<identifier>ace-attorney</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

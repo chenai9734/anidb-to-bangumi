@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12456" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-04-28</startdate>
+<enddate>2017-04-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Kamisama Minarai: Himitsu no Cocotama - Kiseki o Okose Teppuru to Dokidoki Cocotama Kai</title>
+<title xml:lang="ja" type="official">映画かみさまみならい ヒミツのここたま 奇跡をおこせ♪テップルとドキドキここたま界</title>
+</titles>
+<relatedanime>
+<anime id="11293" type="Side Story">Kamisama Minarai: Himitsu no Cocotama</anime>
+</relatedanime>
+<url>http://www.eiga-coco-tama.com/</url>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="1051" type="Original Plan">Bandai</name>
+<name id="28480" type="Direction">Nitta Norio</name>
+</creators>
+<ratings>
+<permanent count="9">4.01</permanent>
+<temporary count="9">3.44</temporary>
+</ratings>
+<picture>195875.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19392</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34198</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.eiga-coco-tama.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358438</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="76893" type="main character in" update="2016-02-06">
+<rating votes="1">6.09</rating>
+<name>Rakitama</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>Rakitama is a Cocotama who was born from a coloured pencil.
+Source: ANN</description>
+<picture>182302.jpg</picture>
+<seiyuu id="27977" picture="76416.jpg">Han Megumi</seiyuu>
+</character>
+<character id="76894" type="main character in" update="2016-02-06">
+<rating votes="2">5.55</rating>
+<name>Yotsuba Kokoro</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yotsuba Kokoro is a kind fifth-year elementary school student who treats her things with care.
+Source: ANN</description>
+<picture>182303.jpg</picture>
+<seiyuu id="43552" picture="179144.jpg">Hondo Kaede</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="182927" update="2017-04-28">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2017-04-28</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

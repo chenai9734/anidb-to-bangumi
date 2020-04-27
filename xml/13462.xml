@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13462" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2012-06-28</startdate>
+<enddate>2012-06-28</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Zhu Zhu Xia: Jiong Jiong Wei Ji</title>
+<title xml:lang="en" type="synonym">GG Bond: Hatching</title>
+<title xml:lang="en" type="synonym">GG Bond Movie 1</title>
+<title xml:lang="zh-Hans" type="synonym">猪猪侠之囧囧危机</title>
+<title xml:lang="zh-Hans" type="official">猪猪侠 囧囧危机</title>
+</titles>
+<relatedanime>
+<anime id="13448" type="Other">Zhu Zhu Xia: Da Nao Huang Gong</anime>
+<anime id="13463" type="Other">Zhu Zhu Xia: Yong Chuang Juren Dao</anime>
+</relatedanime>
+<picture>207243.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38132</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>猪猪侠</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="190893" update="2018-01-25">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>2012-06-28</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

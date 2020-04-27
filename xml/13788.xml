@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13788" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2018-05-05</startdate>
+<enddate>2018-05-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gou-chan. Moko to Koori no Ue no Yakusoku</title>
+<title xml:lang="ja" type="official">ゴーちゃん. ~モコと氷の上の約束~</title>
+</titles>
+<relatedanime>
+<anime id="12638" type="Prequel">Gou-chan. Moko to Chinjuu no Mori no Nakama-tachi</anime>
+</relatedanime>
+<url>http://www.tv-asahi.co.jp/go-chan/movie2/</url>
+<creators>
+<name id="1284" type="Animation Work">Shin-Ei Animation</name>
+<name id="1163" type="Animation Work">SynergySP</name>
+<name id="4798" type="Direction">Hirai Minetarou</name>
+<name id="4316" type="Direction">Yasumi Tetsuo</name>
+</creators>
+<description>Note: It received a premium advance screening at United Cinema Aqua City Odaiba on 18.03.2018.</description>
+<ratings>
+<permanent count="1">3.44</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>212711.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20637</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37267</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-asahi.co.jp/go-chan/movie2/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゴーちゃん。</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363312</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21682</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>gochan_v</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="198634" update="2019-04-06">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>2018-05-05</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

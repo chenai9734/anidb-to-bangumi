@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7824" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2001-07-20</startdate>
+<enddate>2001-07-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pochacco no Jack to Mame no Ki</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 2a</title>
+<title xml:lang="ja" type="official">ポチャッコのジャックと豆の木</title>
+<title xml:lang="en" type="official">Pochacco in Jack and the Beanstalk</title>
+</titles>
+<similaranime>
+<anime id="4293" approval="1" total="1">Jack to Mame no Ki</anime>
+<anime id="7614" approval="1" total="1">Jack to Mame no Ki (1989)</anime>
+</similaranime>
+<ratings>
+<permanent count="10">4.49</permanent>
+<temporary count="10">4.80</temporary>
+</ratings>
+<picture>59577.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22493</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="36786" type="main character in" update="2011-09-17">
+<name>Jack</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56125.jpg</picture>
+<seiyuu id="70" picture="171604.jpg">Kanai Mika</seiyuu>
+</character>
+<character id="36787" type="secondary cast in" update="2011-09-17">
+<name>Roujin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56126.jpg</picture>
+<seiyuu id="301" picture="186193.jpg">Oonishi Takeharu</seiyuu>
+</character>
+<character id="36788" type="secondary cast in" update="2011-09-17">
+<name>Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56127.jpg</picture>
+<seiyuu id="5294" picture="186179.jpg">Shinohara Akemi</seiyuu>
+</character>
+<character id="36789" type="secondary cast in" update="2011-09-17">
+<name>Kyojin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56129.jpg</picture>
+<seiyuu id="688" picture="18295.jpg">Tanaka Kan</seiyuu>
+</character>
+<character id="36790" type="secondary cast in" update="2011-09-17">
+<name>Choppi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56131.jpg</picture>
+<seiyuu id="186" picture="16999.jpg">Minami Omi</seiyuu>
+</character>
+<character id="36791" type="appears in" update="2011-09-17">
+<name>Tategoto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56132.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="36792" type="appears in" update="2011-09-17">
+<name>Niwatori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56134.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="120658" update="2011-09-17">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

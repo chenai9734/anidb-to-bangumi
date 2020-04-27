@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6839" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1928-07</startdate>
+<enddate>1928-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bunbuku Chagama</title>
+<title xml:lang="en" type="synonym">Raccoon That Helped a Junk Man</title>
+<title xml:lang="ja" type="official">文福茶釜</title>
+</titles>
+<creators>
+<name id="7967" type="Original Plan">Aochi Chuuzou</name>
+</creators>
+<description>A short film about a man who rescues a tanuki. When the tanuki transforms himself into a teapot, he is given to a temple as a gift. Once inside the temple, the tanuki reverts to his true form and causes havoc.</description>
+<ratings>
+<permanent count="7">3.72</permanent>
+<temporary count="7">4.64</temporary>
+</ratings>
+<picture>33808.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5349</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>24881</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106590" update="2018-09-18">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

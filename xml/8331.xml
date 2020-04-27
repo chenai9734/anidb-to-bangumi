@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8331" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2010-08-04</startdate>
+<enddate>2010-08-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Seiyuu Deka</title>
+<title xml:lang="ja" type="official">声優刑事</title>
+</titles>
+<url>http://www.moviesquare.jp/channel/catalog/?c=seiyu</url>
+<creators>
+<name id="4511" type="Character Design">Watanabe Mayumi</name>
+<name id="34075" type="Animation Work">MooGoo</name>
+<name id="51950" type="Animation Work">Studio Ranmaru</name>
+</creators>
+<description>TMS Animation`s short Flash anime.</description>
+<ratings>
+<permanent count="31">1.74</permanent>
+<temporary count="31">3.01</temporary>
+</ratings>
+<picture>67824.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23023</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>18047</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.moviesquare.jp/channel/catalog/?c=seiyu</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=LebFQnHXoJ4</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="68274" type="secondary cast in" update="2014-06-27">
+<name>Suika</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1619" picture="157173.jpg">Saitou Fuuko</seiyuu>
+</character>
+<character id="68275" type="secondary cast in" update="2014-06-27">
+<name>Akutou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="17987" picture="47879.jpg">Sakimoto Masakazu</seiyuu>
+</character>
+<character id="68276" type="main character in" update="2014-06-27">
+<name>Katagiri Ribbon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="28889" picture="66378.jpg">Tomita Saori</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="129467" update="2013-03-29">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2010-08-04</airdate>
+<title xml:lang="ja">登場! 声優刑事!!</title>
+<title xml:lang="en">Web</title>
+<title xml:lang="x-jat">Toujou! Seiyuu Deka!!</title>
+</episode>
+</episodes>
+</anime>

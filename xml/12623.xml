@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12623" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2015-01-23</startdate>
+<enddate>2015-01-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Cirque le Coeur</title>
+<title xml:lang="ja" type="official">Cirque le coeur</title>
+<title xml:lang="en" type="official">Magic of the Circus</title>
+</titles>
+<url>http://cirque-le-coeur.org</url>
+<description>A mysterious circus where a young girl got lost inside.</description>
+<ratings>
+<permanent count="11">4.86</permanent>
+<temporary count="11">5.09</temporary>
+</ratings>
+<picture>195781.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://cirque-le-coeur.org</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://cirque-le-coeur.org/en.html</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=jJKtiVupuVE</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="182855" update="2016-12-10">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2015-01-23</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+<episode id="202774" update="2018-07-13">
+<epno type="2">S3</epno>
+<length>1</length>
+<airdate>2014-12-20</airdate>
+<title xml:lang="en">First half full color ver.</title>
+</episode>
+<episode id="202775" update="2018-07-13">
+<epno type="2">S2</epno>
+<length>1</length>
+<airdate>2014-09-21</airdate>
+<title xml:lang="en">Leica Reel color ver.</title>
+</episode>
+<episode id="202776" update="2018-07-13">
+<epno type="2">S1</epno>
+<length>1</length>
+<airdate>2014-05-11</airdate>
+<title xml:lang="en">Leica Reel ver.</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3466" restricted="false">
+<type>TV Series</type>
+<episodecount>69</episodecount>
+<startdate>1982-10-17</startdate>
+<enddate>1984-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sasuga no Sarutobi</title>
+<title xml:lang="en" type="synonym">Amazing Sarutobi</title>
+<title xml:lang="en" type="synonym">Chubby Ninja</title>
+<title xml:lang="fr" type="synonym">Le collège des Ninjas</title>
+<title xml:lang="ja" type="official">さすがの猿飛</title>
+<title xml:lang="en" type="official">Clever Sarutobi</title>
+<title xml:lang="fr" type="official">L`académie des Ninjas</title>
+<title xml:lang="ar" type="official">كما هو متوقع من ساروتوبي</title>
+</titles>
+<url>http://www.nasinc.co.jp/</url>
+<creators>
+<name id="783" type="Work">NAS</name>
+<name id="784" type="Work">Asatsu</name>
+<name id="998" type="Original Work">Hosono Fujihiko</name>
+<name id="4557" type="Character Design">Kanazawa Hiroshi</name>
+<name id="5112" type="Series Composition">Shudou Takeshi</name>
+<name id="6826" type="Chief Direction">Sasaki Kouichi</name>
+<name id="1947" type="Music">Hisaishi Joe</name>
+</creators>
+<description>Nikumaru, meaning meatball in Japanese, is a seventeen-year-old student at Ninja High School, a special school for the training of ninja. He is short and chubby, but he possesses a super technique known as the "kamikaze", where he stirs up a whirlwind with his feet. The series introduces his many adventures and pranks as Nikumaru meets with his rivals both in and out of school.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="34">4.81</permanent>
+<temporary count="34">5.89</temporary>
+</ratings>
+<picture>4952.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1828</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3806</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>603</identifier>
+<identifier>cnuivy</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nasinc.co.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>さすがの猿飛</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89371</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>545</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2043" parentid="2869" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>high school</name>
+<description>A secondary school that usually contains grades 10 through 12 in Japan, or 9 through 12 in America.</description>
+<picurl>210064.jpg</picurl>
+</tag>
+<tag id="2282" parentid="2841" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2572" parentid="2282" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-09">
+<name>ninja</name>
+<description>A ninja was a covert agent or mercenary of feudal Japan specializing in unorthodox arts of war.
+The functions of the ninja included espionage, sabotage, infiltration, and assassination, as well as open combat in certain situations.
+The ninja, using covert methods of waging war, were contrasted with the samurai, who had strict rules about honor and combat.</description>
+<picurl>244347.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2623" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2653" parentid="2853" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2750" parentid="2604" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2826" parentid="2856" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-27">
+<name>pantsu</name>
+<description>"Panties" in Japanese. Upskirt views in various positions are typical, however all forms of partial or fully exposed panties are accepted. Exposure is usually accidental, but may also be deliberate. Pantsu views may be exclusive to the viewer without impacting any characters. Bikinis are not pantsu.</description>
+<picurl>5721.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2856" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-05">
+<name>ecchi</name>
+<description>Fan service is found in many anime, in many forms. When the service has a distinctly sexual slant to it, and it appears to be a major focus of the show, then it`s safe to assume you`re watching ecchi.
+The word "ecchi" is used by English-speaking anime fans to refer to refer to soft-core pornographic or sexually suggestive anime and manga. This is a western invention; in Japanese, it is a catch-all term for all things anyhow sexual in nature, not being limited to porn, but also not really considered a "milder" term, as it may also refer to sexual intercourse itself. The term "ecchi" in Japanese comes from the pronunciation of the letter "H" in English, which is rendered into Japanese syllabary as エッチ, which in turn is transliterated in the English alphabet as "ecchi" or "etchi". It is not, as many believe, short for "hentai" -- that, too, seems to be a western invention. It is, however, nearly as misunderstood and misapplied a term as "hentai".
+The line between ecchi and hentai, from the western perspective over these terms, can be hard to draw at times; one good rule of thumb is: if it was aired on Japanese public TV at all, it probably wasn`t hentai. Ecchi usually features all the specifics to human anatomy that can only be found in anime, and generally avoids full nudity, instead abusing of panty shots. Hentai, on the other hand, will usually show full frontal nudity in some explicit form, including genitalia, and full, intimate sex scenes. At its mildest, ecchi is composed of double entendres, big misunderstandings, and sexual farce; at its most explicit, it is still in the realm of softcore pornography, with full breast shots, full back nudity and similar content, but no display of genitalia. Another good way to distinguish the two is looking for animated sex scenes; if one is found, you have generally left the genre entirely, though a few borderline exceptions apply here. For AniDB`s purposes, the distinction between explicit ecchi and actual hentai is simple: if it was sold with a 18+ restriction in its country of origin, it is hentai; if it was sold without it, it is ecchi.
+Source: TV Tropes</description>
+<picurl>32416.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="11318" type="secondary cast in" update="2009-08-23">
+<name>Ogata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="9120" picture="16471.jpg">Wakamoto Noriaki</seiyuu>
+</character>
+<character id="11333" type="appears in" update="2009-08-24">
+<name>Kyoukan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="199" picture="23218.jpg">Shimada Bin</seiyuu>
+</character>
+<character id="11334" type="secondary cast in" update="2009-08-24">
+<name>Koucho</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="604" picture="154161.jpg">Ogata Ken`ichi</seiyuu>
+</character>
+<character id="11335" type="main character in" update="2012-02-08">
+<name>Mako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2055" picture="21393.jpg">Shimazu Saeko</seiyuu>
+</character>
+<character id="11336" type="main character in" update="2009-08-24">
+<name>Nikumaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3270" picture="30153.jpg">Mitsuya Yuuji</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="38561" update="2010-01-08">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1982-10-17</airdate>
+<title xml:lang="ja">でたぞ肉丸ドッキリ魔子</title>
+<title xml:lang="en">Here Comes Nikumaru. Lovely Mako</title>
+<title xml:lang="fr">Rentrée des classes pour ninja</title>
+<title xml:lang="x-jat">Deta zo Nikumaru Dokkiri Mako</title>
+</episode>
+<episode id="43883" update="2010-01-08">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>1983-06-26</airdate>
+<title xml:lang="ja">ザ女教師・わたしが愛したくの一!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="fr">Poigne de fer et séduction</title>
+<title xml:lang="x-jat">The Onna Kyoushi, Watashi ga Ai Shita Kunoichi!</title>
+</episode>
+<episode id="43884" update="2010-01-08">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>1983-04-24</airdate>
+<title xml:lang="ja">出た! 恋のライバル猫若丸</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="fr">Matanielé le petit ninja</title>
+<title xml:lang="x-jat">Deta! Koi no Rival Nekowakamaru</title>
+</episode>
+<episode id="43885" update="2010-01-08">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1982-10-31</airdate>
+<title xml:lang="ja">出た! 美加! スーパーくの一</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="fr">Le retour de grande sœur</title>
+<title xml:lang="x-jat">Deta! Mika! Super Kunoichi</title>
+</episode>
+<episode id="43886" update="2010-01-08">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>1983-10-09</airdate>
+<title xml:lang="ja">肉丸が愛したペンフレンド?!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="fr">Lorsqu`un hibiscus fleurira</title>
+<title xml:lang="x-jat">Nikumaru ga Ai Shita Pen Friend?!</title>
+</episode>
+<episode id="43887" update="2010-01-08">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1982-12-05</airdate>
+<title xml:lang="ja">やぶれたり神風の術</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="fr">L`art du vent</title>
+<title xml:lang="x-jat">Yaburetari Kamikaze no Jutsu</title>
+</episode>
+<episode id="43888" update="2010-01-08">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>1983-07-03</airdate>
+<title xml:lang="ja">パイパニック号を引き上げろ!!</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="fr">Le trésor de Pipanic</title>
+<title xml:lang="x-jat">Paipanic Gou o Hikiagero!!</title>
+</episode>
+<episode id="43889" update="2010-01-08">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>1984-01-22</airdate>
+<title xml:lang="ja">爆発! バクハツ! 大ばくはつ!!</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="fr">Explosion, explosion, explosion</title>
+<title xml:lang="x-jat">Bakuhatsu! Bakuhatsu! Dai Bakuhatsu!!</title>
+</episode>
+<episode id="43890" update="2010-01-08">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>1983-11-27</airdate>
+<title xml:lang="ja">魔子ちゃん! 君こそスターだ!</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="fr">Mandoline fait du cinéma</title>
+<title xml:lang="x-jat">Mako-chan! Kimi koso Star Da!</title>
+</episode>
+<episode id="43891" update="2010-01-08">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>1983-08-28</airdate>
+<title xml:lang="ja">肉丸パニック! 食うのは奴らだ</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="fr">Épidémie de caries</title>
+<title xml:lang="x-jat">Nikumaru Panic! Kuu no wa Yatsura Da</title>
+</episode>
+<episode id="43892" update="2010-01-08">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>1984-02-12</airdate>
+<title xml:lang="ja">誰がいちばん美人? それは私です!</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="fr">Andromède sauvée des eaux</title>
+<title xml:lang="x-jat">Dare ga Ichiban Bijin? Sore wa Watashi Desu!</title>
+</episode>
+<episode id="43893" update="2010-01-08">
+<epno type="1">66</epno>
+<length>25</length>
+<airdate>1984-02-19</airdate>
+<title xml:lang="ja">キャッツもびっくり!? 肉丸ミュージカル</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="fr">Les bas fonds</title>
+<title xml:lang="x-jat">Cats mo Bikkuri?! Nikumaru Musical</title>
+</episode>
+<episode id="43894" update="2010-01-08">
+<epno type="1">67</epno>
+<length>25</length>
+<airdate>1984-02-26</airdate>
+<title xml:lang="ja">美加の愛した足長おじさん</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="fr">Le grand-père de Marie-Joe</title>
+<title xml:lang="x-jat">Mika no Ai Shita Ashinaga Ojisan</title>
+</episode>
+<episode id="43895" update="2010-01-08">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>1983-05-29</airdate>
+<title xml:lang="ja">魔子の秘[まるひ]ドッキリレポート</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="fr">Mission spéciale pour Mandoline</title>
+<title xml:lang="x-jat">Mako no Maruhi Dokkiri Report</title>
+</episode>
+<episode id="43896" update="2010-01-08">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>1983-11-13</airdate>
+<title xml:lang="ja">ザ・忍者これが日本だ</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="fr">Un grand reporter</title>
+<title xml:lang="x-jat">The Ninja Kore ga Nippon Da</title>
+</episode>
+<episode id="43897" update="2010-01-08">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>1983-07-31</airdate>
+<title xml:lang="ja">モモちゃん忍法・変身の術</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="fr">Les dauphins d`or</title>
+<title xml:lang="x-jat">Momo-chan Ninpou, Henshin no Jutsu</title>
+</episode>
+<episode id="43898" update="2010-01-08">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>1983-11-06</airdate>
+<title xml:lang="ja">斗え小源太! 明日に向って</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="fr">Vas-y Charly !</title>
+<title xml:lang="x-jat">Tatakae Kogenta! Asu ni Mukatte</title>
+</episode>
+<episode id="43899" update="2010-01-08">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1982-10-24</airdate>
+<title xml:lang="ja">これがうわさの肉丸ファミリー</title>
+<title xml:lang="en">This Is the Rumored Nikumaru Family</title>
+<title xml:lang="fr">La famille de Nicolas</title>
+<title xml:lang="x-jat">Kore ga Uwasa no Nikumaru Family</title>
+</episode>
+<episode id="43900" update="2010-01-08">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1983-03-20</airdate>
+<title xml:lang="ja">シェイプアップラブ大作戦</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="fr">La fiancée d`Albert</title>
+<title xml:lang="x-jat">Shape Up Love Daisakusen</title>
+</episode>
+<episode id="43901" update="2010-01-08">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1982-11-07</airdate>
+<title xml:lang="ja">魔子いじめた怒りの肉丸</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="fr">Les épreuves d`athlétisme</title>
+<title xml:lang="x-jat">Mako Ijimeta Ikari no Nikumaru</title>
+</episode>
+<episode id="43902" update="2010-01-08">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1983-04-10</airdate>
+<title xml:lang="ja">ナンバーワン忍者・肉丸!?</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="fr">Le meilleur élève de l`année</title>
+<title xml:lang="x-jat">Number One Ninja Nikumaru!?</title>
+</episode>
+<episode id="43903" update="2010-01-08">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1983-03-06</airdate>
+<title xml:lang="ja">バラがくれひょうきん選挙</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="fr">Des élections mouvementées</title>
+<title xml:lang="x-jat">Baragakure Hyoukin Senryo</title>
+</episode>
+<episode id="43904" update="2010-01-08">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>1983-08-21</airdate>
+<title xml:lang="ja">ゆれてぬれて海辺の決斗!</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="fr">La société des dragons</title>
+<title xml:lang="x-jat">Yuretenurete Umibe no Kettou!</title>
+</episode>
+<episode id="43905" update="2010-01-08">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>1983-12-18</airdate>
+<title xml:lang="ja">魔子VS肉丸びっくり忍者日本一</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="fr">Le grand duel</title>
+<title xml:lang="x-jat">Mako VS Nikumaru Bikkuri Ninja Nippon Ichi</title>
+</episode>
+<episode id="43906" update="2010-01-08">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>1983-10-16</airdate>
+<title xml:lang="ja">ザ・女教師ウィーンの秋に燃えて</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="fr">Un automne viennois</title>
+<title xml:lang="x-jat">The Onna Kyoushi, Wien no Aki ni Moete</title>
+</episode>
+<episode id="43907" update="2010-01-08">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>1983-05-08</airdate>
+<title xml:lang="ja">宿命の対決!! 肉丸VSニントン</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="fr">Nicolas et Platon s`affrontent</title>
+<title xml:lang="x-jat">Shukumei no Taiketsu!! Nikumaru VS Ninton</title>
+</episode>
+<episode id="43908" update="2010-01-08">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>1983-10-23</airdate>
+<title xml:lang="ja">美加の愛した"10月の風"</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="fr">Le vent de septembre</title>
+<title xml:lang="x-jat">Mika no Ai Shita "Juugatsu no Kaze"</title>
+</episode>
+<episode id="43909" update="2010-01-08">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1982-11-14</airdate>
+<title xml:lang="ja">バラの美少女レポート</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="fr">Fais-moi une fleur</title>
+<title xml:lang="x-jat">Bara no Bishoujo Report</title>
+</episode>
+<episode id="43910" update="2010-01-08">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>1983-05-01</airdate>
+<title xml:lang="ja">ミカの愛した英雄バイク</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="fr">La chevauchée fantastique</title>
+<title xml:lang="x-jat">Mika no Ai Shita Eiyuu Bike</title>
+</episode>
+<episode id="43911" update="2010-01-08">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>1983-06-05</airdate>
+<title xml:lang="ja">初手柄!? ヘバロンとりで大爆破!</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="fr">La forteresse imprenable</title>
+<title xml:lang="x-jat">Hatsute kara!? Hebaron Tori de Daibakuha!</title>
+</episode>
+<episode id="43912" update="2010-01-08">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>1983-08-14</airdate>
+<title xml:lang="ja">肉丸inスペースウオーズ</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="fr">La guerre de l`espace</title>
+<title xml:lang="x-jat">Nikumaru in Space Wars</title>
+</episode>
+<episode id="43913" update="2010-01-08">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>1983-09-18</airdate>
+<title xml:lang="ja">禁じられた恋? 地の果てまで!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="fr">Roméo et Juliette</title>
+<title xml:lang="x-jat">Kinjirareta Koi? Chi no Hate made!</title>
+</episode>
+<episode id="43914" update="2010-01-08">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>1983-11-20</airdate>
+<title xml:lang="ja">おしゃもじ忍法"ママの神風"</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="fr">Le choix de Capucine</title>
+<title xml:lang="x-jat">Ojamoji Ninpou "Mama no Kamikaze"</title>
+</episode>
+<episode id="43915" update="2010-01-08">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>1983-06-19</airdate>
+<title xml:lang="ja">肉丸はじめて物語 恐竜100万年</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="fr">L`âge du feu</title>
+<title xml:lang="x-jat">Nikumaru Hajimete Monogatari: Kyouryuu 100-man Nen</title>
+</episode>
+<episode id="43916" update="2010-01-08">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>1983-09-11</airdate>
+<title xml:lang="ja">あこがれのビーチ・ラブ</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="fr">Un bel amour d`été</title>
+<title xml:lang="x-jat">Akogare no Beach Love</title>
+</episode>
+<episode id="43917" update="2010-01-08">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1982-11-28</airdate>
+<title xml:lang="ja">アイドルをねらえ</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="fr">L`idole du directeur</title>
+<title xml:lang="x-jat">Idol o Nerae</title>
+</episode>
+<episode id="43918" update="2010-01-08">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1983-02-20</airdate>
+<title xml:lang="ja">魔子と肉丸の思い出アルバム</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="fr">Souvenir d`enfance</title>
+<title xml:lang="x-jat">Mako to Nikumaru no Omoide Album</title>
+</episode>
+<episode id="43919" update="2010-01-08">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1983-02-27</airdate>
+<title xml:lang="ja">決戦!! スパイナー対忍びの者</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="fr">Le grand combat</title>
+<title xml:lang="x-jat">Kessen!! Spiner Tai Shinobi no Mono</title>
+</episode>
+<episode id="43920" update="2010-01-08">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>1983-10-02</airdate>
+<title xml:lang="ja">大奥・お嫁においで物語</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="fr">Le rêve de Nicolas</title>
+<title xml:lang="x-jat">Ooku, Oyome ni Oide Monogatari</title>
+</episode>
+<episode id="43921" update="2010-01-08">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1983-03-27</airdate>
+<title xml:lang="ja">ハチャメチャ? げんまん大戦!</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="fr">Un régime draconien</title>
+<title xml:lang="x-jat">Hachamecha? Genmon Daisen!</title>
+</episode>
+<episode id="43922" update="2010-01-08">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1983-01-16</airdate>
+<title xml:lang="ja">肉丸ウェスタン荒野の決闘</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="fr">Nouveau règlement de comptes à OK Corral</title>
+<title xml:lang="x-jat">Nikumaru Western Kouya no Kettou</title>
+</episode>
+<episode id="43923" update="2010-01-08">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1983-03-13</airdate>
+<title xml:lang="ja">ファーストキッスで待たされて</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="fr">Une sortie mouvementée</title>
+<title xml:lang="x-jat">First Kiss de Matasarete</title>
+</episode>
+<episode id="43924" update="2010-01-08">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>1983-08-07</airdate>
+<title xml:lang="ja">山は呼んでる! 肉丸VS八宝斉</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="fr">L`appel de la montagne</title>
+<title xml:lang="x-jat">Yama wa Yonderu! Nikumaru VS Happousai</title>
+</episode>
+<episode id="43925" update="2010-01-08">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>1984-01-29</airdate>
+<title xml:lang="ja">大怪人VS肉丸地球最大の斗い!</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="fr">L`île de la mort</title>
+<title xml:lang="x-jat">Daikaijin VS Nikumaru Chikyuu Saidai no Tatakai!</title>
+</episode>
+<episode id="43926" update="2010-01-08">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1982-12-12</airdate>
+<title xml:lang="ja">戦国猿飛秘話</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="fr">Voyage dans le passé</title>
+<title xml:lang="x-jat">Sengoku Sarutobi Hiwa</title>
+</episode>
+<episode id="43927" update="2010-01-08">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1983-04-03</airdate>
+<title xml:lang="ja">0029まる危機一発!!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="fr">La belle Cynthia</title>
+<title xml:lang="x-jat">0029 Maru Kiki Ippatsu!!</title>
+</episode>
+<episode id="43928" update="2010-01-08">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1983-02-06</airdate>
+<title xml:lang="ja">ネグラ一族の陰謀!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="fr">Un ver dans l`estomac</title>
+<title xml:lang="x-jat">Negura Ichizoku no Inbou!</title>
+</episode>
+<episode id="43929" update="2010-01-08">
+<epno type="1">68</epno>
+<length>25</length>
+<airdate>1984-03-04</airdate>
+<title xml:lang="ja">これがウワサの少年ケニやん</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="fr">Nicolas, l`enfant sauvage</title>
+<title xml:lang="x-jat">Kore ga Uwasa no Shounen Keni-yan</title>
+</episode>
+<episode id="43930" update="2010-01-08">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>1983-12-04</airdate>
+<title xml:lang="ja">00コンビうらぎり大逆転!</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="fr">L`amour trahi</title>
+<title xml:lang="x-jat">00 Combi, Uragiri Daigyakuten!</title>
+</episode>
+<episode id="43931" update="2010-01-08">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>1983-05-15</airdate>
+<title xml:lang="ja">決斗! 愛すればこそ</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="fr">Duel pour l`amour</title>
+<title xml:lang="x-jat">Kettou! Ai Sureba koso</title>
+</episode>
+<episode id="43932" update="2010-01-08">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>1983-09-04</airdate>
+<title xml:lang="ja">肉丸VSスパイナー! 宇宙の対決!!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="fr">Une mission de cochons</title>
+<title xml:lang="x-jat">Nikumaru VS Spiner! Uchuu no Taiketsu!!</title>
+</episode>
+<episode id="43933" update="2010-01-08">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1983-04-17</airdate>
+<title xml:lang="ja">さらば! さすらいのニントン</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="fr">Le grand amour de Platon</title>
+<title xml:lang="x-jat">Saraba! Sasurai no Ninton</title>
+</episode>
+<episode id="43934" update="2010-01-08">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1983-01-23</airdate>
+<title xml:lang="ja">うそォ! 肉丸が雪男!?</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="fr">L`abominable homme des neiges</title>
+<title xml:lang="x-jat">Usoo! Nikumaru ga Yukiotoko!?</title>
+</episode>
+<episode id="43935" update="2010-01-08">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1983-01-30</airdate>
+<title xml:lang="ja">ネグラ忍法帖!?</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="fr">Tatami mon amour</title>
+<title xml:lang="x-jat">Negura Ninpouchou!</title>
+</episode>
+<episode id="43936" update="2010-01-08">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>1983-05-22</airdate>
+<title xml:lang="ja">寒い国から来たスパイ</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="fr">L`ami américain</title>
+<title xml:lang="x-jat">Samui Kuni kara Kita Spy</title>
+</episode>
+<episode id="43937" update="2010-01-08">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>1984-01-15</airdate>
+<title xml:lang="ja">さよなら!? 前略肉丸さま</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="fr">La dernière lettre</title>
+<title xml:lang="x-jat">Sayonara?! Zenryaku Nikumaru-sama</title>
+</episode>
+<episode id="43938" update="2010-01-08">
+<epno type="1">69</epno>
+<length>25</length>
+<airdate>1984-03-11</airdate>
+<title xml:lang="ja">たかが肉丸・されど肉丸 さらば肉丸!</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="fr">L`attaque finale</title>
+<title xml:lang="x-jat">Taka ga Nikumaru, Saredo Nikumaru, Saraba Nikumaru!</title>
+</episode>
+<episode id="43939" update="2010-01-08">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1983-01-09</airdate>
+<title xml:lang="ja">ハチャメチャ雪んこ野球</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="fr">Le match de base-ball</title>
+<title xml:lang="x-jat">Hachamecha Yukinko Yakyuu</title>
+</episode>
+<episode id="43940" update="2010-01-08">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>1983-12-11</airdate>
+<title xml:lang="ja">もう一度肉丸アイラブユー</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="fr">Une infinie tristesse</title>
+<title xml:lang="x-jat">Mou Ichido Nikumaru I Love You</title>
+</episode>
+<episode id="43941" update="2010-01-08">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>1983-09-25</airdate>
+<title xml:lang="ja">魔子のララバイ忍法"蝶の舞"</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="fr">Le vol du papillon</title>
+<title xml:lang="x-jat">Mako no Lullaby, Ninpou "Chou no Mai"</title>
+</episode>
+<episode id="43942" update="2010-01-08">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>1983-12-25</airdate>
+<title xml:lang="ja">戦場のブルークリスマス</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="fr">Noël sous les bombes</title>
+<title xml:lang="x-jat">Senjou no Blue Christmas</title>
+</episode>
+<episode id="43943" update="2010-01-08">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1982-12-26</airdate>
+<title xml:lang="ja">雪の日の愛のわかれに</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="fr">Nicolas travaille</title>
+<title xml:lang="x-jat">Yuki no Hi no Ai no Wakare ni</title>
+</episode>
+<episode id="43944" update="2010-01-08">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1982-12-19</airdate>
+<title xml:lang="ja">わたしの宇宙人</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="fr">Allien le monstre de l`espace</title>
+<title xml:lang="x-jat">Watashi no Uchuujin</title>
+</episode>
+<episode id="43945" update="2010-01-08">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>1984-01-08</airdate>
+<title xml:lang="ja">ハチャメチャ・肉丸八豚伝</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="fr">Les sept samouraïs</title>
+<title xml:lang="x-jat">Hachamecha, Nikumaru Hattonden</title>
+</episode>
+<episode id="43946" update="2010-01-08">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>1984-02-05</airdate>
+<title xml:lang="ja">大奥いじめていじめて物語</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="fr">La chaumière et le palais</title>
+<title xml:lang="x-jat">Ooku Ijimete Ijimete Monogatari</title>
+</episode>
+<episode id="43947" update="2010-01-08">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1982-11-21</airdate>
+<title xml:lang="ja">スパイナーから来た忍者</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Spiner kara Kita Ninja</title>
+</episode>
+<episode id="43948" update="2010-01-08">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>1983-07-17</airdate>
+<title xml:lang="ja">肉丸南極物語</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="fr">Aventure au pôle</title>
+<title xml:lang="x-jat">Nikumaru Nankyoku Monogatari</title>
+</episode>
+<episode id="43949" update="2010-01-08">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>1983-10-30</airdate>
+<title xml:lang="ja">エーゲ海にささぐ"忍法蝶の舞"</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="fr">La nouvelle famille de Nicolas</title>
+<title xml:lang="x-jat">Eege Kai ni Sasaku "Ninpou Chou no Mai"</title>
+</episode>
+<episode id="43950" update="2010-01-08">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1983-02-13</airdate>
+<title xml:lang="ja">パニック・肉丸が変身!?</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="fr">Le choix de Nicolas</title>
+<title xml:lang="x-jat">Panic: Nikumaru ga Henshin!?</title>
+</episode>
+<episode id="123939" update="2010-10-09">
+<epno type="3">C3</epno>
+<length>1</length>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="123940" update="2010-10-09">
+<epno type="3">C2</epno>
+<length>1</length>
+<airdate>1982-10-17</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="123941" update="2010-10-09">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>1982-10-17</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

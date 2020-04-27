@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11708" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1993</startdate>
+<enddate>1993</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nouryou Anime: Denkyuu Ika Matsuri</title>
+<title xml:lang="en" type="synonym">Metempsychosis</title>
+<title xml:lang="x-jat" type="synonym">Ikamaturi</title>
+<title xml:lang="ja" type="official">納涼アニメ 電球烏賊祭</title>
+<title xml:lang="en" type="official">Squid Festival</title>
+</titles>
+<url>http://yamamuraanimation.blog13.fc2.com/blog-entry-95.html</url>
+<description>Death is the gateway to birth. The deceased crosses the line to join the kingdom of the dead. He sees there the dance of the sperm and the egg. He is drawn towards the sky. This is the path to the afterlife.
+Source: starandshadow.org.uk</description>
+<ratings>
+<permanent count="42">2.63</permanent>
+<temporary count="43">3.94</temporary>
+</ratings>
+<picture>178505.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30659</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://yamamuraanimation.blog13.fc2.com/blog-entry-95.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="172934" update="2015-10-28">
+<epno type="1">1</epno>
+<length>6</length>
+<rating votes="1">2.35</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

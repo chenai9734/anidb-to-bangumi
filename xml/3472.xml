@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3472" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1984-06</startdate>
+<enddate>1984-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jumping</title>
+<title xml:lang="ru" type="synonym">Прыжок</title>
+<title xml:lang="es" type="short">El Saltador</title>
+<title xml:lang="ja" type="official">ジャンピング</title>
+<title xml:lang="fr" type="official">Le saut</title>
+<title xml:lang="et" type="official">Hüppamine</title>
+</titles>
+<url>http://ja.tezuka.co.jp/anime/sakuhin/ea/ea009.html</url>
+<creators>
+<name id="1195" type="Original Work">Tezuka Osamu</name>
+<name id="1195" type="Direction">Tezuka Osamu</name>
+<name id="1195" type="Character Design">Tezuka Osamu</name>
+</creators>
+<description>As a boy skips down a street, his stride becomes bigger and bigger, and he then jumps over towns, a forest, the sea, going higher and further. Finally he reaches a country in wartime. This work is very interesting in that the boy`s jump turns to a god`s jump, to a point where he is watching over human destiny. This work surprised the entire world because the whole film was shot in one cut with 4,000 animation cels.
+Source: http://web.archive.org/web/20080214232134/http://en.tezuka.co.jp/anime/sakuhin/ea/ea009.html</description>
+<ratings>
+<permanent count="356">6.09</permanent>
+<temporary count="357">6.42</temporary>
+</ratings>
+<picture>4960.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3418</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2211</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://ja.tezuka.co.jp/anime/sakuhin/ea/ea009.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149120</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3018" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>first person view</name>
+<description>The events in this anime are shown from the perspective of one or several characters, as if you watch the scenes through their eyes.</description>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="38610" update="2007-10-14">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>1984-06-01</airdate>
+<rating votes="3">5.80</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="167710" update="2015-08-19">
+<epno type="2">S1</epno>
+<length>20</length>
+<title xml:lang="ja">手塚治虫インタビュー「実験アニメを語る」</title>
+<title xml:lang="en">Interview With Tezuka</title>
+<title xml:lang="x-jat">Tezuka Osamu Interview "Jikken Anime o Kataru"</title>
+</episode>
+<episode id="173409" update="2015-12-04">
+<epno type="2">S2</epno>
+<length>8</length>
+<airdate>2013-07-01</airdate>
+<title xml:lang="en">Jump: Inside of "Jumping"</title>
+</episode>
+</episodes>
+</anime>

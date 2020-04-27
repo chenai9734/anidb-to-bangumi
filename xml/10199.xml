@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10199" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-03-01</startdate>
+<enddate>2014-03-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Parol no Miraijima</title>
+<title xml:lang="ja" type="synonym">若手アニメーター育成プロジェクト 2014 3</title>
+<title xml:lang="en" type="synonym">Young Animator Training Project 2014 3</title>
+<title xml:lang="en" type="synonym">Paroru`s Future Island</title>
+<title xml:lang="x-jat" type="synonym">Wakate Animator Ikusei Project 2014 3</title>
+<title xml:lang="x-jat" type="synonym">Paroru no Miraijima</title>
+<title xml:lang="ja" type="official">パロルのみらい島</title>
+</titles>
+<url>http://animemirai.jp/#paroru</url>
+<creators>
+<name id="2732" type="Character Design">Kameda Yoshimichi</name>
+<name id="9709" type="Direction">Imai Kazuaki</name>
+<name id="1284" type="Work">Shin-Ei Animation</name>
+<name id="33121" type="Original Plan">Okano Takanori</name>
+<name id="7440" type="Music">Sagara Masae</name>
+<name id="57327" type="Music">Kabayama Jun`ichirou</name>
+</creators>
+<description>There is a tiny island floating on the other side of a distant sea. Strange animals, still unknown to humans, live there. One of the island`s children, http://anidb.net/ch62001 [Parol], comes across a photo of the human world one day, and fascinated by this beautiful wonder, breaks the rules and rushes to leave the island. Parol and others are surprised and excited to see the human world for the first time. However, unforeseen pitfalls await them there... Can they safely reach their journey`s destination?
+Source: ANN</description>
+<ratings>
+<permanent count="154">4.45</permanent>
+<temporary count="155">5.67</temporary>
+</ratings>
+<picture>144236.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15690</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20961</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://animemirai.jp/#paroru</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>パロルのみらい島</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3366</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348258</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16952</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2628" parentid="2613" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-31">
+<name>fictional location</name>
+<description>A fictional location is a place or world which is run by different set of rules than our common and ordinary world. This may include completely fictional worlds with no semblance of Earth, computer-generated worlds, fantasy worlds, magical worlds, parallel worlds accessible through portals, and so on. Or it may be fictional places like floating islands, dungeons or planets, which can co-exist with ordinary Earth, but are otherwise separate from it.
+A world that generally shares the characteristics of, and/or is generally indistinguishable from the real world (bar research on a "more than cursory" level), would NOT be considered a fictional world. A good example is http://anidb.net/a4521 [Code Geass]. It contains several real world nationalities, such as http://anidb.net/a4521 [China], http://anidb.net/t2672 [Japan] (now Area 11), http://anidb.net/t5091 [India], etc, along with fictional nationalities such as http://anidb.net/t2361 [Britannia]. China, Japan, and India are easily identified with a cursory look. The location is unmistakably the planet Earth, even though national borders have been redrawn.
+The fictional world should only be tagged if it plays a materially important role in the plot and setting; generally, an episodic occurrence of a fictional world should not be tagged.
+A fantasy world is a type of fictional world, part of a fictional universe. Typical worlds involve, but are not limited to: magic or magical abilities, and/or a medieval theme. Some examples include: a parallel world tenuously connected to Earth via magical portals or items; a fictional Earth-like planet in the remote past or future; or an entirely independent world set in another universe. Many fantasy worlds draw heavily on real world history, geography, and sociology, and also on folklore.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2631" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-02-11">
+<name>island</name>
+<description>Part of this anime takes place on an island, a small landmass that is surrounded by the sea. Generally, an island setting involves interaction with "island" elements. Such elements could include (but is not limited towards): riding on a boat, fishing, foraging/hunting, beach scene, "peaceful island life", being "shipwrecked", island fever, lamenting isolation from the mainland, etc.
+An island or isle is any piece of sub-continental land that is surrounded by water. Very small islands such as emergent land features on atolls can be called islets, cays or keys. An island in a river or lake may be called an eyot (also ait), or holm. A grouping of geographically or geologically related islands is called an archipelago.
+(Source: Wikipedia)</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2857" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="2869" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="3968" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>animal protagonist</name>
+<description>The anime revolves around an animal, usually only communicating with typical onomatopoeia. The animal mostly lives in a human family and has adventures on a regular base. This can be the discovery of a new room, or being lost by having taken a wrong turn in the outside world.
+Typical example: http://anidb.net/a5801 [Chii`s Sweet Home].
+Not to be confused with http://anidb.net/t4259 [animal world], where the whole world is composed of animals.</description>
+<picurl>10255.jpeg</picurl>
+</tag>
+<tag id="4022" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-11-29">
+<name>strong female lead</name>
+<description>The lead female character has a strong personality and plays a part that is not the typical damsel-in-distress role. 
+This is the exact opposite of the “damsel in distress” tag.</description>
+</tag>
+<tag id="4259" parentid="2857" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>animal world</name>
+<description>All characters of the show are walking-talking animals. Their behaviour and clothing can resemble that of humans. They also may try to mirror human society.
+There are no humans present in this world.
+Not to be confused with http://anidb.net/t3968 [animal protagonist].</description>
+<picurl>10254.jpeg</picurl>
+</tag>
+<tag id="4421" parentid="2613" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>circus</name>
+<description>A circus is a company of performers that may include clowns, acrobats, trained animals, trapeze acts, musicians, hoopers, tightrope walkers, jugglers, unicyclists and other object manipulation and stunt-oriented artists. The term circus also describes the performance which has followed various formats through its 250 year modern history. 
+Philip Astley is credited with being the father of the modern circus when he opened the first circus in 1768 in England. Early circuses were almost exclusively demonstrations of equestrian skills with a few other types of acts to link the horsemanship performances. Performances developed significantly through the next fifty years, with large scale theatrical battle reenactments becoming a significant feature. [...]
+(Source: Wikipedia)</description>
+<picurl>169460.jpg</picurl>
+</tag>
+<tag id="4480" parentid="6246" weight="0" localspoiler="false" globalspoiler="true" verified="true" update="2018-08-13">
+<name>happy ending</name>
+<description>And they lived "happily ever after"... *sniff*.
+All issues in the anime have been resolved, the love polygons sorted out, the conflicts resolved, the guy gets the girl (or the other way around), and everyone else lives on blissfully.
+(Not very realistic, but then again this is anime.)</description>
+<picurl>222185.jpg</picurl>
+</tag>
+<tag id="4859" parentid="6153" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-06-09">
+<name>Wakate Animator Ikusei Project</name>
+<description>The Young Animator Training Project is an annual project launched in 2010 and funded by the Japanese government`s Agency for Cultural Affairs. The project, which culminates in a series of shorts produced by various animation studios each year, means to address the concern that more of the Japanese animation process is being outsourced overseas, thus leading to a decline in opportunities to teach animation techniques within Japan. As such, the animation production for each short is required to be based in Japan, and professionals must impart their know-how to the young animators through on-the-job training.
+Source: Wikipedia</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6246" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-06">
+<name>ending</name>
+<description>This is a container tag to house meta-like tags relating to how endings of anime play out.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="62000" type="main character in" update="2015-02-26">
+<name>Zuzu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169484.jpg</picture>
+<seiyuu id="2002" picture="21307.jpg">Katsu Anri</seiyuu>
+</character>
+<character id="62001" type="main character in" update="2015-02-26">
+<name>Parol</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169483.jpg</picture>
+<seiyuu id="441" picture="171611.jpg">Fujimura Ayumi</seiyuu>
+</character>
+<character id="62002" type="main character in" update="2015-02-26">
+<name>Rikotto</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169482.jpg</picture>
+<seiyuu id="12" picture="184301.jpg">Kawasumi Ayako</seiyuu>
+</character>
+<character id="73494" type="secondary cast in" update="2015-02-26">
+<name>An</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169485.jpg</picture>
+<seiyuu id="553" picture="170553.jpg">Kaneda Tomoko</seiyuu>
+</character>
+<character id="73495" type="appears in" update="2015-02-26">
+<name>Washi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169486.jpg</picture>
+<seiyuu id="371" picture="166173.jpg">Kuroda Takaya</seiyuu>
+</character>
+<character id="73496" type="appears in" update="2015-02-26">
+<name>Sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169487.jpg</picture>
+<seiyuu id="11009" picture="39517.jpg">Miyazawa Tadashi</seiyuu>
+</character>
+<character id="73497" type="secondary cast in" update="2015-02-26">
+<name>Danchou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169488.jpg</picture>
+<seiyuu id="1986" picture="1919.gif">Iizuka Shouzou</seiyuu>
+</character>
+<character id="73498" type="appears in" update="2015-02-26">
+<name>Chibi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169489.jpg</picture>
+<seiyuu id="20322" picture="186181.jpg">Shiga Katsuya</seiyuu>
+</character>
+<character id="73499" type="appears in" update="2015-02-26">
+<name>Noppo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169490.jpg</picture>
+<seiyuu id="4913" picture="58960.jpg">Masuoka Tarou</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="156465" update="2014-04-15">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2014-03-01</airdate>
+<rating votes="1">5.14</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

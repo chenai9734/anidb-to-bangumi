@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13811" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>2018-07-07</startdate>
+<enddate>2019-01-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Oshiete Mahou no Pendulum: Rilu Rilu Fairilu</title>
+<title xml:lang="ja" type="synonym">リルリルフェアリル</title>
+<title xml:lang="ja" type="official">おしえて魔法のペンデュラム ~リルリルフェアリル~</title>
+<title xml:lang="ko" type="official">가르쳐줘 마법의 펜듈럼 ~리루리루 페어리루~</title>
+</titles>
+<relatedanime>
+<anime id="12825" type="Prequel">Rilu Rilu Fairilu: Mahou no Kagami</anime>
+</relatedanime>
+<url>http://fairilu.jp/</url>
+<creators>
+<name id="730" type="Animation Work">Studio Deen</name>
+<name id="44904" type="Character Design">Yamaguchi Jinshichi</name>
+<name id="4304" type="Series Composition">Omode Akemi</name>
+<name id="10175" type="Original Work">Sega Toys</name>
+<name id="1288" type="Original Work">Sanrio</name>
+<name id="45843" type="Direction">Maeda Chisei</name>
+</creators>
+<ratings>
+<permanent count="2">6.50</permanent>
+<temporary count="2">6.00</temporary>
+</ratings>
+<picture>221097.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21079</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37328</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://fairilu.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>リルリルフェアリル</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5011</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364472</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21310</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>rilurilu_anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="79090" type="main character in" update="2015-12-24">
+<name>Sumire</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180747.jpg</picture>
+<seiyuu id="430" picture="246278.jpg">Hidaka Rina</seiyuu>
+</character>
+<character id="79091" type="main character in" update="2015-12-24">
+<name>Himawari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180745.jpg</picture>
+<seiyuu id="1614" picture="148394.jpg">Uchida Aya</seiyuu>
+</character>
+<character id="79093" type="main character in" update="2015-12-24">
+<rating votes="2">8.19</rating>
+<name>Lip</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180746.jpg</picture>
+<seiyuu id="38634" picture="144425.jpg">Hanamori Yumiri</seiyuu>
+</character>
+<character id="79096" type="main character in" update="2015-12-24">
+<name>Rose</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180744.jpg</picture>
+<seiyuu id="22169" picture="58225.jpg">Kusuda Aina</seiyuu>
+</character>
+<character id="88568" type="main character in" update="2017-04-01">
+<name>Rin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200442.jpg</picture>
+<seiyuu id="162" picture="23208.jpg">Satou Satomi</seiyuu>
+</character>
+<character id="95839" type="main character in" update="2018-07-15">
+<name>Spica</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220416.jpg</picture>
+<seiyuu id="39007" picture="148258.jpg">Ozawa Ari</seiyuu>
+</character>
+<character id="95840" type="main character in" update="2018-07-15">
+<name>Hanazono Arisu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220414.jpg</picture>
+<seiyuu id="46278" picture="232222.jpg">Iwai Emiri</seiyuu>
+</character>
+<character id="96722" type="main character in" update="2018-07-15">
+<name>Hanazono Arisu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220415.jpg</picture>
+<seiyuu id="46278" picture="232222.jpg">Iwai Emiri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="202574" update="2018-07-07">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2018-07-07</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="202575" update="2018-07-07">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2018-07-07</airdate>
+<title xml:lang="ja">友達できるかな?</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Tomodachi Dekiru ka na?</title>
+</episode>
+<episode id="202576" update="2018-07-07">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2018-07-14</airdate>
+<title xml:lang="ja">ひとまえで話せない!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hitomae de Hanasenai!</title>
+</episode>
+<episode id="202577" update="2018-07-07">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2018-07-07</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="202588" update="2018-07-07">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2018-07-28</airdate>
+<title xml:lang="ja">好きって, どんなものかしら?</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Sukitte, Donna Mono Kashira?</title>
+</episode>
+<episode id="202589" update="2018-07-07">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2018-07-21</airdate>
+<title xml:lang="ja">勉強なんてしたくない</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Benkyou Nante Shitakunai</title>
+</episode>
+<episode id="203192" update="2018-07-21">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2018-08-25</airdate>
+<title xml:lang="ja">素直になれなくて</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Sunao ni Narenakute</title>
+</episode>
+<episode id="203193" update="2018-07-21">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2018-08-18</airdate>
+<title xml:lang="ja">みんなと違うのは変なの?</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Minna to Chigau no wa Hen na no?</title>
+</episode>
+<episode id="203194" update="2018-07-21">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2018-08-11</airdate>
+<title xml:lang="ja">おしゃれになりたい!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Oshare ni Naritai!</title>
+</episode>
+<episode id="203195" update="2018-08-22">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2018-08-04</airdate>
+<title xml:lang="ja">雨の日ってたいくつ!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Ame no Hitte Taikutsu</title>
+</episode>
+<episode id="204381" update="2018-08-19">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2018-09-22</airdate>
+<title xml:lang="ja">かわいくなりたい!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kawaiku Naritai!</title>
+</episode>
+<episode id="204382" update="2018-08-19">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2018-09-15</airdate>
+<title xml:lang="ja">喧嘩しちゃった!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Kenka Shichatta!</title>
+</episode>
+<episode id="204383" update="2018-08-19">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2018-09-08</airdate>
+<title xml:lang="ja">やりたくないことがあるの!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Yaritakunai Koto ga Aru no!</title>
+</episode>
+<episode id="204384" update="2018-08-19">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2018-09-01</airdate>
+<title xml:lang="ja">泣いちゃダメ!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Naicha Dame!</title>
+</episode>
+<episode id="206575" update="2018-09-23">
+<epno type="1">13</epno>
+<length>15</length>
+<airdate>2018-09-29</airdate>
+<title xml:lang="ja">嫌いな食べ物があるの</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Kirai na Tabemono ga Aru no</title>
+</episode>
+<episode id="208382" update="2018-09-23">
+<epno type="1">14</epno>
+<length>15</length>
+<airdate>2018-10-06</airdate>
+<title xml:lang="ja">友達の恋, 応援するよ!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Tomodachi no Koi, Ouen Suru yo!</title>
+</episode>
+<episode id="208383" update="2018-09-23">
+<epno type="1">15</epno>
+<length>15</length>
+<airdate>2018-10-13</airdate>
+<title xml:lang="ja">信じて欲しいの</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Shinjite Hoshii no</title>
+</episode>
+<episode id="208384" update="2018-09-23">
+<epno type="1">16</epno>
+<length>15</length>
+<airdate>2018-10-20</airdate>
+<title xml:lang="ja">好きなことだから</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Suki na Koto Dakara</title>
+</episode>
+<episode id="209154" update="2018-10-12">
+<epno type="1">17</epno>
+<length>15</length>
+<airdate>2018-10-27</airdate>
+<title xml:lang="ja">自分を解放して</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Jibun o Kaihou Shite</title>
+</episode>
+<episode id="209155" update="2018-10-12">
+<epno type="1">18</epno>
+<length>15</length>
+<airdate>2018-11-03</airdate>
+<title xml:lang="ja">深呼吸して</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Shinkokyuu Shite</title>
+</episode>
+<episode id="209156" update="2018-10-12">
+<epno type="1">19</epno>
+<length>15</length>
+<airdate>2018-11-10</airdate>
+<title xml:lang="ja">自信を持って!</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Jishin o Motte!</title>
+</episode>
+<episode id="209157" update="2018-10-12">
+<epno type="1">20</epno>
+<length>15</length>
+<airdate>2018-11-17</airdate>
+<title xml:lang="ja">深まる絆</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Fukamaru Kizuna</title>
+</episode>
+<episode id="210014" update="2018-11-10">
+<epno type="1">21</epno>
+<length>15</length>
+<airdate>2018-11-24</airdate>
+<title xml:lang="ja">あきらめないで</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Akiramenaide</title>
+</episode>
+<episode id="210015" update="2018-11-10">
+<epno type="1">22</epno>
+<length>15</length>
+<airdate>2018-12-01</airdate>
+<title xml:lang="ja">時には立ち止まって</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Toki ni wa Tachidomatta</title>
+</episode>
+<episode id="210016" update="2018-11-10">
+<epno type="1">23</epno>
+<length>15</length>
+<airdate>2018-12-08</airdate>
+<title xml:lang="ja">きっと繋がっているから</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Kitto Tsunagatte Iru kara</title>
+</episode>
+<episode id="210017" update="2018-11-10">
+<epno type="1">24</epno>
+<length>15</length>
+<airdate>2018-12-15</airdate>
+<title xml:lang="ja">想いを込めて</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Omoi o Komete</title>
+</episode>
+<episode id="210744" update="2018-11-30">
+<epno type="1">25</epno>
+<length>15</length>
+<airdate>2018-12-22</airdate>
+<title xml:lang="ja">夢に向かって!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Yume ni Mukatte!</title>
+</episode>
+<episode id="210868" update="2018-12-07">
+<epno type="1">26</epno>
+<length>15</length>
+<airdate>2019-01-05</airdate>
+<title xml:lang="ja">願いの叶う日まで</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Negai no Kanau Hi made</title>
+</episode>
+</episodes>
+</anime>

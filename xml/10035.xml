@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10035" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2011-05-14</startdate>
+<enddate>2011-05-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ponta to Ensoku</title>
+<title xml:lang="ja" type="official">ポンタと遠足</title>
+</titles>
+<url>http://konekonoponta.com/</url>
+<ratings>
+<permanent count="1">5.02</permanent>
+<temporary count="1">4.00</temporary>
+</ratings>
+<picture>141647.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>13103</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://konekonoponta.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ポンタと遠足</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=pt9V_VWpLtk</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="59017" type="main character in" update="2013-08-19">
+<name>Ponta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141671.jpg</picture>
+<seiyuu id="32588" picture="87531.jpg">Koiwai Kotori</seiyuu>
+</character>
+<character id="59018" type="main character in" update="2013-08-19">
+<name>Kenta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141672.jpg</picture>
+<seiyuu id="38413" picture="141693.jpg">Karaki Ryousei</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="152586" update="2013-08-18">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2011-05-14</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

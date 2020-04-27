@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12989" restricted="false">
+<type>TV Series</type>
+<episodecount>5</episodecount>
+<startdate>2017-03-27</startdate>
+<enddate>2017-03-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">High&amp;Low G-sword</title>
+<title xml:lang="ja" type="official">HiGH&amp;LOW g-sword</title>
+</titles>
+<ratings>
+<permanent count="20">2.53</permanent>
+<temporary count="21">3.85</temporary>
+</ratings>
+<picture>201211.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35156</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>HiGH&amp;LOW〜THE_STORY_OF_S.W.O.R.D.〜</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360706</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="6446" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-13">
+<name>television programme</name>
+<description>Based on a live action television program, Japanese or otherwise.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="187155" update="2017-04-18">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2017-03-27</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="195006" update="2018-01-09">
+<epno type="1">5</epno>
+<length>1</length>
+<airdate>2017-03-31</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="195007" update="2018-01-09">
+<epno type="1">4</epno>
+<length>1</length>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="195008" update="2018-01-09">
+<epno type="1">3</epno>
+<length>1</length>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="195009" update="2018-01-09">
+<epno type="1">2</epno>
+<length>1</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+</episodes>
+</anime>

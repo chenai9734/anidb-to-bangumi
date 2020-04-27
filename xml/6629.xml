@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6629" restricted="false">
+<type>TV Series</type>
+<episodecount>5</episodecount>
+<startdate>2007-06-11</startdate>
+<enddate>2007-06-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Treasure Gaust</title>
+<title xml:lang="ja" type="official">トレジャーガウスト</title>
+</titles>
+<url>http://www.shopro.co.jp/oha/topics/gaust.html</url>
+<creators>
+<name id="1163" type="Animation Work">SynergySP</name>
+<name id="4372" type="Direction">Fujimoto Yoshitaka</name>
+</creators>
+<description>* Based on a game for the DS.
+Note: This series appeared in TV Tokyo`s OhaStar children`s morning variety programme.</description>
+<ratings>
+<permanent count="7">3.50</permanent>
+<temporary count="7">4.00</temporary>
+</ratings>
+<picture>28896.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8108</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20087</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4056</identifier>
+<identifier>ttcwaz</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.shopro.co.jp/oha/topics/gaust.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>327937</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>9151</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="89298" type="main character in" update="2017-05-13">
+<name>Hanto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202401.jpg</picture>
+<seiyuu id="570" picture="151691.jpg">Minagawa Junko</seiyuu>
+</character>
+<character id="89299" type="main character in" update="2017-05-13">
+<name>Gagaku Takuto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202402.jpg</picture>
+<seiyuu id="216" picture="171983.jpg">Takahashi Mikako</seiyuu>
+</character>
+<character id="89300" type="secondary cast in" update="2017-05-13">
+<name>Chaidran</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202411.jpg</picture>
+<seiyuu id="690" picture="187038.jpg">Higa Kumiko</seiyuu>
+</character>
+<character id="89301" type="secondary cast in" update="2017-05-13">
+<name>Meguri Ai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202404.jpg</picture>
+<seiyuu id="641" picture="31202.jpg">Katou Emiri</seiyuu>
+</character>
+<character id="89302" type="appears in" update="2017-05-13">
+<name>Misaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202405.jpg</picture>
+<seiyuu id="355" picture="71573.jpg">Gotou Saori</seiyuu>
+</character>
+<character id="89303" type="appears in" update="2017-05-13">
+<name>Itoo Shina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202406.jpg</picture>
+<seiyuu id="2015" picture="224313.jpg">Kouda Kaho</seiyuu>
+</character>
+<character id="89304" type="appears in" update="2017-05-13">
+<name>Gagaku Takurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202407.jpg</picture>
+<seiyuu id="15651" picture="26946.jpg">Mito Takashi</seiyuu>
+</character>
+<character id="89305" type="appears in" update="2017-05-13">
+<name>Gagaku Tamiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202408.jpg</picture>
+<seiyuu id="4656" picture="27110.jpg">Katou Yuuko</seiyuu>
+</character>
+<character id="89306" type="secondary cast in" update="2017-05-13">
+<name>Kaiservancular</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202409.jpg</picture>
+<seiyuu id="4726" picture="54694.jpg">Kawamoto Kunihiro</seiyuu>
+</character>
+<character id="89307" type="appears in" update="2017-05-13">
+<name>Shuuto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>202410.jpg</picture>
+<seiyuu id="1871" picture="20967.jpg">Asano Mayumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="104193" update="2013-02-10">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2007-06-15</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="104194" update="2013-02-10">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2007-06-14</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="104195" update="2013-02-10">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2007-06-13</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="104196" update="2013-02-10">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2007-06-12</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="104197" update="2013-02-10">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2007-06-11</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="147355" update="2013-02-10">
+<epno type="4">T2</epno>
+<length>0</length>
+<title xml:lang="en">CM 2</title>
+</episode>
+<episode id="147356" update="2013-02-10">
+<epno type="4">T1</epno>
+<length>0</length>
+<title xml:lang="en">CM 1</title>
+</episode>
+</episodes>
+</anime>

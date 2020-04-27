@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11287" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2015-10-19</startdate>
+<enddate>2017-04-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Himouto! Umaru-chan: Umaru-chan Mou Ikkai!</title>
+<title xml:lang="en" type="synonym">Himouto! Umaru-chan OVA</title>
+<title xml:lang="ja" type="official">干物妹! うまるちゃん うまるちゃん もう一回!</title>
+<title xml:lang="ko" type="official">건어물 여동생! 우마루짱 OVA</title>
+<title xml:lang="zh-Hans" type="official">干物妹！小埋 OAD</title>
+</titles>
+<relatedanime>
+<anime id="10972" type="Other">Himouto! Umaru-chan</anime>
+</relatedanime>
+<description>Note: Included with a "bundled edition" of the manga`s seventh and tenth compiled volumes.</description>
+<ratings>
+<permanent count="513">5.33</permanent>
+<temporary count="517">6.79</temporary>
+</ratings>
+<picture>174562.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30991</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3795</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358846</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="75068" type="main character in" update="2017-10-30">
+<rating votes="59">5.06</rating>
+<name>Doma Umaru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173392.jpg</picture>
+<seiyuu id="36618" picture="175524.jpg">Tanaka Aimi</seiyuu>
+</character>
+<character id="75069" type="secondary cast in" update="2017-10-30">
+<rating votes="33">8.05</rating>
+<name>Motoba Kirie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173395.jpg</picture>
+<seiyuu id="33578" picture="225440.jpg">Shiraishi Haruka</seiyuu>
+</character>
+<character id="75070" type="secondary cast in" update="2017-10-30">
+<rating votes="44">6.56</rating>
+<name>Tachibana Sylphinford</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173396.jpg</picture>
+<seiyuu id="40893" picture="223270.jpg">Furukawa Yurina</seiyuu>
+</character>
+<character id="75071" type="secondary cast in" update="2017-10-30">
+<rating votes="64">8.05</rating>
+<name>Ebina Nana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173394.jpg</picture>
+<seiyuu id="43190" picture="173204.jpg">Kageyama Akari</seiyuu>
+</character>
+<character id="75170" type="main character in" update="2017-10-30">
+<rating votes="83">5.02</rating>
+<name>Doma Umaru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173393.jpg</picture>
+<seiyuu id="36618" picture="175524.jpg">Tanaka Aimi</seiyuu>
+</character>
+<character id="75417" type="main character in" update="2017-10-30">
+<rating votes="18">7.35</rating>
+<name>Doma Taihei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173886.jpg</picture>
+<seiyuu id="196" picture="17010.jpg">Nojima Kenji</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="168989" update="2015-06-13">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-10-19</airdate>
+<rating votes="2">7.15</rating>
+<title xml:lang="ja">うまるちゃん もう1回!</title>
+<title xml:lang="en">Volume 1</title>
+<title xml:lang="x-jat">Umaru-chan Mou Ikkai!</title>
+</episode>
+<episode id="182816" update="2016-12-08">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-04-19</airdate>
+<rating votes="1">9.57</rating>
+<title xml:lang="ja">秘密のうまるちゃん</title>
+<title xml:lang="en">Volume 2</title>
+<title xml:lang="x-jat">Himitsu no Umaru-chan</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4997" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2007-03-21</startdate>
+<enddate>2007-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Oshare Majo Love and Berry: Shiawase no Mahou</title>
+<title xml:lang="ja" type="official">オシャレ魔女 ラブ and ベリー しあわせのまほう</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Must See" uid="295259">wooooo&lt;br /&gt;</recommendation>
+</recommendations>
+<url>http://www.mushi-osharemovie.com/majo.html</url>
+<creators>
+<name id="5896" type="Music">Moka</name>
+<name id="917" type="Work">TMS Entertainment</name>
+<name id="1178" type="Original Work">Sega</name>
+<name id="500" type="Direction">Mochizuki Tomomi</name>
+<name id="1731" type="Chief Animation Direction">Kadonosono Megumi</name>
+<name id="15508" type="Original Plan">Uemura Hiroshi</name>
+</creators>
+<description>* Based on an arcade collectible card game by Sega, aimed at young girls.
+Love and Berry, two princesses who posess fashion magic, are best friends. But when they`re on the dance floor, they become rivals for attention.</description>
+<ratings>
+<permanent count="19">5.01</permanent>
+<temporary count="19">6.78</temporary>
+</ratings>
+<picture>11811.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7613</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3362</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3828</identifier>
+<identifier>gkttde</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.mushi-osharemovie.com/majo.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Oshare_Majo:_Love_and_Berry</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>オシャレ魔女_ラブandベリー</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>326858</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>8837</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<characters>
+<character id="16439" type="main character in" update="2011-04-09">
+<name>Love</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Style: Cute
+Hobbies: Dancing, Window shopping
+Favorite food: Shortcake
+Favorite flower: Sunflower
+Charming features: Eyes, Cheeks</description>
+<picture>45773.jpg</picture>
+<seiyuu id="1429" picture="18686.jpg">Konno Hiromi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="71732" update="2010-04-16">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2007-03-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

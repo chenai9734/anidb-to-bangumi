@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9168" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2003-10-22</startdate>
+<enddate>2003-10-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Heart Cocktail Again</title>
+<title xml:lang="ja" type="official">ハートカクテルアゲイン</title>
+</titles>
+<relatedanime>
+<anime id="1786" type="Other">Tabako Ippon no Story: Heart Cocktail</anime>
+</relatedanime>
+<creators>
+<name id="9586" type="Original Work">Watase Seizou</name>
+<name id="2234" type="Direction">Nishikubo Mizuho</name>
+<name id="13917" type="Music">Matsuoka Naoya</name>
+<name id="51986" type="Music">Kokubu Hiroko</name>
+<name id="55003" type="Music">Terai Naoko</name>
+</creators>
+<description>An OVA produced to celebrate the 20th anniversary of http://anidb.net/cr9586 [Watase Seizou]`s Heart Cocktail manga.</description>
+<ratings>
+<permanent count="4">7.21</permanent>
+<temporary count="4">7.50</temporary>
+</ratings>
+<picture>3252.gif</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>21121</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ハートカクテル#OVA.E7.89.88</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>318701</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="139066" update="2012-04-30">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2003-10-22</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

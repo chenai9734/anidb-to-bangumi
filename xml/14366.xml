@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14366" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1971</startdate>
+<enddate>1971</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Oni Koiuta</title>
+<title xml:lang="x-jat" type="synonym">Ki Renka</title>
+<title xml:lang="ja" type="official">鬼恋歌</title>
+</titles>
+<creators>
+<name id="11077" type="Work">Hayashi Seiichi</name>
+</creators>
+<description>A short animated film by http://anidb.net/cr11077 [Hayashi Seiichi].</description>
+<ratings>
+<permanent count="9">2.34</permanent>
+<temporary count="9">3.55</temporary>
+</ratings>
+<picture>223062.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29679</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14164</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205921" update="2018-09-01">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

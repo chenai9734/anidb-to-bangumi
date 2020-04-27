@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5067" restricted="false">
+<type>OVA</type>
+<episodecount>5</episodecount>
+<startdate>2002-10-02</startdate>
+<enddate>2002-10-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hal &amp; Bons</title>
+<title xml:lang="ja" type="official">ハル&amp;ボンス</title>
+</titles>
+<relatedanime>
+<anime id="5313" type="Sequel">New Hal &amp; Bons</anime>
+</relatedanime>
+<url>http://www.grasshoppa.jp/halbon/</url>
+<creators>
+<name id="699" type="Direction">Ishii Katsuhito</name>
+<name id="51272" type="Direction">Takenaka Sadamune</name>
+</creators>
+<description>Hal&amp;Bons is a comedy series where Hal and Bons, two dogs are being interviewed by a talking rice cake but are not happy with his interviewing style and are constantly criticizing/trying to eat him.</description>
+<ratings>
+<permanent count="59">2.09</permanent>
+<temporary count="59">4.25</temporary>
+</ratings>
+<picture>12665.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7202</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3516</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.grasshoppa.jp/halbon/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ハル&amp;ボンス</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>369834</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2790" parentid="2605" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-17">
+<name>plot continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+A single linear focused plot is highly continuous.
+A truly random plot is highly discontinuous.</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2857" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+</tags>
+<characters>
+<character id="2801" type="secondary cast in" update="2009-02-01">
+<name>Hal</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18318.jpg</picture>
+<seiyuu id="699" picture="18366.jpg">Ishii Katsuhito</seiyuu>
+</character>
+<character id="2802" type="secondary cast in" update="2009-02-01">
+<name>Bons</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18319.jpg</picture>
+<seiyuu id="700" picture="18367.jpg">Todoroki Ikki</seiyuu>
+</character>
+<character id="2803" type="secondary cast in" update="2009-02-01">
+<name>Mochi-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>18320.jpg</picture>
+<seiyuu id="701" picture="18368.jpg">Miki Shun`ichirou</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="75599" update="2007-09-06">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2002-10-02</airdate>
+<title xml:lang="ja">もち君がやってきた</title>
+<title xml:lang="en">Enter Mochi the Rice Cake</title>
+<title xml:lang="x-jat">Mochi-kun ga Yattekita</title>
+</episode>
+<episode id="75600" update="2007-09-06">
+<epno type="1">2</epno>
+<length>6</length>
+<airdate>2002-10-02</airdate>
+<title xml:lang="ja">インタビューの続き</title>
+<title xml:lang="en">The interview continues...</title>
+<title xml:lang="x-jat">Interview no Tsuzuki</title>
+</episode>
+<episode id="75601" update="2007-06-21">
+<epno type="1">3</epno>
+<length>10</length>
+<airdate>2002-10-02</airdate>
+<title xml:lang="ja">共同生活が始まった</title>
+<title xml:lang="en">Life with Mochi</title>
+<title xml:lang="x-jat">Kyoudouseikatsu ga Hajimatta</title>
+</episode>
+<episode id="75602" update="2007-06-21">
+<epno type="1">4</epno>
+<length>10</length>
+<airdate>2002-10-02</airdate>
+<title xml:lang="ja">大豆の秘密</title>
+<title xml:lang="en">The Secret of the Soybeans</title>
+<title xml:lang="x-jat">Daizu no Himitsu</title>
+</episode>
+<episode id="75603" update="2011-02-13">
+<epno type="1">5</epno>
+<length>6</length>
+<airdate>2002-10-02</airdate>
+<title xml:lang="ja">おまけの回の巻</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Omake no Kai no Kan</title>
+</episode>
+</episodes>
+</anime>

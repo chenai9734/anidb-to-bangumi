@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13273" restricted="false">
+<type>Movie</type>
+<episodecount>3</episodecount>
+<startdate>2019-03-15</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Grisaia: Phantom Trigger - The Animation</title>
+<title xml:lang="x-unk" type="synonym">그리자이아: 팬텀 트리거</title>
+<title xml:lang="ja" type="official">グリザイア:ファントムトリガー THE ANIMATION</title>
+</titles>
+<relatedanime>
+<anime id="11009" type="Prequel">Grisaia no Rakuen</anime>
+</relatedanime>
+<url>http://grisaia-pt.com/gptanime/</url>
+<creators>
+<name id="3529" type="Character Design">Watanabe Akio</name>
+<name id="1368" type="Original Work">Front Wing</name>
+<name id="3529" type="Chief Animation Direction">Watanabe Akio</name>
+<name id="36345" type="Direction">Tenshou</name>
+<name id="51361" type="Animation Work">Bibury Animation Studios</name>
+<name id="36345" type="Series Composition">Tenshou</name>
+<name id="41231" type="Music">Matsumoto Fuminori</name>
+<name id="8149" type="Music">Fujima Hitoshi</name>
+</creators>
+<description>* Based on a game by http://anidb.net/cr1368 [Front Wing].
+Following the Heath Oslo incident, the existence of the US-Japanese anti-terror organization CIRS has become a matter of public knowledge. CIRS has been rebuilt from the ground up, and its most covert functions spun off to a new agency: SORD (Social Ops, Research &amp; Development).
+The goal of SORD is to train a new generation of operatives to defend the country against future threats. To that end, the organization has established a series of schools up and down the country. Mihama Academy, more-or-less left to rot after its abrupt closure, has been given new purpose as one such `specialist training school`.
+This new incarnation of Mihama Academy is home to a diverse group of students, who every day work to polish their unusual skills - sometimes on the job. Mihama now entrusts the misfit girls who attend it with guns and live ammunition. Paying their own safety no heed, these students are again and again plunged into dangerous extrajudicial missions - all for the good of the realm.
+Source: Official page</description>
+<ratings>
+<permanent count="54">5.46</permanent>
+<temporary count="58">6.60</temporary>
+</ratings>
+<picture>219436.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21126</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35868</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://grisaia-pt.com/gptanime/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>The_Fruit_of_Grisaia</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>グリザイアシリーズ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5408</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361217</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21807</identifier>
+</externalentity>
+</resource>
+<resource type="14">
+<externalentity>
+<identifier>20194</identifier>
+<identifier>v</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>grisaia_fw</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2804" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>visual novel</name>
+<description>The two terms are similar yet different, however, the fact that they look and `feel` the same outweighs the technical differences. For clarification, visual novels are considered a sub-genre of adventure games and the term does not cover simulations. While the two genres often share a common visual presentation, dating sims are sometimes considered to be more statistically based than the "choose your own adventure" style of visual novels; basically, the choices you make might change something else than just the story arc (or your next porn pic). Dating sims can involve several technical elements such as a time limit, several statistics such as looks and charm which can be boosted through exercise, or an "attraction meter" which can increase or decrease depending on one`s decisions.</description>
+</tag>
+</tags>
+<characters>
+<character id="92343" type="appears in" update="2017-11-18">
+<name>Shiritsu Mihama Gakuen</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="99979" type="main character in" update="2019-02-20">
+<rating votes="3">6.25</rating>
+<name>Chris</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67199.png</picture>
+<seiyuu id="308" picture="44975.jpg">Nazuka Kaori</seiyuu>
+</character>
+<character id="99980" type="main character in" update="2019-02-20">
+<rating votes="3">4.86</rating>
+<name>Shishigaya Touka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67198.png</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+<character id="99981" type="main character in" update="2019-02-20">
+<name>Haruto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67202.png</picture>
+<seiyuu id="586" picture="171556.jpg">Yonaga Tsubasa</seiyuu>
+</character>
+<character id="99982" type="main character in" update="2019-02-20">
+<rating votes="4">7.60</rating>
+<name>Maki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67201.png</picture>
+<seiyuu id="617" picture="65451.jpg">Nanjou Yoshino</seiyuu>
+</character>
+<character id="99983" type="main character in" update="2019-02-20">
+<rating votes="4">5.28</rating>
+<name>Murasaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67200.png</picture>
+<seiyuu id="32751" picture="157891.jpg">Tanezaki Atsumi</seiyuu>
+</character>
+<character id="99984" type="main character in" update="2019-02-20">
+<rating votes="5">7.26</rating>
+<name>Fukami Rena</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67197.png</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+<character id="99985" type="secondary cast in" update="2018-12-27">
+<rating votes="1">6.58</rating>
+<name>Sengoku Ichiru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="20501" picture="186150.jpg">Yukinari Toa</seiyuu>
+</character>
+<character id="99986" type="secondary cast in" update="2018-12-27">
+<name>Ukawa Chihiro</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="32515" picture="196887.jpg">Sudou Shou</seiyuu>
+</character>
+<character id="99987" type="secondary cast in" update="2018-12-27">
+<name>Yamamoto Izumi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="47116" picture="192226.jpg">Kitagaito Haruka</seiyuu>
+</character>
+<character id="99988" type="secondary cast in" update="2019-02-20">
+<rating votes="1">6.08</rating>
+<name>Arisaka Shiori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67203.png</picture>
+<seiyuu id="39921" picture="225566.jpg">Izawa Mikako</seiyuu>
+</character>
+<character id="99989" type="secondary cast in" update="2018-12-27">
+<rating votes="1">6.09</rating>
+<name>Inagaki Choco</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34234" picture="228806.jpg">Bridcutt Sarah Emi</seiyuu>
+</character>
+<character id="99990" type="secondary cast in" update="2018-12-27">
+<name>Inagaki Vanilla</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34234" picture="228806.jpg">Bridcutt Sarah Emi</seiyuu>
+</character>
+<character id="99991" type="secondary cast in" update="2018-12-27">
+<name>Nogami</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="77" picture="30668.jpg">Oumi Tomoe</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="213686" update="2019-05-20">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>2019-03-15</airdate>
+<rating votes="1">9.05</rating>
+<title xml:lang="ja">SORD</title>
+<title xml:lang="en">SORD</title>
+<title xml:lang="ko">소드</title>
+<title xml:lang="x-jat">SORD</title>
+</episode>
+<episode id="217170" update="2019-05-20">
+<epno type="1">2</epno>
+<length>55</length>
+<airdate>2019-03-15</airdate>
+<rating votes="1">5.19</rating>
+<title xml:lang="ja">ソウル・スピード</title>
+<title xml:lang="en">Soul Speed</title>
+<title xml:lang="ko">소울 스피드</title>
+<title xml:lang="x-jat">Soul Speed</title>
+</episode>
+<episode id="218831" update="2019-07-19">
+<epno type="1">3</epno>
+<length>0</length>
+<title xml:lang="ja">スターゲイザー</title>
+<title xml:lang="en">Stargazer</title>
+<title xml:lang="x-jat">Stargazer</title>
+</episode>
+</episodes>
+</anime>

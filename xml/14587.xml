@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14587" restricted="false">
+<type>Web</type>
+<episodecount>0</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Kidou Senshi Gundam: Tekketsu no Orphans - Urdr Hunt</title>
+<title xml:lang="ja" type="official">機動戦士ガンダム 鉄血のオルフェンズ ウルズハント</title>
+</titles>
+<relatedanime>
+<anime id="11372" type="Parent Story">Kidou Senshi Gundam: Tekketsu no Orphans</anime>
+</relatedanime>
+<url>https://g-tekketsu.ggame.jp/</url>
+<creators>
+<name id="105" type="Character Design">Chiba Michinori</name>
+<name id="32834" type="Series Composition">Kamoshida Hajime</name>
+<name id="2188" type="Direction">Nagai Tatsuyuki</name>
+<name id="3326" type="Music">Yokoyama Masaru</name>
+</creators>
+<description>Note: A spinoff anime distributed within a game app.</description>
+<picture>228803.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38982</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://g-tekketsu.ggame.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>機動戦士ガンダム_鉄血のオルフェンズ#機動戦士ガンダム_鉄血のオルフェンズ_ウルズハント</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="101410" type="appears in" update="2020-03-27">
+<name>ASW-G-35 Gundam Hajiroboshi</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>231387.jpg</picture>
+</character>
+<character id="101411" type="main character in" update="2019-03-19">
+<name>Wistario Afam</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>231388.jpg</picture>
+</character>
+<character id="101412" type="secondary cast in" update="2019-03-19">
+<name>Demunaa Kitako Junior</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>231389.jpg</picture>
+</character>
+<character id="101413" type="secondary cast in" update="2019-03-19">
+<name>Korunaru Kousa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>231390.jpg</picture>
+</character>
+<character id="101654" type="appears in" update="2019-03-28">
+<name>UGY-R38 Spinner Rodi</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>231744.jpg</picture>
+</character>
+<character id="101655" type="appears in" update="2019-03-28">
+<name>AEB-06L Hloekk Graze</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>231745.jpg</picture>
+</character>
+<character id="101656" type="appears in" update="2019-03-28">
+<name>Schwalbe Custom (Cyclase-ki)</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>231746.jpg</picture>
+</character>
+<character id="101657" type="appears in" update="2019-03-28">
+<name>Enzo</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>231747.jpg</picture>
+</character>
+<character id="101658" type="secondary cast in" update="2019-03-28">
+<name>Renji Daviss</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>231748.jpg</picture>
+</character>
+<character id="101659" type="secondary cast in" update="2019-03-28">
+<name>Cyclase Mayer</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>231749.jpg</picture>
+</character>
+</characters>
+</anime>

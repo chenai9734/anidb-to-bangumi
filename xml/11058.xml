@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11058" restricted="false">
+<type>TV Series</type>
+<episodecount>32</episodecount>
+<startdate>2015-03-31</startdate>
+<enddate>2016-02-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Omakase! Miracle Cat-dan</title>
+<title xml:lang="ja" type="synonym">おまかせマミタス</title>
+<title xml:lang="ja" type="official">おまかせ! みらくるキャット団</title>
+</titles>
+<url>http://www.miraclecatdan.com/</url>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="5273" type="Series Composition">Sonoda Hideki</name>
+<name id="3929" type="Original Plan">Nakagawa Shouko</name>
+<name id="5476" type="Direction">Hashimoto Mitsuo</name>
+</creators>
+<ratings>
+<permanent count="4">3.24</permanent>
+<temporary count="4">2.50</temporary>
+</ratings>
+<picture>170594.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16743</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>29846</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.miraclecatdan.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おまかせ!みらくるキャット団</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3721</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>351730</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18217</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="78357" type="secondary cast in" update="2015-11-18">
+<name>Shironosuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179479.jpg</picture>
+<seiyuu id="6126" picture="37816.jpg">Hamazoe Shin`ya</seiyuu>
+</character>
+<character id="78358" type="secondary cast in" update="2015-11-18">
+<name>Chobita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179491.jpg</picture>
+<seiyuu id="6918" picture="222918.jpg">Densaka Tsutomu</seiyuu>
+</character>
+<character id="78359" type="secondary cast in" update="2015-11-18">
+<name>Raijirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179484.jpg</picture>
+<seiyuu id="38447" picture="141961.jpg">Hori Tatsuya</seiyuu>
+</character>
+<character id="78360" type="secondary cast in" update="2015-11-18">
+<name>Rintarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179487.jpg</picture>
+<seiyuu id="378" picture="46436.jpg">Oota Tetsuharu</seiyuu>
+</character>
+<character id="78361" type="secondary cast in" update="2015-11-18">
+<name>Rinnosuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179489.jpg</picture>
+<seiyuu id="3199" picture="170734.jpg">Yoshida Hitomi</seiyuu>
+</character>
+<character id="78362" type="secondary cast in" update="2015-11-18">
+<name>Chocolat</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179481.jpg</picture>
+<seiyuu id="447" picture="224407.jpg">Tsunematsu Ayumi</seiyuu>
+</character>
+<character id="78363" type="secondary cast in" update="2015-11-18">
+<name>Tarin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179483.jpg</picture>
+<seiyuu id="44220" picture="179504.jpg">Momose Ayami</seiyuu>
+</character>
+<character id="78364" type="secondary cast in" update="2015-11-18">
+<name>Bruce Jackie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179501.jpg</picture>
+<seiyuu id="541" picture="26117.jpg">Chiba Shigeru</seiyuu>
+</character>
+<character id="78365" type="secondary cast in" update="2015-11-18">
+<name>Michael</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179493.jpg</picture>
+<seiyuu id="44221" picture="179505.jpg">Manjou Icchi</seiyuu>
+</character>
+<character id="78366" type="main character in" update="2015-11-18">
+<name>Mamitas</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179475.jpg</picture>
+<seiyuu id="40231" picture="156690.jpg">Morino Mako</seiyuu>
+</character>
+<character id="78367" type="secondary cast in" update="2015-11-18">
+<name>Mirukuban</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179494.jpg</picture>
+<seiyuu id="23246" picture="61476.jpg">Tajiri Hiroaki</seiyuu>
+</character>
+<character id="78368" type="secondary cast in" update="2015-11-18">
+<name>Yomiyomi Land Boss</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179503.jpg</picture>
+<seiyuu id="378" picture="46436.jpg">Oota Tetsuharu</seiyuu>
+</character>
+<character id="78369" type="secondary cast in" update="2015-11-18">
+<name>Ookawara Kawahiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179499.jpg</picture>
+<seiyuu id="33067" picture="90143.jpg">Keitarou</seiyuu>
+</character>
+<character id="78370" type="secondary cast in" update="2015-11-18">
+<name>Koyama Kensuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179500.jpg</picture>
+<seiyuu id="43497" picture="176085.jpg">Jizoudou Takehiro</seiyuu>
+</character>
+<character id="78371" type="secondary cast in" update="2015-11-18">
+<name>Umeki Jirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179502.jpg</picture>
+<seiyuu id="23246" picture="61476.jpg">Tajiri Hiroaki</seiyuu>
+</character>
+<character id="78372" type="secondary cast in" update="2015-11-18">
+<name>Shirota Etsuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179497.jpg</picture>
+<seiyuu id="447" picture="224407.jpg">Tsunematsu Ayumi</seiyuu>
+</character>
+<character id="78373" type="secondary cast in" update="2015-11-18">
+<name>Fuji Sakurako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179498.jpg</picture>
+<seiyuu id="44220" picture="179504.jpg">Momose Ayami</seiyuu>
+</character>
+<character id="78374" type="main character in" update="2015-11-18">
+<name>Akagawa Pokomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179476.jpg</picture>
+<seiyuu id="33369" picture="187996.jpg">Haruna Fuuka</seiyuu>
+</character>
+<character id="78375" type="secondary cast in" update="2015-11-18">
+<name>Akagawa Natsuhiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179477.jpg</picture>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+<character id="78376" type="secondary cast in" update="2015-11-18">
+<name>Akagawa Reiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179496.jpg</picture>
+<seiyuu id="232" picture="148706.jpg">Shitaya Noriko</seiyuu>
+</character>
+<character id="78377" type="secondary cast in" update="2015-11-18">
+<name>Shironosuke (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179478.jpg</picture>
+<seiyuu id="6126" picture="37816.jpg">Hamazoe Shin`ya</seiyuu>
+</character>
+<character id="78378" type="secondary cast in" update="2015-11-18">
+<name>Chobita (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179490.jpg</picture>
+<seiyuu id="6918" picture="222918.jpg">Densaka Tsutomu</seiyuu>
+</character>
+<character id="78379" type="secondary cast in" update="2015-11-18">
+<name>Raijirou (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179485.jpg</picture>
+<seiyuu id="38447" picture="141961.jpg">Hori Tatsuya</seiyuu>
+</character>
+<character id="78380" type="secondary cast in" update="2015-11-18">
+<name>Rintarou (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179486.jpg</picture>
+<seiyuu id="378" picture="46436.jpg">Oota Tetsuharu</seiyuu>
+</character>
+<character id="78381" type="secondary cast in" update="2015-11-18">
+<name>Rinnosuke (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179488.jpg</picture>
+<seiyuu id="3199" picture="170734.jpg">Yoshida Hitomi</seiyuu>
+</character>
+<character id="78382" type="secondary cast in" update="2015-11-18">
+<name>Chocolat (Henshin)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179480.jpg</picture>
+<seiyuu id="447" picture="224407.jpg">Tsunematsu Ayumi</seiyuu>
+</character>
+<character id="78383" type="secondary cast in" update="2015-11-18">
+<name>Tarin (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179482.jpg</picture>
+<seiyuu id="44220" picture="179504.jpg">Momose Ayami</seiyuu>
+</character>
+<character id="78384" type="secondary cast in" update="2015-11-18">
+<name>Michael (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179492.jpg</picture>
+<seiyuu id="44221" picture="179505.jpg">Manjou Icchi</seiyuu>
+</character>
+<character id="78385" type="main character in" update="2015-11-18">
+<name>Mamitas (Henshin)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179474.jpg</picture>
+<seiyuu id="40231" picture="156690.jpg">Morino Mako</seiyuu>
+</character>
+<character id="78386" type="secondary cast in" update="2015-11-18">
+<name>Mirukuban (Henshin)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179495.jpg</picture>
+<seiyuu id="23246" picture="61476.jpg">Tajiri Hiroaki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="167303" update="2015-08-25">
+<epno type="1">4</epno>
+<length>9</length>
+<airdate>2015-04-28</airdate>
+<title xml:lang="ja">わらしべ長者で生きていきたいのナー</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Warashibe Chouja de Ikite Ikitai no Naa</title>
+</episode>
+<episode id="167304" update="2015-08-25">
+<epno type="1">3</epno>
+<length>9</length>
+<airdate>2015-04-14</airdate>
+<title xml:lang="ja">そんなつもりじゃなかったのナー</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Sonna Tsumori Janakatta no Naa</title>
+</episode>
+<episode id="167305" update="2015-08-25">
+<epno type="1">2</epno>
+<length>9</length>
+<airdate>2015-04-07</airdate>
+<title xml:lang="ja">勇者は仲間を集めるのナー</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Yuusha wa Nakama o Atsumeru no Naa</title>
+</episode>
+<episode id="167306" update="2015-08-25">
+<epno type="1">1</epno>
+<length>9</length>
+<airdate>2015-03-31</airdate>
+<title xml:lang="ja">マミタス, みらくるするのナー</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Mamitas, Miracle Suru no Naa</title>
+</episode>
+<episode id="170985" update="2015-08-25">
+<epno type="1">16</epno>
+<length>9</length>
+<airdate>2015-09-15</airdate>
+<title xml:lang="ja">アルパカを捕まえるんだナー</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Alpaca o Tsukamaerunda Naa</title>
+</episode>
+<episode id="170986" update="2015-08-25">
+<epno type="1">15</epno>
+<length>9</length>
+<airdate>2015-09-08</airdate>
+<title xml:lang="ja">謎の生物に会いたいのナー</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Nazo no Seibutsu ni Aitai no Naa</title>
+</episode>
+<episode id="170987" update="2015-08-25">
+<epno type="1">14</epno>
+<length>9</length>
+<airdate>2015-09-01</airdate>
+<title xml:lang="ja">日記よ, 現実になるのナー</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Nikki yo, Genjitsu ni Naru no Naa</title>
+</episode>
+<episode id="170988" update="2015-08-25">
+<epno type="1">13</epno>
+<length>9</length>
+<airdate>2015-07-14</airdate>
+<title xml:lang="ja">新しい星をみつけるのナー</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Atarashii Hoshi o Mitsukeru no Naa</title>
+</episode>
+<episode id="170989" update="2015-08-25">
+<epno type="1">12</epno>
+<length>9</length>
+<airdate>2015-07-07</airdate>
+<title xml:lang="ja">こんな家でてってやるのナー</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Konna Iedetette Yaru no Naa</title>
+</episode>
+<episode id="170990" update="2015-08-25">
+<epno type="1">11</epno>
+<length>9</length>
+<airdate>2015-06-30</airdate>
+<title xml:lang="ja">ギガントバースデーっすナー</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Gigant Birthday Sunaa</title>
+</episode>
+<episode id="170991" update="2015-08-25">
+<epno type="1">10</epno>
+<length>9</length>
+<airdate>2015-06-16</airdate>
+<title xml:lang="ja">肩もみはタイヘンなのナー</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Katamomi wa Taihen na no Naa</title>
+</episode>
+<episode id="170992" update="2015-08-25">
+<epno type="1">9</epno>
+<length>9</length>
+<airdate>2015-06-09</airdate>
+<title xml:lang="ja">みらくる写真を撮りたいのナー</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Miracle Shashin o Toritai no Naa</title>
+</episode>
+<episode id="170993" update="2015-08-25">
+<epno type="1">8</epno>
+<length>9</length>
+<airdate>2015-06-02</airdate>
+<title xml:lang="ja">ギガント星占いなのナー</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Gigant Hoshiuranai na no Naa</title>
+</episode>
+<episode id="170994" update="2015-08-25">
+<epno type="1">7</epno>
+<length>9</length>
+<airdate>2015-05-19</airdate>
+<title xml:lang="ja">形見のねこじゃらしを探すのナー</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Katami no Neko Jarashi o Sagasu no Naa</title>
+</episode>
+<episode id="170995" update="2015-08-25">
+<epno type="1">6</epno>
+<length>9</length>
+<airdate>2015-05-12</airdate>
+<title xml:lang="ja">ポコタン, 師匠ができたスナー</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Pokotan, Shishou ga Dekita Sunaa</title>
+</episode>
+<episode id="170996" update="2015-08-25">
+<epno type="1">5</epno>
+<length>9</length>
+<airdate>2015-05-05</airdate>
+<title xml:lang="ja">ブキミな音なんてこわくないのナー</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Bukimi na Oto Nante Kowakunai no Naa</title>
+</episode>
+<episode id="172541" update="2015-11-03">
+<epno type="1">22</epno>
+<length>9</length>
+<airdate>2015-11-10</airdate>
+<title xml:lang="ja">レッツリサイクルなのナー</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Let`s Recycle na no Naa</title>
+</episode>
+<episode id="172542" update="2015-10-13">
+<epno type="1">21</epno>
+<length>9</length>
+<airdate>2015-10-27</airdate>
+<title xml:lang="ja">ヨミヨミ激レアシールをみつけるのナー</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Yomiyomi Geki Reashiru o Mitsukeru no Naa</title>
+</episode>
+<episode id="172543" update="2015-10-13">
+<epno type="1">20</epno>
+<length>9</length>
+<airdate>2015-10-20</airdate>
+<title xml:lang="ja">肉球裁判なのナー</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Nikukyuu Saiban na no Naa</title>
+</episode>
+<episode id="172544" update="2015-10-13">
+<epno type="1">19</epno>
+<length>9</length>
+<airdate>2015-10-13</airdate>
+<title xml:lang="ja">手おならしたいのナー</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Te Onara Shitai no Naa</title>
+</episode>
+<episode id="172545" update="2015-10-13">
+<epno type="1">18</epno>
+<length>9</length>
+<airdate>2015-10-06</airdate>
+<title xml:lang="ja">埋蔵金を埋めるんだナー</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Maizoukin o Umerunda Naa</title>
+</episode>
+<episode id="172546" update="2015-10-13">
+<epno type="1">17</epno>
+<length>9</length>
+<airdate>2015-09-29</airdate>
+<title xml:lang="ja">がんばれ, おにがわらパパ! なのナー</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Ganbare, Oni ga Wara Papa! Na no Naa</title>
+</episode>
+<episode id="172991" update="2015-11-03">
+<epno type="1">24</epno>
+<length>9</length>
+<airdate>2015-11-24</airdate>
+<title xml:lang="ja">一日一善なんだナー</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Ichinichiichizen Nanda Naa</title>
+</episode>
+<episode id="172992" update="2015-11-03">
+<epno type="1">23</epno>
+<length>9</length>
+<airdate>2015-11-17</airdate>
+<title xml:lang="ja">マミタス世界旅行なのナー</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Mamitas Sekai Ryokou no Naa</title>
+</episode>
+<episode id="173592" update="2015-12-01">
+<epno type="1">26</epno>
+<length>9</length>
+<airdate>2015-12-15</airdate>
+<title xml:lang="ja">ノートを返しに行く大作戦なのナー</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Mote o Kaeshi ni Iku Dai Sakusen na no Naa</title>
+</episode>
+<episode id="173593" update="2015-12-01">
+<epno type="1">25</epno>
+<length>9</length>
+<airdate>2015-12-08</airdate>
+<title xml:lang="ja">マミタス学園へようこそなのナー</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Mamitas Gakuen e Youkoso na no Naa</title>
+</episode>
+<episode id="174299" update="2016-02-02">
+<epno type="1">30</epno>
+<length>9</length>
+<airdate>2016-02-09</airdate>
+<title xml:lang="ja">師匠としろのすけがいないのナー</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Shishou to Shiro no Suke ga Inai no Naa</title>
+</episode>
+<episode id="174300" update="2016-02-02">
+<epno type="1">29</epno>
+<length>9</length>
+<airdate>2016-02-02</airdate>
+<title xml:lang="ja">すれちがいは, 友情のもとなのナー</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Surechigai wa, Yuujou no Moto na no Naa</title>
+</episode>
+<episode id="174301" update="2016-01-06">
+<epno type="1">28</epno>
+<length>9</length>
+<airdate>2016-01-19</airdate>
+<title xml:lang="ja">激走! 梅木グランプリなのナー</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Gekisou! Umeki Grand Prix na no Naa</title>
+</episode>
+<episode id="174302" update="2016-01-06">
+<epno type="1">27</epno>
+<length>9</length>
+<airdate>2016-01-12</airdate>
+<title xml:lang="ja">猫もたまにはいいのナー</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Neko mo Tamani wa Ii no Naa</title>
+</episode>
+<episode id="174875" update="2016-02-02">
+<epno type="1">32</epno>
+<length>9</length>
+<airdate>2016-02-23</airdate>
+<title xml:lang="ja">アリエナイザー, 魔法が使えないのナー</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Alienizer, Mahou ga Tsukaenai no Naa</title>
+</episode>
+<episode id="174876" update="2016-02-02">
+<epno type="1">31</epno>
+<length>9</length>
+<airdate>2016-02-16</airdate>
+<title xml:lang="ja">ファッションショーで大バトル! なのナー</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Fashion Show de Dai Battle! Na no Naa</title>
+</episode>
+</episodes>
+</anime>

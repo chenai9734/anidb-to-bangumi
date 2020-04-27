@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12815" restricted="false">
+<type>TV Series</type>
+<episodecount>6</episodecount>
+<startdate>2017-10-13</startdate>
+<enddate>2017-11-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Robomasters The Animated Series</title>
+<title xml:lang="ja" type="synonym">ロボマスターズ</title>
+<title xml:lang="x-jat" type="short">robomasters</title>
+<title xml:lang="ja" type="official">ROBOMASTERS THE ANIMATED SERIES</title>
+<title xml:lang="zh-Hans" type="official">机甲大师</title>
+</titles>
+<url>http://anime.robomasters.com/</url>
+<creators>
+<name id="49359" type="Character Design">Aoi Rei</name>
+<name id="23021" type="Series Composition">Yamashita Ken`ichi</name>
+<name id="2172" type="Direction">Yamamoto Yasutaka</name>
+<name id="4410" type="Music">Ike Yoshihiro</name>
+<name id="735" type="Animation Work">Gonzo</name>
+<name id="32298" type="Animation Work">DandeLion Animation Studio, LLC</name>
+</creators>
+<description>The story of ROBOMASTERS THE ANIMATED SERIES follows http://anidb.net/ch88468 [Dandan], a freshman university student who is determined to perfect his aerial drone without any assistance from others. A chance encounter leads Dandan to become more open-minded about his design philosophy, and soon Dandan and his new friends are gearing up to compete in the annual "ROBOMASTERS" engineering contest.
+Source: Ota-suke</description>
+<ratings>
+<permanent count="74">3.46</permanent>
+<temporary count="75">5.46</temporary>
+</ratings>
+<picture>203910.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22243</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34903</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://anime.robomasters.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ROBOMASTERS_THE_ANIMATED_SERIES</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4745</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360200</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>機甲大師</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6690" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-07-12">
+<name>Sino-Japanese co-production</name>
+</tag>
+</tags>
+<characters>
+<character id="88465" type="secondary cast in" update="2017-07-21">
+<rating votes="3">6.93</rating>
+<name>Katrina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205325.jpg</picture>
+<seiyuu id="34427" picture="128155.jpg">Aoki Ruriko</seiyuu>
+</character>
+<character id="88466" type="secondary cast in" update="2017-07-21">
+<rating votes="1">6.58</rating>
+<name>Xiao Ai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205323.jpg</picture>
+<seiyuu id="10973" picture="78574.jpg">Ookubo Rumi</seiyuu>
+</character>
+<character id="88467" type="secondary cast in" update="2017-07-21">
+<rating votes="2">8.89</rating>
+<name>Shou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205322.jpg</picture>
+<seiyuu id="34901" picture="130616.jpg">Lynn</seiyuu>
+</character>
+<character id="88468" type="main character in" update="2017-07-21">
+<name>Dandan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205320.jpg</picture>
+<seiyuu id="34784" picture="129957.jpg">Yamashita Daiki</seiyuu>
+</character>
+<character id="88469" type="main character in" update="2017-07-21">
+<rating votes="1">1.26</rating>
+<name>Tei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205321.jpg</picture>
+<seiyuu id="39792" picture="176251.jpg">Umehara Yuuichirou</seiyuu>
+</character>
+<character id="88470" type="secondary cast in" update="2017-07-21">
+<name>Mou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205324.jpg</picture>
+<seiyuu id="42164" picture="176249.jpg">Takeuchi Shunsuke</seiyuu>
+</character>
+<character id="88471" type="secondary cast in" update="2017-07-21">
+<name>Lao Wang</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205327.jpg</picture>
+<seiyuu id="39583" picture="186257.jpg">Hamano Daiki</seiyuu>
+</character>
+<character id="88472" type="secondary cast in" update="2017-07-21">
+<name>Li</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205326.jpg</picture>
+<seiyuu id="25023" picture="70106.jpg">Kimura Subaru</seiyuu>
+</character>
+<character id="88473" type="secondary cast in" update="2017-07-21">
+<name>Wang Jun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205328.jpg</picture>
+<seiyuu id="44099" picture="225101.jpg">Ochiai Fukushi</seiyuu>
+</character>
+<character id="90543" type="secondary cast in" update="2017-07-21">
+<name>Kyou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205329.jpg</picture>
+<seiyuu id="469" picture="17418.jpg">Umezu Hideyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="189674" update="2017-08-01">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-08-01</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="191484" update="2017-10-06">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-11-03</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="191485" update="2017-10-06">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-10-27</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="191486" update="2017-10-06">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-10-20</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="191487" update="2017-10-06">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-10-13</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="192284" update="2017-10-27">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-11-17</airdate>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="192285" update="2017-10-27">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-11-10</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="223420" update="2019-10-21">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

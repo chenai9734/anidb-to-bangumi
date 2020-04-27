@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5291" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1968-12-19</startdate>
+<enddate>1968-12-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hito no Kurashi no Hyakuman Nen: Mani Mani March</title>
+<title xml:lang="ja" type="synonym">ひとのくらしの百万年</title>
+<title xml:lang="ja" type="official">人のくらしの百万年 マニ・マニ・マーチ</title>
+</titles>
+<creators>
+<name id="2078" type="Music">Tomita Isao</name>
+<name id="7899" type="Direction">Yabushita Taiji</name>
+</creators>
+<ratings>
+<permanent count="1">1.35</permanent>
+<temporary count="1">2.00</temporary>
+</ratings>
+<resources>
+<resource type="3">
+<externalentity>
+<identifier>2317</identifier>
+<identifier>igpoox</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>人のくらしの百万年_マニ・マニ・マーチ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>142673</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m024</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="83455" update="2011-10-20">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

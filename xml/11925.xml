@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11925" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2016-07-07</startdate>
+<enddate>2016-09-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ozmafia!!</title>
+<title xml:lang="ja" type="synonym">オズマフィア</title>
+<title xml:lang="ja" type="official">OZMAFIA!!</title>
+<title xml:lang="en" type="official">Ozmafia!!</title>
+</titles>
+<url>http://anime.ozmafia.com/</url>
+<creators>
+<name id="42346" type="Animation Work">Creators in Pack</name>
+<name id="44910" type="Original Work">Hobibox</name>
+<name id="44708" type="Chief Direction">Hirasawa Hisayoshi</name>
+<name id="45776" type="Animation Character Design">Kuroiwa Sonoka</name>
+<name id="45776" type="Chief Animation Direction">Kuroiwa Sonoka</name>
+<name id="46465" type="Series Composition">Yuumasu</name>
+</creators>
+<description>* Based on Poni-Pachet`s game Ozmafia!!
+Having transferred into Oz Academy, Scarlet finds himself already in trouble. The three boys who save him in his time of need are named Caramia, Kyrie, and Axel.
+Source: ANN</description>
+<ratings>
+<permanent count="172">1.91</permanent>
+<temporary count="173">4.01</temporary>
+</ratings>
+<picture>221813.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18331</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33618</identifier>
+</externalentity>
+<externalentity>
+<identifier>32697</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://anime.ozmafia.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>OZMAFIA!!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4257</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356534</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19339</identifier>
+</externalentity>
+</resource>
+<resource type="14">
+<externalentity>
+<identifier>7833</identifier>
+<identifier>v</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>OZMAFIAanime</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2094" parentid="2849" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>magic</name>
+<description>Magic is the art of purportedly manipulating aspects of reality either by supernatural means or through knowledge of unknown occult laws.</description>
+<picurl>178878.jpg</picurl>
+</tag>
+<tag id="2282" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2572" parentid="2282" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-09">
+<name>ninja</name>
+<description>A ninja was a covert agent or mercenary of feudal Japan specializing in unorthodox arts of war.
+The functions of the ninja included espionage, sabotage, infiltration, and assassination, as well as open combat in certain situations.
+The ninja, using covert methods of waging war, were contrasted with the samurai, who had strict rules about honor and combat.</description>
+<picurl>244347.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2618" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>collateral damage</name>
+<description>The usually action orientated anime does not only show large amounts of combat and weapon use, but also the incidental massive destruction of property, often due to the inability of the protagonists to aim properly.
+Example: Mecha duking it out in a densely populated urban area.</description>
+</tag>
+<tag id="2619" parentid="2841" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>gunfights</name>
+<description>Fights where two or more parties are firing guns at one another.</description>
+<picurl>211280.jpg</picurl>
+</tag>
+<tag id="2628" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-31">
+<name>fictional location</name>
+<description>A fictional location is a place or world which is run by different set of rules than our common and ordinary world. This may include completely fictional worlds with no semblance of Earth, computer-generated worlds, fantasy worlds, magical worlds, parallel worlds accessible through portals, and so on. Or it may be fictional places like floating islands, dungeons or planets, which can co-exist with ordinary Earth, but are otherwise separate from it.
+A world that generally shares the characteristics of, and/or is generally indistinguishable from the real world (bar research on a "more than cursory" level), would NOT be considered a fictional world. A good example is http://anidb.net/a4521 [Code Geass]. It contains several real world nationalities, such as http://anidb.net/a4521 [China], http://anidb.net/t2672 [Japan] (now Area 11), http://anidb.net/t5091 [India], etc, along with fictional nationalities such as http://anidb.net/t2361 [Britannia]. China, Japan, and India are easily identified with a cursory look. The location is unmistakably the planet Earth, even though national borders have been redrawn.
+The fictional world should only be tagged if it plays a materially important role in the plot and setting; generally, an episodic occurrence of a fictional world should not be tagged.
+A fantasy world is a type of fictional world, part of a fictional universe. Typical worlds involve, but are not limited to: magic or magical abilities, and/or a medieval theme. Some examples include: a parallel world tenuously connected to Earth via magical portals or items; a fictional Earth-like planet in the remote past or future; or an entirely independent world set in another universe. Many fantasy worlds draw heavily on real world history, geography, and sociology, and also on folklore.</description>
+</tag>
+<tag id="2651" parentid="2853" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-01-15">
+<name>absurdist humour</name>
+<description>Surreal humour, also known as absurdist humour, is a form of humour predicated on deliberate violations of causal reasoning, producing events and behaviours that are obviously illogical. Constructions of surreal humour tend to involve bizarre juxtapositions, non-sequiturs, irrational or absurd situations, and expressions of nonsense.
+The humour arises from a subversion of audience`s expectations, so that amusement is founded on unpredictability, separate from a logical analysis of the situation. Its appeal stems from the fact that the situation described is exceedingly ridiculous or unlikely.
+On an analytical level, all jokes contain a certain amount of incongruity, but while regular jokes carry an incongruity that the audience accepts as compatible with expectations, absurd jokes are characterized by a disproportionate amount of it, with the punch line delivering a situation incompatible with the world as we know it and failing to resolve the matter in the audience`s eyes.
+Source: Wikipedia</description>
+</tag>
+<tag id="2652" parentid="2853" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super deformed</name>
+<description>A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s http://anidb.net/t4055 [face suddenly turns into a simplified version], the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).</description>
+<picurl>65692.png</picurl>
+</tag>
+<tag id="2653" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2654" parentid="2853" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-06-13">
+<name>medium awareness</name>
+<description>Medium awareness is the situational and generally temporary awareness characters in works of fiction have and display of the very fact that they are characters in works of fiction. For example, they may comment about the background music, quip about the script or narration, complain about the roles given to them by the writer or their lack of screen time, see the subtitles that appear on screen, inform the audience about the arrival of the commercial break, and even use medium effects as tools. The most common form of medium awareness is known as breaking the fourth wall, in which characters speak directly to the audience, either to it as a whole or to specific members of it. The "fourth wall" is the imaginary "wall" at the front of the stage of a proscenium theatre through which the audience sees the play; it is a metaphor for the boundary between what happens inside the work, to the characters, and outside it, to the audience.</description>
+</tag>
+<tag id="2669" parentid="2869" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school clubs</name>
+<description>Even though school clubs in Japan are not mandatory, there is some pressure from the social grid (e.g. fellow students, teachers) to participate in some kind of after-school activity, be it in sports or arts. Colleges also have clubs.
+As a comedy element in anime, some students have joined too many clubs, and are thus constantly stressed out. There is also the element of social commentary, making it clear that you have to join a club, if you want to be part of the class. Since self-founded clubs need at least 3 members, the desperate search and advertising for new members can be cause for hilarity in anime.</description>
+<picurl>210065.jpg</picurl>
+</tag>
+<tag id="2791" parentid="6230" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2011-12-25">
+<name>stereotypes</name>
+<description>This show presents stereotypes, which are generalizations about a group of people. Examples would be saying that people from a certain country or with a certain hair color are stupid. If the show deals with comedy, the stereotypes are likely to be played on for laughs; if the show is a parody, the stereotypes will be exaggerated to have their flaws exposed and may be used as a form of social commentary.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2840" parentid="2872" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>mafia</name>
+<description>A mafia is a type of organized crime syndicate whose primary activities are protection racketeering, the arbitration of disputes between criminals, and the organizing and oversight of illegal agreements and transactions. Secondary activities may be practiced such as gambling, drug trafficking, loan sharking, and fraud. The term was originally applied to the Sicilian mafia, but has since expanded to encompass other organizations of similar methods and purpose, such as in "the Russian mafia" or "the Japanese mafia", and is applied informally by the press and public, but the criminal organizations themselves have their own terms; for example, the original Sicilian and Italian-American mafia call themselves "cosa nostra", while the Japanese mafia calls itself "yakuza".
+Source: Wikipedia</description>
+<picurl>211289.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2844" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>angst</name>
+<description>A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.
+Warning: may contain copious amounts of brooding and sighing.
+Etymology: "Angst" is a German word meaning fear or anxiety.</description>
+<picurl>212183.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2862" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>friendship</name>
+<description>The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.</description>
+<picurl>65691.png</picurl>
+</tag>
+<tag id="2869" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2872" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="3040" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>male protagonist</name>
+<description>This anime has a male protagonist.</description>
+</tag>
+<tag id="3831" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-13">
+<name>training</name>
+<description>Training is extensive, serious practising a person undergoes in order to develop skills and abilities, such as handling weapons, playing instruments, playing sports, and so on.</description>
+</tag>
+<tag id="4570" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2020-01-07">
+<name>watercolour style</name>
+<description>A watercolour or aquarelle is a painting method in which the paints are made of pigments suspended in a water-based solution. Some anime are created in the style of watercolour paintings, the watercolour style, usually with faded pastels that often give the show a warm and friendly visual presentation. In modern anime, this is generally achieved via computer effects that create an imitation of watercolour, rather than by creating real-life watercolour art. While the watercolour style is more commonly used for backgrounds, it is possible to create the entire anime in such a style.</description>
+</tag>
+<tag id="4588" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-20">
+<name>fast-paced</name>
+<description>Hold onto your hats, this anime`s storyline is relentless.
+The characters don`t get time to take a breath as events keep both them and the viewer on a roller coaster ride of revelation and excitement!
+Hopefully it all makes sense...</description>
+</tag>
+<tag id="5515" parentid="6233" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-06-01">
+<name>faceless background characters</name>
+<description>Unimportant random/extra characters that appear mostly as part of the background are often drawn without much facial details, normally to save money, effort and manpower for more important parts of the show. Sometimes, they have almost or no facial details, meaning their heads only have indications of the presence of parts such as hair or mouth, or not even that. This can go as far as only drawing an abstracted silhouette of the whole body.</description>
+<picurl>233515.jpg</picurl>
+</tag>
+<tag id="5543" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-05-13">
+<name>magic school</name>
+<description>A school where magic is taught.</description>
+</tag>
+<tag id="5697" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-02">
+<name>randomness</name>
+<description>The anime does not follow a predictable storyline. New, strange, obscure, or otherwise unexpected story elements are introduced at a whim.</description>
+</tag>
+<tag id="5823" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-01">
+<name>predominantly male cast</name>
+<description>The anime features a mostly male cast, i.e. female characters are rare.
+Example: Reverse harem setting with a plethora of bishounen.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="5862" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-11-08">
+<name>melodrama</name>
+<description>A melodrama is a dramatic work that exaggerates plot and characters in order to appeal to the emotions, often with strongly stereotyped characters. Language, behaviour, or events which resemble melodramas are also called melodramatic. In scholarly and historical musical contexts melodramas are dramas of the 18th and 19th centuries in which orchestral music or song was used to accompany the action.
+Melodrama is a style of drama that has been applied on the stage, in movies and television, and radio formats, from the 18th century to the present. Because of the long timeframe in which the style has existed, it is difficult to derive a precise definition. The term melodrama is most often used pejoratively, to suggest that the work to which the term is applied lacks sophistication or subtlety.
+The term originated from the early 19th-century French word mélodrame, which is derived from Greek melos, music, and French drame, drama (from Late Latin drāma, which in turn derives from Greek drān, to do, perform).
+Source: wiki</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6233" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-11">
+<name>tropes</name>
+<description>A trope is a commonly recurring literary and rhetorical devices, motifs or clichés in creative works. This use is a broader redefining of a literary trope, the use of figurative language, via word, phrase, or even an image, for artistic effect, such as using a figure of speech.
+Source: Wikipedia</description>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+<tag id="6893" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-06-24">
+<name>The Wizard of Oz</name>
+<description>The Wonderful Wizard of Oz is an American children`s novel written by author http://anidb.net/cr10265 [L. Frank Baum] and illustrated by W. W. Denslow, originally published by the George M. Hill Company in Chicago on May 17, 1900. It has since been reprinted on numerous occasions, most often under the title The Wizard of Oz, which is the title of the popular 1902 Broadway musical as well as the iconic 1939 musical film adaptation.
+The story chronicles the adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone. The novel is one of the best-known stories in American literature and has been widely translated. The Library of Congress has declared it "America`s greatest and best-loved homegrown fairytale". Its groundbreaking success and the success of the Broadway musical adapted from the novel led Baum to write thirteen additional Oz books that serve as official sequels to the first story.
+Source: Wikipedia</description>
+<picurl>204157.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+<tag id="7345" parentid="2613" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-05-31">
+<name>nurse office</name>
+</tag>
+</tags>
+<characters>
+<character id="81956" type="main character in" update="2016-11-04">
+<name>Axel</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194047.jpg</picture>
+<seiyuu id="4928" picture="143371.jpg">Kakehashi Atsushi</seiyuu>
+</character>
+<character id="81957" type="main character in" update="2016-11-04">
+<name>Caramia</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194045.jpg</picture>
+<seiyuu id="2802" picture="176252.jpg">Shingaki Tarusuke</seiyuu>
+</character>
+<character id="81958" type="main character in" update="2016-11-04">
+<name>Kyrie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194046.jpg</picture>
+<seiyuu id="1692" picture="224934.jpg">Okitsu Kazuyuki</seiyuu>
+</character>
+<character id="81959" type="main character in" update="2016-11-04">
+<name>Scarlet</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194048.jpg</picture>
+<seiyuu id="71" picture="171537.jpg">Ichiki Mitsuhiro</seiyuu>
+</character>
+<character id="82458" type="secondary cast in" update="2016-11-04">
+<name>Caesar</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194049.jpg</picture>
+<seiyuu id="45579" picture="211758.jpg">Kirimoto Takuya</seiyuu>
+</character>
+<character id="82459" type="secondary cast in" update="2016-11-04">
+<name>Sou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194050.jpg</picture>
+<seiyuu id="12623" picture="151646.jpg">Iguchi Yuuichi</seiyuu>
+</character>
+<character id="82460" type="appears in" update="2016-11-04">
+<name>Heidi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194052.jpg</picture>
+<seiyuu id="12637" picture="130507.jpg">Takahashi Hidenori</seiyuu>
+</character>
+<character id="82461" type="secondary cast in" update="2016-11-04">
+<name>Bercy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194051.jpg</picture>
+<seiyuu id="41758" picture="185215.jpg">Minegishi Kei</seiyuu>
+</character>
+<character id="83272" type="secondary cast in" update="2016-11-04">
+<name>Gretel</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194054.jpg</picture>
+<seiyuu id="46439" picture="189115.jpg">Nozuki Masami</seiyuu>
+</character>
+<character id="83273" type="appears in" update="2016-11-04">
+<name>Hameln</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194056.jpg</picture>
+<seiyuu id="3155" picture="24137.jpg">Ono Yuuki</seiyuu>
+</character>
+<character id="83274" type="appears in" update="2016-11-04">
+<name>Pashet</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194057.jpg</picture>
+<seiyuu id="32482" picture="92106.jpg">Fujii Kyouko</seiyuu>
+</character>
+<character id="83275" type="appears in" update="2016-11-04">
+<name>Hansel</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194053.jpg</picture>
+<seiyuu id="33512" picture="225800.jpg">Enoki Jun`ya</seiyuu>
+</character>
+<character id="83276" type="appears in" update="2016-11-04">
+<name>Judie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194059.jpg</picture>
+<seiyuu id="34777" picture="129965.jpg">Takahashi Makoto</seiyuu>
+</character>
+<character id="84675" type="appears in" update="2016-11-04">
+<name>Alfani</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194063.jpg</picture>
+<seiyuu id="34546" picture="128710.jpg">Yamaguchi Kazuya</seiyuu>
+</character>
+<character id="84676" type="appears in" update="2016-11-04">
+<name>Ande</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194064.jpg</picture>
+<seiyuu id="46900" picture="239707.jpg">Uchiyama Yuki</seiyuu>
+</character>
+<character id="84677" type="appears in" update="2016-11-04">
+<name>Dorian Gray</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194062.jpg</picture>
+<seiyuu id="33483" picture="204957.jpg">Honda Hiroyuki</seiyuu>
+</character>
+<character id="84678" type="appears in" update="2016-11-04">
+<name>Manboy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194061.jpg</picture>
+<seiyuu id="29851" picture="139189.jpg">Awazu Takatsugu</seiyuu>
+</character>
+<character id="84679" type="appears in" update="2016-11-04">
+<name>Robin Hood</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194060.jpg</picture>
+<seiyuu id="46901" picture="191170.jpg">Fujinami Satoru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="178419" update="2016-11-21">
+<epno type="1">4</epno>
+<length>4</length>
+<airdate>2016-07-28</airdate>
+<title xml:lang="ja">食堂</title>
+<title xml:lang="en">The Cafeteria</title>
+<title xml:lang="fr">La cantine</title>
+<title xml:lang="x-jat">Shokudou</title>
+<summary>Scarlet forgets his lunch and decides to buy lunch at the cafeteria. 
+There, he meets a larger-than-life cafeteria lady. She tells Scarlet to call her "Big sister."
+Scarlet finds a vacant seat by the window, but someone was already at that table...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715477</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="178420" update="2016-11-21">
+<epno type="1">3</epno>
+<length>4</length>
+<airdate>2016-07-21</airdate>
+<title xml:lang="ja">補習部</title>
+<title xml:lang="en">Remedial Club</title>
+<title xml:lang="fr">Le club de rattrapage</title>
+<title xml:lang="x-jat">Hoshuu Bu</title>
+<summary>As Scarlet gets ready for Kyrie’s club, his classmate Bercy starts talking to him. Scarlet admits he didn’t recognize Bercy and feels guilty. When Scarlet arrives in the teacher’s office, Kyrie tells him to sit on Axel’s chair...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715475</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="178421" update="2016-11-21">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2016-07-14</airdate>
+<title xml:lang="ja">救済</title>
+<title xml:lang="en">Remedy</title>
+<title xml:lang="fr">Mon sauveur</title>
+<title xml:lang="x-jat">Kyuusai</title>
+<summary>Concerned about the difficult classes, Scarlet tries to consult with Caramia. But before he can ask, Kyrie comes to confront Caramia. 
+Kyrie suggests Scarlet to join his club if he wants to raise his grades.  
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715473</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="178422" update="2016-11-21">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2016-07-07</airdate>
+<title xml:lang="ja">ようこそオズ学園へ</title>
+<title xml:lang="en">Welcome to Oz Academy</title>
+<title xml:lang="fr">Bienvenue à l’Académie Oz</title>
+<title xml:lang="x-jat">Youkoso Oz Gakuen e</title>
+<summary>Today is the 1st day of Oz School for Scarlet. 
+Worried about his new environment, Scarlet gets lost in the forest while walking towards the school. Fortunately, he finds someone and tries to ask him for direction, but the guy takes out two swords?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715471</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="178624" update="2016-07-08">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>2016-07-07</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="179053" update="2016-11-21">
+<epno type="1">8</epno>
+<length>4</length>
+<airdate>2016-08-25</airdate>
+<title xml:lang="ja">生徒会長</title>
+<title xml:lang="en">The Class President</title>
+<title xml:lang="fr">La présidente des élèves</title>
+<title xml:lang="x-jat">Seitokaichou</title>
+<summary>While walking down the hallway, Scarlet is called by the class president, Pashet. She demands a report regarding the gardening club which Scarlet has no clue. Scarlet sees Kyrie walking by and calls him to clear things out, but Kyrie looks annoyed for some reason...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715485</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179054" update="2016-11-21">
+<epno type="1">7</epno>
+<length>4</length>
+<airdate>2016-08-18</airdate>
+<title xml:lang="ja">ドーナツ</title>
+<title xml:lang="en">Donuts</title>
+<title xml:lang="fr">Donuts</title>
+<title xml:lang="x-jat">Donuts</title>
+<summary>Scarlet visits the nurse’s office to check on his teachers only to find... a lion? 
+While trying to figure out where Caramia is, a scarecrow and a tin-man appear to make the matter more confusing. As the masked man, Robin Hood, explains about the teacher’s special powers, Hameln walks in...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715483</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179055" update="2016-11-21">
+<epno type="1">6</epno>
+<length>4</length>
+<airdate>2016-08-11</airdate>
+<title xml:lang="ja">襲撃</title>
+<title xml:lang="en">Attack</title>
+<title xml:lang="fr">Attaque ennemie</title>
+<title xml:lang="x-jat">Shuugeki</title>
+<summary>Caramia, Kyrie, and Axel are preparing for the attack by the Grimm Academy, but somehow, Scarlet is involved as well. 
+Kyrie hands Scarlet a sniper rifle and tells him to participate in the battle. 
+As Scarlet tells Kyrie he’s never even seen a gun before, the students of the Grimm Academy, Hansel and Gretel appears...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715481</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179056" update="2016-11-21">
+<epno type="1">5</epno>
+<length>4</length>
+<airdate>2016-08-04</airdate>
+<title xml:lang="ja">手紙</title>
+<title xml:lang="en">The Letter</title>
+<title xml:lang="fr">La lettre</title>
+<title xml:lang="x-jat">Tegami</title>
+<summary>Scarlet and Bercy are walking to school when they bump into Judie. He’s been dumped by a girl again, but he feels he will succeed in getting a girlfriend soon. Scarlet wonders if he himself will ever have a girlfriend when a mysterious girl appears with a letter and a gift...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715479</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179746" update="2016-11-21">
+<epno type="1">12</epno>
+<length>4</length>
+<airdate>2016-09-22</airdate>
+<title xml:lang="ja">稲穂色</title>
+<title xml:lang="en">The Color Of Ripe Golden Grains</title>
+<title xml:lang="fr">Doré comme le blé</title>
+<title xml:lang="x-jat">Inaho-iro</title>
+<summary>Kyrie talks about his past to Caramia and Scarlet, but once he’s finished, he tells them it was all a lie. Axel emerges to see Caramia on the ground and Kyrie holding a water gun. Kyrie has doused Caramia, fully knowing he hates water...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715493</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179747" update="2016-11-21">
+<epno type="1">11</epno>
+<length>4</length>
+<airdate>2016-09-15</airdate>
+<title xml:lang="ja">代理</title>
+<title xml:lang="en">Substitute</title>
+<title xml:lang="fr">Le remplaçant</title>
+<title xml:lang="x-jat">Dairi</title>
+<summary>Caramia substitutes for Kyrie and helps Scarlet study for his exam.
+On the way home, they are greeted by Caesar. 
+Caramia points out Scarlet has changed and isn’t afraid of Caesar anymore.   
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715491</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179748" update="2016-11-21">
+<epno type="1">10</epno>
+<length>4</length>
+<airdate>2016-09-08</airdate>
+<title xml:lang="ja">危険物</title>
+<title xml:lang="en">Hazardous Materials</title>
+<title xml:lang="fr">Danger</title>
+<title xml:lang="x-jat">Kikenbutsu</title>
+<summary>Scarlet is forced to make a promise with Axel about not telling the other students about his sweet tooth. As Scarlet reassures Axel he won’t tell a soul, Ande interrupts them. 
+Ande threatens them to buy box of matches or else she’ll spread rumors about their secret conversation...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715489</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179749" update="2016-11-21">
+<epno type="1">9</epno>
+<length>4</length>
+<airdate>2016-09-01</airdate>
+<title xml:lang="ja">校外学習</title>
+<title xml:lang="en">Field Trip</title>
+<title xml:lang="fr">Sortie scolaire</title>
+<title xml:lang="x-jat">Kougai Gakushuu</title>
+<summary>Scarlet is out in town for a field trip and wanders around to see where he can pass the time. A boy named Alfani drags him to a butler café saying it’s a perfect place to pass the time. A man named Dorian Gray tries to force Scarlet in the café, but So, the headmaster of Oz Academy, interferes...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>715487</identifier>
+<identifier>ozmafia</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="183851" update="2017-01-20">
+<epno type="2">S1</epno>
+<length>0</length>
+<airdate>2016-10-28</airdate>
+<title xml:lang="en">Special</title>
+</episode>
+</episodes>
+</anime>

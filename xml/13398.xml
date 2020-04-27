@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13398" restricted="false">
+<type>TV Series</type>
+<episodecount>3</episodecount>
+<startdate>2017-10-06</startdate>
+<enddate>2017-12-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fireball Humorous</title>
+<title xml:lang="ja" type="official">ファイアボール ユーモラス</title>
+<title xml:lang="zh-Hans" type="official">火球 幽默之章</title>
+</titles>
+<relatedanime>
+<anime id="8051" type="Prequel">Fireball Charming</anime>
+</relatedanime>
+<url>http://dlife.disney.co.jp/special/5th_fireball.html</url>
+<creators>
+<name id="7035" type="Character Design">Yanase Takayuki</name>
+<name id="27235" type="Direction">Arakawa Wataru</name>
+</creators>
+<ratings>
+<permanent count="75">4.41</permanent>
+<temporary count="75">5.31</temporary>
+</ratings>
+<picture>206500.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>36166</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dlife.disney.co.jp/special/5th_fireball.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Fireball_(anime)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ファイアボール_(アニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4723</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361622</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>disneyfireball</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="6462" type="main character in" update="2009-04-26">
+<rating votes="16">6.84</rating>
+<name>Drossel</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>23957.jpg</picture>
+<seiyuu id="624" picture="25821.jpg">Kawashou Miyuki</seiyuu>
+</character>
+<character id="6463" type="main character in" update="2012-05-23">
+<rating votes="5">4.69</rating>
+<name>Gedachtnis</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Drossel family`s servant and guardian. Gedächtnis means "memory" in German.</description>
+<picture>23953.jpg</picture>
+<seiyuu id="382" picture="228600.jpg">Ookawa Tooru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="191133" update="2017-10-23">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2017-10-06</airdate>
+<title xml:lang="ja">きたるべき世界</title>
+<title xml:lang="en">The World to Come</title>
+<title xml:lang="x-jat">Kitarubeki Sekai</title>
+</episode>
+<episode id="192156" update="2017-10-22">
+<epno type="1">2</epno>
+<length>3</length>
+<airdate>2017-11-10</airdate>
+<rating votes="1">6.96</rating>
+<title xml:lang="ja">黄金のこころ</title>
+<title xml:lang="en">Golden Heart</title>
+<title xml:lang="x-jat">Ougon no Kokoro</title>
+</episode>
+<episode id="193433" update="2017-11-24">
+<epno type="1">3</epno>
+<length>3</length>
+<airdate>2017-12-08</airdate>
+<rating votes="1">7.80</rating>
+<title xml:lang="ja">ハイペリオン交点</title>
+<title xml:lang="en">The Hyperion Intersection</title>
+<title xml:lang="x-jat">Hyperion Kouten</title>
+</episode>
+<episode id="194129" update="2017-12-22">
+<epno type="4">T3</epno>
+<length>1</length>
+<title xml:lang="en">PV 3</title>
+</episode>
+<episode id="194130" update="2017-12-22">
+<epno type="4">T2</epno>
+<length>1</length>
+<title xml:lang="en">PV 2</title>
+</episode>
+<episode id="194131" update="2017-12-22">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">PV 1</title>
+</episode>
+</episodes>
+</anime>

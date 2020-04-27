@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12559" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-12-17</startdate>
+<enddate>2016-12-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Snack World: Hitogirai no Renny</title>
+<title xml:lang="ja" type="official">The SNACK WORLD 人嫌いのレニー</title>
+</titles>
+<relatedanime>
+<anime id="11180" type="Other">The Snack World</anime>
+</relatedanime>
+<url>http://www.snack-world.jp/</url>
+<creators>
+<name id="20169" type="Character Design">Nagano Takuzou</name>
+<name id="8394" type="Original Work">Level-5</name>
+<name id="10390" type="Original Plan">Hino Akihiro</name>
+<name id="41510" type="Direction">Sakakibara Motonori</name>
+<name id="10390" type="Chief Direction">Hino Akihiro</name>
+<name id="24058" type="Music">Kondou Rei</name>
+</creators>
+<description>Note: A short film of http://anidb.net/cr8394 [Level-5]`s The Snack World cross-media project played alongside the 3rd http://anidb.net/a11816 [Youkai Watch] film.</description>
+<ratings>
+<permanent count="2">2.61</permanent>
+<temporary count="2">4.00</temporary>
+</ratings>
+<picture>194991.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34416</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.snack-world.jp/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358872</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="78721" type="main character in" update="2015-12-01">
+<name>Chap</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180054.jpg</picture>
+<seiyuu id="27977" picture="76416.jpg">Han Megumi</seiyuu>
+</character>
+<character id="86330" type="main character in" update="2016-11-22">
+<name>Renny</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194992.jpg</picture>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="182507" update="2016-11-22">
+<epno type="1">1</epno>
+<length>9</length>
+<airdate>2016-12-17</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

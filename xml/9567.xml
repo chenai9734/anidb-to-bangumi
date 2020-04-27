@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9567" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2013-02-23</startdate>
+<enddate>2013-02-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari</title>
+<title xml:lang="ja" type="official">明日の希望 悲しみよありがとう 高江常男物語</title>
+</titles>
+<url>http://www.gendaipro.com/kibou/</url>
+<creators>
+<name id="3470" type="Character Design">Hirayama Satoshi</name>
+<name id="28338" type="Direction">Yamada Hisako</name>
+<name id="33990" type="Music">Ishikawa Takahiko</name>
+</creators>
+<description>At the age of seventeen, Takae Tsuneo loses sight in his right eye and is forced to have both his arms amputated after touching electric lines during a construction accident. However, he decides to devote his life to poetry and literature, and begins to practice writing by holding a pen with his mouth. He eventually gets a job as a newspaper reporter and turns his attention to other people dealing with disabilities as he helps establishing a place for them in Akabira City, Hokkaido.
+Source: Japanese Film Database</description>
+<ratings>
+<permanent count="1">4.68</permanent>
+<temporary count="1">4.00</temporary>
+</ratings>
+<picture>129417.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15165</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23031</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gendaipro.com/kibou/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>344569</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="145937" update="2013-03-01">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>2013-02-23</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

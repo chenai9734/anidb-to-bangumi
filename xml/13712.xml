@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13712" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-08-11</startdate>
+<enddate>2017-08-11</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Xing You Ji: Fengbao Fa Mi La</title>
+<title xml:lang="x-zht" type="synonym">Xing You Ji Zhi Fengbao Fa Mi La</title>
+<title xml:lang="zh-Hans" type="official">星游记之风暴法米拉</title>
+</titles>
+<ratings>
+<permanent count="2">3.29</permanent>
+<temporary count="2">2.00</temporary>
+</ratings>
+<picture>211622.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37149</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="198583" update="2018-04-27">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>2017-08-11</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

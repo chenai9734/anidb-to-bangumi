@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6810" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1988-10-05</startdate>
+<enddate>1988-10-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chalk-iro no People</title>
+<title xml:lang="en" type="synonym">Chalk-Colored People</title>
+<title xml:lang="ja" type="official">チョーク色のピープル</title>
+</titles>
+<creators>
+<name id="9586" type="Original Work">Watase Seizou</name>
+<name id="50744" type="Music">Astrud Gilberto</name>
+<name id="5770" type="Music">Ogasawara Kan</name>
+<name id="13743" type="Music">Shima Ken</name>
+</creators>
+<description>* Based on a manga by http://anidb.net/cr9586 [Watase Seizou].</description>
+<ratings>
+<permanent count="1">7.50</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>210097.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18059</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>18071</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235787</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4708</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108571" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1988-10-05</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

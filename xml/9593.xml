@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9593" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1978</startdate>
+<enddate>1978</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">77 Danui Bimil</title>
+<title xml:lang="en" type="synonym">77 Group`s Secret</title>
+<title xml:lang="ko" type="official">77단의 비밀</title>
+</titles>
+<url>http://www.kmdb.or.kr/movie/md_basic.asp?nation=K&amp;p_dataid=08134</url>
+<description>A young man is looking for his kidnapped family.</description>
+<ratings>
+<permanent count="19">2.26</permanent>
+<temporary count="19">3.55</temporary>
+</ratings>
+<picture>129925.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>16812</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.kmdb.or.kr/movie/md_basic.asp?nation=K&amp;p_dataid=08134</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="146219" update="2012-12-28">
+<epno type="1">1</epno>
+<length>70</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

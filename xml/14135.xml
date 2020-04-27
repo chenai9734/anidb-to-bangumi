@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14135" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2018-12-31</startdate>
+<enddate>2018-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tantei Opera Milky Holmes: Psycho no Aisatsu</title>
+<title xml:lang="ja" type="official">探偵オペラ ミルキィホームズ サイコの挨拶</title>
+<title xml:lang="zh-Hans" type="official">侦探歌剧 少女福尔摩斯 心灵的问候</title>
+</titles>
+<relatedanime>
+<anime id="7627" type="Parent Story">Tantei Opera Milky Holmes</anime>
+</relatedanime>
+<url>http://milky-holmes.com/</url>
+<ratings>
+<permanent count="17">4.47</permanent>
+<temporary count="17">5.67</temporary>
+</ratings>
+<picture>226168.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22320</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38540</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Tantei_Opera_Milky_Holmes</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366222</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21558</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="201361" update="2018-06-11">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2018-12-31</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9793" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2013-06-22</startdate>
+<enddate>2013-06-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Glass no Kamen Desu ga the Movie: Onna Spy no Koi! Murasaki no Bara wa Kiken na Kaori!?</title>
+<title xml:lang="en" type="synonym">It`s Glass Mask But... the Movie: Female Spy`s Love! The Purple Rose Has a Dangerous Scent!?</title>
+<title xml:lang="ja" type="official">ガラスの仮面ですが THE MOVIE 女スパイの恋! 紫のバラは危険な香り!?</title>
+</titles>
+<relatedanime>
+<anime id="9727" type="Other">Glass no Kamen Desu ga</anime>
+</relatedanime>
+<url>http://www.hakusensha.co.jp/glass/index.html</url>
+<creators>
+<name id="27210" type="Direction">Tani Azuma</name>
+<name id="12416" type="Animation Work">DLE</name>
+<name id="54199" type="Music">Karasuda Haruna</name>
+<name id="56604" type="Music">Katou Hisaki</name>
+<name id="1017" type="Original Work">Miuchi Suzue</name>
+</creators>
+<ratings>
+<permanent count="22">4.07</permanent>
+<temporary count="22">5.40</temporary>
+</ratings>
+<picture>134295.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15216</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>18109</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.hakusensha.co.jp/glass/index.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>345655</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16239</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="148613" update="2015-11-15">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>2013-06-22</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

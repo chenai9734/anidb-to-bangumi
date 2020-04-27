@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3330" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2004-12-01</startdate>
+<enddate>2004-12-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ham-chanz no Mezase! Ham-Ham Kin Medal: Hashire! Hashire! Daisakusen!</title>
+<title xml:lang="en" type="synonym">Ham-Ham Games</title>
+<title xml:lang="x-jat" type="synonym">Tottoko Hamtarou OVA 4</title>
+<title xml:lang="ja" type="official">ハムちゃんずのめざせ! ハムハム金メダル ~はしれ! はしれ! だいさくせん~</title>
+</titles>
+<relatedanime>
+<anime id="3329" type="Prequel">Ham-chanz to Niji no Kuni no Ouji-sama: Sekai de Ichiban no Takaramono</anime>
+</relatedanime>
+<creators>
+<name id="734" type="Animation Production">Shogakukan Productions</name>
+<name id="1966" type="Direction">Nabeshima Osamu</name>
+<name id="5765" type="Music">Iwasaki Motoyoshi</name>
+<name id="5771" type="Original Work">Kawai Ritsuko</name>
+</creators>
+<description>Considered the prequel to the fourth Hamtaro game (fifth in Japan). In this tribute to the 2004 Olympics, Hamtaro and the Ham-Hams are tasked by Prince Bo with lighting the everlasting torch to Hamcropolis. However, the Rainbow Girls will not allow this and pursue the Ham-Hams.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="25">2.82</permanent>
+<temporary count="25">4.88</temporary>
+</ratings>
+<picture>126588.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5156</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8966</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>321408</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="30732" type="main character in" update="2011-04-03">
+<rating votes="22">8.82</rating>
+<name>Hamtarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Owned by Haruna, Hamtarou is a courageous Ham-Ham who`s always ready to help out his friends and his owner Haruna. However, he cannot stand being ignored by Haruna. He is clueless about many things being that he is of an innocent nature, especially love (much to Bijou`s dismay). Hamtarou makes the most of his life as a small hamster and lives each day in happiness hoping to make more friends and have fun. In the original anime, Hamtarou ends his sentences with `na no da`, a phrase often used by playful characters.</description>
+<picture>68976.jpg</picture>
+<seiyuu id="2766" picture="181834.jpg">Mamiya Kurumi</seiyuu>
+</character>
+<character id="30735" type="main character in" update="2011-04-03">
+<name>Ribon-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68977.jpg</picture>
+<seiyuu id="1983" picture="151694.jpg">Murai Kazusa</seiyuu>
+</character>
+<character id="30747" type="main character in" update="2011-05-16">
+<name>Haruna Hiroko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>4150.gif</picture>
+<seiyuu id="394" picture="17239.jpg">Ikezawa Haruna</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="53687" update="2010-04-18">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>2004-12-01</airdate>
+<rating votes="1">1.06</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

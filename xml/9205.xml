@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9205" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1994-07-21</startdate>
+<enddate>1994-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Junkers Come Here: Memories of You</title>
+<title xml:lang="ja" type="official">ユンカース・カム・ヒア ~メモリーズ・オブ・ユー~</title>
+</titles>
+<relatedanime>
+<anime id="1325" type="Other">Junkers Come Here</anime>
+</relatedanime>
+<creators>
+<name id="789" type="Animation Work">Triangle Staff</name>
+<name id="2866" type="Character Design">Maeda Minoru</name>
+<name id="6278" type="Original Work">Kine Naoto</name>
+<name id="3611" type="Direction">Satou Jun`ichi</name>
+</creators>
+<ratings>
+<permanent count="11">3.23</permanent>
+<temporary count="12">5.41</temporary>
+</ratings>
+<picture>87257.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19627</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ユンカース・カム・ヒア#OVA.E7.89.88</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235905</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3392</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="139517" update="2012-05-11">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1994-07-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12728" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-08-25</startdate>
+<enddate>2017-08-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni</title>
+<title xml:lang="ja" type="official">ふうせんいぬティニー なんだかふしぎな きょうりゅうのくに</title>
+</titles>
+<relatedanime>
+<anime id="11614" type="Same Setting">Fuusen Inu Tinny 2</anime>
+</relatedanime>
+<url>http://jackie-tinny-movie.com/</url>
+<creators>
+<name id="46540" type="Work">Craftar</name>
+<name id="43955" type="Original Work">Sano Kenjirou</name>
+<name id="25998" type="Original Work">Kawamura Genki</name>
+<name id="43956" type="Direction">Inaba Daiki</name>
+</creators>
+<description>Note: Screened as a double feature with http://anidb.net/a12727 [Eiga Kuma no Gakkou: Patissier Jackie to Ohisama no Sweets].</description>
+<picture>234340.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23056</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34756</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://jackie-tinny-movie.com/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5183</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359383</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="183661" update="2019-04-18">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2017-08-25</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="214947" update="2019-04-10">
+<epno type="2">S1</epno>
+<length>5</length>
+<airdate>2017-08-25</airdate>
+<title xml:lang="ja">劇場公開版 エンドロール</title>
+<title xml:lang="en">Credits Theater Version</title>
+</episode>
+<episode id="214948" update="2019-04-10">
+<epno type="2">S2</epno>
+<length>1</length>
+<airdate>2017-08-25</airdate>
+<title xml:lang="ja">幕間映像</title>
+<title xml:lang="en">Interlude Animation</title>
+</episode>
+<episode id="214949" update="2019-04-10">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="ja">劇場予告</title>
+<title xml:lang="en">Movie PV</title>
+</episode>
+<episode id="214950" update="2019-04-10">
+<epno type="4">T2</epno>
+<length>1</length>
+<title xml:lang="ja">特報</title>
+<title xml:lang="en">Roadshow PV</title>
+</episode>
+</episodes>
+</anime>

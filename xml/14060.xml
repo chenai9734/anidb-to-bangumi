@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14060" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1980-12</startdate>
+<enddate>1980-12</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Xue Haizi</title>
+<title xml:lang="en" type="synonym">The Snow Child</title>
+<title xml:lang="en" type="synonym">Snow Kid</title>
+<title xml:lang="zh" type="official">雪孩子</title>
+</titles>
+<description>During the Winter season, mother rabbit has to go out, but she is afraid of leaving her son home alone. Her rabbit son decides to make a friend out of the snow to keep him company.</description>
+<ratings>
+<permanent count="3">3.30</permanent>
+<temporary count="3">4.66</temporary>
+</ratings>
+<picture>221548.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31348</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Snow_Kid</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>雪孩子</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="222595" update="2019-10-17">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Movie</title>
+</episode>
+</episodes>
+</anime>

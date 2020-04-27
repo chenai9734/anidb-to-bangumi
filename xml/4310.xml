@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4310" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2004-10-17</startdate>
+<enddate>2004-10-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kagami no Gen`on</title>
+<title xml:lang="en" type="synonym">Mirror`s Fundamental Tone</title>
+<title xml:lang="ru" type="synonym">Иллюзорные звуки зеркала</title>
+<title xml:lang="x-jat" type="synonym">Kagami no Genon</title>
+<title xml:lang="ja" type="official">かがみのげんおん</title>
+<title xml:lang="en" type="official">sound / phantasma / mirror</title>
+</titles>
+<recommendations total="2">
+<recommendation type="For Fans" uid="314120">It`s artsy, if you like that sort of thing.</recommendation>
+</recommendations>
+<url>http://www.geocities.jp/hosozao/genon/</url>
+<creators>
+<name id="15962" type="Music">Shishido Koujirou</name>
+</creators>
+<description>A short amateur movie by Kojiro Shishido. Winner at the 10th annual Student CG Contest held in 2005.
+It shows great sensitivity towards the delicate gradations of light and shadow in the natural world, with a matching delicate soundtrack by Shishido himself.</description>
+<ratings>
+<permanent count="178">4.66</permanent>
+<temporary count="180">5.81</temporary>
+</ratings>
+<picture>10470.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>4091</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://web.archive.org/web/20090429144248/http://www.geocities.jp/hosozao/genon/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="46360" update="2006-06-29">
+<epno type="1">1</epno>
+<length>7</length>
+<airdate>2004-10-17</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="46372" update="2006-02-01">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

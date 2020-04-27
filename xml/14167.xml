@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14167" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2020-09-18</startdate>
+<enddate>2020-09-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shika no Ou</title>
+<title xml:lang="ja" type="official">鹿の王</title>
+</titles>
+<creators>
+<name id="4486" type="Direction">Andou Masashi</name>
+<name id="1534" type="Direction">Miyaji Masayuki</name>
+<name id="4486" type="Character Design">Andou Masashi</name>
+<name id="6977" type="Original Work">Uehashi Nahoko</name>
+<name id="721" type="Animation Work">Production I.G</name>
+</creators>
+<description>* Based on a fantasy novel series written by http://anidb.net/cr6977 [Uehashi Nahoko].
+Van is the head of a group of soldiers who expected to die fighting for their lands against a large empire looking to incorporate their home into its kingdom. Instead of dying, however, Van is taken as a slave and thrown into a salt mine. One night, a pack of strange dogs attacks the salt mine, and a mysterious illness breaks out. During the attack, Van takes the opportunity to escape, and he meets a young girl. Elsewhere, rumor is spreading that only immigrants are coming down with this mysterious illness. The medical scientist Hossal risks his life to search for a cure. Doctors also study a father and child who seem to have survived the illness. The novels tell the interconnecting stories and bonds of those who fight against a cruel fate.
+Source: ANN</description>
+<picture>241939.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22024</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38015</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Shika_no_Ō</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>鹿の王</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367697</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="225120" update="2019-12-10">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2020-09-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

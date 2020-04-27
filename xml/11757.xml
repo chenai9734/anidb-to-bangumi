@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11757" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-03-11</startdate>
+<enddate>2016-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shimajirou to Ehon no Kuni</title>
+<title xml:lang="ja" type="official">しまじろうと えほんのくに</title>
+</titles>
+<url>http://kodomo.benesse.ne.jp/open/movie/2016-ehonnokuni/</url>
+<picture>179129.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23114</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32014</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kodomo.benesse.ne.jp/open/movie/2016-ehonnokuni/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354695</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="173008" update="2016-03-11">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>2016-03-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

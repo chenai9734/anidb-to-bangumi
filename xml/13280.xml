@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13280" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2017-07-07</startdate>
+<enddate>2017-09-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Catchy-kun no Nice Catch!</title>
+<title xml:lang="ja" type="official">キャッチーくんのナイスキャッチ!</title>
+</titles>
+<creators>
+<name id="12416" type="Animation Work">DLE</name>
+<name id="13396" type="Character Design">Uchiyama Midori</name>
+<name id="26401" type="Character Design">Arai Tooru</name>
+</creators>
+<picture>205005.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35914</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361211</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>catchy_kun</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+</anime>

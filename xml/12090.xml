@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12090" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2016-04-20</startdate>
+<enddate>2016-04-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Star Fox Zero: The Battle Begins</title>
+<title xml:lang="ja" type="synonym">スターフォックス ゼロ ザ・バトル・ビギンズ</title>
+<title xml:lang="ja" type="official">Star Fox Zero: The Battle Begins</title>
+</titles>
+<url>http://www.witstudio.co.jp/works/スターフォックス-ゼロ-ザ・バトル・ビギンズ/</url>
+<creators>
+<name id="34645" type="Animation Work">Wit Studio</name>
+<name id="6331" type="Direction">Asano Kyouji</name>
+</creators>
+<description>* Based on Star Fox Zero game by http://anidb.net/cr12188 [Nintendo].</description>
+<ratings>
+<permanent count="82">3.17</permanent>
+<temporary count="82">4.92</temporary>
+</ratings>
+<picture>186830.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33205</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.witstudio.co.jp/works/スターフォックス-ゼロ-ザ・バトル・ビギンズ/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356412</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="177175" update="2016-04-23">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2016-04-20</airdate>
+<rating votes="2">3.92</rating>
+<title xml:lang="ja">スターフォックス ゼロ ザ・バトル・ビギンズ</title>
+<title xml:lang="en">Star Fox Zero: The Battle Begins</title>
+<title xml:lang="x-jat">Star Fox Zero: The Battle Begins</title>
+</episode>
+</episodes>
+</anime>

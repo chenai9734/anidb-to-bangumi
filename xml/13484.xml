@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13484" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-12-01</startdate>
+<enddate>2017-12-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Touken Ranbu: Hanamaru - Makuai Kaisouroku</title>
+<title xml:lang="ja" type="official">刀剣乱舞-花丸- ~幕間回想録~</title>
+</titles>
+<relatedanime>
+<anime id="12031" type="Full Story">Touken Ranbu: Hanamaru</anime>
+</relatedanime>
+<url>http://touken-hanamaru.jp/movie/</url>
+<creators>
+<name id="1067" type="Animation Work">Doga Kobo</name>
+<name id="7866" type="Character Design">Taniguchi Jun`ichirou</name>
+<name id="34788" type="Series Composition">Pierre Sugiura</name>
+<name id="24928" type="Direction">Naoya Takashi</name>
+</creators>
+<ratings>
+<permanent count="8">3.26</permanent>
+<temporary count="8">5.50</temporary>
+</ratings>
+<picture>207610.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20367</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36444</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://touken-hanamaru.jp/movie/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Touken_Ranbu:_Hanamaru</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>刀剣乱舞</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361979</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="81194" type="main character in" update="2016-08-23">
+<name>Kashuu Kiyomitsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190383.jpg</picture>
+<seiyuu id="23805" picture="66166.jpg">Masuda Toshiki</seiyuu>
+</character>
+<character id="81195" type="main character in" update="2016-08-23">
+<name>Yamatonokami Yasusada</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190382.jpg</picture>
+<seiyuu id="71" picture="171537.jpg">Ichiki Mitsuhiro</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="191268" update="2017-11-27">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2017-12-01</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

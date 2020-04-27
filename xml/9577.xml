@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9577" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1982-04-29</startdate>
+<enddate>1982-04-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Poppen-sensei to Kaerazu no Numa</title>
+<title xml:lang="ja" type="official">ぽっぺん先生と帰らずの沼</title>
+</titles>
+<creators>
+<name id="7824" type="Chief Animation Direction">Yoshida Toshiki</name>
+<name id="5271" type="Character Design">Takahashi Shin`ya</name>
+</creators>
+<ratings>
+<permanent count="6">3.73</permanent>
+<temporary count="6">4.33</temporary>
+</ratings>
+<picture>129510.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9092</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30360</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235540</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4471</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="146240" update="2012-12-28">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>1982-04-29</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

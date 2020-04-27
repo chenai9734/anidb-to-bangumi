@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7138" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2001</startdate>
+<enddate>2001</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekai Meisaku Gekijou Kanketsu Ban: Haha o Tazunete Sanzenri</title>
+<title xml:lang="en" type="synonym">World Masterpiece Theater Complete Edition: Marco - From the Apennines to the Andes</title>
+<title xml:lang="ja" type="official">世界名作劇場・完結版 母をたずねて三千里</title>
+</titles>
+<relatedanime>
+<anime id="1383" type="Full Story">Haha o Tazunete Sanzenri</anime>
+</relatedanime>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/marco.php</url>
+<creators>
+<name id="1102" type="Work">BS Fuji</name>
+<name id="728" type="Work">Nippon Animation</name>
+</creators>
+<description>* Based on a short section of the novel Cuore by the Italian http://anidb.net/cr8581 [Edmondo de Amicis].
+http://anidb.net/ch63487 [Marco] is a young boy living in Genoa, Italy, together with his father http://anidb.net/ch63485 [Pietro]. But the family is not complete, for Marco`s http://anidb.net/ch63486 [mother] left for Argentina around a year earlier in order to find work. Letters from her arrive regularly until one day they suddenly stop. Worry for his mother and what might have happened to her overcomes the young boy. Marco thus decides to embark upon a journey to Argentina in the hope of being reunited with his mother.
+At first, Pietro is opposed to Marco`s plan, but moved by his son`s enthusiasm, he eventually allows the boy to go. So begins Marco`s long journey of the heart.
+Marco encounters many people throughout his travels, and finds maturity and self-acceptance as a result of his experiences.
+Source: http://www.nipponanimation.com/catalogue/005/</description>
+<ratings>
+<permanent count="6">3.63</permanent>
+<temporary count="6">4.83</temporary>
+</ratings>
+<picture>37978.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23585</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/marco.php</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="110984" update="2009-10-29">
+<epno type="1">1</epno>
+<length>45</length>
+<title xml:lang="en">Part 1</title>
+</episode>
+<episode id="110985" update="2009-10-29">
+<epno type="1">2</epno>
+<length>45</length>
+<title xml:lang="en">Part 2</title>
+</episode>
+</episodes>
+</anime>

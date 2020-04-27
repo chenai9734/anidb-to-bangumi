@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13389" restricted="false">
+<type>TV Series</type>
+<episodecount>25</episodecount>
+<startdate>2017-10-04</startdate>
+<enddate>2018-03-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Oretacha Youkai Ningen</title>
+<title xml:lang="ja" type="official">俺たちゃ妖怪人間</title>
+<title xml:lang="zh-Hans" type="official">我们是妖怪人间</title>
+</titles>
+<relatedanime>
+<anime id="13953" type="Sequel">Oretacha Youkai Ningen G</anime>
+<anime id="1447" type="Alternative Setting">Youkai Ningen Bem</anime>
+</relatedanime>
+<url>http://youkainingen-bem.com/anime_dle/</url>
+<creators>
+<name id="12416" type="Animation Work">DLE</name>
+<name id="996" type="Original Work">Asatsu-DK</name>
+<name id="51298" type="Direction">Adachi Jou</name>
+</creators>
+<ratings>
+<permanent count="10">2.39</permanent>
+<temporary count="10">2.80</temporary>
+</ratings>
+<picture>206032.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20058</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36135</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://youkainingen-bem.com/anime_dle/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>妖怪人間ベム</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361537</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>bem_50th</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="90884" type="main character in" update="2017-09-28">
+<name>Bemu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207691.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="90885" type="main character in" update="2017-09-28">
+<name>Bera</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207695.jpg</picture>
+<seiyuu id="51300" picture="206044.jpg">Kurashina Kana</seiyuu>
+</character>
+<character id="90886" type="main character in" update="2017-09-28">
+<name>Bero</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207693.jpg</picture>
+<seiyuu id="51299" picture="206043.jpg">Suga Kenta</seiyuu>
+</character>
+<character id="91587" type="main character in" update="2017-09-28">
+<name>Bemu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207692.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="91588" type="main character in" update="2017-09-28">
+<name>Bero</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207694.jpg</picture>
+<seiyuu id="51299" picture="206043.jpg">Suga Kenta</seiyuu>
+</character>
+<character id="91589" type="main character in" update="2017-09-28">
+<rating votes="1">10.00</rating>
+<name>Bera</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207696.jpg</picture>
+<seiyuu id="51300" picture="206044.jpg">Kurashina Kana</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="191055" update="2017-12-27">
+<epno type="1">4</epno>
+<length>1</length>
+<airdate>2017-10-25</airdate>
+<title xml:lang="ja">ベロの嘘</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Pero no Uso</title>
+</episode>
+<episode id="191056" update="2017-12-27">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2017-10-18</airdate>
+<title xml:lang="ja">ベムの不運</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Bem no Fuun</title>
+</episode>
+<episode id="191057" update="2017-12-27">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2017-10-11</airdate>
+<title xml:lang="ja">同人誌</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Doujinshi</title>
+</episode>
+<episode id="191058" update="2017-12-27">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2017-10-04</airdate>
+<title xml:lang="ja">ベロ, ホストになるっ!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Pero, Host ni Naru!</title>
+</episode>
+<episode id="191915" update="2017-12-27">
+<epno type="1">8</epno>
+<length>1</length>
+<airdate>2017-11-22</airdate>
+<title xml:lang="ja">スーパーキノコ</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Super Kinoko</title>
+</episode>
+<episode id="191916" update="2017-12-27">
+<epno type="1">7</epno>
+<length>1</length>
+<airdate>2017-11-15</airdate>
+<title xml:lang="ja">キスしてほしいっ!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Kiss Shite Hoshii!</title>
+</episode>
+<episode id="191917" update="2017-12-27">
+<epno type="1">6</epno>
+<length>1</length>
+<airdate>2017-11-08</airdate>
+<title xml:lang="ja">ベムの仕事</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Bem no Shigoto</title>
+</episode>
+<episode id="191918" update="2017-12-27">
+<epno type="1">5</epno>
+<length>1</length>
+<airdate>2017-11-01</airdate>
+<title xml:lang="ja">サインを売りたいっ!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Sign o Uritai!</title>
+</episode>
+<episode id="192929" update="2017-12-27">
+<epno type="1">12</epno>
+<length>1</length>
+<airdate>2017-12-20</airdate>
+<title xml:lang="ja">恐怖っ! 人喰い本!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kyoufu! Hito Kui Hon!</title>
+</episode>
+<episode id="192930" update="2017-12-27">
+<epno type="1">11</epno>
+<length>1</length>
+<airdate>2017-12-13</airdate>
+<title xml:lang="ja">寒波</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Kanpa</title>
+</episode>
+<episode id="192931" update="2017-12-27">
+<epno type="1">10</epno>
+<length>1</length>
+<airdate>2017-12-06</airdate>
+<title xml:lang="ja">ぱみゅ! ぱみゅ! (2)</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Pamyu! Pamyu! 2</title>
+</episode>
+<episode id="192932" update="2017-12-27">
+<epno type="1">9</epno>
+<length>1</length>
+<airdate>2017-11-29</airdate>
+<title xml:lang="ja">ぱみゅ! ぱみゅ! (1)</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Pamyu! Pamyu! 1</title>
+</episode>
+<episode id="192933" update="2017-11-15">
+<epno type="1">13</epno>
+<length>1</length>
+<airdate>2017-12-27</airdate>
+<title xml:lang="ja">スマホが欲しいっ!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Sumaho ga Hoshii!</title>
+</episode>
+<episode id="194414" update="2018-01-03">
+<epno type="1">16</epno>
+<length>1</length>
+<airdate>2018-01-24</airdate>
+<title xml:lang="ja">赤ちゃんを預かる</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Akachan o Azukaru</title>
+</episode>
+<episode id="194415" update="2018-01-03">
+<epno type="1">15</epno>
+<length>1</length>
+<airdate>2018-01-17</airdate>
+<title xml:lang="ja">入れ替わりたいっ!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Irekawaritai!</title>
+</episode>
+<episode id="194416" update="2018-01-03">
+<epno type="1">14</epno>
+<length>1</length>
+<airdate>2018-01-10</airdate>
+<title xml:lang="ja">ピノチオ</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Pinocchio</title>
+</episode>
+<episode id="195215" update="2018-01-17">
+<epno type="1">20</epno>
+<length>1</length>
+<airdate>2018-02-21</airdate>
+<title xml:lang="ja">合体ライトォ~!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Gattai Raito!</title>
+</episode>
+<episode id="195216" update="2018-01-17">
+<epno type="1">19</epno>
+<length>1</length>
+<airdate>2018-02-14</airdate>
+<title xml:lang="ja">ベラと芸人</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Pera to Geinin</title>
+</episode>
+<episode id="195217" update="2018-01-17">
+<epno type="1">18</epno>
+<length>1</length>
+<airdate>2018-02-07</airdate>
+<title xml:lang="ja">ベロ, 孫になる.</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Pero, Mago ni Naru.</title>
+</episode>
+<episode id="195218" update="2018-01-17">
+<epno type="1">17</epno>
+<length>1</length>
+<airdate>2018-01-31</airdate>
+<title xml:lang="ja">心霊スポット</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Shinrei Spot</title>
+</episode>
+<episode id="195403" update="2018-01-24">
+<epno type="1">23</epno>
+<length>1</length>
+<airdate>2018-03-14</airdate>
+<title xml:lang="ja">ベロ, スターになるっ! (前)</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Pero, Star ni Naru! (Zen)</title>
+</episode>
+<episode id="195404" update="2018-01-24">
+<epno type="1">22</epno>
+<length>1</length>
+<airdate>2018-03-07</airdate>
+<title xml:lang="ja">妖怪と霊界のあいだ...</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Youkai to Reikai no Aida...</title>
+</episode>
+<episode id="195405" update="2018-01-24">
+<epno type="1">21</epno>
+<length>1</length>
+<airdate>2018-02-28</airdate>
+<title xml:lang="ja">鳥人間コンテストォ~!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Chouningen Contest!</title>
+</episode>
+<episode id="219555" update="2019-08-19">
+<epno type="1">24</epno>
+<length>2</length>
+<airdate>2018-03-21</airdate>
+<title xml:lang="ja">ベロ, スターになるっ! (後)</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Pero, Star ni Naru! (Kou)</title>
+</episode>
+<episode id="219556" update="2019-08-19">
+<epno type="1">25</epno>
+<length>2</length>
+<airdate>2018-03-28</airdate>
+<title xml:lang="ja">ベラ, おばあちゃんになる</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Pera, Obaa-chan ni Naru</title>
+</episode>
+</episodes>
+</anime>

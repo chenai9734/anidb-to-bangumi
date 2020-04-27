@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13344" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2001</startdate>
+<enddate>2001</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaze no Kokyuu: Animation ni Yoru Oufuku Shokan</title>
+<title xml:lang="ja" type="official">風の呼吸 アニメーションによる往復書簡</title>
+</titles>
+<description>Short animation by Keiichi Tanaami.</description>
+<ratings>
+<permanent count="32">1.69</permanent>
+<temporary count="32">2.82</temporary>
+</ratings>
+<picture>205709.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29989</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Keiichi_Tanaami#Animation_Workshttps://9gag.com/gag/anjjEDq</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4499" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2014-07-28">
+<name>some weird shit goin` on</name>
+<description>Scenes of this show point to insanely strange events which seem to be taking place; throughout its episodes, the show may or may not explain what is going on. Either way, many viewers will find that a succinct and accurate way to describe the show is "WTF?", and the show`s explanations (or lack thereof) to the events will often be subject of heated debate.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="189823" update="2017-08-05">
+<epno type="1">1</epno>
+<length>3</length>
+<rating votes="1">1.35</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

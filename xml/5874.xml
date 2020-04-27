@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5874" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>1993-10-05</startdate>
+<enddate>1994-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Daisuki! Hello Kitty</title>
+<title xml:lang="en" type="synonym">Love! Hello Kitty</title>
+<title xml:lang="ja" type="official">大好き! ハローキティ</title>
+<title xml:lang="en" type="official">Hello Kitty</title>
+</titles>
+<relatedanime>
+<anime id="2246" type="Sequel">Asobou! Hello Kitty</anime>
+<anime id="14812" type="Other">Gundam vs Hello Kitty</anime>
+</relatedanime>
+<description>The adventures of a young kitten named Kitty with her twin sister Mimi. It`s a variety of adventures, including Kitty in some fairy tales as well.</description>
+<ratings>
+<permanent count="21">2.87</permanent>
+<temporary count="21">4.95</temporary>
+</ratings>
+<picture>21539.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>800</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3202</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2212</identifier>
+<identifier>arswsb</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89047</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+</tags>
+<characters>
+<character id="36774" type="main character in" update="2011-09-17">
+<rating votes="4">9.15</rating>
+<name>Kitty</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56016.jpg</picture>
+<seiyuu id="13" picture="16583.jpg">Hayashibara Megumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="100573" update="2010-04-26">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1993-12-28</airdate>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="100574" update="2010-04-26">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1993-12-21</airdate>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="100575" update="2010-04-26">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1993-12-14</airdate>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="100576" update="2010-04-26">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1993-12-07</airdate>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="100577" update="2010-04-26">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1993-11-30</airdate>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="100578" update="2010-04-26">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1993-11-23</airdate>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="100579" update="2010-04-26">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1993-11-16</airdate>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="100580" update="2010-04-26">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1993-11-09</airdate>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="100581" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1993-11-02</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="100582" update="2010-04-26">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1993-10-26</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="100583" update="2010-04-26">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1993-10-19</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="100584" update="2010-04-26">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1993-10-12</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="100585" update="2010-04-26">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1993-10-05</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="117967" update="2010-04-26">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1994-03-29</airdate>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="117968" update="2010-04-26">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1994-03-22</airdate>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="117969" update="2010-04-26">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1994-03-15</airdate>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="117970" update="2010-04-26">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1994-03-08</airdate>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="117971" update="2010-04-26">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1994-03-01</airdate>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="117972" update="2010-04-26">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1994-02-22</airdate>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="117973" update="2010-04-26">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1994-02-15</airdate>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="117974" update="2010-04-26">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1994-02-08</airdate>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="117975" update="2010-04-26">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1994-02-01</airdate>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="117976" update="2010-04-26">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1994-01-25</airdate>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="117977" update="2010-04-26">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1994-01-18</airdate>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="117978" update="2010-04-26">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1994-01-11</airdate>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="117979" update="2010-04-26">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1994-01-04</airdate>
+<title xml:lang="en">Episode 14</title>
+</episode>
+</episodes>
+</anime>

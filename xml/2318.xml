@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2318" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1988-03-12</startdate>
+<enddate>1988-03-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bikkuriman: Daiichiji Seima Taisen</title>
+<title xml:lang="en" type="synonym">Amazing-man: The First Holy Demon War</title>
+<title xml:lang="ja" type="official">ビックリマン 第一次聖魔大戦</title>
+</titles>
+<relatedanime>
+<anime id="2074" type="Sequel">Bikkuriman</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="3166" type="Music">Arisawa Takanori</name>
+<name id="5055" type="Direction">Kakudou Hiroyuki</name>
+</creators>
+<ratings>
+<permanent count="6">4.36</permanent>
+<temporary count="6">4.33</temporary>
+</ratings>
+<picture>204672.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3658</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10203</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3136</identifier>
+<identifier>awznim</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ビックリマン_(アニメ)#.E7.89.B9.E5.88.A5.E7.95.AA.E7.B5.84.E3.80.8C.E3.82.AD.E3.83.A9.E3.82.AD.E3.83.A9.E7.89.B9.E5.88.A5.E5.A2.97.E5.88.8A.E5.8F.B7.E3.80.8D</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150412</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2424</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="21712" update="2010-02-01">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1988-03-12</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

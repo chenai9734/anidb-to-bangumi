@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12258" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2016-12-06</startdate>
+<enddate>2016-12-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Baki</title>
+<title xml:lang="en" type="synonym">Baki: Most Evil Death Row Convicts Special Anime</title>
+<title xml:lang="tr" type="synonym">Baki: En Kötü İdam Mahkumları</title>
+<title xml:lang="ja" type="official">刃牙</title>
+</titles>
+<relatedanime>
+<anime id="880" type="Sequel">Grappler Baki: Saidai Tournament Hen</anime>
+<anime id="12569" type="Sequel">Baki (2018)</anime>
+</relatedanime>
+<url>http://baki.akitashoten.co.jp/</url>
+<creators>
+<name id="8683" type="Original Work">Itagaki Keisuke</name>
+<name id="900" type="Animation Work">Telecom Animation Film</name>
+<name id="5840" type="Character Design">Takiguchi Teiichi</name>
+<name id="5840" type="Direction">Takiguchi Teiichi</name>
+<name id="5840" type="Chief Animation Direction">Takiguchi Teiichi</name>
+<name id="2752" type="Music">Fujisawa Kenji</name>
+</creators>
+<description>Note: Bundled with the limited edition of 14th Baki-Dou manga volume.</description>
+<ratings>
+<permanent count="94">2.90</permanent>
+<temporary count="96">5.19</temporary>
+</ratings>
+<picture>191578.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18746</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33566</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://baki.akitashoten.co.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>グラップラー刃牙</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="178610" update="2017-03-06">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2016-12-06</airdate>
+<rating votes="2">5.85</rating>
+<title xml:lang="en">OAD</title>
+</episode>
+</episodes>
+</anime>

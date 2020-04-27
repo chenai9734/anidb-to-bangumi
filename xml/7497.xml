@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7497" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010-07-10</startdate>
+<enddate>2010-07-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sore Ike! Anpanman: Black Nose to Mahou no Uta</title>
+<title xml:lang="ja" type="synonym">それいけ! アンパンマン ブラックノーズと魔法(まほう)の歌(うた)</title>
+<title xml:lang="ja" type="official">それいけ! アンパンマン ブラックノーズと魔法の歌</title>
+</titles>
+<relatedanime>
+<anime id="5548" type="Parent Story">Sore Ike! Anpanman</anime>
+<anime id="9792" type="Other">Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix</anime>
+</relatedanime>
+<url>http://anpanman.jp/movie2010/</url>
+<creators>
+<name id="782" type="Animation Work">Tokyo Movie</name>
+<name id="2866" type="Character Design">Maeda Minoru</name>
+<name id="5606" type="Original Work">Yanase Takashi</name>
+<name id="6252" type="Direction">Yano Hiroyuki</name>
+<name id="4847" type="Music">Izumi Taku</name>
+<name id="5607" type="Music">Kondou Hiroaki</name>
+</creators>
+<description>Note: Double feature with http://anidb.net/a9792 [Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix].</description>
+<ratings>
+<permanent count="7">5.15</permanent>
+<temporary count="7">5.00</temporary>
+</ratings>
+<picture>128871.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11577</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9007</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://anpanman.jp/movie2010/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>それいけ!アンパンマン_ブラックノーズと魔法の歌</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>336621</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>14113</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="30040" type="main character in" update="2011-03-14">
+<rating votes="25">1.63</rating>
+<name>Anpanman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67836.jpg</picture>
+<seiyuu id="1734" picture="38029.jpg">Toda Keiko</seiyuu>
+</character>
+<character id="30043" type="secondary cast in" update="2011-03-14">
+<rating votes="9">1.63</rating>
+<name>Jam-ojisan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67839.jpg</picture>
+<seiyuu id="3228" picture="151725.jpg">Masuoka Hiroshi</seiyuu>
+</character>
+<character id="30046" type="appears in" update="2011-03-14">
+<rating votes="3">1.63</rating>
+<name>Batako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67842.jpg</picture>
+<seiyuu id="555" picture="23759.jpg">Sakuma Rei</seiyuu>
+</character>
+<character id="30047" type="secondary cast in" update="2011-03-14">
+<name>Cheese</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67845.jpg</picture>
+<seiyuu id="380" picture="158572.jpg">Yamadera Kouichi</seiyuu>
+</character>
+<character id="30048" type="secondary cast in" update="2011-03-14">
+<name>Dokin-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67846.jpg</picture>
+<seiyuu id="3058" picture="23960.jpg">Tsuru Hiromi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="118187" update="2010-07-31">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2010-07-10</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

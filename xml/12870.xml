@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12870" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1933</startdate>
+<enddate>1933</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Kamishibai Itazura Tanuki no Maki</title>
+<title xml:lang="en" type="synonym">Rascal Racoon</title>
+<title xml:lang="ja" type="official">漫画 紙芝居 いたづら狸の卷</title>
+</titles>
+<ratings>
+<permanent count="20">4.15</permanent>
+<temporary count="20">4.47</temporary>
+</ratings>
+<picture>198724.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35399</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184947" update="2017-02-22">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

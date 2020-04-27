@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5226" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-01-04</startdate>
+<enddate>1990-01-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Umi Da! Funade Da! Nikoniko, Pun</title>
+<title xml:lang="ja" type="short">にこぷん</title>
+<title xml:lang="x-jat" type="short">nikopun</title>
+<title xml:lang="ja" type="official">海だ! 船出だ! にこにこ, ぷん</title>
+</titles>
+<creators>
+<name id="3308" type="Direction">Hirata Toshio</name>
+<name id="6002" type="Music">Koshibe Nobuyoshi</name>
+</creators>
+<ratings>
+<permanent count="4">4.83</permanent>
+<temporary count="4">4.75</temporary>
+</ratings>
+<picture>48265.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>16253</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2676</identifier>
+<identifier>dwwlvw</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150972</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2281</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="104281" update="2010-04-16">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1990-01-04</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

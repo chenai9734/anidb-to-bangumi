@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14478" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2018-06-14</startdate>
+<enddate>2018-06-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pop Team Epic Kinen</title>
+<title xml:lang="ja" type="official">ポプテピ記念</title>
+</titles>
+<relatedanime>
+<anime id="13067" type="Parent Story">Pop Team Epic</anime>
+</relatedanime>
+<creators>
+<name id="59683" type="Animation Work">Space Neko Company</name>
+<name id="22958" type="Character Design">Aoki Jun</name>
+<name id="22958" type="Direction">Aoki Jun</name>
+</creators>
+<description>On April 26, 2018, Japan Racing Association`s Umabi.jp website launched the Pop Team Epic Kinen campaign, where users can create a customised avatar of either Popuko or Pipimi as a virtual spectator. It also hinted a surprise to be revealed when a number of avatars reaches one million. As the number reached one million in late May 2018, the JRA released a branded webisode on 14 June 2018. Produced by Space Neko Company (which animated Pop Team Story segments and some of short sketches in the TV series), Mikako Komatsu and Ryusei Nakao reprised their role as Popuko in the first and second halves respectively, and so did Sumire Uesaka and Norio Wakamoto as Pipimi. The JRA also held promotional events at Tokyo Racecourse.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="37">4.40</permanent>
+<temporary count="37">5.64</temporary>
+</ratings>
+<picture>226418.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38068</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Pop_Team_Epic#Marketing</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="93151" type="main character in" update="2018-01-03">
+<rating votes="8">6.87</rating>
+<name>Pipimi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211605.jpg</picture>
+<seiyuu id="2" picture="16471.jpg">Wakamoto Norio</seiyuu>
+<seiyuu id="28602" picture="131381.jpg">Uesaka Sumire</seiyuu>
+</character>
+<character id="93152" type="main character in" update="2018-01-03">
+<rating votes="8">6.90</rating>
+<name>Popuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211604.jpg</picture>
+<seiyuu id="16085" picture="178446.jpg">Komatsu Mikako</seiyuu>
+<seiyuu id="3149" picture="132209.jpg">Nakao Ryuusei</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="210724" update="2018-11-29">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2018-06-14</airdate>
+<rating votes="3">4.85</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

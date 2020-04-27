@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4586" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981-11-28</startdate>
+<enddate>1981-11-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manzai Taikouki</title>
+<title xml:lang="ja" type="official">マンザイ太閤記</title>
+</titles>
+<url>http://www.tms-e.com/library/old/movie/data/m_manzaitaiko_.html</url>
+<creators>
+<name id="782" type="Unknown Relation">Tokyo Movie</name>
+<name id="3500" type="Direction">Takayashiki Hideo</name>
+<name id="7418" type="Music">Satou Jun</name>
+</creators>
+<ratings>
+<permanent count="4">4.88</permanent>
+<temporary count="4">5.25</temporary>
+</ratings>
+<picture>69949.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24683</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3427</identifier>
+<identifier>txzzly</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tms-e.com/library/old/movie/data/m_manzaitaiko_.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>147884</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3282</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="52185" update="2011-10-20">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>1981-11-28</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

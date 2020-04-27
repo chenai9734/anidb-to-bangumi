@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14313" restricted="false">
+<type>Web</type>
+<episodecount>52</episodecount>
+<startdate>2015-12-31</startdate>
+<enddate>2017-12-27</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Shi Wan Ge Leng Xiaohua Di San Ji</title>
+<title xml:lang="en" type="synonym">One Hundred Thousand Bad Jokes Season 3</title>
+<title xml:lang="zh-Hans" type="official">十万个冷笑话 第三季</title>
+</titles>
+<relatedanime>
+<anime id="14312" type="Prequel">Shi Wan Ge Leng Xiaohua Di Er Ji</anime>
+</relatedanime>
+<description>saison 3</description>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>222707.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33196</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+</anime>

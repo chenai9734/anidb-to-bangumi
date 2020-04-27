@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13937" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2016-10-20</startdate>
+<enddate>2016-10-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shammy to Kage Boy</title>
+<title xml:lang="ja" type="official">シャーミィとかげぼうや</title>
+</titles>
+<url>http://www.nhk.or.jp/anime/petit/program.html?prg=shammy</url>
+<description>Shammy gets into a fight with a shadow boy.</description>
+<ratings>
+<permanent count="14">3.44</permanent>
+<temporary count="14">4.32</temporary>
+</ratings>
+<picture>215016.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35701</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nhk.or.jp/anime/petit/program.html?prg=shammy</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="212463" update="2019-02-07">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2016-10-20</airdate>
+<rating votes="1">2.35</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

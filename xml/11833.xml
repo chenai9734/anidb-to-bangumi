@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11833" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>2015-01-26</startdate>
+<enddate>2015-09-20</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Balala Xiaomoxian: Menghuan Xuanlu</title>
+<title xml:lang="en" type="synonym">Balala the Fairies 3 Finding Melody</title>
+<title xml:lang="x-zht" type="synonym">Balala Xiaomoxian Zhi Menghuan Xuanlu</title>
+<title xml:lang="zh-Hans" type="official">巴啦啦小魔仙之梦幻旋律</title>
+</titles>
+<relatedanime>
+<anime id="13701" type="Sequel">Balala Xiaomoxian: Feiyue Cai Ling Bao 1 Jingling Li Li</anime>
+<anime id="12565" type="Prequel">Balala Xiaomoxian: Qiji Wubu</anime>
+</relatedanime>
+<url>http://balala.auldey.com/</url>
+<description>http://anidb.net/ch85882 [Sally], http://anidb.net/ch85886 [Maggie], http://anidb.net/ch85885 [Michelle], and http://anidb.net/ch85883 [Beibei] decide to help the http://anidb.net/ch85613 [Fairy Queen] find her disappeared friend http://anidb.net/ch85867 [Melody], a skilled music fairy from the Music Castle, and that leads them to encounter nine musical magicians and fight with the dark musical witch http://anidb.net/ch85892 [Voiceless]. Yet, Sally and the fairies suspect that Melody is connected with a dark power operating behind the scenes.
+Source: Mahou Shoujo Wikia</description>
+<ratings>
+<permanent count="9">4.57</permanent>
+<temporary count="9">4.55</temporary>
+</ratings>
+<picture>228843.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30156</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://balala.auldey.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Balala_the_Fairies_(series)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>巴拉拉小魔仙</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>巴啦啦小魔仙之梦幻旋律</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<characters>
+<character id="85554" type="main character in" update="2016-10-30">
+<name>Xiao Lan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193808.jpg</picture>
+</character>
+<character id="85555" type="main character in" update="2016-10-30">
+<name>Ling Meixue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193806.jpg</picture>
+</character>
+<character id="85556" type="main character in" update="2016-10-30">
+<name>Ling Meiqi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193807.jpg</picture>
+</character>
+<character id="85560" type="main character in" update="2016-11-03">
+<name>Youle</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193993.jpg</picture>
+</character>
+<character id="85613" type="secondary cast in" update="2016-10-20">
+<name>Moxian Nuwang</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193320.jpg</picture>
+</character>
+<character id="85615" type="secondary cast in" update="2016-10-17">
+<name>Caihong Niao</name>
+<gender>dimorphic</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193116.jpg</picture>
+</character>
+<character id="85658" type="secondary cast in" update="2016-10-18">
+<name>Shi Xiaolong</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193199.jpg</picture>
+</character>
+<character id="85659" type="secondary cast in" update="2016-10-18">
+<name>Xiao Man</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193200.jpg</picture>
+</character>
+<character id="85660" type="secondary cast in" update="2016-10-18">
+<name>Xiao Yuan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193201.jpg</picture>
+</character>
+<character id="85661" type="secondary cast in" update="2016-10-18">
+<name>Yin Yin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193202.jpg</picture>
+</character>
+<character id="85689" type="appears in" update="2016-10-18">
+<name>Shi Gui Jingling</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193217.jpg</picture>
+</character>
+<character id="85691" type="appears in" update="2016-10-18">
+<name>Lao Shu Jingling</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193218.jpg</picture>
+</character>
+<character id="85694" type="secondary cast in" update="2016-10-18">
+<name>Ling Mama</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193221.jpg</picture>
+</character>
+<character id="85696" type="main character in" update="2016-10-30">
+<name>Bei Bei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193809.jpg</picture>
+</character>
+<character id="85756" type="secondary cast in" update="2016-10-20">
+<name>Fei Fei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193321.jpg</picture>
+</character>
+<character id="85757" type="secondary cast in" update="2016-10-20">
+<name>Xiao Juan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193323.jpg</picture>
+</character>
+<character id="85758" type="secondary cast in" update="2016-10-20">
+<name>Kafei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193324.jpg</picture>
+</character>
+<character id="85759" type="secondary cast in" update="2016-10-20">
+<name>Huasheng</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193328.jpg</picture>
+</character>
+<character id="85867" type="secondary cast in" update="2016-10-29">
+<name>Melody</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193744.jpg</picture>
+</character>
+<character id="85868" type="appears in" update="2016-10-29">
+<name>Jismeicia</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>young</description>
+<picture>193750.jpg</picture>
+</character>
+<character id="85871" type="secondary cast in" update="2016-10-29">
+<name>Chen Zhicong</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193752.jpg</picture>
+</character>
+<character id="85872" type="secondary cast in" update="2016-10-29">
+<name>Chun Feng</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193753.jpg</picture>
+</character>
+<character id="85873" type="secondary cast in" update="2016-10-29">
+<name>Chiu Yu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193754.jpg</picture>
+</character>
+<character id="85874" type="secondary cast in" update="2016-10-29">
+<name>Jingling Dora</name>
+<gender>dimorphic</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193755.jpg</picture>
+</character>
+<character id="85875" type="secondary cast in" update="2016-10-29">
+<name>Jingling Merah</name>
+<gender>dimorphic</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193756.jpg</picture>
+</character>
+<character id="85876" type="secondary cast in" update="2016-10-29">
+<name>Jingling Lira</name>
+<gender>dimorphic</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193757.jpg</picture>
+</character>
+<character id="85877" type="secondary cast in" update="2018-03-15">
+<name>Milk</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214846.jpg</picture>
+</character>
+<character id="85882" type="main character in" update="2016-11-03">
+<name>Sally</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193992.jpg</picture>
+</character>
+<character id="85883" type="main character in" update="2016-11-03">
+<name>Bei Bei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193989.jpg</picture>
+</character>
+<character id="85885" type="main character in" update="2016-11-03">
+<name>Michelle Lin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193991.jpg</picture>
+</character>
+<character id="85886" type="main character in" update="2016-11-03">
+<name>Maggie Lin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193990.jpg</picture>
+</character>
+<character id="85887" type="secondary cast in" update="2018-03-15">
+<name>Snow Fifi</name>
+<gender>dimorphic</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214848.jpg</picture>
+</character>
+<character id="85888" type="secondary cast in" update="2016-10-29">
+<name>Aceh</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193788.jpg</picture>
+</character>
+<character id="85889" type="secondary cast in" update="2016-10-29">
+<name>Abis</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193790.jpg</picture>
+</character>
+<character id="85890" type="secondary cast in" update="2018-03-15">
+<name>Ilya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214849.jpg</picture>
+</character>
+<character id="85891" type="secondary cast in" update="2018-03-15">
+<name>Mourinho</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214847.jpg</picture>
+</character>
+<character id="85892" type="secondary cast in" update="2016-11-03">
+<name>Wuyin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193994.jpg</picture>
+</character>
+<character id="85893" type="secondary cast in" update="2016-10-30">
+<name>Ilya (maomi)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193813.jpg</picture>
+</character>
+<character id="85901" type="appears in" update="2016-10-31">
+<name>Niu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193837.jpg</picture>
+</character>
+<character id="85902" type="appears in" update="2016-10-31">
+<name>Niu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193838.jpg</picture>
+</character>
+<character id="85903" type="appears in" update="2016-10-31">
+<name>Xiaohai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193842.jpg</picture>
+</character>
+<character id="85904" type="secondary cast in" update="2016-11-03">
+<name>Camille</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193997.jpg</picture>
+</character>
+<character id="85932" type="secondary cast in" update="2016-11-01">
+<name>Dong Dong</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193921.jpg</picture>
+</character>
+<character id="85933" type="secondary cast in" update="2016-11-01">
+<name>Ya Ya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193925.jpg</picture>
+</character>
+<character id="85934" type="secondary cast in" update="2016-11-01">
+<name>Lei Mu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193926.jpg</picture>
+</character>
+<character id="85983" type="secondary cast in" update="2016-11-12">
+<name>Xiao Kai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194454.jpg</picture>
+</character>
+<character id="85984" type="secondary cast in" update="2016-11-03">
+<name>Mi Si</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193988.jpg</picture>
+</character>
+<character id="85985" type="secondary cast in" update="2016-11-03">
+<name>Beida Fen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193995.jpg</picture>
+</character>
+<character id="85986" type="secondary cast in" update="2016-11-03">
+<name>Whitewell</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193998.jpg</picture>
+</character>
+<character id="85987" type="secondary cast in" update="2016-11-03">
+<name>Li Yasi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193999.jpg</picture>
+</character>
+<character id="85988" type="secondary cast in" update="2016-11-03">
+<name>Wenying Xiaoshang</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>194000.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="174344" update="2016-01-11">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2015-09-20</airdate>
+<title xml:lang="zh">夢幻的合奏</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="174345" update="2016-01-11">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2015-09-19</airdate>
+<title xml:lang="zh">重回魔仙堡</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="174346" update="2016-01-11">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2015-09-18</airdate>
+<title xml:lang="zh">拯救敵人</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="174347" update="2016-01-11">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2015-09-17</airdate>
+<title xml:lang="zh">荒島歷奇</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="174348" update="2016-01-11">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2015-09-16</airdate>
+<title xml:lang="zh">驚世魔術</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="174349" update="2016-01-11">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2015-09-15</airdate>
+<title xml:lang="zh">魔術師之謎</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="174350" update="2016-01-11">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2015-09-14</airdate>
+<title xml:lang="zh">追尋小藍</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="174351" update="2016-01-11">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2015-09-13</airdate>
+<title xml:lang="zh">真正的他</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="174352" update="2016-01-11">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2015-09-12</airdate>
+<title xml:lang="zh">尋回失物</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="174353" update="2016-01-11">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2015-09-11</airdate>
+<title xml:lang="zh">外賣小子</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="174354" update="2016-01-11">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2015-09-10</airdate>
+<title xml:lang="zh">與馬同行</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="174355" update="2016-01-11">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2015-09-09</airdate>
+<title xml:lang="zh">救救小馬</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="174356" update="2016-01-11">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2015-09-08</airdate>
+<title xml:lang="zh">動物醫生</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="174357" update="2016-01-11">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2015-09-07</airdate>
+<title xml:lang="zh">鼓亭迷陣</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="174358" update="2016-01-11">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2015-09-06</airdate>
+<title xml:lang="zh">固執的美琪</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="174359" update="2016-01-11">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2015-09-05</airdate>
+<title xml:lang="zh">動物剋星</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="174360" update="2016-01-11">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2015-09-04</airdate>
+<title xml:lang="zh">摩天演奏廳</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="174361" update="2016-01-11">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2015-09-03</airdate>
+<title xml:lang="zh">敵友難分</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="174362" update="2016-01-11">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2015-09-02</airdate>
+<title xml:lang="zh">美樂蒂消失之謎</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="174363" update="2016-01-11">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2015-09-01</airdate>
+<title xml:lang="zh">雅雅忘記了</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="174364" update="2016-01-11">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2015-08-31</airdate>
+<title xml:lang="zh">姐妹重逢</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="174365" update="2016-01-10">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2015-08-30</airdate>
+<title xml:lang="zh">她是誰?</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="174366" update="2016-01-10">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2015-08-29</airdate>
+<title xml:lang="zh">卡米兒的話</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="174367" update="2016-01-10">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2015-08-28</airdate>
+<title xml:lang="zh">說不出的秘密</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="174368" update="2016-01-10">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2015-08-27</airdate>
+<title xml:lang="zh">神秘的女孩</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="174369" update="2016-01-10">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2015-08-26</airdate>
+<title xml:lang="zh">舊物店的安琪兒</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="174370" update="2016-01-10">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2015-02-20</airdate>
+<title xml:lang="zh">幻影魔法</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="174371" update="2016-01-10">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2015-02-19</airdate>
+<title xml:lang="zh">最后的吹奏</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="174372" update="2016-01-10">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2015-02-18</airdate>
+<title xml:lang="zh">动物园历险</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="174373" update="2016-01-10">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2015-02-17</airdate>
+<title xml:lang="zh">昏迷之后</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="174374" update="2016-01-10">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2015-02-16</airdate>
+<title xml:lang="zh">小龙的梦</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="174375" update="2016-01-10">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2015-02-15</airdate>
+<title xml:lang="zh">大小胖子</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="174376" update="2016-01-10">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2015-02-14</airdate>
+<title xml:lang="zh">胖子叔叔</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="174377" update="2016-01-10">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2015-02-12</airdate>
+<title xml:lang="zh">醉人蛋糕</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="174378" update="2016-01-10">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2015-02-11</airdate>
+<title xml:lang="zh">黄衣少女</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="174379" update="2016-01-10">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2015-02-10</airdate>
+<title xml:lang="zh">老人与猫</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="174380" update="2016-01-10">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2015-02-09</airdate>
+<title xml:lang="zh">我们的猫朋友</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="174381" update="2016-01-10">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2015-02-08</airdate>
+<title xml:lang="zh">魔法猫儿</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="174382" update="2016-01-10">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2015-02-07</airdate>
+<title xml:lang="zh">消失在海浪中</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="174383" update="2016-01-10">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2015-02-06</airdate>
+<title xml:lang="zh">魔幻舞台(下)</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="174384" update="2016-01-10">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2015-02-05</airdate>
+<title xml:lang="zh">魔幻舞台(上)</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="174385" update="2016-01-10">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2015-02-04</airdate>
+<title xml:lang="zh">森林中的怪事</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="174386" update="2016-01-10">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2015-02-03</airdate>
+<title xml:lang="zh">夜半琴声</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="174387" update="2016-01-10">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2015-02-02</airdate>
+<title xml:lang="zh">奇怪的钢琴</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="174388" update="2016-01-10">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2015-02-01</airdate>
+<title xml:lang="zh">破碎的乐章</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="174389" update="2016-01-10">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2015-01-31</airdate>
+<title xml:lang="zh">寻找谜底</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="174390" update="2016-01-10">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2015-01-30</airdate>
+<title xml:lang="zh">魔法音乐盒</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="174391" update="2016-01-10">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2015-01-29</airdate>
+<title xml:lang="zh">神秘的流浪汉</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="174392" update="2016-01-10">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2015-01-28</airdate>
+<title xml:lang="zh">小龙的吉他</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="174393" update="2016-01-10">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2015-01-27</airdate>
+<title xml:lang="zh">地狱学校</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="174394" update="2016-01-10">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-01-26</airdate>
+<title xml:lang="zh">女王的梦</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="174395" update="2016-01-10">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2015-02-13</airdate>
+<title xml:lang="zh">寻找乐章</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+</episodes>
+</anime>

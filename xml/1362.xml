@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1362" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1999-01-21</startdate>
+<enddate>1999-04-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sotsugyou M: Oretachi no Carnival</title>
+<title xml:lang="en" type="synonym">Male Graduation</title>
+<title xml:lang="en" type="synonym">Graduation M</title>
+<title xml:lang="en" type="synonym">Graduation M: Our Carnival</title>
+<title xml:lang="ru" type="synonym">Выпуск М: Наш Карнавал</title>
+<title xml:lang="x-jat" type="synonym">Sotsugyou M: Ore-tachi no Carnival</title>
+<title xml:lang="ja" type="official">卒業M ~オレ達のカーニバル~</title>
+</titles>
+<relatedanime>
+<anime id="1241" type="Other">Sotsugyou: Graduation</anime>
+</relatedanime>
+<creators>
+<name id="3119" type="Character Design">Motohashi Hideyuki</name>
+<name id="3579" type="Direction">Kamegaki Hajime</name>
+<name id="999" type="Animation Work">Artland</name>
+</creators>
+<description>Kato, Shimura, Arai, Nakamoto, and Takagi are friends. They are going to Seiryuu Gakuen High school, which is a boy`s boarding school. One day when the school festival is close at hand, the president of the student government invites them for dinner. However it is his plot to force them to play in a drama at the school festival.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="101">2.56</permanent>
+<temporary count="102">5.10</temporary>
+</ratings>
+<picture>10891.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4386</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2779</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1508</identifier>
+<identifier>mzgvfo</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>卒業M#OVA_.E5.8D.92.E6.A5.ADM.E3.80.9C.E3.82.AA.E3.83.AC.E9.81.94.E3.81.AE.E3.82.AB.E3.83.BC.E3.83.8B.E3.83.90.E3.83.AB.E3.80.9C</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88142</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2783" parentid="2858" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-04">
+<name>shounen ai</name>
+<description>Shounen Ai means boys love, and thus explores what happens when two boys (or men) fall in love. This is not to be mistaken for http://anidb.net/t2723 [Yaoi] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphical sex.
+The female version is http://anidb.net/t2782 [Shoujo Ai].</description>
+</tag>
+<tag id="2858" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="14575" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1999-01-21</airdate>
+<title xml:lang="en">OVA 1</title>
+</episode>
+<episode id="14576" update="2011-10-20">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1999-04-21</airdate>
+<title xml:lang="en">OVA 2</title>
+</episode>
+</episodes>
+</anime>

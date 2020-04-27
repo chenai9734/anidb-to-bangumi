@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14550" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2019-04-08</startdate>
+<enddate>2020-03-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jimoto ga Japan</title>
+<title xml:lang="en" type="synonym">I`m from Japan</title>
+<title xml:lang="ja" type="official">ジモトがジャパン</title>
+</titles>
+<url>https://www.shopro.co.jp/tv/jimoto-anime/</url>
+<creators>
+<name id="50528" type="Animation Work">Odd Job</name>
+<name id="35049" type="Character Design">Uehara Fumiyuki</name>
+<name id="56919" type="Original Work">Hayashi Seiji</name>
+<name id="50527" type="Direction">Ueno Isamu</name>
+<name id="57442" type="Character Design">Nohara Hana</name>
+<name id="52332" type="Music">Mizuguchi Kouji</name>
+</creators>
+<description>* Based on a comedy shounen manga by http://anidb.net/cr56919 [Hayashi Seiji].
+http://anidb.net/ch102298 [Abiko Tokio] is a transfer student from Yamagata prefecture. He`s rough, he`s tough and he wants to beat up the strongest kid in school and earn the respect that he and Yamagata prefecture deserve! But he soon makes an unlikely friend who accepts everyone no matter where they`re from—and his name is http://anidb.net/ch101085 [Japan]!
+Source: Viz
+Note: It aired during the Oha-Suta (おはスタ) variety program on http://anidb.net/cr804 [TV Tokyo].</description>
+<ratings>
+<permanent count="4">3.62</permanent>
+<temporary count="4">2.25</temporary>
+</ratings>
+<picture>230195.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21811</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38881</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.shopro.co.jp/tv/jimoto-anime/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>I'm_From_Japan</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ジモトがジャパン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366720</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>jimoto_anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="5863" parentid="2798" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-06">
+<name>Weekly Shounen Jump</name>
+<description>The Weekly Shounen Jump is a Japanese manga magazine released on a weekly basis. Its main target audience consists of young males and it features several manga titles. The magazine was created by http://anidb.net/cr780 [Shueisha] in July, 1968, and was originally only called Shounen Jump, because it was not published every week at the time. A number of very famous shounen manga were or are published in it, such as http://anidb.net/a386 [Hokuto no Ken], http://anidb.net/a231 [Dragon Ball], http://anidb.net/a942 [City Hunter], http://anidb.net/a826 [Saint Seiya], http://anidb.net/a590 [Slam Dunk], http://anidb.net/a312 [Yuu Yuu Hakushou], http://anidb.net/a69 [One Piece], http://anidb.net/a239 [Naruto], http://anidb.net/a2369 [Bleach], http://anidb.net/a4563 [Death Note], http://anidb.net/a3468 [Gintama], to name a few of the most well-known.</description>
+<picurl>66685.png</picurl>
+</tag>
+</tags>
+<characters>
+<character id="101085" type="main character in" update="2019-04-19">
+<name>Hinomoto Japan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>232802.jpg</picture>
+<seiyuu id="393" picture="46104.jpg">Takayama Minami</seiyuu>
+</character>
+<character id="102297" type="secondary cast in" update="2019-04-19">
+<name>Hide</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>232797.jpg</picture>
+<seiyuu id="29" picture="202917.jpg">Hatano Wataru</seiyuu>
+</character>
+<character id="102298" type="secondary cast in" update="2019-04-19">
+<name>Abiko Tokio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>232798.jpg</picture>
+<seiyuu id="32912" picture="183255.jpg">Nishiyama Koutarou</seiyuu>
+</character>
+<character id="102299" type="secondary cast in" update="2019-04-19">
+<name>Yuze Komachi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>232801.jpg</picture>
+<seiyuu id="34984" picture="222849.jpg">Ueda Reina</seiyuu>
+</character>
+<character id="102300" type="secondary cast in" update="2019-04-19">
+<name>Kikuchi Masurao</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>232800.jpg</picture>
+<seiyuu id="343" picture="140430.jpg">Genda Tesshou</seiyuu>
+</character>
+<character id="102301" type="secondary cast in" update="2019-04-19">
+<name>Kayahara Nao</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>232799.jpg</picture>
+<seiyuu id="641" picture="31202.jpg">Katou Emiri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="214898" update="2019-12-23">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2019-04-08</airdate>
+<title xml:lang="ja">ジモトがジャパン</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Shimoto ga Japan</title>
+</episode>
+<episode id="215393" update="2019-12-23">
+<epno type="1">2</epno>
+<length>2</length>
+<airdate>2019-04-15</airdate>
+<title xml:lang="ja">トキオがヤマガタ</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Tokio ga Yamagata</title>
+</episode>
+<episode id="215894" update="2019-12-23">
+<epno type="1">3</epno>
+<length>2</length>
+<airdate>2019-04-22</airdate>
+<title xml:lang="ja">ヒデがサイタマ</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Hide ga Saitama</title>
+</episode>
+<episode id="216280" update="2019-12-23">
+<epno type="1">4</epno>
+<length>2</length>
+<airdate>2019-04-29</airdate>
+<title xml:lang="ja">静岡愛で駆け抜けろ</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Shizuoka Ai de Kakenukero</title>
+</episode>
+<episode id="216567" update="2019-12-23">
+<epno type="1">5</epno>
+<length>2</length>
+<airdate>2019-05-06</airdate>
+<title xml:lang="ja">ジモ語でめんそーれ!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Jimogo de Mensoore!</title>
+</episode>
+<episode id="217002" update="2019-12-23">
+<epno type="1">6</epno>
+<length>2</length>
+<airdate>2019-05-13</airdate>
+<title xml:lang="ja">シティボーイはつらいよ~恋の秋田編~</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">City Boy wa Tsurai yo: Koi no Akita Hen</title>
+</episode>
+<episode id="217223" update="2019-12-23">
+<epno type="1">7</epno>
+<length>2</length>
+<airdate>2019-05-27</airdate>
+<title xml:lang="ja">魁!! シティボーイ選手権</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Sakigake!! City Boy Senshuken</title>
+</episode>
+<episode id="217850" update="2019-12-23">
+<epno type="1">8</epno>
+<length>2</length>
+<airdate>2019-06-10</airdate>
+<title xml:lang="ja">大分拳でヒデを救え!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Daibun Kobushi de Hide o Sukue!</title>
+</episode>
+<episode id="218149" update="2019-12-23">
+<epno type="1">9</epno>
+<length>2</length>
+<airdate>2019-06-17</airdate>
+<title xml:lang="ja">シノビが三重でノビノビ</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Shinobi ga Sanjuu de Nobinobi</title>
+</episode>
+<episode id="218240" update="2019-12-23">
+<epno type="1">10</epno>
+<length>2</length>
+<airdate>2019-06-24</airdate>
+<title xml:lang="ja">フクイがジュラシック</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Fukui ga Jurassic</title>
+</episode>
+<episode id="218468" update="2019-12-23">
+<epno type="1">11</epno>
+<length>2</length>
+<airdate>2019-07-01</airdate>
+<title xml:lang="ja">イバラキがアメリカンだっぺ</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Ibaraki ga American Dabbe</title>
+</episode>
+<episode id="218469" update="2019-12-23">
+<epno type="1">12</epno>
+<length>2</length>
+<airdate>2019-07-08</airdate>
+<title xml:lang="ja">鳥取はいつもひとつ</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Tottori wa Itsumo Hitotsu</title>
+</episode>
+<episode id="218703" update="2019-12-23">
+<epno type="1">13</epno>
+<length>2</length>
+<airdate>2019-07-15</airdate>
+<title xml:lang="ja">鏡よ香川で白雪姫</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Kagami yo Kagawa de Shirayukihime</title>
+</episode>
+<episode id="218934" update="2019-12-23">
+<epno type="1">14</epno>
+<length>2</length>
+<airdate>2019-07-22</airdate>
+<title xml:lang="ja">赤点回避するばい!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Akaten Kaihi Suru Bai!</title>
+</episode>
+<episode id="218935" update="2019-12-23">
+<epno type="1">15</epno>
+<length>2</length>
+<airdate>2019-07-22</airdate>
+<title xml:lang="ja">山梨vs静岡! 天下分け目の富士取り合戦</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Yamanashi vs Shiuoka! Tenkawakeme no Fuji Tori Kassen</title>
+</episode>
+<episode id="219071" update="2019-12-23">
+<epno type="1">16</epno>
+<length>2</length>
+<airdate>2019-07-29</airdate>
+<title xml:lang="ja">ジモタロウ伝説立ち上がれ岡山!!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Jimotarou Densetsu Tachiagare Okayama!!</title>
+</episode>
+<episode id="219072" update="2019-12-23">
+<epno type="1">17</epno>
+<length>2</length>
+<airdate>2019-07-29</airdate>
+<title xml:lang="ja">奇跡の化石でお友達 in 福島</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Kiseki no Kaseki de Otomodachi in Fukushima</title>
+</episode>
+<episode id="219189" update="2019-12-23">
+<epno type="1">18</epno>
+<length>2</length>
+<airdate>2019-08-05</airdate>
+<title xml:lang="ja">シティボーイはつらいよ~真夏の神奈川編~</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">City Boy wa Tsurai yo: Manatsu no Kanagawa Hen</title>
+</episode>
+<episode id="219283" update="2019-12-23">
+<epno type="1">19</epno>
+<length>2</length>
+<airdate>2019-08-12</airdate>
+<title xml:lang="ja">黄金の佐世保バーガー争奪レース</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Ougon no Sasebo Burger Soudatsu Race</title>
+</episode>
+<episode id="219528" update="2019-12-23">
+<epno type="1">20</epno>
+<length>2</length>
+<airdate>2019-08-19</airdate>
+<title xml:lang="ja">長野でスイーツメモリーズ</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Nagano de Sweets Memories</title>
+</episode>
+<episode id="219793" update="2019-12-23">
+<epno type="1">21</epno>
+<length>2</length>
+<airdate>2019-08-26</airdate>
+<title xml:lang="ja">群馬灼熱おんせん地獄</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Gunma Shakunetsu Onsen Jigoku</title>
+</episode>
+<episode id="220040" update="2019-12-23">
+<epno type="1">22</epno>
+<length>2</length>
+<airdate>2019-09-02</airdate>
+<title xml:lang="ja">新潟拳でジモト商店復活大作戦!!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Niigata Ken de Jimoto Shouten Fukkatsu Daisakusen!!</title>
+</episode>
+<episode id="221291" update="2019-12-23">
+<epno type="1">23</epno>
+<length>2</length>
+<airdate>2019-09-09</airdate>
+<title xml:lang="ja">ジモトは青かったでごわす</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Jimoto wa Aokatta de Gowasu</title>
+</episode>
+<episode id="221379" update="2019-12-23">
+<epno type="1">24</epno>
+<length>2</length>
+<airdate>2019-09-16</airdate>
+<title xml:lang="ja">古都でもめごと!? 修学旅行ラプソディー (前編)</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Koto de Momegoto!? Shuugakuryokou Rhapsody (Zenpen)</title>
+</episode>
+<episode id="221571" update="2019-12-23">
+<epno type="1">25</epno>
+<length>2</length>
+<airdate>2019-09-23</airdate>
+<title xml:lang="ja">古都でもめごと!? 修学旅行ラプソディー (後編)</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Koto de Momegoto!? Shuugakuryokou Rhapsody (Kouhen)</title>
+</episode>
+<episode id="221874" update="2019-12-23">
+<epno type="1">26</epno>
+<length>2</length>
+<airdate>2019-09-30</airdate>
+<title xml:lang="ja">本当にあったジモト奈良ではの怖い話</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Hontou ni Atta Jimoto Nara de wa no Kowai Hanashi</title>
+</episode>
+<episode id="222114" update="2019-12-23">
+<epno type="1">27</epno>
+<length>2</length>
+<airdate>2019-10-07</airdate>
+<title xml:lang="ja">女はつらいよ~恋の大阪旅情編~</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Onna wa Tsurai yo: Koi no Osaka Ryojou Hen</title>
+</episode>
+<episode id="222465" update="2019-12-23">
+<epno type="1">28</epno>
+<length>2</length>
+<airdate>2019-10-14</airdate>
+<title xml:lang="ja">愛知を愛したお様</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Aichi o Ai Shita Otonosama</title>
+</episode>
+<episode id="223426" update="2019-12-23">
+<epno type="1">29</epno>
+<length>2</length>
+<airdate>2019-10-21</airdate>
+<title xml:lang="ja">妹襲来~ミヤギセンダイに憧れて~</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Imouto Shuurai: Miyagi Sendai ni Akogarete</title>
+</episode>
+<episode id="223628" update="2019-12-23">
+<epno type="1">30</epno>
+<length>2</length>
+<airdate>2019-10-28</airdate>
+<title xml:lang="ja">広島愛を止めるな</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Hiroshima Ai o Tomeruna</title>
+</episode>
+<episode id="223876" update="2019-12-23">
+<epno type="1">31</epno>
+<length>2</length>
+<airdate>2019-11-04</airdate>
+<title xml:lang="ja">琵琶湖に眠るプレゼント</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Biwako ni Neru Present</title>
+</episode>
+<episode id="224094" update="2019-12-23">
+<epno type="1">32</epno>
+<length>2</length>
+<airdate>2019-11-11</airdate>
+<title xml:lang="ja">ケー子が高知で甘~い恋愛バトルぜよ!</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Keiko ga Kouchi de Amaai Ren`ai Battle Zeyo!</title>
+</episode>
+<episode id="224424" update="2019-12-23">
+<epno type="1">33</epno>
+<length>2</length>
+<airdate>2019-11-18</airdate>
+<title xml:lang="ja">みんなで作れ! 富山の秘薬</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Minna de Tsukure! Toyama no Hiyaku</title>
+</episode>
+<episode id="224613" update="2019-12-23">
+<epno type="1">34</epno>
+<length>2</length>
+<airdate>2019-11-25</airdate>
+<title xml:lang="ja">太陽の国! フェニックスマスラオ!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Taiyou no Kuni! Phoenix Masurao!</title>
+</episode>
+<episode id="224889" update="2019-12-23">
+<epno type="1">35</epno>
+<length>2</length>
+<airdate>2019-12-02</airdate>
+<title xml:lang="ja">ジモト愛でGO! 佐賀バルーンレース!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Jimoto Ai de Go! Saga Balloon Race!</title>
+</episode>
+<episode id="225114" update="2019-12-23">
+<epno type="1">36</epno>
+<length>2</length>
+<airdate>2019-12-09</airdate>
+<title xml:lang="ja">不思議な栃木のジモンキー</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Fushigi na Tochinoki no Jimonkey</title>
+</episode>
+<episode id="225371" update="2019-12-23">
+<epno type="1">37</epno>
+<length>2</length>
+<airdate>2019-12-16</airdate>
+<title xml:lang="ja">愛媛からおはよう</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Ehime kara Ohayou</title>
+</episode>
+<episode id="225466" update="2019-12-23">
+<epno type="1">38</epno>
+<length>2</length>
+<airdate>2019-12-23</airdate>
+<title xml:lang="ja">サイレント山口ナイト~聖なる夜においでませ~</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Silent Yamaguchi Night: Seinaru Yoru ni Oidemase</title>
+</episode>
+<episode id="225726" update="2019-12-30">
+<epno type="1">39</epno>
+<length>2</length>
+<airdate>2020-01-06</airdate>
+<title xml:lang="ja">突撃金箔お宅訪問! in 石川</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Totsugeki Kinpaku Otaku Houmon! in Ishikawa</title>
+</episode>
+<episode id="226033" update="2020-01-13">
+<epno type="1">40</epno>
+<length>2</length>
+<airdate>2020-01-13</airdate>
+<title xml:lang="ja">夢の千葉ジモティーランド</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Yume no Chiba Jimoteyland</title>
+</episode>
+<episode id="226170" update="2020-01-21">
+<epno type="1">41</epno>
+<length>2</length>
+<airdate>2020-01-20</airdate>
+<title xml:lang="ja">岩手県襲撃事件</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Iwate-ken Shuugeki Jiken</title>
+</episode>
+<episode id="226484" update="2020-01-27">
+<epno type="1">42</epno>
+<length>2</length>
+<airdate>2020-01-27</airdate>
+<title xml:lang="ja">美しき!? 兵庫のスター</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Utsukushiki!? Hyougo no Star</title>
+</episode>
+<episode id="226637" update="2020-02-03">
+<epno type="1">43</epno>
+<length>2</length>
+<airdate>2020-02-03</airdate>
+<title xml:lang="ja">郡上おどりでレッツゴー!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Gujou Odori de Let`s Go!</title>
+</episode>
+<episode id="226803" update="2020-02-10">
+<epno type="1">44</epno>
+<length>2</length>
+<airdate>2020-02-10</airdate>
+<title xml:lang="ja">島根に消えたヒデ~トラブルミステリートレイン~</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Shimane ni Kieta Hide: Trouble Mystery Train</title>
+</episode>
+<episode id="226941" update="2020-02-17">
+<epno type="1">45</epno>
+<length>2</length>
+<airdate>2020-02-17</airdate>
+<title xml:lang="ja">北海道はデッカイドー</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Hokkaidou wa Dekkaidou</title>
+</episode>
+<episode id="227124" update="2020-02-24">
+<epno type="1">46</epno>
+<length>2</length>
+<airdate>2020-02-24</airdate>
+<title xml:lang="ja">かっとばせ徳島!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Kattobase Tokushima!</title>
+</episode>
+<episode id="227307" update="2020-03-02">
+<epno type="1">47</epno>
+<length>2</length>
+<airdate>2020-03-02</airdate>
+<title xml:lang="ja">ジャパンに迫る黒い影~青森脱出編~</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Japan ni Semaru Kurai Kage: Aomori Dasshutsu Hen</title>
+</episode>
+<episode id="227370" update="2020-03-09">
+<epno type="1">48</epno>
+<length>2</length>
+<airdate>2020-03-09</airdate>
+<title xml:lang="ja">なんだパンダで和歌山県</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Nanda Panda de Wakayama-ken</title>
+</episode>
+<episode id="227434" update="2020-03-17">
+<epno type="1">49</epno>
+<length>2</length>
+<airdate>2020-03-16</airdate>
+<title xml:lang="ja">地獄のツーリングバトル in 熊本</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Jigoku no Touring Battle in Kumamoto</title>
+</episode>
+<episode id="227510" update="2020-03-23">
+<epno type="1">50</epno>
+<length>2</length>
+<airdate>2020-03-23</airdate>
+<title xml:lang="ja">繰り出せ! 都道府拳最終奥義!</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Kuridase! Todoufuken Saishuu Ougi!</title>
+</episode>
+</episodes>
+</anime>

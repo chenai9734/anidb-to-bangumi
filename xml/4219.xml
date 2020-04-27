@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4219" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1917-01</startdate>
+<enddate>1917-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Imokawa Mukuzo: Genkanban no Maki</title>
+<title xml:lang="en" type="synonym">Imokawa Mukuzo: The Janitor</title>
+<title xml:lang="ja" type="official">芋川椋三玄関番の巻</title>
+</titles>
+<creators>
+<name id="5507" type="Direction">Shimokawa Hekoten</name>
+</creators>
+<description>Although it`s not the earliest animation to be made in Japan, it`s the first one to have been publicly shown in a theatre. Because of that, it`s regarded as the first "true" anime film.
+Neither this anime, nor any of http://anidb.net/cr5507 [Shimokawa]`s five other animated shorts are known to have survived and don`t exist anymore.</description>
+<ratings>
+<permanent count="18">4.28</permanent>
+<temporary count="18">5.55</temporary>
+</ratings>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4936</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17387</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Imokawa_Mukuzo_Genkanban_no_Maki</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>芋川椋三玄関番の巻</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>156006</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="52299" update="2008-07-10">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

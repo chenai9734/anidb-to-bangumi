@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12808" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Biblia Koshodou no Jiken Techou</title>
+<title xml:lang="ja" type="official">ビブリア古書堂の事件手帖</title>
+</titles>
+<similaranime>
+<anime id="13363" approval="1" total="4">Kimi no Suizou o Tabetai</anime>
+<anime id="13904" approval="1" total="3">Kyoto Teramachi Sanjou no Holmes</anime>
+</similaranime>
+<creators>
+<name id="48882" type="Original Work">Mikami En</name>
+</creators>
+<picture>197989.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34900</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359686</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4224" parentid="7242" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-03">
+<name>adapted into JDrama</name>
+<description>This anime is a http://anidb.net/t2797 [new original work], and it has been adapted into a JDrama.
+A JDrama (Japanese drama), also called "terebi dorama" ("television drama") or "dorama" for short, is a Japanese live action television series.
+Japan produces many drama series every year, from a huge variety of genres. Like anime, they generally air in three-month seasons or multiples thereof, with new shows airing every season. Some kinds of drama, especially the morning or afternoon ones, tend to be broadcast daily, while evening ones tend to be broadcast weekly, also like anime.
+In exceedingly rare instances, a specific episode of a new original work anime can also be adapted.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="7075" parentid="7242" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-05-07">
+<name>adapted into Japanese movie</name>
+<description>This anime is a http://anidb.net/t2797 [new original work], and it has been adapted into a Japanese movie.
+In exceedingly rare instances, a specific episode of a new original work anime can also be adapted.</description>
+</tag>
+<tag id="7242" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-03">
+<name>adapted into other media</name>
+<description>This anime is a http://anidb.net/t2797 [new original work], and it has been adapted into other media formats.
+In exceedingly rare instances, a specific episode of a new original work anime can also be adapted.</description>
+</tag>
+</tags>
+</anime>

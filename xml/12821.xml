@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12821" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-08-13</startdate>
+<enddate>2016-08-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Aikatsu! Nerawareta Mahou no Aikatsu! Card</title>
+<title xml:lang="ja" type="official">アイカツ! ~ねらわれた魔法のアイカツ! カード~</title>
+</titles>
+<relatedanime>
+<anime id="9348" type="Prequel">Aikatsu! Idol Katsudou!</anime>
+</relatedanime>
+<url>http://www.aikatsu-movie.net/</url>
+<creators>
+<name id="42824" type="Animation Work">BN Pictures</name>
+<name id="21614" type="Character Design">Yaguchi Hiroko</name>
+<name id="42824" type="Original Work">BN Pictures</name>
+<name id="1051" type="Original Plan">Bandai</name>
+<name id="7923" type="Direction">Kimura Ryuuichi</name>
+<name id="21614" type="Chief Animation Direction">Yaguchi Hiroko</name>
+<name id="3020" type="Music">Monaca</name>
+</creators>
+<description>Note: Screened alongside the film http://anidb.net/a11526 [Gekijouban Aikatsu Stars!]</description>
+<ratings>
+<permanent count="41">6.39</permanent>
+<temporary count="41">6.71</temporary>
+</ratings>
+<picture>199858.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18548</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32806</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.aikatsu-movie.net/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355786</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184512" update="2017-02-12">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2016-08-13</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

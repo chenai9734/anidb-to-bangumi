@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11274" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1979</startdate>
+<enddate>1979</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Uju Heukgisa</title>
+<title xml:lang="en" type="synonym">Space Black Knight</title>
+<title xml:lang="en" type="official">Captain of Cosmos</title>
+<title xml:lang="ko" type="official">우주 흑기사</title>
+</titles>
+<ratings>
+<permanent count="48">1.28</permanent>
+<temporary count="48">2.37</temporary>
+</ratings>
+<picture>174419.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>16822</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="6166" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>South Korean production</name>
+<description>See also: http://anidb.net/t6762 [North Korean production]</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="169371" update="2015-06-27">
+<epno type="1">1</epno>
+<length>70</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

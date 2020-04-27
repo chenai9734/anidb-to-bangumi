@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7157" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2001</startdate>
+<enddate>2001</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekai Meisaku Gekijou Kanketsu Ban: Nanatsu no Umi no Tico</title>
+<title xml:lang="en" type="synonym">World Masterpiece Theater Complete Edition: Tico &amp; Friends</title>
+<title xml:lang="ja" type="official">世界名作劇場・完結版 七つの海のティコ</title>
+</titles>
+<relatedanime>
+<anime id="2288" type="Full Story">Nanatsu no Umi no Tico</anime>
+</relatedanime>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/tico.php</url>
+<creators>
+<name id="1102" type="Work">BS Fuji</name>
+<name id="728" type="Work">Nippon Animation</name>
+</creators>
+<description>Nanami Simpson is a young girl. Her mother dies when she is young, and she goes to live with her father, Scott Simpson, on board a marine research vessel Peperonchino. Her father is a marine biologist, and he is in search of a creature known as the glowing whale. When he finds the bones of one of these, he is saddened, and resolves to change his mission towards preserving and caring for the creatures. Nanami befriends an orca which she names Tico, and she goes swimming with it every day. Eventually, she learns to breathe underwater which astounds her father. Nanami nearly drowns one day, and one of the glowing whales saves her from certain death and returns her to the vessel, where her father finally gets to see it.
+Source: ANN</description>
+<ratings>
+<permanent count="3">4.96</permanent>
+<temporary count="3">5.33</temporary>
+</ratings>
+<picture>38015.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25083</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/tico.php</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="111034" update="2009-10-30">
+<epno type="1">1</epno>
+<length>45</length>
+<title xml:lang="en">Part 1</title>
+</episode>
+<episode id="111035" update="2009-10-30">
+<epno type="1">2</epno>
+<length>45</length>
+<title xml:lang="en">Part 2</title>
+</episode>
+</episodes>
+</anime>

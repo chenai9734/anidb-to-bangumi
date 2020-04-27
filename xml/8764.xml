@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8764" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2000</startdate>
+<enddate>2000</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hoshi no Kirby Pilot</title>
+<title xml:lang="ja" type="official">星のカービィ PILOT</title>
+</titles>
+<relatedanime>
+<anime id="2448" type="Other">Hoshi no Kirby</anime>
+</relatedanime>
+<description>To celebrate the release of Kirby Air Ride in Japan, a special Kirby DVD was released with a popular video gaming magazine. It had clips from episodes and different games, and also a short `pilot anime` that seems to be an early form of the show. No information was given about it, and it was not narrated with any voice acting. It was done in a mix of 3D computer graphics and 2D animation, much like the current series.</description>
+<ratings>
+<permanent count="50">2.37</permanent>
+<temporary count="50">4.07</temporary>
+</ratings>
+<picture>75371.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>11717</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="32445" type="main character in" update="2011-05-19">
+<rating votes="2">8.40</rating>
+<name>Kirby</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>4155.gif</picture>
+</character>
+<character id="32447" type="secondary cast in" update="2015-02-24">
+<name>Dedede Daiou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169395.jpg</picture>
+</character>
+<character id="32452" type="appears in" update="2011-05-19">
+<rating votes="2">10.00</rating>
+<name>Meta Knight</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>4161.gif</picture>
+</character>
+</characters>
+<episodes>
+<episode id="134453" update="2011-10-29">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10454" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-05-31</startdate>
+<enddate>2014-05-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Yuuto-kun ga Iku</title>
+<title xml:lang="ja" type="official">劇場版 ゆうとくんがいく</title>
+</titles>
+<relatedanime>
+<anime id="9932" type="Other">Yuuto-kun ga Iku</anime>
+</relatedanime>
+<url>http://movie.gogo-yuto.com/</url>
+<picture>150423.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16258</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22197</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://movie.gogo-yuto.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348367</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17267</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="64673" type="main character in" update="2014-02-20">
+<name>Yuuto-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Protagonist of the series.</description>
+<picture>150514.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="158136" update="2014-02-18">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2014-05-31</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

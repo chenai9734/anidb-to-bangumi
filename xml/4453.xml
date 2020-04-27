@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4453" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2000</startdate>
+<enddate>2000</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Noisy Birth</title>
+<title xml:lang="ja" type="official">我ハ機ナリ</title>
+</titles>
+<url>http://www.studio-rikka.com/page/other/other.htm</url>
+<creators>
+<name id="1265" type="Unknown Relation">Yoshiura Yasuhiro</name>
+</creators>
+<description>Music video from http://anidb.net/cr1265 [Yoshiura Yasuhiro], with music by Shibata Yuki.</description>
+<ratings>
+<permanent count="325">2.36</permanent>
+<temporary count="331">4.61</temporary>
+</ratings>
+<picture>10791.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>5158</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.studio-rikka.com/page/other/other.htm</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2851" parentid="7050" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-11">
+<name>horror</name>
+<description>The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.</description>
+<picurl>214682.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="53715" update="2006-08-13">
+<epno type="1">1</epno>
+<length>2</length>
+<rating votes="1">6.09</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

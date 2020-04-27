@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4112" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2006-01-08</startdate>
+<enddate>2006-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kage kara Mamoru!</title>
+<title xml:lang="en" type="synonym">Protecting You From the Shadows</title>
+<title xml:lang="x-jat" type="synonym">Kage Kara Mamoru</title>
+<title xml:lang="zh-Hans" type="synonym">阴守忍者</title>
+<title xml:lang="x-jat" type="short">KKM!</title>
+<title xml:lang="x-jat" type="short">KaKaMa</title>
+<title xml:lang="x-jat" type="short">kagemamo</title>
+<title xml:lang="ja" type="official">陰からマモル!</title>
+<title xml:lang="en" type="official">Guardian Ninja Mamoru</title>
+</titles>
+<similaranime>
+<anime id="4917" approval="1" total="4">Hayate no Gotoku!</anime>
+</similaranime>
+<url>http://www.aniplex.co.jp/kagemamo/</url>
+<creators>
+<name id="2971" type="Music">Watanabe Takeshi</name>
+<name id="4372" type="Direction">Fujimoto Yoshitaka</name>
+<name id="21656" type="Original Work">Achi Tarou</name>
+<name id="15895" type="Character Design">Watanabe Natsuki</name>
+<name id="774" type="Animation Work">Group Tac</name>
+<name id="3107" type="Series Composition">Kingetsu Ryuunosuke</name>
+</creators>
+<description>* Based on the novel by http://anidb.net/cr21656 [Achi Tarou], art by http://anidb.net/cr31268 [Madara Sai], serialised in http://anidb.net/cr31298 [Comic Flapper].
+http://anidb.net/ch5397 [Kagemori Mamoru] is a dowdy boy whose hair is dishevelled and wearing thick glasses. But actually he is the son of a ninja family. They have protected their neighbour, the Konnyaku family, secretly for 400 years. Mamoru has also protected the daughter, http://anidb.net/ch5398 [Konnyaku Yuuna], since they were in the kindergarten. When Yuuna is in trouble, Mamoru quickly puts on a ninja suit, and turns into a competent ninja to help her.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="1457">4.01</permanent>
+<temporary count="1472">6.74</temporary>
+<review count="4">6.91</review>
+</ratings>
+<picture>54777.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>6114</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>590</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3567</identifier>
+<identifier>atchcd</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/contents/kagemamo/</url>
+</externalentity>
+<externalentity>
+<url>http://www.aniplex.co.jp/kagemamo/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Kage_Kara_Mamoru!</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>陰からマモル!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>769</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>324527</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7869</identifier>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/1384</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>2006/kagemamo</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1589" parentid="2622" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-08">
+<name>samurai</name>
+<picurl>244341.jpg</picurl>
+</tag>
+<tag id="1802" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-01-24">
+<name>seinen</name>
+<description>Seinen, literally "young man", is one of the main demographic classifications applied to manga, and, by extension, to anime, especially manga-based ones. As the name implies, seinen works are marketed primarily to an audience of young men; the age range commonly understood to be the target of such works goes roughly from 17 to somewhere in the 40s.</description>
+<picurl>181651.jpg</picurl>
+</tag>
+<tag id="2043" parentid="2869" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>high school</name>
+<description>A secondary school that usually contains grades 10 through 12 in Japan, or 9 through 12 in America.</description>
+<picurl>210064.jpg</picurl>
+</tag>
+<tag id="2282" parentid="2841" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2572" parentid="2282" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-09">
+<name>ninja</name>
+<description>A ninja was a covert agent or mercenary of feudal Japan specializing in unorthodox arts of war.
+The functions of the ninja included espionage, sabotage, infiltration, and assassination, as well as open combat in certain situations.
+The ninja, using covert methods of waging war, were contrasted with the samurai, who had strict rules about honor and combat.</description>
+<picurl>244347.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-12-04">
+<name>fetishes</name>
+<description>Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. </description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2617" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-10-15">
+<name>calling your attacks</name>
+<description>"GIGAAAAAA DRIIIIIILLL BREAKEEEEEERRR"
+If you can do something more impressive than just throw a punch, your attack(s) must have an equally impressive name. More than that, you have to call it out as you launch the attack. It doesn`t matter if it`s a martial arts move, a magical spell or your secret superweapon, if you can`t say its name, it just isn`t nearly as cool or effective.
+Having a special attack is always a must, but not impressive enough. Every special attack needs a name. A really awesome and outstanding name which is easy to remember and even easier and impressive to yell. Because it just is not enough to name your attack. No, to unleash the full power of your attack, you have to call its name in your most MANLY and LOUDEST voice.
+It does not matter whether it is a martial arts move, a magical spell or flying drills from your mecha, if you can`t call its name, it just isn`t nearly as cool or effective. Not a requirement but wearing shades while calling your attack makes it at least twice as cool, moreover giving your mecha or magical companion shades too results in an immeasurable level of awesomeness, bringing down every enemy just through the POWER OF YOUR VOICE.
+A standard feature of practically every mecha, mahou shoujo, high fantasy, or martial arts anime.
+[Source: TV Tropes]</description>
+<picurl>144260.jpg</picurl>
+</tag>
+<tag id="2622" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+<picurl>211286.jpg</picurl>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2741" parentid="2891" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-12-14">
+<name>large breasts</name>
+<description>Large breasts are breasts a fair notch larger than average, as found in some adolescent girls or fully grown women; however, as anime has no upper limit to breast size, the definition applies somewhat differently. To be considered large, breasts in anime must be bigger than real-life natural ones or natural-seeming fake ones, to the point they`d appear weirdly or even abnormally large in real-life females. On the high end of the spectrum, breasts that are as big as the character`s head or possibly a bit bigger are still considered large; however, breasts that take at least as much space as the rest of the chest or the abdomen, or that are almost as big but have an absurdly unnatural shape, are the less common http://anidb.net/t1774 [gigantic breasts] instead.</description>
+<picurl>161014.jpg</picurl>
+</tag>
+<tag id="2778" parentid="2858" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2012-11-09">
+<name>slow when it comes to love</name>
+<description>The main protagonists in this anime have a very hard time trying to express their feelings to each other. They simply will not finally confess their love.
+In some cases this romance element is based on unrequited love, or an absurd amount of shyness.</description>
+</tag>
+<tag id="2790" parentid="2605" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-17">
+<name>plot continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+A single linear focused plot is highly continuous.
+A truly random plot is highly discontinuous.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2856" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-05">
+<name>ecchi</name>
+<description>Fan service is found in many anime, in many forms. When the service has a distinctly sexual slant to it, and it appears to be a major focus of the show, then it`s safe to assume you`re watching ecchi.
+The word "ecchi" is used by English-speaking anime fans to refer to refer to soft-core pornographic or sexually suggestive anime and manga. This is a western invention; in Japanese, it is a catch-all term for all things anyhow sexual in nature, not being limited to porn, but also not really considered a "milder" term, as it may also refer to sexual intercourse itself. The term "ecchi" in Japanese comes from the pronunciation of the letter "H" in English, which is rendered into Japanese syllabary as エッチ, which in turn is transliterated in the English alphabet as "ecchi" or "etchi". It is not, as many believe, short for "hentai" -- that, too, seems to be a western invention. It is, however, nearly as misunderstood and misapplied a term as "hentai".
+The line between ecchi and hentai, from the western perspective over these terms, can be hard to draw at times; one good rule of thumb is: if it was aired on Japanese public TV at all, it probably wasn`t hentai. Ecchi usually features all the specifics to human anatomy that can only be found in anime, and generally avoids full nudity, instead abusing of panty shots. Hentai, on the other hand, will usually show full frontal nudity in some explicit form, including genitalia, and full, intimate sex scenes. At its mildest, ecchi is composed of double entendres, big misunderstandings, and sexual farce; at its most explicit, it is still in the realm of softcore pornography, with full breast shots, full back nudity and similar content, but no display of genitalia. Another good way to distinguish the two is looking for animated sex scenes; if one is found, you have generally left the genre entirely, though a few borderline exceptions apply here. For AniDB`s purposes, the distinction between explicit ecchi and actual hentai is simple: if it was sold with a 18+ restriction in its country of origin, it is hentai; if it was sold without it, it is ecchi.
+Source: TV Tropes</description>
+<picurl>32416.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2859" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>harem</name>
+<description>Harem is an entertainment-related trope which is characterized by three or more characters, normally female, who for some reason are in the presence and under the influence of one character, generally male, according to a few genre-defining guidelines; here it will be assumed, for simplicity of language, that the harem lead is a male character and the members are female characters. Though that is the rule, there are exceptions; a story in which there is one female character and several male characters is normally called a "http://anidb.net/t2792 [reverse harem]", or sometimes also "male harem". Aside from the swapping of the characters` genders, the trope`s details are mostly the same, with the majority of the changes relating to the differences in behavior between men and women of the characters` age range. It is also possible to create harems with homosexual relationships, again with very few changes to the main antics themselves. The harem may not have more than only one lead, as that would be a love polygon, or less than three members, as one would form a couple and two would make a love triangle.
+As a defining rule of harem, the interactions between the lead and each of the individual members are filled with romantically or sexually loaded content, either implicitly, through innuendo or subtext, or explicitly, through text or actions, and those actions are a key plot element. Generally, the female characters` looks and personalities will vary a lot among the ones present in one single series, but quite rarely will they actually differ from the common stock archetypes, which are known, well-defined, and easy to copy; for this reason, the genre as a whole is often considered repetitive. Usually, the characters involved directly in this trope are in the late teenager to young adult age range, but that is not mandatory. Sexually charged behavior on the lead`s part pretty much can`t be avoided, and it`s typical to see him stamped as a pervert by some or all of the members, regardless of whether he is one; the sexual tones also applies to the depiction of the harem members, often leading the genre to labeled sexist. The lead will often suffer very violent retribution for his behavior, which has attracted criticism of gratuitous violence as well.
+Most of the harem members will be romantically or sometimes sexually interested in the one male character, and in him alone; that, however, is not an absolute rule, and indeed sometimes none of the female characters are really interested at first, so the protagonist has to build relationships with them from scratch. That idea comes in large part from visual novels; it is quite common for visual novels to revolve around controlling the male lead and have him build relationships with either as many female characters as possible or with one of them, the latter being more common for visual novels with branched story paths; a large portion of those visual novels also feature erotic content, which may be hard to adapt to TV series. It may be also possible that the harem is only a support to the existing or predictable relationship between the lead and the most important member; additionally, the lead may end up in relationships with most or all of the harem members, with the agreement of all, in a setting normally called "harem ending".</description>
+<picurl>94602.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2891" parentid="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-12-31">
+<name>breasts</name>
+<description>The female bust size matters! Or does it? The three subcategories spell out the sizes that relate to fetishes, be they gigantic, large or small. Normal sized breasts are not a fetish, it seems. The tag is not only used for ecchi anime, but also for hentai shows as well.</description>
+<picurl>161015.jpg</picurl>
+</tag>
+<tag id="3575" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-13">
+<name>damsel in distress</name>
+<description>The damsel in distress is usually a young, nubile woman placed in a dire predicament by a villain or a monster and requires a hero to dash to her rescue. Often used to unite the cast of a show for this one goal, to make them put differences aside and become a band of nakama. 
+Examples: Sakoshita Yanagi from Rekka no Honoo, Yuuki Miaka from Fushigi Yuugi or Higurashi Kagome from Inuyasha.</description>
+</tag>
+<tag id="4481" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>protection complex</name>
+<description>A character has a protection complex if the character is overly protective of other characters, beyond what would be considered a "normal" or "expected" duty of care.
+The magnitude of overprotection can vary. It can be as low as constantly nagging someone to "stay safe". It can be as extreme as the protector making it their mission in life to protect the other character.</description>
+</tag>
+<tag id="5835" parentid="2856" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-28">
+<name>Gainax bounce</name>
+<description>A term that has come to describe often exaggerated, very jiggly, fluid, and painstakingly detailed animation of female characters` bouncing breasts. 
+The term has its roots in http://anidb.net/a185 [Top o Nerae!] — Gunbuster, Gainax`s first OVA (1988), in which the Gainax bounce is found unabated in the three female characters of Noriko, Kazumi, and Jung.</description>
+<picurl>166074.jpg</picurl>
+</tag>
+<tag id="5884" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-03-22">
+<name>slow-paced</name>
+<description>The story — including its characters and events — develop slowly.
+May contain a weak continuity of plot and/or character development. 
+Or may be a story telling device to increase the "sense of foreboding" in an anime with thriller or horror setting.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+</tags>
+<characters>
+<character id="5393" type="secondary cast in" update="2009-03-25">
+<rating votes="5">4.18</rating>
+<name>Kagemori Sakurako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mamoru`s mother. She is a ninja and is in charge of protecting Yuuna`s mother.</description>
+<picture>21968.jpg</picture>
+<seiyuu id="229" picture="152363.jpg">Itou Miki</seiyuu>
+</character>
+<character id="5394" type="secondary cast in" update="2009-03-25">
+<rating votes="3">3.38</rating>
+<name>Kagemori Kengo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mamoru`s father. He is a ninja and is in charge of protecting Yuuna`s father.</description>
+<picture>21967.jpg</picture>
+<seiyuu id="2369" picture="157264.jpg">Izumi</seiyuu>
+</character>
+<character id="5395" type="secondary cast in" update="2009-03-25">
+<rating votes="5">4.36</rating>
+<name>Hattori Yamame</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A ninja and a relative of Mamoru. She remembers when Mamoru comforted her when she was little; however, she is quite disappointed after seeing the glasses-wearing person he is now.</description>
+<picture>21966.jpg</picture>
+<seiyuu id="550" picture="151677.jpg">Shimizu Ai</seiyuu>
+</character>
+<character id="5396" type="secondary cast in" update="2009-03-25">
+<rating votes="6">3.80</rating>
+<name>Sawagashi Airi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A wealthy girl and a classmate and friend of Mamoru and Yuuna. She discourages any relationship between Yuuna and Mamoru, because childhood friends who become lovers are generally unsuccessful. However, she also has feelings for Kagemori. She conceals her feelings by always beating up Mamoru but occasionally gives hints that she likes him but unfortunately Mamoru doesn`t understand it.</description>
+<picture>21965.jpg</picture>
+<seiyuu id="357" picture="32000.jpg">Shintani Ryouko</seiyuu>
+</character>
+<character id="5397" type="main character in" update="2009-03-25">
+<rating votes="10">5.70</rating>
+<name>Kagemori Mamoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A dowdy boy whose hair is dishevelled and wears thick glasses, which are actually a form of concealment/camouflage, and is very lazy except when he`s saving Yuuna. He is actually the son of a ninja family, which has been protecting the Konnyaku family for 400 years. He reveals his true self (without glasses) when he transforms into a ninja to protect Yuuna from harm. He has been friends with Yuuna since they were children, and has also been in the same class as her since kindergarten. He also has a fear of bears, which developed because of him trying to protect Yamame from a bear in his childhood.</description>
+<picture>21964.jpg</picture>
+<seiyuu id="484" picture="17476.jpg">Kisaichi Atsushi</seiyuu>
+</character>
+<character id="5398" type="main character in" update="2009-03-25">
+<rating votes="14">4.20</rating>
+<name>Konnyaku Yuuna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mamoru`s childhood friend and neighbour. She is a quite clumsy and often ditzy girl. These qualities cause her to get into many troublesome situations.</description>
+<picture>21963.jpg</picture>
+<seiyuu id="6" picture="171987.jpg">Nakahara Mai</seiyuu>
+</character>
+<character id="5399" type="secondary cast in" update="2009-03-25">
+<rating votes="6">4.20</rating>
+<name>Kumogakure Hotaru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A ninja. She confesses her love to Mamoru when they first meet. She lost to Yamame in a ninja athletic meet after being distracted by Yamame pretending to see a UFO. She and her brother attack Mamoru in order to avenge their disgrace.</description>
+<picture>21962.jpg</picture>
+<seiyuu id="2294" picture="21983.jpg">Furukawa Erina</seiyuu>
+</character>
+<character id="5400" type="secondary cast in" update="2009-03-25">
+<rating votes="6">5.70</rating>
+<name>Mapputatsu Tsubaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A miko swordswoman. Her sword can cut anything but nata de coco. She was first hired by the yakuza boss in order avenge his earlier defeat at Mamoru`s hands.</description>
+<picture>21961.jpg</picture>
+<seiyuu id="643" picture="228609.jpg">Kojima Sachiko</seiyuu>
+</character>
+<character id="35459" type="secondary cast in" update="2011-08-10">
+<rating votes="1">8.27</rating>
+<name>Kagemori Mamoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kagemori Mamoru is actually the son of a ninja family, which has been protecting the Konnyaku family for 400 years. He reveals his true self (without glasses) when he transforms into a ninja to protect Yuuna from harm.</description>
+<picture>126303.jpg</picture>
+<seiyuu id="484" picture="17476.jpg">Kisaichi Atsushi</seiyuu>
+</character>
+<character id="81948" type="secondary cast in" update="2016-05-01">
+<name>Burumaru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>186374.jpg</picture>
+<seiyuu id="6982" picture="186155.jpg">Yamaguchi Noboru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="45842" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2006-01-08</airdate>
+<rating votes="5">5.96</rating>
+<title xml:lang="ja">まもり続けて四百年</title>
+<title xml:lang="en">Continuing To Protect For 400 Years</title>
+<title xml:lang="x-jat">Mamori Tsuzukete Yonhyaku Nen</title>
+</episode>
+<episode id="45959" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2006-01-15</airdate>
+<rating votes="3">7.27</rating>
+<title xml:lang="ja">この世で斬れぬ物はなし</title>
+<title xml:lang="en">There Is Nothing In This World That I Cannot Cut</title>
+<title xml:lang="x-jat">Kono Yo de Kirenu Mono wa Nashi</title>
+</episode>
+<episode id="46404" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2006-01-22</airdate>
+<rating votes="3">7.27</rating>
+<title xml:lang="ja">忍の里から来た少女</title>
+<title xml:lang="en">Girl From The Village Of Ninjas</title>
+<title xml:lang="x-jat">Shinobi no Sato kara Kita Shoujo</title>
+</episode>
+<episode id="46706" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2006-02-01</airdate>
+<rating votes="1">4.36</rating>
+<title xml:lang="ja">なんてたってアイドル</title>
+<title xml:lang="en">Such thing as an idol</title>
+<title xml:lang="x-jat">Nante Tatte Idol</title>
+</episode>
+<episode id="46707" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2006-02-05</airdate>
+<rating votes="2">3.55</rating>
+<title xml:lang="ja">乙女心と侍魂</title>
+<title xml:lang="en">A Maiden`s Heart And A Samurai`s Soul</title>
+<title xml:lang="x-jat">Otomegokoro to Samurai Tamashii</title>
+</episode>
+<episode id="46949" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2006-02-17</airdate>
+<rating votes="2">6.52</rating>
+<title xml:lang="ja">転校生はドキドキ美少女</title>
+<title xml:lang="en">The new Transfer Student is a Sensational Pretty Girl</title>
+<title xml:lang="x-jat">Tenkousei wa Doki Doki Bishoujo</title>
+</episode>
+<episode id="46976" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2006-02-19</airdate>
+<rating votes="1">7.25</rating>
+<title xml:lang="ja">少年忍者マモル</title>
+<title xml:lang="en">Ninja Boy Mamoru</title>
+<title xml:lang="x-jat">Shounen Ninja Mamoru</title>
+</episode>
+<episode id="46977" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2006-02-26</airdate>
+<rating votes="1">7.25</rating>
+<title xml:lang="ja">沢菓家防犯大作戦!</title>
+<title xml:lang="en">The Sawagashi Household`s Crime Prevention Battle</title>
+<title xml:lang="x-jat">Sawagashike Bouhan Daisakusen!</title>
+</episode>
+<episode id="47682" update="2011-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2006-03-12</airdate>
+<rating votes="3">6.04</rating>
+<title xml:lang="ja">小鐘井UFO注意報!</title>
+<title xml:lang="en">Kokanei`s... UFO Watch!</title>
+<title xml:lang="x-jat">Kokanei UFO Chuuihou!</title>
+</episode>
+<episode id="47683" update="2011-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2006-03-19</airdate>
+<rating votes="2">5.64</rating>
+<title xml:lang="ja">ゆうなの黄金伝説</title>
+<title xml:lang="en">Yuna`s Golden Legend</title>
+<title xml:lang="x-jat">Yuuna no Ougon Densetsu</title>
+</episode>
+<episode id="47684" update="2011-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2006-03-26</airdate>
+<rating votes="4">7.32</rating>
+<title xml:lang="ja">ばいばい, ゆうな</title>
+<title xml:lang="en">Bye, bye, Yuna</title>
+<title xml:lang="x-jat">Bye-bye, Yuuna</title>
+</episode>
+<episode id="47685" update="2011-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2006-03-26</airdate>
+<rating votes="4">5.31</rating>
+<title xml:lang="ja">陰からマモル!</title>
+<title xml:lang="en">Kage Kara Mamoru!</title>
+<title xml:lang="x-jat">Kage kara Mamoru!</title>
+</episode>
+<episode id="177416" update="2016-05-01">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2006-01-08</airdate>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="177417" update="2016-05-01">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2006-01-08</airdate>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

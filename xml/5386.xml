@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5386" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1918-03-01</startdate>
+<enddate>1918-03-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Momotarou</title>
+<title xml:lang="ja" type="official">桃太郎</title>
+</titles>
+<description>A boy sent from heaven and his animal companions fight against a group of ogres on a magical island. Momotaro is an extremely popular character from Japanese folklore and is sometimes known in the west as Peach Boy.</description>
+<ratings>
+<permanent count="14">3.66</permanent>
+<temporary count="14">4.42</temporary>
+</ratings>
+<picture>33848.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4937</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10758</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>156327</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="102739" update="2009-05-26">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

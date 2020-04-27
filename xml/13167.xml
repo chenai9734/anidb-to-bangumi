@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13167" restricted="false">
+<type>Web</type>
+<episodecount>5</episodecount>
+<startdate>2017-08-04</startdate>
+<enddate>2017-12-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gundam Build Fighters: Battlogue</title>
+<title xml:lang="ja" type="official">ガンダムビルドファイターズ バトローグ</title>
+</titles>
+<relatedanime>
+<anime id="12123" type="Prequel">Gundam Build Fighters Try: Island Wars</anime>
+</relatedanime>
+<url>http://www.gundam-bf.net/battlogue/</url>
+<creators>
+<name id="147" type="Original Work">Tomino Yoshiyuki</name>
+<name id="1572" type="Series Composition">Kuroda Yousuke</name>
+<name id="153" type="Direction">Oobari Masami</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="1649" type="Character Design">Oonuki Ken`ichi</name>
+<name id="27786" type="Music">Hayashi Yuuki</name>
+<name id="34207" type="Music">Tachibana Asami</name>
+</creators>
+<description>This is a dynamic dream battle featuring many types of Gunpla skirmishing in all sorts of situations.
+Source: gundam.info</description>
+<ratings>
+<permanent count="63">4.63</permanent>
+<temporary count="63">5.75</temporary>
+</ratings>
+<picture>205759.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19916</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35567</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gundam-bf.net/battlogue/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360656</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>buildfighters</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="2204" type="appears in" update="2009-12-02">
+<rating votes="55">2.96</rating>
+<name>Ribbons Almark</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A mysterious young man who always accompanies Alejandro Corner.</description>
+<picture>39600.jpg</picture>
+<seiyuu id="32833" picture="17354.jpg">Sougetsu Noboru</seiyuu>
+</character>
+<character id="3971" type="appears in" update="2012-04-10">
+<rating votes="107">7.89</rating>
+<name>Amuro Ray</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Amuro is the hero of our story, and the pilot of the mighty mobile suit RX-78 Gundam. As the series begins, he is a civilian living at the Side 7 research colony, the neglected son of a Federation Forces engineer. When Zeon mobile suits attack the colony, Amuro commandeers the prototype Gundam and defeats the invaders. He soon finds himself part of the substitute crew of the Federation warship White Base, and this moody young man begins to develop strong bonds with his newfound "family." Meanwhile, Amuro`s increasing fighting skills suggest that he has potential far beyond that of ordinary mortals...
+Source: Official Site</description>
+<picture>85679.jpg</picture>
+<seiyuu id="454" picture="17354.jpg">Furuya Tooru</seiyuu>
+</character>
+<character id="3974" type="appears in" update="2012-04-10">
+<rating votes="332">9.00</rating>
+<name>Char Aznable</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Known as the "Red Comet" for his high-speed attack tactics, Char is the most famous of Zeon`s ace mobile suit pilots. He earned his nickname by destroying five Federation battleships during the Battle of Loum, and after the attack on Side 7, he becomes the dreaded nemesis of the White Base crew. However, defeating the Federation isn`t the only thing on Char`s mind, and his distinctive mask hides the face of a young man bent on his own personal quest for revenge. As the story continues, Char begins putting his own complicated schemes into motion, even as he becomes distracted by his growing rivalry with the Gundam`s pilot.
+Source: Official Site</description>
+<picture>85692.jpg</picture>
+<seiyuu id="384" picture="17230.jpg">Seki Toshihiko</seiyuu>
+</character>
+<character id="10951" type="cameo appearance in" update="2012-05-06">
+<rating votes="37">7.98</rating>
+<name>Lalah Sune</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>This young woman is a test subject of the Flanagan Institute, a Zeon research organization created to investigate the gifted humans known as "newtypes." While the exploits of pilots like Char and Amuro have led to speculation that they may be newtypes, Lalah`s powers are obvious and undeniable, and accompanied by a profound spiritual awareness. However, despite her gentle nature, Lalah is fiercely loyal to the man who saved her life - Char Aznable, the scheming "Red Comet."</description>
+<picture>87316.jpg</picture>
+</character>
+<character id="90808" type="appears in" update="2017-08-04">
+<name>CB-9696G/C/T Reversible Gundam</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>205793.jpg</picture>
+</character>
+<character id="90809" type="appears in" update="2017-08-04">
+<name>Ballistic Zaku</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>205794.jpg</picture>
+</character>
+<character id="93854" type="appears in" update="2018-02-18">
+<name>PF-73-3BL Gundam Lightning Black Warrior</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213206.jpg</picture>
+</character>
+<character id="93855" type="appears in" update="2018-02-18">
+<name>Gundam Dryon III</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213207.jpg</picture>
+</character>
+<character id="93856" type="appears in" update="2018-02-18">
+<name>Riku Dryon</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213208.jpg</picture>
+</character>
+<character id="93857" type="appears in" update="2018-02-18">
+<name>Umi Dryon</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213209.jpg</picture>
+</character>
+<character id="93858" type="appears in" update="2018-02-18">
+<name>Sora Dryon</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213210.jpg</picture>
+</character>
+<character id="93860" type="secondary cast in" update="2018-02-18">
+<name>SF-01 Super Fumina</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213212.jpg</picture>
+<seiyuu id="475" picture="17433.jpg">Makino Yui</seiyuu>
+</character>
+<character id="93861" type="secondary cast in" update="2018-02-18">
+<name>HG-01 Hyper Gyanko</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213213.jpg</picture>
+<seiyuu id="346" picture="17184.jpg">Hirohashi Ryou</seiyuu>
+</character>
+<character id="93862" type="appears in" update="2018-02-18">
+<name>Chinagguy</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213214.jpg</picture>
+<seiyuu id="443" picture="145927.jpg">Ishikawa Yui</seiyuu>
+</character>
+<character id="93863" type="appears in" update="2018-02-18">
+<name>WF-02C Command Fumina</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213215.jpg</picture>
+<seiyuu id="475" picture="17433.jpg">Makino Yui</seiyuu>
+</character>
+<character id="93865" type="appears in" update="2018-02-18">
+<name>HG-02R Rick-Do Gyanko</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213217.jpg</picture>
+<seiyuu id="346" picture="17184.jpg">Hirohashi Ryou</seiyuu>
+</character>
+<character id="93866" type="appears in" update="2018-02-18">
+<name>WF-01 Winning Fumina</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213218.jpg</picture>
+<seiyuu id="475" picture="17433.jpg">Makino Yui</seiyuu>
+</character>
+<character id="93868" type="appears in" update="2018-02-18">
+<name>GN-006/SA Cherudim Gundam SAGA</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213225.jpg</picture>
+</character>
+<character id="93869" type="appears in" update="2018-02-18">
+<name>GNX-611T/G Striker GN-X</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213226.jpg</picture>
+</character>
+<character id="93870" type="appears in" update="2018-02-18">
+<name>GNX-803T GN-XIV</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213227.jpg</picture>
+</character>
+<character id="93871" type="appears in" update="2018-02-18">
+<name>Build Strike Galaxy Cosmos</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213228.jpg</picture>
+</character>
+<character id="93872" type="appears in" update="2018-02-18">
+<name>A-Z Gundam</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>213229.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="189788" update="2019-10-30">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2017-11-02</airdate>
+<title xml:lang="ja">俺たちの戦争</title>
+<title xml:lang="en">Our War</title>
+<title xml:lang="x-jat">Oretachi no Sensou</title>
+<summary>Having received intelligence from the regular forces, a team of three GN-X types are standing by in the jungle, seeking clues to the location of a private armed organization`s base. Then suddenly, they detect an enemy transport container on their sensors. The GN-X team immediately begin pursuit, but a Cherudim Gundam SAGA emerges from the container and bars their way. Two GN-X units engage the deployed Cherudim Gundam SAGA, while the remaining one continues pursuing the transport container, eventually discovering an enemy base concealed by optical camouflage. But what appears there is a huge opponent, with light glowing from every part.</summary>
+</episode>
+<episode id="189789" update="2019-10-30">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2017-10-06</airdate>
+<title xml:lang="ja">ふみなとギャン子の大冒険</title>
+<title xml:lang="en">The Adventures of Fumina and Gyanko</title>
+<title xml:lang="x-jat">Fumina to Gyanko no Daibouken</title>
+<summary>To defeat the evil Miyaga, Super Fumina and Hyper Gyanko must seek out its castle, relying on a Song Dynasty map. Passing through a dark forest, they come across Bearbear Village, where Petit`gguys live together in peace. But for some reason, when Fumina and Gyanko see them, the Petit`gguys panic and run away. Perplexed by the situation, the pair are then confronted by an openly hostile China`gguy.
+Source: Youtube</summary>
+</episode>
+<episode id="189790" update="2017-09-11">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2017-09-08</airdate>
+<title xml:lang="ja">敵の秘密開発工場を叩け!</title>
+<title xml:lang="en">Smash the Enemy`s Secret Factory!</title>
+<title xml:lang="x-jat">Teki no Himitsu Kaihatsu Koujou o Tatake!</title>
+<summary>For the grand opening of "G-Quest," Yuuma Kousaka and Minato Sakai are invited to The Gundam Base Tokyo to be its first challengers. G-Quest is a new Gunpla Battle attraction, in which the goal is to clear an event set up by the battle system. Yuuma sets the Gundam Lightning Black Warrior in his GP Base, while Minato chooses the Gundam Dryon III. The time limit is ten minutes! The two of them begin their attempt to break into a secret base protected by countless Gunpla and destroy a new mobile suit that is under construction, before their time runs out.
+Source: Youtube</summary>
+</episode>
+<episode id="189791" update="2017-08-04">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2017-08-04</airdate>
+<title xml:lang="ja">AIバトローグ</title>
+<title xml:lang="en">AI Battlogue</title>
+<title xml:lang="x-jat">AI Battlogue</title>
+</episode>
+<episode id="193546" update="2017-12-01">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2017-12-08</airdate>
+<title xml:lang="ja">ガンプラは最高だ!</title>
+<title xml:lang="en">Gunpla Is the Greatest!</title>
+<title xml:lang="x-jat">Gunpla wa Saikou Da!</title>
+</episode>
+</episodes>
+</anime>

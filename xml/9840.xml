@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9840" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2013-04-27</startdate>
+<enddate>2013-04-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Garon</title>
+<title xml:lang="en" type="synonym">GARON THE GUARDIAN</title>
+<title xml:lang="ja" type="official">ガロン</title>
+</titles>
+<url>http://www.osaka-geidai.ac.jp/geidai/whatsnew/sangaku/garon/</url>
+<creators>
+<name id="723" type="Work">Tezuka Productions</name>
+<name id="1195" type="Original Work">Tezuka Osamu</name>
+<name id="5134" type="Direction">Yoshikawa Souji</name>
+<name id="48689" type="Work">Osaka Geijutsu Daigaku</name>
+</creators>
+<description>The story follows an awe-imposing giant named Garon who comes from space to Earth, threatening humanity with extinction. However, a girl believes that Garon is not evil, and reaches out to Pick, a boy contained inside Garon`s body. Meanwhile, the military plans to a nuclear strike against Garon.
+Source: ANN
+Note: Played at The Osamu Tezuka Manga Museum in Hyogo Prefecture eight times a day from April 27 to May 14. "Garon" celebrateds the 50th anniversary of Mighty Atom (Astro Boy), the first full-fledged television anime in Japan, and the upcoming 20th anniversary of the museum. </description>
+<ratings>
+<permanent count="3">6.48</permanent>
+<temporary count="3">7.50</temporary>
+</ratings>
+<picture>135416.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30362</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.osaka-geidai.ac.jp/geidai/whatsnew/sangaku/garon/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>魔神ガロン</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="149750" update="2013-04-19">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2013-04-27</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="167859" update="2015-08-19">
+<epno type="4">T1</epno>
+<length>4</length>
+<title xml:lang="en">Movie clip</title>
+</episode>
+</episodes>
+</anime>

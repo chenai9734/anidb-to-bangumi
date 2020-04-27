@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7866" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1992-11-01</startdate>
+<enddate>1992-11-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kero Kero Keroppi no Christmas Eve no Okurimono</title>
+<title xml:lang="ja" type="official">けろけろけろっぴのクリスマス・イブのおくりもの</title>
+</titles>
+<ratings>
+<permanent count="5">4.22</permanent>
+<temporary count="5">3.60</temporary>
+</ratings>
+<picture>163999.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23144</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17983</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="41768" type="main character in" update="2012-02-26">
+<name>Keroppi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82267.jpg</picture>
+</character>
+<character id="41771" type="secondary cast in" update="2012-02-26">
+<name>Kerorinu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82271.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="120824" update="2010-08-05">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1992-11-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

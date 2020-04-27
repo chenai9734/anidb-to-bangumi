@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14092" restricted="false">
+<type>Movie</type>
+<episodecount>3</episodecount>
+<startdate>2018-10-12</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Uchuu no Hou: Reimei Hen</title>
+<title xml:lang="en" type="synonym">The Laws of the Universe: Part 1</title>
+<title xml:lang="ja" type="official">宇宙の法-黎明編-</title>
+</titles>
+<relatedanime>
+<anime id="11263" type="Prequel">UFO Gakuen no Himitsu</anime>
+</relatedanime>
+<url>http://laws-of-universe.hspicturesstudio.jp/</url>
+<creators>
+<name id="47013" type="Animation Work">HS Pictures Studio</name>
+<name id="4469" type="Character Design">Imakake Isamu</name>
+<name id="6000" type="Original Plan">Ookawa Ryuuhou</name>
+<name id="4469" type="Direction">Imakake Isamu</name>
+<name id="4469" type="Chief Animation Direction">Imakake Isamu</name>
+<name id="15499" type="Music">Mizusawa Yuuichi</name>
+</creators>
+<ratings>
+<permanent count="2">1.98</permanent>
+<temporary count="2">2.00</temporary>
+</ratings>
+<picture>219960.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21132</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37915</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://laws-of-universe.hspicturesstudio.jp/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364327</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>HSPicStd</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="75441" type="main character in" update="2015-09-23">
+<rating votes="1">5.01</rating>
+<name>Mizuse Anna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174004.jpg</picture>
+<seiyuu id="21733" picture="152476.jpg">Seto Asami</seiyuu>
+</character>
+<character id="75442" type="main character in" update="2015-09-23">
+<name>Kazama Eisuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174003.jpg</picture>
+<seiyuu id="29" picture="202917.jpg">Hatano Wataru</seiyuu>
+</character>
+<character id="75443" type="main character in" update="2015-09-23">
+<name>Kusakabe Taira</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174007.jpg</picture>
+<seiyuu id="174" picture="41158.jpg">Kakihara Tetsuya</seiyuu>
+</character>
+<character id="75444" type="main character in" update="2015-09-23">
+<rating votes="1">2.34</rating>
+<name>Morishita Haruka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174005.jpg</picture>
+<seiyuu id="12266" picture="56026.jpg">Kanemoto Hisako</seiyuu>
+</character>
+<character id="75445" type="main character in" update="2015-09-23">
+<name>Amashiro Rei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174006.jpg</picture>
+<seiyuu id="29979" picture="223317.jpg">Oosaka Ryouta</seiyuu>
+</character>
+<character id="95680" type="secondary cast in" update="2018-05-22">
+<name>Zamza</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217854.jpg</picture>
+<seiyuu id="55068" picture="217855.jpg">Sengen Yoshiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="209164" update="2018-10-12">
+<epno type="1">1</epno>
+<length>120</length>
+<airdate>2018-10-12</airdate>
+<title xml:lang="en">Movie 1</title>
+</episode>
+</episodes>
+</anime>

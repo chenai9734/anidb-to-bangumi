@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8743" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2005-04-30</startdate>
+<enddate>2005-04-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ryoku Tama Shinshi</title>
+<title xml:lang="en" type="synonym">Monsieur Greenpeas</title>
+<title xml:lang="ja" type="official">緑玉紳士</title>
+</titles>
+<url>http://www.grasshoppa.jp/greenpeas/</url>
+<creators>
+<name id="29808" type="Character Design">Kurita Yasuo</name>
+<name id="29808" type="Direction">Kurita Yasuo</name>
+<name id="13809" type="Music">Nakatsuka Takeshi</name>
+</creators>
+<ratings>
+<permanent count="1">6.27</permanent>
+<temporary count="1">7.00</temporary>
+</ratings>
+<picture>74347.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33078</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.grasshoppa.jp/greenpeas/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>緑玉紳士</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>322118</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="134550" update="2011-11-01">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2005-04-30</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7456" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2009-10-03</startdate>
+<enddate>2009-10-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kikansha Yaemon</title>
+<title xml:lang="ja" type="official">きかんしゃやえもん</title>
+</titles>
+<relatedanime>
+<anime id="2219" type="Alternative Setting">Kikansha Yaemon: D51 no Daibouken</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/movie/2009_anime_matsuri/yaemon/index.html</url>
+<creators>
+<name id="4449" type="Direction">Kaizawa Yukio</name>
+<name id="2336" type="Music">Takaki Hiroshi</name>
+</creators>
+<description>A 3D movie screened at Toei`s anime festival "Tobidasu! 3D Toei Anime Matsuri" on 03.10.2009. The DVD became available on 21.02.2010 titled "CG Toei Anime Matsuri" and it contained 3 other CG anime works by Toei (http://anidb.net/a7455 [Gegege no Kitarou: Kitarou no Yuurei Densha], http://anidb.net/a7445 [Digimon Savers 3D: Digital World Kiki Ippatsu!] and http://anidb.net/a7444 [Digimon Adventure 3D: Digimon Grand Prix!]).</description>
+<ratings>
+<permanent count="3">3.05</permanent>
+<temporary count="3">4.33</temporary>
+</ratings>
+<picture>45373.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8492</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/movie/2009_anime_matsuri/yaemon/index.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>334956</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12330</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="117213" update="2010-03-28">
+<epno type="1">1</epno>
+<length>35</length>
+<airdate>2009-10-03</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7750" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1990-08-26</startdate>
+<enddate>1990-08-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sore Ike! Anpanman: Minami no Umi o Sukue!</title>
+<title xml:lang="ja" type="official">それいけ! アンパンマン みなみの海をすくえ!</title>
+</titles>
+<creators>
+<name id="5957" type="Character Design">Yamada Michishiro</name>
+<name id="4408" type="Chief Direction">Nagaoka Akinori</name>
+<name id="5606" type="Original Work">Yanase Takashi</name>
+<name id="2866" type="Chief Animation Direction">Maeda Minoru</name>
+<name id="4847" type="Music">Izumi Taku</name>
+</creators>
+<ratings>
+<permanent count="3">7.11</permanent>
+<temporary count="3">6.66</temporary>
+</ratings>
+<picture>52276.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>12388</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>21291</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>みなみの海をすくえ!</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234373</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11479</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="30040" type="main character in" update="2011-03-14">
+<rating votes="25">1.63</rating>
+<name>Anpanman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67836.jpg</picture>
+<seiyuu id="1734" picture="38029.jpg">Toda Keiko</seiyuu>
+</character>
+<character id="30041" type="main character in" update="2011-03-14">
+<rating votes="10">1.63</rating>
+<name>Baikinman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67837.jpg</picture>
+<seiyuu id="3149" picture="132209.jpg">Nakao Ryuusei</seiyuu>
+</character>
+<character id="30043" type="secondary cast in" update="2011-03-14">
+<rating votes="9">1.63</rating>
+<name>Jam-ojisan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67839.jpg</picture>
+<seiyuu id="3228" picture="151725.jpg">Masuoka Hiroshi</seiyuu>
+</character>
+<character id="30046" type="appears in" update="2011-03-14">
+<rating votes="3">1.63</rating>
+<name>Batako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67842.jpg</picture>
+<seiyuu id="555" picture="23759.jpg">Sakuma Rei</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="120534" update="2010-07-31">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1990-08-26</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

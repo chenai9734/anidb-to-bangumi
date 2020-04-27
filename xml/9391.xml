@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9391" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010-01-03</startdate>
+<enddate>2010-01-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chuuzumou</title>
+<title xml:lang="en" type="synonym">A Sumo Wrestler`s Tale</title>
+<title xml:lang="ja" type="official">ちゅうずもう</title>
+</titles>
+<url>http://www.ghibli-museum.jp/welcome/cinema/008864.html</url>
+<creators>
+<name id="5873" type="Direction">Yamashita Akihiko</name>
+<name id="8165" type="Music">Watanobe Manto</name>
+<name id="729" type="Work">Studio Ghibli</name>
+</creators>
+<description>* Based on the Japanese folk tale Nezumi no Sumo (ねずみのすもう).
+A farmer witnesses the sumo match of his house`s mice and is disappointed when they lose horribly. He and his wife prepare a feast to help the mice train for their next match. The next night, they go to see how their mice fare against the competition...
+Note: The seventh in a series of short films produced to screen exclusively at the http://anidb.net/cr729 [Studio Ghibli] Museum in Japan. There has been no commercial release for this film, which premiered at the museum`s Saturn Theater on 3 January 2010.</description>
+<ratings>
+<permanent count="31">4.45</permanent>
+<temporary count="31">5.64</temporary>
+<review count="1">10.00</review>
+</ratings>
+<picture>1579.jpeg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15176</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8632</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ghibli-museum.jp/welcome/cinema/008864.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.ghibli-museum.jp/en/006018.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>A_Sumo_Wrestler's_Tail</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ちゅうずもう</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358708</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>13008</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2634" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>countryside</name>
+<description>The anime takes place far from the any densely populated areas like cities, i.e. out in the suburbs, in the countryside with many fields and forests.</description>
+</tag>
+<tag id="3597" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-02-26">
+<name>mythology</name>
+<description>The anime gets inspirations from many forms of mythologies (either Greek, Egyptian, Nord, etc.) to form its story and setting.</description>
+</tag>
+<tag id="3876" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>folklore</name>
+<description>Folklore, or simply Lore, are the traditions of a culture, subculture, or group, in the form of legends, music, proverbs, jokes, popular beliefs, fairy tales, stories, tall tales and customs. In usage, there is a continuum between folklore and mythology.
+Folklore is generally divided into four areas of study: physical artifacts, transmissible entities and stories, culture and technologies, and behaviors and rituals.
+[From Wikipedia]</description>
+</tag>
+<tag id="4048" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-17">
+<name>Japanese mythology</name>
+<description>Japanese mythology is a system of beliefs that embraces Shinto and Buddhist traditions as well as agriculture-based folk religion. The Shinto pantheon alone consists of an uncountable number of kami (Japanese for "gods" or "spirits").
+(Source: Wikipedia)</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="143796" update="2012-09-09">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2010-01-03</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

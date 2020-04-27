@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12901" restricted="false">
+<type>Web</type>
+<episodecount>3</episodecount>
+<startdate>2017-02-27</startdate>
+<enddate>2017-09-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fintan</title>
+<title xml:lang="ja" type="official">フィンたん</title>
+</titles>
+<url>http://www.finland.or.jp/public/default.aspx?contentid=358571&amp;nodeid=41206&amp;culture=ja-JP</url>
+<description>Fintan, the popular twitter character of the Embassy of Finland in Tokyo, gets a new life as an anime hero in a novel promotion of the centennial of the Finnish independence in Japan.</description>
+<ratings>
+<permanent count="10">2.85</permanent>
+<temporary count="10">4.00</temporary>
+</ratings>
+<picture>198948.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34980</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.finland.or.jp/public/default.aspx?contentid=358571&amp;nodeid=41206&amp;culture=ja-JP</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359846</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="185126" update="2017-02-28">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2017-02-27</airdate>
+<title xml:lang="ja">ユニーク大会にチャレンジ!</title>
+<title xml:lang="en">Unique World Championships!</title>
+<title xml:lang="fi">Suomalaiset MM-Kisat!</title>
+<title xml:lang="x-jat">Unique Taikai ni Challenge!</title>
+</episode>
+<episode id="186975" update="2017-04-13">
+<epno type="1">2</epno>
+<length>3</length>
+<airdate>2017-04-13</airdate>
+<title xml:lang="ja">フィンたんと桜の出会い</title>
+<title xml:lang="en">Encounter Under the Cherry Trees</title>
+<title xml:lang="fi">Tapaaminen kirsikkapuiden alla</title>
+<title xml:lang="x-jat">Fintan to Sakura no Deai</title>
+</episode>
+<episode id="190752" update="2017-09-15">
+<epno type="1">3</epno>
+<length>3</length>
+<airdate>2017-09-15</airdate>
+<title xml:lang="ja">フィンランド・ジャパンアワード</title>
+<title xml:lang="en">Presenting Finland-Japan awards!</title>
+<title xml:lang="fi">On Suomi-Japani palkintogaalan aika!</title>
+<title xml:lang="x-jat">Finland Japan Award</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6638" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2008-05-24</startdate>
+<enddate>2008-05-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Himitsukessha Taka no Tsume The Movie II: Watashi o Aishita Kuro Oolong-Cha</title>
+<title xml:lang="en" type="synonym">Eagle Talon The Movie II</title>
+<title xml:lang="ja" type="official">秘密結社 鷹の爪 THE MOVIE II~私を愛した黒烏龍茶~</title>
+</titles>
+<relatedanime>
+<anime id="6958" type="Sequel">Himitsukessha Taka no Tsume The Movie 3: http://takanotsume.jp wa Eien ni</anime>
+<anime id="6555" type="Prequel">Himitsukessha Taka no Tsume The Movie: Soutou wa Nido Shinu</anime>
+</relatedanime>
+<url>http://www.takamovie.jp</url>
+<creators>
+<name id="3825" type="Character Design">Frogman</name>
+<name id="3825" type="Direction">Frogman</name>
+</creators>
+<ratings>
+<permanent count="5">4.11</permanent>
+<temporary count="5">3.00</temporary>
+</ratings>
+<picture>29381.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11035</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8356</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4604</identifier>
+<identifier>iugayw</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.takamovie.jp</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1821</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>330088</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12120</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="7189" type="appears in" update="2009-06-20">
+<rating votes="1">8.26</rating>
+<name>Deluxe Fighter</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3056.png</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="7191" type="main character in" update="2009-06-20">
+<rating votes="1">9.19</rating>
+<name>Soutou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3054.png</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="7193" type="main character in" update="2009-06-20">
+<name>Yoshida</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3055.png</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="104305" update="2009-06-21">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2008-05-24</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

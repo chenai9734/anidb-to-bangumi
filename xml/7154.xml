@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7154" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2001</startdate>
+<enddate>2001</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekai Meisaku Gekijou Kanketsu Ban: Trapp Ikka Monogatari</title>
+<title xml:lang="en" type="synonym">World Masterpiece Theater Complete Edition: The Trapp Family Story</title>
+<title xml:lang="ja" type="official">世界名作劇場・完結版 トラップ一家物語</title>
+</titles>
+<relatedanime>
+<anime id="2293" type="Full Story">Trapp Ikka Monogatari</anime>
+</relatedanime>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/trapp.php</url>
+<creators>
+<name id="728" type="Work">Nippon Animation</name>
+<name id="1102" type="Work">BS Fuji</name>
+</creators>
+<description>* Based on the novel by http://anidb.net/cr10124 [Maria von Trapp].
+Maria leaves her life in a convent to take up the responsibility of taking care of Captain Trapp`s children.
+Source: ANN</description>
+<ratings>
+<permanent count="5">6.03</permanent>
+<temporary count="5">5.70</temporary>
+</ratings>
+<picture>38011.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25079</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/trapp.php</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="111030" update="2009-10-30">
+<epno type="1">1</epno>
+<length>45</length>
+<title xml:lang="en">Part 1</title>
+</episode>
+<episode id="111031" update="2009-10-30">
+<epno type="1">2</epno>
+<length>45</length>
+<title xml:lang="en">Part 2</title>
+</episode>
+</episodes>
+</anime>

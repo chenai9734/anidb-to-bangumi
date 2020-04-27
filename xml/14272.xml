@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14272" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1970</startdate>
+<enddate>1970</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hikoichi Tonchi Banashi</title>
+<title xml:lang="ja" type="official">彦一とんちばなし</title>
+</titles>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+<ratings>
+<permanent count="3">6.47</permanent>
+<temporary count="3">5.33</temporary>
+</ratings>
+<picture>222210.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34340</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204238" update="2018-08-13">
+<epno type="1">1</epno>
+<length>18</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

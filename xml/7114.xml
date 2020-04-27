@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7114" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1917-04-28</startdate>
+<enddate>1917-04-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chamebou Shin Gachou: Nomi Fuufu Shikaeshi no Maki</title>
+<title xml:lang="ja" type="official">茶目坊新画帳 蚤夫婦仕返しの巻</title>
+</titles>
+<url>http://archive.is/p4Feq</url>
+<ratings>
+<permanent count="1">1.05</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23187</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://archive.is/p4Feq</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="110786" update="2009-10-20">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

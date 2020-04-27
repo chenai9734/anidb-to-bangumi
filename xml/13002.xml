@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13002" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2008-04-03</startdate>
+<enddate>2008-04-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Believe</title>
+<title xml:lang="ja" type="official">Believe</title>
+</titles>
+<url>http://www.j-storm.co.jp/arashi/</url>
+<description>An animation made to promote the movie Yatterman, which stars Arashi member Sakurai Sho and uses "Believe" as its theme song.
+Each member of Arashi is animated and transforms into a character from the Yatterman series, fighting the bad guys and saving the day.
+Source: MAL</description>
+<ratings>
+<permanent count="31">4.90</permanent>
+<temporary count="31">5.00</temporary>
+</ratings>
+<picture>199894.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8921</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.j-storm.co.jp/arashi/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="186825" update="2018-01-23">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2008-04-03</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

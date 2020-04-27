@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7433" restricted="false">
+<type>OVA</type>
+<episodecount>3</episodecount>
+<startdate>2002-12-05</startdate>
+<enddate>2004-02-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kikou Heidan J-Phoenix PF Lips Shoutai</title>
+<title xml:lang="en" type="synonym">Armored Troopers J-Phoenix PF Lips Team</title>
+<title xml:lang="ja" type="official">機甲兵団 J-PHOENIX PFリップス小隊</title>
+</titles>
+<creators>
+<name id="720" type="Animation Work">J.C.Staff</name>
+<name id="7542" type="Series Composition">Taki Kouichi</name>
+<name id="1187" type="Original Work">Takara</name>
+<name id="2965" type="Direction">Kimura Shin`ichirou</name>
+</creators>
+<description>Original video animation bundled with games from Kikou Heidan J-Phoenix series.
+First volume was released together with the PS2 game Kikou Heidan J-Phoenix Cobalt Shoutai Hen and with the Xbox game Kikou Heidan J-Phoenix+.
+Second volume was released together with the PS2 game Kikou Heidan J-Phoenix2 Joshou Hen.
+Third and final volume was released together with the PS2 game Kikou Heidan J-Phoenix2.</description>
+<ratings>
+<permanent count="9">3.19</permanent>
+<temporary count="9">5.00</temporary>
+</ratings>
+<picture>53830.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8883</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6227</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="57585" type="main character in" update="2013-06-30">
+<rating votes="1">2.34</rating>
+<name>Lisa Iwasaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139311.jpg</picture>
+<seiyuu id="12" picture="184301.jpg">Kawasumi Ayako</seiyuu>
+</character>
+<character id="57586" type="main character in" update="2013-06-30">
+<rating votes="1">2.34</rating>
+<name>Pris Pipiasu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139312.jpg</picture>
+<seiyuu id="392" picture="17237.jpg">Matsuoka Yuki</seiyuu>
+</character>
+<character id="57587" type="main character in" update="2013-06-30">
+<name>Grenreader</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139313.jpg</picture>
+<seiyuu id="493" picture="65381.jpg">Itou Kentarou</seiyuu>
+</character>
+<character id="57588" type="main character in" update="2013-06-30">
+<rating votes="3">5.77</rating>
+<name>Izumi Uddovledge</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139314.jpg</picture>
+<seiyuu id="10" picture="226529.jpg">Noto Mamiko</seiyuu>
+</character>
+<character id="57589" type="main character in" update="2019-12-26">
+<name>Serina Baminto</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>139316.jpg</picture>
+<seiyuu id="160" picture="30490.jpg">Kaida Yuuko</seiyuu>
+</character>
+<character id="93327" type="secondary cast in" update="2018-01-20">
+<name>Keith</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212148.jpg</picture>
+<seiyuu id="236" picture="132757.jpg">Seki Tomokazu</seiyuu>
+</character>
+<character id="93328" type="secondary cast in" update="2018-01-20">
+<name>Airi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212149.jpg</picture>
+<seiyuu id="1436" picture="18822.jpg">Takagi Reiko</seiyuu>
+</character>
+<character id="93329" type="secondary cast in" update="2018-01-20">
+<name>Gluu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212150.jpg</picture>
+<seiyuu id="286" picture="17117.jpg">Ootsuka Akio</seiyuu>
+</character>
+<character id="93330" type="appears in" update="2018-01-20">
+<name>Roberto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212154.jpg</picture>
+<seiyuu id="32" picture="16618.jpg">Tachiki Fumihiko</seiyuu>
+</character>
+<character id="93331" type="appears in" update="2018-01-20">
+<name>Michelle</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212155.jpg</picture>
+<seiyuu id="369" picture="223406.jpg">Aoyama Yutaka</seiyuu>
+</character>
+<character id="93332" type="appears in" update="2018-01-20">
+<name>Marco</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212156.jpg</picture>
+<seiyuu id="2244" picture="52187.jpg">Nagashima Yuuichi</seiyuu>
+</character>
+<character id="93333" type="appears in" update="2018-01-20">
+<name>Tserenkopf</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212157.jpg</picture>
+<seiyuu id="3276" picture="24272.jpg">Nakagi Ryuuji</seiyuu>
+</character>
+<character id="93334" type="secondary cast in" update="2018-01-20">
+<name>Kokoro</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212161.jpg</picture>
+<seiyuu id="2387" picture="22211.jpg">Tokunaga Ai</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="117078" update="2010-03-24">
+<epno type="1">3</epno>
+<length>30</length>
+<airdate>2004-02-26</airdate>
+<title xml:lang="ja">Chu♡♡♡する要塞!</title>
+<title xml:lang="en">Volume 3</title>
+<title xml:lang="x-jat">Chu Suru Yousai!</title>
+</episode>
+<episode id="117079" update="2010-03-24">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2003-08-28</airdate>
+<title xml:lang="ja">ヒ・ミ・チュ♡♡</title>
+<title xml:lang="en">Volume 2</title>
+<title xml:lang="x-jat">Himichu</title>
+</episode>
+<episode id="117080" update="2010-03-24">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2002-12-05</airdate>
+<title xml:lang="ja">Chu♡お出かけLIP♡S!</title>
+<title xml:lang="en">Volume 1</title>
+<title xml:lang="x-jat">Chu Odekake Lips!</title>
+</episode>
+<episode id="188114" update="2017-06-04">
+<epno type="2">S4</epno>
+<length>1</length>
+<title xml:lang="en">Episode S4</title>
+</episode>
+<episode id="188115" update="2017-06-04">
+<epno type="2">S3</epno>
+<length>1</length>
+<title xml:lang="en">Episode S3</title>
+</episode>
+<episode id="188116" update="2017-06-04">
+<epno type="2">S2</epno>
+<length>1</length>
+<title xml:lang="en">Episode S2</title>
+</episode>
+<episode id="188117" update="2017-06-04">
+<epno type="2">S1</epno>
+<length>1</length>
+<title xml:lang="en">Episode S1</title>
+</episode>
+</episodes>
+</anime>

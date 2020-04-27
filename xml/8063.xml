@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8063" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2010-11-05</startdate>
+<enddate>2010-11-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anime Tenchou Gekijouban</title>
+<title xml:lang="bg" type="synonym">Аниме продавачът</title>
+<title xml:lang="ja" type="official">アニメ店長 激情版</title>
+</titles>
+<relatedanime>
+<anime id="5315" type="Other">Anime Tenchou</anime>
+<anime id="7982" type="Other">Anime Tenchou x Touhou Project</anime>
+</relatedanime>
+<url>http://www.animate.co.jp/aniten/10th_project01.html</url>
+<creators>
+<name id="1117" type="Animation Work">Ufotable</name>
+</creators>
+<description>A project made to celebrate the 10th anniversary of the http://anidb.net/cr803 [Animate] mascot character Anime Tenchou, screened at the Animate Ichioshi Bishoujo Matsuri event in Tokyo.</description>
+<ratings>
+<permanent count="41">4.30</permanent>
+<temporary count="42">5.57</temporary>
+</ratings>
+<picture>58106.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9861</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.animate.co.jp/aniten/10th_project01.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="124683" update="2010-10-27">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2010-11-05</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

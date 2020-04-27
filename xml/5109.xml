@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5109" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1985-03-28</startdate>
+<enddate>1985-03-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mahou no Tenshi Creamy Mami: Lovely Serenade</title>
+<title xml:lang="bg" type="synonym">Магическият ангел Крийми Мами: Прекрасна серенада</title>
+<title xml:lang="ja" type="official">魔法の天使クリィミーマミ ラブリーセレナーデ</title>
+</titles>
+<relatedanime>
+<anime id="521" type="Other">Mahou no Tenshi Creamy Mami</anime>
+</relatedanime>
+<creators>
+<name id="3008" type="Character Design">Takada Akemi</name>
+<name id="500" type="Series Composition">Mochizuki Tomomi</name>
+<name id="3740" type="Series Composition">Itou Kazunori</name>
+</creators>
+<description>An anime music video with songs from the anime series.</description>
+<ratings>
+<permanent count="38">4.95</permanent>
+<temporary count="38">5.84</temporary>
+</ratings>
+<picture>43051.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15628</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4126</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4477</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>327357</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1284</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2794" parentid="2883" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>music</name>
+<description>Music anime generally revolves around people concerned with music in their everyday lives. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competitions, characters desire for self improvement, and pursuit of a specific goal. This is not unlike the Sports category.</description>
+<picurl>169131.jpg</picurl>
+</tag>
+<tag id="2883" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>the arts</name>
+<description>The arts represent an outlet of human expression, usually influenced by culture, and driven by human creative impulse. Major constituents of the arts include literature – including poetry, novels and short stories, and epics; performing arts – among them music, dance, and theatre; culinary arts such as baking, chocolatiering, and winemaking; media arts like photography and film, and visual arts – including drawing, painting, and sculpting. Some art forms combine a visual element with performance (e.g. film) and the written word (e.g. comics).
+From prehistoric cave paintings to modern day films, art serves as a vessel for storytelling and conveying mankind`s relationship with its environment.
+Source: Wiki</description>
+</tag>
+</tags>
+<characters>
+<character id="16526" type="main character in" update="2012-04-11">
+<rating votes="11">6.41</rating>
+<name>Creamy Mami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Creamy Mami is http://anidb.net/ch16534 [Yuu]`s appearance as a 16-year old girl under which she becomes an idol.</description>
+<picture>4693.png</picture>
+<seiyuu id="8269" picture="32789.jpg">Oota Takako</seiyuu>
+</character>
+<character id="16528" type="main character in" update="2010-11-21">
+<name>Ootomo Toshio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Friend of Morisawa Yuu and Kisaragi Midori, he falls in love with Creamy Mami after her first TV appearance. He doesn`t know that she is actually a transformed Yuu, who in turn has a love interest in him.</description>
+<picture>5394.png</picture>
+<seiyuu id="3272" picture="172136.jpg">Mizushima Yuu</seiyuu>
+</character>
+<character id="16534" type="main character in" update="2012-04-11">
+<rating votes="8">8.33</rating>
+<name>Morisawa Yuu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A normal 10-year old girl, Yuu harbours a secret crush for her childhood friend Ootomo Toshio. Given the ability to transform into a 16-year old girl, she is made to fill in for the absent Ayase Megumi to sing on TV. Giving her name as Creamy Mami, she becomes an overnight hit.</description>
+<picture>4691.png</picture>
+<seiyuu id="8269" picture="32789.jpg">Oota Takako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="68761" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1985-03-28</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14266" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1974</startdate>
+<enddate>1974</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ningyo Hime</title>
+<title xml:lang="ja" type="official">にんぎょひめ</title>
+</titles>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+<ratings>
+<permanent count="3">7.44</permanent>
+<temporary count="3">6.00</temporary>
+</ratings>
+<picture>222203.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34815</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204235" update="2018-08-13">
+<epno type="1">1</epno>
+<length>19</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

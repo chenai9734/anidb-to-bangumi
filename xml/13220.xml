@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13220" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2016-02-11</startdate>
+<enddate>2016-03-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next</title>
+<title xml:lang="ja" type="official">忍たま乱太郎の宇宙大冒険 with コズミックフロント☆NEXT</title>
+</titles>
+<relatedanime>
+<anime id="13221" type="Sequel">Nintama Rantarou no Uchuu Daibouken with Cosmic Front Next (2016)</anime>
+<anime id="3626" type="Parent Story">Nintama Rantarou</anime>
+</relatedanime>
+<url>http://www9.nhk.or.jp/anime/nintama/nintama-cosmic/</url>
+<description>Note: A collaboration special between http://anidb.net/a3626 [Nintama Rantarou] and the documentary show Cosmic Front Next.</description>
+<picture>238049.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32773</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www9.nhk.or.jp/anime/nintama/nintama-cosmic/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>https://pf.nhk-ep.co.jp/detail/1975</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>List_of_Nintama_Rantarō_episodes#Ninjaboys:_Quest_for_the_Cosmic_Front</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4075</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="6729" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-10">
+<name>documentary</name>
+<description>A documentary is traditionally defined as a nonfictional motion picture or series intended to portray some aspect of reality, primarily for the purposes of instruction, education, or maintaining a historical record. However, inside a work of fiction, it may also describe fictional, in-show events in documentary style. A documentary should not be confused with a http://anidb.net/t4618 [mockumentary], a show where fictional events are presented in documentary style with the explicit purpose of parodying actual facts related to them or to an aspect of them.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="188195" update="2019-02-11">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2016-03-05</airdate>
+<title xml:lang="ja">月ウサギがクレーターをかけるの段</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Tsuki Usagi ga Crater o Kakeru no Dan</title>
+</episode>
+<episode id="188196" update="2018-06-08">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2016-02-11</airdate>
+<title xml:lang="ja">太陽系のお友だちの段</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Taiyoukei no Otomodachi no Dan</title>
+</episode>
+</episodes>
+</anime>

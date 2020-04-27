@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10436" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2013-10-25</startdate>
+<enddate>2013-10-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Right Places: Sono Toki, Boku no Irubeki Basho</title>
+<title xml:lang="ja" type="synonym">ふさわしい場所</title>
+<title xml:lang="x-jat" type="synonym">Fusawashii Basho</title>
+<title xml:lang="ja" type="official">Right Places その時, ぼくの居るべき場所</title>
+</titles>
+<creators>
+<name id="44695" type="Work">Mateusz Urbanowicz</name>
+<name id="44695" type="Original Plan">Mateusz Urbanowicz</name>
+<name id="44695" type="Direction">Mateusz Urbanowicz</name>
+</creators>
+<description>A boy starts to see strange animals that appear in his city. As seasons pass, the boy wonders why he is able to see them and feels lonely because he is the only one able to do so. However, one day he realizes that he is not alone anymore.
+— written by Singan</description>
+<ratings>
+<permanent count="95">3.85</permanent>
+<temporary count="95">5.55</temporary>
+</ratings>
+<picture>181956.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39018</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>https://web.archive.org/web/20141110165400/http://mattjehome.wordpress.com/right-places-about</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5561" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2010-08-16">
+<name>lonely atmosphere</name>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="157924" update="2014-07-15">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2013-10-25</airdate>
+<title xml:lang="en">Short Animation</title>
+</episode>
+<episode id="174501" update="2016-01-16">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">PV</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11676" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-10-01</startdate>
+<enddate>2015-10-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chou Kidou Gaiku: Kashiwa-no-Ha</title>
+<title xml:lang="ja" type="official">超機動街区 KASHIWA-NO-HA</title>
+</titles>
+<url>http://www.kashiwanoha-robot.jp/</url>
+<creators>
+<name id="8031" type="Character Design">Sajiki Daisuke</name>
+<name id="3574" type="Direction">Morita Shuuhei</name>
+<name id="22647" type="Music">Kitazato Reiji</name>
+<name id="847" type="Animation Work">Yamato Works</name>
+</creators>
+<description>The short was supposed to be the first in a series of three anime shorts directed by Morita. The short is set in 2018, and it centers on a family who are looking for a new home. The family visits a model room in a condominium complex, then as they are walking around town, they find that some of the surrounding condominiums can transform into giant robots.
+Source: ANN, adapted</description>
+<ratings>
+<permanent count="17">4.03</permanent>
+<temporary count="17">4.41</temporary>
+</ratings>
+<picture>178122.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31749</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.kashiwanoha-robot.jp/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354313</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2274" parentid="2638" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="78152" type="appears in" update="2015-11-08">
+<name>GT Ki</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>179190.jpg</picture>
+</character>
+<character id="78155" type="main character in" update="2015-11-08">
+<name>Takashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179192.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="78157" type="appears in" update="2015-11-08">
+<name>Ichiban Machi Ki</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>179188.jpg</picture>
+</character>
+<character id="78159" type="appears in" update="2015-11-08">
+<name>Niban Machi Ki</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>179189.jpg</picture>
+</character>
+<character id="78168" type="main character in" update="2015-11-08">
+<name>Yuuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179193.jpg</picture>
+<seiyuu id="227" picture="205854.jpg">Sakamoto Maaya</seiyuu>
+</character>
+<character id="78169" type="main character in" update="2015-11-08">
+<name>Eita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179194.jpg</picture>
+<seiyuu id="227" picture="205854.jpg">Sakamoto Maaya</seiyuu>
+</character>
+<character id="78170" type="main character in" update="2015-11-08">
+<name>Mari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179191.jpg</picture>
+<seiyuu id="38593" picture="223625.jpg">Kokido Shiho</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="172217" update="2015-10-01">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2015-10-01</airdate>
+<title xml:lang="ja">The Gate Tower</title>
+<title xml:lang="en">The Gate Tower</title>
+<title xml:lang="x-jat">The Gate Tower</title>
+</episode>
+</episodes>
+</anime>

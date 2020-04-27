@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14367" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1974</startdate>
+<enddate>1974</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Odoroki Ban</title>
+<title xml:lang="ja" type="official">驚き盤</title>
+</titles>
+<creators>
+<name id="11205" type="Direction">Furukawa Taku</name>
+</creators>
+<description>A short animation film by http://anidb.net/cr11205 [Furukawa Taku].</description>
+<ratings>
+<permanent count="14">2.22</permanent>
+<temporary count="15">3.83</temporary>
+</ratings>
+<picture>223063.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29681</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14168</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205922" update="2018-09-01">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5035" restricted="false">
+<type>TV Series</type>
+<episodecount>312</episodecount>
+<startdate>1961-05-01</startdate>
+<enddate>1962-02-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Instant History</title>
+<title xml:lang="ja" type="official">インスタントヒストリー</title>
+</titles>
+<relatedanime>
+<anime id="5034" type="Sequel">Otogi Manga Calendar</anime>
+</relatedanime>
+<creators>
+<name id="4995" type="Original Work">Yokoyama Ryouichi</name>
+<name id="4995" type="Direction">Yokoyama Ryouichi</name>
+</creators>
+<description>The show was about historical events through a character who was not aware of what happened on this day in history. Sometimes photographs and film footages were mixed in with the animations to explain what historical event had taken place. The research archives came from the Mainichi Shinbun newspaper where the director`s Fuku-chan manga was printing at the time.
+Note: Instant History with 312 episodes, each being just 3 minutes long. Combined with it`s sequel http://anidb.net/a5034 [Otogi Manga Calendar] it paved the path for all the other Series.</description>
+<ratings>
+<permanent count="4">1.82</permanent>
+<temporary count="4">1.00</temporary>
+</ratings>
+<picture>50910.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3543</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>14211</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>インスタントヒストリー</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235188</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>105</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>a002</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>247</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5529" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-11-05">
+<name>black and white</name>
+<description>Some or all of this anime is in black and white, typical of older anime made before ~1960. Some modern anime may intentionally shift to black and white for certain scenes or episodes as an artistic effect.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="102751" update="2009-05-26">
+<epno type="1">312</epno>
+<length>3</length>
+<title xml:lang="en">Episode 312</title>
+</episode>
+<episode id="102752" update="2009-05-26">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

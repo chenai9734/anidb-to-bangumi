@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6696" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1992-10-03</startdate>
+<enddate>1992-10-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pacchin Shite! Obaa-chan</title>
+<title xml:lang="ja" type="official">パッチンして! おばあちゃん</title>
+</titles>
+<creators>
+<name id="5340" type="Direction">Tsuji Shin`ichi</name>
+</creators>
+<description>The story takes place in Kanazawa and tells the story of Yasue, an old woman who suddenly became very ill, her whole body paralyzed. She is told by her doctor she only has two weeks to live...
+Source: MAL</description>
+<ratings>
+<permanent count="1">7.50</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>31089.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>6018</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3152</identifier>
+<identifier>pqrobt</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151786</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2858</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="105109" update="2009-07-14">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1992-10-03</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

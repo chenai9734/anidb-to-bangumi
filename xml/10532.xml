@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10532" restricted="false">
+<type>Other</type>
+<episodecount>4</episodecount>
+<startdate>2014-03-21</startdate>
+<enddate>2014-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Toruru`s Adventure</title>
+<title xml:lang="ja" type="official">Toruru`s Adventure</title>
+</titles>
+<relatedanime>
+<anime id="9121" type="Character">PES: Peace Eco Smile</anime>
+</relatedanime>
+<url>http://www.toytoyota.com/pes/event/2014_spring/</url>
+<creators>
+<name id="10917" type="Direction">Tanaka Tatsuyuki</name>
+<name id="1919" type="Direction">Yamamoto Sayo</name>
+<name id="1588" type="Direction">Niho Tomoyuki</name>
+<name id="1601" type="Direction">Nakamura Takashi</name>
+<name id="738" type="Animation Work">Studio 4C</name>
+</creators>
+<description>http://anidb.net/ch66248 [Toruru] searches for his younger sister http://anidb.net/ch66249 [Haruru] through multiple dimensions with the help of the http://anidb.net/ch66247 [NaSuBi].
+Source: ANN</description>
+<ratings>
+<permanent count="2">1.98</permanent>
+<temporary count="2">3.50</temporary>
+</ratings>
+<picture>151930.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34258</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toytoyota.com/pes/event/2014_spring/</url>
+</externalentity>
+<externalentity>
+<url>http://www.toytoyota.com/pes/sp_concept/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.toytoyota.com/pes/en/event/2014_spring/</url>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="66247" type="secondary cast in" update="2014-04-05">
+<name>NaSuBi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="237" picture="95027.jpg">Yajima Akiko</seiyuu>
+</character>
+<character id="66248" type="main character in" update="2014-04-05">
+<name>Toruru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="66249" type="main character in" update="2014-04-05">
+<name>Haruru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+<character id="66250" type="secondary cast in" update="2014-04-05">
+<name>Toki no Shihaisha (Onna)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="41697" picture="166024.jpg">Tsubaki Oniyakko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="159957" update="2014-05-17">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2014-03-21</airdate>
+<title xml:lang="ja">時の支配者</title>
+<title xml:lang="en">Time Master</title>
+<title xml:lang="x-jat">Toki no Shihaisha</title>
+</episode>
+<episode id="159958" update="2014-05-17">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>2014-03-21</airdate>
+<title xml:lang="en">Crazy Consumption</title>
+</episode>
+<episode id="159959" update="2014-05-17">
+<epno type="1">3</epno>
+<length>0</length>
+<airdate>2014-03-21</airdate>
+<title xml:lang="en">The Last of the Flowers</title>
+</episode>
+<episode id="159960" update="2014-05-17">
+<epno type="1">4</epno>
+<length>0</length>
+<airdate>2014-03-21</airdate>
+<title xml:lang="en">The Door to the Future</title>
+</episode>
+<episode id="177532" update="2016-05-11">
+<epno type="4">T1</epno>
+<length>2</length>
+<airdate>2014-03-20</airdate>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

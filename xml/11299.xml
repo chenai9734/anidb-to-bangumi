@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11299" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010-10-05</startdate>
+<enddate>2010-10-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Uchuu Icchokusen</title>
+<title xml:lang="ja" type="official">宇宙一直線</title>
+</titles>
+<description>Can you share the yearning for space? An astronomy boy has grown up into an artist painting the universe, the world of Greek myths including the zodiac, and a variety of scenes with starry sky. The fulldome screen projects his fantastic CG movies. Receive a message from the artist, KAGAYA - "Enjoy science and art." "Chase your dreams!"
+Source: KAGAYA Studio</description>
+<ratings>
+<permanent count="6">3.67</permanent>
+<temporary count="6">4.83</temporary>
+</ratings>
+<picture>174742.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>21037</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="169370" update="2015-06-27">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2010-10-05</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

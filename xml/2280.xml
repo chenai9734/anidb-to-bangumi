@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2280" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1984-07-23</startdate>
+<enddate>1984-07-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Papa Mama Bye Bye</title>
+<title xml:lang="ja" type="official">パパ ママ バイバイ</title>
+</titles>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="22165" type="Original Work">Saotome Katsumoto</name>
+<name id="6019" type="Music">Mouri Kuroudo</name>
+<name id="5248" type="Direction">Shidara Hiroshi</name>
+</creators>
+<description>* Based on a real-life incident in 1977 when a US jet force-landed in Yokohama.
+Dungaree-wearing teenage tomboy Kaori lives next door to the brothers Ko and Yasu. One day as Kaori is walking to school, a US jet crashes near the boy`s house.
+Source: The Anime Encyclopedia</description>
+<ratings>
+<permanent count="3">2.67</permanent>
+<temporary count="3">3.66</temporary>
+</ratings>
+<picture>241941.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3858</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>28073</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3124</identifier>
+<identifier>vbwdqt</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>パパママバイバイ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149086</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="21694" update="2006-03-08">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1984-07-23</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

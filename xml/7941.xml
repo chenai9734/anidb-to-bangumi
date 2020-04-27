@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7941" restricted="false">
+<type>TV Series</type>
+<episodecount>39</episodecount>
+<startdate>2002-04-30</startdate>
+<enddate>2002-12-11</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Greek Roman Sinhwa Olympus Guardian</title>
+<title xml:lang="en" type="synonym">Greek Roman Mythology: Olympus Guardian</title>
+<title xml:lang="ko" type="official">그리스 로마 신화-올림포스 가디언</title>
+</titles>
+<relatedanime>
+<anime id="1853" type="Other">Olympus Guardian</anime>
+</relatedanime>
+<ratings>
+<permanent count="2">6.71</permanent>
+<temporary count="2">6.00</temporary>
+</ratings>
+<picture>57477.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>16027</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Olympus_Guardian</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>オリンポスガーディアン</identifier>
+</externalentity>
+</resource>
+<resource type="19">
+<externalentity>
+<identifier>올림포스_가디언</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3597" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-02-26">
+<name>mythology</name>
+<description>The anime gets inspirations from many forms of mythologies (either Greek, Egyptian, Nord, etc.) to form its story and setting.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5571" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-08-27">
+<name>Greek mythology</name>
+<description>The anime is derived or draws elements from the Greek mythology, and as such features some mythological characteristics of Ancient Greece. Those may be creatures, such as the Centaur or Hydra, tales, such as that of the Trojan War, or even the Gods themselves, like Zeus or Poseidon. More subtle references also count, such as the careful usage of names of places or people that hold significance in the myths.</description>
+</tag>
+<tag id="6166" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>South Korean production</name>
+<description>See also: http://anidb.net/t6762 [North Korean production]</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<characters>
+<character id="23447" type="secondary cast in" update="2010-10-20">
+<name>Demeter</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57520.jpg</picture>
+<seiyuu id="29560" picture="77985.jpg">Lee Mi-Ja</seiyuu>
+</character>
+<character id="23448" type="secondary cast in" update="2010-10-20">
+<name>Ares</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57518.jpg</picture>
+<seiyuu id="29553" picture="77970.jpg">Kim Yeong-Seon</seiyuu>
+</character>
+<character id="23449" type="secondary cast in" update="2010-10-20">
+<rating votes="1">6.08</rating>
+<name>Artemis</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57511.jpg</picture>
+<seiyuu id="29566" picture="78030.jpg">Woo Jeong-Sin</seiyuu>
+</character>
+<character id="23450" type="secondary cast in" update="2010-10-20">
+<name>Athena</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57513.jpg</picture>
+<seiyuu id="29554" picture="77981.jpg">Cha Myeong-Hwa</seiyuu>
+</character>
+<character id="23451" type="secondary cast in" update="2010-10-20">
+<name>Apollon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57510.jpg</picture>
+</character>
+<character id="23452" type="secondary cast in" update="2010-10-20">
+<name>Aphrodite</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57516.jpg</picture>
+<seiyuu id="29562" picture="78004.jpg">Ji Mi-Ae</seiyuu>
+<seiyuu id="29565" picture="78029.jpg">Choi Deok-Hui</seiyuu>
+</character>
+<character id="23453" type="secondary cast in" update="2010-10-20">
+<name>Eros</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57522.jpg</picture>
+<seiyuu id="29562" picture="78004.jpg">Ji Mi-Ae</seiyuu>
+<seiyuu id="28050" picture="77001.jpg">Kang Su-Jin</seiyuu>
+</character>
+<character id="23454" type="secondary cast in" update="2010-10-20">
+<name>Zeus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57504.jpg</picture>
+<seiyuu id="29551" picture="77958.jpg">Hong Si-Ho</seiyuu>
+</character>
+<character id="23455" type="secondary cast in" update="2010-10-20">
+<name>Poseidon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57507.jpg</picture>
+<seiyuu id="29563" picture="78026.jpg">Sin Seong-Ho</seiyuu>
+<seiyuu id="29559" picture="77983.jpg">Kim Kwan-Jin</seiyuu>
+</character>
+<character id="23456" type="secondary cast in" update="2010-10-20">
+<name>Hades</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57509.jpg</picture>
+<seiyuu id="29561" picture="78003.jpg">Hong Seung-Seob</seiyuu>
+<seiyuu id="29550" picture="77954.jpg">Gu Ja-Hyeong</seiyuu>
+</character>
+<character id="23457" type="secondary cast in" update="2010-10-20">
+<rating votes="1">6.08</rating>
+<name>Hera</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57505.jpg</picture>
+<seiyuu id="29549" picture="77953.jpg">Kang Hui-Seon</seiyuu>
+</character>
+<character id="23458" type="secondary cast in" update="2010-10-20">
+<name>Hermes</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57514.jpg</picture>
+<seiyuu id="29553" picture="77970.jpg">Kim Yeong-Seon</seiyuu>
+</character>
+<character id="23459" type="secondary cast in" update="2010-10-20">
+<name>Hephaestos</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57517.jpg</picture>
+<seiyuu id="29559" picture="77983.jpg">Kim Kwan-Jin</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="124343" update="2010-10-20">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2003-07-31</airdate>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="ko">다한 이야기 - 별자리</title>
+</episode>
+<episode id="124344" update="2010-10-20">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2003-07-23</airdate>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="ko">못다한 이야기 - 괴수</title>
+</episode>
+<episode id="124345" update="2010-10-20">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2003-07-16</airdate>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="ko">못다한 이야기 - 꽃</title>
+</episode>
+<episode id="124346" update="2010-10-20">
+<epno type="1">36</epno>
+<length>25</length>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="ko">에오스와 티토노스</title>
+</episode>
+<episode id="124347" update="2010-10-20">
+<epno type="1">35</epno>
+<length>25</length>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="ko">트로이의 목마</title>
+</episode>
+<episode id="124348" update="2010-10-20">
+<epno type="1">34</epno>
+<length>25</length>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="ko">아킬레우스 이야기</title>
+</episode>
+<episode id="124349" update="2010-10-20">
+<epno type="1">33</epno>
+<length>25</length>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="ko">오딧세우스의 모험 3부</title>
+</episode>
+<episode id="124350" update="2010-10-20">
+<epno type="1">32</epno>
+<length>25</length>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="ko">오딧세우스의 모험 2부</title>
+</episode>
+<episode id="124351" update="2010-10-20">
+<epno type="1">31</epno>
+<length>25</length>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="ko">오딧세우스의 모험 1부</title>
+</episode>
+<episode id="124352" update="2010-10-20">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2003-05-21</airdate>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="ko">파에톤의 태양마차</title>
+</episode>
+<episode id="124353" update="2010-10-20">
+<epno type="1">29</epno>
+<length>25</length>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="ko">세우스와 미노타우로스</title>
+</episode>
+<episode id="124354" update="2010-10-20">
+<epno type="1">28</epno>
+<length>25</length>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="ko">아르고 원정대 - 황금양털을 찾아서</title>
+</episode>
+<episode id="124355" update="2010-10-20">
+<epno type="1">27</epno>
+<length>25</length>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="ko">아르고 원정대 50인의 영웅들</title>
+</episode>
+<episode id="124356" update="2010-10-20">
+<epno type="1">26</epno>
+<length>25</length>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="ko">아르테미스의 사랑</title>
+</episode>
+<episode id="124357" update="2010-10-20">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2003-04-09</airdate>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="ko">영웅 헤라클레스의 부활</title>
+</episode>
+<episode id="124358" update="2010-10-20">
+<epno type="1">24</epno>
+<length>25</length>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="ko">영웅 헤라클레스의 12 과업</title>
+</episode>
+<episode id="124359" update="2010-10-20">
+<epno type="1">23</epno>
+<length>25</length>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="ko">영웅 헤라클레스의 탄생</title>
+</episode>
+<episode id="124360" update="2010-10-20">
+<epno type="1">22</epno>
+<length>25</length>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="ko">하이데스의 사랑</title>
+</episode>
+<episode id="124361" update="2010-10-20">
+<epno type="1">21</epno>
+<length>25</length>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="ko">오르페우스와 에우리디케</title>
+</episode>
+<episode id="124362" update="2010-10-20">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2003-03-05</airdate>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="ko">릭소스와 헬레</title>
+</episode>
+<episode id="124363" update="2010-10-20">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2003-02-26</airdate>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="ko">황금의 손 미다스</title>
+</episode>
+<episode id="124364" update="2010-10-20">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2003-02-19</airdate>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="ko">에코와 나르키소스</title>
+</episode>
+<episode id="124365" update="2010-10-20">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2003-02-12</airdate>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="ko">카드모스와 아레스의 용</title>
+</episode>
+<episode id="124366" update="2010-10-20">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2003-02-06</airdate>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="ko">제우스와 이오</title>
+</episode>
+<episode id="124367" update="2010-10-20">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2003-02-05</airdate>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="ko">이카로스의 날개</title>
+</episode>
+<episode id="124368" update="2010-10-20">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2003-01-30</airdate>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="ko">페르세우스의 모험 2부</title>
+</episode>
+<episode id="124369" update="2010-10-20">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2003-01-29</airdate>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="ko">페르세우스의 모험 1부</title>
+</episode>
+<episode id="124370" update="2010-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2003-01-23</airdate>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="ko">벨레로폰과 페가수스</title>
+</episode>
+<episode id="124371" update="2010-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2003-01-22</airdate>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="ko">바우키스와 필레몬</title>
+</episode>
+<episode id="124372" update="2010-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2003-01-16</airdate>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="ko">월계수가 된 다프네</title>
+</episode>
+<episode id="124373" update="2010-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2003-01-15</airdate>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="ko">아탈란테 이야기</title>
+</episode>
+<episode id="124374" update="2010-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2003-01-09</airdate>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="ko">헤르메스 이야기</title>
+</episode>
+<episode id="124375" update="2010-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2003-01-08</airdate>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="ko">아테나와 아라크네</title>
+</episode>
+<episode id="124376" update="2010-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2003-01-02</airdate>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="ko">가장 아름다운 여신은?</title>
+</episode>
+<episode id="124377" update="2010-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2002-12-26</airdate>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="ko">사랑과 영혼 2부</title>
+</episode>
+<episode id="124378" update="2010-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2002-12-25</airdate>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="ko">사랑과 영혼 1부</title>
+</episode>
+<episode id="124379" update="2010-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2002-12-18</airdate>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="ko">판도라의 상자</title>
+</episode>
+<episode id="124380" update="2010-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2002-12-12</airdate>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="ko">프로메테우스의 불</title>
+</episode>
+<episode id="124381" update="2010-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2002-12-11</airdate>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="ko">림포스의 신들</title>
+</episode>
+</episodes>
+</anime>

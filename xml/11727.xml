@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11727" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-11-14</startdate>
+<enddate>2015-11-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fw: Hamatora</title>
+<title xml:lang="ja" type="official">FW: ハマトラ</title>
+</titles>
+<relatedanime>
+<anime id="10169" type="Full Story">Hamatora The Animation</anime>
+<anime id="10620" type="Full Story">Reply Hamatora</anime>
+<anime id="11728" type="Other">Mini Hama: Minimum-Hamatora</anime>
+</relatedanime>
+<url>http://hamatorapj.com/fw/</url>
+<creators>
+<name id="27220" type="Animation Work">Lerche</name>
+<name id="20618" type="Character Design">Itou Mayuka</name>
+<name id="44194" type="Series Composition">Nakanishi Yasuhiro</name>
+<name id="29807" type="Series Composition">Kumagai Jun</name>
+<name id="21585" type="Direction">Andou Masaomi</name>
+</creators>
+<ratings>
+<permanent count="27">4.60</permanent>
+<temporary count="28">5.62</temporary>
+</ratings>
+<picture>178751.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17753</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30290</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://hamatorapj.com/fw/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354654</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18862</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="172829" update="2016-04-03">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>2015-11-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

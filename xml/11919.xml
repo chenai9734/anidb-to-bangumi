@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11919" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-07-02</startdate>
+<enddate>2016-07-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda</title>
+<title xml:lang="ja" type="official">それいけ! アンパンマン おもちゃの星のナンダとルンダ</title>
+</titles>
+<relatedanime>
+<anime id="5548" type="Parent Story">Sore Ike! Anpanman</anime>
+</relatedanime>
+<creators>
+<name id="5606" type="Original Work">Yanase Takashi</name>
+<name id="5667" type="Direction">Kawagoe Jun</name>
+<name id="4847" type="Music">Izumi Taku</name>
+<name id="5607" type="Music">Kondou Hiroaki</name>
+</creators>
+<ratings>
+<permanent count="1">1.14</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>186897.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18452</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32676</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>それいけ!アンパンマン_おもちゃの星のナンダとルンダ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355637</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="174902" update="2016-06-28">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>2016-07-02</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="200542" update="2018-05-31">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

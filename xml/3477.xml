@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3477" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1968-10</startdate>
+<enddate>1968-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Souseiki</title>
+<title xml:lang="en" type="synonym">The Genesis</title>
+<title xml:lang="ja" type="official">創世記</title>
+<title xml:lang="en" type="official">Genesis</title>
+</titles>
+<url>http://tezukaosamu.net/jp/anime/71.html</url>
+<creators>
+<name id="833" type="Work">Mushi Production</name>
+</creators>
+<description>This is a short film parodying the Hollywood major film "The Creation" directed by John Houston, with deformed pictures used in a picture-story show. This film has the look of a tongue-in-cheek production, done on a small budget by animators who wanted to make fun of great works that cost enormous sums of money, but every picture here is of very high quality.
+[i]From:
+http://en.tezuka.co.jp/anime/sakuhin/ea/ea008.html[/i]</description>
+<ratings>
+<permanent count="196">4.02</permanent>
+<temporary count="196">5.47</temporary>
+</ratings>
+<picture>4965.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3415</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3473</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tezukaosamu.net/jp/anime/71.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>142604</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2655" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5529" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-11-05">
+<name>black and white</name>
+<description>Some or all of this anime is in black and white, typical of older anime made before ~1960. Some modern anime may intentionally shift to black and white for certain scenes or episodes as an artistic effect.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="34134" type="cameo appearance in" update="2011-07-02">
+<rating votes="8">2.14</rating>
+<name>Atom</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>74617.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="38611" update="2007-10-14">
+<epno type="1">1</epno>
+<length>4</length>
+<rating votes="1">8.68</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3585" restricted="false">
+<type>TV Series</type>
+<episodecount>48</episodecount>
+<startdate>1998-02-07</startdate>
+<enddate>1999-01-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bomberman B-Daman Bakugaiden</title>
+<title xml:lang="ja" type="official">B[ボンバーマン]ビーダマン爆外伝</title>
+<title xml:lang="ar" type="official">بيدا بول</title>
+</titles>
+<relatedanime>
+<anime id="3586" type="Sequel">Bomberman B-Daman Bakugaiden Victory</anime>
+<anime id="824" type="Other">Bomberman Jetters</anime>
+<anime id="4702" type="Other">Bakukyuu Renpatsu! Super B-Daman</anime>
+</relatedanime>
+<recommendations total="1"/>
+<url>http://www.nagoyatv.com/anime-history/data/data24/data24.html</url>
+<creators>
+<name id="731" type="Animation Work">Madhouse</name>
+<name id="1019" type="Work">Nagoya TV Housou</name>
+<name id="1072" type="Work">Pao House</name>
+<name id="1073" type="Work">Mirai Keikaku</name>
+<name id="3405" type="Series Composition">Urahata Tatsuhiko</name>
+<name id="3684" type="Direction">Nakanishi Nobuaki</name>
+<name id="4994" type="Character Design">Sugiura Kouji</name>
+<name id="15627" type="Original Plan">Mizuno Shouji</name>
+<name id="34358" type="Original Plan">Fujiwara Shigeki</name>
+</creators>
+<description>* Based on the http://anidb.net/cr992 [Hudson Soft] game, itself based on the Bomberman video game series and the B-Daman toy series, both of which were later adopted into their own anime series.
+One thousand years ago, the beautiful B-da City was attacked by the Dark B-da in their quest to control the entire Blue Solar System. The heroic B-Daman, drawing on their legendary power and ingenious technology, were able to restore peace to the universe. But it is only a matter of time before evil forces strike again. http://anidb.net/ch33352 [Shirobom] and his friends continue to patrol the Kingdom, fight against Dark B-da, and are always on the alert for danger, but they`re always ready for fun as well.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="37">3.64</permanent>
+<temporary count="37">5.90</temporary>
+</ratings>
+<picture>3886.gif</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1211</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1672</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2254</identifier>
+<identifier>bybett</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nagoyatv.com/anime-history/data/data24/data24.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Bomberman_B-Daman_Bakugaiden</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Bビーダマン爆外伝</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88855</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1614</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+</tags>
+<characters>
+<character id="33352" type="main character in" update="2011-09-05">
+<rating votes="3">5.12</rating>
+<name>Shirobom</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>4292.gif</picture>
+<seiyuu id="166" picture="23196.jpg">Kuwashima Houko</seiyuu>
+</character>
+<character id="40161" type="main character in" update="2012-01-03">
+<name>Akabon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79405.jpg</picture>
+<seiyuu id="555" picture="23759.jpg">Sakuma Rei</seiyuu>
+</character>
+<character id="40162" type="main character in" update="2012-01-03">
+<name>Aobon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79406.jpg</picture>
+<seiyuu id="2046" picture="186581.jpg">Kozakura Etsuko</seiyuu>
+</character>
+<character id="40163" type="main character in" update="2019-10-26">
+<name>Kiirobon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79407.jpg</picture>
+<seiyuu id="231" picture="23486.jpg">Madono Mitsuaki</seiyuu>
+</character>
+<character id="40164" type="main character in" update="2019-10-26">
+<rating votes="2">7.91</rating>
+<name>Kurobon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79408.jpg</picture>
+<seiyuu id="384" picture="17230.jpg">Seki Toshihiko</seiyuu>
+</character>
+<character id="40165" type="secondary cast in" update="2012-01-03">
+<name>Graybon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79409.jpg</picture>
+<seiyuu id="3704" picture="76764.jpg">Tsukui Kyousei</seiyuu>
+</character>
+<character id="40166" type="secondary cast in" update="2012-01-03">
+<name>Pinkbon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79410.jpg</picture>
+<seiyuu id="4037" picture="174276.jpg">Konishi Hiroko</seiyuu>
+</character>
+<character id="40167" type="secondary cast in" update="2012-01-03">
+<name>Momitebon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79411.jpg</picture>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="40389" update="2005-09-17">
+<epno type="1">35</epno>
+<length>30</length>
+<airdate>1998-11-01</airdate>
+<title xml:lang="ja">降臨, 闇のプリンス</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Kourin, Yami no Prince</title>
+</episode>
+<episode id="40390" update="2005-09-17">
+<epno type="1">27</epno>
+<length>30</length>
+<airdate>1998-08-30</airdate>
+<title xml:lang="ja">さよならパープルさん</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Sayonara Purple-san</title>
+</episode>
+<episode id="40391" update="2005-09-17">
+<epno type="1">3</epno>
+<length>30</length>
+<airdate>1998-02-28</airdate>
+<title xml:lang="ja">飛べ! ホワイトゲイル</title>
+<title xml:lang="en">Fly! White Gale</title>
+<title xml:lang="x-jat">Tobe! White Gale</title>
+</episode>
+<episode id="40392" update="2005-09-17">
+<epno type="1">48</epno>
+<length>30</length>
+<airdate>1999-01-31</airdate>
+<title xml:lang="ja">誕生! 光の竜</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Tanjou! Hikari no Ryuu</title>
+</episode>
+<episode id="40393" update="2005-09-17">
+<epno type="1">8</epno>
+<length>30</length>
+<airdate>1998-04-05</airdate>
+<title xml:lang="ja">博士の超スーパー大発明</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Hakase no Chou Super Daihatsumei</title>
+</episode>
+<episode id="40394" update="2005-09-17">
+<epno type="1">36</epno>
+<length>30</length>
+<airdate>1998-11-08</airdate>
+<title xml:lang="ja">最強の敵ダークプリンス</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Saikyou no Teki Dark Prince</title>
+</episode>
+<episode id="40395" update="2005-09-17">
+<epno type="1">42</epno>
+<length>30</length>
+<airdate>1998-12-20</airdate>
+<title xml:lang="ja">くろボンのプレゼント</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Kurobom no Present</title>
+</episode>
+<episode id="40396" update="2005-09-17">
+<epno type="1">32</epno>
+<length>30</length>
+<airdate>1998-10-11</airdate>
+<title xml:lang="ja">シルドーク捕わる!?</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Sildork Torawaru!?</title>
+</episode>
+<episode id="40397" update="2005-09-17">
+<epno type="1">38</epno>
+<length>30</length>
+<airdate>1998-11-22</airdate>
+<title xml:lang="ja">決闘! ドラーケン対シルドーク</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Kettou! Draken Tai Sildork</title>
+</episode>
+<episode id="40398" update="2005-09-17">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1998-02-14</airdate>
+<title xml:lang="ja">伝説! 勇士たちよ永遠に</title>
+<title xml:lang="en">Legend! Heroes Forever</title>
+<title xml:lang="x-jat">Densetsu! Yuushi-tachi yo Eien ni</title>
+</episode>
+<episode id="40399" update="2005-09-17">
+<epno type="1">22</epno>
+<length>30</length>
+<airdate>1998-07-19</airdate>
+<title xml:lang="ja">吠えろ! イエロークラッシャー</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Hoero! Yellow Crasher</title>
+</episode>
+<episode id="40400" update="2005-09-17">
+<epno type="1">4</epno>
+<length>30</length>
+<airdate>1998-03-07</airdate>
+<title xml:lang="ja">孤高の戦士くろボン</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kokou no Senshi Kurobom</title>
+</episode>
+<episode id="40401" update="2005-09-17">
+<epno type="1">25</epno>
+<length>30</length>
+<airdate>1998-08-16</airdate>
+<title xml:lang="ja">シュリンゲ・魅惑の罠</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Shuringe Miwaku no Wana</title>
+</episode>
+<episode id="40402" update="2005-09-17">
+<epno type="1">20</epno>
+<length>30</length>
+<airdate>1998-07-05</airdate>
+<title xml:lang="ja">ティーゲル最期の日</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Tiger Saigo no Hi</title>
+</episode>
+<episode id="40403" update="2005-09-17">
+<epno type="1">41</epno>
+<length>30</length>
+<airdate>1998-12-13</airdate>
+<title xml:lang="ja">おかえりカゼ丸</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Okaeri Kazemaru</title>
+</episode>
+<episode id="40404" update="2005-09-17">
+<epno type="1">29</epno>
+<length>30</length>
+<airdate>1998-09-13</airdate>
+<title xml:lang="ja">反逆の四天王シルドーク</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Hangyaku no Shitennou Sildork</title>
+</episode>
+<episode id="40405" update="2005-09-17">
+<epno type="1">5</epno>
+<length>30</length>
+<airdate>1998-03-14</airdate>
+<title xml:lang="ja">現れた闇の使者</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Arawareta Yami no Shisha</title>
+</episode>
+<episode id="40406" update="2005-09-17">
+<epno type="1">28</epno>
+<length>30</length>
+<airdate>1998-09-06</airdate>
+<title xml:lang="ja">ピンクの船は大パニック!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Pink no Fune wa Dai Panic!</title>
+</episode>
+<episode id="40407" update="2005-09-17">
+<epno type="1">33</epno>
+<length>30</length>
+<airdate>1998-10-18</airdate>
+<title xml:lang="ja">狙われたホワイトブロス</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Nerawareta White Blose</title>
+</episode>
+<episode id="40408" update="2005-09-17">
+<epno type="1">40</epno>
+<length>30</length>
+<airdate>1998-12-06</airdate>
+<title xml:lang="ja">氷の巨人アイスケンシュタイン</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Koori no Kyojin Icekenstein</title>
+</episode>
+<episode id="40409" update="2005-09-17">
+<epno type="1">45</epno>
+<length>30</length>
+<airdate>1999-01-10</airdate>
+<title xml:lang="ja">くろボンの真実</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Kurobom no Shinjitsu</title>
+</episode>
+<episode id="40410" update="2005-09-17">
+<epno type="1">34</epno>
+<length>30</length>
+<airdate>1998-10-25</airdate>
+<title xml:lang="ja">伝説のビーストーン</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Densetsu no B-Stone</title>
+</episode>
+<episode id="40411" update="2005-09-17">
+<epno type="1">44</epno>
+<length>30</length>
+<airdate>1999-01-03</airdate>
+<title xml:lang="ja">発見! 予言の書</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Hakken! Yogen no Sho</title>
+</episode>
+<episode id="40412" update="2005-09-17">
+<epno type="1">7</epno>
+<length>30</length>
+<airdate>1998-03-28</airdate>
+<title xml:lang="ja">守れ! 森のビーダロン</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Mamore! Mori no B-Daron</title>
+</episode>
+<episode id="40413" update="2005-09-17">
+<epno type="1">18</epno>
+<length>30</length>
+<airdate>1998-06-14</airdate>
+<title xml:lang="ja">発見! 迷宮の秘宝!?</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Hakken! Meikyuu no Hihou!?</title>
+</episode>
+<episode id="40414" update="2005-09-17">
+<epno type="1">19</epno>
+<length>30</length>
+<airdate>1998-06-28</airdate>
+<title xml:lang="ja">號(ゴー)! ブラッククラスター</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Go! Black Cluster</title>
+</episode>
+<episode id="40415" update="2005-09-17">
+<epno type="1">47</epno>
+<length>30</length>
+<airdate>1999-01-24</airdate>
+<title xml:lang="ja">襲来! ダークネスドラゴン</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Shuurai! Darkness Dragon</title>
+</episode>
+<episode id="40416" update="2005-09-17">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1998-02-07</airdate>
+<title xml:lang="ja">伝説! ビーダの勇士たち</title>
+<title xml:lang="en">Legend! The Brave B-Da Heroes</title>
+<title xml:lang="x-jat">Densetsu! B-Da no Yuushi-tachi</title>
+</episode>
+<episode id="40417" update="2005-09-17">
+<epno type="1">23</epno>
+<length>30</length>
+<airdate>1998-08-02</airdate>
+<title xml:lang="ja">キメろ! ブルーブレイバー</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Kimero! Blue Braver</title>
+</episode>
+<episode id="40418" update="2005-09-17">
+<epno type="1">13</epno>
+<length>30</length>
+<airdate>1998-05-10</airdate>
+<title xml:lang="ja">嵐のお嬢様! ピンクボン</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Arashi no Ojou-sama! Pinkbom</title>
+</episode>
+<episode id="40419" update="2005-09-17">
+<epno type="1">21</epno>
+<length>30</length>
+<airdate>1998-07-12</airdate>
+<title xml:lang="ja">謎の美女! パープル登場</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Nazo no Bijo! Purple Toujou</title>
+</episode>
+<episode id="40420" update="2005-09-17">
+<epno type="1">39</epno>
+<length>30</length>
+<airdate>1998-11-29</airdate>
+<title xml:lang="ja">呪われたきいろボン</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Norowareta Kiirobom</title>
+</episode>
+<episode id="40421" update="2005-09-17">
+<epno type="1">9</epno>
+<length>30</length>
+<airdate>1998-04-12</airdate>
+<title xml:lang="ja">死なないで! ルイルイ</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Shinanaide! Rui-Rui</title>
+</episode>
+<episode id="40422" update="2005-09-17">
+<epno type="1">24</epno>
+<length>30</length>
+<airdate>1998-08-09</airdate>
+<title xml:lang="ja">夢のプリマドンナあかボン</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Yume no Prima Donna Akabom</title>
+</episode>
+<episode id="40423" update="2005-09-17">
+<epno type="1">16</epno>
+<length>30</length>
+<airdate>1998-05-31</airdate>
+<title xml:lang="ja">さすらいのヒーロー現る</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Sasurai no Hero Arawaru</title>
+</episode>
+<episode id="40424" update="2005-09-17">
+<epno type="1">30</epno>
+<length>30</length>
+<airdate>1998-09-20</airdate>
+<title xml:lang="ja">初恋の人はあかボン?</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Hatsukoi no Hito wa Akabom?</title>
+</episode>
+<episode id="40425" update="2005-09-17">
+<epno type="1">43</epno>
+<length>30</length>
+<airdate>1998-12-27</airdate>
+<title xml:lang="ja">合体! セイントブラスター</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Gattai! Saint Blaster</title>
+</episode>
+<episode id="40426" update="2005-09-17">
+<epno type="1">26</epno>
+<length>30</length>
+<airdate>1998-08-23</airdate>
+<title xml:lang="ja">博士のプロポーズ大作戦</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Hakase no Propose Daisakusen</title>
+</episode>
+<episode id="40427" update="2005-09-17">
+<epno type="1">14</epno>
+<length>30</length>
+<airdate>1998-05-17</airdate>
+<title xml:lang="ja">第2の四天王ティーゲル</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Dai 2 no Shitennou Tiger</title>
+</episode>
+<episode id="40428" update="2005-09-17">
+<epno type="1">15</epno>
+<length>30</length>
+<airdate>1998-05-24</airdate>
+<title xml:lang="ja">嵐の夜のミステリー</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Arashi no Yoru no Mystery</title>
+</episode>
+<episode id="40429" update="2005-09-17">
+<epno type="1">31</epno>
+<length>30</length>
+<airdate>1998-09-27</airdate>
+<title xml:lang="ja">モミテボンの一日天下</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Momitebom no Ichinichi Tenka</title>
+</episode>
+<episode id="40430" update="2005-09-17">
+<epno type="1">12</epno>
+<length>30</length>
+<airdate>1998-05-03</airdate>
+<title xml:lang="ja">起て! ホワイトゲイルII</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Tate! White Gale II</title>
+</episode>
+<episode id="40431" update="2005-09-17">
+<epno type="1">46</epno>
+<length>30</length>
+<airdate>1999-01-17</airdate>
+<title xml:lang="ja">ダークプリンスの正体</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Dark Prince no Shoutai</title>
+</episode>
+<episode id="40432" update="2005-09-17">
+<epno type="1">11</epno>
+<length>30</length>
+<airdate>1998-04-26</airdate>
+<title xml:lang="ja">四天王ドラーケン登場</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Shitennou Draken Toujou</title>
+</episode>
+<episode id="40433" update="2005-09-17">
+<epno type="1">10</epno>
+<length>30</length>
+<airdate>1998-04-19</airdate>
+<title xml:lang="ja">くろボンの秘密</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Kurobom no Himitsu</title>
+</episode>
+<episode id="40434" update="2005-09-17">
+<epno type="1">6</epno>
+<length>30</length>
+<airdate>1998-03-21</airdate>
+<title xml:lang="ja">撃て! ブルースナイパー</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Ute! Blue Sniper</title>
+</episode>
+<episode id="40435" update="2005-09-17">
+<epno type="1">37</epno>
+<length>30</length>
+<airdate>1998-11-15</airdate>
+<title xml:lang="ja">ティーゲルとシュリンゲの逆襲</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Tiger to Shuringe no Gyakushuu</title>
+</episode>
+<episode id="40436" update="2005-09-17">
+<epno type="1">17</epno>
+<length>30</length>
+<airdate>1998-06-07</airdate>
+<title xml:lang="ja">泣くなカゼ丸</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Naku na Kazemaru</title>
+</episode>
+<episode id="117737" update="2010-04-14">
+<epno type="3">C2</epno>
+<length>0</length>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="117738" update="2010-04-14">
+<epno type="3">C1</epno>
+<length>0</length>
+<title xml:lang="en">Opening 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14986" restricted="false">
+<type>TV Series</type>
+<episodecount>4</episodecount>
+<startdate>2020-04-05</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Motto! Majime ni Fumajime Kaiketsu Zorori</title>
+<title xml:lang="ja" type="official">もっと! まじめにふまじめ かいけつゾロリ</title>
+</titles>
+<relatedanime>
+<anime id="3584" type="Other">Majime ni Fumajime Kaiketsu Zorori</anime>
+</relatedanime>
+<url>http://www.zorori.jp/</url>
+<creators>
+<name id="4902" type="Character Design">Funakoshi Hideyuki</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="17003" type="Direction">Ogata Takahide</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="7815" type="Original Work">Hara Yutaka</name>
+<name id="42824" type="Animation Work">BN Pictures</name>
+<name id="960" type="Animation Work">Ajia-dou</name>
+</creators>
+<picture>241226.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>40045</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.zorori.jp/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5627</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>369059</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>zororizz</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="227721" update="2020-03-29">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2020-04-05</airdate>
+<title xml:lang="ja">はなよめとゾロリじょう</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Hanayome to Zorori Jou</title>
+</episode>
+<episode id="227722" update="2020-03-29">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2020-04-12</airdate>
+<title xml:lang="ja">ゾロリVSねっけつのビート</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Zorori vs Nekketsu no Beat</title>
+</episode>
+<episode id="227723" update="2020-03-29">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2020-04-19</airdate>
+<title xml:lang="ja">カレーVSちょうのうりょく</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Curry vs Chounouryoku</title>
+</episode>
+<episode id="227724" update="2020-03-29">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2020-04-26</airdate>
+<title xml:lang="ja">かいけつゾロリのクイズ王</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kaiketsu Zorori no Quiz Ou</title>
+</episode>
+</episodes>
+</anime>

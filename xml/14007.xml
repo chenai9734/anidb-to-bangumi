@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14007" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-04-01</startdate>
+<enddate>2017-04-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ultrasonico</title>
+<title xml:lang="ja" type="official">ウルトラソニコ</title>
+</titles>
+<relatedanime>
+<anime id="2347" type="Other">The Ultraman</anime>
+<anime id="10134" type="Other">SoniAni: Super Sonico The Animation</anime>
+</relatedanime>
+<description>2017 April Fools` Day event where Nitro+ mascot Super Sonico is becoming an Ultraman-esque superhero, "Ultrasonico."
+Source: MAL</description>
+<ratings>
+<permanent count="31">2.32</permanent>
+<temporary count="32">4.43</temporary>
+</ratings>
+<picture>215787.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35329</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="198856" update="2018-05-09">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2017-04-01</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

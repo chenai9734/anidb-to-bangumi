@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7662" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1966-12-31</startdate>
+<enddate>1966-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekai no Ouja: King Kong Taikai</title>
+<title xml:lang="ja" type="official">世界の王者 キングコング大会</title>
+</titles>
+<relatedanime>
+<anime id="3642" type="Other">King Kong</anime>
+</relatedanime>
+<creators>
+<name id="3338" type="Original Work">Hatano Yoshifumi</name>
+</creators>
+<ratings>
+<permanent count="1">2.40</permanent>
+<temporary count="1">3.00</temporary>
+</ratings>
+<picture>50971.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>27379</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4335</identifier>
+<identifier>elolnu</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235436</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>36</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2439" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-16">
+<name>PIC NEEDS IMPROVEMENT</name>
+<description>This entry has a poor picture and needs to have it replaced by a higher-quality alternative. Causes may include: it is too small; its colours or lighting are bad; it has excessive compression or other encoding issues; it is from non-anime sources (anime/char); the face is hard to see (char/creator); the hair/eye/skin colours do not match the anime (char); it does not represent their usual appearance (char); among others. If you can, please swap a better picture in and remove this tag. Thank you.</description>
+<picurl>224875.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="119842" update="2010-07-10">
+<epno type="1">1</epno>
+<length>60</length>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8100" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1989-07-25</startdate>
+<enddate>1989-11-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ishii Hisaichi no Nanda Kanda Gekijou</title>
+<title xml:lang="ja" type="official">いしいひさいちのナンダカンダ劇場</title>
+</titles>
+<creators>
+<name id="15894" type="Chief Direction">Nonaka Kazumi</name>
+<name id="5763" type="Original Work">Ishii Hisaichi</name>
+<name id="5763" type="Series Composition">Ishii Hisaichi</name>
+<name id="8314" type="Music">Iwata Masayuki</name>
+</creators>
+<picture>59719.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28021</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3247</identifier>
+<identifier>lxouoc</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235610</identifier>
+</externalentity>
+<externalentity>
+<identifier>88657</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2331</identifier>
+</externalentity>
+<externalentity>
+<identifier>93</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="125409" update="2010-11-24">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>1989-11-25</airdate>
+<title xml:lang="ja">地底人 II クリスマスはエエド</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Chisokojin II Christmas wa Eedo</title>
+</episode>
+<episode id="125410" update="2010-11-23">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1989-07-25</airdate>
+<title xml:lang="ja">これが噂の地底人 とにかく上が悪いんや!!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kore ga Uwasa no Chisokojin Tonikaku Ue ga Waruinya!!</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14555" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2019-10-11</startdate>
+<enddate>2019-10-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sora no Method: Mou Hitotsu no Negai</title>
+<title xml:lang="ko" type="synonym">천체의 메소드: 또 하나의 소원</title>
+<title xml:lang="ja" type="official">天体のメソッド もうひとつの願い</title>
+</titles>
+<relatedanime>
+<anime id="10525" type="Other">Sora no Method</anime>
+</relatedanime>
+<url>http://sora-no-method.jp/</url>
+<creators>
+<name id="29535" type="Work">Kubo Hideaki</name>
+</creators>
+<ratings>
+<permanent count="32">5.38</permanent>
+<temporary count="32">6.68</temporary>
+</ratings>
+<picture>227988.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38891</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://sora-no-method.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Celestial_Method</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>天体のメソッド</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>370119</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>sora_no_method</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="222157" update="2019-10-11">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2019-10-11</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

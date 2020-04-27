@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11861" restricted="false">
+<type>TV Series</type>
+<episodecount>4</episodecount>
+<startdate>2015-12-24</startdate>
+<enddate>2016-03-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mim Mam Mint</title>
+<title xml:lang="ja" type="official">ミムマムミント</title>
+</titles>
+<creators>
+<name id="45888" type="Character Design">Yatate Kyou</name>
+<name id="45890" type="Animation Work">MMDGP</name>
+</creators>
+<description>One day, Mim and Mam receive a present from their father at their house. When they open the present, they discover the stuffed animal Choco Mint that is 70% rabbit and 30% bear. The duo aren`t sure what to make of the package, but they start to talk with Choco Mint.
+Source: ANN</description>
+<ratings>
+<permanent count="2">2.66</permanent>
+<temporary count="2">1.00</temporary>
+</ratings>
+<picture>180922.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32402</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356081</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>mimmam_mint</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="183569" update="2017-01-08">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2016-03-24</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="183570" update="2017-01-08">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2016-02-25</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="183571" update="2017-01-08">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2016-01-28</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="183572" update="2017-01-08">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-12-24</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2212" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1970-03-17</startdate>
+<enddate>1970-03-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chibikko Remi to Meiken Kapi</title>
+<title xml:lang="x-unk" type="synonym">Little Rémi and Capi</title>
+<title xml:lang="en" type="synonym">Little Remi and Famous Dog Kapi</title>
+<title xml:lang="en" type="synonym">Little Remi and Capi</title>
+<title xml:lang="ru" type="synonym">Без семьи</title>
+<title xml:lang="ja" type="official">ちびっ子レミと名犬カピ</title>
+<title xml:lang="it" type="official">Senza Famiglia</title>
+<title xml:lang="es" type="official">Sin familia</title>
+<title xml:lang="pt" type="official">Sem Família</title>
+</titles>
+<relatedanime>
+<anime id="1829" type="Alternative Setting">Ie Naki Ko</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_remi/</url>
+<creators>
+<name id="9700" type="Original Work">Hector-Henri Malot</name>
+<name id="18440" type="Music">Kinoshita Chuuji</name>
+</creators>
+<description>* Based on the novel Sans Famille (Eng: Nobody`s Boy) by http://anidb.net/cr9700 [Hector-Henri Malot].
+This is a faithful if compressed adaptation, telling the story of Remi who is sold off to Vitalis the travelling musician and his band of performing animals. It has musical numbers typical this era of Toei films, some awkward slapstic, plenty of scenes tailored to pull on the heartstrings, and very smooth animation. Overall a pleasant film that`s interesting to watch for the technical aspects; but the story leaves much to be desired, being on the melodramatic-maudlin side. The later Dezaki/Sugino version is very different, with 52 episodes for the story to breathe in and far more compelling storytelling.
+Source: Pelleas.net</description>
+<ratings>
+<permanent count="28">5.03</permanent>
+<temporary count="28">5.57</temporary>
+</ratings>
+<picture>204364.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3567</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2830</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3166</identifier>
+<identifier>hpzunf</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/lineup/movie/movie_remi/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>143181</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3338</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m032</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="21654" update="2011-10-20">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1970-03-17</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="219256" update="2019-08-10">
+<epno type="4">T1</epno>
+<length>0</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

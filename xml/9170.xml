@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9170" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1993-04-21</startdate>
+<enddate>1993-04-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kiki to Lala no Ohime-sama ni Naritai</title>
+<title xml:lang="ja" type="official">キキとララのお姫さまになりたい</title>
+</titles>
+<creators>
+<name id="13517" type="Chief Animation Direction">Akahori Kanji</name>
+<name id="6604" type="Original Plan">Watanabe Mami</name>
+<name id="4880" type="Direction">Hata Masami</name>
+<name id="3166" type="Music">Arisawa Takanori</name>
+<name id="32417" type="Animation Work">Grouper Productions</name>
+</creators>
+<ratings>
+<permanent count="6">3.38</permanent>
+<temporary count="6">5.16</temporary>
+</ratings>
+<picture>86324.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21969</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17485</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>161256</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="43683" type="main character in" update="2013-04-21">
+<name>Kiki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135637.jpg</picture>
+<seiyuu id="1734" picture="38029.jpg">Toda Keiko</seiyuu>
+</character>
+<character id="43684" type="secondary cast in" update="2012-04-22">
+<name>Nemurin</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="6040" picture="186218.jpg">Maruta Mari</seiyuu>
+</character>
+<character id="43685" type="main character in" update="2013-04-21">
+<name>Lala</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135639.jpg</picture>
+<seiyuu id="437" picture="173174.jpg">Shiratori Yuri</seiyuu>
+</character>
+<character id="43686" type="secondary cast in" update="2012-04-22">
+<name>Yume Seiun no Joou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="588" picture="41015.jpg">Orikasa Ai</seiyuu>
+</character>
+<character id="43687" type="secondary cast in" update="2012-04-22">
+<name>Tsuki</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2220" picture="188715.jpg">Inaba Minoru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="139030" update="2012-04-21">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1993-04-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

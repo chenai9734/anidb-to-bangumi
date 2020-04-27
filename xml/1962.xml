@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1962" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>1987-10-09</startdate>
+<enddate>1989-02-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anime Sanjuushi</title>
+<title xml:lang="en" type="synonym">Animated Three Musketeers</title>
+<title xml:lang="pt" type="synonym">Os Três Mosqueteiros</title>
+<title xml:lang="x-jat" type="synonym">Anime San Jushi</title>
+<title xml:lang="x-jat" type="synonym">Anime Sanjushi</title>
+<title xml:lang="x-jat" type="synonym">Anime San Juushi</title>
+<title xml:lang="ja" type="short">アニ三</title>
+<title xml:lang="x-jat" type="short">anisan</title>
+<title xml:lang="ja" type="official">アニメ三銃士</title>
+<title xml:lang="en" type="official">The Three Musketeers</title>
+<title xml:lang="de" type="official">D`Artagnan und die drei Musketiere</title>
+<title xml:lang="fr" type="official">Sous le signe des mousquetaires</title>
+<title xml:lang="it" type="official">D`Artagnan e i moschettieri del re</title>
+<title xml:lang="es" type="official">Las Aventuras del Joven D`Artagnan</title>
+<title xml:lang="ar" type="official">فرقة الفرسان</title>
+<title xml:lang="pt" type="official">D`Artagnan e os Três Mosqueteiros</title>
+<title xml:lang="el" type="official">Οι τρεις σωματοφύλακες</title>
+<title xml:lang="he" type="official">(שלושת המוסקטרים (1987</title>
+<title xml:lang="ro" type="official">Cei trei muşchetari</title>
+</titles>
+<relatedanime>
+<anime id="3639" type="Sequel">Anime Sanjuushi: Aramis no Bouken</anime>
+<anime id="3624" type="Character">Tekkamen o Oe "d`Artagnan Monogatari" yori</anime>
+</relatedanime>
+<similaranime>
+<anime id="4396" approval="2" total="5">Le Chevalier D`Eon</anime>
+</similaranime>
+<url>http://www3.nhk.or.jp/anime/archives/musketeers.html</url>
+<creators>
+<name id="4235" type="Direction">Yuyama Kunihiko</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="1463" type="Original Work">Alexandre Dumas</name>
+<name id="16367" type="Character Design">Ozaki Shingo</name>
+<name id="1050" type="Work">NHK</name>
+</creators>
+<description>* Based on The Three Musketeers by http://anidb.net/cr1463 [Alexandre Dumas].
+Brief description from the book which serves the anime quite right:
+The Three Musketeers: The year is 1625. The young D`Artagnan arrives in Paris at the tender age of 18, and almost immediately offends three musketeers, Porthos, Aramis, and Athos. Instead of dueling, the four are attacked by five of the Cardinal`s guards, and the courage of the youth is made apparent during the battle. The four become fast friends, and, when asked by D`Artagnan`s landlord to find his missing wife, embark upon an adventure that takes them across both France and England in order to thwart the plans of the Cardinal Richelieu. Along the way, they encounter a beautiful young spy, named simply Milady, who will stop at nothing to disgrace Queen Anne of Austria before her husband, Louis XIII, and take her revenge upon the four friends.</description>
+<ratings>
+<permanent count="127">5.60</permanent>
+<temporary count="133">6.95</temporary>
+<review count="2">5.16</review>
+</ratings>
+<picture>204445.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1112</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2333</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2088</identifier>
+<identifier>gwohtn</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www3.nhk.or.jp/anime/archives/musketeers.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>The_Three_Musketeers_(1987_TV_series)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アニメ三銃士</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89228</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>54</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>1987/3jyushi</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="2653" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2750" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2790" parentid="2605" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-17">
+<name>plot continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+A single linear focused plot is highly continuous.
+A truly random plot is highly discontinuous.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="2807" parentid="2831" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>France</name>
+<description>France, officially the French Republic, is a country whose territory consists of metropolitan France in western Europe, as well as several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans.
+Source: Wikipedia</description>
+<picurl>214343.jpg</picurl>
+</tag>
+<tag id="2809" parentid="2831" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>United Kingdom</name>
+<description>The United Kingdom of Great Britain and Northern Ireland, commonly known as the United Kingdom (UK) or Britain, is a sovereign country in western Europe. Lying off the north-western coast of the European mainland, the UK includes the island of Great Britain, the north-eastern part of the island of Ireland and many smaller islands.
+Source: Wikipedia</description>
+<picurl>64254.png</picurl>
+</tag>
+<tag id="2831" parentid="2630" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Europe</name>
+<description>Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia.
+Source: Wikipedia</description>
+<picurl>192044.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2885" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-21">
+<name>law and order</name>
+<description>Where there is "wealth", there are criminals. It is up to the civil law enforcement, i.e. detectives, Police or Special Squads, to keep the lawless activities in the real world or in cyberspace under control.
+Note: Do not confuse this with Military presence.</description>
+<picurl>238616.jpg</picurl>
+</tag>
+<tag id="2888" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-16">
+<name>coming of age</name>
+<description>In the strict sense the Coming of age describes a young person`s transition from adolescence to adulthood. In anime the term is used in a more general sense where the protagonists have to face a challenge, make an important decision in their life, take on responsibility, or learn a lesson, and by overcoming these obstacles they reach a higher level of maturity.</description>
+</tag>
+<tag id="4199" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-20">
+<name>live-action closing -- TO BE MOVED AND DELETED</name>
+<description>This tag is set to be removed. For each tagged anime, please tag the corresponding ending/credits episodes with the http://anidb.net/t6679 [live-action episode] tag (adding them and their relation to the ending songs if necessary) and then remove this tag from it. Please do not apply this credit to the main episode that has the live-action ending, only to the corresponding credits episode. For example, if episode 22 has a live-action ending, and that ending is also credits episode C7, tag episode C7, not episode 22.</description>
+</tag>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6148" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO EPISODE</name>
+<description>Tags under this parent tag are going to be moved to episode tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what episodes they should be assigned to.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="33817" type="main character in" update="2011-10-19">
+<rating votes="6">6.42</rating>
+<name>D`Artagnan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70404.jpg</picture>
+<seiyuu id="9236">Matsuda Tatsuya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="19496" update="2010-07-23">
+<epno type="3">C1</epno>
+<length>1</length>
+<rating votes="1">9.63</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="21207" update="2007-06-24">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1987-10-09</airdate>
+<rating votes="2">7.60</rating>
+<title xml:lang="ja">象のいるパリ</title>
+<title xml:lang="en">Paris, Where The Elephant Is</title>
+<title xml:lang="de">Die Reise nach Paris</title>
+<title xml:lang="fr">À Paris sur les traces de l`éléphant</title>
+<title xml:lang="x-jat">Zou no Iru Paris</title>
+</episode>
+<episode id="21208" update="2007-06-24">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1987-10-16</airdate>
+<rating votes="2">4.08</rating>
+<title xml:lang="ja">ロンドンからの手紙</title>
+<title xml:lang="en">Letter From London</title>
+<title xml:lang="de">Im Dienst des Kardinals</title>
+<title xml:lang="fr">Une lettre d`Angleterre</title>
+<title xml:lang="x-jat">London kara no Tegami</title>
+</episode>
+<episode id="21209" update="2007-06-24">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1987-10-23</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">パリの三銃士</title>
+<title xml:lang="en">The Three Musketeers of Paris</title>
+<title xml:lang="de">Die drei Musketiere</title>
+<title xml:lang="fr">D`Artagnan rencontre les 3 mousquetaires</title>
+<title xml:lang="x-jat">Paris no Sanjuushi</title>
+</episode>
+<episode id="21210" update="2007-06-24">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1987-10-30</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ダルタニャンのお風呂屋さん</title>
+<title xml:lang="en">D`Artagnan the Bath Man</title>
+<title xml:lang="de">Eine grosse Überraschung</title>
+<title xml:lang="fr">Le bain d`Aramis</title>
+<title xml:lang="x-jat">D`Artagnan no Ofuroya-san</title>
+</episode>
+<episode id="21211" update="2007-06-24">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1987-11-06</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ラブレターの罠</title>
+<title xml:lang="en">Trap of the Love Letter</title>
+<title xml:lang="de">Der gefälschte Brief</title>
+<title xml:lang="fr">Pris au piège à cause d`une lettre d`amour</title>
+<title xml:lang="x-jat">Love Letter no Wana</title>
+</episode>
+<episode id="21212" update="2007-06-24">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1987-11-13</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">パリの大逃走</title>
+<title xml:lang="en">Big Escape from Paris</title>
+<title xml:lang="de">Flucht aus Paris</title>
+<title xml:lang="fr">La fuite de Paris</title>
+<title xml:lang="x-jat">Paris no Daitousou</title>
+</episode>
+<episode id="21213" update="2007-06-24">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1987-11-20</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">ダルタニャンの引っ越し</title>
+<title xml:lang="en">D`Artagnan Moving Out</title>
+<title xml:lang="de">Rettung für Aramis</title>
+<title xml:lang="fr">D`Artagnan déménage</title>
+<title xml:lang="x-jat">D`Artagnan no Hikkoshi</title>
+</episode>
+<episode id="21214" update="2007-06-24">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1987-12-04</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">アラミス救出作戦</title>
+<title xml:lang="en">Aramis Rescue Operation</title>
+<title xml:lang="de">Die Begnadigung</title>
+<title xml:lang="fr">Aramis au petit châtelet</title>
+<title xml:lang="x-jat">Aramis Kyuushutsu Sakusen</title>
+</episode>
+<episode id="21216" update="2007-06-24">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1987-12-11</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">はだしのジャンのお母さん</title>
+<title xml:lang="en">I Am Jean`s Mother</title>
+<title xml:lang="de">Geheime Pläne</title>
+<title xml:lang="fr">La mère de Jean</title>
+<title xml:lang="x-jat">Hadashi no Jean no Okaasan</title>
+</episode>
+<episode id="21217" update="2007-06-24">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1987-12-18</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">狩りはベルサイユで</title>
+<title xml:lang="en">Hunting in Versailles</title>
+<title xml:lang="de">Die falsche Mutter</title>
+<title xml:lang="fr">La chasse à Versailles</title>
+<title xml:lang="x-jat">Kari wa Versailles de</title>
+</episode>
+<episode id="21218" update="2007-06-24">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1988-01-08</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">折れた剣</title>
+<title xml:lang="en">Broken Sword</title>
+<title xml:lang="de">Nächtlicher Geisterspuk</title>
+<title xml:lang="fr">L`épée brisée</title>
+<title xml:lang="x-jat">Oreta Ken</title>
+</episode>
+<episode id="21219" update="2007-06-24">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1988-01-22</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">あこがれの銃士</title>
+<title xml:lang="en">Admired Musketeer</title>
+<title xml:lang="de">Der Geheimgang</title>
+<title xml:lang="fr">L`apprenti mousquetaire</title>
+<title xml:lang="x-jat">Akogare no Juushi</title>
+</episode>
+<episode id="21220" update="2007-06-24">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1988-01-29</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">スパイは誰だ</title>
+<title xml:lang="en">Who Is The Spy</title>
+<title xml:lang="de">Wer ist der Spion</title>
+<title xml:lang="fr">Qui est l`espion ?</title>
+<title xml:lang="x-jat">Spy wa Dare Da</title>
+</episode>
+<episode id="21221" update="2007-06-24">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1988-02-05</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">パリ脱出</title>
+<title xml:lang="en">Escape from Paris</title>
+<title xml:lang="de">Das geheime Reiseziel</title>
+<title xml:lang="fr">Départ pour l`Angleterre</title>
+<title xml:lang="x-jat">Paris Dasshutsu</title>
+</episode>
+<episode id="21222" update="2007-06-24">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1988-02-12</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">危険な旅</title>
+<title xml:lang="en">Dangerous Journey</title>
+<title xml:lang="de">Portos in Schwierigkeiten</title>
+<title xml:lang="fr">Un voyage semé d`embûches</title>
+<title xml:lang="x-jat">Kiken na Tabi</title>
+</episode>
+<episode id="21223" update="2007-06-24">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1988-03-04</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">急げ!ダルタニャン</title>
+<title xml:lang="en">Hurry Up! D`Artagnan</title>
+<title xml:lang="de">Das Schriftstück</title>
+<title xml:lang="fr">Une course folle</title>
+<title xml:lang="x-jat">Isoge! D`Artagnan</title>
+</episode>
+<episode id="21224" update="2007-06-24">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1988-03-11</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">一人はみんなのために</title>
+<title xml:lang="en">One For All</title>
+<title xml:lang="de">Der Hut</title>
+<title xml:lang="fr">Un pour tous</title>
+<title xml:lang="x-jat">Hitori wa Minna no Tame ni</title>
+</episode>
+<episode id="21225" update="2007-06-24">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1988-03-18</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ダルタニャンのお葬式</title>
+<title xml:lang="en">D`Artagnan`s Funeral</title>
+<title xml:lang="de">Eine böse Überraschung</title>
+<title xml:lang="fr">Les funérailles de D`Artagnan</title>
+<title xml:lang="x-jat">D`Artagnan no Osoushiki</title>
+</episode>
+<episode id="21227" update="2007-06-24">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1988-03-25</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">港のすれちがい</title>
+<title xml:lang="en">Passing At The Harbour</title>
+<title xml:lang="de">Im Hafen von Calais</title>
+<title xml:lang="fr">L`embarquement à Calais</title>
+<title xml:lang="x-jat">Minato no Surechigai</title>
+</episode>
+<episode id="21228" update="2007-06-24">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1988-04-08</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">ダルタニヤン海を渡る</title>
+<title xml:lang="en">D`Artagnan Crossing The Sea</title>
+<title xml:lang="de">Die Jagd nach Juwelen</title>
+<title xml:lang="fr">D`Artagnan traverse la Manche</title>
+<title xml:lang="x-jat">D`Artagnan Umi o Wataru</title>
+</episode>
+<episode id="21229" update="2007-06-24">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1988-04-15</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">王妃のダイヤモンド</title>
+<title xml:lang="en">Queen`s Diamond</title>
+<title xml:lang="de">Die falsche Königin</title>
+<title xml:lang="fr">Les ferrets de la reine</title>
+<title xml:lang="x-jat">Ouhi no Diamond</title>
+</episode>
+<episode id="21230" update="2007-06-24">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1988-04-22</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">ロンドン塔の大烏</title>
+<title xml:lang="en">Crow of the London Tower</title>
+<title xml:lang="de">Im Tower von London</title>
+<title xml:lang="fr">La corneille de la tour de Londres</title>
+<title xml:lang="x-jat">London Tou no Taiu</title>
+</episode>
+<episode id="21231" update="2007-06-24">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1988-05-06</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ロンドン塔脱獄</title>
+<title xml:lang="en">Escape from London Tower</title>
+<title xml:lang="de">Flucht aus dem Gefängnis</title>
+<title xml:lang="fr">Milady s`évade</title>
+<title xml:lang="x-jat">London Tou Datsugoku</title>
+</episode>
+<episode id="21232" update="2007-06-24">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1988-05-13</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ミレディーの逆襲</title>
+<title xml:lang="en">Milady`s Counterattack</title>
+<title xml:lang="de">Das Gute siegt</title>
+<title xml:lang="fr">Milady contre-attaque</title>
+<title xml:lang="x-jat">Milady no Gyakushuu</title>
+</episode>
+<episode id="21233" update="2007-06-24">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1988-05-20</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ドーバーの嵐</title>
+<title xml:lang="en">Storm at Dover</title>
+<title xml:lang="de">Sturm über dem Kanal</title>
+<title xml:lang="fr">Tempête sur la Manche</title>
+<title xml:lang="x-jat">Dover no Arashi</title>
+</episode>
+<episode id="21234" update="2007-06-24">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1988-05-27</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ルーブルの大舞踏会</title>
+<title xml:lang="en">Grand Ball at Louvre</title>
+<title xml:lang="de">Das Fest im Louvre</title>
+<title xml:lang="fr">Grand bal au Louvre</title>
+<title xml:lang="x-jat">Louvre no Daibutoukai</title>
+</episode>
+<episode id="21235" update="2007-06-24">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>1988-06-03</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">はじめてのデート</title>
+<title xml:lang="en">First Date</title>
+<title xml:lang="de">Das erste Rendevous</title>
+<title xml:lang="fr">Le premier rendez-vous</title>
+<title xml:lang="x-jat">Hajimete no Date</title>
+</episode>
+<episode id="21236" update="2007-06-24">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>1988-06-17</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ミレディーの復讐</title>
+<title xml:lang="en">Milady`s Revenge</title>
+<title xml:lang="de">Milady`s Rache</title>
+<title xml:lang="fr">La revanche de Milady</title>
+<title xml:lang="x-jat">Milady no Fukushuu</title>
+</episode>
+<episode id="21237" update="2007-06-24">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>1988-06-24</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ノートルダムの大鏡</title>
+<title xml:lang="en">Great Mirror at Notre-Dame</title>
+<title xml:lang="de">Die Glocke von Notre Dame</title>
+<title xml:lang="fr">Le bourdon de Notre-Dame</title>
+<title xml:lang="x-jat">Notre-Dame no Dai Kagami</title>
+</episode>
+<episode id="21238" update="2007-06-24">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>1988-07-01</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">バッキンガム暗殺</title>
+<title xml:lang="en">Assassination of Buckingham</title>
+<title xml:lang="de">Auf der Flucht</title>
+<title xml:lang="fr">L`assassinat du duc de Buckingham</title>
+<title xml:lang="x-jat">Buckingham Ansatsu</title>
+</episode>
+<episode id="21239" update="2007-06-24">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>1988-07-08</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">ミレディーの処刑</title>
+<title xml:lang="en">Execution of Milady</title>
+<title xml:lang="de">Vergebung statt Strafe</title>
+<title xml:lang="fr">La punition de Milady</title>
+<title xml:lang="x-jat">Milady no Shokei</title>
+</episode>
+<episode id="21240" update="2007-06-24">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>1988-07-22</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">謎の鉄仮面</title>
+<title xml:lang="en">Mysterious Iron Mask</title>
+<title xml:lang="de">Die Eisenmaske</title>
+<title xml:lang="fr">Le mystérieux masque de fer</title>
+<title xml:lang="x-jat">Nazo no Tetsu Kamen</title>
+</episode>
+<episode id="21241" update="2007-06-24">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>1988-08-19</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">女優ナナの宝石</title>
+<title xml:lang="en">Jewel of Actress Nana</title>
+<title xml:lang="de">Ein Kostbares Kleid</title>
+<title xml:lang="fr">Les bijoux de l`actrice</title>
+<title xml:lang="x-jat">Joyuu Nana no Houseki</title>
+</episode>
+<episode id="21242" update="2007-06-24">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>1988-08-26</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">鉄仮面を逮捕せよ</title>
+<title xml:lang="en">Arrest Iron Mask</title>
+<title xml:lang="de">Constanzes Genesung</title>
+<title xml:lang="fr">Arrêtez le masque de fer</title>
+<title xml:lang="x-jat">Tetsu Kamen o Taiho seyo</title>
+</episode>
+<episode id="21243" update="2007-06-24">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>1988-09-02</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ダルタニャンの失敗</title>
+<title xml:lang="en">D`Artagnan`s Failure</title>
+<title xml:lang="de">Verkehrte Welt</title>
+<title xml:lang="fr">La maladresse de D`Artagnan</title>
+<title xml:lang="x-jat">D`Artagnan no Shippai</title>
+</episode>
+<episode id="21244" update="2007-06-24">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>1988-09-09</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">鉄仮面の挑戦</title>
+<title xml:lang="en">Iron Mask`s Challenge</title>
+<title xml:lang="de">Ausgestossen</title>
+<title xml:lang="fr">Le défi du masque de fer</title>
+<title xml:lang="x-jat">Tetsukamen no Chousen</title>
+</episode>
+<episode id="21245" update="2007-06-24">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>1988-09-30</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">名探偵ダルタニャン</title>
+<title xml:lang="en">Famous Detective D`Artagnan</title>
+<title xml:lang="de">Ein Mann mit Vergangenheit</title>
+<title xml:lang="fr">D`Artagnan le grand détective</title>
+<title xml:lang="x-jat">Meitantei D`Artagnan</title>
+</episode>
+<episode id="21246" update="2007-06-24">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>1988-10-07</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">消えた仕立屋の謎</title>
+<title xml:lang="en">Mystery of the Disappeared Tailor</title>
+<title xml:lang="de">Die Erfindung</title>
+<title xml:lang="fr">Le tailleur disparu</title>
+<title xml:lang="x-jat">Kieta Shitateya no Nazo</title>
+</episode>
+<episode id="21247" update="2007-06-24">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>1988-10-14</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">二人の鉄仮面</title>
+<title xml:lang="en">Two Iron Masks</title>
+<title xml:lang="de">Prinz Philip</title>
+<title xml:lang="fr">Le masque de fer au donjon</title>
+<title xml:lang="x-jat">Futari no Tetsukamen</title>
+</episode>
+<episode id="21248" update="2007-06-24">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>1988-10-21</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">すりかえられた国王</title>
+<title xml:lang="en">Substituted King</title>
+<title xml:lang="de">Der neue König</title>
+<title xml:lang="fr">Le faux roi</title>
+<title xml:lang="x-jat">Surikaerareta Kokuou</title>
+</episode>
+<episode id="21249" update="2007-06-24">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>1988-10-28</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ミレディーの陰謀</title>
+<title xml:lang="en">Milady`s Scheme</title>
+<title xml:lang="de">Die Macht der Milady</title>
+<title xml:lang="fr">Le complot de Milady</title>
+<title xml:lang="x-jat">Milady no Inbou</title>
+</episode>
+<episode id="21250" update="2007-06-24">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>1988-11-11</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">アラミスの裏切り</title>
+<title xml:lang="en">Aramis` Betrayal</title>
+<title xml:lang="de">Das Ende einer Freundschaft</title>
+<title xml:lang="fr">La trahison d`Aramis</title>
+<title xml:lang="x-jat">Aramis no Uragiri</title>
+</episode>
+<episode id="21251" update="2007-06-24">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>1988-11-18</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">アトス逮捕さる</title>
+<title xml:lang="en">Arrest Athos</title>
+<title xml:lang="de">Die Verhaftung von Athos</title>
+<title xml:lang="fr">L`arrestation d`Athos</title>
+<title xml:lang="x-jat">Athos Taihosaru</title>
+</episode>
+<episode id="21252" update="2007-06-24">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>1988-12-02</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">鉄仮面は誰だ</title>
+<title xml:lang="en">Who Is Iron Mask</title>
+<title xml:lang="de">Die Wahrheit über Aramis</title>
+<title xml:lang="fr">Qui est le masque de fer ?</title>
+<title xml:lang="x-jat">Tetsukamen wa Dare Da</title>
+</episode>
+<episode id="21253" update="2007-06-24">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>1988-12-09</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">アラミスの秘密</title>
+<title xml:lang="en">Aramis` Secret</title>
+<title xml:lang="de">Der Anhänger</title>
+<title xml:lang="fr">Le secret d`Aramis</title>
+<title xml:lang="x-jat">Aramis no Himitsu</title>
+</episode>
+<episode id="21254" update="2007-06-24">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>1989-01-06</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">鉄仮面を救出せよ</title>
+<title xml:lang="en">Rescue Iron Mask</title>
+<title xml:lang="de">Das Geheimnis wird gelüftet</title>
+<title xml:lang="fr">L`évasion du masque de fer</title>
+<title xml:lang="x-jat">Tetsukamen o Kyuushutsu seyo</title>
+</episode>
+<episode id="21255" update="2007-06-24">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>1989-01-13</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">炎の中のジャン</title>
+<title xml:lang="en">Jean In The Middle of the Flame</title>
+<title xml:lang="de">Jagd auf Manson`s Bande</title>
+<title xml:lang="fr">Jean en danger</title>
+<title xml:lang="x-jat">Honoo no Naka no Jean</title>
+</episode>
+<episode id="21256" update="2007-06-24">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>1989-01-20</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">海上の大要塞</title>
+<title xml:lang="en">Fortress in the Sea</title>
+<title xml:lang="de">Das Versteck des Eisenmannes</title>
+<title xml:lang="fr">La forteresse de la mer</title>
+<title xml:lang="x-jat">Kaijou no Daiyousai</title>
+</episode>
+<episode id="21257" update="2007-06-24">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>1989-01-27</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">とらわれの銃士たち</title>
+<title xml:lang="en">Captured Musketeers</title>
+<title xml:lang="de">Flucht von der Insel</title>
+<title xml:lang="fr">Les mousquetaires aux arrêts</title>
+<title xml:lang="x-jat">Toraware no Juushi-tachi</title>
+</episode>
+<episode id="21258" update="2007-06-24">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>1989-02-03</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">象 海を渡る</title>
+<title xml:lang="en">Elephant Crossing Sea</title>
+<title xml:lang="de">Mißglückte Rettung</title>
+<title xml:lang="fr">La traversée de l`éléphant</title>
+<title xml:lang="x-jat">Zou Umi o Wataru</title>
+</episode>
+<episode id="21259" update="2007-06-24">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>1989-02-10</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">アラミス断崖の決闘</title>
+<title xml:lang="en">Aramis` Cliffside Duel</title>
+<title xml:lang="de">Aramis Rache</title>
+<title xml:lang="fr">Duel sur la falaise</title>
+<title xml:lang="x-jat">Aramis Dangai no Kettou</title>
+</episode>
+<episode id="21260" update="2007-06-24">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>1989-02-17</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">さようなら!ダルタニャン</title>
+<title xml:lang="en">Farewell! D`Artagnan</title>
+<title xml:lang="de">Das Ende böser Mächte</title>
+<title xml:lang="fr">Au revoir D`Artagnan</title>
+<title xml:lang="x-jat">Sayounara! D`Artagnan</title>
+</episode>
+<episode id="37307" update="2010-07-23">
+<epno type="3">C2</epno>
+<length>1</length>
+<rating votes="1">9.63</rating>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="47042" update="2006-02-21">
+<epno type="2">S1</epno>
+<length>25</length>
+<rating votes="1">9.63</rating>
+<title xml:lang="en">Pilot</title>
+</episode>
+<episode id="93781" update="2008-10-24">
+<epno type="3">C3</epno>
+<length>0</length>
+<rating votes="1">6.73</rating>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="120208" update="2010-07-23">
+<epno type="3">C7</epno>
+<length>1</length>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">Portuguese Ending</title>
+</episode>
+<episode id="120209" update="2010-07-23">
+<epno type="3">C6</epno>
+<length>1</length>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">Portuguese Opening</title>
+</episode>
+<episode id="120210" update="2010-07-23">
+<epno type="3">C4</epno>
+<length>1</length>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">French Opening</title>
+</episode>
+<episode id="120212" update="2010-07-23">
+<epno type="3">C5</epno>
+<length>1</length>
+<rating votes="1">3.33</rating>
+<title xml:lang="en">French Ending</title>
+</episode>
+</episodes>
+</anime>

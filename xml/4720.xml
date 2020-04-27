@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4720" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1995-04-07</startdate>
+<enddate>1995-08-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Udauda Yatteru Hima wa Nee!</title>
+<title xml:lang="ja" type="official">ウダウダやってるヒマはねェ!</title>
+</titles>
+<url>http://www.jcstaff.co.jp/sakuhin/nenpyo/1995/01_udauda/udauda.htm</url>
+<creators>
+<name id="6045" type="Character Design">Kajitani Mitsuharu</name>
+<name id="6335" type="Direction">Minoguchi Katsumi</name>
+<name id="33942" type="Original Work">Yonehara Hideyuki</name>
+<name id="720" type="Work">J.C.Staff</name>
+</creators>
+<ratings>
+<permanent count="5">6.33</permanent>
+<temporary count="5">6.00</temporary>
+</ratings>
+<picture>243826.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7392</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17649</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3212</identifier>
+<identifier>npixaz</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.jcstaff.co.jp/sakuhin/nenpyo/1995/01_udauda/udauda.htm</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ウダウダやってるヒマはねェ!</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88252</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3609</identifier>
+</externalentity>
+<externalentity>
+<identifier>3610</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2069" parentid="2869" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2020-01-15">
+<name>delinquent</name>
+<description>Delinquents - Every school has them, but not all anime with school setting make delinquents a central topic. There are several versions of these delinquents, though some are grounded on a misunderstanding:
+* The student with a really bad image and attitude, based on his real criminal actions outside of the school and is even feared by teachers.
+* The primitive "class bully" that pushes around ("clobbers") his classmates for no apparent reason, possibly extorting lunch money.
+* The student with an sinister complexion or "evil eye", but is actually a "good" student (unfoundedly feared character).
+* The rebellious student, who does not care for studying, but is otherwise docile. Called a "delinquent" as a joke.</description>
+<picurl>243713.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2869" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="72396" update="2007-05-02">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1995-04-07</airdate>
+<title xml:lang="en">OVA 01</title>
+</episode>
+<episode id="72397" update="2007-05-02">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>1995-08-25</airdate>
+<title xml:lang="en">OVA 02</title>
+</episode>
+</episodes>
+</anime>

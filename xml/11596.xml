@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11596" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2016-12-26</startdate>
+<enddate>2016-12-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gravity Daze the Animation: Ouverture</title>
+<title xml:lang="ja" type="synonym">グラビティデイズ</title>
+<title xml:lang="tr" type="synonym">Yer Çekimi Saldırısı: Giriş</title>
+<title xml:lang="ja" type="official">GRAVITY DAZE The Animation ~Ouverture~</title>
+</titles>
+<similaranime>
+<anime id="10800" approval="1" total="2">Under the Dog</anime>
+</similaranime>
+<creators>
+<name id="45630" type="Character Design">Ikeda Yumi</name>
+<name id="3705" type="Work">Studio Khara</name>
+<name id="10300" type="Direction">Kobayashi Hiroyasu</name>
+</creators>
+<description>* Based on Gravity Rush (Gravity Daze) games by Sony</description>
+<ratings>
+<permanent count="98">3.86</permanent>
+<temporary count="100">5.71</temporary>
+</ratings>
+<picture>188843.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18944</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33697</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354181</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="3934" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-04-10">
+<name>non-linear</name>
+<description>The story is told achronologically.</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="183018" update="2016-12-27">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2016-12-26</airdate>
+<rating votes="1">1.34</rating>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

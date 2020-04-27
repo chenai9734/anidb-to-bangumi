@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3509" restricted="false">
+<type>TV Series</type>
+<episodecount>5</episodecount>
+<startdate>1970-06-10</startdate>
+<enddate>1970-10-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nihon Tanjou</title>
+<title xml:lang="en" type="synonym">Birth of Japan</title>
+<title xml:lang="x-jat" type="synonym">Nippon Tanjo</title>
+<title xml:lang="ja" type="official">日本誕生</title>
+</titles>
+<creators>
+<name id="812" type="Unknown Relation">Nippon Television Network</name>
+<name id="833" type="Financial Production">Mushi Production</name>
+<name id="2078" type="Music">Tomita Isao</name>
+<name id="48370" type="Series Composition">Nozaki Yoshihiro</name>
+</creators>
+<description>A history of Japan with the main characters as animals. Nihon Tanjo means "Birth of Japan".</description>
+<ratings>
+<permanent count="4">2.73</permanent>
+<temporary count="4">4.50</temporary>
+</ratings>
+<picture>5224.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1702</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22999</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1834</identifier>
+<identifier>qoqbye</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>日本誕生_(テレビアニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89593</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1025</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>91</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="45740" update="2007-03-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1970-06-10</airdate>
+<title xml:lang="ja">稲をもってきた河童</title>
+<title xml:lang="en">The Water Imp who brought the Rice Plants</title>
+</episode>
+<episode id="45741" update="2007-03-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1970-06-24</airdate>
+<title xml:lang="ja">大和の裏切り河童</title>
+<title xml:lang="en">The Water Imp who Betrayed Japan</title>
+</episode>
+<episode id="45742" update="2007-03-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1970-10-24</airdate>
+<title xml:lang="ja">英雄になった河童</title>
+<title xml:lang="en">The Water Imp who became a Hero</title>
+</episode>
+<episode id="45743" update="2007-03-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1970-06-17</airdate>
+<title xml:lang="ja">邪馬台国に住んだ河童</title>
+<title xml:lang="en">The Water Imp who lived in Yamataikoku</title>
+</episode>
+<episode id="45744" update="2007-03-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1970-10-17</airdate>
+<title xml:lang="ja">日出ずる国の河童</title>
+<title xml:lang="en">The Water Imp in the Land of the Rising Sun</title>
+</episode>
+</episodes>
+</anime>

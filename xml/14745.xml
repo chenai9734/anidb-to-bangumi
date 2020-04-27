@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14745" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2018-10-17</startdate>
+<enddate>2018-10-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Han Solo/Star Wars Story</title>
+<title xml:lang="ja" type="official">ハン・ソロ／スター・ウォーズ・ストーリー</title>
+</titles>
+<url>https://starwars.disney.co.jp/movie/hansolo/news/20181017_01.html</url>
+<description>Two shorts created by Disney Japan in honor of Solo: A Star Wars Story being released on MovieNEX, which is a set item of Blu-ray disc, DVD, and digital copy (cloud compatible) release of films (essentially every home-media release available as a single purchase). MovieNEX is unique to the Japanese market.
+Source: MAL</description>
+<ratings>
+<permanent count="7">2.17</permanent>
+<temporary count="7">4.00</temporary>
+</ratings>
+<picture>231191.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38545</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://starwars.disney.co.jp/movie/hansolo/news/20181017_01.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="224813" update="2019-11-29">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="224814" update="2019-11-29">
+<epno type="1">2</epno>
+<length>1</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+</episodes>
+</anime>

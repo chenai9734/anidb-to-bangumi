@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11112" restricted="false">
+<type>TV Series</type>
+<episodecount>0</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Shishou Series</title>
+<title xml:lang="ja" type="official">師匠シリーズ</title>
+</titles>
+<url>http://www.damnedmaster.com/</url>
+<creators>
+<name id="17916" type="Animation Work">Pierrot Plus</name>
+<name id="42545" type="Original Work">Uni</name>
+</creators>
+<picture>169580.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30223</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.damnedmaster.com/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=bVeHCCiIvx4</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+</tags>
+<characters>
+<character id="78418" type="main character in" update="2015-11-19">
+<name>Boku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179537.jpg</picture>
+</character>
+<character id="78419" type="main character in" update="2015-11-19">
+<name>Shishou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179538.jpg</picture>
+</character>
+<character id="78420" type="secondary cast in" update="2015-11-19">
+<name>Aruku</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179539.jpg</picture>
+</character>
+<character id="78421" type="secondary cast in" update="2015-11-19">
+<name>Kyousuke</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179540.jpg</picture>
+</character>
+<character id="78422" type="secondary cast in" update="2015-11-19">
+<name>Onkyou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179541.jpg</picture>
+</character>
+<character id="78423" type="secondary cast in" update="2015-11-19">
+<name>Kanako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179542.jpg</picture>
+</character>
+</characters>
+</anime>

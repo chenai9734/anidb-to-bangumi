@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8757" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2007-12-08</startdate>
+<enddate>2007-12-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">CCW: Crazy Clay Wrestling</title>
+<title xml:lang="ja" type="official">CCW: Crazy Clay Wrestling</title>
+</titles>
+<url>http://www.eonet.ne.jp/~y-nagao/CCW.htm</url>
+<creators>
+<name id="29357" type="Work">TN</name>
+</creators>
+<description>Ladies and gentlemen, this is the most exciting and brutal hardcore wrestling in the world... this is CCW! CCW! CCW! (Say it loud) CCW! CCW! CCW!</description>
+<ratings>
+<permanent count="149">1.61</permanent>
+<temporary count="149">3.11</temporary>
+</ratings>
+<picture>75890.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>11689</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.eonet.ne.jp/~y-nagao/CCW.htm</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=mxDVrHH-bFo</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1482" parentid="2751" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-08">
+<name>wrestling</name>
+<description>Wrestling is a fight between two people without weapons, in which each person tries to beat their opponent. Wrestlers use clinching, holding, locking, and leverage. It resembles ritual fighting as it avoids things that will likely lead to serious injury. It is similar to military hand-to-hand combat or self-defence systems.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2751" parentid="2881" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-27">
+<name>combat</name>
+<description>Combat involves a violent conflict with the goal to establish dominance over an opponent.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="4171" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-10-06">
+<name>claymation</name>
+<description>Short for clay animation.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="134334" update="2011-11-01">
+<epno type="1">1</epno>
+<length>7</length>
+<airdate>2007-12-08</airdate>
+<rating votes="2">1.98</rating>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

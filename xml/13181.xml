@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13181" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1996-11-05</startdate>
+<enddate>1996-11-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Santa no Yama: Yousei no Mori</title>
+<title xml:lang="fi" type="synonym">Joulupukin tunturi ja tonttumetsä</title>
+<title xml:lang="ja" type="official">サンタの山 妖精の森</title>
+</titles>
+<description>This is a delightful and heartwarming story about Santa Claus and and the Tonto (fairies) that help him.</description>
+<ratings>
+<permanent count="4">2.51</permanent>
+<temporary count="4">4.77</temporary>
+</ratings>
+<picture>238932.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35616</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235716</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>5902</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="189474" update="2019-12-12">
+<epno type="1">2</epno>
+<length>35</length>
+<airdate>1996-11-05</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">サンタのダイエット</title>
+<title xml:lang="en">Santa`s Diet</title>
+<title xml:lang="x-jat">Santa no Diet</title>
+</episode>
+<episode id="189475" update="2019-12-12">
+<epno type="1">1</epno>
+<length>35</length>
+<airdate>1996-11-05</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">ひっこし</title>
+<title xml:lang="en">Moving Out</title>
+<title xml:lang="x-jat">Hikkoshi</title>
+</episode>
+</episodes>
+</anime>

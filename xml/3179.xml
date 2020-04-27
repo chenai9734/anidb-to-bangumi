@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3179" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1979-05-05</startdate>
+<enddate>1979-05-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaitou Lupin: 813 no Nazo</title>
+<title xml:lang="en" type="synonym">Lupin the Mysterious Thief--Enigma of the 813</title>
+<title xml:lang="ja" type="official">怪盗ルパン 813の謎</title>
+<title xml:lang="en" type="official">Lupin the Thief--Enigma of the 813</title>
+</titles>
+<url>http://www.jmdb.ne.jp/1979/dc002030.htm</url>
+<creators>
+<name id="830" type="Unknown Relation">Tatsunoko Production</name>
+<name id="3974" type="Character Design">Kuri Ippei</name>
+<name id="3986" type="Chief Direction">Sasagawa Hiroshi</name>
+<name id="6468" type="Character Design">Amano Yoshitaka</name>
+<name id="6470" type="Chief Animation Direction">Miyamoto Sadao</name>
+<name id="8439" type="Original Work">Maurice Leblanc</name>
+</creators>
+<description>Creator : Maurice Leblanc
+Broadcaster : Fuji Television
+Production Company : Tatsunoko Production (Tatsunoko Pro)
+On aired at 05th May. 19:30-21:00 JST.
+Also theatre released at 13th Jul.
+80 mins. Colour.</description>
+<ratings>
+<permanent count="11">3.48</permanent>
+<temporary count="11">4.77</temporary>
+</ratings>
+<picture>153800.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9042</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17403</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.jmdb.ne.jp/1979/dc002030.htm</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>146774</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3512</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>287</identifier>
+</externalentity>
+<externalentity>
+<identifier>n106</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2872" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="6248" parentid="2872" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-31">
+<name>thievery</name>
+</tag>
+</tags>
+<episodes>
+<episode id="52342" update="2010-04-16">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1979-05-05</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

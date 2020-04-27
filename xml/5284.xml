@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5284" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1990-06-21</startdate>
+<enddate>1990-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Furiten-kun (1990)</title>
+<title xml:lang="ja" type="official">フリテンくん (1990)</title>
+</titles>
+<relatedanime>
+<anime id="7708" type="Prequel">Furiten-kun</anime>
+</relatedanime>
+<creators>
+<name id="6484" type="Direction">Takagaki Kouzou</name>
+<name id="12472" type="Original Work">Ueda Masashi</name>
+</creators>
+<ratings>
+<permanent count="6">3.20</permanent>
+<temporary count="6">5.00</temporary>
+</ratings>
+<picture>12537.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8230</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20095</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3206</identifier>
+<identifier>fzeziu</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Furiten-kun</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>フリテンくん</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88586</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2620</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1969" parentid="2756" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-23">
+<name>mahjong</name>
+<description>Mahjong is a tile-based game, which was developed in China during the Qing dynasty. It is commonly played by four players.
+Source: Wikipedia</description>
+<picurl>215287.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2756" parentid="2881" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>board games</name>
+<description>People here play a board game. It can vary from chess and Go, to Monopoly, to Dungeons and Dragons.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="104919" update="2010-05-02">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1990-07-21</airdate>
+<title xml:lang="ja">フリテンくんの白い巨塔 / マージャンでダイエット / オーいそがし社員旅行</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Furiten-kun no Shiroi Kyotou / Maajan de Diet / Oi Sogashi Shainryokou</title>
+</episode>
+<episode id="104920" update="2009-07-04">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1990-06-21</airdate>
+<title xml:lang="ja">似た者どうし / フリテンくんの子守り / フリテンの麻雀放浪記</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Nitamono Doushi / Furiten-kun no Komori / Furiten-kun no Maajan Hourou Ki</title>
+</episode>
+</episodes>
+</anime>

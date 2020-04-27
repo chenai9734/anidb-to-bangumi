@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12388" restricted="false">
+<type>Web</type>
+<episodecount>4</episodecount>
+<startdate>2014-01-28</startdate>
+<enddate>2014-03-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Channel 5.5</title>
+<title xml:lang="ja" type="official">チャンネル5.5</title>
+</titles>
+<relatedanime>
+<anime id="12389" type="Sequel">Channel 5.5 2nd Season</anime>
+<anime id="1240" type="Other">Kindaichi Shounen no Jikenbo (1997)</anime>
+</relatedanime>
+<description>Channel 5.5`s first series of spoofs parodies Kindaichi Case Files.
+Source: Crunchyroll</description>
+<ratings>
+<permanent count="9">2.09</permanent>
+<temporary count="9">4.11</temporary>
+</ratings>
+<picture>191019.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29821</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>金田一少年の事件簿_(アニメ)#.E3.83.81.E3.83.A3.E3.83.B3.E3.83.8D.E3.83.AB5.5.E7.89.88</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="45815" type="main character in" update="2014-03-31">
+<rating votes="17">8.07</rating>
+<name>Kindaichi Hajime</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152543.jpg</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="45816" type="main character in" update="2014-03-31">
+<rating votes="34">7.21</rating>
+<name>Nanase Miyuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152544.jpg</picture>
+<seiyuu id="46902" picture="191171.jpg">Aizawa Rina</seiyuu>
+</character>
+<character id="45818" type="main character in" update="2014-03-31">
+<rating votes="12">7.28</rating>
+<name>Kenmochi Isamu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152545.jpg</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="84662" type="secondary cast in" update="2016-09-08">
+<name>Violet</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+<character id="84663" type="secondary cast in" update="2016-09-08">
+<name>Fumiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+<character id="84664" type="secondary cast in" update="2016-09-08">
+<name>Fumiko no Otto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="84665" type="secondary cast in" update="2016-09-08">
+<name>Kaneda</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="180056" update="2019-08-29">
+<epno type="1">4</epno>
+<length>3</length>
+<airdate>2014-03-10</airdate>
+<title xml:lang="ja">金田一少年の航海日誌</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kindaichi Shounen no Koukai Nisshi</title>
+</episode>
+<episode id="180057" update="2019-08-29">
+<epno type="1">3</epno>
+<length>3</length>
+<airdate>2014-02-24</airdate>
+<title xml:lang="ja">金田一少年の恋女房</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Kindaichi Shounen no Koinyoubou</title>
+</episode>
+<episode id="180058" update="2019-08-29">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2014-02-10</airdate>
+<title xml:lang="ja">金田一少年のお部屋探し</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kindaichi Shounen no Oheya Sagashi</title>
+</episode>
+<episode id="180059" update="2019-08-29">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2014-01-28</airdate>
+<title xml:lang="ja">金田一少年はジッチャンの名をかけすぎだと思うの</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kindaichi Shounen wa Jii-chan no Na o Kakesugida to Omou no</title>
+</episode>
+<episode id="219812" update="2019-08-29">
+<epno type="2">S1</epno>
+<length>5</length>
+<title xml:lang="ja">プロローグ - 新番組スタート!</title>
+<title xml:lang="en">Prologue</title>
+</episode>
+</episodes>
+</anime>

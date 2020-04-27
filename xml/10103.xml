@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10103" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2008</startdate>
+<enddate>2008</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yume no Tsuzuki</title>
+<title xml:lang="ja" type="official">夢のつづき</title>
+</titles>
+<ratings>
+<permanent count="1">7.69</permanent>
+<temporary count="1">6.00</temporary>
+</ratings>
+<picture>143264.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>26097</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="154468" update="2013-10-01">
+<epno type="1">1</epno>
+<length>40</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11317" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1980</startdate>
+<enddate>1980</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gegege no Kitarou: Kitarou Tanjou-hen</title>
+<title xml:lang="x-jat" type="synonym">Kitaro Tanjo Hen</title>
+<title xml:lang="x-jat" type="synonym">Gegege no Kitarou Kitarou Tanjou Hen</title>
+<title xml:lang="ja" type="official">鬼太郎的誕生</title>
+<title xml:lang="en" type="official">Birth of Kitarou</title>
+</titles>
+<relatedanime>
+<anime id="7472" type="Parent Story">Gegege no Kitarou (1968)</anime>
+</relatedanime>
+<description>A short special "Birth of Kitarou" aired in 1980.</description>
+<ratings>
+<permanent count="8">3.31</permanent>
+<temporary count="8">4.25</temporary>
+</ratings>
+<picture>174769.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24677</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="169161" update="2015-06-21">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

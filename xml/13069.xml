@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13069" restricted="false">
+<type>TV Series</type>
+<episodecount>25</episodecount>
+<startdate>2017-10-07</startdate>
+<enddate>2018-03-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Classicaloid (2017)</title>
+<title xml:lang="x-jat" type="synonym">ClassicaLoid S2</title>
+<title xml:lang="ja" type="official">クラシカロイド (2017)</title>
+<title xml:lang="en" type="official">Classicaloid 2</title>
+<title xml:lang="ko" type="official">클래시컬로이드 2</title>
+<title xml:lang="zh-Hans" type="official">克拉斯卡劳埃德 第二季</title>
+</titles>
+<relatedanime>
+<anime id="11344" type="Prequel">Classicaloid</anime>
+</relatedanime>
+<url>http://classicaloid.net/</url>
+<creators>
+<name id="1654" type="Character Design">Hashimoto Seiichi</name>
+<name id="2847" type="Series Composition">Tsuchiya Michihiro</name>
+<name id="24337" type="Story Composition">Fujita Youichi</name>
+<name id="1050" type="Work">NHK</name>
+<name id="42824" type="Work">BN Pictures</name>
+<name id="1234" type="Work">NHK Enterprises</name>
+<name id="15566" type="Direction">Umabiki Kei</name>
+<name id="32810" type="Music">Hamauzu Masashi</name>
+</creators>
+<description>http://anidb.net/ch82426 [Kanae], a normal high school girl, is reunited with her least favorite house guests. There`s http://anidb.net/ch84070 [Beet-san] (otherwise known as Ludwig van Beethoven) and free-spirited http://anidb.net/ch84071 [Motz] (Wolfgang Amadeus Mozart), as well as fellow squatters http://anidb.net/ch84069 [Chopin], http://anidb.net/ch84072 [Liszt], and http://anidb.net/ch84068 [Schubert]. These maestros have already proven they have the skill to save the world with their explosive melodies called "Musik," but with the addition of two new Classicaloids - http://anidb.net/ch90178 [Wagner] and http://anidb.net/ch91290 [Dvorak] – Kanae is sure to be at her wits` end. What new realities will these ClassicaLoids compose with their Musik?
+Source: sentai filmworks</description>
+<ratings>
+<permanent count="57">3.41</permanent>
+<temporary count="57">5.22</temporary>
+</ratings>
+<picture>206865.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19801</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35334</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://classicaloid.net/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>ClassicaLoid</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>クラシカロイド</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4715</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360283</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20601</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>nhkclassicaloid</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="3867" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-22">
+<name>ED variety</name>
+<description>Several ED sequences in this anime have either a different song or different animation, maybe even to the point of having a unique ED for each episode.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="82425" type="main character in" update="2016-10-16">
+<rating votes="1">1.65</rating>
+<name>Kagura Sousuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192990.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="82426" type="main character in" update="2016-10-16">
+<rating votes="2">6.08</rating>
+<name>Otowa Kanae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192989.jpg</picture>
+<seiyuu id="16085" picture="178446.jpg">Komatsu Mikako</seiyuu>
+</character>
+<character id="84068" type="secondary cast in" update="2017-04-07">
+<name>Schubert</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200822.jpg</picture>
+<seiyuu id="612" picture="79531.jpg">Maeno Tomoaki</seiyuu>
+</character>
+<character id="84069" type="secondary cast in" update="2017-04-07">
+<name>Chopin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200821.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="84070" type="secondary cast in" update="2016-10-16">
+<rating votes="1">1.59</rating>
+<name>Beethoven</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192987.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="84071" type="secondary cast in" update="2016-10-16">
+<name>Mozart</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192988.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="84072" type="secondary cast in" update="2017-04-07">
+<rating votes="2">6.92</rating>
+<name>Liszt</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200820.jpg</picture>
+<seiyuu id="10" picture="226529.jpg">Noto Mamiko</seiyuu>
+</character>
+<character id="84073" type="secondary cast in" update="2017-04-07">
+<rating votes="3">6.08</rating>
+<name>Tchaikovsky</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200823.jpg</picture>
+<seiyuu id="424" picture="224027.jpg">Endou Aya</seiyuu>
+</character>
+<character id="84074" type="secondary cast in" update="2017-04-07">
+<rating votes="4">8.71</rating>
+<name>Badarzewska</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200819.jpg</picture>
+<seiyuu id="36368" picture="224755.jpg">Mao</seiyuu>
+</character>
+<character id="84075" type="secondary cast in" update="2017-04-07">
+<name>Bach</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200818.jpg</picture>
+<seiyuu id="2231" picture="235895.jpg">Kusunoki Taiten</seiyuu>
+</character>
+<character id="84076" type="secondary cast in" update="2016-10-16">
+<name>Pad-kun</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192991.jpg</picture>
+<seiyuu id="194" picture="130580.jpg">Ishida Akira</seiyuu>
+</character>
+<character id="84077" type="secondary cast in" update="2016-10-16">
+<name>Hussey</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192992.jpg</picture>
+</character>
+<character id="90178" type="secondary cast in" update="2017-10-12">
+<name>Wagner</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208267.jpg</picture>
+<seiyuu id="20249" picture="186289.jpg">Matsuoka Yoshitsugu</seiyuu>
+</character>
+<character id="91290" type="secondary cast in" update="2017-10-12">
+<name>Dvorak</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208268.jpg</picture>
+<seiyuu id="200" picture="17015.jpg">Suwabe Jun`ichi</seiyuu>
+</character>
+<character id="91746" type="appears in" update="2017-10-12">
+<name>Otowa Kyougo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208269.jpg</picture>
+<seiyuu id="382" picture="228600.jpg">Ookawa Tooru</seiyuu>
+</character>
+<character id="91747" type="appears in" update="2017-10-12">
+<name>Mitsuru Akira</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208270.jpg</picture>
+<seiyuu id="45121" picture="225365.jpg">Fujiwara Natsumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="191158" update="2018-12-14">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-10-28</airdate>
+<title xml:lang="ja">フィーバー! レッツぷーぎー!</title>
+<title xml:lang="en">Fever! Let`s Pugi</title>
+<title xml:lang="ko">피버! 렛츠 푸기!</title>
+<title xml:lang="x-jat">Fever! Let`s Pugi!</title>
+<summary>Dovo the hippo becomes a hit on the internet, and his popularity is bringing visitors to the mansion in droves to pay tribute. Chopin attempts to save his new friend.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780308</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191159" update="2018-12-14">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-10-21</airdate>
+<title xml:lang="ja">ひと目会ったその日から</title>
+<title xml:lang="en">Ever Since the Day We First Met</title>
+<title xml:lang="ko">처음 만난 그날부터</title>
+<title xml:lang="x-jat">Hitome Atta Sono Hi kara</title>
+<summary>A mixer brings out Motz`s mischievous side, and he drags Sosuke, Chopin, and Kanae`s friends into playing the King`s Game. Love seems like a long shot, but not for one person.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780306</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191160" update="2018-12-14">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-10-14</airdate>
+<title xml:lang="ja">マイリトルブラザー</title>
+<title xml:lang="en">My Little Brother</title>
+<title xml:lang="ko">마이 리틀 브라더</title>
+<title xml:lang="x-jat">My Little Brother</title>
+<summary>Beethoven`s patience for Wataru is wearing thin. A war of chores to win Kanae`s affections gets vicious, but Beet`s latest Musik strikes a strange chord with Wataru.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780305</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191161" update="2018-12-14">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-10-07</airdate>
+<title xml:lang="ja">カバと弟と音羽館</title>
+<title xml:lang="en">Hippo and Little Brother and Otowa Mansion</title>
+<title xml:lang="ko">하마와 남동생과 오토와관</title>
+<title xml:lang="x-jat">Kaba to Otouto to Otowakan</title>
+<summary>Life is chaotic as ever in the Otowa Mansion. One similarly frustrating morning, Kanae gets a new visitor: a hippo and a boy who claims to be her little brother.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780304</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191634" update="2017-10-14">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2017-10-07</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="191722" update="2017-10-14">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-10-14</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="191724" update="2018-12-14">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-11-11</airdate>
+<title xml:lang="ja">ハハはカニ カバはサイ</title>
+<title xml:lang="en">Mother Provides the Crab, Hippo Becomes a Rhino</title>
+<title xml:lang="ko">엄마는 게 하마는 코뿔소</title>
+<title xml:lang="x-jat">Haha wa Kani Kaba wa Sai</title>
+<summary>While Kanae is out, the household decide to play a few tricks on Wataru. Their plans go a bit sideways though, with the appearance of Kanae’s mother. Why is she visiting?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780311</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191725" update="2018-12-14">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-11-04</airdate>
+<title xml:lang="ja">偉大なる男</title>
+<title xml:lang="en">A Great Man</title>
+<title xml:lang="ko">위대한 남자</title>
+<title xml:lang="x-jat">Idai Naru Otoko</title>
+<summary>A mysterious man only known as The Great is ending all conflict and spreading world peace with the power of reggae. However, there may be such a thing as TOO much peace...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780309</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192104" update="2018-12-14">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-11-25</airdate>
+<title xml:lang="ja">ウソつきはモツのはじまり</title>
+<title xml:lang="en">To Be Motz Is to Fib</title>
+<title xml:lang="ko">거짓말을 모츠 밥 먹듯 한다</title>
+<title xml:lang="x-jat">Usotsuki wa Motsu no Hajimari</title>
+<summary>Beethoven turns into a Hippo and Mozart brings over a new friend. What will happen when Mari’s and Motz’s past collide?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780316</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192105" update="2018-12-14">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-11-18</airdate>
+<title xml:lang="ja">歌苗, お婿さん募集中</title>
+<title xml:lang="en">Looking for a Husband for Kanae</title>
+<title xml:lang="ko">카나에 남편 모집 중</title>
+<title xml:lang="x-jat">Kanae, Omuko-san Boshuuchuu</title>
+<summary>Now that Himeka has decided to stick around will her motherly instincts take over and lead her to be too interested in Kanae’s love life?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780313</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193138" update="2018-12-14">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-12-23</airdate>
+<title xml:lang="ja">ワーグナーの野望</title>
+<title xml:lang="en">Wagner`s Ambition</title>
+<title xml:lang="ko">바그너의 야망</title>
+<title xml:lang="x-jat">Wagner no Yabou</title>
+<summary>Wagner and Bach-sama get into a heated argument as Wagner`s deep, thirst for a revolution maybe closer than he thinks.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780324</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193139" update="2018-12-14">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-12-16</airdate>
+<title xml:lang="ja">塩しかねんだよ</title>
+<title xml:lang="en">Nothing But Saltiness</title>
+<title xml:lang="ko">소금밖에 없어</title>
+<title xml:lang="x-jat">Shio Shika Nenda yo</title>
+<summary>Wa-kun is starting to fulfill his ambitions. Will everything go as he hopes, or will there be a kink in his plan?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780322</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193140" update="2018-12-14">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-12-09</airdate>
+<title xml:lang="ja">リストvs.リスト 運命の鐘[ゴング]</title>
+<title xml:lang="en">Liszt vs Risuto: Bell (Gong) of Destiny</title>
+<title xml:lang="ko">리스트 vs. 리스트 운명의 종소리</title>
+<title xml:lang="x-jat">Liszt vs. Risuto: Unmei no Gong</title>
+<summary>Kanae finds a flier about a new piano school, and Liszt isn`t too happy about it. Will Liszt be able to keep her cool?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780321</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193141" update="2018-12-14">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-12-02</airdate>
+<title xml:lang="ja">○[まる]のない世界</title>
+<title xml:lang="en">A World Without Circles</title>
+<title xml:lang="ko">원이 없는 세계</title>
+<title xml:lang="x-jat">Maru no Nai Sekai</title>
+<summary>The sudden disappearance of objects from around the house has each of the occupants up in arms to find the apparent thief. Who in the world is the culprit?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780317</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193597" update="2018-12-14">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2017-12-30</airdate>
+<title xml:lang="ja">年忘れ! 紅白ムジーク合戦</title>
+<title xml:lang="en">Forget the Year`s Hardships! Red vs. White Musik Contest</title>
+<title xml:lang="ko">송년회! 홍백무지크합전</title>
+<title xml:lang="x-jat">Toshiwakare! Kouhaku Musik Kassen</title>
+<summary>The ClassicaLoids are ending the year on a high note, with a Musik Contest! Which team will be victorious?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780325</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193800" update="2018-12-14">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-01-20</airdate>
+<title xml:lang="ja">未知との再会</title>
+<title xml:lang="en">A Reunion with the Great Unknown</title>
+<title xml:lang="ko">미지와의 재회</title>
+<title xml:lang="x-jat">Michi to no Saikai</title>
+<summary>After an explosion in a concert hall, Beethoven starts to act strange causing trouble for the occupants of the mansion. Will they be able to return Beethoven back to normal?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780331</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193801" update="2018-12-14">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-01-13</airdate>
+<title xml:lang="ja">どすこい音羽部屋</title>
+<title xml:lang="en">Dosukoi! Otowa Sumo Stable</title>
+<title xml:lang="ko">으랏차차 오토와 합숙소</title>
+<title xml:lang="x-jat">Dosukoi Otowa Heya</title>
+<summary>Himeka proposes that the guys participate in a Sumo Tournament. Will her true goal for the event be enough to entice them to join, and resolve the issues Wa-kun has caused?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780329</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193802" update="2018-12-14">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-01-06</airdate>
+<title xml:lang="ja">恋せよアイドル, 旅せよコビトカバ</title>
+<title xml:lang="en">Fall in Love, Pop Idol! Travel, Pygmy Hippo!</title>
+<title xml:lang="ko">사랑하라 아이돌, 여행하라 애기하마</title>
+<title xml:lang="x-jat">Koi Seyo Idol, Tabi Seyo Kobitokaba</title>
+<summary>Now that Wa-kun has knocked his competition out of the way, his idol status has him alienating Dovo. Meanwhile, Bada is working out what to do with her new found freedom?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780327</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194571" update="2018-12-14">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-01-27</airdate>
+<title xml:lang="ja">荒野のウエスタンロイド</title>
+<title xml:lang="en">Westernloids of the Wild West</title>
+<title xml:lang="ko">황야의 웨스턴로이드</title>
+<title xml:lang="x-jat">Kouya no Westernloid</title>
+<summary>There’s a new sheriff in town and she doesn’t play any games! Later, a fierce gun tottin’ brawl ensues in the town and the Mansion isn’t big enough for the ClassicaLoids!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780333</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194900" update="2018-12-14">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-02-03</airdate>
+<title xml:lang="ja">さよなら, 姉さん</title>
+<title xml:lang="en">Goodbye, Big Sister</title>
+<title xml:lang="ko">잘 있어, 누나</title>
+<title xml:lang="x-jat">Sayonara, Nee-san</title>
+<summary>Wa-kun is back and his deep thirst for a revolution is stronger than ever before! What happens when that ambition is taken too far?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780335</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195130" update="2018-12-14">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-02-17</airdate>
+<title xml:lang="ja">ドボちゃんの憂鬱</title>
+<title xml:lang="en">The Melancholy of Dovo-chan</title>
+<title xml:lang="ko">드보의 우울</title>
+<title xml:lang="x-jat">Dovo-chan no Yuuutsu</title>
+<summary>Dovo the hippo wishes to become human and his wish is within reach when he discovers a special medicine. What happens when that medicine gets into the wrong hands?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780339</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195131" update="2018-12-14">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-02-10</airdate>
+<title xml:lang="ja">シューベルトの憂鬱</title>
+<title xml:lang="en">The Melancholy of Schubert</title>
+<title xml:lang="ko">슈베르트의 우울</title>
+<title xml:lang="x-jat">Schubert no Yuuutsu</title>
+<summary>A simple errand to the grocery store becomes a symphony of musical madness when Schubert and Mozart are in the mix. What could possibly go wrong?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780337</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195485" update="2018-12-14">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-02-24</airdate>
+<title xml:lang="ja">英雄ショパン</title>
+<title xml:lang="en">Chopin the Hero</title>
+<title xml:lang="ko">영웅 쇼팽</title>
+<title xml:lang="x-jat">Eiyuu Chopin</title>
+<summary>The Otowa Mansion becomes the model for a manga that Chopin wrote and becomes a big hit at Kanae’s school! The mansion residents aren’t too happy about their newfound fame.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780341</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195951" update="2018-12-14">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-03-17</airdate>
+<title xml:lang="ja">姉と弟</title>
+<title xml:lang="en">Big Sister and Little Brother</title>
+<title xml:lang="ko">누나와 동생</title>
+<title xml:lang="x-jat">Ane to Otouto</title>
+<summary>Wagner’s musik has completely taken over and is confined in a prison of epic proportions. Can the unconditional love from his family and friends save him?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780346</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195952" update="2018-12-14">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-03-10</airdate>
+<title xml:lang="ja">待ち人来たりて城が建つ</title>
+<title xml:lang="en">A Long-Awaited Person Arrives, a Castle Is Built</title>
+<title xml:lang="ko">기다리는 이 나타나고 성이 세워진다</title>
+<title xml:lang="x-jat">Machibito Kitarite Shiro ga Tatsu</title>
+<summary>What is supposed to be an emotional reunion, turns into turmoil when Wagner unleashes all the musik stolen from the other Classicaloids.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780345</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195953" update="2018-12-14">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-03-03</airdate>
+<title xml:lang="ja">バッハクラクラニーベルング</title>
+<title xml:lang="en">Bach, Clakla, Nibelungen</title>
+<title xml:lang="ko">바흐 클라클라 니벨룽</title>
+<title xml:lang="x-jat">Bach Kurakura Nibelung</title>
+<summary>CLAKLA is back and better than ever when Bach composes a new song for the pop idol group! Meanwhile, Wagner’s thirst for a revolution intensifies.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780343</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196636" update="2018-12-14">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2018-03-24</airdate>
+<title xml:lang="ja">ザ ラスト クラシカロイド</title>
+<title xml:lang="en">The Last Classicaloid</title>
+<title xml:lang="ko">더 라스트 클래시컬로이드</title>
+<title xml:lang="x-jat">The Last Classicaloid</title>
+<summary>Unsure of his post-graduation plans, Sosuke dreams big about what his future will hold.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780348</identifier>
+<identifier>classicaloid</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

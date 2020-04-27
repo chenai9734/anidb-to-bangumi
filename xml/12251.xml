@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12251" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2007</startdate>
+<enddate>2007</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Wukong Dazhan Er Lang Shen</title>
+<title xml:lang="zh-Hant" type="official">悟空大战二郎神</title>
+</titles>
+<description>Based on a few early chapters of classic fantasy novel Journey to the West, the story tells how the Monkey King rises against the heaven and has a horrific fight with Er Lang Shen, the nephew of Jade Emperor, who rules the Heaven.</description>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>188010.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34248</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Monkey_King_vs._Er_Lang_Shen</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3752" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-10">
+<name>Journey to the West</name>
+<description>Journey to the West is a classic Chinese mythological novel. It was written during the Ming Dynasty based on traditional folk tales. Consisting of 100 chapters, this fantasy relates the adventures of a Tang Dynasty priest Sanzang and his three disciples, Monkey, Pig and Friar Sand, as they travel west in search of Buddhist Sutra. Several anime are loosely based on its story, most famously Dragon Ball.</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+</tags>
+</anime>

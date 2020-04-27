@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12353" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2014-01-24</startdate>
+<enddate>2014-01-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Roku no Sekai</title>
+<title xml:lang="en" type="synonym">The World of Roku</title>
+<title xml:lang="ja" type="official">ロクの世界</title>
+</titles>
+<url>http://worldofroku.com/</url>
+<creators>
+<name id="46714" type="Direction">Takao Kei</name>
+<name id="46716" type="Music">Maemura Haruna</name>
+</creators>
+<ratings>
+<permanent count="2">4.95</permanent>
+<temporary count="2">4.50</temporary>
+</ratings>
+<picture>190470.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38049</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://worldofroku.com/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="179895" update="2016-08-25">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2014-01-24</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

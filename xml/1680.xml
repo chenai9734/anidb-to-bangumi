@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1680" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1978-03-18</startdate>
+<enddate>1978-03-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ikkyuu-san to Yancha Hime</title>
+<title xml:lang="en" type="synonym">Ikkyu-san and the Mischievous Princess</title>
+<title xml:lang="ja" type="official">一休さんとやんちゃ姫</title>
+</titles>
+<relatedanime>
+<anime id="1678" type="Parent Story">Ikkyuu-san</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="4382" type="Music">Uno Seiichirou</name>
+</creators>
+<description>http://anidb.net/ch17479 [Ikkyuu] must talk a tomboy into behaving in a more lady-like manner before her habit of calling herself by the boy`s name Tsuyumaru and attacking shogun Yoshimitsu Ashikaga with a wooden sword gets her into trouble.</description>
+<ratings>
+<permanent count="4">5.64</permanent>
+<temporary count="4">6.00</temporary>
+</ratings>
+<picture>41847.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3628</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>21467</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3098</identifier>
+<identifier>pbkyny</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>一休さん_(テレビアニメ)#.E5.8A.87.E5.A0.B4.E7.89.88</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>146247</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21947</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m077</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="17479" type="main character in" update="2010-05-08">
+<name>Ikkyuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>47530.jpg</picture>
+<seiyuu id="3250" picture="24693.jpg">Fujita Toshiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="17848" update="2012-09-11">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>1978-03-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

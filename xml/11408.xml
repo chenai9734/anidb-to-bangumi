@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11408" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2001</startdate>
+<enddate>2001</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Aoi Heya</title>
+<title xml:lang="ja" type="official">青い部屋</title>
+<title xml:lang="en" type="official">Blue Room</title>
+</titles>
+<url>http://www.youtube.com/watch?v=SnCld-zXwwE</url>
+<description>A short animation from Kazuhiro Hotchi.</description>
+<ratings>
+<permanent count="55">2.18</permanent>
+<temporary count="55">3.45</temporary>
+</ratings>
+<picture>175576.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22415</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=SnCld-zXwwE</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170085" update="2015-07-19">
+<epno type="1">1</epno>
+<length>2</length>
+<rating votes="1">1.35</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

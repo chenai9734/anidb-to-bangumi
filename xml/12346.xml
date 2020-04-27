@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12346" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2017-04-19</startdate>
+<enddate>2017-04-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">T7S: Longing for Summer Again and Again - Harukaze</title>
+<title xml:lang="ja" type="synonym">ハルカゼ~You were here~</title>
+<title xml:lang="ja" type="official">t7s Longing for summer Again And Again ~ハルカゼ~</title>
+</titles>
+<url>http://t7s.jp/</url>
+<creators>
+<name id="45654" type="Animation Work">Chiptune</name>
+</creators>
+<description>An animated music video for the song Harukaze ~You were here~, bundled with the single t7s Longing for summer Again And Again ~Harukaze~ of the Tokyo 7th Sisters game idol group 777☆SISTERS.</description>
+<ratings>
+<permanent count="15">5.74</permanent>
+<temporary count="15">5.53</temporary>
+</ratings>
+<picture>202214.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34943</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://t7s.jp/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="185506" update="2017-05-09">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>2017-04-19</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+<episode id="198759" update="2018-05-05">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Episode T1</title>
+</episode>
+</episodes>
+</anime>

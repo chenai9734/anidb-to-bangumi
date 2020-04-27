@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8201" restricted="false">
+<type>TV Series</type>
+<episodecount>130</episodecount>
+<startdate>2000-10-02</startdate>
+<enddate>2001-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hamster Club</title>
+<title xml:lang="ja" type="official">ハムスター倶楽部</title>
+</titles>
+<creators>
+<name id="27777" type="Original Work">Medetai</name>
+<name id="3685" type="Chief Direction">Saitou Hiroshi</name>
+<name id="7443" type="Character Design">Shimazu Ikuo</name>
+</creators>
+<ratings>
+<permanent count="6">3.96</permanent>
+<temporary count="6">3.50</temporary>
+</ratings>
+<picture>61934.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22276</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9900</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ハムスター倶楽部</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>162456</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4178</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2658" parentid="2853" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>toilet humour</name>
+<description>Everything leads back to poo.</description>
+</tag>
+<tag id="2853" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="127029" update="2011-01-19">
+<epno type="1">130</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスターが一杯</title>
+<title xml:lang="en">Episode 130</title>
+</episode>
+<episode id="127030" update="2011-01-19">
+<epno type="1">129</epno>
+<length>5</length>
+<title xml:lang="ja">しげっちの赤ちゃん!?</title>
+<title xml:lang="en">Episode 129</title>
+</episode>
+<episode id="127031" update="2011-01-19">
+<epno type="1">128</epno>
+<length>5</length>
+<title xml:lang="ja">素敵なこと</title>
+<title xml:lang="en">Episode 128</title>
+</episode>
+<episode id="127032" update="2011-01-19">
+<epno type="1">127</epno>
+<length>5</length>
+<title xml:lang="ja">食べ過ぎしげっち</title>
+<title xml:lang="en">Episode 127</title>
+</episode>
+<episode id="127033" update="2011-01-19">
+<epno type="1">126</epno>
+<length>5</length>
+<title xml:lang="ja">しげっちが一杯食べる理由</title>
+<title xml:lang="en">Episode 126</title>
+</episode>
+<episode id="127034" update="2011-01-19">
+<epno type="1">125</epno>
+<length>5</length>
+<title xml:lang="ja">宿題するより遊びましょ</title>
+<title xml:lang="en">Episode 125</title>
+</episode>
+<episode id="127035" update="2011-01-19">
+<epno type="1">124</epno>
+<length>5</length>
+<title xml:lang="ja">みんなが, 釣れた!?</title>
+<title xml:lang="en">Episode 124</title>
+</episode>
+<episode id="127036" update="2011-01-19">
+<epno type="1">123</epno>
+<length>5</length>
+<title xml:lang="ja">しげっちも遊びたい!</title>
+<title xml:lang="en">Episode 123</title>
+</episode>
+<episode id="127037" update="2011-01-19">
+<epno type="1">122</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスターが, 釣れた!?</title>
+<title xml:lang="en">Episode 122</title>
+</episode>
+<episode id="127038" update="2011-01-19">
+<epno type="1">121</epno>
+<length>5</length>
+<title xml:lang="ja">みんなで遊ぼう</title>
+<title xml:lang="en">Episode 121</title>
+</episode>
+<episode id="127039" update="2011-01-19">
+<epno type="1">120</epno>
+<length>5</length>
+<title xml:lang="ja">元気でヨカッタ</title>
+<title xml:lang="en">Episode 120</title>
+</episode>
+<episode id="127040" update="2011-01-19">
+<epno type="1">119</epno>
+<length>5</length>
+<title xml:lang="ja">変なのはどっち?</title>
+<title xml:lang="en">Episode 119</title>
+</episode>
+<episode id="127041" update="2011-01-19">
+<epno type="1">118</epno>
+<length>5</length>
+<title xml:lang="ja">お願い, 囓って!</title>
+<title xml:lang="en">Episode 118</title>
+</episode>
+<episode id="127042" update="2011-01-19">
+<epno type="1">117</epno>
+<length>5</length>
+<title xml:lang="ja">バナナ・キャンディちゃんが大変!?</title>
+<title xml:lang="en">Episode 117</title>
+</episode>
+<episode id="127043" update="2011-01-19">
+<epno type="1">116</epno>
+<length>5</length>
+<title xml:lang="ja">ひかるは心配性</title>
+<title xml:lang="en">Episode 116</title>
+</episode>
+<episode id="127044" update="2011-01-19">
+<epno type="1">115</epno>
+<length>5</length>
+<title xml:lang="ja">頑張れ! バナナ・キャンディちゃん</title>
+<title xml:lang="en">Episode 115</title>
+</episode>
+<episode id="127045" update="2011-01-19">
+<epno type="1">114</epno>
+<length>5</length>
+<title xml:lang="ja">日暮れの出来事</title>
+<title xml:lang="en">Episode 114</title>
+</episode>
+<episode id="127046" update="2011-01-19">
+<epno type="1">113</epno>
+<length>5</length>
+<title xml:lang="ja">バナナ・キャンディちゃんのお散歩</title>
+<title xml:lang="en">Episode 113</title>
+</episode>
+<episode id="127047" update="2011-01-19">
+<epno type="1">112</epno>
+<length>5</length>
+<title xml:lang="ja">みんなでダイエット</title>
+<title xml:lang="en">Episode 112</title>
+</episode>
+<episode id="127048" update="2011-01-19">
+<epno type="1">111</epno>
+<length>5</length>
+<title xml:lang="ja">元気に暮らそう</title>
+<title xml:lang="en">Episode 111</title>
+</episode>
+<episode id="127049" update="2011-01-19">
+<epno type="1">110</epno>
+<length>5</length>
+<title xml:lang="ja">夢の続き......</title>
+<title xml:lang="en">Episode 110</title>
+</episode>
+<episode id="127050" update="2011-01-19">
+<epno type="1">109</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくんのお引っ越し</title>
+<title xml:lang="en">Episode 109</title>
+</episode>
+<episode id="127051" update="2011-01-19">
+<epno type="1">108</epno>
+<length>5</length>
+<title xml:lang="ja">新しい巣箱</title>
+<title xml:lang="en">Episode 108</title>
+</episode>
+<episode id="127052" update="2011-01-19">
+<epno type="1">107</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくんのオーラ</title>
+<title xml:lang="en">Episode 107</title>
+</episode>
+<episode id="127053" update="2011-01-19">
+<epno type="1">106</epno>
+<length>5</length>
+<title xml:lang="ja">不思議な夢</title>
+<title xml:lang="en">Episode 106</title>
+</episode>
+<episode id="127054" update="2011-01-19">
+<epno type="1">105</epno>
+<length>5</length>
+<title xml:lang="ja">歯磨き, ハミハミ!</title>
+<title xml:lang="en">Episode 105</title>
+</episode>
+<episode id="127055" update="2011-01-19">
+<epno type="1">104</epno>
+<length>5</length>
+<title xml:lang="ja">プーちゃん, キレイになった?</title>
+<title xml:lang="en">Episode 104</title>
+</episode>
+<episode id="127056" update="2011-01-19">
+<epno type="1">103</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくん美化大作戦</title>
+<title xml:lang="en">Episode 103</title>
+</episode>
+<episode id="127057" update="2011-01-19">
+<epno type="1">102</epno>
+<length>5</length>
+<title xml:lang="ja">ブラッシングの効能</title>
+<title xml:lang="en">Episode 102</title>
+</episode>
+<episode id="127058" update="2011-01-19">
+<epno type="1">101</epno>
+<length>5</length>
+<title xml:lang="ja">キレイになろう!</title>
+<title xml:lang="en">Episode 101</title>
+</episode>
+<episode id="127059" update="2011-01-19">
+<epno type="1">100</epno>
+<length>5</length>
+<title xml:lang="ja">最高の写真</title>
+<title xml:lang="en">Episode 100</title>
+</episode>
+<episode id="127060" update="2011-01-19">
+<epno type="1">99</epno>
+<length>5</length>
+<title xml:lang="ja">どうしても撮れない!</title>
+<title xml:lang="en">Episode 99</title>
+</episode>
+<episode id="127061" update="2011-01-19">
+<epno type="1">98</epno>
+<length>5</length>
+<title xml:lang="ja">プーちゃんはモデル向き!?</title>
+<title xml:lang="en">Episode 98</title>
+</episode>
+<episode id="127062" update="2011-01-19">
+<epno type="1">97</epno>
+<length>5</length>
+<title xml:lang="ja">上手く撮れるかな?</title>
+<title xml:lang="en">Episode 97</title>
+</episode>
+<episode id="127063" update="2011-01-19">
+<epno type="1">96</epno>
+<length>5</length>
+<title xml:lang="ja">写真を撮ろう</title>
+<title xml:lang="en">Episode 96</title>
+</episode>
+<episode id="127064" update="2011-01-19">
+<epno type="1">95</epno>
+<length>5</length>
+<title xml:lang="ja">しげっち達のお気に入り</title>
+<title xml:lang="en">Episode 95</title>
+</episode>
+<episode id="127065" update="2011-01-19">
+<epno type="1">94</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくんには向いてない!?</title>
+<title xml:lang="en">Episode 94</title>
+</episode>
+<episode id="127066" update="2011-01-19">
+<epno type="1">93</epno>
+<length>5</length>
+<title xml:lang="ja">オモチャがいっぱい</title>
+<title xml:lang="en">Episode 93</title>
+</episode>
+<episode id="127067" update="2011-01-19">
+<epno type="1">92</epno>
+<length>5</length>
+<title xml:lang="ja">アスレチックで遊ぼう</title>
+<title xml:lang="en">Episode 92</title>
+</episode>
+<episode id="127068" update="2011-01-19">
+<epno type="1">91</epno>
+<length>5</length>
+<title xml:lang="ja">オモチャが欲しい?</title>
+<title xml:lang="en">Episode 91</title>
+</episode>
+<episode id="127069" update="2011-01-19">
+<epno type="1">90</epno>
+<length>5</length>
+<title xml:lang="ja">バナナ・キャンディちゃんのヒミツ</title>
+<title xml:lang="en">Episode 90</title>
+</episode>
+<episode id="127070" update="2011-01-19">
+<epno type="1">89</epno>
+<length>5</length>
+<title xml:lang="ja">"芸"じゃなかったの!?</title>
+<title xml:lang="en">Episode 89</title>
+</episode>
+<episode id="127071" update="2011-01-19">
+<epno type="1">88</epno>
+<length>5</length>
+<title xml:lang="ja">頑張れ頑張れプーちゃん!</title>
+<title xml:lang="en">Episode 88</title>
+</episode>
+<episode id="127072" update="2011-01-19">
+<epno type="1">87</epno>
+<length>5</length>
+<title xml:lang="ja">賢いバナナ・キャンディちゃん</title>
+<title xml:lang="en">Episode 87</title>
+</episode>
+<episode id="127073" update="2011-01-19">
+<epno type="1">86</epno>
+<length>5</length>
+<title xml:lang="ja">バナナ・キャンディちゃんのドレス</title>
+<title xml:lang="en">Episode 86</title>
+</episode>
+<episode id="127074" update="2011-01-19">
+<epno type="1">85</epno>
+<length>5</length>
+<title xml:lang="ja">言葉はなくても</title>
+<title xml:lang="en">Episode 85</title>
+</episode>
+<episode id="127075" update="2011-01-19">
+<epno type="1">84</epno>
+<length>5</length>
+<title xml:lang="ja">しょーめーしてよ</title>
+<title xml:lang="en">Episode 84</title>
+</episode>
+<episode id="127076" update="2011-01-19">
+<epno type="1">83</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスターって喋るの!?</title>
+<title xml:lang="en">Episode 83</title>
+</episode>
+<episode id="127077" update="2011-01-19">
+<epno type="1">82</epno>
+<length>5</length>
+<title xml:lang="ja">喧嘩の相手は誰?</title>
+<title xml:lang="en">Episode 82</title>
+</episode>
+<episode id="127078" update="2011-01-19">
+<epno type="1">81</epno>
+<length>5</length>
+<title xml:lang="ja">心から心に伝える</title>
+<title xml:lang="en">Episode 81</title>
+</episode>
+<episode id="127079" update="2011-01-19">
+<epno type="1">80</epno>
+<length>5</length>
+<title xml:lang="ja">大自然を夢見て</title>
+<title xml:lang="en">Episode 80</title>
+</episode>
+<episode id="127080" update="2011-01-19">
+<epno type="1">79</epno>
+<length>5</length>
+<title xml:lang="ja">我慢するしげっち</title>
+<title xml:lang="en">Episode 79</title>
+</episode>
+<episode id="127081" update="2011-01-19">
+<epno type="1">78</epno>
+<length>5</length>
+<title xml:lang="ja">グルメなしげっち</title>
+<title xml:lang="en">Episode 78</title>
+</episode>
+<episode id="127082" update="2011-01-19">
+<epno type="1">77</epno>
+<length>5</length>
+<title xml:lang="ja">贅沢なしげっち</title>
+<title xml:lang="en">Episode 77</title>
+</episode>
+<episode id="127083" update="2011-01-19">
+<epno type="1">76</epno>
+<length>5</length>
+<title xml:lang="ja">しげっちは高級志向</title>
+<title xml:lang="en">Episode 76</title>
+</episode>
+<episode id="127084" update="2011-01-19">
+<epno type="1">75</epno>
+<length>5</length>
+<title xml:lang="ja">新しい友達!</title>
+<title xml:lang="en">Episode 75</title>
+</episode>
+<episode id="127085" update="2011-01-19">
+<epno type="1">74</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスターを賢く育てる方法</title>
+<title xml:lang="en">Episode 74</title>
+</episode>
+<episode id="127086" update="2011-01-19">
+<epno type="1">73</epno>
+<length>5</length>
+<title xml:lang="ja">優子ちゃんのヤキモチ</title>
+<title xml:lang="en">Episode 73</title>
+</episode>
+<episode id="127087" update="2011-01-19">
+<epno type="1">72</epno>
+<length>5</length>
+<title xml:lang="ja">ひかるのバナナ・キャンディちゃん</title>
+<title xml:lang="en">Episode 72</title>
+</episode>
+<episode id="127088" update="2011-01-19">
+<epno type="1">71</epno>
+<length>5</length>
+<title xml:lang="ja">プレゼント!?</title>
+<title xml:lang="en">Episode 71</title>
+</episode>
+<episode id="127089" update="2011-01-19">
+<epno type="1">70</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスターが, 友達!</title>
+<title xml:lang="en">Episode 70</title>
+</episode>
+<episode id="127090" update="2011-01-19">
+<epno type="1">69</epno>
+<length>5</length>
+<title xml:lang="ja">しげっちの頬袋</title>
+<title xml:lang="en">Episode 69</title>
+</episode>
+<episode id="127091" update="2011-01-19">
+<epno type="1">68</epno>
+<length>5</length>
+<title xml:lang="ja">もっと仲良くなろうね!</title>
+<title xml:lang="en">Episode 68</title>
+</episode>
+<episode id="127092" update="2011-01-19">
+<epno type="1">67</epno>
+<length>5</length>
+<title xml:lang="ja">仲良くなろうね!</title>
+<title xml:lang="en">Episode 67</title>
+</episode>
+<episode id="127093" update="2011-01-19">
+<epno type="1">66</epno>
+<length>5</length>
+<title xml:lang="ja">教えて! 教えて!</title>
+<title xml:lang="en">Episode 66</title>
+</episode>
+<episode id="127094" update="2011-01-19">
+<epno type="1">65</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスター牧場</title>
+<title xml:lang="en">Episode 65</title>
+</episode>
+<episode id="127095" update="2011-01-19">
+<epno type="1">64</epno>
+<length>5</length>
+<title xml:lang="ja">お散歩は楽しい?</title>
+<title xml:lang="en">Episode 64</title>
+</episode>
+<episode id="127096" update="2011-01-19">
+<epno type="1">63</epno>
+<length>5</length>
+<title xml:lang="ja">トンネル遊び</title>
+<title xml:lang="en">Episode 63</title>
+</episode>
+<episode id="127097" update="2011-01-19">
+<epno type="1">62</epno>
+<length>5</length>
+<title xml:lang="ja">冬の遊び方</title>
+<title xml:lang="en">Episode 62</title>
+</episode>
+<episode id="127098" update="2011-01-19">
+<epno type="1">61</epno>
+<length>5</length>
+<title xml:lang="ja">雪やコンコン...</title>
+<title xml:lang="en">Episode 61</title>
+</episode>
+<episode id="127099" update="2011-01-19">
+<epno type="1">60</epno>
+<length>5</length>
+<title xml:lang="ja">プーちゃんによる意外な決着</title>
+<title xml:lang="en">Episode 60</title>
+</episode>
+<episode id="127100" update="2011-01-19">
+<epno type="1">59</epno>
+<length>5</length>
+<title xml:lang="ja">ジルベールの気品としげっちの挨拶</title>
+<title xml:lang="en">Episode 59</title>
+</episode>
+<episode id="127101" update="2011-01-19">
+<epno type="1">58</epno>
+<length>5</length>
+<title xml:lang="ja">究極!ハムスター道</title>
+<title xml:lang="en">Episode 58</title>
+</episode>
+<episode id="127102" update="2011-01-19">
+<epno type="1">57</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスター勝負!?</title>
+<title xml:lang="en">Episode 57</title>
+</episode>
+<episode id="127103" update="2011-01-19">
+<epno type="1">56</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスターと飼い主の事情</title>
+<title xml:lang="en">Episode 56</title>
+</episode>
+<episode id="127104" update="2011-01-19">
+<epno type="1">55</epno>
+<length>5</length>
+<title xml:lang="ja">愛情と値段の関係</title>
+<title xml:lang="en">Episode 55</title>
+</episode>
+<episode id="127105" update="2011-01-19">
+<epno type="1">54</epno>
+<length>5</length>
+<title xml:lang="ja">超高級志向! ジルベール!</title>
+<title xml:lang="en">Episode 54</title>
+</episode>
+<episode id="127106" update="2011-01-19">
+<epno type="1">53</epno>
+<length>5</length>
+<title xml:lang="ja">愛情と温度の関係</title>
+<title xml:lang="en">Episode 53</title>
+</episode>
+<episode id="127107" update="2011-01-19">
+<epno type="1">52</epno>
+<length>5</length>
+<title xml:lang="ja">巣ごもりの季節!?</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="127108" update="2011-01-19">
+<epno type="1">51</epno>
+<length>5</length>
+<title xml:lang="ja">冬の日に</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="127109" update="2011-01-19">
+<epno type="1">50</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくんの声が聞こえる</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="127110" update="2011-01-19">
+<epno type="1">49</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくんのお薬</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="127111" update="2011-01-19">
+<epno type="1">48</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくんの診察</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="127112" update="2011-01-19">
+<epno type="1">47</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくん, 病院に行く</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="127113" update="2011-01-19">
+<epno type="1">46</epno>
+<length>5</length>
+<title xml:lang="ja">えんどーくんが大変だ!</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="127114" update="2011-01-19">
+<epno type="1">45</epno>
+<length>5</length>
+<title xml:lang="ja">しげっちの夢</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="127115" update="2011-01-19">
+<epno type="1">44</epno>
+<length>5</length>
+<title xml:lang="ja">ごちそう発見</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="127116" update="2011-01-19">
+<epno type="1">43</epno>
+<length>5</length>
+<title xml:lang="ja">しげっち絶体絶命</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="127117" update="2011-01-19">
+<epno type="1">42</epno>
+<length>5</length>
+<title xml:lang="ja">世界は広いな大きいな</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="127118" update="2011-01-19">
+<epno type="1">41</epno>
+<length>5</length>
+<title xml:lang="ja">しげっちの大冒険</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="127119" update="2011-01-19">
+<epno type="1">40</epno>
+<length>5</length>
+<title xml:lang="ja">雨のち晴れ!</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="127120" update="2011-01-19">
+<epno type="1">39</epno>
+<length>5</length>
+<title xml:lang="ja">御対面!!</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="127121" update="2011-01-19">
+<epno type="1">38</epno>
+<length>5</length>
+<title xml:lang="ja">珠男くんとえんどーくん</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="127122" update="2011-01-19">
+<epno type="1">37</epno>
+<length>5</length>
+<title xml:lang="ja">優子ちゃんの決意</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="127123" update="2011-01-19">
+<epno type="1">36</epno>
+<length>5</length>
+<title xml:lang="ja">ハムスターを飼いたい</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="127124" update="2011-01-19">
+<epno type="1">35</epno>
+<length>5</length>
+<airdate>2000-11-17</airdate>
+<title xml:lang="ja">幸せなプーちゃん</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="127125" update="2011-01-19">
+<epno type="1">34</epno>
+<length>5</length>
+<airdate>2000-11-16</airdate>
+<title xml:lang="ja">プーちゃんとママ</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="127126" update="2011-01-19">
+<epno type="1">33</epno>
+<length>5</length>
+<airdate>2000-11-15</airdate>
+<title xml:lang="ja">三匹目の名前</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="127127" update="2011-01-19">
+<epno type="1">32</epno>
+<length>5</length>
+<airdate>2000-11-14</airdate>
+<title xml:lang="ja">新しいハムスター</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="127128" update="2011-01-19">
+<epno type="1">31</epno>
+<length>5</length>
+<airdate>2000-11-13</airdate>
+<title xml:lang="ja">三匹目のハムスター</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="127129" update="2011-01-19">
+<epno type="1">30</epno>
+<length>5</length>
+<airdate>2000-11-10</airdate>
+<title xml:lang="ja">手と手つないで</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="127130" update="2011-01-19">
+<epno type="1">29</epno>
+<length>5</length>
+<airdate>2000-11-09</airdate>
+<title xml:lang="ja">芸よりエサのハムスター</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="127131" update="2011-01-19">
+<epno type="1">28</epno>
+<length>5</length>
+<airdate>2000-11-08</airdate>
+<title xml:lang="ja">しげっち, 立って歩く!?</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="127132" update="2011-01-19">
+<epno type="1">27</epno>
+<length>5</length>
+<airdate>2000-11-07</airdate>
+<title xml:lang="ja">ハムスターの賢さについて</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="127133" update="2011-01-19">
+<epno type="1">26</epno>
+<length>5</length>
+<airdate>2000-11-06</airdate>
+<title xml:lang="ja">仲良くなろうよ, えんどーくん!</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="127134" update="2011-01-19">
+<epno type="1">25</epno>
+<length>5</length>
+<airdate>2000-11-03</airdate>
+<title xml:lang="ja">小さな一歩, 大きな前進</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="127135" update="2011-01-19">
+<epno type="1">24</epno>
+<length>5</length>
+<airdate>2000-11-02</airdate>
+<title xml:lang="ja">えんどーくん, 大パニック!</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="127136" update="2011-01-19">
+<epno type="1">23</epno>
+<length>5</length>
+<airdate>2000-11-01</airdate>
+<title xml:lang="ja">えんどーくんが慣れてくれない!</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="127137" update="2011-01-19">
+<epno type="1">22</epno>
+<length>5</length>
+<airdate>2000-10-31</airdate>
+<title xml:lang="ja">飼い主の意地と見栄</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="127138" update="2011-01-19">
+<epno type="1">21</epno>
+<length>5</length>
+<airdate>2000-10-30</airdate>
+<title xml:lang="ja">恋するえんどーくん</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="127139" update="2011-01-19">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2000-10-27</airdate>
+<title xml:lang="ja">帰ってきたしげっち</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="127140" update="2011-01-19">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2000-10-26</airdate>
+<title xml:lang="ja">二人と一匹の秘密</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="127141" update="2011-01-19">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2000-10-25</airdate>
+<title xml:lang="ja">しげっちを捕まえろ!</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="127142" update="2011-01-19">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2000-10-24</airdate>
+<title xml:lang="ja">しげっち, 大脱走の巻</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="127143" update="2011-01-19">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2000-10-23</airdate>
+<title xml:lang="ja">イタズラっ子VSハムスター</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="127144" update="2011-01-19">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2000-10-20</airdate>
+<title xml:lang="ja">がんばれ, えんどーくん</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="127145" update="2011-01-19">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2000-10-19</airdate>
+<title xml:lang="ja">しげっちはメスだったの!?</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="127146" update="2011-01-19">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2000-10-18</airdate>
+<title xml:lang="ja">友達になれるかな</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="127147" update="2011-01-19">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2000-10-17</airdate>
+<title xml:lang="ja">本能で生きてます</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="127148" update="2011-01-19">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2000-10-16</airdate>
+<title xml:lang="ja">しげっちの食べる寝る遊ぶ</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="127149" update="2011-01-19">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2000-10-13</airdate>
+<title xml:lang="ja">命名=重千代=しげっち!</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="127150" update="2011-01-19">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2000-10-12</airdate>
+<title xml:lang="ja">もう家族だね, ハムちゃん</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="127151" update="2011-01-19">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2000-10-11</airdate>
+<title xml:lang="ja">手乗りハムスター!?</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="127152" update="2011-01-19">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2000-10-10</airdate>
+<title xml:lang="ja">ハムちゃんは, 夜が大好き</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="127153" update="2011-01-19">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2000-10-09</airdate>
+<title xml:lang="ja">ようこそ, 我が家へ!</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="127154" update="2011-01-19">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2000-10-06</airdate>
+<title xml:lang="ja">☆Lucky Star☆</title>
+<title xml:lang="en">Lucky Star</title>
+<title xml:lang="x-jat">Lucky Star</title>
+</episode>
+<episode id="127155" update="2011-01-19">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2000-10-05</airdate>
+<title xml:lang="ja">大満足</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="127156" update="2011-01-19">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2000-10-04</airdate>
+<title xml:lang="ja">おいしい1日</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="127157" update="2011-01-19">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2000-10-03</airdate>
+<title xml:lang="ja">走れ! ハムスター</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hashire! Hamster</title>
+</episode>
+<episode id="127158" update="2011-01-19">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2000-10-02</airdate>
+<title xml:lang="ja">DREAM SKY</title>
+<title xml:lang="en">Dream Sky</title>
+<title xml:lang="x-jat">Dream Sky</title>
+</episode>
+</episodes>
+</anime>

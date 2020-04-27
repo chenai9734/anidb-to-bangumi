@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14430" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-01-25</startdate>
+<enddate>2019-01-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ashita Sekai ga Owaru to Shite mo</title>
+<title xml:lang="ja" type="official">あした世界が終わるとしても</title>
+<title xml:lang="ru" type="official">Связанные миры</title>
+</titles>
+<relatedanime>
+<anime id="13040" type="Other">Soutai Sekai</anime>
+</relatedanime>
+<url>http://ashitasekaiga.jp/</url>
+<creators>
+<name id="46540" type="Original Work">Craftar</name>
+<name id="30484" type="Direction">Sakuragi Yuuhei</name>
+<name id="56373" type="Work">Craftar Studios</name>
+</creators>
+<ratings>
+<permanent count="20">3.81</permanent>
+<temporary count="21">6.04</temporary>
+</ratings>
+<picture>224910.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21491</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38464</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://ashitasekaiga.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>あした世界が終わるとしても</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365718</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21751</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>ashitasekaiga</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="88717" type="secondary cast in" update="2017-04-07">
+<rating votes="2">6.58</rating>
+<name>Kotoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200794.jpg</picture>
+<seiyuu id="38108" picture="172027.jpg">Senbongi Sayaka</seiyuu>
+</character>
+<character id="88718" type="secondary cast in" update="2017-04-07">
+<rating votes="2">6.58</rating>
+<name>Jin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200793.jpg</picture>
+<seiyuu id="33069" picture="225127.jpg">Nakajima Yoshiki</seiyuu>
+</character>
+<character id="88719" type="secondary cast in" update="2017-04-07">
+<rating votes="2">6.58</rating>
+<name>Niko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200796.jpg</picture>
+<seiyuu id="21013" picture="201781.jpg">Minase Inori</seiyuu>
+</character>
+<character id="88720" type="secondary cast in" update="2017-04-07">
+<rating votes="4">4.50</rating>
+<name>Miko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200797.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="88721" type="main character in" update="2017-04-07">
+<rating votes="2">6.58</rating>
+<name>Izumi Kotori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200795.jpg</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+<character id="88722" type="main character in" update="2017-04-07">
+<name>Hazama Shin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200792.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="208921" update="2019-01-22">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>2019-01-25</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

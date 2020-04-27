@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12948" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-07-22</startdate>
+<enddate>2017-07-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">3-nen D-Gumi Glass no Kamen: Tobidase Watashitachi no Victory Road</title>
+<title xml:lang="ja" type="official">3ねんDぐみ ガラスの仮面 とびだせ私たちのVR[ヴィクトリーロード]</title>
+</titles>
+<relatedanime>
+<anime id="12366" type="Other">3-nen D-Gumi Glass no Kamen</anime>
+</relatedanime>
+<url>http://www.garasunokamen3d.com/</url>
+<description>Note: this was a VR film presented on stage, with the characters projected onto it with holographic technology. The same technology has been employed to allow for Hatsune Miku live concerts.</description>
+<ratings>
+<permanent count="1">2.64</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>190683.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35070</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.garasunokamen3d.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360018</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="85310" type="main character in" update="2017-07-10">
+<name>Kitajima Maya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65199.png</picture>
+<seiyuu id="479" picture="222800.jpg">Asumi Kana</seiyuu>
+</character>
+<character id="85311" type="main character in" update="2017-07-10">
+<name>Himekawa Ayumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65198.png</picture>
+<seiyuu id="10973" picture="78574.jpg">Ookubo Rumi</seiyuu>
+</character>
+<character id="85312" type="main character in" update="2017-07-10">
+<name>Sakurakouji Yuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65201.png</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="85313" type="main character in" update="2017-07-10">
+<name>Hayami Masumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65202.png</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="85314" type="main character in" update="2017-07-10">
+<name>Tsukikage Chigusa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65200.png</picture>
+<seiyuu id="222" picture="19786.jpg">Tanaka Atsuko</seiyuu>
+</character>
+<character id="90369" type="main character in" update="2017-07-10">
+<name>Hijiri Karato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65203.png</picture>
+<seiyuu id="353" picture="17192.jpg">Midorikawa Hikaru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="198616" update="2018-04-29">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">PV</title>
+</episode>
+</episodes>
+</anime>

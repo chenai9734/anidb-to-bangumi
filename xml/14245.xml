@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14245" restricted="false">
+<type>TV Series</type>
+<episodecount>24</episodecount>
+<startdate>2019-04-06</startdate>
+<enddate>2019-09-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mix: Meisei Story</title>
+<title xml:lang="ja" type="synonym">ミックス</title>
+<title xml:lang="x-jat" type="synonym">Meisei Touch</title>
+<title xml:lang="ja" type="official">MIX MEISEI STORY</title>
+<title xml:lang="en" type="official">Mix: Meisei Story</title>
+<title xml:lang="zh-Hans" type="official">Mix-明青故事-</title>
+</titles>
+<relatedanime>
+<anime id="3061" type="Prequel">Touch: Crossroad - Kaze no Yukue</anime>
+</relatedanime>
+<similaranime>
+<anime id="3147" approval="3" total="3">Nine</anime>
+</similaranime>
+<recommendations total="1">
+<recommendation type="For Fans" uid="209879">A nice and laid-back sports series about baseball that is similar to many other works of the manga`s author Adachi Mitsuru. It`s strength lies in the subtle and witty humor and the likeable characters.
+
+But while I`m a fan of the author, I find the adaption not as good as it could have been. The production is lackluster and animation oftentimes limited. The even bigger problem lies in a direction that is unable to manage the transition from manga to anime. Being unable to find its own style, the series just seems to copy the manga - and with it the annoying habits of Adachi as the self-insertion of the mangaka or the leering fanservice that you can skip quickly when reading. And many qualities of the manga as the subtle humor somehow got lost or are not as good as in the source.
+
+This leads to an anime that failed to surpass the manga. The creators should have studied Cross Game were it was the exact opposite. But it nevertheless is an entertaining series for fans of the author.</recommendation>
+</recommendations>
+<url>https://www.ytv.co.jp/mix/</url>
+<creators>
+<name id="9388" type="Chief Animation Direction">Karasu Hiroaki</name>
+<name id="727" type="Animation Work">OLM</name>
+<name id="11891" type="Character Design">Maki Takao</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="2841" type="Work">Shogakukan-Shueisha Productions</name>
+<name id="15540" type="Music">Sumitomo Norihito</name>
+<name id="829" type="Work">Yomiuri TV</name>
+<name id="859" type="Original Work">Adachi Mitsuru</name>
+<name id="16568" type="Direction">Watanabe Toshinori</name>
+<name id="8259" type="Chief Animation Direction">Takada Haruhito</name>
+<name id="11891" type="Chief Animation Direction">Maki Takao</name>
+</creators>
+<description>* Based on a baseball shounen manga series written and drawn by http://anidb.net/cr859 [Adachi Mitsuru].
+Thirty years after http://anidb.net/ch7750 [Uesugi Tatsuya] and http://anidb.net/ch7751 [Kazuya] brought Meisei High School to their only appearance and championship at the National High School Baseball Championship, a pair of highly talented stepbrothers, Tachibana Touma and Souichirou, bring the possibility of a return to the Koshien, as they learn of the Meisei High sports heritage of their fathers.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="251">7.80</permanent>
+<temporary count="252">7.88</temporary>
+</ratings>
+<picture>230061.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21648</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38098</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.ytv.co.jp/mix/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mix_(manga)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>MIX_(漫画)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5287</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365113</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21884</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>mix_ytvanime</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07RPLJZTF</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="28" parentid="2881" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-16">
+<name>baseball</name>
+<description>Baseball is like a complicated version of Rounders. It involves hitting a ball with a stick, then running around several bases placed in the form of a diamond on a field. Big in the US, and also in Japan.</description>
+<picurl>29801.jpg</picurl>
+</tag>
+<tag id="658" parentid="2881" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-20">
+<name>gymnastics</name>
+<description>A competitive sport in which this character performs optional and prescribed acrobatic feats mostly on special apparatus in order to demonstrate strength, balance, and body control.</description>
+</tag>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="1018" parentid="2869" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-25">
+<name>middle school</name>
+</tag>
+<tag id="2043" parentid="2869" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>high school</name>
+<description>A secondary school that usually contains grades 10 through 12 in Japan, or 9 through 12 in America.</description>
+<picurl>210064.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2881" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="2978" parentid="5604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-06-28">
+<name>aim for the top</name>
+<description>This can be a positive or negative plot device. A character may strive to become the best in an altruistic way (e.g. best healer, most widely learned master), or it can be quite banal and primitive (e.g. challenged delinquents wanting to be the strongest fighters).
+Alas in fighting anime the latter usually prevails.</description>
+</tag>
+<tag id="3202" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-04">
+<name>adoring fan club</name>
+<description>A character, group or characters, or an organisation is considered so awesome that a adoring fan club is formed to idolise them. Not only do they have notable admirers, but their fans become organised in such a fashion to have a following that could only be guaranteed in real life by precise and long increments of paparazzi-like stalking.
+If the character is sufficiently cool, an instant fan club may happen practically overnight (i.e., within a few episodes of them being introduced), although the subject of admiration typically has mixed feelings about the entire affair.</description>
+<picurl>48684.jpg</picurl>
+</tag>
+<tag id="3606" parentid="6249" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-11">
+<name>family without father</name>
+<description>For some reason the protagonists father is no longer among the living. The much too early death was due to sickness or accident.
+This plot device adds a certain degree of tragedy to the anime and usually has repercussions on the rest of the family: Possibly the grieve-stricken mother and children barely function as humans. Or adding emphasis to the overall financial predicament of the family, should the father have been the money earner.</description>
+</tag>
+<tag id="3683" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>storytelling</name>
+</tag>
+<tag id="3759" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-04-11">
+<name>teamwork</name>
+<description>A cooperative effort by the members of a group or team to achieve a common goal.</description>
+</tag>
+<tag id="3831" parentid="2607" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-13">
+<name>training</name>
+<description>Training is extensive, serious practising a person undergoes in order to develop skills and abilities, such as handling weapons, playing instruments, playing sports, and so on.</description>
+</tag>
+<tag id="3863" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-07-05">
+<name>competition</name>
+<description>Some sort of confrontation occurs in this show. The protagonists "duke it out" via various competitions.</description>
+</tag>
+<tag id="4198" parentid="5604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-14">
+<name>hard work and guts</name>
+<description>One of the character`s motto in the anime. Because there is nothing that cannot be achieved by hard work and guts.</description>
+</tag>
+<tag id="4614" parentid="3683" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>narration</name>
+<description>The most common example is that of a voice, either that of one of the characters or entirely unrelated, that appears at the beginning of an episode to offer a summary or introduction, and at the end of an episode for closure or for a preview to hint upon what to expect next.
+Another use of narration comes in the form of a dominant voice belonging to one of the protagonists, intended only for the viewer and revealing the intimate thoughts to whom it belongs. This type of narration occurs frequently throughout the duration of the episode or movie.</description>
+</tag>
+<tag id="5355" parentid="3863" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-13">
+<name>tournament</name>
+<description>A competition involving a large number of participants. Such competitions may range from friendly, moderated sporting events to anything-goes, all-out fights to the death.
+All participants take part in the tournament in want or need of the final goal and possible prizes; which depending on genre, may range from a boastful record at school to great riches and/or the granting of a wish. 
+Depending on the type of tournament, contestants will either act alone, be permitted a team, or construct a team of chance throughout the ongoing competition.</description>
+<picurl>227699.jpg</picurl>
+</tag>
+<tag id="5604" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-04">
+<name>following one`s dream</name>
+<description>No matter what the hardships may be, at least one of the protagonists in this anime is following her/his dream.
+Examples: To become a professional athlete, a musician, a painter or the ruler of this world!</description>
+</tag>
+<tag id="5768" parentid="6249" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-02-01">
+<name>intact family</name>
+<description>The main character`s family is a so-called "nuclear family". Wherein both parents are alive and present in his or her life. This is actually relatively rare for anime, where "parental abandonment" is the norm.</description>
+</tag>
+<tag id="5790" parentid="6249" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-30">
+<name>family without mother</name>
+<description>For some reason, the protagonist`s mother is no longer among the living. The much-too-early death was due to sickness or accident.
+This plot device adds a certain degree of tragedy to the anime, and usually has repercussions on the rest of the family. For example: the grief-stricken father and children barely function as humans; the oldest daughter has an extra burden of raising the other children, additional emphasis is given to the only female child in the family, i.e. with bishounen brother and dad in a shoujo setting.
+In rare cases the mother may still be alive, just not living with the rest of the family presently, i.e. on some quest or job and gone for a long time.</description>
+</tag>
+<tag id="6249" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-31">
+<name>family life</name>
+</tag>
+</tags>
+<characters>
+<character id="100770" type="secondary cast in" update="2019-06-16">
+<name>Ooyama Haruka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67585.png</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="100771" type="main character in" update="2019-04-12">
+<name>Tachibana Touma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230090.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="100772" type="main character in" update="2019-04-12">
+<rating votes="1">9.09</rating>
+<name>Tachibana Souichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230091.jpg</picture>
+<seiyuu id="38579" picture="225249.jpg">Uchida Yuuma</seiyuu>
+</character>
+<character id="100773" type="main character in" update="2019-04-12">
+<rating votes="5">9.11</rating>
+<name>Tachibana Otomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230092.jpg</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+<character id="101874" type="secondary cast in" update="2019-06-16">
+<name>Punch</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67581.png</picture>
+<seiyuu id="268" picture="17093.jpg">Hidaka Noriko</seiyuu>
+</character>
+<character id="101875" type="secondary cast in" update="2019-06-14">
+<name>Tachibana Mayumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>234802.jpg</picture>
+<seiyuu id="240" picture="17059.jpg">Inoue Kikuko</seiyuu>
+</character>
+<character id="101876" type="secondary cast in" update="2019-06-14">
+<name>Tachibana Eisuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>234803.jpg</picture>
+<seiyuu id="335" picture="64826.jpg">Takagi Wataru</seiyuu>
+</character>
+<character id="101877" type="secondary cast in" update="2019-06-16">
+<name>Nishimura Isami</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67583.png</picture>
+<seiyuu id="3149" picture="132209.jpg">Nakao Ryuusei</seiyuu>
+</character>
+<character id="102144" type="secondary cast in" update="2019-06-17">
+<name>Nikaidou Daisuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67588.png</picture>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+<character id="102145" type="secondary cast in" update="2019-06-16">
+<name>Natsuno Ichiban</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67582.png</picture>
+<seiyuu id="41754" picture="181639.jpg">Kobayashi Daiki</seiyuu>
+</character>
+<character id="102147" type="secondary cast in" update="2019-06-17">
+<name>Imagawa Tadashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67586.png</picture>
+<seiyuu id="1683" picture="223030.jpg">Kanemitsu Nobuaki</seiyuu>
+</character>
+<character id="103141" type="secondary cast in" update="2019-06-16">
+<name>Mita Arisa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>234870.jpg</picture>
+<seiyuu id="101" picture="16709.jpg">Ise Mariya</seiyuu>
+</character>
+<character id="103142" type="secondary cast in" update="2019-06-16">
+<name>Mita Hiroki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67580.png</picture>
+<seiyuu id="2672" picture="188511.jpg">Endou Daichi</seiyuu>
+</character>
+<character id="103143" type="secondary cast in" update="2019-06-20">
+<name>Akai Ryou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>235150.jpg</picture>
+<seiyuu id="32912" picture="183255.jpg">Nishiyama Koutarou</seiyuu>
+</character>
+<character id="103577" type="secondary cast in" update="2019-06-16">
+<name>Ooyama Gorou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>sports coach</description>
+<picture>67584.png</picture>
+<seiyuu id="2231" picture="235895.jpg">Kusunoki Taiten</seiyuu>
+</character>
+<character id="103591" type="secondary cast in" update="2019-06-16">
+<name>Nikaidou Kouzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67587.png</picture>
+<seiyuu id="637" picture="151727.jpg">Matsumoto Dai</seiyuu>
+</character>
+<character id="103595" type="secondary cast in" update="2019-06-16">
+<name>Nishimura Takumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>234900.jpg</picture>
+<seiyuu id="2072" picture="223678.jpg">Nara Tooru</seiyuu>
+</character>
+<character id="103716" type="secondary cast in" update="2019-06-19">
+<name>Nangou Shirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67609.png</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="104383" type="secondary cast in" update="2019-07-11">
+<name>Akai Tomohito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67716.png</picture>
+<seiyuu id="644" picture="205640.jpg">Suzuki Tatsuhisa</seiyuu>
+</character>
+<character id="104384" type="appears in" update="2019-07-11">
+<name>Sawai Keiichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67717.png</picture>
+</character>
+<character id="105293" type="secondary cast in" update="2019-09-07">
+<name>Tsukikage Nagisa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67889.png</picture>
+<seiyuu id="295" picture="25758.jpg">Shinohara Emi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="214021" update="2019-04-19">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-04-06</airdate>
+<rating votes="3">6.85</rating>
+<title xml:lang="ja">明青のエース</title>
+<title xml:lang="en">Meisei`s Ace</title>
+<title xml:lang="x-jat">Meisei no Ace</title>
+<summary>30 years ago, Meisei High School`s baseball team won the much sought after Koshien Tournament, but haven’t come close since. As the new school year at Meisei Junior High School begins, brothers Touma and Souichirou Tachibana start practicing in secret.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783395</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214022" update="2019-04-19">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2019-04-13</airdate>
+<rating votes="2">5.52</rating>
+<title xml:lang="ja">おれが兄貴でおまえが弟</title>
+<title xml:lang="en">I`m Big Brother and You`re Little Brother</title>
+<title xml:lang="x-jat">Ore ga Aniki de Omae ga Otouto</title>
+<summary>Otomi adopts a dog and names him Punch, as the Meisei baseball team debates who should be the club`s ace pitcher.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783396</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214023" update="2019-04-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2019-04-20</airdate>
+<rating votes="2">6.65</rating>
+<title xml:lang="ja">明青学園なんて</title>
+<title xml:lang="en">The Heck with Meisei High School</title>
+<title xml:lang="x-jat">Meisei Gakuen Nante</title>
+<summary>The Meisei Junior High team progresses through the prelims of the national juniors as Souichirou and Touma begin their battery relationship.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783384</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214024" update="2019-04-27">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2019-04-27</airdate>
+<rating votes="1">7.88</rating>
+<title xml:lang="ja">交換[トレード]してえなァ</title>
+<title xml:lang="en">I Want a Trade</title>
+<title xml:lang="x-jat">Trade Shitee na</title>
+<summary>To everyone’s surprise, Daisuke pitches a whole winning game despite only having practiced with the team for an hour. The Meisei team goes to the Tokyo Tournament, but Daisuke doesn’t show up until the game is well under way.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783385</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214850" update="2019-04-08">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2019-04-06</airdate>
+<rating votes="2">5.20</rating>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="214851" update="2019-09-29">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2019-04-06</airdate>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="215739" update="2019-05-05">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2019-05-04</airdate>
+<title xml:lang="ja">ピッチャーだろ?</title>
+<title xml:lang="en">You`re a Pitcher, Right?</title>
+<title xml:lang="x-jat">Pitcher Daro?</title>
+<summary>Meisei loses their match to Seinan after Nikaidou has a bad inning. Nishimura, Seinan’s pitcher, tries to convince the Tachibana brothers to transfer to his team.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783386</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="215740" update="2019-05-11">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2019-05-11</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="ja">春がくれば</title>
+<title xml:lang="en">When Spring Arrives</title>
+<title xml:lang="x-jat">Haru ga Kureba</title>
+<summary>The mystery of Daisuke`s odd practice attendance pattern is revealed. The new season brings changes to the Meisei baseball team, including a new Manager!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783387</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="215741" update="2019-05-18">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2019-05-18</airdate>
+<rating votes="1">7.88</rating>
+<title xml:lang="ja">心配?</title>
+<title xml:lang="en">Worried?</title>
+<title xml:lang="x-jat">Shinpai?</title>
+<summary>Spring brings a new baseball season. The brothers are in high school now, playing under their new manager Ooyama. Ooyama is reluctant to let Touma pitch with the upperclassmen, but he quickly changes his tune after watching Touma pitch.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783388</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="215742" update="2019-05-26">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2019-05-25</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="ja">うちのお兄ちゃん</title>
+<title xml:lang="en">My Brother</title>
+<title xml:lang="x-jat">Uchi no Onii-chan</title>
+<summary>A big storm blows in sending everyone running for cover, and Nan reminisces about his near-death experience. Souichirou meets Hiroki Mita, a star player from another school and Arisa`s big brother.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783389</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217158" update="2019-06-01">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2019-06-01</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="ja">大ニュースでしょ</title>
+<title xml:lang="en">Big News, Right?</title>
+<title xml:lang="x-jat">Dai News Desho</title>
+<summary>Meisei and Toushu play a tense practice game. Arisa acts like a jerk, and both Touma and Souichirou show their skill as players.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783390</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217159" update="2019-06-08">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2019-06-08</airdate>
+<rating votes="1">3.57</rating>
+<title xml:lang="ja">ただの散歩</title>
+<title xml:lang="en">Just a Walk</title>
+<title xml:lang="x-jat">Tada no Sanpo</title>
+<summary>All the boys love Otomi. Touma gets a letter from Haruka, inviting him on “a walk.” They travel for hours to solve a riddle, then get stuck in the middle of nowhere. While everyone else waits at the Tachibana residence, Ooyama reveals that Haruka and Touma met when they were three, and she threw soda in his face.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783391</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217160" update="2019-06-15">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2019-06-15</airdate>
+<rating votes="1">2.11</rating>
+<title xml:lang="ja">投げてみろ</title>
+<title xml:lang="en">Try Pitching</title>
+<title xml:lang="x-jat">Nagete Miro</title>
+<summary>Punch is feeling under the weather. Ooyama learns where Tou picked up his pitching skills. The history of the Tachibana family and Meisei’s number 1 jersey is revealed.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783392</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217161" update="2019-06-22">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2019-06-22</airdate>
+<title xml:lang="ja">なめてませんか</title>
+<title xml:lang="en">Aren`t You Taking Him Lightly?</title>
+<title xml:lang="x-jat">Nametemasenka</title>
+<summary>For info on the history of the Meisei High School Baseball Club, Ramen Dragon is the place to be. Sou and Otomi’s ties to the team go back farther than they knew.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783393</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="217162" update="2019-06-30">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2019-06-29</airdate>
+<rating votes="1">7.88</rating>
+<title xml:lang="ja">兄弟だから</title>
+<title xml:lang="en">Because We`re Brothers</title>
+<title xml:lang="x-jat">Kyoudai Dakara</title>
+<summary>Meisei prepares for their game against Kenjo, but will Haruka`s observations be enough to help the Tachibana brothers lead their team to victory?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>783394</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218393" update="2019-07-14">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2019-07-13</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="ja">負けてます</title>
+<title xml:lang="en">We`re Losing</title>
+<title xml:lang="x-jat">Maketemasu</title>
+<summary>Touma puts the first run on the board for Meisei, but Kenjo’s star slugger Akai doesn’t intend to let it go unanswered.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787213</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218394" update="2019-07-20">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2019-07-20</airdate>
+<rating votes="1">9.56</rating>
+<title xml:lang="ja">あの顔が見たくて</title>
+<title xml:lang="en">I Wanted to See That Expression</title>
+<title xml:lang="x-jat">Ano Kao ga Mitakute</title>
+<summary>It’s the bottom of the eighth, and Meisei is down by one. Will their dream of reaching Koshien once again be crushed in the first round of the East Tokyo Tournament?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787214</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218395" update="2019-07-27">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2019-07-27</airdate>
+<rating votes="1">3.57</rating>
+<title xml:lang="ja">活気があって</title>
+<title xml:lang="en">Full of Spirit</title>
+<title xml:lang="x-jat">Kakki ga Atte</title>
+<summary>Haruka scouts out Meisei’s next rival: Sankou High School. Meanwhile, Akai comes to an important realization.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787215</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218678" update="2019-09-29">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2019-07-13</airdate>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="218679" update="2019-09-28">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2019-07-13</airdate>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="218895" update="2019-08-04">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2019-08-03</airdate>
+<rating votes="1">3.57</rating>
+<title xml:lang="ja">やっぱりだれかに</title>
+<title xml:lang="en">He Reminds Me of Someone</title>
+<title xml:lang="x-jat">Yappari Dareka ni</title>
+<summary>Personalities collide after the team’s manager sends Souichirou and Haruka to scout out the competition.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787216</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218896" update="2019-08-10">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2019-08-10</airdate>
+<rating votes="1">2.11</rating>
+<title xml:lang="ja">こんな雨の日に</title>
+<title xml:lang="en">On a Rainy Day Like Today</title>
+<title xml:lang="x-jat">Konna Ame no Hi ni</title>
+<summary>Otomi spends the rainy day bowling, while her brothers try to figure out whether or not she`s on a date!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787217</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218897" update="2019-08-17">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2019-08-17</airdate>
+<rating votes="1">3.57</rating>
+<title xml:lang="ja">うらやましいか?</title>
+<title xml:lang="en">Do You Envy Them?</title>
+<title xml:lang="x-jat">Uramayashii ka?</title>
+<summary>With Sou and Tou powering the team through the early rounds of the tournament, Meisei`s story draws fans from far and wide. Ryou learns that his family and Otomi’s are more alike than he knew.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787218</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218898" update="2019-09-09">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2019-08-24</airdate>
+<rating votes="1">7.88</rating>
+<title xml:lang="ja">神頼みなんですね</title>
+<title xml:lang="en">You`re Praying for Help</title>
+<title xml:lang="x-jat">Kamidanomi Nan Desu ne</title>
+<summary>Nobody expected Meisei to reach the quarterfinals – not even their manager. With Touma resting his arm out in left field, can the bullpen carry the team against the hard-hitting offense of Kaiou Nishi?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787219</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219425" update="2019-09-09">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2019-08-31</airdate>
+<rating votes="1">3.57</rating>
+<title xml:lang="ja">もしも...</title>
+<title xml:lang="en">If...</title>
+<title xml:lang="x-jat">Moshimo...</title>
+<summary>Meisei`s path to Koshien is in peril as they face off against Kaiou Nishi. Do they have the skill--and the luck--to survive to the semifinals?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787220</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219426" update="2019-09-09">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2019-09-07</airdate>
+<title xml:lang="ja">妹思いなんですよ</title>
+<title xml:lang="en">He Loves His Sister</title>
+<title xml:lang="x-jat">Imouto Omoi Nan Desu yo</title>
+<summary>Now comes the highly anticipated semifinal match between Meisei and Toushu! The rising rookie battery of Touma and Souichiro faces off once more against the unshakeable prodigy, Hiroki Mita, in a tense pitchers’ duel with the tournament on the line.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787221</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219427" update="2019-09-15">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2019-09-14</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="ja">時間の問題だな</title>
+<title xml:lang="en">It`s a Matter of Time</title>
+<title xml:lang="x-jat">Jikan no Mondai Da na</title>
+<summary>Six innings in, the semifinal match between Meisei and Toushu remains scoreless. Under the burning sun and the pressure of the crowd, which team’s star pitcher will reach his limit first?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787222</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="219428" update="2019-09-28">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2019-09-28</airdate>
+<rating votes="1">3.57</rating>
+<title xml:lang="ja">似てると思わないか?</title>
+<title xml:lang="en">Don`t You Think They`re Alike?</title>
+<title xml:lang="x-jat">Niteru to Omowanaika?</title>
+<summary>Meisei and Toushu’s war of attrition has entered extra innings, neither pitcher allowing a single run. With Toushu playing in unfamiliar category, and Touma seemingly reaching a new level on the mound, will this be the year Meisei returns to Koshien?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787223</identifier>
+<identifier>mix</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

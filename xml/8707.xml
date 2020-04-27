@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8707" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2011-03-29</startdate>
+<enddate>2011-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anemone</title>
+<title xml:lang="ja" type="official">Anemone</title>
+</titles>
+<url>http://www.falcon-one.net/movie/anemone/index.html</url>
+<creators>
+<name id="34182" type="Direction">Yamamoto Jun`ichi</name>
+</creators>
+<description>Anemone is a story about a girl who strays into a world of wonder. She goes deeper into her internal world - her heart - and, in the end, retrieves an important thing that she lost.
+Source: official site</description>
+<ratings>
+<permanent count="190">6.40</permanent>
+<temporary count="192">6.49</temporary>
+</ratings>
+<picture>64809.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10516</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.falcon-one.net/movie/anemone/index.html</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=U7g4kG4qlhI</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="4340" parentid="6242" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-09-26">
+<name>suicide</name>
+<description>One or several characters in this anime commit suicide.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6242" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-24">
+<name>death</name>
+<description>Death is the state of no longer being alive or the process of ceasing to be alive.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="133699" update="2011-10-05">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2011-03-29</airdate>
+<rating votes="1">5.68</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

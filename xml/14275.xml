@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14275" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1968</startdate>
+<enddate>1968</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Umihiko Yamahiko</title>
+<title xml:lang="ja" type="official">海ひこ山ひこ</title>
+</titles>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+<ratings>
+<permanent count="1">1.87</permanent>
+<temporary count="1">6.00</temporary>
+</ratings>
+<picture>222217.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34038</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204239" update="2018-08-13">
+<epno type="1">1</epno>
+<length>18</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

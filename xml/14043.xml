@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14043" restricted="false">
+<type>Movie</type>
+<episodecount>3</episodecount>
+<startdate>2020-07-23</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Kidou Senshi Gundam: Senkou no Hathaway</title>
+<title xml:lang="en" type="synonym">Mobile Suit Gundam: Hathaway`s Flash</title>
+<title xml:lang="ja" type="official">機動戦士ガンダム 閃光のハサウェイ</title>
+</titles>
+<url>http://gundam-hathaway.net/</url>
+<creators>
+<name id="2163" type="Character Design">Onda Naoyuki</name>
+<name id="7918" type="Character Design">Kuhara Shigeki</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="147" type="Original Work">Tomino Yoshiyuki</name>
+<name id="1761" type="Direction">Murase Shuukou</name>
+<name id="6722" type="Music">Sawano Hiroyuki</name>
+</creators>
+<description>* Based upon the 1989 novel of the same name written by http://anidb.net/cr147 [Tomino Yoshiyuki].</description>
+<picture>245157.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22960</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38717</identifier>
+</externalentity>
+<externalentity>
+<identifier>37765</identifier>
+</externalentity>
+<externalentity>
+<identifier>38716</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://gundam-hathaway.net/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>機動戦士ガンダム_閃光のハサウェイ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366789</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>gundam_hathaway</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="3216" parentid="2626" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-25">
+<name>Universal Century</name>
+<description>Refers to the Universal Century timeline in Gundam anime. Gundam anime with this tag all belong in the same universe.</description>
+</tag>
+</tags>
+<characters>
+<character id="108843" type="main character in" update="2020-03-25">
+<name>Gigi Andalucia</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>245303.jpg</picture>
+<seiyuu id="34984" picture="222849.jpg">Ueda Reina</seiyuu>
+</character>
+<character id="108844" type="main character in" update="2020-03-25">
+<name>Kenneth Sleg</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>245304.jpg</picture>
+<seiyuu id="200" picture="17015.jpg">Suwabe Jun`ichi</seiyuu>
+</character>
+<character id="108845" type="main character in" update="2020-03-25">
+<name>Hathaway Noa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>245305.jpg</picture>
+<seiyuu id="4755" picture="183070.jpg">Ono Kenshou</seiyuu>
+</character>
+<character id="108846" type="appears in" update="2020-03-26">
+<name>RX-104FF Penelope</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>245308.jpg</picture>
+</character>
+<character id="108847" type="appears in" update="2020-03-25">
+<name>Messer F01-gata</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>245309.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="219581" update="2020-01-01">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2020-07-23</airdate>
+<title xml:lang="en">Movie 1</title>
+</episode>
+<episode id="219582" update="2019-08-21">
+<epno type="1">2</epno>
+<length>0</length>
+<title xml:lang="en">Movie 2</title>
+</episode>
+<episode id="219583" update="2019-08-21">
+<epno type="1">3</epno>
+<length>0</length>
+<title xml:lang="en">Movie 3</title>
+</episode>
+</episodes>
+</anime>

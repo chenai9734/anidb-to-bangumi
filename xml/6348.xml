@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6348" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1991-08-30</startdate>
+<enddate>1991-08-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Licca-chan Fushigi na Mahou no Ring</title>
+<title xml:lang="en" type="synonym">Licca: the Mysterious Magical Ring</title>
+<title xml:lang="ja" type="official">リカちゃん ふしぎな魔法のリング</title>
+</titles>
+<relatedanime>
+<anime id="5961" type="Sequel">Licca-chan no Nichiyoubi</anime>
+<anime id="4428" type="Prequel">Licca-chan Fushigi na Fushigi na Yunia Monogatari</anime>
+<anime id="1743" type="Alternative Setting">Super Doll Licca-chan</anime>
+</relatedanime>
+<creators>
+<name id="1946" type="Music">Kawai Kenji</name>
+<name id="7887" type="Direction">Ishii Fumiko</name>
+<name id="3008" type="Character Design">Takada Akemi</name>
+<name id="960" type="Animation Work">Ajia-dou</name>
+</creators>
+<description>This is the second part of a series of OVAs used to promote the Licca dolls made by Takara/Tomy. In this part, Licca walks back from her piano lesson to find a mysterious bracelet that suddenly falls out of the sky. In finding the bracelet, she embarks on an adventure with a being named Lunar and his sidekick Arque to save the dawn.
+Source: BakaBT</description>
+<ratings>
+<permanent count="41">4.84</permanent>
+<temporary count="42">5.84</temporary>
+</ratings>
+<picture>238558.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7324</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7294</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3280</identifier>
+<identifier>gxniqa</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88522</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1452</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="74434" type="main character in" update="2015-04-14">
+<name>Lunar</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171853.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="96875" update="2009-02-07">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1991-08-30</airdate>
+<title xml:lang="en">Volume 1</title>
+</episode>
+<episode id="102496" update="2009-05-17">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1991-08-30</airdate>
+<title xml:lang="en">Volume 2</title>
+</episode>
+</episodes>
+</anime>

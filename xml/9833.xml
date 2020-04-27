@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9833" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1987-01-21</startdate>
+<enddate>1987-01-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special</title>
+<title xml:lang="ja" type="official">魔法のプリンセス ミンキーモモ 瞳の星座 ミンキーモモSONGスペシャル</title>
+</titles>
+<relatedanime>
+<anime id="1635" type="Other">Mahou no Princess Minky Momo</anime>
+</relatedanime>
+<ratings>
+<permanent count="16">4.18</permanent>
+<temporary count="16">4.90</temporary>
+</ratings>
+<picture>135190.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23129</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>魔法のプリンセス_ミンキーモモ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>160272</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1066</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="16538" type="main character in" update="2012-04-11">
+<name>Minky Momo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>85766.jpg</picture>
+<seiyuu id="407" picture="17254.jpg">Koyama Mami</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="42788" update="2013-04-19">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1987-01-21</airdate>
+<title xml:lang="en">Minky Momo Song Special</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3159" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2001-04-14</startdate>
+<enddate>2002-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Go! Go! Itsutsugo Land</title>
+<title xml:lang="en" type="synonym">Go! Go! Quintuplets Land</title>
+<title xml:lang="nl" type="synonym">De bende van vijf</title>
+<title xml:lang="ja" type="official">ゴーゴー五つ子ら・ん・ど</title>
+<title xml:lang="en" type="official">Let`s Go Quintuplets</title>
+<title xml:lang="fr" type="official">Les Quintuplets</title>
+<title xml:lang="pt" type="official">Quintento de Gémeos</title>
+<title xml:lang="he" type="official">חמישיה</title>
+</titles>
+<url>http://www.eiken-anime.jp/works/works050.html</url>
+<creators>
+<name id="893" type="Animation Work">Magic Bus</name>
+<name id="1414" type="Music">Iwasaki Taku</name>
+<name id="5105" type="Chief Animation Direction">Kobayashi Yukari</name>
+<name id="5433" type="Character Design">Shibuichi Setsuko</name>
+<name id="5433" type="Chief Direction">Shibuichi Setsuko</name>
+</creators>
+<description>The series is about five quintuplets, Kabuto, Hinoki, Arashi, Kinoko and Kodama Morino, who have all kinds of adventures together. Each has their own talent and personality.</description>
+<ratings>
+<permanent count="25">2.24</permanent>
+<temporary count="27">5.18</temporary>
+</ratings>
+<picture>1060.gif</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2230</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3776</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2278</identifier>
+<identifier>qskids</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://eiken-anime.jp/works/detail?work_id=39</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Go!_Go!_Itsutsugo_Land</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゴーゴー五つ子ら・ん・ど</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>236870</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4627</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="20655" type="main character in" update="2010-08-10">
+<name>Morino Kabuto</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2438" picture="156420.jpg">Takimoto Fujiko</seiyuu>
+</character>
+<character id="20656" type="main character in" update="2010-08-10">
+<name>Morino Hinoki</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4586" picture="21115.jpg">Yuuki Hiro</seiyuu>
+</character>
+<character id="20657" type="main character in" update="2010-08-10">
+<name>Morino Arashi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="9800" picture="36489.jpg">Koujiro Chie</seiyuu>
+</character>
+<character id="20658" type="main character in" update="2010-08-10">
+<name>Morino Kinoko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1870" picture="186893.jpg">Mizutani Yuuko</seiyuu>
+</character>
+<character id="20659" type="main character in" update="2010-08-10">
+<name>Morino Kodama</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2439" picture="166338.jpg">Araki Kae</seiyuu>
+</character>
+<character id="20660" type="secondary cast in" update="2010-08-10">
+<name>Mama</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1509" picture="19311.jpg">Fukami Rika</seiyuu>
+</character>
+<character id="20661" type="secondary cast in" update="2010-10-11">
+<name>Papa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="297" picture="233915.jpg">Ootsuka Houchuu</seiyuu>
+</character>
+<character id="20662" type="secondary cast in" update="2010-10-11">
+<name>Yurika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="634" picture="18161.jpg">Kurata Masayo</seiyuu>
+</character>
+<character id="20663" type="secondary cast in" update="2010-08-10">
+<name>Botan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="553" picture="170553.jpg">Kaneda Tomoko</seiyuu>
+</character>
+<character id="20664" type="secondary cast in" update="2010-10-11">
+<name>Takahiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+<character id="20665" type="secondary cast in" update="2010-08-10">
+<name>Mejiro</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="548" picture="186185.jpg">Sakamoto Chika</seiyuu>
+</character>
+<character id="20666" type="secondary cast in" update="2010-08-10">
+<name>Kurumi-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="433" picture="17312.jpg">Nagata Ryouko</seiyuu>
+</character>
+<character id="20667" type="secondary cast in" update="2012-04-25">
+<name>Kawabata-junsa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="20305" picture="223542.jpg">Okada Takayuki</seiyuu>
+</character>
+<character id="20668" type="secondary cast in" update="2010-08-10">
+<name>Kouchou-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4841" picture="55063.jpg">Iwasaki Hiroshi</seiyuu>
+</character>
+<character id="20669" type="appears in" update="2010-08-10">
+<name>Mikan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="7" picture="186500.jpg">Ootani Ikue</seiyuu>
+</character>
+<character id="20670" type="appears in" update="2010-08-10">
+<name>Natsumikan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="222" picture="19786.jpg">Tanaka Atsuko</seiyuu>
+</character>
+<character id="20671" type="appears in" update="2010-08-10">
+<name>Hassaku</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="604" picture="154161.jpg">Ogata Ken`ichi</seiyuu>
+</character>
+<character id="20672" type="appears in" update="2010-08-10">
+<name>Tachibana</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4475" picture="26748.jpg">Nishikawa Ikuo</seiyuu>
+</character>
+<character id="20673" type="appears in" update="2010-08-10">
+<name>Touryou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="282" picture="223615.jpg">Houki Katsuhisa</seiyuu>
+</character>
+<character id="20674" type="appears in" update="2010-10-11">
+<name>Karin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2034" picture="83417.jpg">Kogure Ema</seiyuu>
+</character>
+<character id="20675" type="appears in" update="2010-08-10">
+<name>Ai-chan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="596" picture="17996.jpg">Yabusaki Emi</seiyuu>
+</character>
+<character id="20676" type="secondary cast in" update="2010-08-10">
+<name>Roku-chan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="34834" update="2011-10-20">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2001-12-15</airdate>
+<title xml:lang="ja">きのことみかんの映画デビュー</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Kinoko to Mikan no Eiga Debut</title>
+</episode>
+<episode id="34835" update="2011-10-20">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2001-10-20</airdate>
+<title xml:lang="ja">カリンちゃん, 初めてのキス! / みかんの華麗なる復讐パーティー</title>
+<title xml:lang="en">Brave Prince Karl / Mona`s Revenge!</title>
+<title xml:lang="x-jat">Karin-chan, Hajimete no Kiss! / Mikan no Karei Naru Fukushuu Party</title>
+</episode>
+<episode id="34836" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2001-04-14</airdate>
+<title xml:lang="ja">入学式は大パニック!? / あらしとロクちゃん</title>
+<title xml:lang="en">The First Day Of School / Six at Home</title>
+<title xml:lang="fr">Premier jour à l`école / Six à la maison</title>
+<title xml:lang="x-jat">Nyuugakushiki wa Dai Panic!? / Arashi to Roku-chan</title>
+</episode>
+<episode id="34837" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2001-04-28</airdate>
+<title xml:lang="ja">きのこのアイドル・コンテスト / ひのきのオバケ退治</title>
+<title xml:lang="en">The Shopping Mall Model / Harold`s Ghost Theory</title>
+<title xml:lang="fr">Mannequin de l`année / Histoire de fantômes</title>
+<title xml:lang="x-jat">Kinoko no Idol Contest / Hinoki no Obake Taiji</title>
+</episode>
+<episode id="34838" update="2011-10-20">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2002-03-16</airdate>
+<title xml:lang="ja">ひのきのラブラブ大作戦! / だぶと・タカ彦の友よさらば!!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Hinoki no Lovelove Daisakusen! / Dabuto: Takako no Tomoyo Saraba!!</title>
+</episode>
+<episode id="34839" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2001-06-02</airdate>
+<title xml:lang="ja">きのこのスクープを狙え! / 恐怖の歯医者さん</title>
+<title xml:lang="en">Krystal Gets The Scoop / Visiting the Dentist Is Scary</title>
+<title xml:lang="fr">Christelle veut devenir reporter / La visite chez le dentiste</title>
+<title xml:lang="x-jat">Kinoki no Scoop o Nerae! / Kyoufu no Haisha-san!?</title>
+</episode>
+<episode id="34840" update="2011-10-20">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2001-12-22</airdate>
+<title xml:lang="ja">きのこに謎のラブレター / 五つ子, サンタになる!?</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Kinoko ni Nazo no Love Letter / Itsutsuko, Santa ni Naru!?</title>
+</episode>
+<episode id="34841" update="2011-10-20">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2001-09-22</airdate>
+<title xml:lang="ja">きのこの家出? / ロクちゃんのワンワン選手権</title>
+<title xml:lang="en">Daddy`s Girl / The World`s Greatest Dog!</title>
+<title xml:lang="fr">Caprice de star / Le meilleur chien de l`année</title>
+<title xml:lang="x-jat">Kinoko no Iede? / Roku-chan no Wanwan Senshuken</title>
+</episode>
+<episode id="34842" update="2011-10-20">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2001-07-07</airdate>
+<title xml:lang="ja">名探偵あらし 姿なき怪盗!? / きのこのスターへの道!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="fr">Le voleur invisible / Le chemin de la gloire</title>
+<title xml:lang="x-jat">Meitantei Arashi Sugata Naki Kaitou!? / Kinoko no Star e no Michi!</title>
+</episode>
+<episode id="34843" update="2011-10-20">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2001-09-01</airdate>
+<title xml:lang="ja">かぶとに恋のライバル!? / あらしの万引き騒動</title>
+<title xml:lang="en">A Girl`s Best Friend / What`re Friends For?!</title>
+<title xml:lang="fr">Mon meilleur ami / Un ami loyal</title>
+<title xml:lang="x-jat">Kabuto ni Koi no Rival!? / Arashi no Manbiki Soudou</title>
+</episode>
+<episode id="34844" update="2011-10-20">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2002-01-12</airdate>
+<title xml:lang="ja">涙の別れ! グッバイきのこ / あらしの成人式!?</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Namida no Wakare! Goodbye Kinoko / Arashi no Seijin Shiki!?</title>
+</episode>
+<episode id="34845" update="2011-10-20">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2002-02-02</airdate>
+<title xml:lang="ja">カリスマ美容師きのこ!? / あらしのイジメなんかやっつけろ!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Charisma Biyoushi Kinoko!? / Arashi no Ijime Nanka Yattsukero!</title>
+</episode>
+<episode id="34846" update="2011-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2001-06-09</airdate>
+<title xml:lang="ja">ひのきのおサカナ占い / ママは童話作家!?</title>
+<title xml:lang="en">Horoscope Hijinks / Write On Mom!</title>
+<title xml:lang="fr">L`horoscope des mers / Quand Maman devient auteur</title>
+<title xml:lang="x-jat">Hinoki no Osakana Uranai / Mama wa Douwa Sakka!?</title>
+</episode>
+<episode id="34847" update="2011-10-20">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2001-09-29</airdate>
+<title xml:lang="ja">かぶとのシュートを決めろ!! / 名探偵あらしvsきのこ</title>
+<title xml:lang="en">Karl`s Got Game! / Super Sleuth Austin and the Shattered Shrine</title>
+<title xml:lang="fr">Charly se la joue / Le mystère du reliquaire brisé</title>
+<title xml:lang="x-jat">Kabuto no Shoot o Kimero!! / Meitantei Arashi vs Kinoko</title>
+</episode>
+<episode id="34848" update="2011-10-20">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2001-11-24</airdate>
+<title xml:lang="ja">森野家ビンボー脱出大作戦! / あの子の素敵なバースデー</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Morino-ke Binbou Dasshutsu Daisakusen! / Ano Ko no Suteki na Birthday</title>
+</episode>
+<episode id="34849" update="2011-10-20">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2001-07-28</airdate>
+<title xml:lang="ja">北海道まるごと大冒険!! / 北海道まるごと大冒険!! つづき</title>
+<title xml:lang="en">Dinosaur Tales / What Dinosaur?</title>
+<title xml:lang="fr">Le dinosaure / Le lac au dinosaure</title>
+<title xml:lang="x-jat">Hokkaidou Marugoto Daibouken!! / Hokkaidou Marugoto Daibouken!! Tsuzuki</title>
+</episode>
+<episode id="34850" update="2011-10-20">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2002-01-05</airdate>
+<title xml:lang="ja">徳川埋蔵金をさがせ! / みかん屋敷のお正月スゴロク大会</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Tokugawa Maizoukin o Sagase! / Mikan Yashiki no Oshougatsu Sugoroku Taikai</title>
+</episode>
+<episode id="34851" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2001-04-21</airdate>
+<title xml:lang="ja">こだまのダイエット大作戦 / かぶとの初恋</title>
+<title xml:lang="en">Things are Shaping up / Karl`s First Love</title>
+<title xml:lang="fr">Gardons la ligne ! / Premier amour</title>
+<title xml:lang="x-jat">Kodama no Diet Daisakusen / Kabuto no Hatsukoi</title>
+</episode>
+<episode id="34852" update="2011-10-20">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2001-09-15</airdate>
+<title xml:lang="ja">ホラふきじいちゃんが来た! / ロクちゃんのデート</title>
+<title xml:lang="en">Grampa Comes To Visit! / Six Goes On A Date!</title>
+<title xml:lang="fr">La visite de Grand-Père / Rendez-vous de toutous</title>
+<title xml:lang="x-jat">Horafuki Jii-chan ga Kita! / Roku-chan no Date</title>
+</episode>
+<episode id="34853" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2001-05-05</airdate>
+<title xml:lang="ja">名探偵あらし 真犯人は誰だ!? / こだまの消えた誕生日</title>
+<title xml:lang="en">Super Sleuth Austin / Karly`s Un-Birthday</title>
+<title xml:lang="fr">Inspecteur de choc / Le désanniversaire</title>
+<title xml:lang="x-jat">Meitantei Arashi Shin Hannin wa Dare Da!? / Kodama no Kieta Tanjoubi</title>
+</episode>
+<episode id="34854" update="2011-10-20">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2001-11-10</airdate>
+<title xml:lang="ja">きのことみかんのシンデレラをねらえ!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Kinoko to Mikan no Cinderella o Nerae!</title>
+</episode>
+<episode id="34855" update="2011-10-20">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2001-10-06</airdate>
+<title xml:lang="ja">ラブラブ愛の交通安全 / みかんはきのこの大親友!</title>
+<title xml:lang="en">Swooning For Safety! / Krystal`s Best Friend?</title>
+<title xml:lang="fr">Leçon de sécurité / L`amie de Christelle</title>
+<title xml:lang="x-jat">Lovelove Ai no Koutsuuanzen / Mikan wa Kinoko no Daishin`yuu!</title>
+</episode>
+<episode id="34856" update="2011-10-20">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2001-08-25</airdate>
+<title xml:lang="ja">きのこの台風なんかぶっ飛ばせ! / ママの夏休み</title>
+<title xml:lang="en">Krystal Storms The Stage / Mom`s Summer Vacation</title>
+<title xml:lang="fr">Christelle brûle les planches / Les vacances de Maman</title>
+<title xml:lang="x-jat">Kinoko no Taifuu Nanka Buttobase! / Mama no Natsuyasumi</title>
+</episode>
+<episode id="34857" update="2011-10-20">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2002-02-09</airdate>
+<title xml:lang="ja">バレンタイン大パニック!!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Valentine Dai Panic!!</title>
+</episode>
+<episode id="34858" update="2011-10-20">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2002-01-26</airdate>
+<title xml:lang="ja">きのこのキスキス大作戦! / ひのきは一家の大黒柱!?</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Kinoko no Kisskiss Daisakusen! / Hinoki wa Ikka no Daikokubashira!?</title>
+</episode>
+<episode id="34859" update="2011-10-20">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2001-10-13</airdate>
+<title xml:lang="ja">きのこのハムスターを探せ! / ひのきの運動会なんて大嫌い</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Kinoko no Hamster o Sagase! / Hinoki no Undoukai Nante Daikirai</title>
+</episode>
+<episode id="34860" update="2011-10-20">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2001-07-14</airdate>
+<title xml:lang="ja">こだまのフードバトル! / 大変だ!! パパとママの大戦争</title>
+<title xml:lang="en">Fast Food Frenzy /</title>
+<title xml:lang="fr">Le plus gros mangeur / Scène de ménage</title>
+<title xml:lang="x-jat">Kodama no Food Battle / Taihen Da!! Papa to Mama no Daisensou</title>
+</episode>
+<episode id="34861" update="2011-10-20">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2001-11-17</airdate>
+<title xml:lang="ja">あらしの家出! / かぶとの100点をねらえ!</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Arashi no Iede! / Kabuto no 100 Ten o Nerae!</title>
+</episode>
+<episode id="34862" update="2011-10-20">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2001-07-21</airdate>
+<title xml:lang="ja">ひのきのぼくの部屋が欲しい! / 五つ子・初めての飛行機</title>
+<title xml:lang="en">A Place of My Own /</title>
+<title xml:lang="fr">Un petit coin tranquille / Cap sur le nord</title>
+<title xml:lang="x-jat">Hinoki no Boku no Heya ga Hoshii! / Itsutsuko Hajimete no Hikouki</title>
+</episode>
+<episode id="34863" update="2011-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2001-06-30</airdate>
+<title xml:lang="ja">かぶとの家出 / こだまの一日お母さん</title>
+<title xml:lang="en">Runaway Quintuplet! / Spoiled Rotten</title>
+<title xml:lang="fr">La fugue / L`enfant gâtée</title>
+<title xml:lang="x-jat">Kabuto no Iede / Kodama no Tsuitachi Okaasan</title>
+</episode>
+<episode id="34864" update="2011-10-20">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2002-03-23</airdate>
+<title xml:lang="ja">みかんが転校! / 愛のラストボール</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Mikan ga Tenkou! / Ai no Last Ball</title>
+</episode>
+<episode id="34865" update="2011-10-20">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2001-11-03</airdate>
+<title xml:lang="ja">アイちゃんの踊るテレビ出演!? / きのこのデートでゲット大作戦!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Ai-chan no Odoru TV Shutsuen!? / Kinoko no Date de Get Daisakusen!</title>
+</episode>
+<episode id="34866" update="2011-10-20">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2002-03-30</airdate>
+<title xml:lang="ja">きのこのお見合いトラブル! / さよならロクちゃん</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Kinoko no Omiai Trouble! / Sayonara Roku-chan</title>
+</episode>
+<episode id="34867" update="2011-10-20">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2002-03-02</airdate>
+<title xml:lang="ja">みかんの家出 / きのこのえなり君とスキャンダル∇</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Mikan no Iede / Kinoko no Enari-kun to Scandal</title>
+</episode>
+<episode id="34868" update="2011-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2001-06-23</airdate>
+<title xml:lang="ja">プール開きでドッキリ! / がんばれ! サンダーズ</title>
+<title xml:lang="en">Swimming Pool Blues / Tiger Trouble!</title>
+<title xml:lang="fr">Jour de piscine / Les tigres se déchainent</title>
+<title xml:lang="x-jat">Pool Biraki de Dokkiri! / Ganbare! Sanders</title>
+</episode>
+<episode id="34869" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2001-05-12</airdate>
+<title xml:lang="ja">かぶとは恋のキューピッド!? / きのこの母の日大作戦</title>
+<title xml:lang="en">Karl Plays Cupid / Make Up for Mother`s Day</title>
+<title xml:lang="fr">Cupidon fait des siennes / La plus belle fête des mamans</title>
+<title xml:lang="x-jat">Kabuto wa Koi no Cupid!? / Kinoko no Haha no Nichidai Sakusen</title>
+</episode>
+<episode id="34870" update="2011-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2001-06-16</airdate>
+<title xml:lang="ja">きのこのラブラブ国際結婚? / パパに秘密のプレゼント</title>
+<title xml:lang="en">A Visitor From Afar / Have A Seat Dad</title>
+<title xml:lang="fr">Une visite surprise / Les apprentis menuisiers</title>
+<title xml:lang="x-jat">Kinoko no Lovelove Kokusai Kekkon? / Papa ni Himitsu no Present</title>
+</episode>
+<episode id="34871" update="2011-10-20">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2001-10-27</airdate>
+<title xml:lang="ja">こだまのケロケロ大冒険 / パパの恋人?</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Kodama no Kerokero Daibouken / Papa no Koibito?</title>
+</episode>
+<episode id="34872" update="2011-10-20">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2001-12-01</airdate>
+<title xml:lang="ja">こだまのラブラブ・フードバトル! / ショック! くるみ先生にナゾの恋人</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Kodama no Lovelove Food Battle! / Shock! Kurumi-sensei ni Nazo no Koibito</title>
+</episode>
+<episode id="34873" update="2011-10-20">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2002-01-19</airdate>
+<title xml:lang="ja">プレイボーイあらし! / 女の戦い! 大雪サバイバル</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Playboy Arashi! / Onna no Tatakai! Taisetsu Survival</title>
+</episode>
+<episode id="34874" update="2011-10-20">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2002-02-23</airdate>
+<title xml:lang="ja">どっちが主役!? ひのきVSきのこ / マジシャン猿のママさがし</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Docchi ga Shuyaku!? Hinoki Vs Kinoko / Magician Saru no Mama Sagashi</title>
+</episode>
+<episode id="34875" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2001-05-19</airdate>
+<title xml:lang="ja">初めてのお留守番 / ひのきのすもう大会</title>
+<title xml:lang="en">First Time at Home Alone / The Wrestling Tournament</title>
+<title xml:lang="fr">Maman j`ai massacré ta robe / Le tournoi de catch</title>
+<title xml:lang="x-jat">Hajimete no Orushuban / Hinoki no Sumou Taikai</title>
+</episode>
+<episode id="34876" update="2011-10-20">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2001-12-29</airdate>
+<title xml:lang="ja">呪いの部屋 / ひのきの宝くじ大騒動</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Noroi no Heya / Hinoki no Takarakuji Oosoudou</title>
+</episode>
+<episode id="34877" update="2011-10-20">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2001-12-08</airdate>
+<title xml:lang="ja">ワガママ! 星の王子様</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Wagamama! Hoshi no Oujisama</title>
+</episode>
+<episode id="34878" update="2011-10-20">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2002-02-16</airdate>
+<title xml:lang="ja">みかんの雪山大脱走! / 幻の雪男VSひのき</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Mikan no Yukiyama Daidassou! / Maboroshi no Yukiotoko VS Hinoki</title>
+</episode>
+<episode id="34879" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2001-05-26</airdate>
+<title xml:lang="ja">ラブラブ遠足大騒動 / パパの会社へゴーゴー!</title>
+<title xml:lang="en">First Field Trip / Dad At Work!</title>
+<title xml:lang="fr">Sortie champêtre / Papa au travail</title>
+<title xml:lang="x-jat">Lovelove Ensoku Oosoudou / Papa no Kaisha e Gougou!</title>
+</episode>
+<episode id="34880" update="2011-10-20">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2001-08-11</airdate>
+<title xml:lang="ja">かわばた巡査愛のレッスン! / 真夏のサンタクロース</title>
+<title xml:lang="en">Lesson In Love / Summer Santa</title>
+<title xml:lang="fr">Leçon d`amour / Noël en été</title>
+<title xml:lang="x-jat">Kawabata Junsa Ai no Lesson! / Manatsu no Santa Claus</title>
+</episode>
+<episode id="34881" update="2011-10-20">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2001-08-18</airdate>
+<title xml:lang="ja">とどけ! ロクちゃんの言葉 / アッコもビックリ! きのこの付き人</title>
+<title xml:lang="en">Doggone Dog / A Helping Hand</title>
+<title xml:lang="fr">Sacré toutou / Une fillette serviable</title>
+<title xml:lang="x-jat">Todoke! Roku-chan no Kotoba / Akko mo Bikkuri! Kinoko no Tsukibito</title>
+</episode>
+<episode id="34882" update="2011-10-20">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2001-08-04</airdate>
+<title xml:lang="ja">かぶとの新記録をねらえ!! / きのこのコワ~イ写真!?</title>
+<title xml:lang="en">The Big Race / Ghost Trouble</title>
+<title xml:lang="fr">Le marathon / Le coup du fantôme</title>
+<title xml:lang="x-jat">Kabuto no Shin Kiroku o Nerae!! / Kinoko no Kowai Shashin!?</title>
+</episode>
+<episode id="34883" update="2011-10-20">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2002-03-09</airdate>
+<title xml:lang="ja">名探偵対決! あらしVSきのこ / かぶとのホワイトデー</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Meitantei Taiketsu! Arashi Vs Kinoko / Kabuto no White Day</title>
+</episode>
+<episode id="135867" update="2011-12-29">
+<epno type="3">C1</epno>
+<length>2</length>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

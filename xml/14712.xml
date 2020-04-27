@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14712" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-04-26</startdate>
+<enddate>2019-04-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Oshiri Tantei: Curry Naru Jiken</title>
+<title xml:lang="ja" type="official">映画おしりたんてい カレーなる じけん</title>
+</titles>
+<relatedanime>
+<anime id="13203" type="Parent Story">Oshiri Tantei</anime>
+</relatedanime>
+<url>http://www.oshiri-tantei.com</url>
+<creators>
+<name id="53073" type="Original Work">Troll</name>
+</creators>
+<description>* Based on http://anidb.net/cr53073 [Troll]`s picture book series for children.</description>
+<picture>230734.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39435</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.oshiri-tantei.com</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おしりたんてい</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5614</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367333</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21934</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="7469" parentid="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-11-10">
+<name>picture book</name>
+<description>A picture book is a book, most often aimed at young children, that combines visual and verbal narratives. With the narrative told primarily through text, they are distinct from comics, which do so primarily through sequential images. The images in picture books are commonly produced in a range of media, such as oil paints, acrylics, watercolor, and pencil, among others.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="213096" update="2019-03-01">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2019-04-26</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

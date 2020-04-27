@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13974" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-10-01</startdate>
+<enddate>2016-10-01</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Wo Shi Na Zha</title>
+<title xml:lang="en" type="synonym">I Am Nezha</title>
+<title xml:lang="zh-Hans" type="official">我是哪吒</title>
+</titles>
+<ratings>
+<permanent count="1">2.41</permanent>
+<temporary count="1">3.00</temporary>
+</ratings>
+<picture>215756.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37661</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>I_Am_Nezha</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="197689" update="2018-04-02">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>2016-10-01</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

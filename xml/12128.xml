@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12128" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-10-30</startdate>
+<enddate>2015-10-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Four Seasons: Fuuka to Nanami</title>
+<title xml:lang="ja" type="official">Four Seasons 楓花と七波</title>
+</titles>
+<relatedanime>
+<anime id="10562" type="Same Setting">Master of Torque</anime>
+</relatedanime>
+<ratings>
+<permanent count="28">2.53</permanent>
+<temporary count="28">4.12</temporary>
+</ratings>
+<picture>186779.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32058</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356642</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=Et4pOnmDtn0</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="177603" update="2016-05-14">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-10-30</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="199061" update="2018-05-14">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6268" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2008-08-08</startdate>
+<enddate>2008-08-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Toshi Densetsu Monogatari Hikiko</title>
+<title xml:lang="en" type="synonym">Urban Legend Story Hikiko</title>
+<title xml:lang="ru" type="synonym">Городская легенда: История Хикико</title>
+<title xml:lang="x-jat" type="short">hikiko</title>
+<title xml:lang="ja" type="official">都市伝説物語 ひきこ</title>
+</titles>
+<url>http://www.anec.co.jp/hikiko/hikiko.html</url>
+<creators>
+<name id="12120" type="Original Work">Kishi Kaisei</name>
+<name id="12120" type="Direction">Kishi Kaisei</name>
+<name id="16356" type="Music">Chida Kazuhiro</name>
+</creators>
+<description>3D CG-animated movie about Hikiko, who is a character of a Japanese urban legend. She was violently treated all the time by her parents and classmates at the elementary school and she`s extremely ugly due to the constant violence. To revenge, she caught students from elementary school and drag them on the floor until they`re badly mutilated. When Reversing Hikiko`s full name 森妃姫子(Mori Hikiko) gives 引き籠もり (http://anidb.net/t876 [hikikomori]), which means Social Withdrawal.</description>
+<ratings>
+<permanent count="153">3.49</permanent>
+<temporary count="153">5.47</temporary>
+</ratings>
+<picture>15033.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>6809</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.anec.co.jp/hikiko/hikiko.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>332229</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2851" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-11">
+<name>horror</name>
+<description>The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.</description>
+<picurl>214682.jpg</picurl>
+</tag>
+<tag id="3741" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-25">
+<name>bullying</name>
+<description>Bullying is the use of force, threat, or coercion to abuse, intimidate, or aggressively dominate others. One who engages in bullying is known as a bully.
+Source: Wikipedia</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="95665" update="2008-12-12">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>2008-08-08</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

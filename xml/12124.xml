@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12124" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1991-01-21</startdate>
+<enddate>1991-01-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shounen Ashibe OVA</title>
+<title xml:lang="ja" type="official">少年アシベ OVA</title>
+</titles>
+<relatedanime>
+<anime id="2981" type="Other">Shounen Ashibe</anime>
+</relatedanime>
+<creators>
+<name id="12343" type="Original Work">Morishita Hiromi</name>
+<name id="151" type="Direction">Ishiguro Noboru</name>
+<name id="5655" type="Music">Arakawa Toshiyuki</name>
+</creators>
+<ratings>
+<permanent count="1">6.20</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>186718.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33199</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>少年アシベ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88494</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2747</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="80982" type="main character in" update="2016-04-06">
+<name>Ashiya Ashibe</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185302.jpg</picture>
+<seiyuu id="393" picture="46104.jpg">Takayama Minami</seiyuu>
+</character>
+<character id="80983" type="main character in" update="2016-04-06">
+<name>Ashibe no Kaa-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185306.jpg</picture>
+<seiyuu id="3890" picture="186170.jpg">Takamori Yoshino</seiyuu>
+</character>
+<character id="80984" type="main character in" update="2016-04-06">
+<name>Ashibe no Tou-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185309.jpg</picture>
+<seiyuu id="2729" picture="186723.jpg">Ishimaru Hiroya</seiyuu>
+</character>
+<character id="80985" type="main character in" update="2016-04-06">
+<name>Goma-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185305.jpg</picture>
+<seiyuu id="556" picture="17848.jpg">Koorogi Satomi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="177540" update="2016-05-12">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1991-01-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

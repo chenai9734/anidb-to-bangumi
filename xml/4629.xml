@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4629" restricted="false">
+<type>OVA</type>
+<episodecount>6</episodecount>
+<startdate>2000-09-20</startdate>
+<enddate>2000-09-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yuki Terai</title>
+<title xml:lang="en" type="synonym">Yuki Terai: Secret Films</title>
+<title xml:lang="en" type="synonym">Yuki Terai: Secret Live</title>
+<title xml:lang="en" type="synonym">Yuki Terai - Secrets</title>
+<title xml:lang="ja" type="official">テライユキ</title>
+<title xml:lang="de" type="official">Yuki Terai: Secrets</title>
+<title xml:lang="fr" type="official">Virtually Real - Yuki Terai - Secrets</title>
+<title xml:lang="it" type="official">Virtually Real - Yuki Terai - Secrets</title>
+<title xml:lang="es" type="official">Virtually Real - Yuki Terai - Secrets</title>
+<title xml:lang="sv" type="official">Yuki Terai: Secrets</title>
+<title xml:lang="pt" type="official">Virtually Real - Yuki Terai - Secrets</title>
+<title xml:lang="nl" type="official">Virtually Real - Yuki Terai - Secrets</title>
+</titles>
+<relatedanime>
+<anime id="1558" type="Other">Cybervenus FeiFei</anime>
+<anime id="6628" type="Other">Virtual Star 2000</anime>
+</relatedanime>
+<url>http://avexmode.jp/artist/terai/terai.html</url>
+<creators>
+<name id="741" type="Unknown Relation">Fuji TV</name>
+</creators>
+<description>Yuki Terai is a vivacious 17-year-old who lives just outside Tokyo. In most ways she is every bit the typical teen - except she doesn`t exist.
+The invention of acclaimed computer animator Kenichi Kutsugi, Yuki Terai is Japan`s No.1 Virtual Star. Capable of unprecedented life-like expressions and movement, she inhabits many worlds: real-life, science fiction and music. And now she can inhabit yours.
+In Secrets, the multi-faceted Yuki is showcased in six irresistible short stories. In Fly Away Alone, she plays a sensuous songbird; Dos/Chin, which also happens to be the name of her mischievous robotic dog, finds Yuki exploring her artistic side; A Life is a meditative piece where Yuki reflects on happier times; in fully-fledged Matrix mode, Comet The Thief stars our idol as a mischievous martial-arts bandit; The Mirror explores the darker side of Yuki as she is mysteriously followed by images of herself that seem to emerge from mirrors; and in Lazy Gui, our scantily-clad heroine embarks on a race against time as her Space Freighter is set for self-destruct.
+Includes two awesome bonuses: the music video of Yuki`s smash hit, My Dearest You, and the incredible World War II air attack recreation, Project BB-11. Additional extras include The Making Of..., which explains the techniques and tricks used to create the state-of-the-art animation that gives life to this virtual megastar.
+Welcome to the worlds of Yuki Terai. Enter.. and your world will never be the same.</description>
+<ratings>
+<permanent count="32">3.04</permanent>
+<temporary count="32">5.10</temporary>
+</ratings>
+<picture>11133.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>6412</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://avexmode.jp/artist/terai/terai.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="56032" update="2008-07-08">
+<epno type="1">1</epno>
+<length>8</length>
+<airdate>2000-09-20</airdate>
+<rating votes="1">1.02</rating>
+<title xml:lang="en">Comet The Thief</title>
+</episode>
+<episode id="56033" update="2008-07-08">
+<epno type="1">2</epno>
+<length>6</length>
+<airdate>2000-09-20</airdate>
+<title xml:lang="en">The Mirror</title>
+</episode>
+<episode id="56034" update="2008-07-08">
+<epno type="1">3</epno>
+<length>8</length>
+<airdate>2000-09-20</airdate>
+<title xml:lang="ja">ゆきとどすちん</title>
+<title xml:lang="en">Dos/Chin</title>
+<title xml:lang="x-jat">Yuki to Dos-chin</title>
+</episode>
+<episode id="56035" update="2008-07-08">
+<epno type="1">4</epno>
+<length>7</length>
+<airdate>2000-09-20</airdate>
+<title xml:lang="en">Lazy GUI</title>
+</episode>
+<episode id="56036" update="2008-07-08">
+<epno type="1">5</epno>
+<length>6</length>
+<airdate>2000-09-20</airdate>
+<title xml:lang="en">Fly Away Alone</title>
+</episode>
+<episode id="56037" update="2008-07-08">
+<epno type="1">6</epno>
+<length>6</length>
+<airdate>2000-09-20</airdate>
+<title xml:lang="en">A Life</title>
+</episode>
+<episode id="56038" update="2006-08-04">
+<epno type="2">S1</epno>
+<length>4</length>
+<title xml:lang="en">Project BB-11</title>
+</episode>
+<episode id="56039" update="2006-08-04">
+<epno type="2">S2</epno>
+<length>5</length>
+<title xml:lang="en">My Dearest You</title>
+</episode>
+</episodes>
+</anime>

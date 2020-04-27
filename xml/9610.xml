@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9610" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1983-01-21</startdate>
+<enddate>1983-01-21</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Miraesonyeon Kunta Bermuda 5000 Nyeon</title>
+<title xml:lang="en" type="synonym">Future Boy Kunta in Bermuda 5000</title>
+<title xml:lang="ko" type="official">미래소년 쿤타 버뮤다 5000년</title>
+</titles>
+<ratings>
+<permanent count="4">1.81</permanent>
+<temporary count="4">3.25</temporary>
+</ratings>
+<picture>130111.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>16800</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="146229" update="2012-12-28">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>1983-01-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

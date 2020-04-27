@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13511" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2018-10-24</startdate>
+<enddate>2018-10-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Starmyu in Halloween</title>
+<title xml:lang="ja" type="synonym">高校星歌劇 OVA</title>
+<title xml:lang="ja" type="official">スタミュinハロウィン</title>
+</titles>
+<relatedanime>
+<anime id="13510" type="Sequel">Starmyu (2019)</anime>
+<anime id="12141" type="Prequel">Starmyu (2017)</anime>
+</relatedanime>
+<description>A story about http://anidb.net/ch73934 [Hoshitani] and friends on Halloween.</description>
+<ratings>
+<permanent count="16">5.23</permanent>
+<temporary count="16">6.25</temporary>
+</ratings>
+<picture>223340.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21486</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36537</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Star-Myu</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>スタミュ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4530</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>362184</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21578</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>hstar_mu</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="202672" update="2018-09-07">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2018-10-24</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

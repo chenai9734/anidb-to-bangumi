@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8653" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1997-04-26</startdate>
+<enddate>1997-04-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tensai Eri-chan Kingyo o Tabeta</title>
+<title xml:lang="ja" type="official">天才えりちゃん金魚を食べた</title>
+</titles>
+<creators>
+<name id="6959" type="Chief Direction">Kusakabe Mitsuo</name>
+<name id="31553" type="Music">Kishimoto Tomohiko</name>
+<name id="34700" type="Original Work">Takeshita Ryuunosuke</name>
+</creators>
+<ratings>
+<permanent count="4">2.03</permanent>
+<temporary count="4">3.62</temporary>
+</ratings>
+<picture>54738.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18907</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>153213</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>5832</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="36735" type="main character in" update="2012-04-25">
+<name>Eri-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2792" picture="26717.jpg">Kawata Taeko</seiyuu>
+</character>
+<character id="36736" type="secondary cast in" update="2011-09-15">
+<name>Okaasan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="37709" picture="138638.jpg">Matsuzaka Keiko</seiyuu>
+</character>
+<character id="36737" type="secondary cast in" update="2011-09-15">
+<name>Otousan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="5341" picture="29523.jpg">Abe Hiroshi</seiyuu>
+</character>
+<character id="36738" type="secondary cast in" update="2011-09-15">
+<name>Manto Jijii</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="40512" picture="158628.jpg">Shimojou Masami</seiyuu>
+</character>
+<character id="36739" type="secondary cast in" update="2011-09-15">
+<name>Hidaka-san</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="454" picture="17354.jpg">Furuya Tooru</seiyuu>
+</character>
+<character id="36740" type="secondary cast in" update="2011-09-15">
+<name>Takeshita Ryuunosuke</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34653" picture="128952.jpg">Itou Takahiro</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="133068" update="2011-09-15">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1997-04-26</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

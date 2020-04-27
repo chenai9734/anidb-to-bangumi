@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5681" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1981-07-27</startdate>
+<enddate>1981-07-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kyoufu Densetsu Kaiki! Frankenstein</title>
+<title xml:lang="ja" type="official">恐怖伝説 怪奇! フランケンシュタイン</title>
+<title xml:lang="sv" type="official">Frankensteins monster</title>
+<title xml:lang="pt-BR" type="official">Frankenstein</title>
+</titles>
+<creators>
+<name id="4155" type="Direction">Serikawa Yuugo</name>
+<name id="3469" type="Music">Haneda Kentarou</name>
+</creators>
+<description>In a foreboding castle, scientist Dr. Victor Frankenstein performs a hideous experiment, which he hopes will bring the dead back to life. With the help of his assistant, he is successful in reanimating a man recreated from parts gathered from corpses, but the creature is unpredictable and horrifying. The doctor flees back to his home in Switzerland, leaving his assistant in charge of destroying the monster. But Dr. Frankenstein soon finds that he cannot hide from his shameful secret forever, as mysterious murders are committed around him, forcing him to question if his creation really is dead and gone.</description>
+<ratings>
+<permanent count="47">3.73</permanent>
+<temporary count="47">5.03</temporary>
+</ratings>
+<picture>7300.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3934</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6978</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Kyofu_Densetsu:_Kaiki!_Furankenshutain</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>恐怖伝説_怪奇!フランケンシュタイン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235373</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>395</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="4424" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>American derived</name>
+<description>A work which was created as a continuation/remake of an American based franchise or cartoon series. These works are completely Japan original, but which lack roots within Japanese media.
+See also: http://anidb.net/t3714 [cartoon remake]</description>
+</tag>
+</tags>
+<episodes>
+<episode id="90339" update="2011-10-20">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1981-07-27</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

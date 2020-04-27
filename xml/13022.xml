@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13022" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-03-17</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Heisei Matsue Kaidan: Ayashi</title>
+<title xml:lang="ja" type="official">平成松江怪談~怪し~</title>
+</titles>
+<relatedanime>
+<anime id="13021" type="Prequel">Heisei Matsue Kaidan</anime>
+</relatedanime>
+<url>http://鷹の爪.jp/matsue/kaidan/</url>
+<creators>
+<name id="12416" type="Animation Work">DLE</name>
+<name id="49324" type="Original Work">Kihara Hirokatsu</name>
+</creators>
+<ratings>
+<permanent count="2">2.64</permanent>
+<temporary count="2">5.00</temporary>
+</ratings>
+<picture>199978.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35140</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://鷹の爪.jp/matsue/kaidan/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360107</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="186322" update="2017-03-22">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>2017-03-17</airdate>
+<title xml:lang="ja">指の輪</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Yubi no Wa</title>
+</episode>
+</episodes>
+</anime>

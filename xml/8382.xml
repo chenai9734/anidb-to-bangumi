@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8382" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>2011-04-02</startdate>
+<enddate>2012-03-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Penguin no Mondai DX?</title>
+<title xml:lang="ja" type="official">ペンギンの問題DX?</title>
+</titles>
+<relatedanime>
+<anime id="9145" type="Sequel">Penguin no Mondai POW</anime>
+<anime id="7597" type="Prequel">Penguin no Mondai Max</anime>
+</relatedanime>
+<url>http://www.shopro.co.jp/tv/penguin/index.html</url>
+<description>* Sequel of the http://anidb.net/a7597 [Penguin no Mondai Max] series.</description>
+<picture>8509.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10856</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.shopro.co.jp/tv/penguin/index.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ペンギンの問題#.E3.83.9A.E3.83.B3.E3.82.AE.E3.83.B3.E3.81.AE.E5.95.8F.E9.A1.8CDX.3F</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="27034" type="secondary cast in" update="2011-01-16">
+<name>Takahashi Charlotte</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63531.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="33273" type="main character in" update="2011-06-12">
+<name>Kinoshita Bekkamu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73212.jpg</picture>
+<seiyuu id="6925" picture="201846.jpg">Itou Miyako</seiyuu>
+</character>
+<character id="33274" type="main character in" update="2011-06-12">
+<name>Okamoto Paul</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73213.jpg</picture>
+<seiyuu id="60" picture="171602.jpg">Kawada Shinji</seiyuu>
+</character>
+<character id="33275" type="secondary cast in" update="2011-06-12">
+<name>Watanabe Gordon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>4277.gif</picture>
+<seiyuu id="178" picture="228660.jpg">Miyake Kenta</seiyuu>
+</character>
+<character id="33276" type="main character in" update="2011-06-12">
+<name>Matsui Yumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73214.jpg</picture>
+<seiyuu id="355" picture="71573.jpg">Gotou Saori</seiyuu>
+</character>
+<character id="33277" type="secondary cast in" update="2011-06-12">
+<name>Inoue Michael</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73215.jpg</picture>
+<seiyuu id="694" picture="52187.jpg">Choo</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="129455" update="2011-04-12">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>2011-04-02</airdate>
+<title xml:lang="ja">クイズの問題</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Quiz no Mondai</title>
+</episode>
+<episode id="129456" update="2011-04-12">
+<epno type="1">6</epno>
+<length>10</length>
+<airdate>2011-05-07</airdate>
+<title xml:lang="ja">世界一の問題</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Sekaiichi no Mondai</title>
+</episode>
+<episode id="129457" update="2011-04-12">
+<epno type="1">5</epno>
+<length>10</length>
+<airdate>2011-04-30</airdate>
+<title xml:lang="ja">優勝の問題</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Yuushou no Mondai</title>
+</episode>
+<episode id="129458" update="2011-04-12">
+<epno type="1">4</epno>
+<length>10</length>
+<airdate>2011-04-23</airdate>
+<title xml:lang="ja">この後の問題</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kono Ato no Mondai</title>
+</episode>
+<episode id="129459" update="2011-04-12">
+<epno type="1">3</epno>
+<length>10</length>
+<airdate>2011-04-16</airdate>
+<title xml:lang="ja">ハズレの問題</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Hazure no Mondai</title>
+</episode>
+<episode id="129460" update="2011-04-12">
+<epno type="1">2</epno>
+<length>10</length>
+<airdate>2011-04-09</airdate>
+<title xml:lang="ja">早押しの問題</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="130090" update="2011-05-10">
+<epno type="1">10</epno>
+<length>10</length>
+<airdate>2011-06-04</airdate>
+<title xml:lang="ja">世界一周の問題</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Sekai Isshuu no Mondai</title>
+</episode>
+<episode id="130091" update="2011-05-10">
+<epno type="1">9</epno>
+<length>10</length>
+<airdate>2011-05-28</airdate>
+<title xml:lang="ja">オニの問題</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Oni no Mondai</title>
+</episode>
+<episode id="130092" update="2011-05-10">
+<epno type="1">8</epno>
+<length>10</length>
+<airdate>2011-05-21</airdate>
+<title xml:lang="ja">クツの問題</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Kutsu no Mondai</title>
+</episode>
+<episode id="130093" update="2011-05-10">
+<epno type="1">7</epno>
+<length>10</length>
+<airdate>2011-05-14</airdate>
+<title xml:lang="ja">はらぺこの問題</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Harapeko no Mondai</title>
+</episode>
+<episode id="130794" update="2011-06-10">
+<epno type="1">15</epno>
+<length>10</length>
+<airdate>2011-07-09</airdate>
+<title xml:lang="ja">親友の問題</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Shin`yuu no Mondai</title>
+</episode>
+<episode id="130795" update="2011-06-10">
+<epno type="1">14</epno>
+<length>10</length>
+<airdate>2011-07-02</airdate>
+<title xml:lang="ja">警備隊の問題</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Keibitai no Mondai</title>
+</episode>
+<episode id="130796" update="2011-06-10">
+<epno type="1">13</epno>
+<length>10</length>
+<airdate>2011-06-25</airdate>
+<title xml:lang="ja">ぬくもりの問題</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Nukumori no Mondai</title>
+</episode>
+<episode id="130797" update="2011-06-10">
+<epno type="1">12</epno>
+<length>10</length>
+<airdate>2011-06-18</airdate>
+<title xml:lang="ja">プロフェッショナルの問題</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Professional no Mondai</title>
+</episode>
+<episode id="130798" update="2011-06-10">
+<epno type="1">11</epno>
+<length>10</length>
+<airdate>2011-06-11</airdate>
+<title xml:lang="ja">上京の問題</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Joukyou no Mondai</title>
+</episode>
+<episode id="131735" update="2011-07-08">
+<epno type="1">19</epno>
+<length>10</length>
+<airdate>2011-08-06</airdate>
+<title xml:lang="ja">シュナイダーの問題</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Schneider no Mondai</title>
+</episode>
+<episode id="131736" update="2011-07-08">
+<epno type="1">18</epno>
+<length>10</length>
+<airdate>2011-07-30</airdate>
+<title xml:lang="ja">スポットライトの問題</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Spotlight no Mondai</title>
+</episode>
+<episode id="131737" update="2011-07-08">
+<epno type="1">17</epno>
+<length>10</length>
+<airdate>2011-07-23</airdate>
+<title xml:lang="ja">ケンカの問題</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Kenka no Mondai</title>
+</episode>
+<episode id="131738" update="2011-07-08">
+<epno type="1">16</epno>
+<length>10</length>
+<airdate>2011-07-16</airdate>
+<title xml:lang="ja">出席の問題</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Shusseki no Mondai</title>
+</episode>
+<episode id="132403" update="2011-08-11">
+<epno type="1">23</epno>
+<length>10</length>
+<airdate>2011-09-03</airdate>
+<title xml:lang="ja">穴の問題</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Ana no Mondai</title>
+</episode>
+<episode id="132404" update="2011-08-11">
+<epno type="1">22</epno>
+<length>10</length>
+<airdate>2011-08-27</airdate>
+<title xml:lang="ja">教室の問題</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Kyoushitsu no Mondai</title>
+</episode>
+<episode id="132405" update="2011-08-11">
+<epno type="1">21</epno>
+<length>10</length>
+<airdate>2011-08-20</airdate>
+<title xml:lang="ja">南極の問題</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Nankyoku no Mondai</title>
+</episode>
+<episode id="132406" update="2011-08-11">
+<epno type="1">20</epno>
+<length>10</length>
+<airdate>2011-08-13</airdate>
+<title xml:lang="ja">スーパースターの問題</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Superstar no Mondai</title>
+</episode>
+<episode id="133006" update="2011-09-13">
+<epno type="1">28</epno>
+<length>10</length>
+<airdate>2011-10-08</airdate>
+<title xml:lang="ja">うつわの問題</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Utsuwa no Mondai</title>
+</episode>
+<episode id="133007" update="2011-09-13">
+<epno type="1">27</epno>
+<length>10</length>
+<airdate>2011-10-01</airdate>
+<title xml:lang="ja">お礼の問題</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Orei no Mondai</title>
+</episode>
+<episode id="133008" update="2011-09-13">
+<epno type="1">26</epno>
+<length>10</length>
+<airdate>2011-09-24</airdate>
+<title xml:lang="ja">やつあたりの問題</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Yatsuatari no Mondai</title>
+</episode>
+<episode id="133009" update="2011-09-13">
+<epno type="1">25</epno>
+<length>10</length>
+<airdate>2011-09-17</airdate>
+<title xml:lang="ja">運勢の問題</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Unsei no Mondai</title>
+</episode>
+<episode id="133010" update="2011-09-13">
+<epno type="1">24</epno>
+<length>10</length>
+<airdate>2011-09-10</airdate>
+<title xml:lang="ja">師匠の問題</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Shishou no Mondai</title>
+</episode>
+<episode id="133919" update="2011-10-11">
+<epno type="1">32</epno>
+<length>10</length>
+<airdate>2011-11-05</airdate>
+<title xml:lang="ja">兄弟の問題</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Kyoudai no Mondai</title>
+</episode>
+<episode id="133920" update="2011-10-11">
+<epno type="1">31</epno>
+<length>10</length>
+<airdate>2011-10-29</airdate>
+<title xml:lang="ja">珍しさの問題</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Nuzurashisa no Mondai</title>
+</episode>
+<episode id="133921" update="2011-10-11">
+<epno type="1">30</epno>
+<length>10</length>
+<airdate>2011-10-22</airdate>
+<title xml:lang="ja">暑さの問題</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Atsusa no Mondai</title>
+</episode>
+<episode id="133922" update="2011-10-11">
+<epno type="1">29</epno>
+<length>10</length>
+<airdate>2011-10-15</airdate>
+<title xml:lang="ja">いいことの問題</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Ii Koto no Mondai</title>
+</episode>
+<episode id="140811" update="2012-07-08">
+<epno type="1">52</epno>
+<length>10</length>
+<airdate>2012-03-31</airdate>
+<title xml:lang="ja">明るい未来の問題</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="140812" update="2013-09-02">
+<epno type="1">51</epno>
+<length>10</length>
+<airdate>2012-03-24</airdate>
+<title xml:lang="ja">計画の問題</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="140813" update="2013-09-02">
+<epno type="1">50</epno>
+<length>10</length>
+<airdate>2012-03-17</airdate>
+<title xml:lang="ja">観覧車の問題</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="140814" update="2013-09-02">
+<epno type="1">49</epno>
+<length>10</length>
+<airdate>2012-03-10</airdate>
+<title xml:lang="ja">看板の問題</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="140815" update="2013-09-02">
+<epno type="1">48</epno>
+<length>10</length>
+<airdate>2012-03-03</airdate>
+<title xml:lang="ja">マスコットの問題</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="140816" update="2013-09-02">
+<epno type="1">47</epno>
+<length>10</length>
+<airdate>2012-02-25</airdate>
+<title xml:lang="ja">アトラクションの問題</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="140817" update="2013-09-02">
+<epno type="1">46</epno>
+<length>10</length>
+<airdate>2012-02-18</airdate>
+<title xml:lang="ja">おふとんの問題</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="140818" update="2013-09-02">
+<epno type="1">45</epno>
+<length>10</length>
+<airdate>2012-02-11</airdate>
+<title xml:lang="ja">大統領の問題</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="140819" update="2013-09-02">
+<epno type="1">44</epno>
+<length>10</length>
+<airdate>2012-02-04</airdate>
+<title xml:lang="ja">くふうの問題</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="140820" update="2013-09-02">
+<epno type="1">43</epno>
+<length>10</length>
+<airdate>2012-01-28</airdate>
+<title xml:lang="ja">電化製品の問題</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="140821" update="2013-09-02">
+<epno type="1">42</epno>
+<length>10</length>
+<airdate>2012-01-21</airdate>
+<title xml:lang="ja">自慢の問題</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="140822" update="2013-09-02">
+<epno type="1">41</epno>
+<length>10</length>
+<airdate>2012-01-14</airdate>
+<title xml:lang="ja">プレゼントの問題</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="140823" update="2013-09-02">
+<epno type="1">40</epno>
+<length>10</length>
+<airdate>2012-01-07</airdate>
+<title xml:lang="ja">ロケットの問題</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="140824" update="2013-09-02">
+<epno type="1">39</epno>
+<length>10</length>
+<airdate>2011-12-24</airdate>
+<title xml:lang="ja">待ち合わせの問題</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="140825" update="2013-09-02">
+<epno type="1">38</epno>
+<length>10</length>
+<airdate>2011-12-17</airdate>
+<title xml:lang="ja">最新刊の問題</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="140826" update="2013-09-02">
+<epno type="1">37</epno>
+<length>10</length>
+<airdate>2011-12-10</airdate>
+<title xml:lang="ja">やすらぎの問題</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="140827" update="2013-09-02">
+<epno type="1">36</epno>
+<length>10</length>
+<airdate>2011-12-03</airdate>
+<title xml:lang="ja">工場の問題</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="140828" update="2013-09-02">
+<epno type="1">35</epno>
+<length>10</length>
+<airdate>2011-11-26</airdate>
+<title xml:lang="ja">法律の問題</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="140829" update="2013-09-02">
+<epno type="1">34</epno>
+<length>10</length>
+<airdate>2011-11-19</airdate>
+<title xml:lang="ja">取り引きの問題</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="140830" update="2013-09-02">
+<epno type="1">33</epno>
+<length>10</length>
+<airdate>2011-11-12</airdate>
+<title xml:lang="ja">アピールの問題</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+</episodes>
+</anime>

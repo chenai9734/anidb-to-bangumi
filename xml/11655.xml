@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11655" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1990-02-10</startdate>
+<enddate>1990-02-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Goro-chan</title>
+<title xml:lang="x-jat" type="synonym">Hirake! Ponkikki</title>
+<title xml:lang="ja" type="official">ゴロちゃん</title>
+</titles>
+<description>A music video for the song by supepe that was featured on Fuji TV`s Hirake! Ponkikki program.</description>
+<ratings>
+<permanent count="46">3.22</permanent>
+<temporary count="46">4.47</temporary>
+</ratings>
+<picture>223397.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31695</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゴロちゃん</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="3968" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>animal protagonist</name>
+<description>The anime revolves around an animal, usually only communicating with typical onomatopoeia. The animal mostly lives in a human family and has adventures on a regular base. This can be the discovery of a new room, or being lost by having taken a wrong turn in the outside world.
+Typical example: http://anidb.net/a5801 [Chii`s Sweet Home].
+Not to be confused with http://anidb.net/t4259 [animal world], where the whole world is composed of animals.</description>
+<picurl>10255.jpeg</picurl>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="172087" update="2015-09-29">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>1990-02-10</airdate>
+<rating votes="1">1.74</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

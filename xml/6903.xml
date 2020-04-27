@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6903" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1942-03-15</startdate>
+<enddate>1942-03-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fuku-chan no Kishuu</title>
+<title xml:lang="ja" type="official">フクちゃんの奇襲</title>
+</titles>
+<creators>
+<name id="4995" type="Original Work">Yokoyama Ryouichi</name>
+</creators>
+<description>* Based on the popular comic strip character, but used as war propaganda.</description>
+<ratings>
+<permanent count="1">1.05</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>175528.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23969</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>134643</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2805" parentid="2798" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>4-koma manga</name>
+<description>Yonkoma manga (4コマ漫画, four cell manga, or 4-koma for short), a comic-strip format, generally consists of gag comic strips within four panels of equal size ordered from top to bottom. (They also sometimes run right-to-left horizontally or use a hybrid 2x2 style, depending on the layout requirements of the publication in which they appear.) Though the word yonkoma comes from the Japanese, the style also exists outside of Japan in other Asian countries as well as in the English-speaking market.</description>
+<picurl>70558.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="4665" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>propaganda</name>
+<description>Propaganda is communication aimed at influencing the attitude of a community toward some cause or position. As opposed to impartially providing information, propaganda in its most basic sense, presents information primarily to influence an audience. Propaganda often presents facts selectively (thus lying by omission) to encourage a particular synthesis, or uses loaded messages to produce an emotional rather than rational response to the information presented. The desired result is a change of the attitude toward the subject in the target audience to further a political agenda.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106619" update="2011-10-20">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

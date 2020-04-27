@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10005" restricted="false">
+<type>TV Series</type>
+<episodecount>49</episodecount>
+<startdate>2013-09-22</startdate>
+<enddate>2014-09-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Saikyou Ginga Ultimate Zero: Battle Spirits</title>
+<title xml:lang="ja" type="official">最強銀河 究極[アルティメット]ゼロ~バトルスピリッツ~</title>
+<title xml:lang="zh-Hans" type="official">最强银河 究极ZERO ～Battle Spirits～</title>
+</titles>
+<relatedanime>
+<anime id="11026" type="Sequel">Battle Spirits: Burning Soul</anime>
+<anime id="9743" type="Prequel">Battle Spirits: Sword Eyes Gekitouden</anime>
+</relatedanime>
+<url>http://www.sunrise-inc.co.jp/battlespirits6/</url>
+<creators>
+<name id="726" type="Animation Work">Sunrise</name>
+<name id="3439" type="Character Design">Ishikawa Tetsuya</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="996" type="Work">Asatsu-DK</name>
+<name id="726" type="Work">Sunrise</name>
+<name id="1019" type="Work">Nagoya TV Housou</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="19263" type="Direction">Watanabe Masaki</name>
+<name id="24129" type="Music">Segawa Eishi</name>
+</creators>
+<ratings>
+<permanent count="9">5.50</permanent>
+<temporary count="9">5.11</temporary>
+</ratings>
+<picture>140716.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15522</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>19825</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sunrise-inc.co.jp/battlespirits6/</url>
+</externalentity>
+<externalentity>
+<url>http://www.nagoyatv.com/zero/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3164</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>346994</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16431</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="58321" type="main character in" update="2013-07-31">
+<name>Ichibanhoshi no Rei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140748.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="58322" type="secondary cast in" update="2013-07-31">
+<name>Nagareboshi no Kiriga</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140749.jpg</picture>
+<seiyuu id="200" picture="17015.jpg">Suwabe Jun`ichi</seiyuu>
+</character>
+<character id="58323" type="secondary cast in" update="2013-07-31">
+<name>Hakugin no Zero</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140750.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="58324" type="secondary cast in" update="2013-07-31">
+<name>Shakunetsu no Zero</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140751.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="58325" type="secondary cast in" update="2013-07-31">
+<name>Mugen</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140752.jpg</picture>
+<seiyuu id="516" picture="34813.jpg">Iguchi Yuka</seiyuu>
+</character>
+<character id="58326" type="secondary cast in" update="2013-07-31">
+<name>Rikuto April</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140753.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="58327" type="secondary cast in" update="2013-07-31">
+<name>Raira April</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140754.jpg</picture>
+<seiyuu id="101" picture="16709.jpg">Ise Mariya</seiyuu>
+</character>
+<character id="58328" type="secondary cast in" update="2013-07-31">
+<name>Solt</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140755.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="59075" type="secondary cast in" update="2013-08-21">
+<name>Ake no Hoshi no Ellis</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141764.jpg</picture>
+<seiyuu id="61" picture="58663.jpg">Horie Yui</seiyuu>
+</character>
+<character id="59076" type="secondary cast in" update="2013-08-21">
+<name>Nagashi no Watari</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141765.jpg</picture>
+<seiyuu id="254" picture="17073.jpg">Yamaguchi Kappei</seiyuu>
+</character>
+<character id="59077" type="secondary cast in" update="2013-08-21">
+<name>Mezame no Tsuruhashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141766.jpg</picture>
+<seiyuu id="255" picture="40713.jpg">Miyano Mamoru</seiyuu>
+</character>
+<character id="59078" type="secondary cast in" update="2013-08-21">
+<name>Ikari no Hashibuto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141767.jpg</picture>
+<seiyuu id="611" picture="18094.jpg">Nomura Kenji</seiyuu>
+</character>
+<character id="59079" type="secondary cast in" update="2013-08-21">
+<name>Miroku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141768.jpg</picture>
+<seiyuu id="175" picture="167565.jpg">Shimono Hiro</seiyuu>
+</character>
+<character id="59080" type="secondary cast in" update="2013-08-21">
+<name>Ian</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>141763.jpg</picture>
+<seiyuu id="208" picture="20458.jpg">Shiraishi Ryouko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="154796" update="2013-10-06">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2013-09-29</airdate>
+<title xml:lang="ja">究極[アルティメット]祭だ! 俺は灼熱のゼロ!!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Ultimate Matsuri Da! Ore wa Shakunetsu no Zero!!</title>
+</episode>
+<episode id="154797" update="2013-10-06">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2013-09-22</airdate>
+<title xml:lang="ja">登場!アルティメットだ一番星!!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Toujou! Ultimate Da Ichibanboshi!!</title>
+</episode>
+<episode id="154853" update="2013-10-08">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2013-10-06</airdate>
+<title xml:lang="ja">荒野の決闘!銀河七将登場!!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Kouya no Kettou! Ginga Shichishou Toujou!!</title>
+</episode>
+<episode id="155028" update="2013-10-13">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2013-10-13</airdate>
+<title xml:lang="ja">守護神来たぜ!俺は白銀のゼロ!!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Shugoshin Kita ze! Ore wa Hakugin no Zero!!</title>
+</episode>
+<episode id="155219" update="2013-10-22">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2013-10-19</airdate>
+<title xml:lang="ja">氷の星! 俺を呼ぶ究極(アルティメット)の声は誰だ?</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Koori no Hoshi! Ore o Yobu Ultimate no Koe wa Dare Da?</title>
+</episode>
+<episode id="155437" update="2013-11-01">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2013-10-26</airdate>
+<title xml:lang="ja">俺と戦え! デッキの底の熱い奴!!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Ore to Tatakae! Deck no Soko no Atsui Yatsu!!</title>
+</episode>
+<episode id="156418" update="2014-04-07">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2013-11-24</airdate>
+<title xml:lang="ja">緑の星! アルティメットだ流れ星!!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Midori no Hoshi! Ultimate Da Nagareboshi!!</title>
+</episode>
+<episode id="156419" update="2014-04-07">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2013-11-17</airdate>
+<title xml:lang="ja">全宇宙激震! 究極(アルティメット)対究極(アルティメット)!!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Zen`uchuu Gekishin! Ultimate Tai Ultimate!!</title>
+</episode>
+<episode id="156420" update="2014-04-07">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2013-11-10</airdate>
+<title xml:lang="ja">味わえ! もう一人のアルティメット使い!!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Ajiwae! Mou Hitori no Ultimate Tsukai!!</title>
+</episode>
+<episode id="156603" update="2014-04-07">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2013-12-01</airdate>
+<title xml:lang="ja">恐怖の暗黒神ボンバー!?</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Kyoufu no Ankokushin Bomber!?</title>
+</episode>
+<episode id="157375" update="2014-04-07">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2013-12-08</airdate>
+<title xml:lang="ja">争奪戦! 新アルティメットは誰の物!?</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Soudatsusen! Shin Ultimate wa Dare no Mono!?</title>
+</episode>
+<episode id="157389" update="2014-04-07">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2014-01-12</airdate>
+<title xml:lang="ja">リクト家出!? 銀河最大の姉弟ゲンカ!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Rikuto Iede!? Ginga Saidai no Kyoudaigenka!</title>
+</episode>
+<episode id="157390" update="2014-04-07">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2014-01-05</airdate>
+<title xml:lang="ja">ムゲン奮闘! 狙われたマジカル!!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Mugen Funtou! Nerawareta Magical!!</title>
+</episode>
+<episode id="157391" update="2014-04-07">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2013-12-22</airdate>
+<title xml:lang="ja">輝く星! 女海賊対一番星!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Kagayaku Hoshi! Onna Kaizoku Tai Ichibanboshi!</title>
+</episode>
+<episode id="157392" update="2014-04-07">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2013-12-15</airdate>
+<title xml:lang="ja">決定!? 銀河で一番強いヤツ!!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kettei!? Ginga de Ichiban Tsuyoi Yatsu!!</title>
+</episode>
+<episode id="157648" update="2014-04-07">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2014-01-19</airdate>
+<title xml:lang="ja">リベンジ! 流れ星対一番星!!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Revenge! Nagareboshi Tai Ichibanboshi!!</title>
+</episode>
+<episode id="157784" update="2014-04-07">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2014-01-26</airdate>
+<title xml:lang="ja">解放せよ! 呪われたCOWCOW号!</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Kaihou Seyo! Norowareta Cowcow Gou!</title>
+</episode>
+<episode id="158057" update="2014-04-07">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2014-02-09</airdate>
+<title xml:lang="ja">キリガの記憶!? 謎の少女現わる!</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Kiriga no Kioku!? Nazo no Shoujo Arawaru!</title>
+</episode>
+<episode id="158058" update="2014-04-07">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2014-02-02</airdate>
+<title xml:lang="ja">抜け出せ! 恐怖の宇宙船墓場!</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Nukedase! Kyoufu no Uchuusen Hakaba!</title>
+</episode>
+<episode id="159017" update="2014-04-07">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2014-02-16</airdate>
+<title xml:lang="ja">緊急入院ゼロ! 危うしシンボル!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Kinkyuu Nyuuin Zero! Ayaushi Symbol!</title>
+</episode>
+<episode id="159018" update="2014-04-07">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2014-02-23</airdate>
+<title xml:lang="ja">ゼロが4人!? チャレンジ分身バトル!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Zero ga 4-nin!? Challenge Bunshin Battle!</title>
+</episode>
+<episode id="159019" update="2014-04-07">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2014-03-02</airdate>
+<title xml:lang="ja">最強銀河究極リクト! え!?</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Saikyou Ginga Ultimate Rikuto! E!?</title>
+</episode>
+<episode id="159020" update="2014-04-07">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2014-03-09</airdate>
+<title xml:lang="ja">アルティメット用心棒対決!</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Ultimate Youjinbou Taiketsu!</title>
+</episode>
+<episode id="159021" update="2014-04-07">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2014-03-16</airdate>
+<title xml:lang="ja">究極超新星! ノヴァ吼える!!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Kyuukyoku Choushinsei! Nova Hoeru!!</title>
+</episode>
+<episode id="159022" update="2014-04-07">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2014-03-23</airdate>
+<title xml:lang="ja">ゲートを超えろ! ノヴァ対ガイ・アスラ!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Gate o Koero! Nova Tai Gai-Asura!</title>
+</episode>
+<episode id="159023" update="2014-04-07">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2014-03-30</airdate>
+<title xml:lang="ja">大激突! 究極対裏12宮ブレイヴ</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Daigekitotsu! Ultimate Tai Ura 12-kyuu Brave</title>
+</episode>
+<episode id="159024" update="2014-04-07">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2014-04-06</airdate>
+<title xml:lang="ja">エリス危うし! 裏12宮ブレイヴ大襲撃!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Ellis Ayaushi! Ura 12-kyuu Brave Daishuugeki!</title>
+</episode>
+<episode id="159025" update="2014-04-07">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2014-04-13</airdate>
+<title xml:lang="ja">三龍神登場! キリガの新たな力!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Sanryuujin Toujou! Kiriga no Arata na Chikara!</title>
+</episode>
+<episode id="159569" update="2014-04-28">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2014-04-20</airdate>
+<title xml:lang="ja">真っ赤なキリガの大反乱!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Makka na Kiriga no Daihanran!</title>
+</episode>
+<episode id="159570" update="2014-04-28">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2014-04-27</airdate>
+<title xml:lang="ja">スター登場! 閃光のゼロでーす!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Star Toujou! Senkou no Zero Deesu!</title>
+</episode>
+<episode id="159571" update="2014-04-28">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2014-05-04</airdate>
+<title xml:lang="ja">三体目の赤き龍! シンボル胸に光る時!!</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Santai Me no Akaki Ryuu! Symbol Mune ni Hikaru Toki!!</title>
+</episode>
+<episode id="159840" update="2014-05-12">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2014-05-11</airdate>
+<title xml:lang="ja">裏12宮の大スター!?しし座からの挑戦!!</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Ura 12-kyuu no Daistar!? Shishiza kara no Chousen!!</title>
+</episode>
+<episode id="159841" update="2014-05-12">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2014-05-18</airdate>
+<title xml:lang="ja">さよならライラ</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Sayonara Raira</title>
+</episode>
+<episode id="160191" update="2014-05-25">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2014-05-25</airdate>
+<title xml:lang="ja">最強銀河名探偵リクト え!?</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Saikyou Ginga Meitantei Rikuto e!?</title>
+</episode>
+<episode id="160192" update="2014-05-25">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2014-06-01</airdate>
+<title xml:lang="ja">彗星突撃! 究極大発見!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Suisei Totsugeki! Kyuukyoku Daihakken!</title>
+</episode>
+<episode id="160527" update="2014-06-16">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2014-06-08</airdate>
+<title xml:lang="ja">暴走ムゲン!? ご意見無用, 一番星</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Bousou Mugen!? Goiken Muyou, Ichibanboshi</title>
+</episode>
+<episode id="160528" update="2014-06-16">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2014-06-22</airdate>
+<title xml:lang="ja">頂点を目指せ! ジャスティスカップ開幕</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Chouten o Mezase! Justice Cup Kaimaku</title>
+</episode>
+<episode id="160651" update="2014-06-22">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2014-06-29</airdate>
+<title xml:lang="ja">大激戦! 愛と友情の三羽がらす!!</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Daigekisen! Ai to Yuujou no Sanba Garasu!!</title>
+</episode>
+<episode id="160962" update="2014-07-03">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2014-07-06</airdate>
+<title xml:lang="ja">うわあ! 俺の相棒がこんなことに!?</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Uwaa! Ore no Aibou ga Konna Koto ni!?</title>
+</episode>
+<episode id="161062" update="2014-07-06">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2014-07-13</airdate>
+<title xml:lang="ja">全知全能のミロク!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Zenchizennou no Miroku!</title>
+</episode>
+<episode id="161278" update="2014-07-13">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2014-07-20</airdate>
+<title xml:lang="ja">銀河最大の激突! 俺対オレ様!!</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Ginga Saidai no Gekitotsu! Ore Tai Ore-sama!!</title>
+</episode>
+<episode id="161414" update="2014-07-20">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2014-07-27</airdate>
+<title xml:lang="ja">ミロクの本気? 悪夢のデッキが笑う!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Miroku no Honki? Akumu no Deck ga Warau!</title>
+</episode>
+<episode id="161611" update="2014-07-28">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2014-08-10</airdate>
+<title xml:lang="ja">しのびよる恐怖! 蛇遣い座がくる!!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Shinobi Yoru Kyoufu! Hebitsukaiza ga Kuru!!</title>
+</episode>
+<episode id="161926" update="2014-08-10">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2014-08-17</airdate>
+<title xml:lang="ja">最凶バトル! ネイクス出現!!</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Saikyou Battle! Nakes Shutsugen!!</title>
+</episode>
+<episode id="162362" update="2014-08-24">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2014-08-24</airdate>
+<title xml:lang="ja">大出現! 究極のバトスピ!!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Daishutsugen! Kyuukyoku no BattSpi!!</title>
+</episode>
+<episode id="162363" update="2014-08-24">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2014-08-31</airdate>
+<title xml:lang="ja">底知れぬ闇! ネイクス大暴走!!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Sokoshirenu Yami! Nakes Daibousou!!</title>
+</episode>
+<episode id="162478" update="2014-08-31">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2014-09-07</airdate>
+<title xml:lang="ja">流れ星, 瞬いて! キリガ友情のバトル!!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Nagareboshi, Matataite! Kiriga Yuujou no Battle!!</title>
+</episode>
+<episode id="162562" update="2014-09-07">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2014-09-14</airdate>
+<title xml:lang="ja">一番星のレイ, それは究極のゼロ!!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Ichibanboshi no Rei, Sore wa Kyuukyoku no Zero!!</title>
+</episode>
+<episode id="162633" update="2014-09-14">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2014-09-21</airdate>
+<title xml:lang="ja">みんな一番! アルティメットなマジダチだ!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Minna Ichiban! Ultimate na Majidachi Da!</title>
+</episode>
+</episodes>
+</anime>

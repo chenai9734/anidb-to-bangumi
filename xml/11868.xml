@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11868" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2015-07-29</startdate>
+<enddate>2015-07-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">L`Oeil du Cyclone</title>
+<title xml:lang="ja" type="official">L`Œil du Cyclone</title>
+</titles>
+<creators>
+<name id="44386" type="Direction">Hiraoka Masanobu</name>
+</creators>
+<description>Abstract music video made for French musical group EZ3kiel`s "L`Œil du Cyclone" track.</description>
+<ratings>
+<permanent count="41">5.19</permanent>
+<temporary count="42">5.71</temporary>
+</ratings>
+<picture>181088.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34039</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>https://vimeo.com/134832670</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="174897" update="2016-02-04">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-07-29</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

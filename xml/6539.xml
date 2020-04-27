@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6539" restricted="false">
+<type>OVA</type>
+<episodecount>3</episodecount>
+<startdate>2009-08-21</startdate>
+<enddate>2009-10-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Utsurun Desu.</title>
+<title xml:lang="ja" type="official">伝染るんです.</title>
+</titles>
+<url>http://utsuru.jp/</url>
+<creators>
+<name id="3635" type="Original Work">Yoshida Sensha</name>
+<name id="11047" type="Direction">Mankyuu</name>
+</creators>
+<description>* Based on http://anidb.net/cr3635 [Yoshida Sensha]`s 4-koma "nonsensical" gag comedy manga by the same name.
+Note: The manga uses a stable of off-the-wall characters to tell jokes that defy logic or reasoning.</description>
+<ratings>
+<permanent count="5">6.67</permanent>
+<temporary count="5">7.20</temporary>
+</ratings>
+<picture>24941.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>10863</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6528</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4530</identifier>
+<identifier>udvsac</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://utsuru.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Utsurun_Desu.</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>伝染るんです。</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>333923</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="102472" update="2009-05-15">
+<epno type="4">T1</epno>
+<length>1</length>
+<airdate>2009-05-14</airdate>
+<title xml:lang="en">Promo 1</title>
+</episode>
+<episode id="110553" update="2010-04-18">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2009-09-18</airdate>
+<title xml:lang="en">Volume 2</title>
+</episode>
+<episode id="110554" update="2010-04-18">
+<epno type="1">3</epno>
+<length>30</length>
+<airdate>2009-10-23</airdate>
+<title xml:lang="en">Volume 3</title>
+</episode>
+<episode id="110555" update="2010-04-18">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2009-08-21</airdate>
+<title xml:lang="en">Volume 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14189" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2018-12-28</startdate>
+<enddate>2018-12-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Saiki Kusuo no Sainan: Kanketsuhen</title>
+<title xml:lang="ja" type="official">斉木楠雄のΨ難 完結編</title>
+<title xml:lang="ko" type="official">사이키 쿠스오의 재난: 완결편</title>
+<title xml:lang="zh-Hant" type="official">齊木楠雄的災難 完結篇</title>
+<title xml:lang="zh-Hans" type="official">齐木楠雄的灾难 完结篇</title>
+</titles>
+<relatedanime>
+<anime id="12691" type="Prequel">Saiki Kusuo no Sainan (2018)</anime>
+<anime id="14797" type="Side Story">Saiki Kusuo no Sainan: Saishidou Hen</anime>
+</relatedanime>
+<url>http://www.saikikusuo.com/index.html</url>
+<creators>
+<name id="38180" type="Original Work">Asou Shuuichi</name>
+</creators>
+<ratings>
+<permanent count="341">8.07</permanent>
+<temporary count="343">7.72</temporary>
+</ratings>
+<picture>226911.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21649</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38249</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.saikikusuo.com/index.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>斉木楠雄のΨ難</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4776</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364780</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21686</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>saikikusuo_pr</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="81960" type="main character in" update="2016-07-06">
+<rating votes="90">9.05</rating>
+<name>Saiki Kusuo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188165.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="81961" type="secondary cast in" update="2016-07-06">
+<rating votes="32">7.54</rating>
+<name>Saiki Kurumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188178.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="81962" type="secondary cast in" update="2016-07-06">
+<rating votes="14">4.27</rating>
+<name>Saiki Kuniharu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188177.jpg</picture>
+<seiyuu id="554" picture="244340.jpg">Iwata Mitsuo</seiyuu>
+</character>
+<character id="81963" type="secondary cast in" update="2016-07-06">
+<rating votes="28">6.45</rating>
+<name>Kaidou Shun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188167.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="81964" type="secondary cast in" update="2016-07-06">
+<rating votes="29">6.60</rating>
+<name>Nendou Riki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188166.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="82071" type="secondary cast in" update="2016-07-06">
+<rating votes="22">4.17</rating>
+<name>Yumehara Chiyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188171.jpg</picture>
+<seiyuu id="350" picture="20063.jpg">Tamura Yukari</seiyuu>
+</character>
+<character id="82072" type="secondary cast in" update="2016-07-06">
+<rating votes="64">8.24</rating>
+<name>Teruhashi Kokomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188170.jpg</picture>
+<seiyuu id="20497" picture="62433.jpg">Kayano Ai</seiyuu>
+</character>
+<character id="82202" type="secondary cast in" update="2016-07-06">
+<rating votes="20">6.29</rating>
+<name>Hairo Kineshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188168.jpg</picture>
+<seiyuu id="315" picture="70740.jpg">Hino Satoshi</seiyuu>
+</character>
+<character id="82203" type="secondary cast in" update="2016-07-06">
+<rating votes="19">2.75</rating>
+<name>Toritsuka Reita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188169.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="82896" type="secondary cast in" update="2016-07-06">
+<rating votes="21">5.15</rating>
+<name>Mera Chisato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188172.jpg</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+<character id="82897" type="secondary cast in" update="2016-07-06">
+<rating votes="18">7.26</rating>
+<name>Kuboyasu Aren</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>188173.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="87678" type="secondary cast in" update="2018-03-13">
+<rating votes="13">3.20</rating>
+<name>Saiko Metori</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214787.jpg</picture>
+<seiyuu id="263" picture="186711.jpg">Matsukaze Masaya</seiyuu>
+</character>
+<character id="92640" type="secondary cast in" update="2018-03-13">
+<rating votes="10">5.73</rating>
+<name>Saiki Kuusuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214786.jpg</picture>
+<seiyuu id="196" picture="17010.jpg">Nojima Kenji</seiyuu>
+</character>
+<character id="92641" type="secondary cast in" update="2018-03-13">
+<rating votes="7">3.99</rating>
+<name>Akechi Touma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214788.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="92642" type="appears in" update="2018-03-13">
+<rating votes="10">5.09</rating>
+<name>Rifuta Imu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214789.jpg</picture>
+<seiyuu id="36368" picture="224755.jpg">Mao</seiyuu>
+</character>
+<character id="92643" type="secondary cast in" update="2018-03-13">
+<rating votes="33">9.56</rating>
+<name>Aiura Mikoto</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>214776.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="210703" update="2019-06-22">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2018-12-28</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+<episode id="218209" update="2019-06-22">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-12-28</airdate>
+<title xml:lang="en">Part 1 of 2</title>
+</episode>
+<episode id="218210" update="2019-06-22">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-12-28</airdate>
+<title xml:lang="en">Part 2 of 2</title>
+</episode>
+</episodes>
+</anime>

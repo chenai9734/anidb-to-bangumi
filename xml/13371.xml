@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13371" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2003</startdate>
+<enddate>2003</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kiro no Hito</title>
+<title xml:lang="ja" type="official">kiro no hito</title>
+<title xml:lang="en" type="official">Yellow</title>
+</titles>
+<creators>
+<name id="25815" type="Music">Wada Atsushi</name>
+<name id="52973" type="Music">Amako Misa</name>
+<name id="25815" type="Direction">Wada Atsushi</name>
+</creators>
+<description>Everybody wants to be fashionable and praised. So do grandmothers.
+Source: Official website</description>
+<ratings>
+<permanent count="21">3.40</permanent>
+<temporary count="21">4.40</temporary>
+</ratings>
+<picture>205888.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29904</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kankaku.jp/independent-jp/yellow.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://kankaku.jp/independent-en/yellow.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="192473" update="2017-11-03">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

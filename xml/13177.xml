@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13177" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-05-19</startdate>
+<enddate>2017-05-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chizu no Nai Bouken</title>
+<title xml:lang="en" type="synonym">Adventure Without a Map</title>
+<title xml:lang="ja" type="official">地図のない冒険</title>
+</titles>
+<url>http://www.sanyobussan.co.jp/cm/</url>
+<creators>
+<name id="672" type="Character Design">Sadakata Kikuko</name>
+<name id="34182" type="Direction">Yamamoto Jun`ichi</name>
+</creators>
+<ratings>
+<permanent count="16">4.16</permanent>
+<temporary count="16">5.15</temporary>
+</ratings>
+<picture>202619.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35610</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sanyobussan.co.jp/cm/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1973" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-22">
+<name>cooking</name>
+<description>Cooking is the process of preparing food by using heat.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2795" parentid="1973" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>baking</name>
+<description>The art of making bread, cakes, pastries, pies, tarts, quiches, cookies and similar food in the oven.
+Mmmm.... smells nice.</description>
+</tag>
+<tag id="2864" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>daily life</name>
+<description>The antics of the protagonists do not take place in some exotic setting or time, but in everyday life. When not "at the job" this means getting up in the morning, making meals, house cleaning, going shopping or out to eat, visiting the bath house or spa, leisure activities in the spare time, etc. The time "on the job" for students is School Life, for others working in their profession. Daily Life is basically a synonym for everything normal, repetitive, and trivial happening to your average person.</description>
+<picurl>210069.jpg</picurl>
+</tag>
+<tag id="3217" parentid="2864" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-17">
+<name>working life</name>
+<description>The life of someone actually working on a often less than glamorous job is depicted in this anime. The job is taxing and the pay is low, not really the dream job one would choose to work in.
+Examples: Working as salesperson in a department store, or as a waitress in a family restaurant.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="187851" update="2017-05-19">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2017-05-19</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

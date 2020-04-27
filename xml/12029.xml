@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12029" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-10-27</startdate>
+<enddate>2015-10-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tokyo Cosmo</title>
+<title xml:lang="ja" type="official">東京コスモ</title>
+</titles>
+<url>http://tokyocosmo.jp/</url>
+<creators>
+<name id="45300" type="Direction">Miyauchi Takahiro</name>
+</creators>
+<description>A young girl dreams in the midst of her routine life.
+Source: IMDb</description>
+<ratings>
+<permanent count="13">6.50</permanent>
+<temporary count="13">6.19</temporary>
+</ratings>
+<picture>184504.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38290</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tokyocosmo.jp/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=3SEXokSxZBI</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="176276" update="2016-03-25">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-10-27</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

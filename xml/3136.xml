@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3136" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1990-09-01</startdate>
+<enddate>1990-09-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">OL Kaizou Kouza</title>
+<title xml:lang="en" type="synonym">Office Ladies Remodelling Lecture</title>
+<title xml:lang="en" type="synonym">Survival in the Office</title>
+<title xml:lang="ja" type="official">OL改造講座</title>
+</titles>
+<url>http://www.tms-e.com/library/old/ova/data/m_OL.html</url>
+<creators>
+<name id="3579" type="Direction">Kamegaki Hajime</name>
+<name id="3626" type="Music">Ooshima Michiru</name>
+<name id="29358" type="Character Design">Tsuji Yoshihiro</name>
+<name id="57212" type="Character Design">Arima Shinobu</name>
+<name id="57211" type="Original Plan">Shuukan Gendai</name>
+</creators>
+<description>* Inspired by Drop Dead! Stupid Office Ladies, a column in http://anidb.net/cr57211 [Weekly Gendai] magazine.</description>
+<ratings>
+<permanent count="10">2.94</permanent>
+<temporary count="10">4.40</temporary>
+</ratings>
+<picture>239400.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7372</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22275</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3040</identifier>
+<identifier>bzjckf</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tms-e.com/library/old/ova/data/m_OL.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88617</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2545</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="47198" update="2006-03-03">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1990-09-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

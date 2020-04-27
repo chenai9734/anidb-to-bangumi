@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13803" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-06-13</startdate>
+<enddate>2017-06-13</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Bai Dao</title>
+<title xml:lang="en" type="synonym">White Bird</title>
+<title xml:lang="zh" type="official">白鸟</title>
+</titles>
+<ratings>
+<permanent count="6">3.47</permanent>
+<temporary count="6">4.75</temporary>
+</ratings>
+<picture>212883.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38341</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="198635" update="2018-05-01">
+<epno type="1">1</epno>
+<length>14</length>
+<airdate>2017-06-13</airdate>
+<rating votes="2">5.23</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

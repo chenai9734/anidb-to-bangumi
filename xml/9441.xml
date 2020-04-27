@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9441" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2011-03</startdate>
+<enddate>2011-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Interior</title>
+<title xml:lang="en" type="synonym">creator`s world project 3</title>
+<title xml:lang="ja" type="official">INTERIOR</title>
+</titles>
+<url>http://www.tokyoanime.jp/ja/creators_world/new_project/</url>
+<description>The story centers around the unprofitable artist Sam, the unprofitable playwright Bowman, and their friend Greg. The one thing they all have in common is that they are poor. The three decide to enter a contest to earn money — but since they cannot afford to mail their entries, they decide to take the long trip to the competition site to bring their entries in person.
+Source: ANN</description>
+<ratings>
+<permanent count="12">5.38</permanent>
+<temporary count="12">5.33</temporary>
+</ratings>
+<picture>94597.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24051</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tokyoanime.jp/ja/creators_world/new_project/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.tokyoanime.jp/en/creators_world/new_project/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="164759" update="2014-12-17">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14005" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-01-03</startdate>
+<enddate>1990-01-03</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Meoteoldosawa 108 Yogoe</title>
+<title xml:lang="ko" type="official">머털도사와 108 요괴</title>
+</titles>
+<relatedanime>
+<anime id="13997" type="Prequel">Meoteoldosawa Ttomae</anime>
+</relatedanime>
+<description>The third Taoist Mutul movie.</description>
+<ratings>
+<permanent count="2">1.96</permanent>
+<temporary count="2">4.50</temporary>
+</ratings>
+<picture>215784.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18331</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="214280" update="2019-03-25">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1990-01-03</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

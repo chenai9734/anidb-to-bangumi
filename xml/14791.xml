@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14791" restricted="false">
+<type>TV Series</type>
+<episodecount>0</episodecount>
+<startdate>2021-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Hataraku Saibou!!</title>
+<title xml:lang="en" type="synonym">Cells at Work!!</title>
+<title xml:lang="ja" type="official">はたらく細胞!!</title>
+</titles>
+<relatedanime>
+<anime id="13743" type="Prequel">Hataraku Saibou</anime>
+</relatedanime>
+<url>https://hataraku-saibou.com/</url>
+<creators>
+<name id="2435" type="Music">Suehiro Ken`ichirou</name>
+<name id="52965" type="Music">Mayuko</name>
+<name id="6188" type="Chief Animation Direction">Kitao Masaru</name>
+<name id="22298" type="Chief Animation Direction">Tamaki Keiko</name>
+<name id="4163" type="Chief Animation Direction">Yoshida Takahiko</name>
+<name id="7646" type="Direction">Ogura Hirofumi</name>
+<name id="53399" type="Original Work">Shimizu Akane</name>
+<name id="5071" type="Series Composition">Kakihara Yuuko</name>
+<name id="4163" type="Character Design">Yoshida Takahiko</name>
+<name id="2887" type="Animation Work">David Production</name>
+</creators>
+<description>* Based on a manga series written and illustrated by http://anidb.net/cr53399 [Shimizu Akane].</description>
+<picture>245159.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22007</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39586</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://hataraku-saibou.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Cells_at_Work!</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>はたらく細胞</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367672</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>hataraku_saibou</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="93409" type="secondary cast in" update="2018-07-07">
+<rating votes="6">6.80</rating>
+<name>Killer T Saibou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220108.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="93410" type="secondary cast in" update="2018-07-07">
+<rating votes="14">8.78</rating>
+<name>Macrophage</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220109.jpg</picture>
+<seiyuu id="240" picture="17059.jpg">Inoue Kikuko</seiyuu>
+</character>
+<character id="93411" type="main character in" update="2018-07-07">
+<rating votes="10">7.66</rating>
+<name>Hakkekkyuu (Kouchuukyuu)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220107.jpg</picture>
+<seiyuu id="612" picture="79531.jpg">Maeno Tomoaki</seiyuu>
+</character>
+<character id="93412" type="secondary cast in" update="2018-07-07">
+<rating votes="47">9.32</rating>
+<name>Kesshouban</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220110.jpg</picture>
+<seiyuu id="39889" picture="241534.jpg">Naganawa Maria</seiyuu>
+</character>
+<character id="93413" type="main character in" update="2018-07-07">
+<rating votes="19">7.01</rating>
+<name>Sekkekkyuu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220106.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+</characters>
+</anime>

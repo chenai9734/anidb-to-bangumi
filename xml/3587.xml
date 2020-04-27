@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3587" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>1975-01-07</startdate>
+<enddate>1975-03-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Nippon Mukashibanashi</title>
+<title xml:lang="en" type="synonym">Japanese Folklore Tales</title>
+<title xml:lang="ja" type="official">まんが日本昔ばなし</title>
+<title xml:lang="de" type="official">Es war einmal</title>
+<title xml:lang="pl" type="official">Bajki japońskie</title>
+<title xml:lang="el" type="official">Γιαπωνέζικα Παραμύθια</title>
+</titles>
+<relatedanime>
+<anime id="3588" type="Sequel">Manga Nippon Mukashibanashi (1976)</anime>
+</relatedanime>
+<similaranime>
+<anime id="9016" approval="1" total="1">Furusato Saisei Nippon no Mukashibanashi</anime>
+</similaranime>
+<creators>
+<name id="857" type="Chief Direction">Maeda Tsuneo</name>
+<name id="8135" type="Chief Direction">Kobayashi Mitsuo</name>
+<name id="6070" type="Chief Animation Direction">Ueguchi Teruhito</name>
+<name id="6191" type="Music">Kitahara Jun</name>
+</creators>
+<description>This series is an anthology of old Japanese tales.</description>
+<ratings>
+<permanent count="16">2.98</permanent>
+<temporary count="16">4.93</temporary>
+</ratings>
+<picture>155690.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2175</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10282</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まんが日本昔ばなし</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235557</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1311</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>171</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="64075" update="2009-04-09">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1975-01-07</airdate>
+<title xml:lang="ja">こぶとり爺さん / 笠地蔵</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="77021" update="2009-04-09">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1975-03-25</airdate>
+<title xml:lang="ja">浦島太郎 / わらしべ長者</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="77022" update="2009-04-09">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1975-03-18</airdate>
+<title xml:lang="ja">花咲か爺さん / 塩ふきうす</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="77023" update="2009-04-09">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1975-03-11</airdate>
+<title xml:lang="ja">雀とキツツキと山鳩 / かぐや姫</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="77024" update="2009-04-09">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1975-03-04</airdate>
+<title xml:lang="ja">鶴の恩返し / たにし長者</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="77025" update="2009-04-09">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1975-02-25</airdate>
+<title xml:lang="ja">カチカチ山 / 天福地福</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="77026" update="2009-04-09">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1975-02-18</airdate>
+<title xml:lang="ja">夢を買う / 三年寝太郎</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="77027" update="2009-04-09">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1975-02-11</airdate>
+<title xml:lang="ja">しっぽの釣り / 雪女</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="77028" update="2009-04-09">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1975-02-04</airdate>
+<title xml:lang="ja">桃太郎 / 豆つぶころころ</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="77029" update="2009-04-09">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1975-01-28</airdate>
+<title xml:lang="ja">文福茶釜 / 火男</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="77030" update="2009-04-09">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1975-01-21</airdate>
+<title xml:lang="ja">さるかに合戦 / たのきゅう</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="77031" update="2009-04-09">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1975-01-14</airdate>
+<title xml:lang="ja">八つ化け頭巾 / 舌切り雀</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+</episodes>
+</anime>

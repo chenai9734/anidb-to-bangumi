@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8751" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2011-05-20</startdate>
+<enddate>2011-05-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Precure kara Minna e no Ouen Movie</title>
+<title xml:lang="ja" type="official">プリキュアからみんなへの応援ムービー</title>
+</titles>
+<relatedanime>
+<anime id="8173" type="Other">Suite Precure</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/tv/precure/message3.html</url>
+<description>Support video for the victims and sufferers of the 2011 Japanese earthquake and tsunami featuring all the Precure girls.</description>
+<ratings>
+<permanent count="68">2.53</permanent>
+<temporary count="68">4.26</temporary>
+</ratings>
+<picture>74712.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10736</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/tv/suite_precure/message3.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="5761" type="main character in" update="2009-04-08">
+<rating votes="28">6.45</rating>
+<name>Cure Peach</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Cure Peach is Momozono Love`s alter ego when transforming.
+Attack: Pretty Cure! Love Sunshine!
+PowerUp: Pretty Cure! Love Shinshine Fresh!</description>
+<picture>22833.jpg</picture>
+</character>
+<character id="5762" type="main character in" update="2009-04-08">
+<rating votes="27">6.33</rating>
+<name>Cure Berry</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Cure Berry is Aono Miki`s alter ego when transforming.
+Attack: Pretty Cure! Espoir Shower!</description>
+<picture>22834.jpg</picture>
+</character>
+<character id="5763" type="main character in" update="2009-04-08">
+<rating votes="27">8.78</rating>
+<name>Cure Pine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Cure Pine is Yamabuki Inori`s alter ego when transforming.
+Attack: Pretty Cure! Healing Prayer!</description>
+<picture>22835.jpg</picture>
+</character>
+<character id="6161" type="main character in" update="2010-02-01">
+<rating votes="57">7.23</rating>
+<name>Cure Black</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2143.gif</picture>
+</character>
+<character id="6162" type="main character in" update="2010-02-01">
+<rating votes="65">6.10</rating>
+<name>Cure White</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2144.gif</picture>
+</character>
+<character id="9362" type="main character in" update="2012-02-10">
+<rating votes="58">7.87</rating>
+<name>Cure Dream</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81333.jpg</picture>
+</character>
+<character id="9364" type="main character in" update="2012-02-09">
+<rating votes="10">2.14</rating>
+<name>Cure Rouge</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81323.jpg</picture>
+</character>
+<character id="9366" type="main character in" update="2012-02-09">
+<rating votes="15">8.36</rating>
+<name>Cure Lemonade</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81321.jpg</picture>
+</character>
+<character id="9368" type="main character in" update="2012-02-09">
+<rating votes="17">7.03</rating>
+<name>Cure Mint</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Another third-year, Komachi is kind and shy, and likes to read books and write. However, once she is angered enough, she will snap and release her temper. Along with her best friend Karen, Komachi is also a popular senior at her school. She is a volunteer at the school library, along with Karen/Cure Aqua, and often spends her time there writing stories. Her dream is to become a writer, and she exhibits particular talent in this: Nuts praised her first completed story (upon the 7th revision), and he does not give praise lightly. She has romantic feelings for Nuts, which she expresses in the form of her second novel. Her parents own a traditional Japanese sweetshop.
+The green-clad Cure Mint is the counterpart of Cure Aqua. Fans noted that her appearance is similar to Lettuce Midorikawa of Tokyo Mew Mew. She introduces herself as "Tranquility of the Green Earth, Cure Mint!"</description>
+<picture>81328.jpg</picture>
+</character>
+<character id="9381" type="main character in" update="2012-02-10">
+<rating votes="14">7.23</rating>
+<name>Cure Aqua</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81331.jpg</picture>
+</character>
+<character id="13813" type="main character in" update="2009-12-28">
+<rating votes="62">5.79</rating>
+<name>Cure Blossom</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>40725.jpg</picture>
+</character>
+<character id="13814" type="main character in" update="2009-12-28">
+<rating votes="80">8.00</rating>
+<name>Cure Marine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>40724.jpg</picture>
+</character>
+<character id="14669" type="main character in" update="2010-02-03">
+<rating votes="12">7.31</rating>
+<name>Cure Bloom</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Like Nagisa, Saki is a cheerful athletic girl. She is a member of Yuunagi Middle School`s girls` softball team, and a very good player and like Nagisa she enjoys sweets a lot. Her family runs a bakery. She also has a sister named Minori, who she shares a room with. Saki`s whole name can translate into "A flower that blooms toward the sun" or a sunflower, and a sunflower is also Cure Bloom`s symbol.
+As Cure Bloom, Saki introduces herself as, "The Shining Gold Flower, Cure Bloom!"</description>
+<picture>2979.gif</picture>
+</character>
+<character id="14670" type="main character in" update="2010-02-03">
+<rating votes="11">7.42</rating>
+<name>Cure Egret</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mai is a reserved academic girl however, unlike Honoka, she seems to prefer arts to sciences. Her father is an astronomer, her mother is an archeologist and her brother, Kazuya, wishes to follow in his footsteps. She and her family live in an observatory. Her whole name can translate into "The beautiful flying dance".
+As Cure Egret, Mai introduces herself as "The Radiant Silver Wing, Cure Egret!"</description>
+<picture>2980.gif</picture>
+</character>
+<character id="14706" type="main character in" update="2018-07-01">
+<rating votes="36">5.47</rating>
+<name>Shiny Luminous</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kujou Hikari has no fighting strength, but she can enhance the power of Cure Black and Cure White when she transforms into Shiny Luminous. She is the "Life of the Queen", having lost all of her abilities and memories from being Queen and is living as a passive human girl. She makes friends with Nagisa and Honoka.</description>
+<picture>2142.gif</picture>
+</character>
+<character id="14742" type="main character in" update="2010-02-04">
+<rating votes="13">9.01</rating>
+<name>Milky Rose</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>She is a cooperator of Pretty Cure that appears in Yes! PreCure 5! GoGo! Her civilian name backwards has the same pronunciation with Miruku no Mimi meaning "Milk`s ears." She has long, violet, curly hair and fuchsia eyes. When transformed, she wears violet with blue flower decorations. A calm, smart character, her cool persona acts as a mask to her bizarre personality.
+She introduces herself as "The Blue Rose is The Secret Mark, Milky Rose!" (Aoi Bara ha Himitsu no Shirushi, Milky Rose!)
+She is actually Milk in human form, who got her powers from a blue colored seed left behind after the events of episode 7. Milk/Kurumi can`t stay in this form for too long, as it drains her energy and reverts her back to mascot form.</description>
+<picture>42452.jpg</picture>
+</character>
+<character id="14971" type="main character in" update="2010-09-20">
+<rating votes="39">7.00</rating>
+<name>Cure Moonlight</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>She appears in the dreams of Tsubomi and Erika. She attacks with her Moon Tact.</description>
+<picture>42946.jpg</picture>
+</character>
+<character id="15092" type="main character in" update="2010-02-21">
+<rating votes="29">8.97</rating>
+<name>Cure Passion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>After being saved by Akarun and Chiffon, Eas is reborn as Cure Passion.</description>
+<picture>43214.jpg</picture>
+</character>
+<character id="20292" type="main character in" update="2010-12-06">
+<rating votes="28">8.74</rating>
+<name>Cure Sunshine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Myoudouin Itsuki becomes Cure Sunshine to rescue Tsubomi and Erika from danger with Potpourri while saving her brother`s Heart Flower. As Cure Sunshine, her theme color is Gold and her flower symbol is the Sunflower. Her powers are related to the sun and can use auxiliary attacks in addition to her finishing attack. Her catchphrase is "The darkness in your heart, I`ll illuminate it with my light!"</description>
+<picture>60313.jpg</picture>
+</character>
+<character id="26063" type="main character in" update="2010-12-29">
+<rating votes="32">6.40</rating>
+<name>Cure Melody</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>61600.jpg</picture>
+</character>
+<character id="26064" type="main character in" update="2010-12-29">
+<rating votes="13">7.42</rating>
+<name>Cure Rhythm</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>61601.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="134344" update="2014-02-19">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2011-05-20</airdate>
+<rating votes="1">1.74</rating>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

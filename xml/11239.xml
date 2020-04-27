@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11239" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-05-04</startdate>
+<enddate>2015-05-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Home-Pato the Movie</title>
+<title xml:lang="ja" type="official">HOMÉ-PATO THE MOVIE</title>
+</titles>
+<url>https://www.youtube.com/watch?v=cut0ssH3Rng</url>
+<creators>
+<name id="44124" type="Animation Work">Kamikaze Douga</name>
+<name id="25810" type="Direction">Mizusaki Junpei</name>
+</creators>
+<description>The scene is set in future Tokyo. What if there was a police car that praises drivers? "Instead of punishing bad driving, let`s reward good driving" is the motto. The project is aimed to decrease car accidents on the metropolitan expressway. It is an animation that illustrates the dream of a Tokyo Smart Driver.</description>
+<ratings>
+<permanent count="38">4.10</permanent>
+<temporary count="38">5.05</temporary>
+</ratings>
+<picture>173360.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30766</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>352977</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=cut0ssH3Rng</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="169753" update="2015-07-11">
+<epno type="1">1</epno>
+<length>2</length>
+<rating votes="1">1.28</rating>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

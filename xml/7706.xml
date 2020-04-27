@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7706" restricted="false">
+<type>Movie</type>
+<episodecount>4</episodecount>
+<startdate>1988-12-24</startdate>
+<enddate>1989-06-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Cynical Hysterie Hour</title>
+<title xml:lang="ja" type="synonym">シニカル・ヒステリー・アワー</title>
+<title xml:lang="ja" type="official">CYNICAL HYSTERIE HOUR</title>
+</titles>
+<creators>
+<name id="857" type="Chief Animation Direction">Maeda Tsuneo</name>
+<name id="20167" type="Original Work">Kubo Kiriko</name>
+<name id="20167" type="Direction">Kubo Kiriko</name>
+<name id="20168" type="Music">John Zorn</name>
+</creators>
+<ratings>
+<permanent count="14">4.62</permanent>
+<temporary count="14">5.14</temporary>
+</ratings>
+<picture>51789.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9085</identifier>
+</externalentity>
+<externalentity>
+<identifier>9082</identifier>
+</externalentity>
+<externalentity>
+<identifier>9083</identifier>
+</externalentity>
+<externalentity>
+<identifier>9084</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6759</identifier>
+</externalentity>
+<externalentity>
+<identifier>6760</identifier>
+</externalentity>
+<externalentity>
+<identifier>6761</identifier>
+</externalentity>
+<externalentity>
+<identifier>6762</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>シニカル・ヒステリー・アワー</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150801</identifier>
+</externalentity>
+<externalentity>
+<identifier>150694</identifier>
+</externalentity>
+<externalentity>
+<identifier>150738</identifier>
+</externalentity>
+<externalentity>
+<identifier>150653</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2291</identifier>
+</externalentity>
+<externalentity>
+<identifier>2292</identifier>
+</externalentity>
+<externalentity>
+<identifier>2417</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120176" update="2010-07-22">
+<epno type="1">2</epno>
+<length>10</length>
+<airdate>1989-02-04</airdate>
+<title xml:lang="ja">Ch Ch Ch Change</title>
+<title xml:lang="en">Volume 2</title>
+<title xml:lang="x-jat">Ch Ch Ch Change</title>
+</episode>
+<episode id="120177" update="2010-07-22">
+<epno type="1">3</epno>
+<length>10</length>
+<airdate>1989-04-08</airdate>
+<title xml:lang="ja">Through the night</title>
+<title xml:lang="en">Volume 3</title>
+<title xml:lang="x-jat">Through the Night</title>
+</episode>
+<episode id="120178" update="2010-07-22">
+<epno type="1">4</epno>
+<length>10</length>
+<airdate>1989-06-24</airdate>
+<title xml:lang="ja">Bubblin` Singin`</title>
+<title xml:lang="en">Volume 4</title>
+<title xml:lang="x-jat">Bubblin` Singin`</title>
+</episode>
+<episode id="120179" update="2010-07-22">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>1988-12-24</airdate>
+<title xml:lang="ja">Trip Coaster</title>
+<title xml:lang="en">Volume 1</title>
+<title xml:lang="x-jat">Trip Coaster</title>
+</episode>
+</episodes>
+</anime>

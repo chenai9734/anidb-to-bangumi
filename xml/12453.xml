@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12453" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2016-09-30</startdate>
+<enddate>2016-11-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ima no Watashi ni Dekiru Koto...</title>
+<title xml:lang="ru" type="synonym">То, что я могу сделать...</title>
+<title xml:lang="ja" type="official">イマノワタシニデキルコト...</title>
+</titles>
+<url>http://enefarm-movie.gas.or.jp/</url>
+<creators>
+<name id="9212" type="Animation Work">TYO Animations</name>
+<name id="15261" type="Character Design">Oota Rika</name>
+<name id="48410" type="Work">Ene-Farm Partners</name>
+</creators>
+<description>The story takes place in 2102 where future has advanced beyond what was imagined in the 21st century and in 2016. 17-year-old http://anidb.net/ch85276 [Nami] is a high school girl living everyday happily without much thought. A recent increase in guerrilla heavy rains has caused to her start worrying a little. She encounters 10-year-old http://anidb.net/ch85275 [You], a mysterious girl from the near future.
+Source: ANN</description>
+<ratings>
+<permanent count="23">3.60</permanent>
+<temporary count="23">4.91</temporary>
+</ratings>
+<picture>192173.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34179</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://enefarm-movie.gas.or.jp/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358465</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="85275" type="main character in" update="2016-10-02">
+<name>You</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192175.jpg</picture>
+<seiyuu id="42932" picture="172064.jpg">Tsukui Ayami</seiyuu>
+</character>
+<character id="85276" type="main character in" update="2016-10-02">
+<name>Nami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>192174.jpg</picture>
+<seiyuu id="5878" picture="45926.jpg">Harada Hitomi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="180704" update="2016-11-20">
+<epno type="1">2</epno>
+<length>2</length>
+<airdate>2016-11-18</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="180705" update="2016-10-02">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2016-09-30</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

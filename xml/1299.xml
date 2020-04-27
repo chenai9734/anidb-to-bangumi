@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1299" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>1996-10-05</startdate>
+<enddate>1997-09-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">YAT Anshin! Uchuu Ryokou</title>
+<title xml:lang="en" type="synonym">Yamamoto Anshin Travel</title>
+<title xml:lang="es" type="synonym">YAT-1</title>
+<title xml:lang="x-jat" type="short">YAT</title>
+<title xml:lang="ja" type="official">YAT 安心!宇宙旅行</title>
+<title xml:lang="en" type="official">YAT Anshin! Luxury Space Tours</title>
+<title xml:lang="pt" type="official">YAT</title>
+<title xml:lang="he" type="official">יאמאמוטו נסיעות</title>
+</titles>
+<relatedanime>
+<anime id="4218" type="Sequel">YAT Anshin! Uchuu Ryokou 2</anime>
+</relatedanime>
+<creators>
+<name id="5732" type="Direction">Nanba Hitoshi</name>
+<name id="774" type="Animation Work">Group Tac</name>
+<name id="6586" type="Character Design">Kudou Yuka</name>
+<name id="28310" type="Series Composition">Hayashi Tamio</name>
+<name id="1946" type="Music">Kawai Kenji</name>
+<name id="33435" type="Original Plan">Nishikawa Shinji</name>
+</creators>
+<description>YAT (Yamamoto Anshin Travel) is a space touring company. On one of their tours, they get warped into an unknown part of space, ruled by beings called Gannon. Will the crew be able to defeat the Gannon and find a way home?</description>
+<ratings>
+<permanent count="29">4.17</permanent>
+<temporary count="29">6.31</temporary>
+</ratings>
+<picture>93968.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2039</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1891</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2236</identifier>
+<identifier>chdcam</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>YAT_Anshin!_Uchū_Ryokō</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>YAT安心!宇宙旅行</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3253</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88973</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="37961" update="2006-07-29">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>1997-06-07</airdate>
+<title xml:lang="ja">凶悪宇宙人をやっつけろ!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Kyouaku Uchuujin o Yattsukero!</title>
+</episode>
+<episode id="37962" update="2006-07-29">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>1997-04-12</airdate>
+<title xml:lang="ja">失恋ツアーで絶体絶命!?</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Shitsuren Tour de Zettaizetsumei!?</title>
+</episode>
+<episode id="37963" update="2006-07-29">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1996-10-19</airdate>
+<title xml:lang="ja">氷の星で大ピンチ!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Koori no Hoshi de Dai Pinch!</title>
+</episode>
+<episode id="37964" update="2006-07-29">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>1997-09-13</airdate>
+<title xml:lang="ja">暴走マザーをくい止めろ!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Bousou Mother o Kuitomero!</title>
+</episode>
+<episode id="37965" update="2006-07-29">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1996-11-23</airdate>
+<title xml:lang="ja">うまさ爆発!グルメツアー</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Umasa Bakuhatsu! Gurume Tour</title>
+</episode>
+<episode id="37966" update="2006-07-29">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>1997-06-14</airdate>
+<title xml:lang="ja">次元トンネルSOS!</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Jigen Tunnel SOS!</title>
+</episode>
+<episode id="37967" update="2006-07-29">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>1997-07-26</airdate>
+<title xml:lang="ja">大脱出! 燃える宇宙船</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Dai Dasshutsu! Moeru Uchuusen</title>
+</episode>
+<episode id="37968" update="2006-07-29">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>1997-05-17</airdate>
+<title xml:lang="ja">カナビーの初恋!</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Kanabii no Hatsukoi!</title>
+</episode>
+<episode id="37969" update="2006-07-29">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>1997-06-28</airdate>
+<title xml:lang="ja">ダニエルのラブラブ大作戦!?</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Danielle no Lovelove Dai Sakusen!?</title>
+</episode>
+<episode id="37970" update="2006-07-29">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1996-10-12</airdate>
+<title xml:lang="ja">宇宙の穴場!温泉ツアー</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Uchuu no Anaba! Onsen Tour</title>
+</episode>
+<episode id="37971" update="2006-07-29">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1997-03-08</airdate>
+<title xml:lang="ja">8人のやさしい客たち!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">8 Nin no Yasashii Kyaku-tachi!</title>
+</episode>
+<episode id="37972" update="2006-07-29">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1996-10-26</airdate>
+<title xml:lang="ja">桂さんの大予言!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Katsura-san no Dai Yogen!</title>
+</episode>
+<episode id="37973" update="2006-07-29">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1997-03-29</airdate>
+<title xml:lang="ja">まぼろしのオヤジ!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Maboroshi no Oyaji!</title>
+</episode>
+<episode id="37974" update="2006-07-29">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1997-02-22</airdate>
+<title xml:lang="ja">キャプテン・キッドの秘宝!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Captain Kid no Hihou!</title>
+</episode>
+<episode id="37975" update="2006-07-29">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>1997-07-19</airdate>
+<title xml:lang="ja">常連客よ さようなら!</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Jouren Kyaku yo: Sayounara!</title>
+</episode>
+<episode id="37976" update="2006-07-29">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>1997-09-20</airdate>
+<title xml:lang="ja">捨て身のマザー停止作戦!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Sutemi no Mother Teishi Sakusen!</title>
+</episode>
+<episode id="37977" update="2006-07-29">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>1997-04-26</airdate>
+<title xml:lang="ja">ゴローとコゴロー!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Gorou to Kogorou!</title>
+</episode>
+<episode id="37978" update="2006-07-29">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>1997-09-27</airdate>
+<title xml:lang="ja">しばしのおわかれ!</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Shibashi no Owakare!</title>
+</episode>
+<episode id="37979" update="2006-07-29">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1996-11-02</airdate>
+<title xml:lang="ja">宇宙一のお嬢様!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Uchuu Ichi no Ojou-sama!</title>
+</episode>
+<episode id="37980" update="2006-07-29">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>1997-04-19</airdate>
+<title xml:lang="ja">カネアの家出!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Kanea no Iede!</title>
+</episode>
+<episode id="37981" update="2006-07-29">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>1997-05-24</airdate>
+<title xml:lang="ja">さらわれたカネア!?</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Sarawareta Kanea!?</title>
+</episode>
+<episode id="37982" update="2006-07-29">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>1997-07-12</airdate>
+<title xml:lang="ja">海賊をやめたキャプテン・ロック!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Kaizoku o Yameta Captain Rock!</title>
+</episode>
+<episode id="37983" update="2006-07-29">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>1997-08-23</airdate>
+<title xml:lang="ja">開通! マザー次元トンネル</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Kaitsuu! Mother Jigen Tunnel</title>
+</episode>
+<episode id="37984" update="2006-07-29">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>1997-05-31</airdate>
+<title xml:lang="ja">ウッチーのお見合い!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Ucchi no Omiai!</title>
+</episode>
+<episode id="37985" update="2006-07-29">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>1997-08-16</airdate>
+<title xml:lang="ja">昔, むかし, 宇宙で...!</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Mukashi, Mukashi, Uchuu de...!</title>
+</episode>
+<episode id="37986" update="2006-07-29">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1996-11-16</airdate>
+<title xml:lang="ja">サバイバル!野生のカネア</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Survival! Yasei no Kanea</title>
+</episode>
+<episode id="37987" update="2006-07-29">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1997-02-08</airdate>
+<title xml:lang="ja">YATの休日!</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">YAT no Kyuujitsu!</title>
+</episode>
+<episode id="37988" update="2006-07-29">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1997-02-15</airdate>
+<title xml:lang="ja">再会! オヤジあらわる?</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Saikai! Oyaji Arawaru?</title>
+</episode>
+<episode id="37989" update="2006-07-29">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>1997-09-06</airdate>
+<title xml:lang="ja">15年目の真実!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">15 Nen Me no Shinjitsu!</title>
+</episode>
+<episode id="37990" update="2006-07-29">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1996-10-05</airdate>
+<title xml:lang="ja">YATにおまかせ!</title>
+<title xml:lang="en">Trust In YAT!</title>
+<title xml:lang="x-jat">YAT ni Omakase!</title>
+</episode>
+<episode id="37991" update="2006-07-29">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1997-03-15</airdate>
+<title xml:lang="ja">大暴走! クイーンマリーゴールド号</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Dai Bousou! Queen Marigold Gou</title>
+</episode>
+<episode id="37992" update="2006-07-29">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1996-12-28</airdate>
+<title xml:lang="ja">ビックリ! YATを知る男?</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Bikkuri! YAT o Shiru Otoko?</title>
+</episode>
+<episode id="37993" update="2006-07-29">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1997-03-01</airdate>
+<title xml:lang="ja">大ショック! 社長つかまる</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Dai Shock! Shachou Tsukamaru</title>
+</episode>
+<episode id="37994" update="2006-07-29">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>1997-07-05</airdate>
+<title xml:lang="ja">桂さんを取り返せ!</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Katsura-san o Torikaese!</title>
+</episode>
+<episode id="37995" update="2006-07-29">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1996-11-30</airdate>
+<title xml:lang="ja">いかんともしがたい二人!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Ikantoshi Gatai Futari!</title>
+</episode>
+<episode id="37996" update="2006-07-29">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1997-03-22</airdate>
+<title xml:lang="ja">モーレツ! かあちゃん珍道中</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Mouretsu! Kaa-chan Chindouchuu</title>
+</episode>
+<episode id="37997" update="2006-07-29">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1997-01-25</airdate>
+<title xml:lang="ja">ミイラれたヤマモト社長!?</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Miirareta Yamamoto Shachou!?</title>
+</episode>
+<episode id="37998" update="2006-07-29">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>1997-05-03</airdate>
+<title xml:lang="ja">麗しのカオルちゃん!?</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Uruwashi no Kaoru-chan!?</title>
+</episode>
+<episode id="37999" update="2006-07-29">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>1997-08-02</airdate>
+<title xml:lang="ja">謎の古代遺跡!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Nazo no Kodai Iseki!</title>
+</episode>
+<episode id="38000" update="2006-07-29">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1997-04-05</airdate>
+<title xml:lang="ja">われて砕けて謎を解け!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Warete Kudakete Nazo o Toke!</title>
+</episode>
+<episode id="38001" update="2006-07-29">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1997-01-11</airdate>
+<title xml:lang="ja">超特急! プリンセスを運べ</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Chou Tokkyuu! Princess o Hakobe</title>
+</episode>
+<episode id="38002" update="2006-07-29">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1997-01-18</airdate>
+<title xml:lang="ja">ロック救出大作戦!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Rock Kyuushutsu Dai Sakusen!</title>
+</episode>
+<episode id="38003" update="2006-07-29">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>1997-05-10</airdate>
+<title xml:lang="ja">おしゃべりブッキー!</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Oshaberi Bukki!</title>
+</episode>
+<episode id="38004" update="2006-07-29">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1996-12-21</airdate>
+<title xml:lang="ja">恐怖の惑星ダイキョクテン!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kyoufu no Wakusei Daikyokuten!</title>
+</episode>
+<episode id="38005" update="2006-07-29">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>1997-08-30</airdate>
+<title xml:lang="ja">時を越えた出会い!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Ji o Koeta Deai!</title>
+</episode>
+<episode id="38006" update="2006-07-29">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1996-12-14</airdate>
+<title xml:lang="ja">闘魂! 宇宙王者決定戦</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Toukon! Uchuu Ouja Ketteisen</title>
+</episode>
+<episode id="38007" update="2006-07-29">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1996-12-07</airdate>
+<title xml:lang="ja">宇宙海賊ロック参上!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Uchuu Kaizoku Rock Sanjou!</title>
+</episode>
+<episode id="38008" update="2006-07-29">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1996-11-09</airdate>
+<title xml:lang="ja">コスモロードで大出世!?</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Cosmo Road de Dai Shusse!?</title>
+</episode>
+<episode id="38009" update="2006-07-29">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>1997-06-21</airdate>
+<title xml:lang="ja">アン・マリーゴールドの野望!</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Ann Marigold no Yabou!</title>
+</episode>
+<episode id="38010" update="2006-07-29">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1997-02-01</airdate>
+<title xml:lang="ja">予備校生 涙の特訓ツアー!</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Yobikousei: Namida no Tokkun Tour!</title>
+</episode>
+<episode id="137846" update="2012-03-14">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>1997-04-05</airdate>
+<title xml:lang="en">MOON LIGHT</title>
+<title xml:lang="x-jat">MOON LIGHT</title>
+</episode>
+<episode id="137847" update="2012-03-14">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>1996-10-05</airdate>
+<title xml:lang="en">Episode C2</title>
+<title xml:lang="x-jat">Dame yo! Dame yo! Dame yo!!</title>
+</episode>
+<episode id="137848" update="2012-03-14">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>1996-10-05</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

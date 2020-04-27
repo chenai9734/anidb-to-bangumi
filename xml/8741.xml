@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8741" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1990</startdate>
+<enddate>1990</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tomika Mirai Kinkyuu Tai Earth Commander</title>
+<title xml:lang="ja" type="official">トミカ未来緊急隊アースコマンダー</title>
+</titles>
+<description>It`s a 10 minute long (plus 5 minutes of toy commercials) promotional OVA based on a line of http://anidb.net/cr1060 [Tomy] transforming vehicle toys.</description>
+<ratings>
+<permanent count="1">4.39</permanent>
+<temporary count="1">4.00</temporary>
+</ratings>
+<picture>221421.jpg</picture>
+<resources>
+<resource type="7">
+<externalentity>
+<identifier>トミカ未来緊急隊アースコマンダー</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2765</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=J0QKvZ94PX0</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="134368" update="2011-10-29">
+<epno type="1">1</epno>
+<length>10</length>
+<rating votes="1">4.36</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

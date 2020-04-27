@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11769" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Fuuun Ishin Dai Shougun Reboot</title>
+<title xml:lang="ja" type="synonym">風雲維新ダイ☆ショーグンReboot</title>
+<title xml:lang="ja" type="official">風雲維新ダイショーグンReboot</title>
+</titles>
+<relatedanime>
+<anime id="10365" type="Alternative Setting">Fuuun Ishin Dai Shougun</anime>
+</relatedanime>
+<description>Note: Dai-Shogun Reboot Kickstarter campaign failed to reach goal (raised US$44,988 of its US$200,000 goal). Project is temporarily frozen.</description>
+<picture>179302.jpg</picture>
+<resources>
+<resource type="23">
+<externalentity>
+<identifier>DaishogunReboot</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="6004" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>development hell</name>
+<description>Due to unforeseen circumstances, the production or release of this anime has been pushed back, stalled, or cancelled one or more times from when it was first announced.
+While some of them have eventually been completed, others might have only had a trailer released or have been changed into another format (e.g. a TV series turned into an OVA).
+Common reasons for a work to become stuck in development hell include creative differences, legal issues, financial problems, scheduling conflicts or the death of an involved creator.</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+</anime>

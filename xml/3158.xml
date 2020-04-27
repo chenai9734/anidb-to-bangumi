@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3158" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1981-01-03</startdate>
+<enddate>1981-01-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kouya no Yobigoe: Hoero Buck</title>
+<title xml:lang="ja" type="synonym">荒野の叫び声 吠えろバック</title>
+<title xml:lang="x-jat" type="synonym">Arano no Sakebi Koe: Howl, Buck</title>
+<title xml:lang="ja" type="official">荒野の呼び声 吠えろバック</title>
+<title xml:lang="en" type="official">Call of the Wild: Howl, Buck</title>
+<title xml:lang="fr" type="official">L`appel de la forêt</title>
+<title xml:lang="sv" type="official">Skriet från vildmarken</title>
+<title xml:lang="fi" type="official">Erämaan kutsu</title>
+</titles>
+<relatedanime>
+<anime id="2360" type="Same Setting">Shiroi Kiba: White Fang Monogatari</anime>
+<anime id="3662" type="Other">Anime Yasei no Sakebi</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="4404" type="Direction">Morishita Kouzou</name>
+<name id="10254" type="Original Work">Jack London</name>
+</creators>
+<description>Buck, a half German Shepard half Saint Bernard who`s life is pretty peaceful and happy living with the Millers` in California. However, one day he is tricked and sold off. He ends up in the snowy North where he has become a sled dog during the Gold Rush. His story takes many twists and turns and he has to fight for his own survival.</description>
+<ratings>
+<permanent count="36">5.19</permanent>
+<temporary count="36">5.66</temporary>
+</ratings>
+<picture>5111.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5078</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4074</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://corp.toei-anim.co.jp/english/film/the_call_of_the_wild.php</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235384</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2481</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>1981/back</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="47181" update="2007-06-25">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1981-01-03</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

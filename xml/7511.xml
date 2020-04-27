@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7511" restricted="false">
+<type>TV Series</type>
+<episodecount>773</episodecount>
+<startdate>1987-04-04</startdate>
+<enddate>1994-09-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kotowaza House</title>
+<title xml:lang="ja" type="official">ことわざハウス</title>
+</titles>
+<url>http://eiken-anime.jp/works/detail?work_id=29</url>
+<creators>
+<name id="775" type="Original Plan">Eiken</name>
+</creators>
+<description>* A public service proverb-of-the-week anime.
+Peter the salary man lives a very unhealthy lifestyle, starving then bingeing until he feels seek, or slobbing around the house until badgered into taking up exercise, during which he invariably pulls a muscle.
+Source: The Anime Encyclopedia</description>
+<ratings>
+<permanent count="1">4.64</permanent>
+<temporary count="1">4.00</temporary>
+</ratings>
+<picture>10560.jpeg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11508</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20117</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://eiken-anime.jp/works/detail?work_id=29</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ことわざハウス</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>500</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>2247</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="118105" update="2010-04-30">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>1987-04-04</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="148740" update="2013-04-01">
+<epno type="1">773</epno>
+<length>5</length>
+<airdate>1994-09-28</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+</episodes>
+</anime>

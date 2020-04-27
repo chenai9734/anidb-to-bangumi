@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10501" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2000</startdate>
+<enddate>2000</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Suiren no Hito</title>
+<title xml:lang="ja" type="official">村田智泰</title>
+</titles>
+<description>An elderly man walks along his house and sees a turtle munching on a turnip. He does not disturb the creature but lets it eat in peace. Later that night, he has a dream of his late wife...</description>
+<ratings>
+<permanent count="15">2.89</permanent>
+<temporary count="15">4.33</temporary>
+</ratings>
+<picture>151120.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7683</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="159435" update="2014-04-23">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

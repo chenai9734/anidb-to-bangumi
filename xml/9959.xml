@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9959" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1995-11-11</startdate>
+<enddate>1995-11-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zukkoke Sanningumi: Kusunoki Yashiki no Guruguru-sama</title>
+<title xml:lang="ja" type="official">ズッコケ三人組 楠屋敷のグルグル様</title>
+</titles>
+<relatedanime>
+<anime id="1700" type="Other">Sore Ike! Zukkoke Sanningumi</anime>
+<anime id="9946" type="Other">Zukkoke Sanningumi: Zukkoke Jikuu Bouken</anime>
+</relatedanime>
+<creators>
+<name id="10812" type="Original Work">Maekawa Kazuo</name>
+<name id="10813" type="Original Work">Nasu Masamoto</name>
+<name id="3054" type="Series Composition">Suzuki Iku</name>
+<name id="660" type="Series Composition">Takahashi Ryousuke</name>
+<name id="3054" type="Direction">Suzuki Iku</name>
+<name id="5271" type="Chief Animation Direction">Takahashi Shin`ya</name>
+</creators>
+<ratings>
+<permanent count="2">2.49</permanent>
+<temporary count="2">2.50</temporary>
+</ratings>
+<picture>139384.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7154</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36559</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ズッコケ三人組</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235425</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3573</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="151522" update="2013-07-01">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>1995-11-11</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

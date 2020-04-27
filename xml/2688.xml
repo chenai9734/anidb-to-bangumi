@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2688" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2004-10-02</startdate>
+<enddate>2004-12-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Akuei to Gacchinpo</title>
+<title xml:lang="ja" type="official">アークエとガッチンポー</title>
+<title xml:lang="hu" type="official">Akuei és Gacchinpo</title>
+<title xml:lang="ro" type="official">Akuei şi Gacchinpo</title>
+</titles>
+<relatedanime>
+<anime id="3426" type="Sequel">Akuei to Gacchinpo - Tenkomori</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/a-kuei/</url>
+<creators>
+<name id="2822" type="Music">Tada Akifumi</name>
+<name id="4243" type="Story Composition">Urasawa Yoshio</name>
+<name id="27881" type="Original Work">Spring House Entertainment</name>
+<name id="23494" type="Direction">Makiya Tsutomu</name>
+</creators>
+<ratings>
+<permanent count="12">1.43</permanent>
+<temporary count="14">3.50</temporary>
+</ratings>
+<picture>5233.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23201</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>29836</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1631</identifier>
+<identifier>bdcasj</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/a-kuei/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>A-kuei_(webtoon)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アークエとガッチンポー</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>531</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>321264</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7194</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2658" parentid="2853" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>toilet humour</name>
+<description>Everything leads back to poo.</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2880" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-01">
+<name>Christmas</name>
+<description>Christmas, also referred to as Christmas Day, is an annual holiday celebrated on December 25 that commemorates the birth of Jesus of Nazareth. The day marks the beginning of the larger season of Christmastide, which lasts twelve days. The nativity of Jesus, which is the basis for the Anno Domini system of dating, is thought to have occurred between 7 and 2 BC. December 25 is not known to be Jesus` actual date of birth, and the date may have been chosen to correspond with either a Roman festival or the winter solstice.
+On the Julian calendar, followed by most Orthodox churches, Christmas Day also falls on O.S. December 25th; this corresponds to N.S. January 7th on the Gregorian calendar, followed by Western churches.
+Modern customs of the holiday include gift-giving, Church celebrations, and the display of various decorations—including the Christmas tree, lights, mistletoe, nativity scenes, and holly. Santa Claus (also referred to as Father Christmas, although the two figures have different origins) is a popular mythological figure often associated with bringing gifts at Christmas for children. Santa is generally believed to be the result of a syncretization between Saint Nicholas and elements from pagan Nordic and Christian mythology, and his modern appearance is believed to have originated in 19th century media.
+Christmas is celebrated throughout the Christian population, but is also celebrated by many non-Christians as a secular, cultural festival. Because gift-giving and several other aspects of the holiday involve heightened economic activity among both Christians and non-Christians, Christmas has become a major event for many retailers.</description>
+<picurl>160837.jpg</picurl>
+</tag>
+<tag id="6148" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO EPISODE</name>
+<description>Tags under this parent tag are going to be moved to episode tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what episodes they should be assigned to.</description>
+</tag>
+</tags>
+<characters>
+<character id="48894" type="main character in" update="2012-09-15">
+<name>Takeshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+<character id="48895" type="main character in" update="2012-09-15">
+<name>Jasmine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94146.jpg</picture>
+<seiyuu id="600" picture="148972.jpg">Arai Satomi</seiyuu>
+</character>
+<character id="48896" type="main character in" update="2012-09-15">
+<name>Akuei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3833" picture="25459.jpg">Shibahara Chiyako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="35147" update="2007-03-22">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2004-10-02</airdate>
+<title xml:lang="ja">プリプリプー 世界を守れトイレへもぐれ ガッチンポー! / ジョボジョボジョボ ダートゥー洪水 ガッチンポー!</title>
+<title xml:lang="en">Puripuripuu Protect the World, Dive into the Toilet Gacchinpo! / Jobojobojobo Datu Flood Gacchinpo!</title>
+<title xml:lang="x-jat">Puripuripuu Sekai o Mamore, Toilet e Mogure Gacchinpou! / Jobojobojobo Daatuu Kouzui Gacchinpou!</title>
+</episode>
+<episode id="68768" update="2007-03-22">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2004-10-09</airdate>
+<title xml:lang="ja">キョエッ ママだ値切りだ ガッチンポー! / ラブラブラブ 恋するティーチャー ガッチンポー!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kyoe: Mama Da Negiri Da - Gacchinpou! / Lovelovelove: Koi Suru Teacher - Gacchinpou!</title>
+</episode>
+<episode id="68769" update="2007-03-22">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2004-10-16</airdate>
+<title xml:lang="ja">ヘールププ エスコートはハイコスト ガッチンポー / プラパッパー 暴走して愛 ガッチンポー!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Heerupupu Escort wa High Cost Gacchinpo / Purapappaa Bousou Shite Ai Gacchinpo!</title>
+</episode>
+<episode id="68770" update="2007-03-22">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2004-10-23</airdate>
+<title xml:lang="ja">ギョギョギョ ゴーストどーすか? ガッチンポー! / 大混乱 ニセモノクーポンポンポン ガッチンポー!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Gyogyogyo Ghost Dousuka? Gacchinpo! / Dai Konran Nisemono Couponponpon Gacchinpo!</title>
+</episode>
+<episode id="68771" update="2007-03-22">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2004-10-30</airdate>
+<title xml:lang="ja">ウッホッホ 無敵老婆アーマだ ガッチンポー! / 何じゃもんじゃ モンジャン天下一 ガッチンポー!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Uhhohho Muteki Rouba Aama Da Gacchinpo! / Nani ja Mon ja Mon jan Tenka Ichi Gacchinpo!</title>
+</episode>
+<episode id="68772" update="2007-03-22">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2004-11-06</airdate>
+<title xml:lang="ja">フマンマンマン 宇宙自慢物語 ガッチンポー! / マシンガンガンガン ギャング・オブ・いい人 ガッチンポー!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Fumanmanman Uchuu Jiman Monogatari Gacchinpo! / Mashingangangan Gang of Ii Hito Gacchinpo!</title>
+</episode>
+<episode id="68773" update="2007-03-22">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2004-11-13</airdate>
+<title xml:lang="ja">ハフハフハフ ショーロンポーで笑顔を増やせ ガッチンポー! / キューピットット 頑張れMr. ポストマン ガッチンポー!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Huff Huff Huff Shouronpu de Egao o Fuyase Gacchinpou! / Cupittto Ganbare Mr. Postman Gacchinpou!</title>
+</episode>
+<episode id="68774" update="2007-03-22">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2004-11-20</airdate>
+<title xml:lang="ja">ウララウララ ウラないでオネショもとまる ガッチンポー! / プンプンプーン プリプリひとり風の中 ガッチンポー!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Urauraura Uranaide Onesho mo Tomaru Gacchinpou! / Punpunpuun Puripuri Hitori Fuu no Naka Gacchinpou!</title>
+</episode>
+<episode id="68775" update="2007-03-22">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2004-11-27</airdate>
+<title xml:lang="ja">デンジャラジャラス パイプス アーマにタージタジ ガッチンポー! / ハッピーシュウメイ 大魔王につけたいリボンボンボン ガッチンポー!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Denjarajarasu Pipes Armor ni Taajitai Gacchinpou! / Happy Shuumei Daimaou ni Tsukerai Bonbon Gacchinpou!</title>
+</episode>
+<episode id="68776" update="2007-03-22">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2004-12-04</airdate>
+<title xml:lang="ja">パイプスホイホイ ママのテクテクメーロメロ ガッチンポー! / アンアンアンラッキー とっても悲しいドライバー ガッチンポー!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Paipushoihoi Mama no Tekutekumeeromero Gacchinpu! / Anananrakkii Totte mo Kanashii Driver Gacchinpou!</title>
+</episode>
+<episode id="68777" update="2007-03-22">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2004-12-11</airdate>
+<title xml:lang="ja">コギコギコーギー あなた何乗る? 僕チャーリー ガッチンポー! / チュールチュルチュル あなたの魂チュッチュッチュッ ガッチンポー!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Kogikogikougii Anata Nani Noru? Boku Chaarii Gacchinpou! / Chuuruchuruchuru Anata no Tamashii Chucchucchu Gacchinpou!</title>
+</episode>
+<episode id="68778" update="2007-03-22">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2004-12-18</airdate>
+<title xml:lang="ja">オキラク老いらく バババラブラブ ガッチンポー! / モンモンモンスター ボットントンと流れ者 ガッチンポー!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Okiraku Oiraku Bababaraburabu Gacchinpou! Monmonmonster Bottonton to Nagaresha Gacchinpou!</title>
+</episode>
+<episode id="68779" update="2007-03-22">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2004-12-25</airdate>
+<title xml:lang="ja">バンバラバンバンバン 家族戦隊サンタレンジャーじゃ ガッチンポー!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Banbarabanbanban Kazoku Sentai Santarenjaaja Gacchinpou!</title>
+</episode>
+<episode id="164751" update="2014-12-16">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="164752" update="2014-12-16">
+<epno type="3">C1</epno>
+<length>2</length>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

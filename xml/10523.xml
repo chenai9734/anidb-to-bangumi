@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10523" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2015-01-10</startdate>
+<enddate>2015-03-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Durarara!!x2 Shou</title>
+<title xml:lang="x-jat" type="synonym">Durarara2</title>
+<title xml:lang="x-jat" type="synonym">durarara 2</title>
+<title xml:lang="x-jat" type="synonym">Durarara S2</title>
+<title xml:lang="x-jat" type="short">drrr2</title>
+<title xml:lang="x-jat" type="short">Drrrx2</title>
+<title xml:lang="x-jat" type="short">Drrr!!x2</title>
+<title xml:lang="ja" type="official">デュラララ!!x2 承</title>
+<title xml:lang="en" type="official">Durarara!! X2</title>
+<title xml:lang="zh-Hant" type="official">無頭騎士異聞錄 DuRaRaRa!!×2 承</title>
+<title xml:lang="zh-Hans" type="official">无头骑士异闻录 DuRaRaRa!!×2 承</title>
+</titles>
+<relatedanime>
+<anime id="10866" type="Sequel">Durarara!!x2 Ten</anime>
+<anime id="6671" type="Prequel">Durarara!!</anime>
+</relatedanime>
+<recommendations total="2">
+<recommendation type="Recommended" uid="30310">Still good, but not as good as the first season. Characters leave less of an impression on you and it jumps too much around in events, S1 was divided into more comprehensive arcs.</recommendation>
+<recommendation type="Must See" uid="516486">Just continuing the awesomeness of the previous one! To see this you need to have seen the first one!</recommendation>
+</recommendations>
+<url>http://www.durarara.com/</url>
+<creators>
+<name id="4147" type="Character Design">Kishida Takahiro</name>
+<name id="7428" type="Series Composition">Takagi Noboru</name>
+<name id="4359" type="Direction">Oomori Takahiro</name>
+<name id="6006" type="Music">Yoshimori Makoto</name>
+<name id="40621" type="Animation Work">Shuka</name>
+<name id="15726" type="Chief Animation Direction">Takada Akira</name>
+<name id="6455" type="Original Work">Narita Ryougo</name>
+</creators>
+<description>Half a year after the turmoil that rocked the entire city of Ikebukuro - Peace has once again returned to the city and people are living each day normally. The high school students enjoy their days of youth as the strongest and most dangerous man of Ikebukuro works diligently. The informant plots (or plans) a new scheme and the headless rider is pursued by the cops as she rides through the night... But soon this normal will be cut short by the abnormal. Slowly but surely, the unknown will seize the city and face an all new storm.
+Source: Aniplex USA</description>
+<ratings>
+<permanent count="2227">7.52</permanent>
+<temporary count="2237">7.66</temporary>
+</ratings>
+<picture>160454.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16183</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30191</identifier>
+</externalentity>
+<externalentity>
+<identifier>23199</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.durarara.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Durarara!!</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>デュラララ!!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3625</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348672</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17771</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>drrr_anime</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2623" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2676" parentid="2672" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Tokyo</name>
+<description>Tokyo, officially Tokyo Metropolis, is the capital city of Japan and one of its 47 prefectures. The Greater Tokyo Area is the most populous metropolitan area in the world. It is the seat of the Emperor of Japan and the Japanese government. Tokyo is in the Kantou region on the southeastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands.
+Source: Wikipedia</description>
+<picurl>214311.jpg</picurl>
+</tag>
+<tag id="2738" parentid="2842" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-17">
+<name>twincest</name>
+<description>Or “incest between twins”. Often describes a sexual relationship between twins.
+The twins might be or not be actually related (in the latter case they may have previously been thought to be related, but are later discovered not to be).
+This is not exclusive to gender or sexual preference, and can be a heterosexual or homosexual relationship.</description>
+<picurl>210886.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2782" parentid="2858" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-03">
+<name>shoujo ai</name>
+<description>Shoujo Ai means girls love, and thus explores what happens when two girls (or women) fall in love. This is not to be mistaken for http://anidb.net/t2695 [Yuri] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphic sex.
+The male version is http://anidb.net/t2783 [Shounen Ai].
+http://anidb.net/t7146 [Cute girls doing cute things (CGDCT)] is often mistaken as low level Yuri or Shoujo Ai. If there is no Yuri or Shoujo Ai subtext, i.e. if there is no romantic subtext, only tag CGDCT. Please note: CGDCT and yuri/shoujo ai are not mutually exclusive; it is possible to have an anime tagged both.</description>
+<picurl>210060.jpg</picurl>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2840" parentid="2872" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>mafia</name>
+<description>A mafia is a type of organized crime syndicate whose primary activities are protection racketeering, the arbitration of disputes between criminals, and the organizing and oversight of illegal agreements and transactions. Secondary activities may be practiced such as gambling, drug trafficking, loan sharking, and fraud. The term was originally applied to the Sicilian mafia, but has since expanded to encompass other organizations of similar methods and purpose, such as in "the Russian mafia" or "the Japanese mafia", and is applied informally by the press and public, but the criminal organizations themselves have their own terms; for example, the original Sicilian and Italian-American mafia call themselves "cosa nostra", while the Japanese mafia calls itself "yakuza".
+Source: Wikipedia</description>
+<picurl>211289.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2842" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-19">
+<name>incest</name>
+<description>Incest is human sexual activity between family members or close relatives by consanguinity (blood relations) and sometimes by affinity (marriage or stepfamily), adoption, clan, or lineage. The incest taboo is among the most widespread cultural taboos in present and past societies. Most modern societies have laws regarding incest or social restrictions on closely consanguineous marriages, with first cousins being the closest kin that is often (but not always) considered legally acceptable.
+Source: Wikipedia</description>
+<picurl>210769.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2872" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="6596" parentid="2676" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Ikebukuro</name>
+<description>Ikebukuro is a commercial and entertainment district in Toshima, Tokyo, Japan. Toshima ward offices, Ikebukuro station, and several shops, restaurants, and enormous department stores are located within city limits.
+Source: Wikipedia</description>
+<picurl>214320.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="12149" type="main character in" update="2010-02-07">
+<rating votes="319">8.64</rating>
+<name>Celty Sturluson</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Also known as "The Black Rider" or "The Headless Rider", she is a Dullahan from Ireland who came to Japan looking for her stolen head. Her motorcycle is actually a horse in disguise. She has no heart and perceives via unknown sensors that are not located on the head. The physical strength she possesses is above human, though not quite on par with Shizuo Heiwajima. She is also capable of manipulating a shadow-like, durable substance to form objects ranging from gloves to chariots at her will.
+Selty lives with Shinra Kishitani and works as an underground porter. She wears a helmet when she goes out and communicates via a PDA. She enjoys online chatting, television and DVDs.</description>
+<picture>36851.jpg</picture>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="12150" type="main character in" update="2010-07-20">
+<rating votes="146">4.02</rating>
+<name>Ryuugamine Mikado</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Ryuugamine Mikado is a first year high school boy who moved to Ikebukuro with the encouragement of his best friend, http://anidb.net/ch12151 [Kida Masaomi]. He moved in order to search for unusual beings and adventure. His greatest fear is having a normal life. Mikado tries hard to change his image but so far he has not had any luck, although he does get up enough courage to become the Class Representative along with http://anidb.net/ch12155 [Anri]. Mikado has had moments where he speaks his mind, and Masaomi claims to admire this about him. He is the only remaining creator of the infamous http://anidb.net/ch14864 [Dollars] and also its leader. He seems to be infatuated with Anri Sonohara, but has never found a chance to tell her. Whenever he is close to confessing, she leaves. Mikado often gets advice from http://anidb.net/ch12153 [Izaya], particularly in relation to the Dollars and his need to seek out a life that isn`t ordinary.
+His online chat screenname is "Tanaka Taro".</description>
+<picture>36845.jpg</picture>
+<seiyuu id="303" picture="166016.jpg">Toyonaga Toshiyuki</seiyuu>
+</character>
+<character id="12151" type="main character in" update="2011-02-04">
+<rating votes="124">5.07</rating>
+<name>Kida Masaomi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kida Masaomi is a resident of Ikebukuro and http://anidb.net/ch12150 [Ryuugamine Mikado]`s best friend from childhood. He was the one who encouraged Mikado to come to Ikebukuro. He is enthusiastic about picking-up girls, but he seems to fail at it. He was depressed and lonely before Mikado arrived because his girlfriend was kidnapped and injured during a gang war between the http://anidb.net/ch14887 [Blue Squares] and http://anidb.net/ch14865 [Yellow Scarves], which he led at the time. After http://anidb.net/ch12155 [Anri] is injured during the Slasher incidents and the rising presence of the http://anidb.net/ch14864 [Dollars], he is forced to become the leader of the Yellow Scarves once more. He despises http://anidb.net/ch12153 [Orihara Izaya] for manipulating him when he first formed the Yellow Scarves, but returns to him again for information about the leader of the Dollars and discovers it is Mikado. He leaves Ikebukuro with his ex-girlfriend, http://anidb.net/ch14873 [Mikajima Saki], during the conflict between the 3 main forces in Ikebukuro. Masaomi has commented on not letting Mikado "go to the dark side," claiming that he has already gone through it.
+His online chat screenname is "Bakyura"</description>
+<picture>36846.jpg</picture>
+<seiyuu id="255" picture="40713.jpg">Miyano Mamoru</seiyuu>
+</character>
+<character id="12152" type="main character in" update="2010-06-26">
+<rating votes="321">9.08</rating>
+<name>Heiwajima Shizuo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A man who is always seen to wear sunglasses and a bartender`s suit. Although quiet and nondescript while not angered, he has a very short fuse and fights with incredible strength. Despite his simple and unrefined fighting skills, he is often considered the strongest fighter in the series. In the novels his power is described as the naturally unlimited form of human strength and likened to "adrenaline power" that can give people superhuman strength in times of emergency. In addition, Shizuo is capable of often superhuman parkour moves, a skill he obtained naturally from years of hunting down Izaya Orihara.
+He works as a debt collector in Ikebukuro and carries intense animosity towards Izaya. He has a younger brother, Kasuka, who is a top idol under the showbiz name of Hanejima Yuuhei. He is also a long-time acquaintance of Selty.
+His first and last name translates literally into "serene man" and "peaceful island" respectively.</description>
+<picture>36847.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="12153" type="main character in" update="2010-07-20">
+<rating votes="251">8.05</rating>
+<name>Orihara Izaya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Orihara Izaya is a young man who sells information for his own enjoyment. He claims to love the entire human race except for Shizuo Heiwajima, and exhibits said love by putting humans in often miserable conditions and observing their reactions.
+He attended Raira Academy with Shizuo, Shinra and Kadota. According to Shinra, Izaya and Shizuo hated each other with a passion almost from the point they met. In the novels Izaya framed Shizuo for crimes on several occasions.
+He is a master of parkour, and also quite skilled with his flickblade (the blade he uses must be slightly opened before the mechanics of it springs the blade open - a switchblade will open on its own after the user presses a switch) as he is implied to be the only one capable of leaving numerous cuts in Shizuo`s bartender suit after a fight in the novels. In the anime, he shaves a gang member`s head bald without him noticing it. Izaya has two younger sisters, Mairu and Kururi, who are twins and troublemakers.
+His name comes from a combination of the biblical Isaiah and Japanese for "the one who looks over the crowd".
+He is usually seen pretending to be female online and talks in a feminine manner in the chatroom. His screenname is "Kanra".</description>
+<picture>36848.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="12154" type="secondary cast in" update="2010-07-22">
+<rating votes="108">5.88</rating>
+<name>Kishitani Shinra</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>36849.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="12155" type="main character in" update="2011-02-04">
+<rating votes="142">6.30</rating>
+<name>Sonohara Anri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A bespectacled girl who attends the same school as Mikado and Masaomi.
+Her online chat screenname is "Saika".</description>
+<picture>36850.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="13866" type="secondary cast in" update="2011-04-09">
+<rating votes="92">4.53</rating>
+<name>Yagiri Namie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>The head of the research department at Yagiri Pharmaceuticals. Because of family issues she develops an interest in her brother Seiji and later tries to get rid of Selty`s head after her brother falls in love with it. She also persuades Mika into a plastic surgery to replace her deformed face with that of Selty`s and later attempts to erase her memory.
+Following Mika`s escape she and her followers are defeated by Mikado and the Dollars, whom Mika turned to. And Namie, left without any other choice, starts working under Izaya.</description>
+<picture>40888.jpg</picture>
+<seiyuu id="333" picture="18379.jpg">Kobayashi Sanae</seiyuu>
+</character>
+<character id="13867" type="secondary cast in" update="2011-02-04">
+<rating votes="90">8.27</rating>
+<name>Kadota Kyouhei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kadota Kyouhei is friends with http://anidb.net/ch13869 [Karisawa], http://anidb.net/ch13870 [Yumasaki] and http://anidb.net/ch14866 [Togusa]. The quartet always hangs out together and were formerly part of http://anidb.net/ch14887 [Blue Squares] and now http://anidb.net/ch14864 [Dollars].
+It was them who saved http://anidb.net/ch14873 [Saki] from the clutches of the Blue Squares.</description>
+<picture>40889.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="13868" type="secondary cast in" update="2011-02-03">
+<rating votes="93">6.15</rating>
+<name>Simon Brezhnev</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>40890.jpg</picture>
+<seiyuu id="371" picture="166173.jpg">Kuroda Takaya</seiyuu>
+</character>
+<character id="13869" type="secondary cast in" update="2011-02-04">
+<rating votes="104">7.99</rating>
+<name>Karisawa Erika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Karisawa Erika is friends with http://anidb.net/ch13870 [Yumasaki], http://anidb.net/ch13867 [Kadota] and http://anidb.net/ch14866 [Togusa]. The quartet always hangs out together and were formerly part of http://anidb.net/ch14887 [Blue Squares] and now http://anidb.net/ch14864 [Dollars].
+It was them who saved http://anidb.net/ch14873 [Saki] from the clutches of the Blue Squares.</description>
+<picture>40891.jpg</picture>
+<seiyuu id="411" picture="17475.jpg">Takagaki Ayahi</seiyuu>
+</character>
+<character id="13870" type="secondary cast in" update="2011-02-04">
+<rating votes="74">7.58</rating>
+<name>Yumasaki Walker</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yumasaki Walker is friends with http://anidb.net/ch13869 [Karisawa], http://anidb.net/ch13867 [Kadota] and http://anidb.net/ch14866 [Togusa]. The quartet always hangs out together and were formerly part of http://anidb.net/ch14887 [Blue Squares] and now http://anidb.net/ch14864 [Dollars].
+It was them who saved http://anidb.net/ch14873 [Saki] from the clutches of the Blue Squares.</description>
+<picture>40893.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="14866" type="appears in" update="2011-02-04">
+<rating votes="32">5.73</rating>
+<name>Togusa Saburou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Togusa Saburou is friends with http://anidb.net/ch13869 [Karisawa], http://anidb.net/ch13870 [Yumasaki] and http://anidb.net/ch13867 [Kadota]. The quartet always hangs out together and were formerly part of http://anidb.net/ch14887 [Blue Squares] and now http://anidb.net/ch14864 [Dollars].
+It was them who saved http://anidb.net/ch14873 [Saki] from the clutches of the Blue Squares.</description>
+<picture>42706.jpg</picture>
+<seiyuu id="202" picture="25743.jpg">Terashima Takuma</seiyuu>
+</character>
+<character id="14867" type="appears in" update="2010-04-08">
+<rating votes="24">4.26</rating>
+<name>Kamichika Rio</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A girl who seeks to kill herself because of family issues. She is used by Izaya in a con to lure out kidnappers working for Yagiri Pharmaceuticals and later saved by Selty.
+After the start of the schoolyear she ends up in Misaomi`s class at Raira Academy.</description>
+<picture>45947.jpg</picture>
+<seiyuu id="5" picture="233827.jpg">Tomatsu Haruka</seiyuu>
+</character>
+<character id="14869" type="appears in" update="2011-02-04">
+<rating votes="39">1.51</rating>
+<name>Yagiri Seiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Namie`s brother. Because of the situation with their family she develops romantic feelings for him and tries everything to keep Seiji at her side, especially after he falls in love with Selty`s head that Namie shows him.
+After saving Anri and Mika from delinquents, Mika starts stalking him out of love, leading to her breaking into Seiji`s apartment. There she discovers Selty`s head and is smashed against a wall by him, leaving her face disfigured.
+Seiji stays with Mika following her plastic surgery, claiming that he found his love, and the two elope.</description>
+<picture>42657.jpg</picture>
+<seiyuu id="403" picture="74821.jpg">Horie Kazuma</seiyuu>
+</character>
+<character id="14870" type="appears in" update="2010-02-08">
+<rating votes="34">5.63</rating>
+<name>Kishitani Shingen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Shinra`s father and the main cause of most of the events in the story.
+Shortly after the birth of Shinra he comes into possession of the demon blade Saika, which he later sells to Anri`s parents who own an antique shop. During a trip to Ireland with Shinra, who was aged four at that time, he cuts off Selty`s head and sells it to Namie`s uncle, head of Yagiri Pharmaceuticals. On the way back to Japan he discovers Selty on the ship who is trying to trace her head and offers her a place to stay in exchange for letting him dissect her body.
+Not too long before the current day events he leaves Japan to work for Nebula Corporation in Amerika but comes back when Yagiri Pharmaceuticals is merged into Nebula.</description>
+<picture>42714.jpg</picture>
+<seiyuu id="286" picture="17117.jpg">Ootsuka Akio</seiyuu>
+</character>
+<character id="14873" type="appears in" update="2010-09-29">
+<rating votes="29">5.51</rating>
+<name>Mikajima Saki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A girl who works for Izaya. On his order she approaches Masaomi and they become a couple later leading into the events of the dispute between Kou Kinzoku and Blue Squares.</description>
+<picture>1489.jpeg</picture>
+<seiyuu id="304" picture="17139.jpg">Fukuen Misato</seiyuu>
+</character>
+<character id="14874" type="appears in" update="2010-02-07">
+<rating votes="8">2.98</rating>
+<name>Niekawa Shuuji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A reporter who writes for the Tokyo Incidents. featuring weird events or noteworthy societies in Tokyo. Because of a planned special he comes to Ikebukuro with the intention of doing research on various topics such as who is regarded to be the strongest on the streets.
+He has a daughter who visits the high school.</description>
+<picture>42653.jpg</picture>
+<seiyuu id="244" picture="23860.jpg">Koyama Rikiya</seiyuu>
+</character>
+<character id="14881" type="secondary cast in" update="2011-02-04">
+<rating votes="85">3.48</rating>
+<name>Harima Mika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Anri`s friend from junior high school. After being saved from delinquents by Seiji she falls in love and starts stalking him. While breaking into his apartment she discovers Selty`s head and is smashed against a wall by Seiji, leaving her face disfigured.
+Following a plastic surgery she receives Selty`s face causing Seiji to fall in love with her and eloping together with him.</description>
+<picture>45945.jpg</picture>
+<seiyuu id="101" picture="16709.jpg">Ise Mariya</seiyuu>
+</character>
+<character id="14888" type="appears in" update="2010-02-08">
+<rating votes="26">5.80</rating>
+<name>Tanaka Tom</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A debt collector and Shizuo`s boss.</description>
+<picture>42708.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+<character id="14959" type="appears in" update="2014-10-18">
+<rating votes="39">5.98</rating>
+<name>Hijiribe Ruri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A model and idol contracted to Densetsu Shining Corporation Ruri has many fans amongst them http://anidb.net/ch12149 [Celty], http://anidb.net/ch12154 [Shinra], http://anidb.net/ch14866 [Togusa] and a lot of Awakusu-kai members. 
+She comes from a family whose bloodline is mixed with that of vampire and thus possesses super-human strength.
+Ruri is actually a serial-killer by the name Hollywood.</description>
+<picture>42880.jpg</picture>
+<seiyuu id="1673" picture="41835.jpg">Fujita Saki</seiyuu>
+</character>
+<character id="15091" type="appears in" update="2014-10-18">
+<rating votes="28">5.02</rating>
+<name>Heiwajima Kasuka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Shizuo`s brother.
+Nowadays a famous actor and model under the name Hanejima Yuuhei (羽島 幽平), he was scouted in place of his brother when he saved the talent scout from one of his outbursts of anger. After some modeling and his debut as lead actor in the film Vampire Ninja Kaamira Saizou he gained slowly popularity over the net because of his acting abilities. After an appearance in the popular show Money Gamer, where he made 1.2 billion Yen through money investments within a month, his name appeared nationwide on news reports prompting his stardom followed by a number of leading cast appearances in TV drama.
+Although a star excelling with a broad range of acting skills, once he is not in front of a camera it is as though he would lose any emotion and revert to a roboter-like state. But it is exactly this very nature of him, which makes him an idol amongst his many fans, who love his "cool expression".</description>
+<picture>45946.jpg</picture>
+<seiyuu id="63" picture="186695.jpg">Kishio Daisuke</seiyuu>
+</character>
+<character id="15311" type="secondary cast in" update="2015-09-03">
+<rating votes="42">6.79</rating>
+<name>Orihara Kururi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>One of Iazaya`s sibling twin sisters who are just as every bit notorious mischief-makers as he is. They are first years at Raira Academy.
+Both sisters are very fond of Shizuo and his brother, Kasuka, and unlike their brother, are amongst the very few people who Shizuo rarely gets angry with.</description>
+<picture>177056.jpg</picture>
+<seiyuu id="12266" picture="56026.jpg">Kanemoto Hisako</seiyuu>
+</character>
+<character id="15312" type="secondary cast in" update="2015-09-03">
+<rating votes="49">6.50</rating>
+<name>Orihara Mairu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>One of Iazaya`s sibling twin sisters who are just as every bit notorious mischief-makers as he is. They are first years at Raira Academy.
+Both sisters are very fond of Shizuo and his brother, Kasuka, and unlike their brother, are amongst the very few people who Shizuo rarely gets angry with.</description>
+<picture>177055.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+<character id="16771" type="appears in" update="2014-10-18">
+<rating votes="23">8.16</rating>
+<name>Kuzuhara Kinnosuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>61149.jpg</picture>
+<seiyuu id="168" picture="246304.jpg">Fujiwara Keiji</seiyuu>
+</character>
+<character id="60238" type="cameo appearance in" update="2017-07-03">
+<rating votes="205">5.80</rating>
+<name>Shiba Miyuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149873.jpg</picture>
+</character>
+<character id="70482" type="appears in" update="2014-10-05">
+<rating votes="6">2.26</rating>
+<name>Max Sandshelt</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62227.png</picture>
+<seiyuu id="183" picture="16992.jpg">Onosaka Masaya</seiyuu>
+</character>
+<character id="70483" type="secondary cast in" update="2017-03-21">
+<rating votes="56">7.50</rating>
+<name>Vorona</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>64872.png</picture>
+<seiyuu id="36368" picture="224755.jpg">Mao</seiyuu>
+</character>
+<character id="70484" type="secondary cast in" update="2014-10-05">
+<rating votes="22">6.36</rating>
+<name>Rokujou Chikage</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62230.png</picture>
+<seiyuu id="3155" picture="24137.jpg">Ono Yuuki</seiyuu>
+</character>
+<character id="70485" type="appears in" update="2014-10-05">
+<rating votes="10">5.64</rating>
+<name>Shiki Haruya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62228.png</picture>
+<seiyuu id="297" picture="233915.jpg">Ootsuka Houchuu</seiyuu>
+</character>
+<character id="70486" type="secondary cast in" update="2015-02-24">
+<rating votes="22">6.92</rating>
+<name>Akabayashi Mizuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169195.jpg</picture>
+<seiyuu id="254" picture="17073.jpg">Yamaguchi Kappei</seiyuu>
+</character>
+<character id="70487" type="secondary cast in" update="2014-10-05">
+<rating votes="34">2.55</rating>
+<name>Kuronuma Aoba</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62232.png</picture>
+<seiyuu id="175" picture="167565.jpg">Shimono Hiro</seiyuu>
+</character>
+<character id="71204" type="appears in" update="2017-06-20">
+<rating votes="14">5.47</rating>
+<name>Egor</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>204053.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+<character id="71205" type="appears in" update="2017-06-20">
+<rating votes="22">5.55</rating>
+<name>Emilia</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>204054.jpg</picture>
+<seiyuu id="32751" picture="157891.jpg">Tanezaki Atsumi</seiyuu>
+</character>
+<character id="71206" type="appears in" update="2014-11-07">
+<rating votes="10">3.34</rating>
+<name>Slon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163773.jpg</picture>
+<seiyuu id="17631" picture="172640.jpg">Mikami Satoshi</seiyuu>
+</character>
+<character id="71207" type="appears in" update="2014-11-07">
+<rating votes="9">2.96</rating>
+<name>Awakusu Mikiya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163772.jpg</picture>
+<seiyuu id="2674" picture="41437.jpg">Kase Yasuyuki</seiyuu>
+</character>
+<character id="71208" type="appears in" update="2014-11-07">
+<rating votes="23">5.38</rating>
+<name>Awakusu Akane</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163771.jpg</picture>
+<seiyuu id="20806" picture="182700.jpg">Kuno Misaki</seiyuu>
+</character>
+<character id="71209" type="appears in" update="2014-11-07">
+<rating votes="9">2.43</rating>
+<name>Awakusu Dougen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163774.jpg</picture>
+<seiyuu id="1986" picture="1919.gif">Iizuka Shouzou</seiyuu>
+</character>
+<character id="71210" type="appears in" update="2014-11-07">
+<rating votes="11">2.71</rating>
+<name>Aozaki Shuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>163776.jpg</picture>
+<seiyuu id="287" picture="73062.jpg">Yanada Kiyoyuki</seiyuu>
+</character>
+<character id="72812" type="appears in" update="2015-01-25">
+<rating votes="1">4.13</rating>
+<name>Tsukiyama</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>167948.jpg</picture>
+<seiyuu id="578" picture="193571.jpg">Tatsumi Yuiko</seiyuu>
+</character>
+<character id="73675" type="appears in" update="2015-03-06">
+<rating votes="2">2.04</rating>
+<name>Drakon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169727.jpg</picture>
+<seiyuu id="4494" picture="245665.jpg">Yamaji Kazuhiro</seiyuu>
+</character>
+<character id="73676" type="appears in" update="2015-03-06">
+<rating votes="1">4.13</rating>
+<name>Ringerin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169728.jpg</picture>
+<seiyuu id="2021" picture="187129.jpg">Tsuji Shinpachi</seiyuu>
+</character>
+<character id="73916" type="appears in" update="2015-03-18">
+<rating votes="2">4.13</rating>
+<name>Kazamoto Takaaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170346.jpg</picture>
+<seiyuu id="17523" picture="223264.jpg">Yamamoto Kanehira</seiyuu>
+</character>
+<character id="108655" type="appears in" update="2020-03-10">
+<name>Yuigadokusonmaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuigadokusonmaru (唯我独尊丸, Yuigadokusonmaru), often called just Dokusonmaru (独尊丸, Dokusonmaru) for short, is Kasuka Heiwajima`s cat. He is sent to live with Anri Sonohara to protect him from Kisuke Adabashi. He runs away after Kisuke attacks Anri and he is saved by Mikado Ryuugamine.</description>
+<picture>244904.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="164700" update="2015-01-03">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2014-12-27</airdate>
+<rating votes="1">8.07</rating>
+<title xml:lang="ja">デュラララ!!x2 音(ON)</title>
+<title xml:lang="en">Special 1</title>
+<title xml:lang="x-jat">Durarara!!x2 On</title>
+</episode>
+<episode id="164701" update="2015-01-03">
+<epno type="2">S2</epno>
+<length>25</length>
+<airdate>2015-01-03</airdate>
+<title xml:lang="ja">デュラララ!!x2 談(DAN)</title>
+<title xml:lang="en">Special 2</title>
+<title xml:lang="x-jat">Durarara!!x2 Dan</title>
+</episode>
+<episode id="165200" update="2016-11-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2015-01-31</airdate>
+<rating votes="8">7.45</rating>
+<title xml:lang="ja">人の踊るときは踊れ</title>
+<title xml:lang="en">When in Rome, Do as the Romans Do</title>
+<title xml:lang="fr">À Rome, fais comme les Romains</title>
+<title xml:lang="tr">Roma`da Romalılar Gibi Davran</title>
+<title xml:lang="x-jat">Hito no Odoru Toki wa Odore</title>
+<summary>While transporting some mysterious luggage, Celty attempts to escape the biker gangs out to claim the 10 million bounty that’s been placed on her.  Caught up in the chaos, Mairu and Kururi join with Kyohei and the others.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668075</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165201" update="2016-11-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2015-01-24</airdate>
+<rating votes="8">6.85</rating>
+<title xml:lang="ja">泣き面に蜂</title>
+<title xml:lang="en">Adding Insult to Injury</title>
+<title xml:lang="fr">Un malheur n`arrive jamais seul</title>
+<title xml:lang="tr">Yaraya Tuz Basmak</title>
+<title xml:lang="x-jat">Nakitsura ni Hachi</title>
+<summary>The idol Ruri Hijiribe and actor Yuhei Hanejima; two people who, despite being hugely popular, remain a mystery. A chance meeting gives them reason to reveal their secrets to one another. Meanwhile, the various situations in Ikebukuro begin to intersect.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668073</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165202" update="2016-11-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2015-01-17</airdate>
+<rating votes="8">4.76</rating>
+<title xml:lang="ja">和を以て尊しと為す</title>
+<title xml:lang="en">Harmony Is the Greatest of Virtues</title>
+<title xml:lang="fr">L`harmonie est la plus précieuse des fondations</title>
+<title xml:lang="tr">Uyum Erdemlerin En Büyüğüdür</title>
+<title xml:lang="x-jat">Wa o Motte Toutoshi to Nasu</title>
+<summary>Due to her appearance on TV, Celty Sturluson has gained even more attention and 10 million yen is being offered to uncover her identity. Meanwhile, Raira Academy welcomes its new students, which includes Mairu and Kuriri, Izaya Orihara’s sisters.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668071</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165203" update="2016-11-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-01-10</airdate>
+<rating votes="9">4.58</rating>
+<title xml:lang="ja">百聞は一見に如かず</title>
+<title xml:lang="en">A Picture Is Worth a Thousand Words</title>
+<title xml:lang="fr">Une simple image vaut un long discours</title>
+<title xml:lang="tr">Bir Resim Bin Kelimeye Bedel</title>
+<title xml:lang="x-jat">Hyakubun wa Ikken ni Shikazu</title>
+<summary>Half a year has passed. The city of Ikebukuro seemingly remains unchanged, but foreign elements are slipping in, the serial killer known as “Hollywood” being one of them. The fuse to a new series of events begins to smolder!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668069</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165343" update="2015-01-10">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2015-01-10</airdate>
+<rating votes="2">3.22</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="165344" update="2015-01-10">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2015-01-10</airdate>
+<rating votes="2">6.53</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="165705" update="2016-11-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2015-02-28</airdate>
+<rating votes="7">6.75</rating>
+<title xml:lang="ja">色男, 金と力はなかりけり</title>
+<title xml:lang="en">The Ladies` Man Has Neither Money nor Power</title>
+<title xml:lang="fr">Un bel homme n`a besoin ni d`argent ni de pouvoir</title>
+<title xml:lang="tr">Çapkının Ne Parası Var Ne Gücü</title>
+<title xml:lang="x-jat">Iro Otoko, Kane to Chikara wa Nakari Keri</title>
+<summary>Masaomi contemplates friendship as he travels far from Ikebukuro. Mikado receives an unexpected visit from Aoba. Akane explains the real intention behind her attempt to kill Shizuo. And as Toramaru retaliates against the Dollars, Chikage confronts…
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668083</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165706" update="2016-11-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2015-02-21</airdate>
+<rating votes="8">6.92</rating>
+<title xml:lang="ja">モスクワは涙を信じない</title>
+<title xml:lang="en">Moscow Does Not Believe in Tears</title>
+<title xml:lang="fr">Moscou ne croit pas aux larmes</title>
+<title xml:lang="tr">Moskova Gözyaşlarına İnanmıyor</title>
+<title xml:lang="x-jat">Moscow wa Namida o Shinjinai</title>
+<summary>Two killers in the Russian wilderness discuss the fugitives that have violated their unwritten law. After fleeing the company, Varona and Sloan act as hitmen in Japan. Dennis and Simon watch on as Egor, the “Philosophical Killing Machine” gives chase. 
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668081</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165707" update="2016-11-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2015-02-14</airdate>
+<rating votes="8">5.91</rating>
+<title xml:lang="ja">闇夜に烏</title>
+<title xml:lang="en">A Crow in the Dark Night</title>
+<title xml:lang="fr">Difficile de discerner un corbeau dans la nuit</title>
+<title xml:lang="tr">Karanlık Gecede Bir Karga</title>
+<title xml:lang="x-jat">Yamiyo ni Karasu</title>
+<summary>A sudden attack strikes Celty. Shinra waits at home for her return, unaware of what’s happened, and is visited by Shizuo, who brings along the mysterious young girl. Mikado hears of a bad rumor about the Dollars and starts trying to figure out the truth.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668079</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="165708" update="2016-11-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2015-02-07</airdate>
+<rating votes="8">7.28</rating>
+<title xml:lang="ja">一寸先は闇</title>
+<title xml:lang="en">No One Knows What the Future Holds</title>
+<title xml:lang="fr">Rien n`est plus incertain que l`avenir</title>
+<title xml:lang="tr">Gelecek Öngörülemez</title>
+<title xml:lang="x-jat">Issunsaki wa Yami</title>
+<summary>With the uproar over the bounty settled, the city appears to be peaceful. However, the sparks of a new uproar begin to light, one after another. The womanizing leader of the Toramaru gang visits Shizuo, and Celty receives a request from the Awakusu…
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668077</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166756" update="2015-02-25">
+<epno type="2">S3</epno>
+<length>25</length>
+<airdate>2015-05-30</airdate>
+<rating votes="4">6.76</rating>
+<title xml:lang="ja">私の心は鍋模様</title>
+<title xml:lang="en">My Heart Is in the Pattern of a Hot Pot</title>
+<title xml:lang="x-jat">Watashi no Kokoro wa Nabemoyou</title>
+</episode>
+<episode id="166807" update="2016-11-21">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2015-03-07</airdate>
+<rating votes="7">6.92</rating>
+<title xml:lang="ja">日暮れて道遠し</title>
+<title xml:lang="en">The Day Is Short, the Work Is Long</title>
+<title xml:lang="fr">La fin de la journée ne signifie pas la fin du trajet</title>
+<title xml:lang="tr">Gün Kısa, İş Çok</title>
+<title xml:lang="x-jat">Hi Kurete Michi Tooshi</title>
+<summary>Aoba continues to urge Mikado to become the leader of the Blue Squares. Varona and Sloan, meanwhile, maintain their pursuit of Celty as the Awakusu group searches for both Akane and Shizuo.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668085</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166896" update="2016-11-21">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2015-03-14</airdate>
+<rating votes="7">7.15</rating>
+<title xml:lang="ja">この親にしてこの子あり</title>
+<title xml:lang="en">The Apple Doesn`t Fall Far from the Tree</title>
+<title xml:lang="fr">Les enfants sont le reflet de leurs parents</title>
+<title xml:lang="tr">Armut Dibine Düşermiş</title>
+<title xml:lang="x-jat">Kono Oya ni Shite Kono Ko Ari</title>
+<summary>Akane grew up loved by her family, wanting nothing. When she learned the truth behind the family business, it was Izaya that reached out to her. In the present day, the conflict intensifies between the Dollars and Toramaru, as Kadota and Chikage face off.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668087</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166961" update="2016-11-21">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2015-03-28</airdate>
+<rating votes="7">7.49</rating>
+<title xml:lang="ja">艱難汝を玉にす</title>
+<title xml:lang="en">Adversity Makes a Man Wise</title>
+<title xml:lang="fr">C`est dans les épreuves que se forgent les grands hommes</title>
+<title xml:lang="tr">Sıkıntı İnsanı Bilgeleştirir</title>
+<title xml:lang="x-jat">Kannannanji o Tamanisu</title>
+<summary>The flashpoints that had been smoldering in several places unleash major mayhem, swallowing the city of Ikebukuro. In this mayhem, Mikado’s answer is given.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668091</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="166962" update="2016-11-21">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2015-03-21</airdate>
+<rating votes="7">6.39</rating>
+<title xml:lang="ja">覆水盆に返らず</title>
+<title xml:lang="en">No Use Crying over Spilt Milk</title>
+<title xml:lang="fr">Inutile de pleurer sur le lait renversé</title>
+<title xml:lang="tr">Son Pişmanlık Fayda Etmez</title>
+<title xml:lang="x-jat">Fukusuibon ni Kaerazu</title>
+<summary>As Izaya’s scheme exposes Chikage’s girlfriend to danger, Mikado attempts to stop the cruel reality caused by a runaway Dollars. Meanwhile, Akane returns home with Celty, but the conflict over Akane seems destined to converge…
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>668089</identifier>
+<identifier>durarara</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

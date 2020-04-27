@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14352" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1963</startdate>
+<enddate>1963</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jikan</title>
+<title xml:lang="ja" type="official">時間</title>
+</titles>
+<description>A short experimental animation produced by http://anidb.net/cr56072 [Manabe Hiroshi].</description>
+<ratings>
+<permanent count="10">1.90</permanent>
+<temporary count="10">3.20</temporary>
+</ratings>
+<picture>223035.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29645</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14134</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205900" update="2018-09-01">
+<epno type="1">1</epno>
+<length>8</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

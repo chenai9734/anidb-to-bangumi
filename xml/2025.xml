@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2025" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2004-07-04</startdate>
+<enddate>2004-09-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Maria-sama ga Miteru: Haru</title>
+<title xml:lang="en" type="synonym">The Virgin Mary is watching you: Spring</title>
+<title xml:lang="fr" type="synonym">La vierge Marie vous regarde : printemps</title>
+<title xml:lang="ru" type="synonym">Дева Мария смотрит за вами: Весна</title>
+<title xml:lang="pt-BR" type="synonym">A Virgem Maria Está Olhando Por Vós: Primavera</title>
+<title xml:lang="x-jat" type="synonym">Maria-sama ga Miteru Haru</title>
+<title xml:lang="x-jat" type="synonym">Maria-sama ga Miteru - Haru</title>
+<title xml:lang="zh-Hans" type="synonym">圣母在上~春~</title>
+<title xml:lang="x-jat" type="short">maria2</title>
+<title xml:lang="x-jat" type="short">marimite haru</title>
+<title xml:lang="x-jat" type="short">marimite2</title>
+<title xml:lang="x-jat" type="short">Maria-sama2</title>
+<title xml:lang="ja" type="official">マリア様がみてる 春</title>
+<title xml:lang="en" type="official">Maria Watches Over Us Season 2 Printemps</title>
+</titles>
+<relatedanime>
+<anime id="4138" type="Sequel">Maria-sama ga Miteru 3rd Season</anime>
+<anime id="1297" type="Prequel">Maria-sama ga Miteru</anime>
+</relatedanime>
+<recommendations total="3">
+<recommendation type="Recommended" uid="180434">!!!!</recommendation>
+</recommendations>
+<url>http://www.tv-tokyo.co.jp/anime/mariasama_haru/main.html</url>
+<creators>
+<name id="2485" type="Music">Katakura Mikiya</name>
+<name id="6892" type="Direction">Yukihiro Matsushita</name>
+<name id="730" type="Animation Work">Studio Deen</name>
+<name id="1418" type="Character Design">Matsushima Akira</name>
+<name id="8522" type="Original Work">Konno Oyuki</name>
+</creators>
+<description>* Based on a series of light novels by http://anidb.net/cr8522 [Konno Oyuki].
+It is now spring, and a new term is about to start at the Lillian Academy. The relationships between the Roses continue to unfold.
+With the entry of http://anidb.net/ch1193 [Sachiko]`s distant relative, http://anidb.net/ch7091 [Matsudaira Touko], http://anidb.net/ch1192 [Yumi]`s position as Sachiko`s petite soeur is threatened. Yumi desperately tries to keep Sachiko`s waning attention, praying that people`s feelings, unlike a chrysanthemum`s colour, do not change.
+Source: ANN</description>
+<ratings>
+<permanent count="1542">7.32</permanent>
+<temporary count="1557">7.81</temporary>
+<review count="2">9.24</review>
+</ratings>
+<picture>2942.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4175</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3469</identifier>
+</externalentity>
+<externalentity>
+<identifier>444</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1433</identifier>
+<identifier>cwhdpe</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/mariasama_haru/main.html</url>
+</externalentity>
+<externalentity>
+<url>https://web.archive.org/web/20040701023216/http://www.gokigenyou.com/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://maria-sama.rightstuf.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Maria-sama_ga_Miteru</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>マリア様がみてる_(アニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>435</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>320772</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6850</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="1279" parentid="2869" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-18">
+<name>all-girls school</name>
+<description>This school is only for female students. There may be a few male teachers though.</description>
+<picurl>70853.jpg</picurl>
+</tag>
+<tag id="1760" parentid="2608" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-23">
+<name>bishounen</name>
+<description>Young man whose beauty (and sexual appeal) transcends the boundary of gender or sexual orientation.</description>
+</tag>
+<tag id="2043" parentid="2869" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>high school</name>
+<description>A secondary school that usually contains grades 10 through 12 in Japan, or 9 through 12 in America.</description>
+<picurl>210064.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-12-04">
+<name>fetishes</name>
+<description>Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. </description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2652" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super deformed</name>
+<description>A caricature style often seen in anime when the character shows extreme emotions, like fear, anger, happiness, surprise, or shame. Seen as cute, as part of humorous comedy. The character`s http://anidb.net/t4055 [face suddenly turns into a simplified version], the body will usually also deform into that of a small child (oversized head, short limbs, extra-large tears).</description>
+<picurl>65692.png</picurl>
+</tag>
+<tag id="2664" parentid="2869" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-07">
+<name>catholic school</name>
+<description>A setting for this anime is a school run by the nuns and/or priests of the Church Of Rome.
+Religious instruction may be an integral part of the plot. Religious icons - particularly crosses and crucifixes are usually prominent.</description>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2782" parentid="2858" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-03">
+<name>shoujo ai</name>
+<description>Shoujo Ai means girls love, and thus explores what happens when two girls (or women) fall in love. This is not to be mistaken for http://anidb.net/t2695 [Yuri] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphic sex.
+The male version is http://anidb.net/t2783 [Shounen Ai].
+http://anidb.net/t7146 [Cute girls doing cute things (CGDCT)] is often mistaken as low level Yuri or Shoujo Ai. If there is no Yuri or Shoujo Ai subtext, i.e. if there is no romantic subtext, only tag CGDCT. Please note: CGDCT and yuri/shoujo ai are not mutually exclusive; it is possible to have an anime tagged both.</description>
+<picurl>210060.jpg</picurl>
+</tag>
+<tag id="2790" parentid="2605" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-17">
+<name>plot continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+A single linear focused plot is highly continuous.
+A truly random plot is highly discontinuous.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2864" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>daily life</name>
+<description>The antics of the protagonists do not take place in some exotic setting or time, but in everyday life. When not "at the job" this means getting up in the morning, making meals, house cleaning, going shopping or out to eat, visiting the bath house or spa, leisure activities in the spare time, etc. The time "on the job" for students is School Life, for others working in their profession. Daily Life is basically a synonym for everything normal, repetitive, and trivial happening to your average person.</description>
+<picurl>210069.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2886" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-16">
+<name>New Year`s Day</name>
+<description>It is tradition in Japan to celebrate the new year at a Shinto shrine (hatsumode). The protagonists will offer some money, ring a bell at the end of a thick rope, and then pray for good fortune.
+This usually goes along with gorging yourself at the many temporary food stalls, playing various games, and drawing a fortune.
+The female characters in the anime will usually dress up in a kimono, to show off their traditional Japanese clothing, while watching the fireworks.</description>
+<picurl>161028.jpg</picurl>
+</tag>
+<tag id="2888" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-16">
+<name>coming of age</name>
+<description>In the strict sense the Coming of age describes a young person`s transition from adolescence to adulthood. In anime the term is used in a more general sense where the protagonists have to face a challenge, make an important decision in their life, take on responsibility, or learn a lesson, and by overcoming these obstacles they reach a higher level of maturity.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3148" parentid="6246" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>open-ended</name>
+<description>The ending of this anime is left to the viewer`s imagination. There are no clear hints at a definite story outcome, several possibilities are presented without closure, or the story ends suddenly without explanation. There may also be room for a sequel.</description>
+</tag>
+<tag id="3191" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-14">
+<name>ohanami</name>
+<description>Hanami (花見, lit. "flower viewing") is the Japanese traditional custom of enjoying the beauty of flowers, "flower" in this case almost always meaning cherry blossoms or ume blossoms. 
+From the end of March to early May, sakura bloom all over Japan, and around the first of February on the island of Okinawa. The blossom forecast (桜前線 sakurazensen, literally cherry blossom front) is announced each year by the weather bureau, and is watched carefully by those planning hanami as the blossoms only last a week or two. 
+In modern-day Japan, hanami mostly consists of having an outdoor party beneath the sakura during daytime or at night. Hanami at night is called yozakura (夜桜, literally night sakura). 
+(Source: Wikipedia)</description>
+<picurl>160895.jpg</picurl>
+</tag>
+<tag id="3683" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>storytelling</name>
+</tag>
+<tag id="3977" parentid="3683" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-12-29">
+<name>dialogue driven</name>
+<description>A dialogue driven show has its story advanced by dialogue, with action being of much lower priority, and relies heavily on conversations between characters.</description>
+</tag>
+<tag id="4323" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-02-04">
+<name>spacing out</name>
+<description>A comedy element: The character starts to daydream or fantasize about some topic. The typical complete lack of reality makes the spacing out funny. Especially when the protagonist mumbles to himself / herself and friends hear this. Promptly teasing the possibly lovestruck and very embarrassed protagonist.</description>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="4498" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-20">
+<name>heart-warming</name>
+<description>The story and its characters give off good vibes — includes elevated feelings of affection such as tenderness, sympathy and love, all in one package.
+The kind of anime which leaves you with a warm feeling inside and you can not stop smiling while watching it.</description>
+</tag>
+<tag id="5862" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-11-08">
+<name>melodrama</name>
+<description>A melodrama is a dramatic work that exaggerates plot and characters in order to appeal to the emotions, often with strongly stereotyped characters. Language, behaviour, or events which resemble melodramas are also called melodramatic. In scholarly and historical musical contexts melodramas are dramas of the 18th and 19th centuries in which orchestral music or song was used to accompany the action.
+Melodrama is a style of drama that has been applied on the stage, in movies and television, and radio formats, from the 18th century to the present. Because of the long timeframe in which the style has existed, it is difficult to derive a precise definition. The term melodrama is most often used pejoratively, to suggest that the work to which the term is applied lacks sophistication or subtlety.
+The term originated from the early 19th-century French word mélodrame, which is derived from Greek melos, music, and French drame, drama (from Late Latin drāma, which in turn derives from Greek drān, to do, perform).
+Source: wiki</description>
+</tag>
+<tag id="6148" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO EPISODE</name>
+<description>Tags under this parent tag are going to be moved to episode tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what episodes they should be assigned to.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6246" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-06">
+<name>ending</name>
+<description>This is a container tag to house meta-like tags relating to how endings of anime play out.</description>
+</tag>
+</tags>
+<characters>
+<character id="1192" type="main character in" update="2018-03-18">
+<rating votes="65">7.18</rating>
+<name>Fukuzawa Yumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Fukuzawa Yumi is the main character of the series. In the beginning of the series, Yumi is bashful beyond words, very timid and unsure of herself. She first met http://anidb.net/ch1193 [Sachiko], the star of Lillian School and had her tie fixed by Sachiko, which mortified Yumi. Yumi`s friend, http://anidb.net/ch27888 [Takeshima Tsutaka], took a cute picture of this and wanted to display it in the school festival. Tsutako got Yumi to ask permission from Sachiko. Other characters often comment on how her emotions `show on her face`.
+Source: Wikipedia</description>
+<picture>215059.jpg</picture>
+<seiyuu id="210" picture="71057.jpg">Ueda Kana</seiyuu>
+</character>
+<character id="1193" type="secondary cast in" update="2018-03-18">
+<rating votes="80">6.57</rating>
+<name>Ogasawara Sachiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Ogasawara Sachiko is a student in her 2nd year at the Lillian Girls` Academy. Though prim, elegant and somewhat aloof, Sachiko has both a rough and a very sweet side. She is afraid of heights and dislikes men, to the point where she will do anything she can to avoid interacting or being near one. She is very protective of her petite sœur, http://anidb.net/ch1192 [Fukuzawa Yumi], and cares deeply about her. Unfortunately, she often has the same problem that Yumi does—she does not share most of her problems with her sœur, causing many misunderstandings.
+Sachiko is slated to marry her cousin and fiancé http://anidb.net/ch15124 [Kashiwagi Suguru] after she graduates. This has caused her some distress since, because although she initially cared deeply for him, but he did not reciprocate. They now have a complicated relationship.
+Source: Wikipedia</description>
+<picture>215062.jpg</picture>
+<seiyuu id="229" picture="152363.jpg">Itou Miki</seiyuu>
+</character>
+<character id="1195" type="secondary cast in" update="2018-03-18">
+<rating votes="12">7.12</rating>
+<name>Mizuno Youko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mizuno Youko is a student in her 3rd year at the Lillian Girls` Academy and http://anidb.net/ch1193 [Ogasawara Sachiko]`s grande sœur. As the nearly indisputable leader of the Yamayurikai during her time as Rosa Chinensis, she played a major role in maintaining stability in its sometimes unstable environment. Though usually cool and refined, she was also known to have a fun side. She made Sachiko her petite sœur in a situation happened like Sachiko did to http://anidb.net/ch1192 [Yumi].
+Source: Wikipedia</description>
+<picture>215065.jpg</picture>
+<seiyuu id="295" picture="25758.jpg">Shinohara Emi</seiyuu>
+</character>
+<character id="1196" type="secondary cast in" update="2018-03-18">
+<rating votes="43">8.47</rating>
+<name>Satou Sei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Satou Sei is the exact opposite of most of the characters in the series: loud, rough-around-the-edges, she loves doing what she can to push other peoples` buttons. She especially finds joy in teasing http://anidb.net/ch1192 [Yumi] (and also enjoys irritating http://anidb.net/ch1193 [Sachiko] in the process) as she likes to see their reactions; Yumi affectionately calls that her "old man" behavior. However, Sei is one of the wisest and most caring characters in the series. Though seeming to have a playful and laid-back attitude, Sei has experienced many tragedies in her life, especially in her second year. Sei believes that http://anidb.net/ch1197 [Shimako], her petite sœur, should learn to solve her problems on her own, because that way she`ll become stronger.
+While the relationship between Sei and Shimako seems cold, the truth is that Shimako is extremely devoted to Sei. Their relationship, as Yumi noted, is something that cannot be easily understood. After graduating from the high school division of Lillian, Sei studies English and American Literature at Lillian University.
+Source: Wikipedia</description>
+<picture>215064.jpg</picture>
+<seiyuu id="356" picture="224408.jpg">Toyoguchi Megumi</seiyuu>
+</character>
+<character id="1197" type="secondary cast in" update="2018-03-18">
+<rating votes="65">5.86</rating>
+<name>Toudou Shimako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Toudou Shimako is http://anidb.net/ch1196 [Satou Sei]`s petite sœur at the beginning of the story and her successor later. Underneath her quiet, mannerly exterior lies a surprisingly strong resolve, calm personality and thoughtfulness.
+During http://anidb.net/ch1193 [Sachiko]`s initial attempt to perform the sœur ritual on http://anidb.net/ch1192 [Yumi] in front of the entire student council body, Shimako was the only one who considered Yumi`s feelings of being forced to be one, and was brave enough to voice it out.
+Source: Wikipedia</description>
+<picture>215061.jpg</picture>
+<seiyuu id="10" picture="226529.jpg">Noto Mamiko</seiyuu>
+</character>
+<character id="1199" type="secondary cast in" update="2011-02-21">
+<rating votes="22">6.22</rating>
+<name>Nijou Noriko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nijou Noriko is a young girl with a fascination with Buddhist statues and art. She enters Lillian Academy (a strictly Catholic institution) due to an unexpected turn of events. Due to this fact, she faces an astounding cultural shock (from the old-fashioned style school uniform to the students` mannerisms that she finds too antique and too "refined" to get accustomed to). Even in the novel`s narrative, Shimako is referred as "Shimako-san" from Noriko`s perspective, and not the usual "Shimako-sama" as default to all upper-classmen, and the fact that she hardly uses polite Japanese when talking to Shimako in private, also defines Noriko`s detachment from Lillian`s culture. She has a striaghtforward temper that contradicts her calm exterior and becomes Shimako`s petite sœur after Shimako enters her second year. Her very plain and jet-black hairstyle makes her look like a traditional Japanese doll, another stark contrast to Shimako`s "western doll" appearance.</description>
+<picture>66258.jpg</picture>
+<seiyuu id="56" picture="16651.jpg">Shimizu Kaori</seiyuu>
+</character>
+<character id="1200" type="secondary cast in" update="2018-03-18">
+<rating votes="46">6.62</rating>
+<name>Shimazu Yoshino</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>At the beginning of the series, Shimazu Yoshino is shown as frail girl who was constantly being cared for by her grande sœur, http://anidb.net/ch1201 [Hasekura Rei]. She was voted for the best petite sœur as everyone considered her to be soft and sweet. However, Yoshino is very independent and in some ways tomboyish, despite her sickly status and feminine appearance.
+After her heart surgery, she became more energetic throughout the series and http://anidb.net/ch1192 [Yumi] began to see more of her fits of temper, which were usually directed towards Rei. In addition to being Rei`s petite sœur, Yoshino is also her cousin and next-door neighbor. She admires and loves Rei, but becomes upset with her every time she acts overprotective and fragile.
+Source: Wikipedia</description>
+<picture>215060.jpg</picture>
+<seiyuu id="394" picture="17239.jpg">Ikezawa Haruna</seiyuu>
+</character>
+<character id="1201" type="secondary cast in" update="2018-06-02">
+<rating votes="31">6.11</rating>
+<name>Hasekura Rei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hasekura Rei is a student in her 2nd year at the Lillian Girls` Academy and http://anidb.net/ch1200 [Shimazu Yoshin ]`s grande sœur and cousin. She is shown as very tomboyish on the outside, but is in fact quite gentle despite her appearances.
+Rei enjoys reading shoujo novels, sightseeing, cooking, baking and sewing. She obsessively cares about Yoshino and often has to put up with her mood swings.</description>
+<picture>215063.jpg</picture>
+<seiyuu id="182" picture="226274.jpg">Itou Shizuka</seiyuu>
+</character>
+<character id="1202" type="secondary cast in" update="2018-03-18">
+<rating votes="14">5.99</rating>
+<name>Torii Eriko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Torii Eriko is http://anidb.net/ch1201 [Hasekura Rei]`s grande sœur and the most respected member of the Yamayurikai. Eriko is very gifted and good at almost everything, although she is also enigmatic and eccentric. She has a large forehead, which http://anidb.net/ch1196 [Sei] made fun of when they were young, and began their rivalry. She said once that she chose Rei as her sœur to see if anything interesting would happen.
+Source: Wikipedia</description>
+<picture>215067.jpg</picture>
+<seiyuu id="55" picture="33603.jpg">Nabatame Hitomi</seiyuu>
+</character>
+<character id="1203" type="secondary cast in" update="2018-03-18">
+<rating votes="6">3.57</rating>
+<name>Tsukiyama Minako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tsukiyama Minako is both Editor-in-Chief and president for the Lillian Kawaraban, the school`s newspaper. She is hyperactive, dedicated to her duty as president, always thinking of new ways to get the newest scoop, and can at times give http://anidb.net/ch1192 [Yumi] an uneasy feeling.
+Source: Wikipedia</description>
+<picture>215041.jpg</picture>
+<seiyuu id="160" picture="30490.jpg">Kaida Yuuko</seiyuu>
+</character>
+<character id="1205" type="secondary cast in" update="2018-03-18">
+<rating votes="6">8.59</rating>
+<name>Kanina Shizuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kanina Shizuka, also known as Rosa Canina, is the star singer of the school choir. She admired http://anidb.net/ch1196 [Sei], but later on it is shown that she has also found an interest in Sei`s petite sœur, http://anidb.net/ch1197 [Shimako].
+Source: Wikipedia</description>
+<picture>215047.jpg</picture>
+<seiyuu id="22356" picture="58724.jpg">Rino</seiyuu>
+</character>
+<character id="7091" type="appears in" update="2011-02-21">
+<rating votes="28">5.38</rating>
+<name>Matsudaira Touko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A distant relative and fan of Sachiko. She arrives at Lillian during Yumi`s Second Year. Touko is a member of the Drama club, and nicknamed Mechanical Drill by Satou Sei for her corkscrew pigtails. In the beginning of her first year Touko causes some strain in the relationship between Yumi and Sachiko. However, it is apparent later on in the year that she may become Yumi`s petite soeur.</description>
+<picture>66250.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="15123" type="secondary cast in" update="2018-03-18">
+<rating votes="2">4.84</rating>
+<name>Fukuzawa Yuuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215040.jpg</picture>
+<seiyuu id="71" picture="171537.jpg">Ichiki Mitsuhiro</seiyuu>
+</character>
+<character id="15124" type="appears in" update="2018-03-18">
+<rating votes="5">5.96</rating>
+<name>Kashiwagi Suguru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Kashiwagi Suguru is http://anidb.net/ch1193 [Sachiko]`s cousin and arranged fiancé. He is very arrogant, and especially disliked by http://anidb.net/ch1196 [Sei], but he has prestige in Hanadera Boys` Academy since he is president of the Student Council there when the story begins.
+Source: Wikipedia</description>
+<picture>215043.jpg</picture>
+<seiyuu id="73" picture="58662.jpg">Hiyama Nobuyuki</seiyuu>
+</character>
+<character id="27062" type="appears in" update="2011-01-16">
+<name>Ogasawara Sayako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63543.jpg</picture>
+<seiyuu id="1939" picture="21208.jpg">Aizawa Keiko</seiyuu>
+</character>
+<character id="27887" type="appears in" update="2018-03-18">
+<rating votes="1">3.80</rating>
+<name>Yamaguchi Mami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yamaguchi Mami is a member of the newspaper team, and http://anidb.net/ch1203 [Minako]`s sometimes irreverent petite sœur. However, like Minako, Mami herself is also always looking for the latest scoop. Mami also sometimes finds herself being the one to rein in Minako`s hyperactive tendencies to run amok. But on the other hand, Minako often wishes that Mami wouldn`t be so serious all the time, resulting in a rather unorthodox mix of sœurs.
+Source: Wikipedia</description>
+<picture>215042.jpg</picture>
+<seiyuu id="305" picture="37148.jpg">Saitou Chiwa</seiyuu>
+</character>
+<character id="27888" type="appears in" update="2018-03-18">
+<rating votes="1">7.63</rating>
+<name>Takeshima Tsutako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Takeshima Tsutako is http://anidb.net/ch1192 [Yumi]`s friend and avid photographer, called the "ace" of the Photography Club and helps out sometimes for the school`s newspaper. Never without her camera, she is always looking to capture the latest gossip about the Yamayurikai, and swears she can never be tied down to having a sœur of her own. She is sharp and constantly on the standby for the best shot; and with a quick brain and tongue to match, she often provides the emotional support and advice for Yumi. She sometimes unexpectedly defuses a few tensions within the Yamayurikai with her camera.</description>
+<picture>215038.jpg</picture>
+<seiyuu id="97" picture="222166.jpg">Satou Rina</seiyuu>
+</character>
+<character id="27890" type="appears in" update="2018-03-18">
+<rating votes="1">5.68</rating>
+<name>Tanuma Chisato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tanuma Chisato is part of the Kendo Club and is an admirer of http://anidb.net/ch1201 [Hasekura Rei]. She went on a date with Rei in the first season after finding Rei`s card in the treasure hunt on Valentine`s Day. In the fourth season she is the finder of http://anidb.net/ch1200 [Yoshino]`s card.
+Source: Wikipedia</description>
+<picture>215049.jpg</picture>
+<seiyuu id="216" picture="171983.jpg">Takahashi Mikako</seiyuu>
+</character>
+<character id="27891" type="appears in" update="2012-02-20">
+<rating votes="3">5.28</rating>
+<name>Yamamura-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81880.jpg</picture>
+<seiyuu id="74" picture="84835.jpg">Oohara Sayaka</seiyuu>
+</character>
+<character id="27904" type="appears in" update="2018-03-19">
+<rating votes="1">7.63</rating>
+<name>Yamanobe</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Professor Yamanobe is a teacher at Hanadera. His passion is dinosaurs, and he loves going to the zoo to watch elephants (as he imagines dinosaurs would walk like elephants do). He is a widower with one daughter. His wife died about a year before the events of Itoshiki Toshitsuki. http://anidb.net/ch1202 [Torii Eriko] proposes to him, which he declines. However she refuses to give up and promises him that she will make him fall in love with her.
+Source: Wikipedia</description>
+<picture>215077.jpg</picture>
+<seiyuu id="2224" picture="21768.jpg">Itou Eiji</seiyuu>
+</character>
+<character id="27905" type="appears in" update="2012-04-25">
+<name>Ikegami Yumiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="404" picture="151682.jpg">Takashima Gara</seiyuu>
+</character>
+<character id="27906" type="appears in" update="2011-01-28">
+<name>Aota-sensei</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4478" picture="26750.jpg">Matsuoka Fumio</seiyuu>
+</character>
+<character id="27907" type="appears in" update="2012-04-25">
+<name>Katou Kei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="180" picture="171567.jpg">Saiga Mitsuki</seiyuu>
+</character>
+<character id="27908" type="appears in" update="2012-04-25">
+<name>Hoshina Eiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="580" picture="17973.jpg">Yuya Atsuko</seiyuu>
+</character>
+<character id="27909" type="appears in" update="2011-01-28">
+<name>Nojima</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="192" picture="41287.jpg">Watanabe Akeno</seiyuu>
+</character>
+<character id="27910" type="appears in" update="2012-04-25">
+<name>Ayako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4439" picture="26718.jpg">Takemura Yoshiko</seiyuu>
+</character>
+<character id="94632" type="appears in" update="2018-03-19">
+<rating votes="1">3.80</rating>
+<name>Torii Kafu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>215078.jpg</picture>
+<seiyuu id="4690" picture="246059.jpg">Itou Kazuaki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="21598" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2004-07-04</airdate>
+<rating votes="6">5.23</rating>
+<title xml:lang="ja">長き夜の</title>
+<title xml:lang="en">Upon the Long Night</title>
+<title xml:lang="x-jat">Nagaki Yoru no</title>
+</episode>
+<episode id="21599" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2004-07-11</airdate>
+<rating votes="5">5.26</rating>
+<title xml:lang="ja">黄薔薇まっしぐら</title>
+<title xml:lang="en">The Yellow Rose at Full Tilt</title>
+<title xml:lang="x-jat">Ki Bara Masshigura</title>
+</episode>
+<episode id="22273" update="2011-10-20">
+<epno type="5">P1</epno>
+<length>25</length>
+<rating votes="1">8.91</rating>
+<title xml:lang="en">Episode 1 - Parody sub</title>
+</episode>
+<episode id="22450" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2004-07-18</airdate>
+<rating votes="5">7.32</rating>
+<title xml:lang="ja">いと忙し日日</title>
+<title xml:lang="en">Most Dreadfully Busy Days</title>
+<title xml:lang="x-jat">Itosewashi Hibi</title>
+</episode>
+<episode id="22587" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2004-07-25</airdate>
+<rating votes="3">7.71</rating>
+<title xml:lang="ja">WILL</title>
+<title xml:lang="en">Will</title>
+<title xml:lang="x-jat">Will</title>
+</episode>
+<episode id="22930" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2004-08-08</airdate>
+<rating votes="4">8.64</rating>
+<title xml:lang="ja">片手だけつないで</title>
+<title xml:lang="en">Brought Together by Just One Hand</title>
+<title xml:lang="x-jat">Katate Dake Tsunaide</title>
+</episode>
+<episode id="22953" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2004-08-01</airdate>
+<rating votes="6">9.02</rating>
+<title xml:lang="ja">いつしか年も</title>
+<title xml:lang="en">The Years That Flew By</title>
+<title xml:lang="x-jat">Itsushika Toshi mo</title>
+</episode>
+<episode id="23122" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2004-08-15</airdate>
+<rating votes="4">8.33</rating>
+<title xml:lang="ja">チェリーブロッサム</title>
+<title xml:lang="en">Cherry Blossom</title>
+<title xml:lang="x-jat">Cherry Blossom</title>
+</episode>
+<episode id="23409" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2004-08-22</airdate>
+<rating votes="4">3.43</rating>
+<title xml:lang="ja">銀杏の中の桜</title>
+<title xml:lang="en">The Cherry Tree Among the Ginkgos</title>
+<title xml:lang="x-jat">Ichou no Naka no Sakura</title>
+</episode>
+<episode id="23417" update="2011-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2004-08-29</airdate>
+<rating votes="3">8.24</rating>
+<title xml:lang="ja">ロザリオの滴</title>
+<title xml:lang="en">Tears of the Rosary</title>
+<title xml:lang="x-jat">Rosary no Shizuku</title>
+</episode>
+<episode id="23653" update="2011-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2004-09-05</airdate>
+<rating votes="3">6.25</rating>
+<title xml:lang="ja">黄薔薇注意報</title>
+<title xml:lang="en">Yellow Rose Weather Advisory</title>
+<title xml:lang="x-jat">Ki Bara Chuuihou</title>
+</episode>
+<episode id="23792" update="2011-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2004-09-12</airdate>
+<rating votes="5">8.21</rating>
+<title xml:lang="ja">レイニーブルー</title>
+<title xml:lang="en">Rainy Blue</title>
+<title xml:lang="x-jat">Rainy Blue</title>
+</episode>
+<episode id="24141" update="2011-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2004-09-19</airdate>
+<rating votes="4">8.46</rating>
+<title xml:lang="ja">青い傘</title>
+<title xml:lang="en">The Blue Umbrella</title>
+<title xml:lang="x-jat">Aoi Kasa</title>
+</episode>
+<episode id="24507" update="2011-10-20">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2004-09-26</airdate>
+<rating votes="4">9.98</rating>
+<title xml:lang="ja">パラソルをさして</title>
+<title xml:lang="en">Holding a Parasol</title>
+<title xml:lang="x-jat">Parasol o Sashite</title>
+</episode>
+<episode id="25293" update="2005-09-24">
+<epno type="2">S1</epno>
+<length>2</length>
+<airdate>2004-10-22</airdate>
+<rating votes="3">8.98</rating>
+<title xml:lang="ja">マリア様にはないしょ. 第1話</title>
+<title xml:lang="en">Maria-sama ni wa Naisho 1 (DVD Special)</title>
+<title xml:lang="x-jat">Maria-sama ni wa Naisho 1</title>
+</episode>
+<episode id="26620" update="2005-09-24">
+<epno type="2">S2</epno>
+<length>2</length>
+<airdate>2004-11-25</airdate>
+<rating votes="4">8.82</rating>
+<title xml:lang="ja">マリア様にはないしょ. 第2話</title>
+<title xml:lang="en">Maria-sama ni wa Naisho 2 (DVD Special)</title>
+<title xml:lang="x-jat">Maria-sama ni wa Naisho 2</title>
+</episode>
+<episode id="27342" update="2005-09-24">
+<epno type="2">S3</epno>
+<length>1</length>
+<airdate>2004-12-22</airdate>
+<rating votes="3">7.08</rating>
+<title xml:lang="ja">マリア様にはないしょ. 第3話</title>
+<title xml:lang="en">Maria-sama ni wa Naisho 3 (DVD Special)</title>
+<title xml:lang="x-jat">Maria-sama ni wa Naisho 3</title>
+</episode>
+<episode id="29846" update="2005-09-24">
+<epno type="2">S4</epno>
+<length>2</length>
+<airdate>2005-02-09</airdate>
+<rating votes="1">9.29</rating>
+<title xml:lang="ja">マリア様にはないしょ. 第4話</title>
+<title xml:lang="en">Maria-sama ni wa Naisho 4 (DVD Special)</title>
+<title xml:lang="x-jat">Maria-sama ni wa Naisho 4</title>
+</episode>
+<episode id="30540" update="2005-09-24">
+<epno type="2">S5</epno>
+<length>2</length>
+<airdate>2005-02-25</airdate>
+<rating votes="1">9.29</rating>
+<title xml:lang="ja">マリア様にはないしょ. 第5話</title>
+<title xml:lang="en">Maria-sama ni wa Naisho 5 (DVD Special)</title>
+<title xml:lang="x-jat">Maria-sama ni wa Naisho 5</title>
+</episode>
+<episode id="30541" update="2005-09-24">
+<epno type="2">S6</epno>
+<length>2</length>
+<airdate>2005-03-25</airdate>
+<rating votes="1">9.29</rating>
+<title xml:lang="ja">マリア様にはないしょ. 第6話</title>
+<title xml:lang="en">Maria-sama ni wa Naisho 6 (DVD Special)</title>
+<title xml:lang="x-jat">Maria-sama ni wa Naisho 6</title>
+</episode>
+<episode id="122490" update="2010-09-17">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2004-07-04</airdate>
+<rating votes="1">2.38</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="122491" update="2010-09-17">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2004-07-04</airdate>
+<rating votes="1">2.38</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="139789" update="2012-05-26">
+<epno type="6">O6</epno>
+<length>4</length>
+<title xml:lang="en">Alternative Previews 6</title>
+</episode>
+<episode id="139790" update="2012-05-26">
+<epno type="6">O5</epno>
+<length>4</length>
+<title xml:lang="en">Alternative Previews 5</title>
+</episode>
+<episode id="139791" update="2012-05-26">
+<epno type="6">O4</epno>
+<length>4</length>
+<title xml:lang="en">Alternative Previews 4</title>
+</episode>
+<episode id="139792" update="2012-05-26">
+<epno type="6">O3</epno>
+<length>4</length>
+<title xml:lang="en">Alternative Previews 3</title>
+</episode>
+<episode id="139793" update="2012-05-26">
+<epno type="6">O2</epno>
+<length>4</length>
+<title xml:lang="en">Alternative Previews 2</title>
+</episode>
+<episode id="139794" update="2012-05-26">
+<epno type="6">O1</epno>
+<length>4</length>
+<title xml:lang="en">Alternative Previews 1</title>
+</episode>
+<episode id="139795" update="2012-05-26">
+<epno type="2">S18</epno>
+<length>2</length>
+<title xml:lang="en">Special DVD Warning 9</title>
+</episode>
+<episode id="139796" update="2012-05-26">
+<epno type="2">S17</epno>
+<length>2</length>
+<title xml:lang="en">Special DVD Warning 8</title>
+</episode>
+<episode id="139797" update="2012-05-26">
+<epno type="2">S16</epno>
+<length>2</length>
+<title xml:lang="en">Special DVD Warning 7</title>
+</episode>
+<episode id="139798" update="2012-05-26">
+<epno type="2">S15</epno>
+<length>1</length>
+<title xml:lang="en">Special DVD Warning 6</title>
+</episode>
+<episode id="139799" update="2012-05-26">
+<epno type="2">S14</epno>
+<length>2</length>
+<title xml:lang="en">Special DVD Warning 5</title>
+</episode>
+<episode id="139800" update="2012-05-26">
+<epno type="2">S13</epno>
+<length>1</length>
+<title xml:lang="en">Special DVD Warning 4</title>
+</episode>
+<episode id="139801" update="2012-05-26">
+<epno type="2">S12</epno>
+<length>2</length>
+<title xml:lang="en">Special DVD Warning 3</title>
+</episode>
+<episode id="139802" update="2012-05-26">
+<epno type="2">S11</epno>
+<length>2</length>
+<title xml:lang="en">Special DVD Warning 2</title>
+</episode>
+<episode id="139803" update="2012-05-26">
+<epno type="2">S10</epno>
+<length>2</length>
+<title xml:lang="en">Special DVD Warning 1</title>
+</episode>
+<episode id="139804" update="2012-05-26">
+<epno type="2">S9</epno>
+<length>5</length>
+<title xml:lang="ja">片手だけつないで</title>
+<title xml:lang="en">Hand in Hand AMV</title>
+<title xml:lang="x-jat">Katate Dake Tsunaide</title>
+</episode>
+<episode id="139805" update="2012-05-26">
+<epno type="2">S8</epno>
+<length>4</length>
+<title xml:lang="ja">紅薔薇のテーマ</title>
+<title xml:lang="en">Benibara`s Theme AMV</title>
+<title xml:lang="x-jat">Benibara no Theme</title>
+</episode>
+<episode id="139806" update="2012-05-26">
+<epno type="2">S7</epno>
+<length>3</length>
+<title xml:lang="ja">明日晴れたら</title>
+<title xml:lang="en">If it is sunny tomorrow AMV</title>
+<title xml:lang="x-jat">Ashita Haretara</title>
+</episode>
+<episode id="139807" update="2012-05-26">
+<epno type="4">T2</epno>
+<length>2</length>
+<title xml:lang="en">Fandisc CM 2</title>
+</episode>
+<episode id="139808" update="2012-05-26">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Fandisc CM 1</title>
+</episode>
+<episode id="139809" update="2012-05-26">
+<epno type="2">S19</epno>
+<length>1</length>
+<title xml:lang="en">Maria-sama ni wa Naisho Fandisk Special</title>
+</episode>
+</episodes>
+</anime>

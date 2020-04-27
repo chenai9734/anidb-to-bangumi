@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13463" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-05-31</startdate>
+<enddate>2014-05-31</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Zhu Zhu Xia: Yong Chuang Juren Dao</title>
+<title xml:lang="en" type="synonym">GG Bond Movie 2</title>
+<title xml:lang="zh-Hans" type="synonym">猪猪侠之勇闯巨人岛</title>
+<title xml:lang="zh-Hans" type="official">猪猪侠 勇闯巨人岛</title>
+</titles>
+<relatedanime>
+<anime id="13462" type="Other">Zhu Zhu Xia: Jiong Jiong Wei Ji</anime>
+<anime id="13464" type="Other">Zhu Zhu Xia: Zhong Ji Jue Zhan</anime>
+</relatedanime>
+<ratings>
+<permanent count="1">1.04</permanent>
+<temporary count="1">3.00</temporary>
+</ratings>
+<picture>207244.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38133</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>GG_Bond_2</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>猪猪侠</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="190894" update="2017-09-18">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2014-05-31</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

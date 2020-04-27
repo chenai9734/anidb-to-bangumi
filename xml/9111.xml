@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9111" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2006</startdate>
+<enddate>2008-01-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hadakya no Otonosama</title>
+<title xml:lang="ja" type="official">はだきゃのおとのさま</title>
+</titles>
+<url>http://www.answerstudio.co.jp/html/w_tono/j_works_tono_1.htm</url>
+<creators>
+<name id="1292" type="Work">The Answer Studio</name>
+</creators>
+<ratings>
+<permanent count="22">2.11</permanent>
+<temporary count="22">3.52</temporary>
+</ratings>
+<picture>84628.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18353</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.answerstudio.co.jp/works/hadakya/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="90235" type="main character in" update="2017-07-05">
+<name>Otonosama</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65190.png</picture>
+</character>
+<character id="90236" type="secondary cast in" update="2017-07-05">
+<name>Oi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65191.png</picture>
+</character>
+<character id="90237" type="secondary cast in" update="2017-07-05">
+<name>Ran</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65192.png</picture>
+</character>
+</characters>
+<episodes>
+<episode id="141285" update="2017-07-05">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2008-01-01</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="141286" update="2012-07-28">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

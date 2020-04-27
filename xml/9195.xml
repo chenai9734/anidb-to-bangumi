@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9195" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1994-04-21</startdate>
+<enddate>1994-04-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kiki to Lala no Papa to Mama ni Aitai</title>
+<title xml:lang="ja" type="official">キキとララのパパとママにあいたい</title>
+</titles>
+<relatedanime>
+<anime id="10930" type="Other">My Melody no Ookami-san ni Ki o Tsukete</anime>
+</relatedanime>
+<creators>
+<name id="4880" type="Direction">Hata Masami</name>
+</creators>
+<ratings>
+<permanent count="5">3.88</permanent>
+<temporary count="5">5.20</temporary>
+</ratings>
+<picture>86713.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21974</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17979</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>339781</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="43683" type="main character in" update="2013-04-21">
+<name>Kiki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135637.jpg</picture>
+<seiyuu id="1734" picture="38029.jpg">Toda Keiko</seiyuu>
+</character>
+<character id="43685" type="main character in" update="2013-04-21">
+<name>Lala</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135639.jpg</picture>
+<seiyuu id="437" picture="173174.jpg">Shiratori Yuri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="139218" update="2014-11-12">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1994-04-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

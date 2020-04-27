@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14446" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-03-01</startdate>
+<enddate>2019-03-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Doraemon: Nobita no Getsumen Tansaki</title>
+<title xml:lang="en" type="synonym">Doraemon the Movie: Nobita`s Chronicle of the Moon Exploration</title>
+<title xml:lang="ja" type="official">映画ドラえもん のび太の月面探査記</title>
+</titles>
+<relatedanime>
+<anime id="4635" type="Parent Story">Doraemon (2005)</anime>
+</relatedanime>
+<url>https://doraeiga.com/2019/</url>
+<creators>
+<name id="4732" type="Original Work">Fujiko F. Fujio</name>
+<name id="26220" type="Direction">Yakuwa Shinnosuke</name>
+</creators>
+<ratings>
+<permanent count="3">3.48</permanent>
+<temporary count="3">5.00</temporary>
+</ratings>
+<picture>227677.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22155</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38530</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://doraeiga.com/2019/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ドラえもん_のび太の月面探査記</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365791</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21789</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>doraemonChannel</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="209241" update="2019-03-01">
+<epno type="1">1</epno>
+<length>115</length>
+<airdate>2019-03-01</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="227692" update="2020-03-28">
+<epno type="2">S1</epno>
+<length>4</length>
+<title xml:lang="ja">スペシャル映像（2018年10月15日製作発表会見にて）</title>
+<title xml:lang="en">Episode S1</title>
+</episode>
+</episodes>
+</anime>

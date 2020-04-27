@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9032" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2012-03-23</startdate>
+<enddate>2012-03-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Uchuu Kyoudai: Apo`s Dream</title>
+<title xml:lang="en" type="synonym">Space Brothers: Apo`s Dream</title>
+<title xml:lang="ja" type="official">宇宙兄弟 APO`s DREAM</title>
+</titles>
+<relatedanime>
+<anime id="8865" type="Parent Story">Uchuu Kyoudai</anime>
+</relatedanime>
+<description>* Based on a seinen manga by http://anidb.net/cr29882 [Koyama Chuuya], serialised in Weekly Morning.
+The pet dog http://anidb.net/ch42147 [Apo] takes the leading role in this original flash anime story.
+Note: Bundled with the limited edition of 17th manga volume.</description>
+<ratings>
+<permanent count="136">2.20</permanent>
+<temporary count="138">4.63</temporary>
+</ratings>
+<picture>84482.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>13479</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Uchū_Kyōdai</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>宇宙兄弟</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="42147" type="main character in" update="2012-11-22">
+<rating votes="10">8.90</rating>
+<name>Apo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>128444.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="138109" update="2012-03-23">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2012-03-23</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7352" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1998-09-15</startdate>
+<enddate>1998-09-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kobo-chan Special: Yakusoku no Magic Day</title>
+<title xml:lang="ja" type="official">コボちゃんスペシャル 約束のマジックディ</title>
+</titles>
+<relatedanime>
+<anime id="7335" type="Other">Kobo-chan</anime>
+</relatedanime>
+<url>http://www.eiken-anime.jp/works/works043.html</url>
+<ratings>
+<permanent count="1">4.64</permanent>
+<temporary count="1">4.00</temporary>
+</ratings>
+<picture>221426.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11520</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.eiken-anime.jp/works/works043.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363438</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11177</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2439" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-16">
+<name>PIC NEEDS IMPROVEMENT</name>
+<description>This entry has a poor picture and needs to have it replaced by a higher-quality alternative. Causes may include: it is too small; its colours or lighting are bad; it has excessive compression or other encoding issues; it is from non-anime sources (anime/char); the face is hard to see (char/creator); the hair/eye/skin colours do not match the anime (char); it does not represent their usual appearance (char); among others. If you can, please swap a better picture in and remove this tag. Thank you.</description>
+<picurl>224875.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="116122" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1998-09-15</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

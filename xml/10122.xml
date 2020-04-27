@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10122" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2012-12-16</startdate>
+<enddate>2012-12-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Rinkaku</title>
+<title xml:lang="ja" type="official">輪郭</title>
+</titles>
+<ratings>
+<permanent count="86">3.82</permanent>
+<temporary count="87">4.86</temporary>
+</ratings>
+<picture>143361.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18831</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4499" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2014-07-28">
+<name>some weird shit goin` on</name>
+<description>Scenes of this show point to insanely strange events which seem to be taking place; throughout its episodes, the show may or may not explain what is going on. Either way, many viewers will find that a succinct and accurate way to describe the show is "WTF?", and the show`s explanations (or lack thereof) to the events will often be subject of heated debate.</description>
+</tag>
+<tag id="5529" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-11-05">
+<name>black and white</name>
+<description>Some or all of this anime is in black and white, typical of older anime made before ~1960. Some modern anime may intentionally shift to black and white for certain scenes or episodes as an artistic effect.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="154461" update="2013-10-01">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2012-12-16</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

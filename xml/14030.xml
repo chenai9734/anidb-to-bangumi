@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14030" restricted="false">
+<type>TV Series</type>
+<episodecount>47</episodecount>
+<startdate>2018-06-02</startdate>
+<enddate>2019-04-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Future Card Shin Buddyfight</title>
+<title xml:lang="en" type="synonym">Future Card Buddyfight Ace</title>
+<title xml:lang="ja" type="official">フューチャーカード 神バディファイト</title>
+<title xml:lang="zh-Hans" type="official">未来卡 神搭档对战</title>
+</titles>
+<url>https://tv-aichi.co.jp/shin-buddyfight/</url>
+<creators>
+<name id="9805" type="Character Design">Hori Taeko</name>
+<name id="727" type="Animation Work">OLM</name>
+<name id="719" type="Animation Work">Xebec</name>
+<name id="3718" type="Series Composition">Kawasaki Hiroyuki</name>
+<name id="1082" type="Original Work">Shogakukan</name>
+<name id="6287" type="Original Work">Bushiroad</name>
+<name id="42583" type="Original Work">Tamura Mitsuhisa</name>
+<name id="682" type="Direction">Kato Takao</name>
+</creators>
+<ratings>
+<permanent count="4">4.03</permanent>
+<temporary count="4">2.75</temporary>
+</ratings>
+<picture>217628.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20833</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37739</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/shin-buddyfight/</url>
+</externalentity>
+<externalentity>
+<url>https://tv-aichi.co.jp/shin-buddyfight/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>フューチャーカード_神バディファイト</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4950</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364365</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21221</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2863" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>proxy battles</name>
+<description>In our terms, a proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode. Often the training aspect is also involved, or in some cases the proxies are nothing more than holographic representatives of some other variation of competition (like for example a card game). While many popular shounen anime fit under this category, it`s not limited to shounen anime.</description>
+</tag>
+</tags>
+<characters>
+<character id="96346" type="main character in" update="2018-06-29">
+<name>Mikado Yuuga</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219707.jpg</picture>
+<seiyuu id="55552" picture="246229.jpg">Mano Takumi</seiyuu>
+</character>
+<character id="96347" type="main character in" update="2018-06-29">
+<name>Hoshiyomi Subaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219709.jpg</picture>
+<seiyuu id="41754" picture="181639.jpg">Kobayashi Daiki</seiyuu>
+</character>
+<character id="96348" type="main character in" update="2018-06-29">
+<name>Rikuou Masato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219710.jpg</picture>
+<seiyuu id="23574" picture="64846.jpg">Morishima Shuuta</seiyuu>
+</character>
+<character id="96349" type="secondary cast in" update="2018-06-29">
+<name>Kakogawa Ranma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219711.jpg</picture>
+<seiyuu id="453" picture="45925.jpg">Shindou Kei</seiyuu>
+</character>
+<character id="96350" type="secondary cast in" update="2018-06-29">
+<name>Mikono Miko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219712.jpg</picture>
+<seiyuu id="37300" picture="167153.jpg">Itou Ayasa</seiyuu>
+</character>
+<character id="96351" type="secondary cast in" update="2018-06-29">
+<name>Mikado Haru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219714.jpg</picture>
+<seiyuu id="44217" picture="223382.jpg">Nishimoto Rimi</seiyuu>
+</character>
+<character id="96352" type="secondary cast in" update="2018-06-29">
+<name>Mikado Paruko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219715.jpg</picture>
+<seiyuu id="21805" picture="169875.jpg">Tokui Sora</seiyuu>
+</character>
+<character id="96353" type="secondary cast in" update="2018-06-29">
+<name>Da Dan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219716.jpg</picture>
+<seiyuu id="552" picture="23199.jpg">Miura Hiroaki</seiyuu>
+</character>
+<character id="96354" type="secondary cast in" update="2018-06-29">
+<name>Nanana Ion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219717.jpg</picture>
+<seiyuu id="44218" picture="223383.jpg">Ozaki Yuka</seiyuu>
+</character>
+<character id="96355" type="secondary cast in" update="2018-06-29">
+<name>Ryuuenji Tasuku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219718.jpg</picture>
+<seiyuu id="36680" picture="153752.jpg">Saitou Souma</seiyuu>
+</character>
+<character id="96356" type="secondary cast in" update="2018-06-29">
+<name>Kurouzu Raito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219719.jpg</picture>
+<seiyuu id="29613" picture="78208.jpg">Aoi Shouta</seiyuu>
+</character>
+<character id="96357" type="secondary cast in" update="2018-06-29">
+<name>Yumegatari Meru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219720.jpg</picture>
+<seiyuu id="2296" picture="189623.jpg">Hayami Saori</seiyuu>
+</character>
+<character id="96358" type="secondary cast in" update="2018-06-29">
+<name>Sekai Mamoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219721.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="96359" type="secondary cast in" update="2018-06-29">
+<name>Gargantua Dragon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219722.jpg</picture>
+<seiyuu id="1616" picture="23191.jpg">Inada Tetsu</seiyuu>
+</character>
+<character id="96360" type="appears in" update="2018-06-29">
+<name>Tensenryuu Cross Astorgear</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219723.jpg</picture>
+<seiyuu id="36680" picture="153752.jpg">Saitou Souma</seiyuu>
+</character>
+<character id="96361" type="appears in" update="2018-06-29">
+<name>Raibu Agito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219724.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="96362" type="appears in" update="2018-06-29">
+<name>Kaseijin UFO Takokichi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219725.jpg</picture>
+<seiyuu id="4929" picture="41385.jpg">Kitta Izumi</seiyuu>
+</character>
+<character id="96363" type="appears in" update="2018-06-29">
+<name>Star Dragner Jackknife</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219726.jpg</picture>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+<character id="96364" type="appears in" update="2018-06-29">
+<name>Hikari no Denshin Amaterasu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219727.jpg</picture>
+<seiyuu id="25107" picture="76467.jpg">Aimi</seiyuu>
+</character>
+<character id="96365" type="appears in" update="2018-06-29">
+<name>Akazukin Ema</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219728.jpg</picture>
+<seiyuu id="36501" picture="134687.jpg">Yamada Natsumi</seiyuu>
+</character>
+<character id="96366" type="appears in" update="2018-06-29">
+<name>Ginga Choujin Cosmoman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219729.jpg</picture>
+<seiyuu id="1683" picture="223030.jpg">Kanemitsu Nobuaki</seiyuu>
+</character>
+<character id="96367" type="appears in" update="2018-06-29">
+<name>Garcat</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219730.jpg</picture>
+<seiyuu id="34311" picture="242882.jpg">Mizuno Marie</seiyuu>
+</character>
+<character id="96368" type="appears in" update="2018-06-29">
+<name>Gardog</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219731.jpg</picture>
+<seiyuu id="49793" picture="201315.jpg">Okano Yuu</seiyuu>
+</character>
+<character id="96369" type="appears in" update="2018-06-29">
+<name>Garbird</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>219732.jpg</picture>
+<seiyuu id="2071" picture="74324.jpg">Oohata Shintarou</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="200318" update="2018-06-23">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2018-06-23</airdate>
+<title xml:lang="ja">転校生はスポーツの神!</title>
+<title xml:lang="en">The Transfer Student Is the Ace of Sports!</title>
+<title xml:lang="x-jat">Tenkousei wa Sports no Kami!</title>
+<summary>Masato, the Ace of Sports, transfers to Aibo Academy. Ranma is eager to have Yuga battle him in a Buddyfight...but first, they have to clear their name when Masato accuses them of pulling pranks on PalTube.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768851</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="200319" update="2018-06-16">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-06-16</airdate>
+<title xml:lang="ja">激突! 遊びの神VS勉強の神!!</title>
+<title xml:lang="en">Clash of the Aces! Ace of Games versus Ace of Study!</title>
+<title xml:lang="x-jat">Gekitotsu! Asobi no Kami VS Benkyou no Kami!!</title>
+<summary>Yuga meets Subaru, a brilliant but standoffish schoolmate known as the Ace of Study. At Ranma`s suggestion, Yuga and Subaru face off in a friendly Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768849</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="200320" update="2018-06-09">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-06-09</airdate>
+<title xml:lang="ja">友情対決! 友牙VSランマ!!</title>
+<title xml:lang="en">Friendship Battle! Yuga versus Ranma!</title>
+<title xml:lang="x-jat">Yuujou Taiketsu! Yuuga vs Ranma!!</title>
+<summary>Garga adjusts to life in the human world. Yuga begins to feels guilty about getting a Buddy before his friend Ranma, just as Ranma challenges him to a Buddyfight with Garga as the prize.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768847</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="200321" update="2018-06-02">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2018-06-02</airdate>
+<title xml:lang="ja">闘いの神! ガルガンチュア・ドラゴン!!</title>
+<title xml:lang="en">Deity of Combat! Gargantua Dragon!</title>
+<title xml:lang="x-jat">Tatakai no Kami! Gargantua Dragon!!</title>
+<summary>Yuga and his best friend Ranma spend their days trying to become the next viral video stars. But when Yuga finds a mysterious card in his room, he`s drawn into the world of Buddyfight, where his very own Buddy monster is waiting for him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768845</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="201618" update="2018-07-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2018-07-21</airdate>
+<title xml:lang="ja">降臨! 光の電神アマテラス!!</title>
+<title xml:lang="en">A Deity Descends! Electrodeity of Light, Amaterasu!</title>
+<title xml:lang="x-jat">Kourin! Hikari no Ryuujin Amaterasu!!</title>
+<summary>The ABC Cup tournament goes on break. Miko`s connection to Yuga is finally revealed, and Miko unexpectedly gains a Buddy of her own: the deity Amaterasu.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774850</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="201619" update="2018-07-15">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2018-07-14</airdate>
+<title xml:lang="ja">おとぎの国のメル! 解き放て, スバル様の呪い!</title>
+<title xml:lang="en">Mel`s Adventures in Fairyland! Reverse Prince Subaru`s Curse!</title>
+<title xml:lang="x-jat">Otogi no Kuni no Meru! Tokihanate, Subaru-sama no Noroi!</title>
+<summary>Subaru`s next opponent in the ABC Cup tournament is Mel Yumegatari, a fairy tale fan with a crush on Subaru. Mel believes that Subaru is under a magical curse, and decides to save him by defeating him in a Buddyfight match.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774849</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="201620" update="2018-07-08">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2018-07-07</airdate>
+<title xml:lang="ja">ランマ猛攻! 勝つのはオレだぜィ!!</title>
+<title xml:lang="en">Ranma`s Wild Charge! I`m the One Who`ll Win!</title>
+<title xml:lang="x-jat">Ranma Moukou! Katsu no wa Ore Dazi!!</title>
+<summary>Ranma is frustrated by Yuga and Garga getting all the attention, especially when a mysterious girl shows up and declares herself to be a fan. He decides to prove his worth as a Buddyfighter by defeating Yuga in their ABC Cup match.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774848</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="201621" update="2018-07-07">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2018-06-30</airdate>
+<title xml:lang="ja">ついにスタート! ABCカップ!!</title>
+<title xml:lang="en">It`s Finally Begun! The ABC Cup!</title>
+<title xml:lang="x-jat">Tsui ni Start! ABC Cup!!</title>
+<summary>Aibo Academy`s annual tradition, the ABC Cup tournament has begun. Masato`s first opponent is Banjoe Onizuka, a brawler with a bad reputation.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>768853</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202789" update="2018-08-19">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2018-08-18</airdate>
+<title xml:lang="ja">学園最強は誰だ!? 勝利を決めるカード!</title>
+<title xml:lang="en">Who`s the Academy`s Best Fighter? The Card That Decides Victory!</title>
+<title xml:lang="x-jat">Gakuen Saikyou wa Dare Da!? Shouri o Kimeru Card!</title>
+<summary>Yuga and Masato continue to battle in the final round of the ABC Cup. Yuga`s newfound popularity begins to take its toll on Ranma.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774854</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202790" update="2018-08-12">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2018-08-11</airdate>
+<title xml:lang="ja">ABCカップ決勝! 友牙VSマサト!!</title>
+<title xml:lang="en">ABC Cup Finals! Yuga versus Masato!</title>
+<title xml:lang="x-jat">ABC Cup Kesshou! Yuuga vs Masato!!</title>
+<summary>Yuga and Masato prepare to face each other in the final round of the ABC Cup. But their pre-match interview takes an unexpected turn when the villainous PalTuber Da Dan makes an appearance.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774853</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202791" update="2018-08-04">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2018-08-04</airdate>
+<title xml:lang="ja">果たせリベンジ! 友牙VSスバル!!</title>
+<title xml:lang="en">Win the Rematch! Yuga versus Subaru!</title>
+<title xml:lang="x-jat">Hatase Revenge! Yuuga vs Subaru!!</title>
+<summary>Ranma feels conflicted about all the attention that Yuga is getting as he heads into the ABC Cup semi-final match against Subaru.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774852</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202792" update="2018-07-29">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2018-07-28</airdate>
+<title xml:lang="ja">守れ平和を! 銀河超人コスモマン!!</title>
+<title xml:lang="en">Defend Peace! Galaxy Exalt, Cosmoman!</title>
+<title xml:lang="x-jat">Mamore Heiwa o! Ginga Choujin Cosmoman!!</title>
+<summary>Masato discovers that his opponent in the next match, Mamoru Sekai, is secretly the heroic Cosmoman. When Cosmoman rescues him from a rampaging Illegal monster, Masato vows to help his opponent any way that he can.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774851</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="203747" update="2018-08-26">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2018-08-25</airdate>
+<title xml:lang="ja">ロストワールド! 凶乱魔竜ヴァニティ・骸・デストロイヤー!! ―前編―</title>
+<title xml:lang="en">Lost World! Vile Demonic Dragon, Vanity Husk Destroyer! Part 1</title>
+<title xml:lang="x-jat">Lost World! Kyouran Ma Ryuu Vanity Kara Destroyer!! Zenpen</title>
+<summary>Yuga discovers that Ranma is moving away. Ranma challenges Yuga to one final Buddyfight, and reveals his new deck and new Buddy.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774855</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="204423" update="2018-09-15">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-09-15</airdate>
+<title xml:lang="ja">ショップ予選開始! 侍VS忍者!!</title>
+<title xml:lang="en">Shop Preliminaries Begin! Samurai Versus Ninja!</title>
+<title xml:lang="x-jat">Shop Yosen Kaishi! Samurai vs Ninja!!</title>
+<summary>Yuga`s first opponent in the Ace Buddyfighter Play-offs is Kanesada Kaji, a master of Katana World and expert swordsman. Yuga learns Garga can adapt to different worlds, so he creates a new ninja-themed deck.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774858</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="204424" update="2018-09-09">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-09-08</airdate>
+<title xml:lang="ja">強くなれ友牙! 新たなるスタート!!</title>
+<title xml:lang="en">Get Stronger, Yuga! A New Beginning!</title>
+<title xml:lang="x-jat">Tsuyoku Nare Yuuga! Aratanaru Start!!</title>
+<summary>As Yuga comes to terms with Ranma`s departure, his friends try to cheer him up. Garcat, Gardog and Garbird take over Ran-Ga Channel.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774857</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="204425" update="2018-09-02">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-09-01</airdate>
+<title xml:lang="ja">ロストワールド! 凶乱魔竜ヴァニティ・骸・デストロイヤー!! －後編－</title>
+<title xml:lang="en">Lost World! Vile Demonic Dragon, Vanity Husk Destroyer! Part 2</title>
+<title xml:lang="x-jat">Lost World! Kyouran Ma Ryuu Vanity Kara Destroyer!! Kouhen</title>
+<summary>Yuga and Ranma`s Buddyfight continues, as Ranma reveals his true feelings and unleashes the full power of the Lost World monsters.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774856</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="206479" update="2018-09-23">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-09-22</airdate>
+<title xml:lang="ja">チェックメイト! 勉強の神VSチェスの天才!!</title>
+<title xml:lang="en">Checkmate! Ace of Study versus Chess Genius!</title>
+<title xml:lang="x-jat">Checkmate! Benkyou no Kami vs Chess no Tensai!!</title>
+<summary>Subaru introduces Yuga and the gang to his friend Seiji Kido, a chess prodigy. Vile Ranma is looking for allies, and he sets his sights on Seiji.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774859</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="206480" update="2018-09-30">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-09-29</airdate>
+<title xml:lang="ja">新たな仲間? 悪くないダ★ダーン!?</title>
+<title xml:lang="en">Our New Ally? A Non-Evil Da Dan?!</title>
+<title xml:lang="x-jat">Aratana Nakama? Warukunai Da Dan!?</title>
+<summary>The nasty PalTuber Da Dan offers to help Yuga and the gang improve Ran-Ga Channel, but when his true intentions are revealed Garga vows to make him pay by defeating him in a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774860</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="206481" update="2018-10-06">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-10-06</airdate>
+<title xml:lang="ja">乱魔チャンネル開設!? ロストワールド再び!</title>
+<title xml:lang="en">The Vile Ranma Channel Debuts? The Return of Lost World!</title>
+<title xml:lang="x-jat">Ranma Channel Kaisetsu!? Lost World Futatabi!</title>
+<summary>When Vile Ranma starts a new PalTube Channel in hopes of recruiting new Lost Deck users, Subaru challenges him to a Buddyfight. But with Seiji`s freedom and Subaru`s own fate on the line, the gang has a lot to lose!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777679</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="206482" update="2018-10-13">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-10-13</airdate>
+<title xml:lang="ja">狙いはミコ! 奪われたネコ!?</title>
+<title xml:lang="en">Target: Miko! A Kidnapped Cat?!</title>
+<title xml:lang="x-jat">Nerai wa Miko! Ubawareta Neko!?</title>
+<summary>Miko`s new monster wants to be her buddy and displace Amaterasu. Meanwhile, Da Dan takes a hostage to force Miko to promote his PalTube channel.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777680</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208972" update="2018-10-20">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-10-20</airdate>
+<title xml:lang="ja">友牙とバンジョウ! 炎のファイト!!</title>
+<title xml:lang="en">Yuga and Banjoe! A Fiery Fight!</title>
+<title xml:lang="x-jat">Yuuga to Banjou! Honoo no Fight!!</title>
+<summary>Yuga`s final opponent in the Shop Preliminaries is Banjoe Onizuka. When Yuga learns that Banjoe’s feeling down after his loss to Masato, he does his best to cheer him up and reignite his fighting spirit.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777681</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208973" update="2018-10-28">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-10-27</airdate>
+<title xml:lang="ja">マサトかカネサダか! ショップ予選ファイナル!!</title>
+<title xml:lang="en">Masato or Kanesada? Shop Preliminary Finals!</title>
+<title xml:lang="x-jat">Masato ga Kanesada ka! Shop Yosen Final!!</title>
+<summary>When a member of the school`s Kendo Club needs help controlling her love for battle, Masato and Kanesada put on a Buddyfight demonstration for her.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>777682</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208974" update="2018-11-04">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-11-03</airdate>
+<title xml:lang="ja">二次予選スタート! 乱魔からの挑戦状!!</title>
+<title xml:lang="en">The Second Round Begins! A Challenge from Vile Ranma!</title>
+<title xml:lang="x-jat">Niji Yosen Start! Ranma kara no Chousenjou!!</title>
+<summary>As the second round of the Ace Buddyfighter Play-offs begin, Ranma challenges Yuga to a fight, thinking that if Subaru sees the power of Lost World in action he’ll be begging to join him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778513</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208975" update="2018-11-11">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-11-10</airdate>
+<title xml:lang="ja">魔法使いガルガ! マジックワールドのファイト!!</title>
+<title xml:lang="en">Mage Garga! A Magic World Buddyfight!</title>
+<title xml:lang="x-jat">Mahou Tsukai Garuga! Magic World no Fight!!</title>
+<summary>Yuga finds a Magic World card that belonged to his father and decides to explore its possibilities. Meanwhile, the tournament AI assigns Yuga his next opponent, a wanna-be rock star named Note Hibikase.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778515</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209904" update="2018-11-18">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2018-11-17</airdate>
+<title xml:lang="ja">ロスト第三のファイター! 最強竜現る!!</title>
+<title xml:lang="en">The Third Lost World Fighter! Enter the Max Dragons!</title>
+<title xml:lang="x-jat">Lost Daisan no Fighter! Saikyou Ryuu Arawaru!!</title>
+<summary>Subaru meets the third member of Vile Ranma`s Lost World crew, Daijirou Kurayashiki. Masato reveals his past history with Daijirou and decides to challenge him to a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778516</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="209905" update="2018-11-25">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2018-11-24</airdate>
+<title xml:lang="ja">新たなるロストの仲間</title>
+<title xml:lang="en">A New Lost World Ally!</title>
+<title xml:lang="x-jat">Aratanaru Lost no Nakama</title>
+<summary>Subaru’s forced to make a decision on Vile Ranma`s offer, and Yuga and the gang are shocked to learn that Subaru`s been meeting with the Lost World player. Meanwhile, a frustrated Light decides to take matters into his own hands.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778517</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210576" update="2018-12-02">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2018-12-01</airdate>
+<title xml:lang="ja">絆竜団誕生秘話! 強くなれアギト!!</title>
+<title xml:lang="en">The Secret Origin of the Linkdragon Order! Get Stronger, Agito!</title>
+<title xml:lang="x-jat">Kizuna Ryuu Dan Tanjou Hiwa! Tsuyoku Nare Agito!!</title>
+<summary>The Linkdragon Order reminisce about how they first joined forces with Masato. Masato tries to achieve closure through another match with Daijirou.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778518</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210577" update="2018-12-09">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2018-12-08</airdate>
+<title xml:lang="ja">一撃必勝! モード・ガトリング!!</title>
+<title xml:lang="en">One Shot Victory! Gattling Mode!</title>
+<title xml:lang="x-jat">Ichigeki Hisshou! Mode Gatling!!</title>
+<summary>Da Dan makes a deal with Vile Ranma to join Lost World, and then he and Yuga have a Buddyfight to determine who advances to the final tournament.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778519</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210578" update="2018-12-16">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2018-12-15</airdate>
+<title xml:lang="ja">ボクだってやるぞ! バディファイト!!</title>
+<title xml:lang="en">I`m Going to Play Too! Buddyfight!</title>
+<title xml:lang="x-jat">Boku Datte Yaruzo! Buddyfight!</title>
+<summary>Haru wants a Buddyfight deck for Christmas, so Yuga and the gang help him decide which world to choose. Light makes a troubling discovery about Vanity Husk Destroyer.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778520</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210579" update="2018-12-24">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2018-12-22</airdate>
+<title xml:lang="ja">勝つのはどっちだ!? スバルVSマサト!!</title>
+<title xml:lang="en">Who Will Win? Subaru Versus Masato!</title>
+<title xml:lang="x-jat">Katsu no wa Docchi Da!? Subaru vs Masato!!</title>
+<summary>Ran-Ga Channel`s popularity is plummeting, so Masato and Subaru agree to help out by broadcasting their first Buddyfight match against each other.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778521</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210580" update="2019-01-06">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2019-01-05</airdate>
+<title xml:lang="ja">秩序の守護者 花園エデン</title>
+<title xml:lang="en">The Guardian of Order, Eden Hanazono!</title>
+<title xml:lang="x-jat">Satsujo no Shugosha: Hanazono Eden</title>
+<summary>The final round competitors are invited to a party by the mysterious Eden Hanazono. Vile Ranma and Vanity Husk Destroyer initiate a plan to recruit Eden, while Garga learns of Eden`s tragic past.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778522</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="210581" update="2019-01-12">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2019-01-12</airdate>
+<title xml:lang="ja">大進化! 凶乱魔神竜ヴァニティ・刻・デストロイヤー!!</title>
+<title xml:lang="en">Major Evolution! Vile Demonic Deity Dragon, Vanity Epoch Destroyer!</title>
+<title xml:lang="x-jat">Dai Shinka! Kyouran Majin Ryuu Vanity Koku Destroyer!!</title>
+<summary>A power-struggle between Eden and Vile Ranma leads to an unexpected evolution. Vile Ranma challenges Yuga to a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>778523</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211536" update="2019-01-21">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2019-01-19</airdate>
+<title xml:lang="ja">黒渦ライト! 運命の闘い!!</title>
+<title xml:lang="en">Light Kurouzu! Battle of Destiny!</title>
+<title xml:lang="x-jat">Kurouzu Raito! Unmei no Tatakai!!</title>
+<summary>Yuga asks Light to help him prepare for a battle against Darkness Dragon World, while Light tries to keep his undercover activities a secret.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781934</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211537" update="2019-01-26">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2019-01-26</airdate>
+<title xml:lang="ja">ダ★ダーン反乱! 禁断のクーデター!!</title>
+<title xml:lang="en">Da Dan Rebels! The Forbidden Coup d`Etat!</title>
+<title xml:lang="x-jat">Da Dan Hanran! Kindan no Coup d`Etat!!</title>
+<summary>Yuga and his friends visit Saint Order Academy in an attempt to learn more about Eden. Seiji manipulates Da Dan into an open rebellion against Vile Ranma.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781935</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211538" update="2019-02-03">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2019-02-02</airdate>
+<title xml:lang="ja">ガルガ大進化! 発動!! 神G・EVO!!!</title>
+<title xml:lang="en">Garga`s Major Evolution! Activate! Deity G.Evo!</title>
+<title xml:lang="x-jat">Garuga Dai Shinka! Hatsudou!! Kami G Evo!!!</title>
+<summary>Yuga faces Eden in the first match of the finals. Garga reflects on his journey with Yuga, and hopes he can make his young Buddy’s dreams come true.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781936</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211539" update="2019-02-10">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2019-02-09</airdate>
+<title xml:lang="ja">アンハッピー! 乱魔vs怨巳矢レイ!!</title>
+<title xml:lang="en">Unhappy! Vile Ranma versus Rei Urameshi!</title>
+<title xml:lang="x-jat">Unhappy! Ranma vs Urameshi Rei!!</title>
+<summary>While preparing for his battle with Vile Ranma in the finals, the mysterious  Rei Urameshi tries to sabotage his rivals.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781937</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212364" update="2019-02-17">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2019-02-16</airdate>
+<title xml:lang="ja">最終決戦! マサトVS大志郎!!</title>
+<title xml:lang="en">Final Battle! Masato versus Daijirou!</title>
+<title xml:lang="x-jat">Saishuu Kessen! Masato vs Taishirou!!</title>
+<summary>Daijirou reflects on his past with Masato, as the two prepare to settle their grudge on the Buddyfight stage. Meanwhile, the Linkdragon Order wants to raise the stakes of the match.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781938</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212365" update="2019-02-23">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2019-02-23</airdate>
+<title xml:lang="ja">もどれ友よ! 願いを込めたキャスト!!</title>
+<title xml:lang="en">Come Back, My Friend! Casting a Spell with a Wish!</title>
+<title xml:lang="x-jat">Modore Tomo yo! Negai o Kometa Cast!!</title>
+<summary>As their match approaches, Subaru tries to win back Seiji`s friendship. His latest attempt includes a special guest appearance on Ran-Ga Channel.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781939</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212366" update="2019-03-03">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2019-03-02</airdate>
+<title xml:lang="ja">神ファイターだヨ! 全員集合!!</title>
+<title xml:lang="en">Ace Buddyfighters, Assemble!</title>
+<title xml:lang="x-jat">Kami Fighter Da yo! Zen`in Shuugou!!</title>
+<summary>Yuga and the gang pay Vile Ranma a visit before the semifinals. Then, Yuga and Masato face off in the first semifinal match as Vile Ranma looks on with interest.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781940</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212945" update="2019-03-10">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2019-03-09</airdate>
+<title xml:lang="ja">凶乱魔骸神竜ヴァニティ・終・デストロイヤー!</title>
+<title xml:lang="en">Vile Demonic Husk Deity Dragon, Vanity End Destroyer</title>
+<title xml:lang="x-jat">Kyouran Magai Jinryuu Vanity Owari Destroyer!</title>
+<summary>Subaru tries to persuade Vile Ranma to become friends with Yuga again. Vile Ranma unveils a terrifying new power during his semi-final match against Subaru.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>781941</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212946" update="2019-03-17">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2019-03-16</airdate>
+<title xml:lang="ja">誰が使う? 対ロスト兵器[アンチロスト・ウエポン]!</title>
+<title xml:lang="en">Who Will Use It? The Anti-Lost Weapon!</title>
+<title xml:lang="x-jat">Dare ga Tsukau? Anti Lost Weapon!</title>
+<summary>Yuga and the gang try to help Subaru recover his memory. Light and Commissioner Tasuku disagree over who’ll use the Anti-Lost Weapon against Destroyer.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782595</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212947" update="2019-03-23">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2019-03-23</airdate>
+<title xml:lang="ja">決勝戦! 友牙VS乱魔!!</title>
+<title xml:lang="en">Final Battle! Yuga versus Vile Ranma!</title>
+<title xml:lang="x-jat">Kesshousen! Yuuga vs Ranma!!</title>
+<summary>As the final of the Ace Buddyfighter Play-offs between Yuga and Vile Ranma approaches, Garga prepares for his showdown against Destroyer.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782596</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212948" update="2019-03-31">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2019-03-30</airdate>
+<title xml:lang="ja">放て! 神創乱牙ガルガンチュア・パニッシャー!!</title>
+<title xml:lang="en">Let it Loose! Deity Creations Fangflare, Gargantua Punisher!</title>
+<title xml:lang="x-jat">Hanate! Shinsou Ranga Gargantua Punisher!!</title>
+<summary>Yuga and Vile Ranma continue their explosive final match of the Ace Buddyfighter Play-offs.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782597</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212949" update="2019-02-22">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2019-04-06</airdate>
+<title xml:lang="ja">神必見! バディカード大百科・その一!</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Kami Hikken! Buddy Card Dai Hyakka: Sono Ichi!</title>
+</episode>
+<episode id="214013" update="2019-03-23">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2019-04-13</airdate>
+<title xml:lang="ja">神必見! バディカード大百科・その二!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Kami Hikken! Buddy Card Dai Hyakka: Sono Ni!</title>
+</episode>
+<episode id="214014" update="2019-03-23">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2019-04-20</airdate>
+<title xml:lang="ja">神必見! バディカード大百科・その三!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Kami Hikken! Buddy Card Dai Hyakka: Sono San!</title>
+</episode>
+<episode id="214015" update="2019-03-23">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2019-04-27</airdate>
+<title xml:lang="ja">神必見! バディカード大百科・その四!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Kami Hikken! Buddy Card Dai Hyakka: Sono Yon!</title>
+</episode>
+</episodes>
+</anime>

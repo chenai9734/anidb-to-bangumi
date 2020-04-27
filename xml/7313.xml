@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7313" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2008-03-24</startdate>
+<enddate>2008-06-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ikuze! Gen-san</title>
+<title xml:lang="ja" type="official">いくぜっ! 源さん</title>
+</titles>
+<url>http://www.ikuze-gensan.com/anime/index.html</url>
+<creators>
+<name id="728" type="Animation Work">Nippon Animation</name>
+<name id="4152" type="Series Composition">Hasegawa Katsumi</name>
+<name id="8896" type="Direction">Okumura Yoshiaki</name>
+<name id="19582" type="Character Design">Aramaki Sonomi</name>
+<name id="18637" type="Original Work">Irem Software Engineering</name>
+</creators>
+<description>* Based on the Daiku no Gen-san (Hammerin` Harry) video game series by Irem.</description>
+<ratings>
+<permanent count="5">2.81</permanent>
+<temporary count="5">2.80</temporary>
+</ratings>
+<picture>41698.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9275</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3973</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4261</identifier>
+<identifier>uhiwlw</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ikuze-gensan.com/anime/index.html</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1385</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>329951</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>9954</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="49027" type="main character in" update="2012-09-19">
+<name>Tamura Genzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94396.jpg</picture>
+<seiyuu id="254" picture="17073.jpg">Yamaguchi Kappei</seiyuu>
+</character>
+<character id="49028" type="secondary cast in" update="2012-09-19">
+<name>Tamura Genroku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94397.jpg</picture>
+<seiyuu id="611" picture="18094.jpg">Nomura Kenji</seiyuu>
+</character>
+<character id="49029" type="secondary cast in" update="2012-09-19">
+<name>Tamura Miwako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94398.jpg</picture>
+<seiyuu id="2801" picture="23195.jpg">Komatsu Yuka</seiyuu>
+</character>
+<character id="49030" type="secondary cast in" update="2012-09-19">
+<name>Tamura Ayumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94399.jpg</picture>
+<seiyuu id="19679" picture="207991.jpg">Inokuchi Yuka</seiyuu>
+</character>
+<character id="49031" type="secondary cast in" update="2012-09-19">
+<name>Tamura Genkurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94400.jpg</picture>
+<seiyuu id="2340" picture="151335.jpg">Naka Hiroshi</seiyuu>
+</character>
+<character id="49032" type="secondary cast in" update="2012-09-19">
+<name>Tamura Misako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94401.jpg</picture>
+</character>
+<character id="49033" type="secondary cast in" update="2012-09-19">
+<name>Tamura Genpachirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94402.jpg</picture>
+<seiyuu id="385" picture="215702.jpg">Tsukada Masaaki</seiyuu>
+</character>
+<character id="49034" type="appears in" update="2012-09-19">
+<name>Chadanuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94404.jpg</picture>
+<seiyuu id="11009" picture="39517.jpg">Miyazawa Tadashi</seiyuu>
+</character>
+<character id="49035" type="appears in" update="2012-09-19">
+<name>Shiro</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94405.jpg</picture>
+</character>
+<character id="49036" type="main character in" update="2012-09-19">
+<name>Kirishima Kanna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94406.jpg</picture>
+<seiyuu id="23555" picture="66230.jpg">Yamamoto Azusa</seiyuu>
+</character>
+<character id="49037" type="secondary cast in" update="2012-09-19">
+<name>Kirishima Ryuuzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94407.jpg</picture>
+<seiyuu id="3395" picture="24474.jpg">Sonobe Keiichi</seiyuu>
+</character>
+<character id="49038" type="secondary cast in" update="2012-09-19">
+<name>Kirishima Agari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94408.jpg</picture>
+<seiyuu id="543" picture="17747.jpg">Erika</seiyuu>
+</character>
+<character id="49039" type="secondary cast in" update="2012-09-19">
+<name>Kirishima Sugimatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94409.jpg</picture>
+<seiyuu id="1998" picture="21301.jpg">Nagasako Takashi</seiyuu>
+</character>
+<character id="49040" type="secondary cast in" update="2012-09-19">
+<name>Kuromoku Hyousuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94410.jpg</picture>
+<seiyuu id="1621" picture="28482.jpg">Komura Tetsuo</seiyuu>
+</character>
+<character id="49041" type="secondary cast in" update="2012-09-19">
+<name>Happa Dan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94411.jpg</picture>
+<seiyuu id="181" picture="171560.jpg">Taniyama Kishou</seiyuu>
+</character>
+<character id="49042" type="secondary cast in" update="2012-09-19">
+<name>Hawatari Mika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94412.jpg</picture>
+<seiyuu id="1980" picture="173075.jpg">Kurokawa Nami</seiyuu>
+</character>
+<character id="49043" type="appears in" update="2012-09-19">
+<name>Naniwa Daisuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94413.jpg</picture>
+<seiyuu id="260" picture="17083.jpg">Aizawa Masaki</seiyuu>
+</character>
+<character id="49044" type="appears in" update="2012-09-19">
+<name>Neko Kichi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94414.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="113189" update="2010-01-30">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2008-03-24</airdate>
+<title xml:lang="ja">部乱目長屋を守るんでぃ! / 源さんの授業参観でぃ!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Buranme Nagaya o Mamorunde! / Minamoto-san no Jugyou Sankan</title>
+</episode>
+<episode id="113496" update="2010-01-30">
+<epno type="1">2</epno>
+<length>20</length>
+<airdate>2008-03-31</airdate>
+<title xml:lang="ja">源さん一家の休日でぃ! / まいど! すし屋の源さんでぃ!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Gensan Ikka no Kyuujitsu de! / Maido! Sushiya no Gen-san de!</title>
+</episode>
+<episode id="113497" update="2010-01-30">
+<epno type="1">3</epno>
+<length>20</length>
+<airdate>2008-04-07</airdate>
+<title xml:lang="ja">宮大工の源さんでぃ! / 大物マグロを狙うんでぃ!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Miyadaiku no Minamoto-san de! / Oomono Maguro o Neraunde!</title>
+</episode>
+<episode id="113498" update="2010-01-30">
+<epno type="1">4</epno>
+<length>20</length>
+<airdate>2008-04-14</airdate>
+<title xml:lang="ja">D-1グランプリの開幕でぃ! / D-1グランプリの決勝でぃ!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">D-1 Grand Prix no Kaimaku de! / D-1 Grand Prix no Kesshou de!</title>
+</episode>
+<episode id="113499" update="2010-01-30">
+<epno type="1">5</epno>
+<length>20</length>
+<airdate>2008-04-21</airdate>
+<title xml:lang="ja">野球でかっとばすんでぃ! / 夫婦ゲンカを止めるんでぃ!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Yakyuu de Kattobasunde! / Fuufu Genka o Tomerunde!</title>
+</episode>
+<episode id="113500" update="2010-01-30">
+<epno type="1">6</epno>
+<length>20</length>
+<airdate>2008-04-28</airdate>
+<title xml:lang="ja">愛と青春の卓袱台でぃ! / すしで勝負をつけるんでぃ!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Ai to Seishun no Chabudai de! / Sushi de Shoubu o Tsukerunde!</title>
+</episode>
+<episode id="113501" update="2010-01-30">
+<epno type="1">7</epno>
+<length>20</length>
+<airdate>2008-05-05</airdate>
+<title xml:lang="ja">呪いのノコギリでぃ! / 源さんの秘境探検でぃ!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Noroi no Nokogiri de! / Gensan no Hikyou Tanken de!</title>
+</episode>
+<episode id="113502" update="2010-01-30">
+<epno type="1">8</epno>
+<length>20</length>
+<airdate>2008-05-12</airdate>
+<title xml:lang="ja">金の仔猫をさがすんでぃ! / 華のお江戸の源さんでぃ!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Kin no Koneko o Sagasunde! / Hana no Oedo no Minamoto-san de!</title>
+</episode>
+<episode id="113503" update="2010-01-30">
+<epno type="1">9</epno>
+<length>20</length>
+<airdate>2008-05-19</airdate>
+<title xml:lang="ja">泥棒を捕まえるんでぃ! / 町の宝, 部乱目山でぃ!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Dorobou o Tsukamaerunde! / Machi no Takara, Buranme San de!</title>
+</episode>
+<episode id="113504" update="2010-01-30">
+<epno type="1">10</epno>
+<length>20</length>
+<airdate>2008-05-26</airdate>
+<title xml:lang="ja">親父と母ちゃんの結婚記念日でぃ! / 暴走トラック, 激突でぃ!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Oyaji to Kaa-chan no Kekkon Kinenbi de! / Bousou Truck, Gekitotsu de!</title>
+</episode>
+<episode id="113505" update="2010-01-30">
+<epno type="1">11</epno>
+<length>20</length>
+<airdate>2008-06-02</airdate>
+<title xml:lang="ja">かぶと虫を捕まえるんでぃ! / 引っ越し蕎麦を打つんでぃ!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Kabutomushi o Tsukamaerunde! / Hikkoshi Soba o Utsunde!</title>
+</episode>
+<episode id="113506" update="2010-01-30">
+<epno type="1">12</epno>
+<length>20</length>
+<airdate>2008-06-09</airdate>
+<title xml:lang="ja">宇宙人をたすけるんでぃ! / 部乱目御輿は, 祭りの華でぃ!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Uchuujin o Tasukerunde! / Buranme Mikoshi wa, Matsuri no Hana de!</title>
+</episode>
+</episodes>
+</anime>

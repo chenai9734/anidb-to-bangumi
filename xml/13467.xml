@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13467" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2016-07-20</startdate>
+<enddate>2016-10-05</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Ze Tian Ji Di Er Ji</title>
+<title xml:lang="zh-Hans" type="official">择天记 第二季</title>
+</titles>
+<relatedanime>
+<anime id="13468" type="Sequel">Ze Tian Ji Di San Ji</anime>
+<anime id="13466" type="Prequel">Ze Tian Ji</anime>
+</relatedanime>
+<ratings>
+<permanent count="15">5.30</permanent>
+<temporary count="15">5.83</temporary>
+</ratings>
+<picture>207259.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37184</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>择天记</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="190992" update="2017-09-19">
+<epno type="1">12</epno>
+<length>20</length>
+<airdate>2016-10-05</airdate>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="zh-Hans">榜首</title>
+</episode>
+<episode id="190993" update="2017-09-19">
+<epno type="1">11</epno>
+<length>20</length>
+<airdate>2016-09-28</airdate>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="zh-Hans">再燃</title>
+</episode>
+<episode id="190994" update="2017-09-19">
+<epno type="1">10</epno>
+<length>20</length>
+<airdate>2016-09-21</airdate>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="zh-Hans">不战</title>
+</episode>
+<episode id="190995" update="2017-09-19">
+<epno type="1">9</epno>
+<length>20</length>
+<airdate>2016-09-14</airdate>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="zh-Hans">硬打</title>
+</episode>
+<episode id="190996" update="2017-09-19">
+<epno type="1">8</epno>
+<length>20</length>
+<airdate>2016-09-07</airdate>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="zh-Hans">一拳</title>
+</episode>
+<episode id="190997" update="2017-09-19">
+<epno type="1">7</epno>
+<length>20</length>
+<airdate>2016-08-31</airdate>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="zh-Hans">迷宫</title>
+</episode>
+<episode id="190998" update="2017-09-19">
+<epno type="1">6</epno>
+<length>20</length>
+<airdate>2016-08-24</airdate>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="zh-Hans">朝试</title>
+</episode>
+<episode id="190999" update="2017-09-19">
+<epno type="1">5</epno>
+<length>20</length>
+<airdate>2016-08-17</airdate>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="zh-Hans">坐照</title>
+</episode>
+<episode id="191000" update="2017-09-19">
+<epno type="1">4</epno>
+<length>20</length>
+<airdate>2016-08-10</airdate>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="zh-Hans">新榜</title>
+</episode>
+<episode id="191001" update="2017-09-19">
+<epno type="1">3</epno>
+<length>20</length>
+<airdate>2016-08-03</airdate>
+<rating votes="1">8.77</rating>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="zh-Hans">离宫</title>
+</episode>
+<episode id="191002" update="2017-09-19">
+<epno type="1">2</epno>
+<length>20</length>
+<airdate>2016-07-27</airdate>
+<rating votes="1">8.77</rating>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="zh-Hans">围攻</title>
+</episode>
+<episode id="191003" update="2017-09-19">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2016-07-20</airdate>
+<rating votes="1">9.92</rating>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="zh-Hans">破门</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13039" restricted="false">
+<type>TV Series</type>
+<episodecount>24</episodecount>
+<startdate>2017-10-07</startdate>
+<enddate>2018-03-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Time Bokan: Gyakushuu no San-Okunin</title>
+<title xml:lang="en" type="synonym">Time Bokan 24 S2</title>
+<title xml:lang="ja" type="official">タイムボカン 逆襲の三悪人</title>
+<title xml:lang="en" type="official">Time Bokan: The Villains` Strike Back</title>
+<title xml:lang="zh-Hans" type="official">时间飞船 逆袭的三恶人</title>
+</titles>
+<relatedanime>
+<anime id="12032" type="Prequel">Time Bokan 24</anime>
+</relatedanime>
+<url>http://www.ytv.co.jp/timebokan/</url>
+<creators>
+<name id="8114" type="Direction">Inagaki Takayuki</name>
+<name id="830" type="Animation Work">Tatsunoko Production</name>
+<name id="3630" type="Character Design">Yoshimatsu Takahiro</name>
+<name id="9764" type="Series Composition">Katou Youichi</name>
+<name id="829" type="Work">Yomiuri TV</name>
+<name id="830" type="Work">Tatsunoko Production</name>
+<name id="830" type="Original Work">Tatsunoko Production</name>
+<name id="22313" type="Music">Minowa Hitoshi</name>
+</creators>
+<description>http://anidb.net/ch84217 [Bimajo], http://anidb.net/ch84215 [Tsubuyakky], and http://anidb.net/ch84214 [Suzukky] work at the History Paradise Company, which publishes text books in the 24th century, and they`re also the evil trio, Akudama, that gets in the way of JKK`s investigation of history!
+After their last battle in history with JKK officers http://anidb.net/ch84216 [Tokio] and http://anidb.net/ch84213 [Calen], they were on a long yet short time off (unpaid, of course), when they finally received a new assignment from their mysterious http://anidb.net/ch91546 [boss].
+The assignment... was to collect the mystical Dynamonds from famous people throughout history. Akudama starts hopping through time, as they`re ordered, and try to get the Dynamonds from the various famous historical figures.
+The evil trio`s revenge mission through time was about to start once again!!
+Source: crunchyroll</description>
+<ratings>
+<permanent count="26">3.68</permanent>
+<temporary count="26">4.95</temporary>
+</ratings>
+<picture>207604.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20001</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35254</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ytv.co.jp/timebokan/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Time_Bokan_24</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>タイムボカン24</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4730</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361464</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20600</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>timebokan_3aku</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="84213" type="main character in" update="2017-09-25">
+<rating votes="4">8.87</rating>
+<name>Calen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207514.jpg</picture>
+<seiyuu id="41766" picture="242448.jpg">Kitou Akari</seiyuu>
+</character>
+<character id="84214" type="main character in" update="2017-09-25">
+<name>Suzukky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207519.jpg</picture>
+<seiyuu id="178" picture="228660.jpg">Miyake Kenta</seiyuu>
+</character>
+<character id="84215" type="main character in" update="2017-09-25">
+<name>Tsubuyakky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207518.jpg</picture>
+<seiyuu id="323" picture="211661.jpg">Hirata Hiroaki</seiyuu>
+</character>
+<character id="84216" type="main character in" update="2017-09-25">
+<name>Tokio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207513.jpg</picture>
+<seiyuu id="45621" picture="205087.jpg">Wakayama Akihisa</seiyuu>
+</character>
+<character id="84217" type="main character in" update="2017-09-25">
+<rating votes="2">6.53</rating>
+<name>Bimajo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207517.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+<character id="91531" type="appears in" update="2017-09-25">
+<name>B01 Mechabuton</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207520.jpg</picture>
+</character>
+<character id="91532" type="appears in" update="2017-09-25">
+<name>B02 Kuwagattan</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207521.jpg</picture>
+</character>
+<character id="91545" type="secondary cast in" update="2017-09-25">
+<name>O-3</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207535.jpg</picture>
+<seiyuu id="592" picture="170729.jpg">Tsuda Kenjirou</seiyuu>
+</character>
+<character id="91546" type="secondary cast in" update="2017-09-25">
+<name>Oyadama</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207536.jpg</picture>
+<seiyuu id="41567" picture="165564.jpg">Hori</seiyuu>
+</character>
+<character id="91547" type="appears in" update="2017-09-25">
+<name>B03 Gokabuton</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>207537.jpg</picture>
+</character>
+<character id="91548" type="secondary cast in" update="2017-09-25">
+<name>Mirei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207534.jpg</picture>
+<seiyuu id="352" picture="17191.jpg">Minaguchi Yuuko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="191470" update="2017-10-12">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-10-07</airdate>
+<rating votes="1">2.38</rating>
+<title xml:lang="ja">エジソンと日本のビックリドッキリな関係とは?</title>
+<title xml:lang="en">What`s the Super Surprising Connection Between the Genius Inventor Edison and Japan?!</title>
+<title xml:lang="x-jat">Edison to Nihon no Bikkuri Dokkuri na Kankei to wa?</title>
+<summary>The Akudarma Trio head to New Jersey in the late 19th century in search for the King of Inventions, Edison. When they finally find him, he promises to give them his Dynamond if they can help him come up with some ideas for inventions. It appears that he’s looking to act as a proper filament for his lightbulbs. And then suddenly Tokio and Calen show up. The past is filled pearls of wisdoms that aren’t included in the history books. Who will be the first team to help the historical figure and get their hands on the Dynamond?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749647</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191503" update="2017-10-31">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-10-28</airdate>
+<title xml:lang="ja">ホームズを生んだコナン・ドイルが夢中になっていたビックリドッキリなこととは!?</title>
+<title xml:lang="en">What Super Surprising Thing Was the Author of Sherlock Holmes, Arthur Conan Doyle, Obsessed With?!</title>
+<title xml:lang="x-jat">Holmes o Unda Conan Doyle ga Muchuu ni Natte Ita Bikkuri Dokkori na Koto to wa!?</title>
+<summary>The Akudarma Trio go to early 20th century London in order to find Arthur Conan Doyle. When they get there, they hear a sudden scream. A man says that someone had stolen his ring that was locked up in his safe. He suspects that the trio might be the culprits, and then Doyle suddenly appears. He solves the case the same way that Holmes would have, but apparently he’s looking for new stories. Tokio and Calen also get involved and they start a case-solving battle.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749653</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191504" update="2017-10-30">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-10-21</airdate>
+<title xml:lang="ja">幕末の風雲児坂本龍馬が日本で初めて行ったビックリドッキリなこととは!?</title>
+<title xml:lang="en">What Super Surprising Thing Was the Mercenary of the Bakumatsu, Sakamoto Ryoma, the First to Do in Japan?!</title>
+<title xml:lang="x-jat">Bakumatsu no Fuunji Sakamoto Ryouma ga Nippon de Hajimete Itta Bikkuri Dokkuri na Koto to wa!?</title>
+<summary>The evil trio head to Kagoshima Prefecture, Japan, in the year 1866. There, they happen to find Sakamoto Ryoma and his wife, Oryo, who are visiting some hot springs. Apparently, the Dynamond is back at the inn they are staying at. They arrive at the room they`re staying in and find that it`s overflowing with junk. That`s when Tokio and Calen arrive. They then get into an organizing battle, but Tokio and Calen happen to bring a professional organizer from the future!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749651</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191505" update="2017-10-15">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-10-14</airdate>
+<title xml:lang="ja">野球の神ベーブ・ルースがやろうとしていたビックリドッキリな仕事とは!?</title>
+<title xml:lang="en">What Was the Super Surprising Job That the God of Baseball, Babe Ruth, Tried to Do?!</title>
+<title xml:lang="x-jat">Yakyuu no Kami Babe Ruth ga Yarou Toshite Ita Bikkuri Dokkuri na Shigoto to wa!?</title>
+<summary>The Akudarma Trio head to New York’s Yankee Stadium in 1923 to find the God of B aseball, Babe Ruth. They find Babe Ruth hitting one homerun after another, but he seemed to be troubled about if he wanted to bat or pitch. Not only was he an amazing batter, he was a great pitcher, as well. Bimajo loses her patience and decides for him, when Tokio and Calen show up. Are they going to try to settle things with a baseball battle?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749649</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191551" update="2017-10-08">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2017-10-07</airdate>
+<rating votes="1">8.19</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="191552" update="2017-10-08">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-10-07</airdate>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="192126" update="2017-11-28">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-11-25</airdate>
+<title xml:lang="ja">今でもマネできる! 楊貴妃のビックリドッキリな美容法とは!?</title>
+<title xml:lang="en">Methods That Can Still Be Used Today! What Was Yang Guifei`s Super Surprising Beauty Regimen?!</title>
+<title xml:lang="x-jat">Ima demo Mane Dekiru! You Kihi no Bikkuri Dokkuri na Biyouhou to wa!?</title>
+<summary>In order to find the Chinese beauty Yang Guifei, the evil trio head to China during the Tang Dynasty in 745 AD. They find the prince frolicking happily with Yang Guifei but then his father comes and steals her for himself. Yang Guifei expresses how important it is for her to stay beautiful in order to keep the emperor’s affections on her and displays various beauty techniques. In order to get the Dynamond that’s in the hair accessory that Yang Guifei is after, Bimajo challenges her to a duel to see who can become the emperor’s next bride.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749661</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192127" update="2017-11-28">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-11-18</airdate>
+<title xml:lang="ja">将軍は貯金好き!? 徳川家康のビックリドッキリな節約術とは!?</title>
+<title xml:lang="en">The Shogun Loves to Save Money?! What Was Tokugawa Ieyasu`s Super Surprising Method of Saving Money?!</title>
+<title xml:lang="x-jat">Shougun wa Chokin Suki!? Tokugawa Ieyasu no Bikkuri Dokkuri na Setsuyakujutsu to wa!?</title>
+<summary>The evil trio head to Japan in 1605 to find Tokugawa Ieyasu, who brought peace to the land after winning in the Battle of Sekigahara. They manage to find him, but apparently Tokugawa was having trouble deciding on the next shogun. Apparently the heir he has in mind, Hidetada, isn’t very reliable and is not respected by those who serve him. Then Tokio and Calen show up and Ieyasu proposes a hunting match with Hidetada. He actually wanted to let Hidetada win so everyone would respect him more and he devises a plan with Tokio and the others.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749659</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192128" update="2017-12-05">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-11-11</airdate>
+<title xml:lang="ja">世界的なヒロイン人魚姫にあなたもなれるビックリドッキリな方法とは!?</title>
+<title xml:lang="en">What`s the Super Surprising Way That Even You Can Become the World-Renowned Heroine, the Little Mermaid?!</title>
+<title xml:lang="x-jat">Sekaiteki na Heroine Ningyohime ni Anata mo Nareru Bikkuri Dokkuri na Houhou to wa!?</title>
+<summary>The Akudarma trio head to Denmark in the 19th century to find the children’s book writer, Hans Christian Andersen. When they get there, they find a mermaid sitting on a rock on the beach but something seems strange about them. It was actually Andersen dressed up as a mermaid. Apparently he had fallen in love with the Little Mermaid, which he had created and wanted to give her a ring with the Dynamond on it. Tokio and Calen then show up and Calen and Bimajo have a mermaid contest in order to see who’ll get the Dynamond…
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749657</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192129" update="2017-11-13">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-11-04</airdate>
+<title xml:lang="ja">文豪夏目漱石が夢中だったビックリドッキリな食べ物とは!?</title>
+<title xml:lang="en">What Super Surprising Food Was the Great Author Natsume Soseki Obsessed With?!</title>
+<title xml:lang="x-jat">Bungou Natsume Souseki ga Muchuu Datta Bikkuri Dokkuri na Tabemono to wa!?</title>
+<summary>The evil trio head to Tokyo in the 38th year of the Meiji period to find the famous writer Natsume Soseki, who wrote classics such as “I Am a Cat,” and “Botchan.” They are greeted by a black cat who leads them to a gentleman with a magnificent moustache. Could it be Natsume Soseki? He apparently is having a hard time coming up with his next title and tells the evil trio that he’ll give them the Dynamond if they can help him with his new work, and that’s when Tokio and Calen show up. Because Soseki loves sweets, they decide to have a sweets battle!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749655</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193168" update="2018-01-21">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2018-01-06</airdate>
+<title xml:lang="ja">日本が世界に誇る浮世絵師葛飾北斎が93回も引っ越したビックリドッキリな理由とは!?</title>
+<title xml:lang="en">What`s the Super Surprising Reason the Famous Japanese Ukiyo-e Artist Katsushika Hakusai Moved 93 Times?!</title>
+<title xml:lang="x-jat">Nippon ga Sekai ni Hokoru Ukiyoeshi Katsushika Hokusai ga 93 Kai mo Hikikoshita Bikkuri Dokkuri na Riyuu to wa!?</title>
+<summary>The Akudarma Trio arrive at Edo to find Katsushika Hokusai, who was famous for his “Thirty-Six Views of Mount Fuji.” They find a crowd looking at an old man on a ladder, drawing something on a roof. Wait, that’s Katsushika Hokusai? Apparently he’s rather fearless when it comes to his art and the trio have a hard time keeping up with him and then Tokio and Calen show up. Which team will find the perfect view of Mount Fuji for Hokusai to paint and win the Dynamond?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749671</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193169" update="2018-01-17">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-12-23</airdate>
+<title xml:lang="ja">福澤アナまた見参! 自由の女神ウルトラクイズ!</title>
+<title xml:lang="en">Announcer Fukuzawa Appears Once Again! The Statue of Liberty Ultra Quiz!</title>
+<title xml:lang="x-jat">Fukuzawa-ana Mata Kenzan! Jiyuu no Megami Ultra Quiz!</title>
+<summary>It’s time for the quiz festival you’ve all been waiting for! The Akudarma Trio head to New York in 1886 along with Fukuzawa-san. They get thrown into a sudden quiz about the symbol of America, the Statue of Liberty. The winner will get the Dynamond that the Statue of Liberty has. And then Tokio and Calen show up. They all participate in a huge quiz tournament in order to get the Dynamond!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749669</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193170" update="2018-01-17">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-12-16</airdate>
+<title xml:lang="ja">3時間しか寝ないというナポレオンもビックリドッキリな安眠法とは!?</title>
+<title xml:lang="en">What Was Napoleon`s Super Surprising Method of Getting a Good Night`s Sleep When He Supposedly Only Slept 3 Hours?!</title>
+<title xml:lang="x-jat">3 Jikan shika Nenai to Iu Napoleon mo Bikkuri Dokkuri na Anminhou to wa!?</title>
+<summary>The Akudarma Trio heads to 19th century France in order to find Napoleon, who had taken over most of Europe. They had heard he was too busy even to sleep, but then they hear humming. They end up finding Napoleon relaxing in the tub! Not only that, he actually loves sleeping! He even promises them the Dynamond if they can figure out a way for him to get a good night’s sleep. And then Tokio and Calen show up! Who will be able to reward Napoleon with the best night’s sleep?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749667</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193171" update="2018-01-17">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-12-09</airdate>
+<title xml:lang="ja">空海が探し当てた日本各地のビックリドッキリなお宝とは!?</title>
+<title xml:lang="en">What Were the Super Surprising Treasures That Kukai Found All Over Japan?!</title>
+<title xml:lang="x-jat">Kuukai ga Sagashiateta Nihonkakuchi no Bikkuri Dokkuri na Otakara to wa!?</title>
+<summary>The Akudarma Trio head to Heian Kyo in the 9th century to find the monk, Kukai, otherwise known as the Professor of Kanji. They find Kukai writing kanji with a giant brush, and on the brush, they also find the Dynamond! They tell him that they want the Dynamond, and he tells them he’ll let them have it if they pass a kanji quiz. That’s when Tokio and Calen show up to join in the kanji quiz. If you watch this episode, you might end up a kanji professor, too!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749665</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193172" update="2018-01-17">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-12-02</airdate>
+<title xml:lang="ja">水戸黄門と日本テレビ水卜アナのビックリドッキリな関係とは!?</title>
+<title xml:lang="en">What`s Mito Komon`s Super Surprising Connection with NTV Announcer Miura Asami?!</title>
+<title xml:lang="x-jat">Mito Koumon to Nihon Terebi Miura-ana no Bikkuri Dokkuri na Kankei to wa!?</title>
+<summary>The Akudarma Trio head to the Mito Domain in 1697 to find Mito Mitsukuni, the star of the popular period drama, “Mito Komon.” They find him enjoying some gyoza when NTV announcer Mito-chan somehow appears. Apparently she showed up to do a gourmet report in that era. Tokio and Calen also get involved and they have a ramen-making contest?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749663</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194208" update="2018-03-22">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-01-27</airdate>
+<title xml:lang="ja">ベートーヴェンの肖像画が怖い顔になっているビックリドッキリな理由とは!?</title>
+<title xml:lang="en">What`s the Super Surprising Reason Beethoven Looks So Scary in His Portrait?!</title>
+<title xml:lang="x-jat">Beethoven no Shouzouga ga Kowai Kao ni Natte Iru Bikkuri Dokkuri na Riyuu to wa!?</title>
+<summary>The Akudarma trio go to Vienna in 1819 to find the famous composer, Beethoven. The hear a melody from the piano, but Beethoven has a conductor’s wand in his mouth for some reason. Apparently he was having a hard time figuring out how to finish his 9th. The trio faces off with Tokio and Calen to see who can make a meal that Beethoven would like more!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759635</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194209" update="2018-03-22">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-01-20</airdate>
+<title xml:lang="ja">学問の神様菅原道真のビックリドッキリな天才伝説とは!?</title>
+<title xml:lang="en">What Was the God of Education, Sugawara no Michizane`s Super Surprising Legend About Being a Genius?!</title>
+<title xml:lang="x-jat">Gakumon no Kamisama Sugawara no Michizane no Bikkuri Dokkuri na Tensai Densetsu to wa!?</title>
+<summary>The Akudarama trio go to Kyoto in 900 to find Sugawara no Michizane. Once there, they hear cheering... and Michizane posing like an idol. Tsubuyakky wonders if he’s actually the god of education like he’s said to be. Bimajo falls for him instantly since he’s handsome, smart, and successful. Then Tokio and Calen show up and they have a quiz battle in order to get the Dynamond.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759633</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194210" update="2018-01-21">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-01-13</airdate>
+<title xml:lang="ja">発明家平賀源内が考えた今でもみんなが知ってるビックリドッキリなキャッチコピーとは!?</title>
+<title xml:lang="en">What Super Surprising Catch Phrase Did the Famous Inventor, Hiraga Gennai, Think Up That We Still Use Today?!</title>
+<title xml:lang="x-jat">Hatsumeika Hiraga Gennai ga Kangaeta Ima demo Minna ga Shitteru Bikkuri Dokkuri na Catch Copy to wa!?</title>
+<summary>The Akudarma Trio arrive at Edo in 1776 in order to find the inventor, Hiraga Gennai. They manage to find his house, but there’s a huge line in front of it. They figure they’re there to ask for inventions but the things leaving his house included a painting and a ceramic dish. Then someone who had a grilled eel shop stops by to also ask for help. The trio ends up having to prepare the best eel dish in order to get the Dynamond when Tokio and Calen show up again. If you’re not eating dinner while watching this, you’re going to regret it.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759631</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195271" update="2018-03-22">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-02-24</airdate>
+<title xml:lang="ja">電話を発明したグラハム・ベル! 電話の誕生をめぐるビックリドッキリな争いとは!?</title>
+<title xml:lang="en">Alexander Graham Bell Invented the Telephone! What Super Surprising Struggle Led to Its Creation?!</title>
+<title xml:lang="x-jat">Denwa o Hatsumei Shita Graham Bell! Denwa no Tanjou o Meguru Bikkuri Dokkuri na Arasoi to wa!?</title>
+<summary>The Akudarma trio go to Boston on March 10th, 1876 in order to find Alexander Graham Bell, who invented the telephone. They find Bell and the Dynamond at his laboratory. They call his name, which startles him and he spills acid on his pants. Bell apparently wants to make a hotline for children who have no one else to talk to and that`s when Tokio and Calen show up. Who will be able to give these kids the best answers and win the Dynamond?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759643</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195272" update="2018-03-22">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-02-17</airdate>
+<title xml:lang="ja">イモトが偉人!? 珍獣ハンターイモトアヤコのビックリドッキリな悩みとは!?</title>
+<title xml:lang="en">Imoto Is a Historical Figure?! What`s the Super Surprising Problem That the Beast Hunter Imoto Ayako Has?!</title>
+<title xml:lang="x-jat">Imoto ga Ijin!? Chinjuu Hunter Imoto Ayako no Bikkuri Dokkuri na Nayami to wa!?</title>
+<summary>This episode’s special guest is the beast hunter Imoto Ayako. The Akudarma trio travel to the Amazon in 2028 and immediately locate her. She apparently is on the hunt for a monkey with a pretty jewel on its forehead. That jewel ends up being the Dynamond. Imoto tells them that as she started taking girly trips alone on her days off, she started losing her wildness. Which team can help her regain her wildness and take the Dynamond?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759641</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195273" update="2018-03-22">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-02-10</airdate>
+<title xml:lang="ja">春日局は裏切り者の娘だった! 大奥の頂点にのぼりつめたビックリドッキリな理由とは!?</title>
+<title xml:lang="en">Kasuga no Tsubone Was the Daughter of a Traitor! What Was the Super Surprising Reason She Climbed to the Top of the Ooku?!</title>
+<title xml:lang="x-jat">Kasuga no Tsubone wa Uragirimono no Musume Datta! Oooku no Chouten ni Noboritsumeta Bikkuri Dokkuri na Riyuu no wa!?</title>
+<summary>The Akudarma trio travel to 17th century Edo in order to find Kasuga no Tsubone, who established the Ooku. They see that the rattle she’s using to calm Takechiyo (who would later become Tokugawa Iemitsu) has the Dynamond on it. They Time Bokan to a period where Takechiyo is older, and Kasuga no Tsubone tells them that she’ll give the rattle to the woman who becomes Iemitsu’s wife. And then Tokio and Calen show up and they battle to see who can become Iemitsu’s bride.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759639</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195274" update="2018-03-22">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-02-03</airdate>
+<title xml:lang="ja">明治維新の立役者西郷隆盛が犬を連れていたビックリドッキリな理由とは!?</title>
+<title xml:lang="en">What`s the Super Surprising Reason One of the Major Players of the Meiji Restoration, Saigo Takamori, Had a Dog?!</title>
+<title xml:lang="x-jat">Meiji Ishin no Tateyakusha Saigou Takamori ga Inu o Tsurete Ita Bikkuri Dokkuri na Riyuu to wa!?</title>
+<summary>The Akudarma trio travel to Tokyo in 1870 in order to find Saigo Takamori. However, they encounter a rather plump gentleman... who apparently is Saigo Takamori. The trio is surprised because he looks nothing like his statue in Ueno. Saigo-san has to go on a diet, or his life is in danger. He also apparently wants a dog, so the trio promise to find him one in exchange for the Dynamond. And then Tokio and Calen show up and they have a face off to see who can find the perfect dog for Saigo-san.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759637</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196249" update="2018-02-17">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-03-24</airdate>
+<title xml:lang="ja">あの聖徳太子が決める格付けランキング『ボ冠位十二階』! そしてビマージョの行方は!?</title>
+<title xml:lang="en">The Ranking That Prince Shotoku Came Up With: The Twelve Bokan Ranking System! And What Will Become of Bimajo?!</title>
+<title xml:lang="x-jat">Ano Seitoku Taishi ga Kimeru Kakuzuke Ranking "Bokan`i Juunikai"! Soshite Bimajo no Yukue wa!?</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759651</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196250" update="2018-04-05">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-03-17</airdate>
+<title xml:lang="ja">源平合戦で活躍! 源義経が弁慶に打ち勝ったビックリドッキリな理由とは!?</title>
+<title xml:lang="en">A Major Player of the Genpei War! What`s the Super Surprising Reason Minamoto no Yoshitsune Was Able to Defeat Benkei?!</title>
+<title xml:lang="x-jat">Genpei Kassen de Katsuyaku! Minamoto no Yoshitsune ga Benkei ni Uchikatta Bikkuri Dokkuri na Riyuu to wa!?</title>
+<summary>The Akudarma Trio head to Kyoto in 1169 to find Minamoto no Yoshitsune. They find a giant named Musashibo Benkei waiting on a bridge. Suddenly, a beautiful and mysterious young man appears and fights Benkei, and somehow wins. This beautiful young man eventually becomes Yoshitsune. He later teams up with his older brother and they get revenge on the Heike. However, the brothers eventually end up quarreling. Yoshitsune wants to figure out a way to make up with his brother. Tokio and Calen eventually show up and apparently Tokio has a secret?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759649</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196251" update="2018-03-22">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-03-10</airdate>
+<title xml:lang="ja">脱獄不可能なアルカトラズ刑務所! 脱獄させないための超しょーもないビックリドッキリな作戦とは!?</title>
+<title xml:lang="en">The Inescapable Alcatraz Prison! What Super Surprising and Ridiculous Plans Were Used to Prevent Escape?!</title>
+<title xml:lang="x-jat">Datsugoku Fukanou na Alcatraz Keimusho! Datsugoku Sasenai Tame no Chou Shomonai Bikkuri Dokkuri na Sakusen to wa!?</title>
+<summary>This week’s target is Alcatraz Prison, which was known to be inescapable.  The Akudarma Trio Time Bokan to the year 1960. The Dynamond is embedded into a wall and they try to retrieve it, but they’re immediately found and caught. They try to find a way out of the prison, and find that Tokio and Calen are also imprisoned. Will they all be able to get out of Alcatraz, and which team will be able to retrieve the Dynamond?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759647</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196252" update="2018-03-22">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-03-03</airdate>
+<title xml:lang="ja">松尾芭蕉はニンジャだった!? おくのほそ道のビックリドッキリな旅の真相とは!?</title>
+<title xml:lang="en">Matsuo Basho Was a Ninja?! What`s the Super Surprising Truth Behind the "Trip for the Narrow Road to the Interior"?!</title>
+<title xml:lang="x-jat">Matsuo Bashou wa Ninja Datta!? Oku no Hosomichi no Bikkuri Dokkuri na Tabi no Shinsou to wa!?</title>
+<summary>In order to find Matsuo Basho, who’s famous for his haikus, the Akudarma trio head to Fukakawa in 1689. They manage to find him about to go on a journey, but then he suddenly disappears. They read his famous “The Narrow Road to the Interior” to track where he’ll be heading and track him down in Matsushima, which is known as one of the three most beautiful places in Japan. However, it doesn’t look like Basho is going to read a poem there at all. Then Tokio and Calen show up and they have a haiku battle to see who can get the Dynamond.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759645</identifier>
+<identifier>time-bokan-24</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

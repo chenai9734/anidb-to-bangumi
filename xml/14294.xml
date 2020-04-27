@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14294" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1987-08-21</startdate>
+<enddate>1987-08-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ganbare! Kickers: Bokutachi no Densetsu</title>
+<title xml:lang="de" type="synonym">Kickers OVA</title>
+<title xml:lang="ja" type="official">がんばれ!キッカーズ ぼくたちの伝説</title>
+<title xml:lang="de" type="official">Kickers: Unsere Legende</title>
+</titles>
+<relatedanime>
+<anime id="1848" type="Full Story">Ganbare! Kickers</anime>
+</relatedanime>
+<description>Summary of the TV series with an alternate ending</description>
+<ratings>
+<permanent count="10">6.78</permanent>
+<temporary count="10">6.40</temporary>
+</ratings>
+<picture>241601.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33499</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>17537</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204420" update="2018-08-19">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1987-08-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

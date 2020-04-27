@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8666" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2003-12-17</startdate>
+<enddate>2003-12-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nyancos: Hello! Our Brilliant Future</title>
+<title xml:lang="x-jat" type="short">Nyancos</title>
+<title xml:lang="ja" type="official">ニャンコス Hello! Our Brilliant Future</title>
+</titles>
+<url>http://www.nyancos.com/</url>
+<creators>
+<name id="53801" type="Original Work">Yoshiyasu</name>
+<name id="53801" type="Direction">Yoshiyasu</name>
+<name id="55161" type="Music">Sakata Manabu</name>
+</creators>
+<ratings>
+<permanent count="17">1.78</permanent>
+<temporary count="18">3.75</temporary>
+</ratings>
+<picture>57834.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>6950</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33176</identifier>
+</externalentity>
+<externalentity>
+<identifier>33422</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nyancos.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>320096</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="133119" update="2011-09-21">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2003-12-17</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+<episode id="178001" update="2016-06-09">
+<epno type="2">S1</epno>
+<length>5</length>
+<title xml:lang="en">Nyancos: Hello! Our Brilliant Future Digest</title>
+</episode>
+</episodes>
+</anime>

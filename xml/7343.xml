@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7343" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1992-07-23</startdate>
+<enddate>1992-07-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jankenman Kaijuu Dai Kessen</title>
+<title xml:lang="ja" type="official">ジャンケンマン 怪獣大決戦</title>
+</titles>
+<relatedanime>
+<anime id="6520" type="Parent Story">Jankenman</anime>
+</relatedanime>
+<creators>
+<name id="5332" type="Character Design">Habara Nobuyoshi</name>
+<name id="5738" type="Direction">Endou Tetsuya</name>
+<name id="4870" type="Music">Andou Takahiro</name>
+</creators>
+<ratings>
+<permanent count="2">2.22</permanent>
+<temporary count="2">4.00</temporary>
+</ratings>
+<picture>24082.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3215</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10247</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3301</identifier>
+<identifier>emtsfs</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88436</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2897</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="113515" update="2010-01-30">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>1992-07-23</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

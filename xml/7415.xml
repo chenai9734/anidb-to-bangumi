@@ -1,0 +1,4723 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7415" restricted="false">
+<type>TV Series</type>
+<episodecount>573</episodecount>
+<startdate>2010-03-29</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Hanakappa</title>
+<title xml:lang="x-jat" type="synonym">Hana Kappa</title>
+<title xml:lang="ja" type="official">はなかっぱ</title>
+</titles>
+<relatedanime>
+<anime id="9527" type="Side Story">Eiga Hana Kappa Hana-sake! Pakkaan Chou no Kuni no Daibouken</anime>
+</relatedanime>
+<url>http://www.hanakappa.jp/</url>
+<creators>
+<name id="6597" type="Character Design">Hayashi Kazuya</name>
+<name id="4316" type="Series Composition">Yasumi Tetsuo</name>
+<name id="17154" type="Original Work">Akiyama Tadashi</name>
+<name id="15894" type="Direction">Nonaka Kazumi</name>
+<name id="20085" type="Music">Kasamatsu Miki</name>
+<name id="727" type="Animation Work">OLM</name>
+<name id="719" type="Animation Work">Xebec</name>
+<name id="774" type="Animation Work">Group Tac</name>
+</creators>
+<description>* Based on http://anidb.net/cr17154 [Akiyama Tadashi]`s children`s manga Hana Kappa-kun.
+Hanakappa-kun is a story about Hanakappa, a kappa (mythical Japanese monster) with a flower (hana) growing on his head, his family, and the village he lives in.
+Note: While 2 episodes were aired daily a lot of times the 2nd episode was a reairing of a previous episode. At times even both segments were.</description>
+<ratings>
+<permanent count="3">1.33</permanent>
+<temporary count="3">3.66</temporary>
+</ratings>
+<picture>44399.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11346</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8336</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4692</identifier>
+<identifier>ginqie</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.hanakappa.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>はなかっぱ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1903</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>336270</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12652</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1754" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-30">
+<name>kappa</name>
+<description>They are legendary creatures, a type of water sprite found in Japanese folklore.
+Kappas are typically depicted as roughly humanoid in form, and about the size of a child.
+Their scaly, reptilian skin ranges in color from green to yellow or blue.
+Kappas supposedly inhabit the ponds and rivers of Japan and have various features to aid them in this environment, such as webbed hands and feet.
+They are sometimes said to smell like fish, and they can certainly swim like them.</description>
+</tag>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="117316" update="2019-03-07">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2010-03-29</airdate>
+<title xml:lang="ja">僕, はなかっぱ</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Boku, Hanakappa</title>
+</episode>
+<episode id="117317" update="2019-03-07">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2010-03-29</airdate>
+<title xml:lang="ja">おじいちゃんはすごい!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Ojii-chan wa Sugoi</title>
+</episode>
+<episode id="117318" update="2019-03-07">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2010-03-30</airdate>
+<title xml:lang="ja">ももかっぱちゃん</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Momokappa-chan</title>
+</episode>
+<episode id="117319" update="2019-03-07">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2010-03-30</airdate>
+<title xml:lang="ja">家宝をさがせ!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kahou o Sagase!</title>
+</episode>
+<episode id="117320" update="2019-03-07">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2010-03-31</airdate>
+<title xml:lang="ja">おばけの森</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Obake no Mori</title>
+</episode>
+<episode id="117475" update="2019-03-07">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2010-03-31</airdate>
+<title xml:lang="ja">魔法にかかったおばあさん</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Mahou ni Kakatta Obaasann</title>
+</episode>
+<episode id="117476" update="2019-03-07">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2010-04-01</airdate>
+<title xml:lang="ja">がりぞーとアゲルちゃん</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Garizou to Ageru-chan</title>
+</episode>
+<episode id="117749" update="2019-03-07">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2010-04-01</airdate>
+<title xml:lang="ja">野原はたのしいね</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Nohara wa Tanoshii ne</title>
+</episode>
+<episode id="117750" update="2019-03-07">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2010-04-02</airdate>
+<title xml:lang="ja">がりロボ, あらわる!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Gari Robo, Arawaru!</title>
+</episode>
+<episode id="117751" update="2019-03-07">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2010-04-02</airdate>
+<title xml:lang="ja">絶好調, はなかっぱ!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Zekkouchou, Hanakappa!</title>
+</episode>
+<episode id="117934" update="2019-03-07">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2010-04-12</airdate>
+<title xml:lang="ja">みんなの田中先生</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Minna no Tanaka-sensei</title>
+</episode>
+<episode id="117935" update="2019-03-07">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2010-04-12</airdate>
+<title xml:lang="ja">ラブラブでランランラン</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Love Love de Ranranran</title>
+</episode>
+<episode id="117936" update="2019-03-07">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2010-04-13</airdate>
+<title xml:lang="ja">獅子じゅうろく博士の珍発明</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Shishi Juuroku Hakase no Chinhatsumei</title>
+</episode>
+<episode id="117937" update="2019-03-07">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2010-04-13</airdate>
+<title xml:lang="ja">はなかっぱ, 手伝って!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Hanakappa, Tetsudatte!</title>
+</episode>
+<episode id="117938" update="2019-03-07">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2010-04-14</airdate>
+<title xml:lang="ja">アッパレやまのふじ!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Appare Yama no Fuji!</title>
+</episode>
+<episode id="118536" update="2019-03-07">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2010-04-14</airdate>
+<title xml:lang="ja">てれてれぼうずの初恋</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Teretere Bouzu no Hatsukoi</title>
+</episode>
+<episode id="118537" update="2019-03-07">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2010-04-15</airdate>
+<title xml:lang="ja">バイバイ, アゲルちゃん</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Bye Bye, Ageru-chan</title>
+</episode>
+<episode id="118538" update="2019-03-07">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2010-04-15</airdate>
+<title xml:lang="ja">なぞの地下水道</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Nazo no Chikasuidou</title>
+</episode>
+<episode id="118539" update="2019-03-07">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2010-04-16</airdate>
+<title xml:lang="ja">みんなで探険ごっこ</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Minna de Tanken Gokko</title>
+</episode>
+<episode id="118540" update="2019-03-07">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2010-04-16</airdate>
+<title xml:lang="ja">ももかっぱちゃんのお誕生日</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Momokappa-chan no Otanjoubi</title>
+</episode>
+<episode id="118541" update="2019-03-07">
+<epno type="1">21</epno>
+<length>5</length>
+<airdate>2010-04-26</airdate>
+<title xml:lang="ja">お母さんのなみだ</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Okaasan no Namida</title>
+</episode>
+<episode id="118542" update="2019-03-07">
+<epno type="1">22</epno>
+<length>5</length>
+<airdate>2010-04-26</airdate>
+<title xml:lang="ja">チョウチョ, ひらひら</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Choucho, Hirahira</title>
+</episode>
+<episode id="118543" update="2019-03-07">
+<epno type="1">23</epno>
+<length>5</length>
+<airdate>2010-04-27</airdate>
+<title xml:lang="ja">みろりん, 心のスケッチ</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Mirorin, Kokoro no Sketch</title>
+</episode>
+<episode id="118544" update="2019-03-07">
+<epno type="1">24</epno>
+<length>5</length>
+<airdate>2010-04-27</airdate>
+<title xml:lang="ja">みんなの秘密基地</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Minna no Himitsu Kichi</title>
+</episode>
+<episode id="118545" update="2019-03-07">
+<epno type="1">25</epno>
+<length>5</length>
+<airdate>2010-04-28</airdate>
+<title xml:lang="ja">機嫌なおして, ももかっぱちゃん</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Kigen Naoshite, Momokappa-chan</title>
+</episode>
+<episode id="118638" update="2019-03-07">
+<epno type="1">26</epno>
+<length>5</length>
+<airdate>2010-04-28</airdate>
+<title xml:lang="ja">宿題はおまかせ!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Shukudai wa Omakase!</title>
+</episode>
+<episode id="118743" update="2019-03-07">
+<epno type="1">27</epno>
+<length>5</length>
+<airdate>2010-04-29</airdate>
+<title xml:lang="ja">あんた, だれ?</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Anta, Dare?</title>
+</episode>
+<episode id="118744" update="2019-03-07">
+<epno type="1">28</epno>
+<length>5</length>
+<airdate>2010-04-29</airdate>
+<title xml:lang="ja">小さくてゴメン</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Chiisakute Gomen</title>
+</episode>
+<episode id="118745" update="2019-03-07">
+<epno type="1">29</epno>
+<length>5</length>
+<airdate>2010-04-30</airdate>
+<title xml:lang="ja">カウボーイじいさん</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Cowboy Jiisan</title>
+</episode>
+<episode id="118746" update="2019-03-07">
+<epno type="1">30</epno>
+<length>5</length>
+<airdate>2010-04-30</airdate>
+<title xml:lang="ja">がりぞーとオヤツ</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Garizou to Oyatsu</title>
+</episode>
+<episode id="119007" update="2019-03-07">
+<epno type="1">31</epno>
+<length>5</length>
+<airdate>2010-05-10</airdate>
+<title xml:lang="ja">ケンカしちゃった</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Kenka Shichatta</title>
+</episode>
+<episode id="119008" update="2019-03-07">
+<epno type="1">32</epno>
+<length>5</length>
+<airdate>2010-05-10</airdate>
+<title xml:lang="ja">ふたりは迷子?</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Futari wa Maigo?</title>
+</episode>
+<episode id="119009" update="2019-03-07">
+<epno type="1">33</epno>
+<length>5</length>
+<airdate>2010-05-11</airdate>
+<title xml:lang="ja">空飛ぶはなかっぱ</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Soratobu Hanakappa</title>
+</episode>
+<episode id="119010" update="2019-03-07">
+<epno type="1">34</epno>
+<length>5</length>
+<airdate>2010-05-11</airdate>
+<title xml:lang="ja">みんな泥んこ</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Minna Doronko</title>
+</episode>
+<episode id="119011" update="2019-03-07">
+<epno type="1">35</epno>
+<length>5</length>
+<airdate>2010-05-12</airdate>
+<title xml:lang="ja">お父さんのひまわり畑</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Otousan no Himawaribatake</title>
+</episode>
+<episode id="119530" update="2019-03-07">
+<epno type="1">36</epno>
+<length>5</length>
+<airdate>2010-05-12</airdate>
+<title xml:lang="ja">はなかっぱ, 展示中</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Hanakappa, Tenjichuu</title>
+</episode>
+<episode id="119531" update="2019-03-07">
+<epno type="1">37</epno>
+<length>5</length>
+<airdate>2010-05-13</airdate>
+<title xml:lang="ja">静かにして~!</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Shizuka ni Shite!</title>
+</episode>
+<episode id="119532" update="2019-03-07">
+<epno type="1">38</epno>
+<length>5</length>
+<airdate>2010-05-13</airdate>
+<title xml:lang="ja">走れ! 急行はなかっぱ号</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Hashire! Kyuukou Hanakappa Gou</title>
+</episode>
+<episode id="119533" update="2019-03-07">
+<epno type="1">39</epno>
+<length>5</length>
+<airdate>2010-05-14</airdate>
+<title xml:lang="ja">豊作, はなかっぱ</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Housaku, Hanakappa</title>
+</episode>
+<episode id="119534" update="2019-03-07">
+<epno type="1">40</epno>
+<length>5</length>
+<airdate>2010-05-14</airdate>
+<title xml:lang="ja">ものぐさはなかっぱ</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Monogusa Hanakappa</title>
+</episode>
+<episode id="122040" update="2019-03-07">
+<epno type="1">41</epno>
+<length>5</length>
+<airdate>2010-05-24</airdate>
+<title xml:lang="ja">ももかっぱちゃんのお兄さん</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Momokappa-chan no Onii-san</title>
+</episode>
+<episode id="122041" update="2019-03-07">
+<epno type="1">42</epno>
+<length>5</length>
+<airdate>2010-05-24</airdate>
+<title xml:lang="ja">大あたり, 福引き券!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Ooatari, Fukubiki Ken!</title>
+</episode>
+<episode id="122042" update="2019-03-07">
+<epno type="1">43</epno>
+<length>5</length>
+<airdate>2010-05-25</airdate>
+<title xml:lang="ja">美人になりたぁ~い</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Bijin ni Naritai</title>
+</episode>
+<episode id="122043" update="2019-03-07">
+<epno type="1">44</epno>
+<length>5</length>
+<airdate>2010-05-25</airdate>
+<title xml:lang="ja">幸せのはなかっぱ</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Shiawase no Hanakappa</title>
+</episode>
+<episode id="122446" update="2019-03-07">
+<epno type="1">45</epno>
+<length>5</length>
+<airdate>2010-05-26</airdate>
+<title xml:lang="ja">お母さんの風邪</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Okaasan no Kaze</title>
+</episode>
+<episode id="122588" update="2019-03-07">
+<epno type="1">46</epno>
+<length>5</length>
+<airdate>2010-05-26</airdate>
+<title xml:lang="ja">雑草はなかっぱ</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Zassou Hanakappa</title>
+</episode>
+<episode id="122589" update="2019-03-07">
+<epno type="1">47</epno>
+<length>5</length>
+<airdate>2010-05-27</airdate>
+<title xml:lang="ja">早起きはおとく</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Hayaoki wa Otoku</title>
+</episode>
+<episode id="122768" update="2019-03-07">
+<epno type="1">48</epno>
+<length>5</length>
+<airdate>2010-05-27</airdate>
+<title xml:lang="ja">見たぞ, UFO</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Mitazo, UFO</title>
+</episode>
+<episode id="122769" update="2019-03-07">
+<epno type="1">49</epno>
+<length>5</length>
+<airdate>2010-05-28</airdate>
+<title xml:lang="ja">だるまさんがころんだ!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Daruma-san ga Koronda!</title>
+</episode>
+<episode id="122770" update="2019-03-07">
+<epno type="1">50</epno>
+<length>5</length>
+<airdate>2010-05-28</airdate>
+<title xml:lang="ja">ラブレターで大バトル</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Love Letter de Dai Battle</title>
+</episode>
+<episode id="123305" update="2019-03-07">
+<epno type="1">55</epno>
+<length>5</length>
+<airdate>2010-06-09</airdate>
+<title xml:lang="ja">モコモコはなかっぱ</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Mokomoko Hanakappa</title>
+</episode>
+<episode id="123306" update="2019-03-07">
+<epno type="1">54</epno>
+<length>5</length>
+<airdate>2010-06-08</airdate>
+<title xml:lang="ja">名探偵はなかっぱ</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Meitantei Hanakappa</title>
+</episode>
+<episode id="123307" update="2019-03-07">
+<epno type="1">53</epno>
+<length>5</length>
+<airdate>2010-06-08</airdate>
+<title xml:lang="ja">台風がやってくる!</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Taifuu ga Yattekuru!</title>
+</episode>
+<episode id="123308" update="2019-03-07">
+<epno type="1">52</epno>
+<length>5</length>
+<airdate>2010-06-07</airdate>
+<title xml:lang="ja">お風呂は楽しい</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Ofuro wa Tanoshii</title>
+</episode>
+<episode id="123309" update="2019-03-07">
+<epno type="1">51</epno>
+<length>5</length>
+<airdate>2010-06-07</airdate>
+<title xml:lang="ja">はなかっぱ, 危機一髪!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Hanakappa, Kikiippatsu!</title>
+</episode>
+<episode id="124400" update="2019-03-07">
+<epno type="1">56</epno>
+<length>5</length>
+<airdate>2010-06-09</airdate>
+<title xml:lang="ja">マグロのがりぞー</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Maguro no Garizou</title>
+</episode>
+<episode id="124401" update="2019-03-07">
+<epno type="1">57</epno>
+<length>5</length>
+<airdate>2010-06-10</airdate>
+<title xml:lang="ja">ももかっぱちゃん, 家出する</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Momokappa-chan, Iede Suru</title>
+</episode>
+<episode id="124402" update="2019-03-07">
+<epno type="1">58</epno>
+<length>5</length>
+<airdate>2010-06-10</airdate>
+<title xml:lang="ja">転校生がり子</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Tenkousei Gariko</title>
+</episode>
+<episode id="124403" update="2019-03-07">
+<epno type="1">59</epno>
+<length>5</length>
+<airdate>2010-06-11</airdate>
+<title xml:lang="ja">オレはワルかっぱ</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Ore wa Warukappa</title>
+</episode>
+<episode id="124404" update="2019-03-07">
+<epno type="1">60</epno>
+<length>5</length>
+<airdate>2010-06-11</airdate>
+<title xml:lang="ja">よい子, はなかっぱ?</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Yoi Ko, Hanakappa?</title>
+</episode>
+<episode id="125008" update="2019-03-07">
+<epno type="1">61</epno>
+<length>5</length>
+<airdate>2010-06-21</airdate>
+<title xml:lang="ja">眠れな~い!</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Nemurenai!</title>
+</episode>
+<episode id="125009" update="2019-03-07">
+<epno type="1">62</epno>
+<length>5</length>
+<airdate>2010-06-21</airdate>
+<title xml:lang="ja">対決! ももかっぱちゃんVSアゲルちゃん</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Taiketsu! Momokappa vs Ageru-chan</title>
+</episode>
+<episode id="125010" update="2019-03-07">
+<epno type="1">63</epno>
+<length>5</length>
+<airdate>2010-06-22</airdate>
+<title xml:lang="ja">忘れないで, はなかっぱ</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">Wasurenaide, Hanakappa</title>
+</episode>
+<episode id="125011" update="2019-03-07">
+<epno type="1">64</epno>
+<length>5</length>
+<airdate>2010-06-22</airdate>
+<title xml:lang="ja">ドライはなかっぱ</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Dry Hanakappa</title>
+</episode>
+<episode id="125012" update="2019-03-07">
+<epno type="1">65</epno>
+<length>5</length>
+<airdate>2010-06-23</airdate>
+<title xml:lang="ja">嵐が過ぎて</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">Arashi ga Sugite</title>
+</episode>
+<episode id="125329" update="2019-03-07">
+<epno type="1">66</epno>
+<length>5</length>
+<airdate>2010-06-23</airdate>
+<title xml:lang="ja">郵便でぇ~す!</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Yuubin Desu!</title>
+</episode>
+<episode id="125330" update="2019-03-07">
+<epno type="1">67</epno>
+<length>5</length>
+<airdate>2010-06-24</airdate>
+<title xml:lang="ja">おじぎかっぱ</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">Ojigikappa</title>
+</episode>
+<episode id="125331" update="2019-03-07">
+<epno type="1">68</epno>
+<length>5</length>
+<airdate>2010-06-24</airdate>
+<title xml:lang="ja">恋するアゲルちゃん</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Koi Suru Ageru-chan</title>
+</episode>
+<episode id="125332" update="2019-03-07">
+<epno type="1">69</epno>
+<length>5</length>
+<airdate>2010-06-25</airdate>
+<title xml:lang="ja">マジシャンがやってきた!</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="x-jat">Magician ga Yatte Kita!</title>
+</episode>
+<episode id="125333" update="2019-03-07">
+<epno type="1">70</epno>
+<length>5</length>
+<airdate>2010-06-25</airdate>
+<title xml:lang="ja">咲いた, 咲いた, わか蘭さいた</title>
+<title xml:lang="en">Episode 70</title>
+<title xml:lang="x-jat">Saita, Saita, Wakaran Saita</title>
+</episode>
+<episode id="125660" update="2019-03-07">
+<epno type="1">75</epno>
+<length>5</length>
+<airdate>2010-07-07</airdate>
+<title xml:lang="ja">チクチクばあさん</title>
+<title xml:lang="en">Episode 75</title>
+<title xml:lang="x-jat">Chikuchiku Baasan</title>
+</episode>
+<episode id="125661" update="2019-03-07">
+<epno type="1">74</epno>
+<length>5</length>
+<airdate>2010-07-06</airdate>
+<title xml:lang="ja">月下美人が見たいな</title>
+<title xml:lang="en">Episode 74</title>
+<title xml:lang="x-jat">Gekkoubijin ga Mitai na</title>
+</episode>
+<episode id="125662" update="2019-03-07">
+<epno type="1">73</epno>
+<length>5</length>
+<airdate>2010-07-06</airdate>
+<title xml:lang="ja">赤ちゃんが来た!</title>
+<title xml:lang="en">Episode 73</title>
+<title xml:lang="x-jat">Akachan ga Kita!</title>
+</episode>
+<episode id="125663" update="2019-03-07">
+<epno type="1">72</epno>
+<length>5</length>
+<airdate>2010-07-05</airdate>
+<title xml:lang="ja">写生大会は大騒ぎ</title>
+<title xml:lang="en">Episode 72</title>
+<title xml:lang="x-jat">Shasei Taikai wa Oosawagi</title>
+</episode>
+<episode id="125664" update="2019-03-07">
+<epno type="1">71</epno>
+<length>5</length>
+<airdate>2010-07-05</airdate>
+<title xml:lang="ja">やまびこ村の将棋名人</title>
+<title xml:lang="en">Episode 71</title>
+<title xml:lang="x-jat">Yamabiko Mura no Shougi Meijin</title>
+</episode>
+<episode id="129004" update="2019-03-07">
+<epno type="1">76</epno>
+<length>5</length>
+<airdate>2010-07-07</airdate>
+<title xml:lang="ja">くっついちゃったぁ~!</title>
+<title xml:lang="en">Episode 76</title>
+<title xml:lang="x-jat">Kussuichatta!</title>
+</episode>
+<episode id="129005" update="2019-03-07">
+<epno type="1">77</epno>
+<length>5</length>
+<airdate>2010-07-08</airdate>
+<title xml:lang="ja">がりロボ2号!</title>
+<title xml:lang="en">Episode 77</title>
+<title xml:lang="x-jat">Gari Robo 2 Gou!</title>
+</episode>
+<episode id="129006" update="2019-03-07">
+<epno type="1">78</epno>
+<length>5</length>
+<airdate>2010-07-08</airdate>
+<title xml:lang="ja">みろりんのマスク</title>
+<title xml:lang="en">Episode 78</title>
+<title xml:lang="x-jat">Mirorin no Mask</title>
+</episode>
+<episode id="129007" update="2019-03-07">
+<epno type="1">79</epno>
+<length>5</length>
+<airdate>2010-07-09</airdate>
+<title xml:lang="ja">頭に竹の子</title>
+<title xml:lang="en">Episode 79</title>
+<title xml:lang="x-jat">Atama ni Takenoko</title>
+</episode>
+<episode id="129008" update="2019-03-07">
+<epno type="1">80</epno>
+<length>5</length>
+<airdate>2010-07-09</airdate>
+<title xml:lang="ja">頭の花がない!</title>
+<title xml:lang="en">Episode 80</title>
+<title xml:lang="x-jat">Atama no Hana ga Nai!</title>
+</episode>
+<episode id="129304" update="2019-03-07">
+<epno type="1">81</epno>
+<length>5</length>
+<airdate>2010-09-13</airdate>
+<title xml:lang="ja">涼しいお部屋</title>
+<title xml:lang="en">Episode 81</title>
+<title xml:lang="x-jat">Suzushii Oheya</title>
+</episode>
+<episode id="129305" update="2019-03-07">
+<epno type="1">82</epno>
+<length>5</length>
+<airdate>2010-09-13</airdate>
+<title xml:lang="ja">留守番はおまかせ!?</title>
+<title xml:lang="en">Episode 82</title>
+<title xml:lang="x-jat">Rusuban wa Omakase!?</title>
+</episode>
+<episode id="129306" update="2019-03-07">
+<epno type="1">83</epno>
+<length>5</length>
+<airdate>2010-09-14</airdate>
+<title xml:lang="ja">花しりとり合戦!</title>
+<title xml:lang="en">Episode 83</title>
+<title xml:lang="x-jat">Hana Shiritori Kassen!</title>
+</episode>
+<episode id="129307" update="2019-03-07">
+<epno type="1">84</epno>
+<length>5</length>
+<airdate>2010-09-14</airdate>
+<title xml:lang="ja">僕が最高にカッコイイ!</title>
+<title xml:lang="en">Episode 84</title>
+<title xml:lang="x-jat">Boku ga Saikou ni Kakoii!</title>
+</episode>
+<episode id="129308" update="2019-03-07">
+<epno type="1">85</epno>
+<length>5</length>
+<airdate>2010-09-15</airdate>
+<title xml:lang="ja">英語は禁止!</title>
+<title xml:lang="en">Episode 85</title>
+<title xml:lang="x-jat">Eigo wa Kinshi!</title>
+</episode>
+<episode id="129651" update="2019-03-07">
+<epno type="1">86</epno>
+<length>5</length>
+<airdate>2010-09-15</airdate>
+<title xml:lang="ja">やまびこ村の女の子たち</title>
+<title xml:lang="en">Episode 86</title>
+<title xml:lang="x-jat">Yamabiko Mura no Onnanoko-tachi</title>
+</episode>
+<episode id="129652" update="2019-03-07">
+<epno type="1">87</epno>
+<length>5</length>
+<airdate>2010-09-16</airdate>
+<title xml:lang="ja">やまびこ村の七不思議</title>
+<title xml:lang="en">Episode 87</title>
+<title xml:lang="x-jat">Yamabiko Mura no Nanafushigi</title>
+</episode>
+<episode id="129653" update="2019-03-07">
+<epno type="1">88</epno>
+<length>5</length>
+<airdate>2010-09-16</airdate>
+<title xml:lang="ja">フワフワお母さん</title>
+<title xml:lang="en">Episode 88</title>
+<title xml:lang="x-jat">Fuwafuwa Okaasan</title>
+</episode>
+<episode id="129654" update="2019-03-07">
+<epno type="1">89</epno>
+<length>5</length>
+<airdate>2010-09-17</airdate>
+<title xml:lang="ja">お菓子の家</title>
+<title xml:lang="en">Episode 89</title>
+<title xml:lang="x-jat">Okashi no Ie</title>
+</episode>
+<episode id="129655" update="2019-03-07">
+<epno type="1">90</epno>
+<length>5</length>
+<airdate>2010-09-17</airdate>
+<title xml:lang="ja">シャボン玉を飛ばそう!</title>
+<title xml:lang="en">Episode 90</title>
+<title xml:lang="x-jat">Shabondama o Tobasou!</title>
+</episode>
+<episode id="130019" update="2019-03-07">
+<epno type="1">91</epno>
+<length>5</length>
+<airdate>2010-09-27</airdate>
+<title xml:lang="ja">お爺ちゃんたちはお子ちゃま</title>
+<title xml:lang="en">Episode 91</title>
+<title xml:lang="x-jat">Ojii-chan-tachi wa Oko-chama</title>
+</episode>
+<episode id="130020" update="2019-03-07">
+<epno type="1">92</epno>
+<length>5</length>
+<airdate>2010-09-27</airdate>
+<title xml:lang="ja">もりおにと会っちゃった</title>
+<title xml:lang="en">Episode 92</title>
+<title xml:lang="x-jat">Mori Oni to Acchatta</title>
+</episode>
+<episode id="130021" update="2019-03-07">
+<epno type="1">93</epno>
+<length>5</length>
+<airdate>2010-09-28</airdate>
+<title xml:lang="ja">入れ替わったはなかっぱ</title>
+<title xml:lang="en">Episode 93</title>
+<title xml:lang="x-jat">Irekawatta Hanakappa</title>
+</episode>
+<episode id="130022" update="2019-03-07">
+<epno type="1">94</epno>
+<length>5</length>
+<airdate>2010-09-28</airdate>
+<title xml:lang="ja">記念写真でパチリ?</title>
+<title xml:lang="en">Episode 94</title>
+<title xml:lang="x-jat">Kinenshashin de Pachiri?</title>
+</episode>
+<episode id="130023" update="2019-03-07">
+<epno type="1">95</epno>
+<length>5</length>
+<airdate>2010-09-29</airdate>
+<title xml:lang="ja">電車に乗ろう!</title>
+<title xml:lang="en">Episode 95</title>
+<title xml:lang="x-jat">Densha ni Norou!</title>
+</episode>
+<episode id="130323" update="2019-03-07">
+<epno type="1">96</epno>
+<length>5</length>
+<airdate>2010-09-29</airdate>
+<title xml:lang="ja">がりぞーは変装名人!?</title>
+<title xml:lang="en">Episode 96</title>
+<title xml:lang="x-jat">Garizou wa Hensou Meijin!?</title>
+</episode>
+<episode id="130324" update="2019-03-07">
+<epno type="1">97</epno>
+<length>5</length>
+<airdate>2010-09-30</airdate>
+<title xml:lang="ja">蝶兵衛, まいる!</title>
+<title xml:lang="en">Episode 97</title>
+<title xml:lang="x-jat">Choubee, Mairu!</title>
+</episode>
+<episode id="130325" update="2019-03-07">
+<epno type="1">98</epno>
+<length>5</length>
+<airdate>2010-09-30</airdate>
+<title xml:lang="ja">海は広いな</title>
+<title xml:lang="en">Episode 98</title>
+<title xml:lang="x-jat">Umi wa Hiroi na</title>
+</episode>
+<episode id="130326" update="2019-03-07">
+<epno type="1">99</epno>
+<length>5</length>
+<airdate>2010-10-01</airdate>
+<title xml:lang="ja">みろりんのパパ</title>
+<title xml:lang="en">Episode 99</title>
+<title xml:lang="x-jat">Mirorin no Papa</title>
+</episode>
+<episode id="130327" update="2019-03-07">
+<epno type="1">100</epno>
+<length>5</length>
+<airdate>2010-10-01</airdate>
+<title xml:lang="ja">アゲルちゃんのブローチ</title>
+<title xml:lang="en">Episode 100</title>
+<title xml:lang="x-jat">Ageru-chan no Brooch</title>
+</episode>
+<episode id="130669" update="2019-03-07">
+<epno type="1">101</epno>
+<length>5</length>
+<airdate>2010-10-11</airdate>
+<title xml:lang="ja">みんなで工作</title>
+<title xml:lang="en">Episode 101</title>
+<title xml:lang="x-jat">Minna de Kousaku</title>
+</episode>
+<episode id="130670" update="2019-03-07">
+<epno type="1">102</epno>
+<length>5</length>
+<airdate>2010-10-11</airdate>
+<title xml:lang="ja">はなかっぱ, おじいちゃん?</title>
+<title xml:lang="en">Episode 102</title>
+<title xml:lang="x-jat">Hanakappa, Ojii-chan?</title>
+</episode>
+<episode id="130671" update="2019-03-07">
+<epno type="1">103</epno>
+<length>5</length>
+<airdate>2010-10-12</airdate>
+<title xml:lang="ja">かっぱ池でキャンプ</title>
+<title xml:lang="en">Episode 103</title>
+<title xml:lang="x-jat">Kappa Ike de Camp</title>
+</episode>
+<episode id="130672" update="2019-03-07">
+<epno type="1">104</epno>
+<length>5</length>
+<airdate>2010-10-12</airdate>
+<title xml:lang="ja">楽しい五・七・五</title>
+<title xml:lang="en">Episode 104</title>
+<title xml:lang="x-jat">Tanoshii Go Shichi Go</title>
+</episode>
+<episode id="130673" update="2019-03-07">
+<epno type="1">105</epno>
+<length>5</length>
+<airdate>2010-10-13</airdate>
+<title xml:lang="ja">ふしぎな実験室</title>
+<title xml:lang="en">Episode 105</title>
+<title xml:lang="x-jat">Fushigi na Jikkenshitsu</title>
+</episode>
+<episode id="130946" update="2019-03-07">
+<epno type="1">106</epno>
+<length>5</length>
+<airdate>2010-10-13</airdate>
+<title xml:lang="ja">虹をつくろう!</title>
+<title xml:lang="en">Episode 106</title>
+<title xml:lang="x-jat">Niji o Tsukurou!</title>
+</episode>
+<episode id="130947" update="2019-03-07">
+<epno type="1">107</epno>
+<length>5</length>
+<airdate>2010-10-14</airdate>
+<title xml:lang="ja">退屈でしょうがない!</title>
+<title xml:lang="en">Episode 107</title>
+<title xml:lang="x-jat">Taikutsu de Shou ga Nai!</title>
+</episode>
+<episode id="130948" update="2019-03-07">
+<epno type="1">108</epno>
+<length>5</length>
+<airdate>2010-10-14</airdate>
+<title xml:lang="ja">楽しい雨もり?</title>
+<title xml:lang="en">Episode 108</title>
+<title xml:lang="x-jat">Tanoshii Ame Mori?</title>
+</episode>
+<episode id="130949" update="2019-03-07">
+<epno type="1">109</epno>
+<length>5</length>
+<airdate>2010-10-15</airdate>
+<title xml:lang="ja">尊敬するおじいちゃん</title>
+<title xml:lang="en">Episode 109</title>
+<title xml:lang="x-jat">Sonkei Suru Ojii-chan</title>
+</episode>
+<episode id="130950" update="2019-03-07">
+<epno type="1">110</epno>
+<length>5</length>
+<airdate>2010-10-15</airdate>
+<title xml:lang="ja">恐怖の影男?</title>
+<title xml:lang="en">Episode 110</title>
+<title xml:lang="x-jat">Kyoufu no Kageotoko</title>
+</episode>
+<episode id="131494" update="2019-03-07">
+<epno type="1">111</epno>
+<length>5</length>
+<airdate>2010-10-25</airdate>
+<title xml:lang="ja">発見! 森のピラミッド</title>
+<title xml:lang="en">Episode 111</title>
+<title xml:lang="x-jat">Hakken! Mori no Pyramid</title>
+</episode>
+<episode id="131495" update="2019-03-07">
+<epno type="1">112</epno>
+<length>5</length>
+<airdate>2010-10-25</airdate>
+<title xml:lang="ja">箱の中身はなあに?</title>
+<title xml:lang="en">Episode 112</title>
+<title xml:lang="x-jat">Hako no Nakami wa Naani?</title>
+</episode>
+<episode id="131496" update="2019-03-07">
+<epno type="1">113</epno>
+<length>5</length>
+<airdate>2010-10-26</airdate>
+<title xml:lang="ja">未来のはなかっぱ?</title>
+<title xml:lang="en">Episode 113</title>
+<title xml:lang="x-jat">Mirai no Hanakappa?</title>
+</episode>
+<episode id="131497" update="2019-03-07">
+<epno type="1">114</epno>
+<length>5</length>
+<airdate>2010-10-26</airdate>
+<title xml:lang="ja">なぞなぞ? やっこさん</title>
+<title xml:lang="en">Episode 114</title>
+<title xml:lang="x-jat">Nazonazo? Yakko-san</title>
+</episode>
+<episode id="131498" update="2019-03-07">
+<epno type="1">115</epno>
+<length>5</length>
+<airdate>2010-10-27</airdate>
+<title xml:lang="ja">お母さんと遊ぼう!</title>
+<title xml:lang="en">Episode 115</title>
+<title xml:lang="x-jat">Okaasan to Asobou!</title>
+</episode>
+<episode id="132102" update="2019-03-07">
+<epno type="1">116</epno>
+<length>5</length>
+<airdate>2010-10-27</airdate>
+<title xml:lang="ja">やまびこ村は雪景色</title>
+<title xml:lang="en">Episode 116</title>
+<title xml:lang="x-jat">Yamabiko Mura wa Yukigeshiki</title>
+</episode>
+<episode id="132103" update="2019-03-07">
+<epno type="1">117</epno>
+<length>5</length>
+<airdate>2010-10-28</airdate>
+<title xml:lang="ja">いらっしゃい! いらっしゃい!</title>
+<title xml:lang="en">Episode 117</title>
+<title xml:lang="x-jat">Irasshai! Irasshai!</title>
+</episode>
+<episode id="132104" update="2019-03-07">
+<epno type="1">118</epno>
+<length>5</length>
+<airdate>2010-10-28</airdate>
+<title xml:lang="ja">ドキドキ! オバケ屋敷</title>
+<title xml:lang="en">Episode 118</title>
+<title xml:lang="x-jat">Dokidoki! Obake Yashiki</title>
+</episode>
+<episode id="132105" update="2019-03-07">
+<epno type="1">119</epno>
+<length>5</length>
+<airdate>2010-10-29</airdate>
+<title xml:lang="ja">タシ算くんとヒキ算ちゃん</title>
+<title xml:lang="en">Episode 119</title>
+<title xml:lang="x-jat">Tashizan-kun to Hikizan-chan</title>
+</episode>
+<episode id="132106" update="2019-03-07">
+<epno type="1">120</epno>
+<length>5</length>
+<airdate>2010-10-29</airdate>
+<title xml:lang="ja">カラー吸いとり器</title>
+<title xml:lang="en">Episode 120</title>
+<title xml:lang="x-jat">Colour Sui Tori Utsuwa</title>
+</episode>
+<episode id="132107" update="2019-03-07">
+<epno type="1">121</epno>
+<length>5</length>
+<airdate>2010-11-08</airdate>
+<title xml:lang="ja">またまた登場! がりロボ3号</title>
+<title xml:lang="en">Episode 121</title>
+<title xml:lang="x-jat">Matamata Toujou! Gari Robo 3 Gou</title>
+</episode>
+<episode id="132108" update="2019-03-07">
+<epno type="1">122</epno>
+<length>5</length>
+<airdate>2010-11-08</airdate>
+<title xml:lang="ja">蝶兵衛は映画スター</title>
+<title xml:lang="en">Episode 122</title>
+<title xml:lang="x-jat">Choubee wa Eiga Star</title>
+</episode>
+<episode id="132109" update="2019-03-07">
+<epno type="1">123</epno>
+<length>5</length>
+<airdate>2010-11-09</airdate>
+<title xml:lang="ja">がりぞー, 早着替え中!?</title>
+<title xml:lang="en">Episode 123</title>
+<title xml:lang="x-jat">Garizou, Haya Kigae Chuu!?</title>
+</episode>
+<episode id="132110" update="2019-03-07">
+<epno type="1">124</epno>
+<length>5</length>
+<airdate>2010-11-09</airdate>
+<title xml:lang="ja">楽しい一輪車</title>
+<title xml:lang="en">Episode 124</title>
+<title xml:lang="x-jat">Tanoshii Ichirinsha</title>
+</episode>
+<episode id="132111" update="2019-03-07">
+<epno type="1">125</epno>
+<length>5</length>
+<airdate>2010-11-10</airdate>
+<title xml:lang="ja">怪獣が出たぁ~!</title>
+<title xml:lang="en">Episode 125</title>
+<title xml:lang="x-jat">Kaijuu ga Deta!</title>
+</episode>
+<episode id="132925" update="2019-03-07">
+<epno type="1">126</epno>
+<length>5</length>
+<airdate>2010-11-10</airdate>
+<title xml:lang="ja">てれてれ家族です</title>
+<title xml:lang="en">Episode 126</title>
+<title xml:lang="x-jat">Teretere Kazoku Desu</title>
+</episode>
+<episode id="132926" update="2019-03-07">
+<epno type="1">127</epno>
+<length>5</length>
+<airdate>2010-11-11</airdate>
+<title xml:lang="ja">見ちゃだめ! 見ちゃダメ!</title>
+<title xml:lang="en">Episode 127</title>
+<title xml:lang="x-jat">Micha Dame! Micha Dame!</title>
+</episode>
+<episode id="132927" update="2019-03-07">
+<epno type="1">128</epno>
+<length>5</length>
+<airdate>2010-11-11</airdate>
+<title xml:lang="ja">行くぞ! もりおに探し隊</title>
+<title xml:lang="en">Episode 128</title>
+<title xml:lang="x-jat">Ikuzo! Mori Oni ni Sagashi Tai</title>
+</episode>
+<episode id="132928" update="2019-03-07">
+<epno type="1">129</epno>
+<length>5</length>
+<airdate>2010-11-12</airdate>
+<title xml:lang="ja">やまびこ村グランプリ!</title>
+<title xml:lang="en">Episode 129</title>
+<title xml:lang="x-jat">Yamabiko Mura Grand Prix!</title>
+</episode>
+<episode id="132929" update="2019-03-07">
+<epno type="1">130</epno>
+<length>5</length>
+<airdate>2010-11-12</airdate>
+<title xml:lang="ja">わか蘭, パッカ~ン大作戦!?</title>
+<title xml:lang="en">Episode 130</title>
+<title xml:lang="x-jat">Wakaran, Pakkan Daisakusen!?</title>
+</episode>
+<episode id="133832" update="2019-03-07">
+<epno type="1">131</epno>
+<length>5</length>
+<airdate>2010-11-22</airdate>
+<title xml:lang="ja">てんぐ池の巨大魚</title>
+<title xml:lang="en">Episode 131</title>
+<title xml:lang="x-jat">Tengu Ike no Kyodai Sakana</title>
+</episode>
+<episode id="133833" update="2019-03-07">
+<epno type="1">132</epno>
+<length>5</length>
+<airdate>2010-11-22</airdate>
+<title xml:lang="ja">バナナ! バナナ! あ~バナナ!</title>
+<title xml:lang="en">Episode 132</title>
+<title xml:lang="x-jat">Banana! Banana! Aa Banana!</title>
+</episode>
+<episode id="133834" update="2019-03-07">
+<epno type="1">133</epno>
+<length>5</length>
+<airdate>2010-11-23</airdate>
+<title xml:lang="ja">ベーヤちゃんの早口ことば</title>
+<title xml:lang="en">Episode 133</title>
+<title xml:lang="x-jat">Beeya-chan no Hayakuchikotoba</title>
+</episode>
+<episode id="133835" update="2019-03-07">
+<epno type="1">134</epno>
+<length>5</length>
+<airdate>2010-11-23</airdate>
+<title xml:lang="ja">つねなり, 花火の思い出</title>
+<title xml:lang="en">Episode 134</title>
+<title xml:lang="x-jat">Tsunenari, Hanabi no Omoide</title>
+</episode>
+<episode id="133836" update="2019-03-07">
+<epno type="1">135</epno>
+<length>5</length>
+<airdate>2010-11-24</airdate>
+<title xml:lang="ja">泣きむしはなかっぱ</title>
+<title xml:lang="en">Episode 135</title>
+<title xml:lang="x-jat">Nakimushi Hanakappa</title>
+</episode>
+<episode id="133837" update="2019-03-07">
+<epno type="1">136</epno>
+<length>5</length>
+<airdate>2010-11-24</airdate>
+<title xml:lang="ja">スケートに行こう!</title>
+<title xml:lang="en">Episode 136</title>
+<title xml:lang="x-jat">Skate ni Ikou!</title>
+</episode>
+<episode id="133838" update="2019-03-07">
+<epno type="1">137</epno>
+<length>5</length>
+<airdate>2010-11-25</airdate>
+<title xml:lang="ja">お花屋さん, はなかっぱ</title>
+<title xml:lang="en">Episode 137</title>
+<title xml:lang="x-jat">Ohanaya-san, Hanakappa</title>
+</episode>
+<episode id="133839" update="2019-03-07">
+<epno type="1">138</epno>
+<length>5</length>
+<airdate>2010-11-25</airdate>
+<title xml:lang="ja">橋をなおそう!</title>
+<title xml:lang="en">Episode 138</title>
+<title xml:lang="x-jat">Hashi o Naosou!</title>
+</episode>
+<episode id="134589" update="2019-03-07">
+<epno type="1">139</epno>
+<length>5</length>
+<airdate>2010-11-26</airdate>
+<title xml:lang="ja">すぎる君は, すごすぎる~!</title>
+<title xml:lang="en">Episode 139</title>
+<title xml:lang="x-jat">Sugiru-kun wa, Sugosugiru!</title>
+</episode>
+<episode id="134590" update="2019-03-07">
+<epno type="1">140</epno>
+<length>5</length>
+<airdate>2010-11-26</airdate>
+<title xml:lang="ja">がんばれ! 運動会</title>
+<title xml:lang="en">Episode 140</title>
+<title xml:lang="x-jat">Ganbare! Undoukai</title>
+</episode>
+<episode id="134591" update="2019-03-07">
+<epno type="1">141</epno>
+<length>5</length>
+<airdate>2010-12-06</airdate>
+<title xml:lang="ja">蝶兵衛, お宝コレクション</title>
+<title xml:lang="en">Episode 141</title>
+<title xml:lang="x-jat">Choubee, Otakara Collection</title>
+</episode>
+<episode id="134592" update="2019-03-07">
+<epno type="1">142</epno>
+<length>5</length>
+<airdate>2010-12-06</airdate>
+<title xml:lang="ja">金色のバラはどこ?</title>
+<title xml:lang="en">Episode 142</title>
+<title xml:lang="x-jat">Kin`iro no Bara wa Doko?</title>
+</episode>
+<episode id="135065" update="2019-03-07">
+<epno type="1">143</epno>
+<length>5</length>
+<airdate>2010-12-07</airdate>
+<title xml:lang="ja">看護師みならいベーヤちゃん</title>
+<title xml:lang="en">Episode 143</title>
+<title xml:lang="x-jat">Kangoshi Minarai Beeya-chan</title>
+</episode>
+<episode id="135066" update="2019-03-07">
+<epno type="1">144</epno>
+<length>5</length>
+<airdate>2010-12-07</airdate>
+<title xml:lang="ja">田中先生のとっておき</title>
+<title xml:lang="en">Episode 144</title>
+<title xml:lang="x-jat">Tanaka-sensei no Totteoki</title>
+</episode>
+<episode id="135067" update="2019-03-07">
+<epno type="1">145</epno>
+<length>5</length>
+<airdate>2010-12-08</airdate>
+<title xml:lang="ja">僕らはやまびこ音楽団</title>
+<title xml:lang="en">Episode 145</title>
+<title xml:lang="x-jat">Bokura wa Yamabiko Ongakudan</title>
+</episode>
+<episode id="135068" update="2019-03-07">
+<epno type="1">146</epno>
+<length>5</length>
+<airdate>2010-12-08</airdate>
+<title xml:lang="ja">石になったはなかっぱ</title>
+<title xml:lang="en">Episode 146</title>
+<title xml:lang="x-jat">Ishi ni Natta Hanakappa</title>
+</episode>
+<episode id="135070" update="2019-03-07">
+<epno type="1">147</epno>
+<length>5</length>
+<airdate>2010-12-09</airdate>
+<title xml:lang="ja">踊ろう! みんな踊ろう!</title>
+<title xml:lang="en">Episode 147</title>
+<title xml:lang="x-jat">Odorou! Minna Odorou!</title>
+</episode>
+<episode id="135071" update="2019-03-07">
+<epno type="1">148</epno>
+<length>5</length>
+<airdate>2010-12-09</airdate>
+<title xml:lang="ja">さよなら, ももかっぱちゃん</title>
+<title xml:lang="en">Episode 148</title>
+<title xml:lang="x-jat">Sayonara, Momokappa-chan</title>
+</episode>
+<episode id="135072" update="2019-03-07">
+<epno type="1">149</epno>
+<length>5</length>
+<airdate>2010-12-10</airdate>
+<title xml:lang="ja">はなかっぱの大冒険 (前編)</title>
+<title xml:lang="en">Episode 149</title>
+<title xml:lang="x-jat">Hanakappa no Daibouken (Zenpen)</title>
+</episode>
+<episode id="135073" update="2019-03-07">
+<epno type="1">150</epno>
+<length>5</length>
+<airdate>2010-12-10</airdate>
+<title xml:lang="ja">はなかっぱの大冒険 (後編)</title>
+<title xml:lang="en">Episode 150</title>
+<title xml:lang="x-jat">Hanakappa no Daibouken (Kouhen)</title>
+</episode>
+<episode id="138964" update="2019-03-07">
+<epno type="1">151</epno>
+<length>5</length>
+<airdate>2011-03-28</airdate>
+<title xml:lang="ja">はなかっぱのアルバム</title>
+<title xml:lang="en">Episode 151</title>
+<title xml:lang="x-jat">Hanakappa no Album</title>
+</episode>
+<episode id="138965" update="2019-03-07">
+<epno type="1">152</epno>
+<length>5</length>
+<airdate>2011-03-29</airdate>
+<title xml:lang="ja">つねなりの図鑑がない!!</title>
+<title xml:lang="en">Episode 152</title>
+<title xml:lang="x-jat">Tsunenari no Zukan ga Nai!!</title>
+</episode>
+<episode id="138966" update="2019-03-07">
+<epno type="1">153</epno>
+<length>5</length>
+<airdate>2011-03-30</airdate>
+<title xml:lang="ja">コケヤンの妹</title>
+<title xml:lang="en">Episode 153</title>
+<title xml:lang="x-jat">Kokeyan no Imouto</title>
+</episode>
+<episode id="138967" update="2019-03-07">
+<epno type="1">154</epno>
+<length>5</length>
+<airdate>2011-03-31</airdate>
+<title xml:lang="ja">なんじゃもんじゃ?</title>
+<title xml:lang="en">Episode 154</title>
+<title xml:lang="x-jat">Nanja Monja?</title>
+</episode>
+<episode id="138968" update="2019-03-07">
+<epno type="1">155</epno>
+<length>5</length>
+<airdate>2011-04-01</airdate>
+<title xml:lang="ja">お医者さんはどこだ!?</title>
+<title xml:lang="en">Episode 155</title>
+<title xml:lang="x-jat">Oisha-san wa Doko Da!?</title>
+</episode>
+<episode id="138969" update="2019-03-07">
+<epno type="1">156</epno>
+<length>5</length>
+<airdate>2011-04-11</airdate>
+<title xml:lang="ja">イチゴじゃない!</title>
+<title xml:lang="en">Episode 156</title>
+<title xml:lang="x-jat">Ichigo ja Nai!</title>
+</episode>
+<episode id="138970" update="2019-03-07">
+<epno type="1">157</epno>
+<length>5</length>
+<airdate>2011-04-12</airdate>
+<title xml:lang="ja">ゆけ! やまびこ探検隊</title>
+<title xml:lang="en">Episode 157</title>
+<title xml:lang="x-jat">Yuke! Yamabiko Tankentai</title>
+</episode>
+<episode id="138971" update="2019-03-07">
+<epno type="1">158</epno>
+<length>5</length>
+<airdate>2011-04-13</airdate>
+<title xml:lang="ja">華麗なるカレーパーティー</title>
+<title xml:lang="en">Episode 158</title>
+<title xml:lang="x-jat">Kareinaru Curry Party</title>
+</episode>
+<episode id="138972" update="2019-03-07">
+<epno type="1">159</epno>
+<length>5</length>
+<airdate>2011-04-14</airdate>
+<title xml:lang="ja">逃亡者, はなかっぱ</title>
+<title xml:lang="en">Episode 159</title>
+<title xml:lang="x-jat">Toubousha, Hanakappa</title>
+</episode>
+<episode id="138973" update="2019-03-07">
+<epno type="1">160</epno>
+<length>5</length>
+<airdate>2011-04-15</airdate>
+<title xml:lang="ja">アゲルちゃんのオシャレ</title>
+<title xml:lang="en">Episode 160</title>
+<title xml:lang="x-jat">Ageru-chan no Oshare</title>
+</episode>
+<episode id="142400" update="2019-03-07">
+<epno type="1">180</epno>
+<length>5</length>
+<airdate>2011-06-10</airdate>
+<title xml:lang="ja">はなかっぱ, ごめんってカー</title>
+<title xml:lang="en">Episode 180</title>
+<title xml:lang="x-jat">Hanakappa, Gomenttekaa</title>
+</episode>
+<episode id="142401" update="2019-03-07">
+<epno type="1">179</epno>
+<length>5</length>
+<airdate>2011-06-09</airdate>
+<title xml:lang="ja">あっちコッチどっち?</title>
+<title xml:lang="en">Episode 179</title>
+<title xml:lang="x-jat">Acchi Kocchi Docchi?</title>
+</episode>
+<episode id="142402" update="2019-03-07">
+<epno type="1">178</epno>
+<length>5</length>
+<airdate>2011-06-08</airdate>
+<title xml:lang="ja">カワイイって何?</title>
+<title xml:lang="en">Episode 178</title>
+<title xml:lang="x-jat">Kawaiitte Nani?</title>
+</episode>
+<episode id="142403" update="2019-03-07">
+<epno type="1">177</epno>
+<length>5</length>
+<airdate>2011-06-07</airdate>
+<title xml:lang="ja">チクタクはなかっぱ</title>
+<title xml:lang="en">Episode 177</title>
+<title xml:lang="x-jat">Tick Tack Hanakappa</title>
+</episode>
+<episode id="142404" update="2019-03-07">
+<epno type="1">176</epno>
+<length>5</length>
+<airdate>2011-06-06</airdate>
+<title xml:lang="ja">はなかっぱの家出</title>
+<title xml:lang="en">Episode 176</title>
+<title xml:lang="x-jat">Hanakappa no Iede</title>
+</episode>
+<episode id="142405" update="2019-03-07">
+<epno type="1">175</epno>
+<length>5</length>
+<airdate>2011-05-27</airdate>
+<title xml:lang="ja">約束, 忘れてた!</title>
+<title xml:lang="en">Episode 175</title>
+<title xml:lang="x-jat">Yakusoku, Wasureta!</title>
+</episode>
+<episode id="142406" update="2019-03-07">
+<epno type="1">174</epno>
+<length>5</length>
+<airdate>2011-05-26</airdate>
+<title xml:lang="ja">歯が痛い!</title>
+<title xml:lang="en">Episode 174</title>
+<title xml:lang="x-jat">Ha ga Itai!</title>
+</episode>
+<episode id="142407" update="2019-03-07">
+<epno type="1">173</epno>
+<length>5</length>
+<airdate>2011-05-25</airdate>
+<title xml:lang="ja">モデルはつらいよ</title>
+<title xml:lang="en">Episode 173</title>
+<title xml:lang="x-jat">Model wa Tsurai yo</title>
+</episode>
+<episode id="142408" update="2019-03-07">
+<epno type="1">172</epno>
+<length>5</length>
+<airdate>2011-05-24</airdate>
+<title xml:lang="ja">すぎるくんとキンちゃん</title>
+<title xml:lang="en">Episode 172</title>
+<title xml:lang="x-jat">Sugiru-kun to Kin-chan</title>
+</episode>
+<episode id="142409" update="2019-03-07">
+<epno type="1">171</epno>
+<length>5</length>
+<airdate>2011-05-23</airdate>
+<title xml:lang="ja">我が家がジャングル?!</title>
+<title xml:lang="en">Episode 171</title>
+<title xml:lang="x-jat">Waga Ie ga Jungle?!</title>
+</episode>
+<episode id="142410" update="2019-03-07">
+<epno type="1">170</epno>
+<length>5</length>
+<airdate>2011-05-13</airdate>
+<title xml:lang="ja">にがいのゴメン!</title>
+<title xml:lang="en">Episode 170</title>
+<title xml:lang="x-jat">Nigai no Gomen!</title>
+</episode>
+<episode id="142411" update="2019-03-07">
+<epno type="1">169</epno>
+<length>5</length>
+<airdate>2011-05-12</airdate>
+<title xml:lang="ja">古井戸の幽霊?</title>
+<title xml:lang="en">Episode 169</title>
+<title xml:lang="x-jat">Furuido no Yuurei?</title>
+</episode>
+<episode id="142412" update="2019-03-07">
+<epno type="1">168</epno>
+<length>5</length>
+<airdate>2011-05-11</airdate>
+<title xml:lang="ja">キラキラビーズのアクセサリー</title>
+<title xml:lang="en">Episode 168</title>
+<title xml:lang="x-jat">Kirakira Beads no Accessory</title>
+</episode>
+<episode id="142413" update="2019-03-07">
+<epno type="1">167</epno>
+<length>5</length>
+<airdate>2011-05-10</airdate>
+<title xml:lang="ja">縄跳び大会</title>
+<title xml:lang="en">Episode 167</title>
+<title xml:lang="x-jat">Nawatobi Taikai</title>
+</episode>
+<episode id="142414" update="2019-03-07">
+<epno type="1">166</epno>
+<length>5</length>
+<airdate>2011-05-09</airdate>
+<title xml:lang="ja">どうしちゃったの? お父さん</title>
+<title xml:lang="en">Episode 166</title>
+<title xml:lang="x-jat">Dou Shichatta no? Otousan</title>
+</episode>
+<episode id="142415" update="2019-03-07">
+<epno type="1">165</epno>
+<length>5</length>
+<airdate>2011-04-29</airdate>
+<title xml:lang="ja">今日はボクがお母さん!</title>
+<title xml:lang="en">Episode 165</title>
+<title xml:lang="x-jat">Kyou wa Boku ga Okaasan!</title>
+</episode>
+<episode id="142416" update="2019-03-07">
+<epno type="1">164</epno>
+<length>5</length>
+<airdate>2011-04-28</airdate>
+<title xml:lang="ja">決定! キャンペーンガール</title>
+<title xml:lang="en">Episode 164</title>
+<title xml:lang="x-jat">Kettei! Campaign Girl</title>
+</episode>
+<episode id="142417" update="2019-03-07">
+<epno type="1">163</epno>
+<length>5</length>
+<airdate>2011-04-27</airdate>
+<title xml:lang="ja">わんぱくももかっぱちゃん</title>
+<title xml:lang="en">Episode 163</title>
+<title xml:lang="x-jat">Wanpaku Momokappa-chan</title>
+</episode>
+<episode id="142418" update="2019-03-07">
+<epno type="1">162</epno>
+<length>5</length>
+<airdate>2011-04-26</airdate>
+<title xml:lang="ja">お使いはルンルルルン</title>
+<title xml:lang="en">Episode 162</title>
+<title xml:lang="x-jat">Otsukai wa Run Rururun</title>
+</episode>
+<episode id="142419" update="2019-03-07">
+<epno type="1">161</epno>
+<length>5</length>
+<airdate>2011-04-25</airdate>
+<title xml:lang="ja">原始時代でウォッホホ</title>
+<title xml:lang="en">Episode 161</title>
+<title xml:lang="x-jat">Genshijidai de Vohhoho</title>
+</episode>
+<episode id="145055" update="2019-03-07">
+<epno type="1">182</epno>
+<length>5</length>
+<airdate>2011-06-21</airdate>
+<title xml:lang="ja">みんなで陶芸</title>
+<title xml:lang="en">Episode 182</title>
+<title xml:lang="x-jat">Minna de Tougei</title>
+</episode>
+<episode id="145056" update="2019-03-07">
+<epno type="1">183</epno>
+<length>5</length>
+<airdate>2011-06-22</airdate>
+<title xml:lang="ja">やまびこファッション大ブーム</title>
+<title xml:lang="en">Episode 183</title>
+<title xml:lang="x-jat">Yamabiko Fashion Dai Boom</title>
+</episode>
+<episode id="145057" update="2019-03-07">
+<epno type="1">184</epno>
+<length>5</length>
+<airdate>2011-06-23</airdate>
+<title xml:lang="ja">ハンサムミラー</title>
+<title xml:lang="en">Episode 184</title>
+<title xml:lang="x-jat">Handsome Mirror</title>
+</episode>
+<episode id="145058" update="2019-03-07">
+<epno type="1">185</epno>
+<length>5</length>
+<airdate>2011-06-24</airdate>
+<title xml:lang="ja">がんばれ, がりぞー!</title>
+<title xml:lang="en">Episode 185</title>
+<title xml:lang="x-jat">Ganbare, Garizou!</title>
+</episode>
+<episode id="145059" update="2019-03-07">
+<epno type="1">181</epno>
+<length>5</length>
+<airdate>2011-06-20</airdate>
+<title xml:lang="ja">こだわり おじいちゃん</title>
+<title xml:lang="en">Episode 181</title>
+<title xml:lang="x-jat">Kodawari Ojii-chan</title>
+</episode>
+<episode id="145060" update="2019-03-07">
+<epno type="1">186</epno>
+<length>5</length>
+<airdate>2011-07-04</airdate>
+<title xml:lang="ja">ふわふわはなかっぱ</title>
+<title xml:lang="en">Episode 186</title>
+<title xml:lang="x-jat">Fuwafuwa Hanakappa</title>
+</episode>
+<episode id="145061" update="2019-03-07">
+<epno type="1">195</epno>
+<length>5</length>
+<airdate>2011-07-22</airdate>
+<title xml:lang="ja">はなかっぱの弟?!</title>
+<title xml:lang="en">Episode 195</title>
+<title xml:lang="x-jat">Hanakappa no Otouto?!</title>
+</episode>
+<episode id="145062" update="2019-03-07">
+<epno type="1">187</epno>
+<length>5</length>
+<airdate>2011-07-05</airdate>
+<title xml:lang="ja">これぞ, やまびこパン</title>
+<title xml:lang="en">Episode 187</title>
+<title xml:lang="x-jat">Korezo, Yamabiko Pan</title>
+</episode>
+<episode id="145063" update="2019-03-07">
+<epno type="1">188</epno>
+<length>5</length>
+<airdate>2011-07-06</airdate>
+<title xml:lang="ja">秘密の交換日記</title>
+<title xml:lang="en">Episode 188</title>
+<title xml:lang="x-jat">Himitsu no Koukannikki</title>
+</episode>
+<episode id="145064" update="2019-03-07">
+<epno type="1">189</epno>
+<length>5</length>
+<airdate>2011-07-07</airdate>
+<title xml:lang="ja">復活! 機関車やまびこ号</title>
+<title xml:lang="en">Episode 189</title>
+<title xml:lang="x-jat">Fukkatsu! Kikansha Yamabiko Gou</title>
+</episode>
+<episode id="145065" update="2019-03-07">
+<epno type="1">190</epno>
+<length>5</length>
+<airdate>2011-07-08</airdate>
+<title xml:lang="ja">誰だ? 蝶太郎だ!</title>
+<title xml:lang="en">Episode 190</title>
+<title xml:lang="x-jat">Dare Da? Choubee Da!</title>
+</episode>
+<episode id="145066" update="2019-03-07">
+<epno type="1">191</epno>
+<length>5</length>
+<airdate>2011-07-18</airdate>
+<title xml:lang="ja">ピカピカ甲らで絶好調!</title>
+<title xml:lang="en">Episode 191</title>
+<title xml:lang="x-jat">Pikapika Koura de Zekkouchuu!</title>
+</episode>
+<episode id="145067" update="2019-03-07">
+<epno type="1">192</epno>
+<length>5</length>
+<airdate>2011-07-19</airdate>
+<title xml:lang="ja">カラバッチョの時計</title>
+<title xml:lang="en">Episode 192</title>
+<title xml:lang="x-jat">Karabaccho no Tokei</title>
+</episode>
+<episode id="145068" update="2019-03-07">
+<epno type="1">193</epno>
+<length>5</length>
+<airdate>2011-07-20</airdate>
+<title xml:lang="ja">カウガール, ベーヤちゃん</title>
+<title xml:lang="en">Episode 193</title>
+<title xml:lang="x-jat">Cowgirl, Beeya-chan</title>
+</episode>
+<episode id="145069" update="2019-03-07">
+<epno type="1">194</epno>
+<length>5</length>
+<airdate>2011-07-21</airdate>
+<title xml:lang="ja">主役はボクだ!</title>
+<title xml:lang="en">Episode 194</title>
+<title xml:lang="x-jat">Shuyaku wa Boku Da!</title>
+</episode>
+<episode id="153285" update="2019-03-07">
+<epno type="1">196</epno>
+<length>5</length>
+<airdate>2011-08-01</airdate>
+<title xml:lang="ja">大人になれるかな</title>
+<title xml:lang="en">Episode 196</title>
+<title xml:lang="x-jat">Otona ni Nareru kana</title>
+</episode>
+<episode id="153286" update="2019-03-07">
+<epno type="1">199</epno>
+<length>5</length>
+<airdate>2011-08-04</airdate>
+<title xml:lang="ja">新しい乗り物だ!</title>
+<title xml:lang="en">Episode 199</title>
+<title xml:lang="x-jat">Atarashii Norimono Da!</title>
+</episode>
+<episode id="153287" update="2019-03-07">
+<epno type="1">197</epno>
+<length>5</length>
+<airdate>2011-08-02</airdate>
+<title xml:lang="ja">ドキドキ家庭訪問</title>
+<title xml:lang="en">Episode 197</title>
+<title xml:lang="x-jat">Dokidoki Kateihoumon</title>
+</episode>
+<episode id="153288" update="2019-03-07">
+<epno type="1">198</epno>
+<length>5</length>
+<airdate>2011-08-03</airdate>
+<title xml:lang="ja">やまびこ村のチアガール</title>
+<title xml:lang="en">Episode 198</title>
+<title xml:lang="x-jat">Yamabiko Mura no Cheer Girl</title>
+</episode>
+<episode id="153289" update="2019-03-07">
+<epno type="1">201</epno>
+<length>5</length>
+<airdate>2011-09-19</airdate>
+<title xml:lang="ja">僕は凄いんだぞ!</title>
+<title xml:lang="en">Episode 201</title>
+<title xml:lang="x-jat">Boku wa Sugoindazo!</title>
+</episode>
+<episode id="153290" update="2019-03-07">
+<epno type="1">200</epno>
+<length>5</length>
+<airdate>2011-08-05</airdate>
+<title xml:lang="ja">しりとりゴミ拾い合戦</title>
+<title xml:lang="en">Episode 200</title>
+<title xml:lang="x-jat">Shiritori Gomi Hiroi Kassen</title>
+</episode>
+<episode id="153291" update="2019-03-07">
+<epno type="1">225</epno>
+<length>5</length>
+<airdate>2011-10-20</airdate>
+<title xml:lang="ja">仲直りしてっ!</title>
+<title xml:lang="en">Episode 225</title>
+<title xml:lang="x-jat">Nakanaori Shite!</title>
+</episode>
+<episode id="153292" update="2019-03-07">
+<epno type="1">202</epno>
+<length>5</length>
+<airdate>2011-09-19</airdate>
+<title xml:lang="ja">長生きしてね</title>
+<title xml:lang="en">Episode 202</title>
+<title xml:lang="x-jat">Nagaiki Shite ne</title>
+</episode>
+<episode id="153293" update="2019-03-07">
+<epno type="1">203</epno>
+<length>5</length>
+<airdate>2011-09-20</airdate>
+<title xml:lang="ja">かっぱ池で遊ぼう!</title>
+<title xml:lang="en">Episode 203</title>
+<title xml:lang="x-jat">Kappa Ike de Asobou!</title>
+</episode>
+<episode id="153294" update="2019-03-07">
+<epno type="1">204</epno>
+<length>5</length>
+<airdate>2011-09-20</airdate>
+<title xml:lang="ja">お兄ちゃんなんてもう嫌や</title>
+<title xml:lang="en">Episode 204</title>
+<title xml:lang="x-jat">Onii-chan Nante Mou Iya ya</title>
+</episode>
+<episode id="153295" update="2019-03-07">
+<epno type="1">205</epno>
+<length>5</length>
+<airdate>2011-09-21</airdate>
+<title xml:lang="ja">熱血教師, 男泣き!</title>
+<title xml:lang="en">Episode 205</title>
+<title xml:lang="x-jat">Nekketsu Kyoushi, Otokonaki!</title>
+</episode>
+<episode id="153296" update="2019-03-07">
+<epno type="1">206</epno>
+<length>5</length>
+<airdate>2011-09-21</airdate>
+<title xml:lang="ja">のど自慢大会!</title>
+<title xml:lang="en">Episode 206</title>
+<title xml:lang="x-jat">Nodo Jiman Taikai!</title>
+</episode>
+<episode id="153297" update="2019-03-07">
+<epno type="1">208</epno>
+<length>5</length>
+<airdate>2011-09-22</airdate>
+<title xml:lang="ja">磁石ベルトでガッチンピョーン!</title>
+<title xml:lang="en">Episode 208</title>
+<title xml:lang="x-jat">Jiseki Belt de Gacchinpyon!</title>
+</episode>
+<episode id="153298" update="2019-03-07">
+<epno type="1">207</epno>
+<length>5</length>
+<airdate>2011-09-22</airdate>
+<title xml:lang="ja">いらんいらん</title>
+<title xml:lang="en">Episode 207</title>
+<title xml:lang="x-jat">Iran`iran</title>
+</episode>
+<episode id="153299" update="2019-03-07">
+<epno type="1">210</epno>
+<length>5</length>
+<airdate>2011-09-23</airdate>
+<title xml:lang="ja">もりおにと一緒!</title>
+<title xml:lang="en">Episode 210</title>
+<title xml:lang="x-jat">Mori Oni to Issho!</title>
+</episode>
+<episode id="153300" update="2019-03-07">
+<epno type="1">213</epno>
+<length>5</length>
+<airdate>2011-10-04</airdate>
+<title xml:lang="ja">ももかっぱはお姫様!?</title>
+<title xml:lang="en">Episode 213</title>
+<title xml:lang="x-jat">Momokappa wa Ohime-sama!?</title>
+</episode>
+<episode id="153301" update="2019-03-07">
+<epno type="1">218</epno>
+<length>5</length>
+<airdate>2011-10-06</airdate>
+<title xml:lang="ja">わか蘭で若がえる!</title>
+<title xml:lang="en">Episode 218</title>
+<title xml:lang="x-jat">Wakaran de Wakagaeru!</title>
+</episode>
+<episode id="153302" update="2019-03-07">
+<epno type="1">219</epno>
+<length>5</length>
+<airdate>2011-10-17</airdate>
+<title xml:lang="ja">はなかっぱからの贈り物</title>
+<title xml:lang="en">Episode 219</title>
+<title xml:lang="x-jat">Hanakappa kara no Okurimono</title>
+</episode>
+<episode id="153303" update="2019-03-07">
+<epno type="1">221</epno>
+<length>5</length>
+<airdate>2011-10-18</airdate>
+<title xml:lang="ja">ピーヨンのお使い</title>
+<title xml:lang="en">Episode 221</title>
+<title xml:lang="x-jat">Piiyon no Otsukai</title>
+</episode>
+<episode id="153304" update="2019-03-07">
+<epno type="1">211</epno>
+<length>5</length>
+<airdate>2011-10-03</airdate>
+<title xml:lang="ja">誕生! でこぼこコンビ</title>
+<title xml:lang="en">Episode 211</title>
+<title xml:lang="x-jat">Tanjou! Dekoboko Combi</title>
+</episode>
+<episode id="153305" update="2019-03-07">
+<epno type="1">212</epno>
+<length>5</length>
+<airdate>2011-10-03</airdate>
+<title xml:lang="ja">再会? 二人はライバル!</title>
+<title xml:lang="en">Episode 212</title>
+<title xml:lang="x-jat">Saikai? Futari wa Rival!</title>
+</episode>
+<episode id="153306" update="2019-03-07">
+<epno type="1">214</epno>
+<length>5</length>
+<airdate>2011-10-04</airdate>
+<title xml:lang="ja">カラバッチョのラブレター</title>
+<title xml:lang="en">Episode 214</title>
+<title xml:lang="x-jat">Karabaccho no Love Letter</title>
+</episode>
+<episode id="153307" update="2019-03-07">
+<epno type="1">215</epno>
+<length>5</length>
+<airdate>2011-10-05</airdate>
+<title xml:lang="ja">博士の助手</title>
+<title xml:lang="en">Episode 215</title>
+<title xml:lang="x-jat">Hakase no Joshu</title>
+</episode>
+<episode id="153308" update="2019-03-07">
+<epno type="1">216</epno>
+<length>5</length>
+<airdate>2011-10-05</airdate>
+<title xml:lang="ja">ママたちのオシャレ参観</title>
+<title xml:lang="en">Episode 216</title>
+<title xml:lang="x-jat">Mama-tachi no Oshare Sankan</title>
+</episode>
+<episode id="153309" update="2019-03-07">
+<epno type="1">217</epno>
+<length>5</length>
+<airdate>2011-10-06</airdate>
+<title xml:lang="ja">すぎるくん, がんばりすぎる</title>
+<title xml:lang="en">Episode 217</title>
+<title xml:lang="x-jat">Sugiru-kun, Ganbari Sugiru</title>
+</episode>
+<episode id="153310" update="2019-03-07">
+<epno type="1">220</epno>
+<length>5</length>
+<airdate>2011-10-17</airdate>
+<title xml:lang="ja">改良! 博士の車</title>
+<title xml:lang="en">Episode 220</title>
+<title xml:lang="x-jat">Kairyou! Hakase no Kuruma</title>
+</episode>
+<episode id="153311" update="2019-03-07">
+<epno type="1">222</epno>
+<length>5</length>
+<airdate>2011-10-18</airdate>
+<title xml:lang="ja">お手紙届きました</title>
+<title xml:lang="en">Episode 222</title>
+<title xml:lang="x-jat">Otegami Todokimashita</title>
+</episode>
+<episode id="153312" update="2019-03-07">
+<epno type="1">223</epno>
+<length>5</length>
+<airdate>2011-10-19</airdate>
+<title xml:lang="ja">犯人は誰だ!</title>
+<title xml:lang="en">Episode 223</title>
+<title xml:lang="x-jat">Hannin wa Dare Da!</title>
+</episode>
+<episode id="153313" update="2019-03-07">
+<epno type="1">224</epno>
+<length>5</length>
+<airdate>2011-10-19</airdate>
+<title xml:lang="ja">てれてれぼうず怒る!?</title>
+<title xml:lang="en">Episode 224</title>
+<title xml:lang="x-jat">Teretere Bouzu Ikaru!?</title>
+</episode>
+<episode id="153314" update="2019-03-07">
+<epno type="1">209</epno>
+<length>5</length>
+<airdate>2011-09-23</airdate>
+<title xml:lang="ja">火事だ! 火事だ!!</title>
+<title xml:lang="en">Episode 209</title>
+<title xml:lang="x-jat">Kaji Da! Daji Da!!</title>
+</episode>
+<episode id="163278" update="2019-03-07">
+<epno type="1">246</epno>
+<length>5</length>
+<airdate>2011-11-30</airdate>
+<title xml:lang="ja">暗闇でドッキリ!</title>
+<title xml:lang="en">Episode 246</title>
+<title xml:lang="x-jat">Kurayami de Dokkiri!</title>
+</episode>
+<episode id="163279" update="2019-03-07">
+<epno type="1">245</epno>
+<length>5</length>
+<airdate>2011-11-29</airdate>
+<title xml:lang="ja">パチパチでビリビリ</title>
+<title xml:lang="en">Episode 245</title>
+<title xml:lang="x-jat">Pachipachi de Biribiri</title>
+</episode>
+<episode id="163280" update="2019-03-07">
+<epno type="1">244</epno>
+<length>5</length>
+<airdate>2011-11-29</airdate>
+<title xml:lang="ja">手編みのマフラーでハートをギュッ!</title>
+<title xml:lang="en">Episode 244</title>
+<title xml:lang="x-jat">Teami no Muffler de Heart o Kyu</title>
+</episode>
+<episode id="163281" update="2019-03-07">
+<epno type="1">243</epno>
+<length>5</length>
+<airdate>2011-11-28</airdate>
+<title xml:lang="ja">お父さんとキャッチボール</title>
+<title xml:lang="en">Episode 243</title>
+<title xml:lang="x-jat">Otousan to Catch Ball</title>
+</episode>
+<episode id="163282" update="2019-03-07">
+<epno type="1">242</epno>
+<length>5</length>
+<airdate>2011-11-28</airdate>
+<title xml:lang="ja">当たる? 甲ら占い</title>
+<title xml:lang="en">Episode 242</title>
+<title xml:lang="x-jat">Ataru? Koura Uranai</title>
+</episode>
+<episode id="163283" update="2019-03-07">
+<epno type="1">241</epno>
+<length>5</length>
+<airdate>2011-11-17</airdate>
+<title xml:lang="ja">とっておきのイチゴ</title>
+<title xml:lang="en">Episode 241</title>
+<title xml:lang="x-jat">Totteoki no Ichigo</title>
+</episode>
+<episode id="163284" update="2019-03-07">
+<epno type="1">240</epno>
+<length>5</length>
+<airdate>2011-11-17</airdate>
+<title xml:lang="ja">大改造! 秘密基地</title>
+<title xml:lang="en">Episode 240</title>
+<title xml:lang="x-jat">Daikaizou! Himitsu Kichi</title>
+</episode>
+<episode id="163285" update="2019-03-07">
+<epno type="1">239</epno>
+<length>5</length>
+<airdate>2011-11-16</airdate>
+<title xml:lang="ja">やまびこ新聞</title>
+<title xml:lang="en">Episode 239</title>
+<title xml:lang="x-jat">Yamabiko Shinbun</title>
+</episode>
+<episode id="163286" update="2019-03-07">
+<epno type="1">238</epno>
+<length>5</length>
+<airdate>2011-11-16</airdate>
+<title xml:lang="ja">お父さんの1日先生</title>
+<title xml:lang="en">Episode 238</title>
+<title xml:lang="x-jat">Otousan no Ichinichi Sensei</title>
+</episode>
+<episode id="163287" update="2019-03-07">
+<epno type="1">237</epno>
+<length>5</length>
+<airdate>2011-11-15</airdate>
+<title xml:lang="ja">温泉が出た!</title>
+<title xml:lang="en">Episode 237</title>
+<title xml:lang="x-jat">Onsen ga Deta!</title>
+</episode>
+<episode id="163288" update="2019-03-07">
+<epno type="1">236</epno>
+<length>5</length>
+<airdate>2011-11-15</airdate>
+<title xml:lang="ja">友だちの家でお泊り</title>
+<title xml:lang="en">Episode 236</title>
+<title xml:lang="x-jat">Tomodachi no Ie de Otomari</title>
+</episode>
+<episode id="163289" update="2019-03-07">
+<epno type="1">235</epno>
+<length>5</length>
+<airdate>2011-11-14</airdate>
+<title xml:lang="ja">恐怖のケンケンパー</title>
+<title xml:lang="en">Episode 235</title>
+<title xml:lang="x-jat">Kyoufu no Kenkenber</title>
+</episode>
+<episode id="163290" update="2019-03-07">
+<epno type="1">234</epno>
+<length>5</length>
+<airdate>2011-11-14</airdate>
+<title xml:lang="ja">あの子は誰?</title>
+<title xml:lang="en">Episode 234</title>
+<title xml:lang="x-jat">Ano Ko wa Dare?</title>
+</episode>
+<episode id="163291" update="2019-03-07">
+<epno type="1">233</epno>
+<length>5</length>
+<airdate>2011-11-03</airdate>
+<title xml:lang="ja">つねなり大ピンチ</title>
+<title xml:lang="en">Episode 233</title>
+<title xml:lang="x-jat">Tsunenari Dai Pinch</title>
+</episode>
+<episode id="163292" update="2019-03-07">
+<epno type="1">232</epno>
+<length>5</length>
+<airdate>2011-11-03</airdate>
+<title xml:lang="ja">スペースはなかっぱ</title>
+<title xml:lang="en">Episode 232</title>
+<title xml:lang="x-jat">Space Hanakappa</title>
+</episode>
+<episode id="163293" update="2019-03-07">
+<epno type="1">231</epno>
+<length>5</length>
+<airdate>2011-11-02</airdate>
+<title xml:lang="ja">みろりんの帽子</title>
+<title xml:lang="en">Episode 231</title>
+<title xml:lang="x-jat">Mirorin no Boush</title>
+</episode>
+<episode id="163294" update="2019-03-07">
+<epno type="1">230</epno>
+<length>5</length>
+<airdate>2011-11-01</airdate>
+<title xml:lang="ja">はなかっぱ, お母さん</title>
+<title xml:lang="en">Episode 230</title>
+<title xml:lang="x-jat">Hanakappa, Okaasan</title>
+</episode>
+<episode id="163295" update="2019-03-07">
+<epno type="1">229</epno>
+<length>5</length>
+<airdate>2011-11-01</airdate>
+<title xml:lang="ja">対決! 花すごろく</title>
+<title xml:lang="en">Episode 229</title>
+<title xml:lang="x-jat">Taiketsu! Hana Sugoroku</title>
+</episode>
+<episode id="163296" update="2019-03-07">
+<epno type="1">228</epno>
+<length>5</length>
+<airdate>2011-10-31</airdate>
+<title xml:lang="ja">わっ, パンツが!?</title>
+<title xml:lang="en">Episode 228</title>
+<title xml:lang="x-jat">Wa, Pantsu ga!?</title>
+</episode>
+<episode id="163297" update="2019-03-07">
+<epno type="1">227</epno>
+<length>5</length>
+<airdate>2011-10-31</airdate>
+<title xml:lang="ja">お願い! 伝わって!!</title>
+<title xml:lang="en">Episode 227</title>
+<title xml:lang="x-jat">Onegai! Tsutawatte!!</title>
+</episode>
+<episode id="163298" update="2019-03-07">
+<epno type="1">226</epno>
+<length>5</length>
+<airdate>2011-10-20</airdate>
+<title xml:lang="ja">決戦! アゲルVSがりぞー</title>
+<title xml:lang="en">Episode 226</title>
+<title xml:lang="x-jat">Taiketsu! Ageru vs Garizou</title>
+</episode>
+<episode id="175647" update="2019-03-09">
+<epno type="1">286</epno>
+<length>5</length>
+<airdate>2012-07-03</airdate>
+<title xml:lang="ja">思い出のくまぴ</title>
+<title xml:lang="en">Episode 286</title>
+<title xml:lang="x-jat">Omoide no Kumapi</title>
+</episode>
+<episode id="175648" update="2019-03-09">
+<epno type="1">285</epno>
+<length>5</length>
+<airdate>2012-07-03</airdate>
+<title xml:lang="ja">最後のひとつ</title>
+<title xml:lang="en">Episode 285</title>
+<title xml:lang="x-jat">Saigo no Hitotsu</title>
+</episode>
+<episode id="175649" update="2019-03-09">
+<epno type="1">284</epno>
+<length>5</length>
+<airdate>2012-07-02</airdate>
+<title xml:lang="ja">消えた金のわらじ</title>
+<title xml:lang="en">Episode 284</title>
+<title xml:lang="x-jat">Kieta Kane no Waraji</title>
+</episode>
+<episode id="175650" update="2019-03-09">
+<epno type="1">283</epno>
+<length>5</length>
+<airdate>2012-07-02</airdate>
+<title xml:lang="ja">ピクニックに行こう!</title>
+<title xml:lang="en">Episode 283</title>
+<title xml:lang="x-jat">Picnic ni Ikou!</title>
+</episode>
+<episode id="175651" update="2019-03-09">
+<epno type="1">282</epno>
+<length>5</length>
+<airdate>2012-06-08</airdate>
+<title xml:lang="ja">花が咲かなくなっちゃった?!</title>
+<title xml:lang="en">Episode 282</title>
+<title xml:lang="x-jat">Hana ga Sakanakunacchatta?!</title>
+</episode>
+<episode id="175652" update="2019-03-09">
+<epno type="1">281</epno>
+<length>5</length>
+<airdate>2012-06-08</airdate>
+<title xml:lang="ja">秘密基地でおままごと</title>
+<title xml:lang="en">Episode 281</title>
+<title xml:lang="x-jat">Himitsu Kichi de Omamagoto</title>
+</episode>
+<episode id="175653" update="2019-03-09">
+<epno type="1">280</epno>
+<length>5</length>
+<airdate>2012-06-07</airdate>
+<title xml:lang="ja">やまびこ村スタンプラリー</title>
+<title xml:lang="en">Episode 280</title>
+<title xml:lang="x-jat">Yamabiko Mura Stamp Rally</title>
+</episode>
+<episode id="175654" update="2019-03-09">
+<epno type="1">279</epno>
+<length>5</length>
+<airdate>2012-06-07</airdate>
+<title xml:lang="ja">どなりドンブリ</title>
+<title xml:lang="en">Episode 279</title>
+<title xml:lang="x-jat">Donari Donburi</title>
+</episode>
+<episode id="175655" update="2019-03-09">
+<epno type="1">278</epno>
+<length>5</length>
+<airdate>2012-06-06</airdate>
+<title xml:lang="ja">ピーマンを食べよう</title>
+<title xml:lang="en">Episode 278</title>
+<title xml:lang="x-jat">Piiman o Tabeyou</title>
+</episode>
+<episode id="175656" update="2019-03-09">
+<epno type="1">277</epno>
+<length>5</length>
+<airdate>2012-06-06</airdate>
+<title xml:lang="ja">無人島ふたりぼっち</title>
+<title xml:lang="en">Episode 277</title>
+<title xml:lang="x-jat">Mujintou Futaribocchi</title>
+</episode>
+<episode id="175657" update="2019-03-09">
+<epno type="1">276</epno>
+<length>5</length>
+<airdate>2012-06-05</airdate>
+<title xml:lang="ja">うでずもう対決!</title>
+<title xml:lang="en">Episode 276</title>
+<title xml:lang="x-jat">Udezumou Taiketsu!</title>
+</episode>
+<episode id="175658" update="2019-03-09">
+<epno type="1">275</epno>
+<length>5</length>
+<airdate>2012-06-05</airdate>
+<title xml:lang="ja">荒野のハナカッパーノ</title>
+<title xml:lang="en">Episode 275</title>
+<title xml:lang="x-jat">Kouya no Hanakappano</title>
+</episode>
+<episode id="175659" update="2019-03-09">
+<epno type="1">274</epno>
+<length>5</length>
+<airdate>2012-06-04</airdate>
+<title xml:lang="ja">弱木で弱気</title>
+<title xml:lang="en">Episode 274</title>
+<title xml:lang="x-jat">Yowaki de Yowaki</title>
+</episode>
+<episode id="175660" update="2019-03-09">
+<epno type="1">273</epno>
+<length>5</length>
+<airdate>2012-06-04</airdate>
+<title xml:lang="ja">大巨人あらわる</title>
+<title xml:lang="en">Episode 273</title>
+<title xml:lang="x-jat">Daikyojin Arawaru</title>
+</episode>
+<episode id="175661" update="2019-03-09">
+<epno type="1">272</epno>
+<length>5</length>
+<airdate>2012-05-21</airdate>
+<title xml:lang="ja">まわせ! フラフープ</title>
+<title xml:lang="en">Episode 272</title>
+<title xml:lang="x-jat">Mawase! Hula Hoop</title>
+</episode>
+<episode id="175662" update="2019-03-09">
+<epno type="1">271</epno>
+<length>5</length>
+<airdate>2012-05-21</airdate>
+<title xml:lang="ja">金環食を見よう!</title>
+<title xml:lang="en">Episode 271</title>
+<title xml:lang="x-jat">Kinkanshoku o Miyou!</title>
+</episode>
+<episode id="175663" update="2019-03-09">
+<epno type="1">268</epno>
+<length>5</length>
+<airdate>2012-03-21</airdate>
+<title xml:lang="ja">佐藤先生の休日</title>
+<title xml:lang="en">Episode 268</title>
+<title xml:lang="x-jat">Satou-sensei no Kyuujitsu</title>
+</episode>
+<episode id="175664" update="2019-03-09">
+<epno type="1">267</epno>
+<length>5</length>
+<airdate>2012-03-21</airdate>
+<title xml:lang="ja">くだらん, くだらん!</title>
+<title xml:lang="en">Episode 267</title>
+<title xml:lang="x-jat">Kudaran, Kudaran!</title>
+</episode>
+<episode id="175665" update="2019-03-09">
+<epno type="1">266</epno>
+<length>5</length>
+<airdate>2012-03-20</airdate>
+<title xml:lang="ja">テレビがこわれた!</title>
+<title xml:lang="en">Episode 266</title>
+<title xml:lang="x-jat">Terebi ga Kowareta!</title>
+</episode>
+<episode id="175666" update="2019-03-09">
+<epno type="1">265</epno>
+<length>5</length>
+<airdate>2012-03-20</airdate>
+<title xml:lang="ja">なんで会えないの~?</title>
+<title xml:lang="en">Episode 265</title>
+<title xml:lang="x-jat">Nande Aenai no?</title>
+</episode>
+<episode id="175667" update="2019-03-09">
+<epno type="1">264</epno>
+<length>5</length>
+<airdate>2012-03-19</airdate>
+<title xml:lang="ja">チャンバラ合戦</title>
+<title xml:lang="en">Episode 264</title>
+<title xml:lang="x-jat">Chanbara Kassen</title>
+</episode>
+<episode id="175668" update="2019-03-09">
+<epno type="1">263</epno>
+<length>5</length>
+<airdate>2012-03-19</airdate>
+<title xml:lang="ja">飛べ! 僕らの飛行機</title>
+<title xml:lang="en">Episode 263</title>
+<title xml:lang="x-jat">Tobe! Bokura no Hikouki</title>
+</episode>
+<episode id="175669" update="2019-03-09">
+<epno type="1">262</epno>
+<length>5</length>
+<airdate>2012-03-15</airdate>
+<title xml:lang="ja">はなかっぱと豆の木</title>
+<title xml:lang="en">Episode 262</title>
+<title xml:lang="x-jat">Hanakappa to Mame no Ki</title>
+</episode>
+<episode id="175670" update="2019-03-09">
+<epno type="1">261</epno>
+<length>5</length>
+<airdate>2012-03-15</airdate>
+<title xml:lang="ja">対決! はなかっぱVSがりぞー</title>
+<title xml:lang="en">Episode 261</title>
+<title xml:lang="x-jat">Taiketsu! Hanakappa vs Garizou</title>
+</episode>
+<episode id="175671" update="2019-03-09">
+<epno type="1">260</epno>
+<length>5</length>
+<airdate>2012-03-14</airdate>
+<title xml:lang="ja">花のニンジャ, はなかっぱ</title>
+<title xml:lang="en">Episode 260</title>
+<title xml:lang="x-jat">Hana no Ninja, Hanakappa</title>
+</episode>
+<episode id="175672" update="2019-03-09">
+<epno type="1">259</epno>
+<length>5</length>
+<airdate>2012-03-14</airdate>
+<title xml:lang="ja">怖いコワ~い話</title>
+<title xml:lang="en">Episode 259</title>
+<title xml:lang="x-jat">Kowai Kowai Hanashi</title>
+</episode>
+<episode id="175673" update="2019-03-09">
+<epno type="1">258</epno>
+<length>5</length>
+<airdate>2012-03-13</airdate>
+<title xml:lang="ja">寝てなさい, はなかっぱ</title>
+<title xml:lang="en">Episode 258</title>
+<title xml:lang="x-jat">Netenasai, Hanakappa</title>
+</episode>
+<episode id="175674" update="2019-03-09">
+<epno type="1">257</epno>
+<length>5</length>
+<airdate>2012-03-13</airdate>
+<title xml:lang="ja">みんなで泡アワ</title>
+<title xml:lang="en">Episode 257</title>
+<title xml:lang="x-jat">Minna de Awaawa</title>
+</episode>
+<episode id="175675" update="2019-03-09">
+<epno type="1">256</epno>
+<length>5</length>
+<airdate>2012-03-12</airdate>
+<title xml:lang="ja">まぼろしのチョウ</title>
+<title xml:lang="en">Episode 256</title>
+<title xml:lang="x-jat">Maboroshi no Chou</title>
+</episode>
+<episode id="175676" update="2019-03-09">
+<epno type="1">255</epno>
+<length>5</length>
+<airdate>2012-03-12</airdate>
+<title xml:lang="ja">やまびこ村こどもロケット</title>
+<title xml:lang="en">Episode 255</title>
+<title xml:lang="x-jat">Yamabiko Mura Kodomo Rocket</title>
+</episode>
+<episode id="175677" update="2019-03-09">
+<epno type="1">254</epno>
+<length>5</length>
+<airdate>2012-03-08</airdate>
+<title xml:lang="ja">マニキュアのはな</title>
+<title xml:lang="en">Episode 254</title>
+<title xml:lang="x-jat">Manicure no Hana</title>
+</episode>
+<episode id="175678" update="2019-03-09">
+<epno type="1">253</epno>
+<length>5</length>
+<airdate>2012-03-08</airdate>
+<title xml:lang="ja">マスターカッパー参上</title>
+<title xml:lang="en">Episode 253</title>
+<title xml:lang="x-jat">Master Kappa Sanjou</title>
+</episode>
+<episode id="175679" update="2019-03-09">
+<epno type="1">252</epno>
+<length>5</length>
+<airdate>2012-03-07</airdate>
+<title xml:lang="ja">はなかっぱのお留守番</title>
+<title xml:lang="en">Episode 252</title>
+<title xml:lang="x-jat">Hanakappa no Orusuban</title>
+</episode>
+<episode id="175680" update="2019-03-09">
+<epno type="1">251</epno>
+<length>5</length>
+<airdate>2012-03-07</airdate>
+<title xml:lang="ja">宇宙人, やまびこ村にあらわる</title>
+<title xml:lang="en">Episode 251</title>
+<title xml:lang="x-jat">Uchuujin, Yamabiko Mura ni Arawaru</title>
+</episode>
+<episode id="175681" update="2019-03-07">
+<epno type="1">250</epno>
+<length>5</length>
+<airdate>2012-02-28</airdate>
+<title xml:lang="ja">お父さんのひまわり</title>
+<title xml:lang="en">Episode 250</title>
+<title xml:lang="x-jat">Otousan no Himawari</title>
+</episode>
+<episode id="175682" update="2019-03-07">
+<epno type="1">249</epno>
+<length>5</length>
+<airdate>2011-12-01</airdate>
+<title xml:lang="ja">お別れはつらいよ</title>
+<title xml:lang="en">Episode 249</title>
+<title xml:lang="x-jat">Owakare wa Tsurai yo</title>
+</episode>
+<episode id="175683" update="2019-03-07">
+<epno type="1">248</epno>
+<length>5</length>
+<airdate>2011-12-01</airdate>
+<title xml:lang="ja">焼きいも食べたい!</title>
+<title xml:lang="en">Episode 248</title>
+<title xml:lang="x-jat">Yakiimo Tabetai!</title>
+</episode>
+<episode id="175684" update="2019-03-07">
+<epno type="1">247</epno>
+<length>5</length>
+<airdate>2011-11-30</airdate>
+<title xml:lang="ja">ガリガリ, がりぞー</title>
+<title xml:lang="en">Episode 247</title>
+<title xml:lang="x-jat">Garigari, Garizou</title>
+</episode>
+<episode id="176660" update="2019-03-09">
+<epno type="1">289</epno>
+<length>5</length>
+<airdate>2012-07-05</airdate>
+<title xml:lang="ja">花は朝咲く</title>
+<title xml:lang="en">Episode 289</title>
+<title xml:lang="x-jat">Hana wa Asa Saku?!</title>
+</episode>
+<episode id="176661" update="2019-03-09">
+<epno type="1">288</epno>
+<length>5</length>
+<airdate>2012-07-04</airdate>
+<title xml:lang="ja">フラ! フラ! フラ!</title>
+<title xml:lang="en">Episode 288</title>
+<title xml:lang="x-jat">Hula! Hula! Hula!</title>
+</episode>
+<episode id="176662" update="2019-03-09">
+<epno type="1">287</epno>
+<length>5</length>
+<airdate>2012-07-04</airdate>
+<title xml:lang="ja">ともだち記念日</title>
+<title xml:lang="en">Episode 287</title>
+<title xml:lang="x-jat">Tomodachi Kinenbi</title>
+</episode>
+<episode id="177432" update="2019-03-09">
+<epno type="1">292</epno>
+<length>5</length>
+<airdate>2012-07-06</airdate>
+<title xml:lang="ja">ピーヨン, マネばかり</title>
+<title xml:lang="en">Episode 292</title>
+<title xml:lang="x-jat">Piiyon, Mane Bakari</title>
+</episode>
+<episode id="177433" update="2019-03-09">
+<epno type="1">291</epno>
+<length>5</length>
+<airdate>2012-07-06</airdate>
+<title xml:lang="ja">みんなで標語!</title>
+<title xml:lang="en">Episode 291</title>
+<title xml:lang="x-jat">Minna de Hyougo!</title>
+</episode>
+<episode id="177434" update="2019-03-09">
+<epno type="1">290</epno>
+<length>5</length>
+<airdate>2012-07-05</airdate>
+<title xml:lang="ja">したつもり貯金</title>
+<title xml:lang="en">Episode 290</title>
+<title xml:lang="x-jat">Shita Tsumori Choukin</title>
+</episode>
+<episode id="177943" update="2019-03-07">
+<epno type="1">293</epno>
+<length>5</length>
+<airdate>2012-07-31</airdate>
+<title xml:lang="ja">つぼかっぱ!?</title>
+<title xml:lang="en">Episode 293</title>
+<title xml:lang="x-jat">Tsubokappa!?</title>
+</episode>
+<episode id="177944" update="2019-03-09">
+<epno type="1">270</epno>
+<length>5</length>
+<airdate>2012-03-22</airdate>
+<title xml:lang="ja">お花見に行こう!</title>
+<title xml:lang="en">Episode 270</title>
+<title xml:lang="x-jat">Ohanami ni Ikou!</title>
+</episode>
+<episode id="177945" update="2019-03-09">
+<epno type="1">269</epno>
+<length>5</length>
+<airdate>2012-03-22</airdate>
+<title xml:lang="ja">シンクロナイズドはなかっぱ</title>
+<title xml:lang="en">Episode 269</title>
+<title xml:lang="x-jat">Synchronized Hanakappa</title>
+</episode>
+<episode id="178605" update="2019-03-07">
+<epno type="1">296</epno>
+<length>5</length>
+<airdate>2012-08-01</airdate>
+<title xml:lang="ja">蝶兵衛, 若返り大作戦</title>
+<title xml:lang="en">Episode 296</title>
+<title xml:lang="x-jat">Choubee, Wakagaeri Daisakusen</title>
+</episode>
+<episode id="178606" update="2019-03-07">
+<epno type="1">295</epno>
+<length>5</length>
+<airdate>2012-08-01</airdate>
+<title xml:lang="ja">はなかっぱ, 赤ちゃん?</title>
+<title xml:lang="en">Episode 295</title>
+<title xml:lang="x-jat">Hanakappa, Akachan?</title>
+</episode>
+<episode id="178607" update="2019-03-07">
+<epno type="1">294</epno>
+<length>5</length>
+<airdate>2012-07-31</airdate>
+<title xml:lang="ja">ぼくが一番?</title>
+<title xml:lang="en">Episode 294</title>
+<title xml:lang="x-jat">Boku ga Ichiban?</title>
+</episode>
+<episode id="179321" update="2019-03-07">
+<epno type="1">299</epno>
+<length>5</length>
+<airdate>2012-08-03</airdate>
+<title xml:lang="ja">バラのために</title>
+<title xml:lang="en">Episode 299</title>
+<title xml:lang="x-jat">Bara no Tame ni</title>
+</episode>
+<episode id="179322" update="2019-03-07">
+<epno type="1">298</epno>
+<length>5</length>
+<airdate>2012-08-02</airdate>
+<title xml:lang="ja">弁護士ガリゾー</title>
+<title xml:lang="en">Episode 298</title>
+<title xml:lang="x-jat">Bengoshi Garizou</title>
+</episode>
+<episode id="179323" update="2019-03-07">
+<epno type="1">297</epno>
+<length>5</length>
+<airdate>2012-08-02</airdate>
+<title xml:lang="ja">てれてれぼうず, てれますね</title>
+<title xml:lang="en">Episode 297</title>
+<title xml:lang="x-jat">Teretere Bouzu, Teremasu ne</title>
+</episode>
+<episode id="179956" update="2019-03-07">
+<epno type="1">302</epno>
+<length>5</length>
+<airdate>2012-09-03</airdate>
+<title xml:lang="ja">はなかっぱ, 映画デビュー?!</title>
+<title xml:lang="en">Episode 302</title>
+<title xml:lang="x-jat">Hanakappa, Eiga Debut?!</title>
+</episode>
+<episode id="179957" update="2019-03-07">
+<epno type="1">301</epno>
+<length>5</length>
+<airdate>2012-09-03</airdate>
+<title xml:lang="ja">ハウスキーパーがりぞー</title>
+<title xml:lang="en">Episode 301</title>
+<title xml:lang="x-jat">Housekeeper Garizou</title>
+</episode>
+<episode id="179958" update="2019-03-07">
+<epno type="1">300</epno>
+<length>5</length>
+<airdate>2012-08-03</airdate>
+<title xml:lang="ja">エイリアンなんかこわくない</title>
+<title xml:lang="en">Episode 300</title>
+<title xml:lang="x-jat">Alien Nanka Kowakunai</title>
+</episode>
+<episode id="180725" update="2019-03-07">
+<epno type="1">305</epno>
+<length>5</length>
+<airdate>2012-09-05</airdate>
+<title xml:lang="ja">ラ・プリエール・デュン・ヴィエルジュ</title>
+<title xml:lang="en">Episode 305</title>
+<title xml:lang="x-jat">La Priere d`une Vierge</title>
+</episode>
+<episode id="180726" update="2019-03-07">
+<epno type="1">304</epno>
+<length>5</length>
+<airdate>2012-09-04</airdate>
+<title xml:lang="ja">ピーヨンの初恋?</title>
+<title xml:lang="en">Episode 304</title>
+<title xml:lang="x-jat">Piiyon no Hatsukoi?</title>
+</episode>
+<episode id="180727" update="2019-03-07">
+<epno type="1">303</epno>
+<length>5</length>
+<airdate>2012-09-04</airdate>
+<title xml:lang="ja">ももかっぱちゃんのイチゴ</title>
+<title xml:lang="en">Episode 303</title>
+<title xml:lang="x-jat">Momokappa-chan no Ichigo</title>
+</episode>
+<episode id="181638" update="2019-03-07">
+<epno type="1">308</epno>
+<length>5</length>
+<airdate>2012-09-06</airdate>
+<title xml:lang="ja">笑って, 笑って, 大笑い!</title>
+<title xml:lang="en">Episode 308</title>
+<title xml:lang="x-jat">Waratte, Waratte, Oowarai!</title>
+</episode>
+<episode id="181639" update="2019-03-07">
+<epno type="1">307</epno>
+<length>5</length>
+<airdate>2012-09-06</airdate>
+<title xml:lang="ja">おじいちゃんの冒険術</title>
+<title xml:lang="en">Episode 307</title>
+<title xml:lang="x-jat">Ojii-chan no Boukenjutsu</title>
+</episode>
+<episode id="181640" update="2019-03-07">
+<epno type="1">306</epno>
+<length>5</length>
+<airdate>2012-09-05</airdate>
+<title xml:lang="ja">アゲルちゃんのバカンス</title>
+<title xml:lang="en">Episode 306</title>
+<title xml:lang="x-jat">Ageru-chan no Vacance</title>
+</episode>
+<episode id="182749" update="2019-03-07">
+<epno type="1">310</epno>
+<length>5</length>
+<airdate>2012-09-07</airdate>
+<title xml:lang="ja">はなかっぱとふわ吉</title>
+<title xml:lang="en">Episode 310</title>
+<title xml:lang="x-jat">Hanakappa to Fuwakichi</title>
+</episode>
+<episode id="182750" update="2019-03-07">
+<epno type="1">309</epno>
+<length>5</length>
+<airdate>2012-09-07</airdate>
+<title xml:lang="ja">花そろえで花咲けパッカ~ン!</title>
+<title xml:lang="en">Episode 309</title>
+<title xml:lang="x-jat">Hana Soroe de Hanasake Pakkan!</title>
+</episode>
+<episode id="183590" update="2019-03-07">
+<epno type="1">313</epno>
+<length>5</length>
+<airdate>2012-10-02</airdate>
+<title xml:lang="ja">キセキの化石</title>
+<title xml:lang="en">Episode 313</title>
+<title xml:lang="x-jat">Kiseki no Kaseki</title>
+</episode>
+<episode id="183591" update="2019-03-07">
+<epno type="1">312</epno>
+<length>5</length>
+<airdate>2012-10-01</airdate>
+<title xml:lang="ja">その声, だぁ~れ?</title>
+<title xml:lang="en">Episode 312</title>
+<title xml:lang="x-jat">Sono Koe, Dare?</title>
+</episode>
+<episode id="183592" update="2019-03-07">
+<epno type="1">311</epno>
+<length>5</length>
+<airdate>2012-10-01</airdate>
+<title xml:lang="ja">先生, 来ないで!</title>
+<title xml:lang="en">Episode 311</title>
+<title xml:lang="x-jat">Sensei, Konaide!</title>
+</episode>
+<episode id="186666" update="2019-03-07">
+<epno type="1">318</epno>
+<length>5</length>
+<airdate>2012-10-04</airdate>
+<title xml:lang="ja">オヤツ, 食べた~い!</title>
+<title xml:lang="en">Episode 318</title>
+<title xml:lang="x-jat">Oyatsu, Tabetai!</title>
+</episode>
+<episode id="186667" update="2019-03-07">
+<epno type="1">317</epno>
+<length>5</length>
+<airdate>2012-10-04</airdate>
+<title xml:lang="ja">はなかっぱの初泳ぎ</title>
+<title xml:lang="en">Episode 317</title>
+<title xml:lang="x-jat">Hanakappa no Hatsu Oyogi</title>
+</episode>
+<episode id="186668" update="2019-03-07">
+<epno type="1">316</epno>
+<length>5</length>
+<airdate>2012-10-03</airdate>
+<title xml:lang="ja">名刺で, よろしく</title>
+<title xml:lang="en">Episode 316</title>
+<title xml:lang="x-jat">Meishi de, Yoroshiku</title>
+</episode>
+<episode id="186669" update="2019-03-07">
+<epno type="1">315</epno>
+<length>5</length>
+<airdate>2012-10-03</airdate>
+<title xml:lang="ja">はなかっぱ, 花が決まった!?</title>
+<title xml:lang="en">Episode 315</title>
+<title xml:lang="x-jat">Hanakappa, Hana ga Kimatta!?</title>
+</episode>
+<episode id="186670" update="2019-03-07">
+<epno type="1">314</epno>
+<length>5</length>
+<airdate>2012-10-02</airdate>
+<title xml:lang="ja">スキー特急</title>
+<title xml:lang="en">Episode 314</title>
+<title xml:lang="x-jat">Ski Tokkyuu</title>
+</episode>
+<episode id="187479" update="2019-03-07">
+<epno type="1">323</epno>
+<length>5</length>
+<airdate>2012-11-06</airdate>
+<title xml:lang="ja">1万年のおひるね</title>
+<title xml:lang="en">Episode 323</title>
+<title xml:lang="x-jat">1 Man Nen no Ohirune</title>
+</episode>
+<episode id="187480" update="2019-03-07">
+<epno type="1">322</epno>
+<length>5</length>
+<airdate>2012-11-05</airdate>
+<title xml:lang="ja">バーチャル積木マシーン</title>
+<title xml:lang="en">Episode 322</title>
+<title xml:lang="x-jat">Virtual Tsumiki Machine</title>
+</episode>
+<episode id="187481" update="2019-03-07">
+<epno type="1">321</epno>
+<length>5</length>
+<airdate>2012-11-05</airdate>
+<title xml:lang="ja">つな引きでエッホッホ</title>
+<title xml:lang="en">Episode 321</title>
+<title xml:lang="x-jat">Tsuna Hiki de Ehhohho</title>
+</episode>
+<episode id="187482" update="2019-03-07">
+<epno type="1">320</epno>
+<length>5</length>
+<airdate>2012-10-05</airdate>
+<title xml:lang="ja">バラの兄貴</title>
+<title xml:lang="en">Episode 320</title>
+<title xml:lang="x-jat">Bara no Aniki</title>
+</episode>
+<episode id="187483" update="2019-03-07">
+<epno type="1">319</epno>
+<length>5</length>
+<airdate>2012-10-05</airdate>
+<title xml:lang="ja">てれてれとあめあめ</title>
+<title xml:lang="en">Episode 319</title>
+<title xml:lang="x-jat">Teretere to Ameame</title>
+</episode>
+<episode id="188063" update="2019-03-07">
+<epno type="1">328</epno>
+<length>5</length>
+<airdate>2012-11-08</airdate>
+<title xml:lang="ja">影絵のはなかっぱ</title>
+<title xml:lang="en">Episode 328</title>
+<title xml:lang="x-jat">Kagee no Hanakappa</title>
+</episode>
+<episode id="188064" update="2019-03-07">
+<epno type="1">327</epno>
+<length>5</length>
+<airdate>2012-11-08</airdate>
+<title xml:lang="ja">ピーヨンと魔法の傘</title>
+<title xml:lang="en">Episode 327</title>
+<title xml:lang="x-jat">Piiyon to Mahou no Kasa</title>
+</episode>
+<episode id="188065" update="2019-03-07">
+<epno type="1">326</epno>
+<length>5</length>
+<airdate>2012-11-07</airdate>
+<title xml:lang="ja">すてきなペンフレンド</title>
+<title xml:lang="en">Episode 326</title>
+<title xml:lang="x-jat">Suteki na Pen Friend</title>
+</episode>
+<episode id="188066" update="2019-03-07">
+<epno type="1">325</epno>
+<length>5</length>
+<airdate>2012-11-07</airdate>
+<title xml:lang="ja">みろりんの展覧会</title>
+<title xml:lang="en">Episode 325</title>
+<title xml:lang="x-jat">Mirorin no Tenrankai</title>
+</episode>
+<episode id="188067" update="2019-03-07">
+<epno type="1">324</epno>
+<length>5</length>
+<airdate>2012-11-06</airdate>
+<title xml:lang="ja">咲いた! 夢の花</title>
+<title xml:lang="en">Episode 324</title>
+<title xml:lang="x-jat">Saita! Yume no Hana</title>
+</episode>
+<episode id="188916" update="2019-03-07">
+<epno type="1">333</epno>
+<length>5</length>
+<airdate>2012-12-04</airdate>
+<title xml:lang="ja">お父さんの図鑑</title>
+<title xml:lang="en">Episode 333</title>
+<title xml:lang="x-jat">Otousan no Zukan</title>
+</episode>
+<episode id="188917" update="2019-03-07">
+<epno type="1">332</epno>
+<length>5</length>
+<airdate>2012-12-03</airdate>
+<title xml:lang="ja">マッチ売りのガリゾー</title>
+<title xml:lang="en">Episode 332</title>
+<title xml:lang="x-jat">Match Uri no Garizou</title>
+</episode>
+<episode id="188918" update="2019-03-07">
+<epno type="1">331</epno>
+<length>5</length>
+<airdate>2012-12-03</airdate>
+<title xml:lang="ja">サンタが落ちてきた!</title>
+<title xml:lang="en">Episode 331</title>
+<title xml:lang="x-jat">Santa ga Ochite Kita!</title>
+</episode>
+<episode id="188919" update="2019-03-07">
+<epno type="1">330</epno>
+<length>5</length>
+<airdate>2012-11-09</airdate>
+<title xml:lang="ja">あら蘭こら蘭</title>
+<title xml:lang="en">Episode 330</title>
+<title xml:lang="x-jat">Ara Ran Kora Ran</title>
+</episode>
+<episode id="188920" update="2019-03-07">
+<epno type="1">329</epno>
+<length>5</length>
+<airdate>2012-11-09</airdate>
+<title xml:lang="ja">ふわ吉といっしょに</title>
+<title xml:lang="en">Episode 329</title>
+<title xml:lang="x-jat">Fuwakichi to Issho ni</title>
+</episode>
+<episode id="189598" update="2019-03-07">
+<epno type="1">338</epno>
+<length>5</length>
+<airdate>2012-12-06</airdate>
+<title xml:lang="ja">ふわ吉とマスターカッパー</title>
+<title xml:lang="en">Episode 338</title>
+<title xml:lang="x-jat">Fuwakichi to Master Kappa</title>
+</episode>
+<episode id="189599" update="2019-03-07">
+<epno type="1">337</epno>
+<length>5</length>
+<airdate>2012-12-06</airdate>
+<title xml:lang="ja">おふろのヒミツ</title>
+<title xml:lang="en">Episode 337</title>
+<title xml:lang="x-jat">Ofuro no Himitsu</title>
+</episode>
+<episode id="189600" update="2019-03-07">
+<epno type="1">336</epno>
+<length>5</length>
+<airdate>2012-12-05</airdate>
+<title xml:lang="ja">ふきだし草でおしゃべり</title>
+<title xml:lang="en">Episode 336</title>
+<title xml:lang="x-jat">Fukidashi Kusa de Oshaberi</title>
+</episode>
+<episode id="189601" update="2019-03-07">
+<epno type="1">335</epno>
+<length>5</length>
+<airdate>2012-12-05</airdate>
+<title xml:lang="ja">お地蔵様ありがとう</title>
+<title xml:lang="en">Episode 335</title>
+<title xml:lang="x-jat">Ojizou-sama Arigatou</title>
+</episode>
+<episode id="189602" update="2019-03-07">
+<epno type="1">334</epno>
+<length>5</length>
+<airdate>2012-12-04</airdate>
+<title xml:lang="ja">はなかっぱ王様になる</title>
+<title xml:lang="en">Episode 334</title>
+<title xml:lang="x-jat">Hanakappa Ooyou ni Naru</title>
+</episode>
+<episode id="190539" update="2019-03-07">
+<epno type="1">343</epno>
+<length>5</length>
+<airdate>2013-04-03</airdate>
+<title xml:lang="ja">氷を運ぼう</title>
+<title xml:lang="en">Episode 343</title>
+<title xml:lang="x-jat">Koori o Hakobou</title>
+</episode>
+<episode id="190540" update="2019-03-07">
+<epno type="1">342</epno>
+<length>5</length>
+<airdate>2013-04-02</airdate>
+<title xml:lang="ja">ピンチヒッター蝶兵衛</title>
+<title xml:lang="en">Episode 342</title>
+<title xml:lang="x-jat">Pinch Hitter Choubee</title>
+</episode>
+<episode id="190541" update="2019-03-07">
+<epno type="1">341</epno>
+<length>5</length>
+<airdate>2013-04-01</airdate>
+<title xml:lang="ja">大怪獣バラドン</title>
+<title xml:lang="en">Episode 341</title>
+<title xml:lang="x-jat">Daikaijuu Baradon</title>
+</episode>
+<episode id="190542" update="2019-03-07">
+<epno type="1">340</epno>
+<length>5</length>
+<airdate>2012-12-07</airdate>
+<title xml:lang="ja">水族館を作ろう!</title>
+<title xml:lang="en">Episode 340</title>
+<title xml:lang="x-jat">Suizokukan o Tsukurou!</title>
+</episode>
+<episode id="190543" update="2019-03-07">
+<epno type="1">339</epno>
+<length>5</length>
+<airdate>2012-12-07</airdate>
+<title xml:lang="ja">四角いはなかっぱ</title>
+<title xml:lang="en">Episode 339</title>
+<title xml:lang="x-jat">Shikakui Hanakappa</title>
+</episode>
+<episode id="191375" update="2019-03-07">
+<epno type="1">348</epno>
+<length>5</length>
+<airdate>2013-05-01</airdate>
+<title xml:lang="ja">みんなでぱっか~ん!</title>
+<title xml:lang="en">Episode 348</title>
+<title xml:lang="x-jat">Minna de Pakkan!</title>
+</episode>
+<episode id="191376" update="2019-03-07">
+<epno type="1">347</epno>
+<length>5</length>
+<airdate>2013-04-30</airdate>
+<title xml:lang="ja">ボク, どんな顔だっけ?</title>
+<title xml:lang="en">Episode 347</title>
+<title xml:lang="x-jat">Boku, Donna Kao Dakke?</title>
+</episode>
+<episode id="191377" update="2019-03-07">
+<epno type="1">346</epno>
+<length>5</length>
+<airdate>2013-04-29</airdate>
+<title xml:lang="ja">はなかっぱ寿司本日オープン!</title>
+<title xml:lang="en">Episode 346</title>
+<title xml:lang="x-jat">Hanakappa Sushi Honjitsu Open!</title>
+</episode>
+<episode id="191378" update="2019-03-07">
+<epno type="1">345</epno>
+<length>5</length>
+<airdate>2013-04-05</airdate>
+<title xml:lang="ja">がりぞーの花咲けぱっか~ん</title>
+<title xml:lang="en">Episode 345</title>
+<title xml:lang="x-jat">Garizou no Hanasake Pakkan</title>
+</episode>
+<episode id="191379" update="2019-03-07">
+<epno type="1">344</epno>
+<length>5</length>
+<airdate>2013-04-04</airdate>
+<title xml:lang="ja">ちっちゃくなっちゃった</title>
+<title xml:lang="en">Episode 344</title>
+<title xml:lang="x-jat">Chicchaku Nacchatta</title>
+</episode>
+<episode id="192353" update="2019-03-07">
+<epno type="1">353</epno>
+<length>5</length>
+<airdate>2013-06-05</airdate>
+<title xml:lang="ja">爆走! はなかっぱ</title>
+<title xml:lang="en">Episode 353</title>
+<title xml:lang="x-jat">Bakusou! Hanakappa</title>
+</episode>
+<episode id="192354" update="2019-03-07">
+<epno type="1">352</epno>
+<length>5</length>
+<airdate>2013-06-04</airdate>
+<title xml:lang="ja">うすっぺーら草でペ~ラペラ</title>
+<title xml:lang="en">Episode 352</title>
+<title xml:lang="x-jat">Usuppeera Kusa de Perapera</title>
+</episode>
+<episode id="192355" update="2019-03-07">
+<epno type="1">351</epno>
+<length>5</length>
+<airdate>2013-06-03</airdate>
+<title xml:lang="ja">なんか変だよ, はなかっぱ</title>
+<title xml:lang="en">Episode 351</title>
+<title xml:lang="x-jat">Nanka Hen Da yo, Hanakappa</title>
+</episode>
+<episode id="192356" update="2019-03-07">
+<epno type="1">350</epno>
+<length>5</length>
+<airdate>2013-05-03</airdate>
+<title xml:lang="ja">はなかっぱ, 大キライ!</title>
+<title xml:lang="en">Episode 350</title>
+<title xml:lang="x-jat">Hanakappa, Daikirai!</title>
+</episode>
+<episode id="192357" update="2019-03-07">
+<epno type="1">349</epno>
+<length>5</length>
+<airdate>2013-05-02</airdate>
+<title xml:lang="ja">感動しすぎ!</title>
+<title xml:lang="en">Episode 349</title>
+<title xml:lang="x-jat">Kandou Shisugi!</title>
+</episode>
+<episode id="193611" update="2019-03-07">
+<epno type="1">357</epno>
+<length>5</length>
+<airdate>2013-07-02</airdate>
+<title xml:lang="ja">お母さんとプリント</title>
+<title xml:lang="en">Episode 357</title>
+<title xml:lang="x-jat">Okaasan to Print</title>
+</episode>
+<episode id="193612" update="2019-03-07">
+<epno type="1">356</epno>
+<length>5</length>
+<airdate>2013-07-01</airdate>
+<title xml:lang="ja">アゲルちゃん, がんばる!</title>
+<title xml:lang="en">Episode 356</title>
+<title xml:lang="x-jat">Ageru-chan, Ganbarou!</title>
+</episode>
+<episode id="193613" update="2019-03-07">
+<epno type="1">355</epno>
+<length>5</length>
+<airdate>2013-06-07</airdate>
+<title xml:lang="ja">髪型をかえよう!</title>
+<title xml:lang="en">Episode 355</title>
+<title xml:lang="x-jat">Kammigata o Kaeyou!</title>
+</episode>
+<episode id="193614" update="2019-03-07">
+<epno type="1">354</epno>
+<length>5</length>
+<airdate>2013-06-06</airdate>
+<title xml:lang="ja">てれてれぼうずがもえますねー!?</title>
+<title xml:lang="en">Episode 354</title>
+<title xml:lang="x-jat">Teretere Bouzu ga Moemasu ne!?</title>
+</episode>
+<episode id="194987" update="2019-03-07">
+<epno type="1">362</epno>
+<length>5</length>
+<airdate>2013-08-06</airdate>
+<title xml:lang="ja">おままごとでおひめさま</title>
+<title xml:lang="en">Episode 362</title>
+<title xml:lang="x-jat">Omamagoto de Ohime-sama</title>
+</episode>
+<episode id="194988" update="2019-03-07">
+<epno type="1">361</epno>
+<length>5</length>
+<airdate>2013-08-05</airdate>
+<title xml:lang="ja">新番組”がりぞー”</title>
+<title xml:lang="en">Episode 361</title>
+<title xml:lang="x-jat">Shin Bangumi "Garizou"</title>
+</episode>
+<episode id="194989" update="2019-03-07">
+<epno type="1">360</epno>
+<length>5</length>
+<airdate>2013-07-05</airdate>
+<title xml:lang="ja">あこがれのあいあいがさ</title>
+<title xml:lang="en">Episode 360</title>
+<title xml:lang="x-jat">Akogare no Aiaigaza</title>
+</episode>
+<episode id="194990" update="2019-03-07">
+<epno type="1">359</epno>
+<length>5</length>
+<airdate>2013-07-04</airdate>
+<title xml:lang="ja">しゃっくりでパッカ~ん!</title>
+<title xml:lang="en">Episode 359</title>
+<title xml:lang="x-jat">Shakkuri de Pakkan!</title>
+</episode>
+<episode id="194991" update="2019-03-07">
+<epno type="1">358</epno>
+<length>5</length>
+<airdate>2013-07-03</airdate>
+<title xml:lang="ja">イヤな音? イイ音?</title>
+<title xml:lang="en">Episode 358</title>
+<title xml:lang="x-jat">Iya na Oto? Ii Oto?</title>
+</episode>
+<episode id="197671" update="2019-03-07">
+<epno type="1">365</epno>
+<length>5</length>
+<airdate>2013-08-09</airdate>
+<title xml:lang="ja">つまみぐい大パニック!</title>
+<title xml:lang="en">Episode 365</title>
+<title xml:lang="x-jat">Tsumamigui Dai Panic!</title>
+</episode>
+<episode id="197672" update="2019-03-07">
+<epno type="1">364</epno>
+<length>5</length>
+<airdate>2013-08-08</airdate>
+<title xml:lang="ja">バランスとって~!</title>
+<title xml:lang="en">Episode 364</title>
+<title xml:lang="x-jat">Balance Totte!</title>
+</episode>
+<episode id="197673" update="2019-03-07">
+<epno type="1">363</epno>
+<length>5</length>
+<airdate>2013-08-07</airdate>
+<title xml:lang="ja">ももかっぱちゃんとアゲルちゃん</title>
+<title xml:lang="en">Episode 363</title>
+<title xml:lang="x-jat">Momokappa-chan to Ageru-chan</title>
+</episode>
+<episode id="198618" update="2019-03-07">
+<epno type="1">368</epno>
+<length>5</length>
+<airdate>2013-09-04</airdate>
+<title xml:lang="ja">蝶兵衛, ついに食べた!</title>
+<title xml:lang="en">Episode 368</title>
+<title xml:lang="x-jat">Choubee, Tsui ni Tabeta!</title>
+</episode>
+<episode id="198619" update="2019-03-07">
+<epno type="1">367</epno>
+<length>5</length>
+<airdate>2013-09-03</airdate>
+<title xml:lang="ja">やまびこ村飛行グランプリ</title>
+<title xml:lang="en">Episode 367</title>
+<title xml:lang="x-jat">Yamabiko Mura Hikou Grand Prix</title>
+</episode>
+<episode id="198620" update="2019-03-07">
+<epno type="1">366</epno>
+<length>5</length>
+<airdate>2013-09-02</airdate>
+<title xml:lang="ja">はなかっぱの作文</title>
+<title xml:lang="en">Episode 366</title>
+<title xml:lang="x-jat">Hanakappa no Sakubun</title>
+</episode>
+<episode id="200488" update="2019-03-07">
+<epno type="1">371</epno>
+<length>5</length>
+<airdate>2014-03-31</airdate>
+<title xml:lang="ja">ボクちん, ちぃかっぱ!</title>
+<title xml:lang="en">Episode 371</title>
+<title xml:lang="x-jat">Bokuchin, Chikappa!</title>
+</episode>
+<episode id="200489" update="2019-03-07">
+<epno type="1">370</epno>
+<length>5</length>
+<airdate>2013-09-06</airdate>
+<title xml:lang="ja">アンテナ草, 咲いた!</title>
+<title xml:lang="en">Episode 370</title>
+<title xml:lang="x-jat">Antenna Kusa, Saita!</title>
+</episode>
+<episode id="200490" update="2019-03-07">
+<epno type="1">369</epno>
+<length>5</length>
+<airdate>2013-09-05</airdate>
+<title xml:lang="ja">蝶兵衛屋敷のひみつ</title>
+<title xml:lang="en">Episode 369</title>
+<title xml:lang="x-jat">Choubee Yashiki no Himitsu</title>
+</episode>
+<episode id="202498" update="2019-03-07">
+<epno type="1">374</epno>
+<length>5</length>
+<airdate>2014-05-05</airdate>
+<title xml:lang="ja">ゴメンね, お母さん</title>
+<title xml:lang="en">Episode 374</title>
+<title xml:lang="x-jat">Gomen ne, Okaasan</title>
+</episode>
+<episode id="202499" update="2019-03-07">
+<epno type="1">373</epno>
+<length>5</length>
+<airdate>2014-04-02</airdate>
+<title xml:lang="ja">サイフはどこだ!?</title>
+<title xml:lang="en">Episode 373</title>
+<title xml:lang="x-jat">Saifu wa Doko Da!?</title>
+</episode>
+<episode id="202500" update="2019-03-07">
+<epno type="1">372</epno>
+<length>5</length>
+<airdate>2014-04-01</airdate>
+<title xml:lang="ja">マンゴー咲き乱れ</title>
+<title xml:lang="en">Episode 372</title>
+<title xml:lang="x-jat">Mango Sakimidare</title>
+</episode>
+<episode id="203622" update="2019-03-07">
+<epno type="1">377</epno>
+<length>5</length>
+<airdate>2014-06-02</airdate>
+<title xml:lang="ja">いとしのガリ子さん</title>
+<title xml:lang="en">Episode 377</title>
+<title xml:lang="x-jat">Itoshi no Gariko-san</title>
+</episode>
+<episode id="203623" update="2019-03-07">
+<epno type="1">376</epno>
+<length>5</length>
+<airdate>2014-05-07</airdate>
+<title xml:lang="ja">モウソウちぃかっぱ</title>
+<title xml:lang="en">Episode 376</title>
+<title xml:lang="x-jat">Mousou Chikappa</title>
+</episode>
+<episode id="203624" update="2019-03-07">
+<epno type="1">375</epno>
+<length>5</length>
+<airdate>2014-05-06</airdate>
+<title xml:lang="ja">みんなで一筆書き</title>
+<title xml:lang="en">Episode 375</title>
+<title xml:lang="x-jat">Minna de Hitofudegaki</title>
+</episode>
+<episode id="205957" update="2019-03-07">
+<epno type="1">378</epno>
+<length>5</length>
+<airdate>2014-06-03</airdate>
+<title xml:lang="ja">ほめて咲かせろ, わか蘭を</title>
+<title xml:lang="en">Episode 378</title>
+<title xml:lang="x-jat">Homete Sakasero, Waka Ran o</title>
+</episode>
+<episode id="205958" update="2019-03-07">
+<epno type="1">379</epno>
+<length>5</length>
+<airdate>2014-06-04</airdate>
+<title xml:lang="ja">絵本をつくろう</title>
+<title xml:lang="en">Episode 379</title>
+<title xml:lang="x-jat">Ehon o Tsukurou</title>
+</episode>
+<episode id="205959" update="2019-03-07">
+<epno type="1">380</epno>
+<length>5</length>
+<airdate>2014-06-30</airdate>
+<title xml:lang="ja">ちぃかっぱの恋</title>
+<title xml:lang="en">Episode 380</title>
+<title xml:lang="x-jat">Chikappa no Koi</title>
+</episode>
+<episode id="208800" update="2019-03-07">
+<epno type="1">381</epno>
+<length>5</length>
+<airdate>2014-07-01</airdate>
+<title xml:lang="ja">ちぃかっぱとアゲル姫</title>
+<title xml:lang="en">Episode 381</title>
+<title xml:lang="x-jat">Chikappa to Ageru-hime</title>
+</episode>
+<episode id="208801" update="2019-03-07">
+<epno type="1">382</epno>
+<length>5</length>
+<airdate>2014-07-02</airdate>
+<title xml:lang="ja">優等生はツライよ</title>
+<title xml:lang="en">Episode 382</title>
+<title xml:lang="x-jat">Yuutousei wa Tsurai yo</title>
+</episode>
+<episode id="208802" update="2019-03-07">
+<epno type="1">383</epno>
+<length>5</length>
+<airdate>2014-08-04</airdate>
+<title xml:lang="ja">磨くぞ, どろだんご</title>
+<title xml:lang="en">Episode 383</title>
+<title xml:lang="x-jat">Migakuzo, Doro Dango</title>
+</episode>
+<episode id="209802" update="2019-03-07">
+<epno type="1">384</epno>
+<length>5</length>
+<airdate>2014-08-05</airdate>
+<title xml:lang="ja">大好物の豆ご飯</title>
+<title xml:lang="en">Episode 384</title>
+<title xml:lang="x-jat">Daikoubutsu no Mame Gohan</title>
+</episode>
+<episode id="209803" update="2019-03-07">
+<epno type="1">385</epno>
+<length>5</length>
+<airdate>2014-08-06</airdate>
+<title xml:lang="ja">ジグソーパズルでバ~ラバラ</title>
+<title xml:lang="en">Episode 385</title>
+<title xml:lang="x-jat">Jigsaw Puzzle de Barabara</title>
+</episode>
+<episode id="209804" update="2019-03-07">
+<epno type="1">386</epno>
+<length>5</length>
+<airdate>2014-09-01</airdate>
+<title xml:lang="ja">色がいろいろ</title>
+<title xml:lang="en">Episode 386</title>
+<title xml:lang="x-jat">Iro ga Iroiro</title>
+</episode>
+<episode id="210831" update="2019-03-07">
+<epno type="1">387</epno>
+<length>5</length>
+<airdate>2014-09-02</airdate>
+<title xml:lang="ja">帽子の中にわか蘭?</title>
+<title xml:lang="en">Episode 387</title>
+<title xml:lang="x-jat">Boushi no Naka ni Waka Ran?</title>
+</episode>
+<episode id="210832" update="2019-03-07">
+<epno type="1">388</epno>
+<length>5</length>
+<airdate>2014-09-03</airdate>
+<title xml:lang="ja">ちぃかっぱ, ピクニックに行く</title>
+<title xml:lang="en">Episode 388</title>
+<title xml:lang="x-jat">Chikappa, Picnic ni Iku</title>
+</episode>
+<episode id="210833" update="2019-03-07">
+<epno type="1">389</epno>
+<length>5</length>
+<airdate>2014-09-29</airdate>
+<title xml:lang="ja">咲いた咲いた, ホタ・ルン草</title>
+<title xml:lang="en">Episode 389</title>
+<title xml:lang="x-jat">Saita Saita, Hota Run Kusa</title>
+</episode>
+<episode id="211759" update="2019-03-07">
+<epno type="1">390</epno>
+<length>5</length>
+<airdate>2014-09-30</airdate>
+<title xml:lang="ja">バラの女王と黒バラの騎士</title>
+<title xml:lang="en">Episode 390</title>
+<title xml:lang="x-jat">Bara no Joou to Kuro Bara no Kishi</title>
+</episode>
+<episode id="211760" update="2019-03-07">
+<epno type="1">391</epno>
+<length>5</length>
+<airdate>2014-10-01</airdate>
+<title xml:lang="ja">ももかっぱちゃんのあやとり</title>
+<title xml:lang="en">Episode 391</title>
+<title xml:lang="x-jat">Momokappa-chan no Ayatori</title>
+</episode>
+<episode id="211761" update="2019-03-07">
+<epno type="1">392</epno>
+<length>5</length>
+<airdate>2014-11-03</airdate>
+<title xml:lang="ja">咲いた, スローモーション</title>
+<title xml:lang="en">Episode 392</title>
+<title xml:lang="x-jat">Saita, Slow-Motion</title>
+</episode>
+<episode id="213233" update="2019-03-07">
+<epno type="1">393</epno>
+<length>5</length>
+<airdate>2014-11-04</airdate>
+<title xml:lang="ja">はなかっぱは百点</title>
+<title xml:lang="en">Episode 393</title>
+<title xml:lang="x-jat">Hanakappa wa Hyakuten</title>
+</episode>
+<episode id="213234" update="2019-03-07">
+<epno type="1">394</epno>
+<length>5</length>
+<airdate>2014-11-05</airdate>
+<title xml:lang="ja">パラパラはなかっぱ</title>
+<title xml:lang="en">Episode 394</title>
+<title xml:lang="x-jat">Parapara Hanakappa</title>
+</episode>
+<episode id="213235" update="2019-03-07">
+<epno type="1">395</epno>
+<length>5</length>
+<airdate>2014-12-01</airdate>
+<title xml:lang="ja">パーティーにご招待</title>
+<title xml:lang="en">Episode 395</title>
+<title xml:lang="x-jat">Party ni Goshoutai</title>
+</episode>
+<episode id="213236" update="2019-03-07">
+<epno type="1">396</epno>
+<length>5</length>
+<airdate>2014-12-02</airdate>
+<title xml:lang="ja">さようなら, やまびこ村!</title>
+<title xml:lang="en">Episode 396</title>
+<title xml:lang="x-jat">Sayounara, Yamabiko Mura!</title>
+</episode>
+<episode id="213237" update="2019-03-07">
+<epno type="1">397</epno>
+<length>5</length>
+<airdate>2014-12-03</airdate>
+<title xml:lang="ja">広場をうばえ!</title>
+<title xml:lang="en">Episode 397</title>
+<title xml:lang="x-jat">Hiroba o Ubae!</title>
+</episode>
+<episode id="213238" update="2019-03-07">
+<epno type="1">398</epno>
+<length>5</length>
+<airdate>2015-01-05</airdate>
+<title xml:lang="ja">カフェテラスで女子会</title>
+<title xml:lang="en">Episode 398</title>
+<title xml:lang="x-jat">Cafe Terrace de Joshikai</title>
+</episode>
+<episode id="213239" update="2019-03-07">
+<epno type="1">399</epno>
+<length>5</length>
+<airdate>2015-01-06</airdate>
+<title xml:lang="ja">夢のガゾリンゆうえんち</title>
+<title xml:lang="en">Episode 399</title>
+<title xml:lang="x-jat">Yume no Gasolin Yuuenchi</title>
+</episode>
+<episode id="213240" update="2019-03-07">
+<epno type="1">400</epno>
+<length>5</length>
+<airdate>2015-01-07</airdate>
+<title xml:lang="ja">これがぼくの花</title>
+<title xml:lang="en">Episode 400</title>
+<title xml:lang="x-jat">Kore ga Boku no Hana</title>
+</episode>
+<episode id="213241" update="2019-03-07">
+<epno type="1">401</epno>
+<length>5</length>
+<airdate>2015-03-30</airdate>
+<title xml:lang="ja">ぼくちんが一番デース!</title>
+<title xml:lang="en">Episode 401</title>
+<title xml:lang="x-jat">Bokuchin ga Ichiban Days!</title>
+</episode>
+<episode id="213242" update="2019-03-07">
+<epno type="1">402</epno>
+<length>5</length>
+<airdate>2015-03-31</airdate>
+<title xml:lang="ja">誰もいない...</title>
+<title xml:lang="en">Episode 402</title>
+<title xml:lang="x-jat">Daremo Inai...</title>
+</episode>
+<episode id="213243" update="2019-03-07">
+<epno type="1">403</epno>
+<length>5</length>
+<airdate>2015-04-01</airdate>
+<title xml:lang="ja">サゲルちゃん</title>
+<title xml:lang="en">Episode 403</title>
+<title xml:lang="x-jat">Sageru-chan</title>
+</episode>
+<episode id="213244" update="2019-03-07">
+<epno type="1">404</epno>
+<length>5</length>
+<airdate>2015-05-04</airdate>
+<title xml:lang="ja">ロボかっぱ</title>
+<title xml:lang="en">Episode 404</title>
+<title xml:lang="x-jat">Robokappa</title>
+</episode>
+<episode id="213245" update="2019-03-07">
+<epno type="1">405</epno>
+<length>5</length>
+<airdate>2015-05-05</airdate>
+<title xml:lang="ja">やまびこさんがころんだ</title>
+<title xml:lang="en">Episode 405</title>
+<title xml:lang="x-jat">Yamabiko-san ga Koronda</title>
+</episode>
+<episode id="213246" update="2019-03-07">
+<epno type="1">406</epno>
+<length>5</length>
+<airdate>2015-05-06</airdate>
+<title xml:lang="ja">蝶兵衛のおやつ作り</title>
+<title xml:lang="en">Episode 406</title>
+<title xml:lang="x-jat">Choubee no Oyatsu Tsukuri</title>
+</episode>
+<episode id="213247" update="2019-03-07">
+<epno type="1">407</epno>
+<length>5</length>
+<airdate>2015-06-01</airdate>
+<title xml:lang="ja">大きすぎる!</title>
+<title xml:lang="en">Episode 407</title>
+<title xml:lang="x-jat">Ooki Sugiru!</title>
+</episode>
+<episode id="213248" update="2019-03-07">
+<epno type="1">408</epno>
+<length>5</length>
+<airdate>2015-06-02</airdate>
+<title xml:lang="ja">テレマス星</title>
+<title xml:lang="en">Episode 408</title>
+<title xml:lang="x-jat">Teremasu Sei</title>
+</episode>
+<episode id="213249" update="2019-03-07">
+<epno type="1">409</epno>
+<length>5</length>
+<airdate>2015-06-02</airdate>
+<title xml:lang="ja">続・テレマス星</title>
+<title xml:lang="en">Episode 409</title>
+<title xml:lang="x-jat">Zoku Teremasu Sei</title>
+</episode>
+<episode id="213250" update="2019-03-07">
+<epno type="1">410</epno>
+<length>5</length>
+<airdate>2015-07-06</airdate>
+<title xml:lang="ja">はなかっぱはお嬢様</title>
+<title xml:lang="en">Episode 410</title>
+<title xml:lang="x-jat">Hanakappa wa Ojou-sama</title>
+</episode>
+<episode id="213251" update="2019-03-07">
+<epno type="1">411</epno>
+<length>5</length>
+<airdate>2015-07-07</airdate>
+<title xml:lang="ja">キンニク ニンニク</title>
+<title xml:lang="en">Episode 411</title>
+<title xml:lang="x-jat">Kinniku Ninniku</title>
+</episode>
+<episode id="213252" update="2019-03-07">
+<epno type="1">412</epno>
+<length>5</length>
+<airdate>2015-07-08</airdate>
+<title xml:lang="ja">がりぞー引退?!</title>
+<title xml:lang="en">Episode 412</title>
+<title xml:lang="x-jat">Garizou Intai?!</title>
+</episode>
+<episode id="213253" update="2019-03-07">
+<epno type="1">413</epno>
+<length>5</length>
+<airdate>2015-08-03</airdate>
+<title xml:lang="ja">ぼくちんのひみつきち</title>
+<title xml:lang="en">Episode 413</title>
+<title xml:lang="x-jat">Bokuchin ni Himitsu Kichi</title>
+</episode>
+<episode id="213254" update="2019-03-07">
+<epno type="1">414</epno>
+<length>5</length>
+<airdate>2015-08-04</airdate>
+<title xml:lang="ja">いもうと同盟</title>
+<title xml:lang="en">Episode 414</title>
+<title xml:lang="x-jat">Imouto Doumei</title>
+</episode>
+<episode id="213255" update="2019-03-07">
+<epno type="1">415</epno>
+<length>5</length>
+<airdate>2015-08-05</airdate>
+<title xml:lang="ja">ドタバタおもちゃ工場</title>
+<title xml:lang="en">Episode 415</title>
+<title xml:lang="x-jat">Dotabata Omocha Koujou</title>
+</episode>
+<episode id="213256" update="2019-03-07">
+<epno type="1">416</epno>
+<length>5</length>
+<airdate>2015-08-31</airdate>
+<title xml:lang="ja">さがしものは?</title>
+<title xml:lang="en">Episode 416</title>
+<title xml:lang="x-jat">Sagashimono wa?</title>
+</episode>
+<episode id="213257" update="2019-03-07">
+<epno type="1">417</epno>
+<length>5</length>
+<airdate>2015-09-01</airdate>
+<title xml:lang="ja">はんはんはーん</title>
+<title xml:lang="en">Episode 417</title>
+<title xml:lang="x-jat">Han Han Haan</title>
+</episode>
+<episode id="213258" update="2019-03-07">
+<epno type="1">418</epno>
+<length>5</length>
+<airdate>2015-09-02</airdate>
+<title xml:lang="ja">海底楽園の美女</title>
+<title xml:lang="en">Episode 418</title>
+<title xml:lang="x-jat">Kaitei Rakuen no Bijo</title>
+</episode>
+<episode id="213259" update="2019-03-07">
+<epno type="1">419</epno>
+<length>5</length>
+<airdate>2015-10-05</airdate>
+<title xml:lang="ja">はなかっぱ貯金箱</title>
+<title xml:lang="en">Episode 419</title>
+<title xml:lang="x-jat">Hanakappa Chokinbako</title>
+</episode>
+<episode id="213260" update="2019-03-07">
+<epno type="1">420</epno>
+<length>5</length>
+<airdate>2015-10-06</airdate>
+<title xml:lang="ja">がりぞータクシー</title>
+<title xml:lang="en">Episode 420</title>
+<title xml:lang="x-jat">Garizou Taxi</title>
+</episode>
+<episode id="213261" update="2019-03-07">
+<epno type="1">421</epno>
+<length>5</length>
+<airdate>2015-10-07</airdate>
+<title xml:lang="ja">わる者への道</title>
+<title xml:lang="en">Episode 421</title>
+<title xml:lang="x-jat">Warumono e no Michi</title>
+</episode>
+<episode id="213262" update="2019-03-07">
+<epno type="1">422</epno>
+<length>5</length>
+<airdate>2015-11-02</airdate>
+<title xml:lang="ja">しゃっくりが100回</title>
+<title xml:lang="en">Episode 422</title>
+<title xml:lang="x-jat">Shakkuri ga 100 Kai</title>
+</episode>
+<episode id="213263" update="2019-03-07">
+<epno type="1">423</epno>
+<length>5</length>
+<airdate>2015-11-03</airdate>
+<title xml:lang="ja">さようなら, ちぃかっぱ</title>
+<title xml:lang="en">Episode 423</title>
+<title xml:lang="x-jat">Sayounara, Chikappa</title>
+</episode>
+<episode id="213264" update="2019-03-07">
+<epno type="1">424</epno>
+<length>5</length>
+<airdate>2015-11-04</airdate>
+<title xml:lang="ja">お母さんは宇宙人?!</title>
+<title xml:lang="en">Episode 424</title>
+<title xml:lang="x-jat">Okaasan wa Uchuujin?!</title>
+</episode>
+<episode id="213265" update="2019-03-07">
+<epno type="1">425</epno>
+<length>5</length>
+<airdate>2015-11-30</airdate>
+<title xml:lang="ja">おとうとがいっぱい</title>
+<title xml:lang="en">Episode 425</title>
+<title xml:lang="x-jat">Otouto ga Ippai</title>
+</episode>
+<episode id="213266" update="2019-03-07">
+<epno type="1">426</epno>
+<length>5</length>
+<airdate>2015-12-01</airdate>
+<title xml:lang="ja">はなかっぱの水中生活</title>
+<title xml:lang="en">Episode 426</title>
+<title xml:lang="x-jat">Hanakappa no Suichuu Seikatsu</title>
+</episode>
+<episode id="213267" update="2019-03-07">
+<epno type="1">427</epno>
+<length>5</length>
+<airdate>2015-12-02</airdate>
+<title xml:lang="ja">ミツバチ</title>
+<title xml:lang="en">Episode 427</title>
+<title xml:lang="x-jat">Mitsubachi</title>
+</episode>
+<episode id="213268" update="2019-03-07">
+<epno type="1">428</epno>
+<length>5</length>
+<airdate>2016-01-04</airdate>
+<title xml:lang="ja">早起きはいいね!</title>
+<title xml:lang="en">Episode 428</title>
+<title xml:lang="x-jat">Hayaoki wa Ii ne!</title>
+</episode>
+<episode id="213269" update="2019-03-07">
+<epno type="1">429</epno>
+<length>5</length>
+<airdate>2016-01-05</airdate>
+<title xml:lang="ja">ちぃかっぱのおつかい</title>
+<title xml:lang="en">Episode 429</title>
+<title xml:lang="x-jat">Chikappa no Otsukai</title>
+</episode>
+<episode id="213270" update="2019-03-07">
+<epno type="1">430</epno>
+<length>5</length>
+<airdate>2016-01-06</airdate>
+<title xml:lang="ja">開花予想</title>
+<title xml:lang="en">Episode 430</title>
+<title xml:lang="x-jat">Kaika Yosou</title>
+</episode>
+<episode id="213271" update="2019-03-07">
+<epno type="1">431</epno>
+<length>5</length>
+<airdate>2016-04-04</airdate>
+<title xml:lang="ja">流れ星がりぞー</title>
+<title xml:lang="en">Episode 431</title>
+<title xml:lang="x-jat">Nagareboshi Garizou</title>
+</episode>
+<episode id="213272" update="2019-03-07">
+<epno type="1">432</epno>
+<length>5</length>
+<airdate>2016-04-05</airdate>
+<title xml:lang="ja">激闘!? ドッジボール</title>
+<title xml:lang="en">Episode 432</title>
+<title xml:lang="x-jat">Gekitou!? Dodge Ball</title>
+</episode>
+<episode id="213273" update="2019-03-07">
+<epno type="1">433</epno>
+<length>5</length>
+<airdate>2016-04-06</airdate>
+<title xml:lang="ja">せいくらべ</title>
+<title xml:lang="en">Episode 433</title>
+<title xml:lang="x-jat">Seikurabe</title>
+</episode>
+<episode id="213274" update="2019-03-07">
+<epno type="1">434</epno>
+<length>5</length>
+<airdate>2016-05-02</airdate>
+<title xml:lang="ja">ももかっぱちゃんの夢</title>
+<title xml:lang="en">Episode 434</title>
+<title xml:lang="x-jat">Momokappa-chan no Yume</title>
+</episode>
+<episode id="213275" update="2019-03-07">
+<epno type="1">435</epno>
+<length>5</length>
+<airdate>2016-05-03</airdate>
+<title xml:lang="ja">海賊船はなかっぱ号</title>
+<title xml:lang="en">Episode 435</title>
+<title xml:lang="x-jat">Kaizokukan Hanakappa Gou</title>
+</episode>
+<episode id="213276" update="2019-03-07">
+<epno type="1">436</epno>
+<length>5</length>
+<airdate>2016-05-04</airdate>
+<title xml:lang="ja">みにくいアゲルの子</title>
+<title xml:lang="en">Episode 436</title>
+<title xml:lang="x-jat">Minikui Ageru no Ko</title>
+</episode>
+<episode id="213277" update="2019-03-07">
+<epno type="1">437</epno>
+<length>5</length>
+<airdate>2016-06-06</airdate>
+<title xml:lang="ja">アゲルちゃんの豆料理</title>
+<title xml:lang="en">Episode 437</title>
+<title xml:lang="x-jat">Ageru-chan no Mame Ryouri</title>
+</episode>
+<episode id="213278" update="2019-03-07">
+<epno type="1">438</epno>
+<length>5</length>
+<airdate>2016-06-07</airdate>
+<title xml:lang="ja">ガリホ</title>
+<title xml:lang="en">Episode 438</title>
+<title xml:lang="x-jat">Gariho</title>
+</episode>
+<episode id="213279" update="2019-03-07">
+<epno type="1">439</epno>
+<length>5</length>
+<airdate>2016-06-08</airdate>
+<title xml:lang="ja">はなかっぱ, 透明人間になる</title>
+<title xml:lang="en">Episode 439</title>
+<title xml:lang="x-jat">Hanakappa, Toumeiningen ni Naru</title>
+</episode>
+<episode id="213280" update="2019-03-07">
+<epno type="1">440</epno>
+<length>5</length>
+<airdate>2016-07-04</airdate>
+<title xml:lang="ja">トイレはどこだ!</title>
+<title xml:lang="en">Episode 440</title>
+<title xml:lang="x-jat">Toilet wa Doko Da!</title>
+</episode>
+<episode id="213281" update="2019-03-07">
+<epno type="1">441</epno>
+<length>5</length>
+<airdate>2016-07-05</airdate>
+<title xml:lang="ja">がりぞー, 家になる</title>
+<title xml:lang="en">Episode 441</title>
+<title xml:lang="x-jat">Garizou, Ie ni Naru</title>
+</episode>
+<episode id="213282" update="2019-03-07">
+<epno type="1">442</epno>
+<length>5</length>
+<airdate>2016-07-06</airdate>
+<title xml:lang="ja">はなかっぱと傘</title>
+<title xml:lang="en">Episode 442</title>
+<title xml:lang="x-jat">Hanakappa to Kasa</title>
+</episode>
+<episode id="213283" update="2019-03-07">
+<epno type="1">443</epno>
+<length>5</length>
+<airdate>2016-08-01</airdate>
+<title xml:lang="ja">まぼろしのバラ</title>
+<title xml:lang="en">Episode 443</title>
+<title xml:lang="x-jat">Maboroshi no Bara</title>
+</episode>
+<episode id="213284" update="2019-03-07">
+<epno type="1">444</epno>
+<length>5</length>
+<airdate>2016-08-02</airdate>
+<title xml:lang="ja">めざめよ! 超能力戦士</title>
+<title xml:lang="en">Episode 444</title>
+<title xml:lang="x-jat">Mezame yo! Chounouryoku Senshi</title>
+</episode>
+<episode id="213285" update="2019-03-07">
+<epno type="1">445</epno>
+<length>5</length>
+<airdate>2016-08-03</airdate>
+<title xml:lang="ja">わしら花のやまびこトリオ</title>
+<title xml:lang="en">Episode 445</title>
+<title xml:lang="x-jat">Washira Hana no Yamahiko Trio</title>
+</episode>
+<episode id="213286" update="2019-03-07">
+<epno type="1">446</epno>
+<length>5</length>
+<airdate>2016-08-29</airdate>
+<title xml:lang="ja">はなかっぱと影ぼうしくん</title>
+<title xml:lang="en">Episode 446</title>
+<title xml:lang="x-jat">Hanakappa to Kageboushi-kun</title>
+</episode>
+<episode id="213287" update="2019-03-07">
+<epno type="1">447</epno>
+<length>5</length>
+<airdate>2016-08-30</airdate>
+<title xml:lang="ja">大丈夫だよ, はなかっぱ</title>
+<title xml:lang="en">Episode 447</title>
+<title xml:lang="x-jat">Daijoubu Da yo, Hanakappa</title>
+</episode>
+<episode id="213288" update="2019-03-07">
+<epno type="1">448</epno>
+<length>5</length>
+<airdate>2016-08-31</airdate>
+<title xml:lang="ja">アゲルちゃんのおじいちゃん</title>
+<title xml:lang="en">Episode 448</title>
+<title xml:lang="x-jat">Ageru-chan no Ojii-chan</title>
+</episode>
+<episode id="213289" update="2019-03-07">
+<epno type="1">449</epno>
+<length>5</length>
+<airdate>2016-10-03</airdate>
+<title xml:lang="ja">ももかっぱちゃんのお仕立て</title>
+<title xml:lang="en">Episode 449</title>
+<title xml:lang="x-jat">Momokappa-chan no Oshitate</title>
+</episode>
+<episode id="213290" update="2019-03-07">
+<epno type="1">450</epno>
+<length>5</length>
+<airdate>2016-10-04</airdate>
+<title xml:lang="ja">だんちゃん</title>
+<title xml:lang="en">Episode 450</title>
+<title xml:lang="x-jat">Dan-chan</title>
+</episode>
+<episode id="213291" update="2019-03-07">
+<epno type="1">451</epno>
+<length>5</length>
+<airdate>2016-10-05</airdate>
+<title xml:lang="ja">ロマネマネスコでマネっこ</title>
+<title xml:lang="en">Episode 451</title>
+<title xml:lang="x-jat">Romanemanesko de Manekko</title>
+</episode>
+<episode id="213292" update="2019-03-07">
+<epno type="1">452</epno>
+<length>5</length>
+<airdate>2016-10-31</airdate>
+<title xml:lang="ja">育て! わか蘭</title>
+<title xml:lang="en">Episode 452</title>
+<title xml:lang="x-jat">Sodate! Wakaran</title>
+</episode>
+<episode id="213293" update="2019-03-07">
+<epno type="1">453</epno>
+<length>5</length>
+<airdate>2016-11-01</airdate>
+<title xml:lang="ja">つねなりのライバル</title>
+<title xml:lang="en">Episode 453</title>
+<title xml:lang="x-jat">Tsunenari no Rival</title>
+</episode>
+<episode id="213294" update="2019-03-07">
+<epno type="1">454</epno>
+<length>5</length>
+<airdate>2016-11-02</airdate>
+<title xml:lang="ja">モテモテももかっぱ</title>
+<title xml:lang="en">Episode 454</title>
+<title xml:lang="x-jat">Motemote Momokappa</title>
+</episode>
+<episode id="213295" update="2019-03-07">
+<epno type="1">455</epno>
+<length>5</length>
+<airdate>2016-12-05</airdate>
+<title xml:lang="ja">カギなくしちゃった</title>
+<title xml:lang="en">Episode 455</title>
+<title xml:lang="x-jat">Kagi Nakushichatta</title>
+</episode>
+<episode id="213296" update="2019-03-07">
+<epno type="1">456</epno>
+<length>5</length>
+<airdate>2016-12-06</airdate>
+<title xml:lang="ja">ミニミニはなかっぱ (前編)</title>
+<title xml:lang="en">Episode 456</title>
+<title xml:lang="x-jat">Mini Mini Hanakappa (Zenpen)</title>
+</episode>
+<episode id="213297" update="2019-03-07">
+<epno type="1">457</epno>
+<length>5</length>
+<airdate>2016-12-06</airdate>
+<title xml:lang="ja">ミニミニはなかっぱ (後編)</title>
+<title xml:lang="en">Episode 457</title>
+<title xml:lang="x-jat">Mini Mini Hanakappa (Kouhen)</title>
+</episode>
+<episode id="213298" update="2019-03-07">
+<epno type="1">458</epno>
+<length>5</length>
+<airdate>2017-01-09</airdate>
+<title xml:lang="ja">やどりぎ人生</title>
+<title xml:lang="en">Episode 458</title>
+<title xml:lang="x-jat">Yadorigi Jinsei</title>
+</episode>
+<episode id="213299" update="2019-03-07">
+<epno type="1">459</epno>
+<length>5</length>
+<airdate>2017-01-10</airdate>
+<title xml:lang="ja">リンちゃんは名通訳!?</title>
+<title xml:lang="en">Episode 459</title>
+<title xml:lang="x-jat">Rin-chan wa Na Tsuuyaku!?</title>
+</episode>
+<episode id="213300" update="2019-03-07">
+<epno type="1">460</epno>
+<length>5</length>
+<airdate>2017-01-11</airdate>
+<title xml:lang="ja">不思議の森の美女</title>
+<title xml:lang="en">Episode 460</title>
+<title xml:lang="x-jat">Fushigi no Mori no Bijo</title>
+</episode>
+<episode id="213301" update="2019-03-07">
+<epno type="1">461</epno>
+<length>5</length>
+<airdate>2017-04-03</airdate>
+<title xml:lang="ja">早口でいってみよう!</title>
+<title xml:lang="en">Episode 461</title>
+<title xml:lang="x-jat">Hayakuchi de Itte Miyou!</title>
+</episode>
+<episode id="213302" update="2019-03-07">
+<epno type="1">462</epno>
+<length>5</length>
+<airdate>2017-04-04</airdate>
+<title xml:lang="ja">いざ咲け! はなかっぱ</title>
+<title xml:lang="en">Episode 462</title>
+<title xml:lang="x-jat">Iza Sake! Hanakappa</title>
+</episode>
+<episode id="213303" update="2019-03-07">
+<epno type="1">463</epno>
+<length>5</length>
+<airdate>2017-04-05</airdate>
+<title xml:lang="ja">みろりんの恋人</title>
+<title xml:lang="en">Episode 463</title>
+<title xml:lang="x-jat">Mirorin no Koibito</title>
+</episode>
+<episode id="213304" update="2019-03-07">
+<epno type="1">464</epno>
+<length>5</length>
+<airdate>2017-04-06</airdate>
+<title xml:lang="ja">こどもの村</title>
+<title xml:lang="en">Episode 464</title>
+<title xml:lang="x-jat">Kodomo no Mura</title>
+</episode>
+<episode id="213305" update="2019-03-07">
+<epno type="1">465</epno>
+<length>5</length>
+<airdate>2017-04-07</airdate>
+<title xml:lang="ja">お見通しだよ, はなかっぱ!</title>
+<title xml:lang="en">Episode 465</title>
+<title xml:lang="x-jat">Omitooshi Shida yo, Hanakappa!</title>
+</episode>
+<episode id="213306" update="2019-03-07">
+<epno type="1">466</epno>
+<length>5</length>
+<airdate>2017-05-01</airdate>
+<title xml:lang="ja">夢みるふたり</title>
+<title xml:lang="en">Episode 466</title>
+<title xml:lang="x-jat">Yumemiru Futari</title>
+</episode>
+<episode id="213307" update="2019-03-07">
+<epno type="1">467</epno>
+<length>5</length>
+<airdate>2017-05-02</airdate>
+<title xml:lang="ja">はなかっぱ, 用意はできてる?</title>
+<title xml:lang="en">Episode 467</title>
+<title xml:lang="x-jat">Hanakappa, Youi wa Dekiteru?</title>
+</episode>
+<episode id="213308" update="2019-03-07">
+<epno type="1">468</epno>
+<length>5</length>
+<airdate>2017-05-03</airdate>
+<title xml:lang="ja">がりぞーベイビー</title>
+<title xml:lang="en">Episode 468</title>
+<title xml:lang="x-jat">Garizou Baby</title>
+</episode>
+<episode id="213309" update="2019-03-07">
+<epno type="1">469</epno>
+<length>5</length>
+<airdate>2017-05-04</airdate>
+<title xml:lang="ja">夢のつづき</title>
+<title xml:lang="en">Episode 469</title>
+<title xml:lang="x-jat">Yume no Tsuzuki</title>
+</episode>
+<episode id="213310" update="2019-03-07">
+<epno type="1">470</epno>
+<length>5</length>
+<airdate>2017-05-05</airdate>
+<title xml:lang="ja">ソウジ木</title>
+<title xml:lang="en">Episode 470</title>
+<title xml:lang="x-jat">Souji Ki</title>
+</episode>
+<episode id="213311" update="2019-03-07">
+<epno type="1">471</epno>
+<length>5</length>
+<airdate>2017-05-29</airdate>
+<title xml:lang="ja">あっちこっちでぽよよん</title>
+<title xml:lang="en">Episode 471</title>
+<title xml:lang="x-jat">Acchi Kocchi de Boyoyon</title>
+</episode>
+<episode id="213312" update="2019-03-07">
+<epno type="1">472</epno>
+<length>5</length>
+<airdate>2017-05-30</airdate>
+<title xml:lang="ja">もっとちょーだい, はなかっぱ</title>
+<title xml:lang="en">Episode 472</title>
+<title xml:lang="x-jat">Motto Choudai, Hanakappa</title>
+</episode>
+<episode id="213313" update="2019-03-07">
+<epno type="1">473</epno>
+<length>5</length>
+<airdate>2017-05-31</airdate>
+<title xml:lang="ja">うちの方がスゴイ!</title>
+<title xml:lang="en">Episode 473</title>
+<title xml:lang="x-jat">Uchi no Hou ga Sugoi!</title>
+</episode>
+<episode id="213314" update="2019-03-07">
+<epno type="1">474</epno>
+<length>5</length>
+<airdate>2017-06-01</airdate>
+<title xml:lang="ja">なつかしいおんぶ</title>
+<title xml:lang="en">Episode 474</title>
+<title xml:lang="x-jat">Natsukashii Onpu</title>
+</episode>
+<episode id="213315" update="2019-03-07">
+<epno type="1">475</epno>
+<length>5</length>
+<airdate>2017-06-02</airdate>
+<title xml:lang="ja">やまびこ村 村長選挙</title>
+<title xml:lang="en">Episode 475</title>
+<title xml:lang="x-jat">Yamabiko Mura Sonchou Senkyo</title>
+</episode>
+<episode id="213316" update="2019-03-07">
+<epno type="1">476</epno>
+<length>5</length>
+<airdate>2017-07-03</airdate>
+<title xml:lang="ja">バラ男爵の館</title>
+<title xml:lang="en">Episode 476</title>
+<title xml:lang="x-jat">Bara Danshaku no Kan</title>
+</episode>
+<episode id="213317" update="2019-03-07">
+<epno type="1">477</epno>
+<length>5</length>
+<airdate>2017-07-04</airdate>
+<title xml:lang="ja">はなかっぱのポケット</title>
+<title xml:lang="en">Episode 477</title>
+<title xml:lang="x-jat">Hanakappa no Pocket</title>
+</episode>
+<episode id="213318" update="2019-03-07">
+<epno type="1">478</epno>
+<length>5</length>
+<airdate>2017-07-05</airdate>
+<title xml:lang="ja">はなかっぱは有名人!?</title>
+<title xml:lang="en">Episode 478</title>
+<title xml:lang="x-jat">Hanakappa wa Yuumeijin!?</title>
+</episode>
+<episode id="213319" update="2019-03-07">
+<epno type="1">479</epno>
+<length>5</length>
+<airdate>2017-07-06</airdate>
+<title xml:lang="ja">ベイビーズがやってきた!</title>
+<title xml:lang="en">Episode 479</title>
+<title xml:lang="x-jat">Babies ga Yatte Kita!</title>
+</episode>
+<episode id="213320" update="2019-03-07">
+<epno type="1">480</epno>
+<length>5</length>
+<airdate>2017-07-07</airdate>
+<title xml:lang="ja">マスターカッパーのひみつ</title>
+<title xml:lang="en">Episode 480</title>
+<title xml:lang="x-jat">Master Kappa no Himitsu</title>
+</episode>
+<episode id="213321" update="2019-03-07">
+<epno type="1">481</epno>
+<length>5</length>
+<airdate>2017-07-31</airdate>
+<title xml:lang="ja">おじいちゃんのラブレター</title>
+<title xml:lang="en">Episode 481</title>
+<title xml:lang="x-jat">Ojii-chan no Love Letter</title>
+</episode>
+<episode id="213322" update="2019-03-07">
+<epno type="1">482</epno>
+<length>5</length>
+<airdate>2017-08-01</airdate>
+<title xml:lang="ja">Hボーイ, ふたたび!</title>
+<title xml:lang="en">Episode 482</title>
+<title xml:lang="x-jat">H Boy, Futatabi!</title>
+</episode>
+<episode id="213323" update="2019-03-07">
+<epno type="1">483</epno>
+<length>5</length>
+<airdate>2017-08-02</airdate>
+<title xml:lang="ja">スーパーがりコマ</title>
+<title xml:lang="en">Episode 483</title>
+<title xml:lang="x-jat">Super Garikoma</title>
+</episode>
+<episode id="213324" update="2019-03-07">
+<epno type="1">484</epno>
+<length>5</length>
+<airdate>2017-08-03</airdate>
+<title xml:lang="ja">くっつきたい!</title>
+<title xml:lang="en">Episode 484</title>
+<title xml:lang="x-jat">Kuttsukitai!</title>
+</episode>
+<episode id="213325" update="2019-03-07">
+<epno type="1">485</epno>
+<length>5</length>
+<airdate>2017-08-04</airdate>
+<title xml:lang="ja">花読め修業</title>
+<title xml:lang="en">Episode 485</title>
+<title xml:lang="x-jat">Hana Yome Jugyou</title>
+</episode>
+<episode id="213326" update="2019-03-07">
+<epno type="1">486</epno>
+<length>5</length>
+<airdate>2017-08-28</airdate>
+<title xml:lang="ja">今日はズル休み</title>
+<title xml:lang="en">Episode 486</title>
+<title xml:lang="x-jat">Kyou wa Zuruyasumi</title>
+</episode>
+<episode id="213327" update="2019-03-07">
+<epno type="1">487</epno>
+<length>5</length>
+<airdate>2017-08-29</airdate>
+<title xml:lang="ja">ももかっぱちゃん, 星になる</title>
+<title xml:lang="en">Episode 487</title>
+<title xml:lang="x-jat">Momokappa-chan, Hoshi ni Naru</title>
+</episode>
+<episode id="213328" update="2019-03-07">
+<epno type="1">488</epno>
+<length>5</length>
+<airdate>2017-08-30</airdate>
+<title xml:lang="ja">パンパンパパン屋さん</title>
+<title xml:lang="en">Episode 488</title>
+<title xml:lang="x-jat">Pan Pan Papanya-san</title>
+</episode>
+<episode id="213329" update="2019-03-07">
+<epno type="1">489</epno>
+<length>5</length>
+<airdate>2017-08-31</airdate>
+<title xml:lang="ja">やまのふじをさがせ!</title>
+<title xml:lang="en">Episode 489</title>
+<title xml:lang="x-jat">Yama no Fuji o Sagase!</title>
+</episode>
+<episode id="213330" update="2019-03-07">
+<epno type="1">490</epno>
+<length>5</length>
+<airdate>2017-09-01</airdate>
+<title xml:lang="ja">少女怪盗アルル</title>
+<title xml:lang="en">Episode 490</title>
+<title xml:lang="x-jat">Shoujo Kaitou Aruru</title>
+</episode>
+<episode id="213331" update="2019-03-07">
+<epno type="1">491</epno>
+<length>5</length>
+<airdate>2017-10-02</airdate>
+<title xml:lang="ja">ピーヨンのお泊り</title>
+<title xml:lang="en">Episode 491</title>
+<title xml:lang="x-jat">Piiyon no Otomari</title>
+</episode>
+<episode id="213332" update="2019-03-07">
+<epno type="1">492</epno>
+<length>5</length>
+<airdate>2017-10-03</airdate>
+<title xml:lang="ja">二度目の冒険</title>
+<title xml:lang="en">Episode 492</title>
+<title xml:lang="x-jat">Nidome no Bouken</title>
+</episode>
+<episode id="213333" update="2019-03-07">
+<epno type="1">493</epno>
+<length>5</length>
+<airdate>2017-10-04</airdate>
+<title xml:lang="ja">あいぼう</title>
+<title xml:lang="en">Episode 493</title>
+<title xml:lang="x-jat">Aibou</title>
+</episode>
+<episode id="213334" update="2019-03-07">
+<epno type="1">494</epno>
+<length>5</length>
+<airdate>2017-10-05</airdate>
+<title xml:lang="ja">ベイビーズとももかっぱ</title>
+<title xml:lang="en">Episode 494</title>
+<title xml:lang="x-jat">Babies to Momokappa</title>
+</episode>
+<episode id="213335" update="2019-03-07">
+<epno type="1">495</epno>
+<length>5</length>
+<airdate>2017-10-06</airdate>
+<title xml:lang="ja">お父さんと一緒</title>
+<title xml:lang="en">Episode 495</title>
+<title xml:lang="x-jat">Otousan to Issho</title>
+</episode>
+<episode id="213336" update="2019-03-07">
+<epno type="1">496</epno>
+<length>5</length>
+<airdate>2017-10-30</airdate>
+<title xml:lang="ja">ヤジの実, サイタ</title>
+<title xml:lang="en">Episode 496</title>
+<title xml:lang="x-jat">Yaji no Makoto, Saita</title>
+</episode>
+<episode id="213337" update="2019-03-07">
+<epno type="1">497</epno>
+<length>5</length>
+<airdate>2017-10-31</airdate>
+<title xml:lang="ja">なんかちょーだい, はなかっぱ</title>
+<title xml:lang="en">Episode 497</title>
+<title xml:lang="x-jat">Nanka Choudai, Hanakappa</title>
+</episode>
+<episode id="213338" update="2019-03-07">
+<epno type="1">498</epno>
+<length>5</length>
+<airdate>2017-11-01</airdate>
+<title xml:lang="ja">ヤドカリライフ</title>
+<title xml:lang="en">Episode 498</title>
+<title xml:lang="x-jat">Yadokari Life</title>
+</episode>
+<episode id="213339" update="2019-03-07">
+<epno type="1">499</epno>
+<length>5</length>
+<airdate>2017-11-02</airdate>
+<title xml:lang="ja">大吉の花</title>
+<title xml:lang="en">Episode 499</title>
+<title xml:lang="x-jat">Daikichi no Hana</title>
+</episode>
+<episode id="213340" update="2019-03-07">
+<epno type="1">500</epno>
+<length>5</length>
+<airdate>2017-11-03</airdate>
+<title xml:lang="ja">ハガキの木</title>
+<title xml:lang="en">Episode 500</title>
+<title xml:lang="x-jat">Hagaki no Ki</title>
+</episode>
+<episode id="213341" update="2019-03-07">
+<epno type="1">501</epno>
+<length>5</length>
+<airdate>2017-12-04</airdate>
+<title xml:lang="ja">梅さんの引退危機!?</title>
+<title xml:lang="en">Episode 501</title>
+<title xml:lang="x-jat">Ume-san no Intai Kiki!?</title>
+</episode>
+<episode id="213342" update="2019-03-07">
+<epno type="1">502</epno>
+<length>5</length>
+<airdate>2017-12-05</airdate>
+<title xml:lang="ja">ベイビーズ蝶兵衛</title>
+<title xml:lang="en">Episode 502</title>
+<title xml:lang="x-jat">Babies Choubee</title>
+</episode>
+<episode id="213343" update="2019-03-07">
+<epno type="1">503</epno>
+<length>5</length>
+<airdate>2017-12-06</airdate>
+<title xml:lang="ja">はなかっぱの準備期間</title>
+<title xml:lang="en">Episode 503</title>
+<title xml:lang="x-jat">Hanakappa no Junbikikan</title>
+</episode>
+<episode id="213344" update="2019-03-07">
+<epno type="1">504</epno>
+<length>5</length>
+<airdate>2017-12-07</airdate>
+<title xml:lang="ja">チョンマゲはなかっぱ (前編)</title>
+<title xml:lang="en">Episode 504</title>
+<title xml:lang="x-jat">Chonmage Hanakappa (Zenpen)</title>
+</episode>
+<episode id="213345" update="2019-03-09">
+<epno type="1">506</epno>
+<length>5</length>
+<airdate>2018-01-08</airdate>
+<title xml:lang="ja">ベイビーズのお留守番</title>
+<title xml:lang="en">Episode 506</title>
+<title xml:lang="x-jat">Babies no Orusuban</title>
+</episode>
+<episode id="213346" update="2019-03-09">
+<epno type="1">507</epno>
+<length>5</length>
+<airdate>2018-01-09</airdate>
+<title xml:lang="ja">おねだりはなかっぱ</title>
+<title xml:lang="en">Episode 507</title>
+<title xml:lang="x-jat">Onedari Hanakappa</title>
+</episode>
+<episode id="213347" update="2019-03-09">
+<epno type="1">508</epno>
+<length>5</length>
+<airdate>2018-01-10</airdate>
+<title xml:lang="ja">ボクの記念樹</title>
+<title xml:lang="en">Episode 508</title>
+<title xml:lang="x-jat">Boku no Kinenju</title>
+</episode>
+<episode id="213348" update="2019-03-09">
+<epno type="1">509</epno>
+<length>5</length>
+<airdate>2018-01-11</airdate>
+<title xml:lang="ja">おばあちゃんのお父さん</title>
+<title xml:lang="en">Episode 509</title>
+<title xml:lang="x-jat">Obaa-chan no Otousan</title>
+</episode>
+<episode id="213349" update="2019-03-09">
+<epno type="1">510</epno>
+<length>5</length>
+<airdate>2018-01-12</airdate>
+<title xml:lang="ja">はなかっぱ, ズンズンいこう</title>
+<title xml:lang="en">Episode 510</title>
+<title xml:lang="x-jat">Hanakappa, Zunzun Ikou</title>
+</episode>
+<episode id="213350" update="2019-03-09">
+<epno type="1">511</epno>
+<length>5</length>
+<airdate>2018-04-02</airdate>
+<title xml:lang="ja">ピーヨンの友だち</title>
+<title xml:lang="en">Episode 511</title>
+<title xml:lang="x-jat">Piiyon no Tomodachi</title>
+</episode>
+<episode id="213351" update="2019-03-09">
+<epno type="1">512</epno>
+<length>5</length>
+<airdate>2018-04-03</airdate>
+<title xml:lang="ja">はなかっぱ奇想天外!</title>
+<title xml:lang="en">Episode 512</title>
+<title xml:lang="x-jat">Hanakappa Kisoutengai!</title>
+</episode>
+<episode id="213352" update="2019-03-09">
+<epno type="1">513</epno>
+<length>5</length>
+<airdate>2018-04-04</airdate>
+<title xml:lang="ja">ヨコヅ菜の花</title>
+<title xml:lang="en">Episode 513</title>
+<title xml:lang="x-jat">Yokozu Na no Hana</title>
+</episode>
+<episode id="213353" update="2019-03-09">
+<epno type="1">514</epno>
+<length>5</length>
+<airdate>2018-04-30</airdate>
+<title xml:lang="ja">晩ご飯はなあに?</title>
+<title xml:lang="en">Episode 514</title>
+<title xml:lang="x-jat">Bangohan wa Naani?</title>
+</episode>
+<episode id="213354" update="2019-03-09">
+<epno type="1">515</epno>
+<length>5</length>
+<airdate>2018-05-01</airdate>
+<title xml:lang="ja">甲羅が割れた!</title>
+<title xml:lang="en">Episode 515</title>
+<title xml:lang="x-jat">Koura ga Wareta!</title>
+</episode>
+<episode id="213355" update="2019-03-09">
+<epno type="1">516</epno>
+<length>5</length>
+<airdate>2018-05-02</airdate>
+<title xml:lang="ja">地下大金庫VS怪盗アルル</title>
+<title xml:lang="en">Episode 516</title>
+<title xml:lang="x-jat">Chika Dai Kinko vs Kaitou Aruru</title>
+</episode>
+<episode id="213356" update="2019-03-09">
+<epno type="1">517</epno>
+<length>5</length>
+<airdate>2018-05-28</airdate>
+<title xml:lang="ja">未来の日記</title>
+<title xml:lang="en">Episode 517</title>
+<title xml:lang="x-jat">Mirai no Nikki</title>
+</episode>
+<episode id="213357" update="2019-03-09">
+<epno type="1">518</epno>
+<length>5</length>
+<airdate>2018-05-29</airdate>
+<title xml:lang="ja">つねなりの研究発表会</title>
+<title xml:lang="en">Episode 518</title>
+<title xml:lang="x-jat">Tsunenari no Kenkyuu Happyoukai</title>
+</episode>
+<episode id="213358" update="2019-03-09">
+<epno type="1">519</epno>
+<length>5</length>
+<airdate>2018-05-30</airdate>
+<title xml:lang="ja">がりぞー, はなかっぱになってみる</title>
+<title xml:lang="en">Episode 519</title>
+<title xml:lang="x-jat">Garizou, Hanakappa ni Natte Miru</title>
+</episode>
+<episode id="213359" update="2019-03-09">
+<epno type="1">520</epno>
+<length>5</length>
+<airdate>2018-07-02</airdate>
+<title xml:lang="ja">迷えるはなかっぱ</title>
+<title xml:lang="en">Episode 520</title>
+<title xml:lang="x-jat">Mayoeru Hanakappa</title>
+</episode>
+<episode id="213360" update="2019-03-09">
+<epno type="1">521</epno>
+<length>5</length>
+<airdate>2018-07-03</airdate>
+<title xml:lang="ja">みろりんの宝物</title>
+<title xml:lang="en">Episode 521</title>
+<title xml:lang="x-jat">Mirorin no Takaramono</title>
+</episode>
+<episode id="213361" update="2019-03-09">
+<epno type="1">522</epno>
+<length>5</length>
+<airdate>2018-07-04</airdate>
+<title xml:lang="ja">おもいではぽろっぽろっ</title>
+<title xml:lang="en">Episode 522</title>
+<title xml:lang="x-jat">Omoide wa Poropporo</title>
+</episode>
+<episode id="213362" update="2019-03-09">
+<epno type="1">523</epno>
+<length>5</length>
+<airdate>2018-07-30</airdate>
+<title xml:lang="ja">ベーヤちゃんブーム</title>
+<title xml:lang="en">Episode 523</title>
+<title xml:lang="x-jat">Beeya-chan Boom</title>
+</episode>
+<episode id="213363" update="2019-03-09">
+<epno type="1">524</epno>
+<length>5</length>
+<airdate>2018-07-31</airdate>
+<title xml:lang="ja">美男の実</title>
+<title xml:lang="en">Episode 524</title>
+<title xml:lang="x-jat">Binan no Makoto</title>
+</episode>
+<episode id="213364" update="2019-03-09">
+<epno type="1">525</epno>
+<length>5</length>
+<airdate>2018-08-01</airdate>
+<title xml:lang="ja">てれます天気予報</title>
+<title xml:lang="en">Episode 525</title>
+<title xml:lang="x-jat">Teremasu Tenki Yohou</title>
+</episode>
+<episode id="213365" update="2019-03-09">
+<epno type="1">526</epno>
+<length>5</length>
+<airdate>2018-09-03</airdate>
+<title xml:lang="ja">いとしのパトリシア</title>
+<title xml:lang="en">Episode 526</title>
+<title xml:lang="x-jat">Itoshi no Patricia</title>
+</episode>
+<episode id="213366" update="2019-03-09">
+<epno type="1">527</epno>
+<length>5</length>
+<airdate>2018-09-04</airdate>
+<title xml:lang="ja">チョーベー・シネマ</title>
+<title xml:lang="en">Episode 527</title>
+<title xml:lang="x-jat">Choubee Cinema</title>
+</episode>
+<episode id="213367" update="2019-03-09">
+<epno type="1">528</epno>
+<length>5</length>
+<airdate>2018-09-05</airdate>
+<title xml:lang="ja">クラブ秘密基地</title>
+<title xml:lang="en">Episode 528</title>
+<title xml:lang="x-jat">Club Himitsu Kichi</title>
+</episode>
+<episode id="213368" update="2019-03-09">
+<epno type="1">529</epno>
+<length>5</length>
+<airdate>2018-10-01</airdate>
+<title xml:lang="ja">ももかっぱちゃんとモンシロー</title>
+<title xml:lang="en">Episode 529</title>
+<title xml:lang="x-jat">Momokappa-chan to Monshirou</title>
+</episode>
+<episode id="213369" update="2019-03-09">
+<epno type="1">530</epno>
+<length>5</length>
+<airdate>2018-10-02</airdate>
+<title xml:lang="ja">あまかっぱちゃんのおうち</title>
+<title xml:lang="en">Episode 530</title>
+<title xml:lang="x-jat">Amakappa-chan no Ouchi</title>
+</episode>
+<episode id="213370" update="2019-03-09">
+<epno type="1">531</epno>
+<length>5</length>
+<airdate>2018-10-03</airdate>
+<title xml:lang="ja">さよならモンシロー</title>
+<title xml:lang="en">Episode 531</title>
+<title xml:lang="x-jat">Sayonara Monshirou</title>
+</episode>
+<episode id="213371" update="2019-03-09">
+<epno type="1">532</epno>
+<length>5</length>
+<airdate>2018-10-29</airdate>
+<title xml:lang="ja">お母さんは怒らない?</title>
+<title xml:lang="en">Episode 532</title>
+<title xml:lang="x-jat">Okaasan wa Okoranai?</title>
+</episode>
+<episode id="213372" update="2019-03-09">
+<epno type="1">533</epno>
+<length>5</length>
+<airdate>2018-10-30</airdate>
+<title xml:lang="ja">お母さんのお昼寝</title>
+<title xml:lang="en">Episode 533</title>
+<title xml:lang="x-jat">Okaasan no Ohirune</title>
+</episode>
+<episode id="213373" update="2019-03-09">
+<epno type="1">534</epno>
+<length>5</length>
+<airdate>2018-10-31</airdate>
+<title xml:lang="ja">ホリホリいもホリ</title>
+<title xml:lang="en">Episode 534</title>
+<title xml:lang="x-jat">Horihori Imo Hori</title>
+</episode>
+<episode id="213374" update="2019-03-09">
+<epno type="1">535</epno>
+<length>5</length>
+<airdate>2018-12-03</airdate>
+<title xml:lang="ja">やまのふじのリヤカー</title>
+<title xml:lang="en">Episode 535</title>
+<title xml:lang="x-jat">Yama no Fuji no Rear Car</title>
+</episode>
+<episode id="213375" update="2019-03-09">
+<epno type="1">536</epno>
+<length>5</length>
+<airdate>2018-12-04</airdate>
+<title xml:lang="ja">はなかっぱをたすけて!</title>
+<title xml:lang="en">Episode 536</title>
+<title xml:lang="x-jat">Hanakappa o Tasukete!</title>
+</episode>
+<episode id="213376" update="2019-03-09">
+<epno type="1">537</epno>
+<length>5</length>
+<airdate>2018-12-05</airdate>
+<title xml:lang="ja">森の小さなケーキ屋さん</title>
+<title xml:lang="en">Episode 537</title>
+<title xml:lang="x-jat">Mori no Chiisana Cake-ya-san</title>
+</episode>
+<episode id="213377" update="2019-03-09">
+<epno type="1">538</epno>
+<length>5</length>
+<airdate>2019-01-07</airdate>
+<title xml:lang="ja">ちょっと待ってよ, はなかっぱ</title>
+<title xml:lang="en">Episode 538</title>
+<title xml:lang="x-jat">Chotto Matte yo, Hanakappa</title>
+</episode>
+<episode id="213378" update="2019-03-09">
+<epno type="1">539</epno>
+<length>5</length>
+<airdate>2019-01-08</airdate>
+<title xml:lang="ja">手をつなごう</title>
+<title xml:lang="en">Episode 539</title>
+<title xml:lang="x-jat">Te o Tsunagou</title>
+</episode>
+<episode id="213379" update="2019-03-09">
+<epno type="1">540</epno>
+<length>5</length>
+<airdate>2019-01-09</airdate>
+<title xml:lang="ja">おさぼりはなかっぱ</title>
+<title xml:lang="en">Episode 540</title>
+<title xml:lang="x-jat">Osabori Hanakappa</title>
+</episode>
+<episode id="213421" update="2019-03-09">
+<epno type="1">505</epno>
+<length>5</length>
+<airdate>2017-12-07</airdate>
+<title xml:lang="ja">チョンマゲはなかっぱ (後編)</title>
+<title xml:lang="en">Episode 505</title>
+<title xml:lang="x-jat">Chonmage Hanakappa (Kouhen)</title>
+</episode>
+<episode id="214574" update="2019-04-01">
+<epno type="1">541</epno>
+<length>5</length>
+<airdate>2019-04-01</airdate>
+<title xml:lang="ja">がりぞー, 最後の作戦</title>
+<title xml:lang="en">Episode 541</title>
+<title xml:lang="x-jat">Garizou, Saigo no Sakusen</title>
+</episode>
+<episode id="214575" update="2019-04-01">
+<epno type="1">542</epno>
+<length>5</length>
+<airdate>2019-04-02</airdate>
+<title xml:lang="ja">誰かに見られてる</title>
+<title xml:lang="en">Episode 542</title>
+<title xml:lang="x-jat">Dareka ni Mirareteru</title>
+</episode>
+<episode id="214576" update="2019-04-01">
+<epno type="1">543</epno>
+<length>5</length>
+<airdate>2019-04-03</airdate>
+<title xml:lang="ja">栓を抜かないで!</title>
+<title xml:lang="en">Episode 543</title>
+<title xml:lang="x-jat">Sen o Nukanaide!</title>
+</episode>
+<episode id="216277" update="2019-04-29">
+<epno type="1">544</epno>
+<length>5</length>
+<airdate>2019-04-29</airdate>
+<title xml:lang="ja">はなかっぱ, ぬいぐるみになる</title>
+<title xml:lang="en">Episode 544</title>
+<title xml:lang="x-jat">Hanakappa, Nuigurumi ni Naru</title>
+</episode>
+<episode id="216278" update="2019-04-29">
+<epno type="1">545</epno>
+<length>5</length>
+<airdate>2019-04-30</airdate>
+<title xml:lang="ja">バラよさらば</title>
+<title xml:lang="en">Episode 545</title>
+<title xml:lang="x-jat">Bara yo Saraba</title>
+</episode>
+<episode id="216279" update="2019-04-29">
+<epno type="1">546</epno>
+<length>5</length>
+<airdate>2019-05-01</airdate>
+<title xml:lang="ja">やまびこナンバーワンブック</title>
+<title xml:lang="en">Episode 546</title>
+<title xml:lang="x-jat">Yamabiko Number One Book</title>
+</episode>
+<episode id="217704" update="2019-05-30">
+<epno type="1">547</epno>
+<length>5</length>
+<airdate>2019-05-27</airdate>
+<title xml:lang="ja">ベーヤちゃん, いい子をやめる</title>
+<title xml:lang="en">Episode 547</title>
+<title xml:lang="x-jat">Beeya-chan, Ii Ko o Yameru</title>
+</episode>
+<episode id="217705" update="2019-05-30">
+<epno type="1">548</epno>
+<length>5</length>
+<airdate>2019-05-28</airdate>
+<title xml:lang="ja">新しい服がほしい</title>
+<title xml:lang="en">Episode 548</title>
+<title xml:lang="x-jat">Atarashii Fuku ga Hoshii</title>
+</episode>
+<episode id="217706" update="2019-05-30">
+<epno type="1">549</epno>
+<length>5</length>
+<airdate>2019-05-29</airdate>
+<title xml:lang="ja">ちぃかっぱのまちぼうけ</title>
+<title xml:lang="en">Episode 549</title>
+<title xml:lang="x-jat">Chiikappa no Machibouke</title>
+</episode>
+<episode id="218465" update="2019-07-01">
+<epno type="1">550</epno>
+<length>5</length>
+<airdate>2019-07-01</airdate>
+<title xml:lang="ja">はなかっぱ, のんびりいこうよ</title>
+<title xml:lang="en">Episode 550</title>
+<title xml:lang="x-jat">Hanakappa, Nonbiri Ikou yo</title>
+</episode>
+<episode id="218466" update="2019-07-01">
+<epno type="1">551</epno>
+<length>5</length>
+<airdate>2019-07-02</airdate>
+<title xml:lang="ja">アルプスの蝶兵衛ちゃん</title>
+<title xml:lang="en">Episode 551</title>
+<title xml:lang="x-jat">Alps no Choubee-chan</title>
+</episode>
+<episode id="218467" update="2019-07-01">
+<epno type="1">552</epno>
+<length>5</length>
+<airdate>2019-07-03</airdate>
+<title xml:lang="ja">はなかっぱ, 演歌の道</title>
+<title xml:lang="en">Episode 552</title>
+<title xml:lang="x-jat">Hanakappa, Enka no Michi</title>
+</episode>
+<episode id="219061" update="2019-07-29">
+<epno type="1">553</epno>
+<length>5</length>
+<airdate>2019-07-29</airdate>
+<title xml:lang="ja">はなかっぱと木の妖精</title>
+<title xml:lang="en">Episode 553</title>
+<title xml:lang="x-jat">Hanakappa to Ki no Yousei</title>
+</episode>
+<episode id="219062" update="2019-07-29">
+<epno type="1">554</epno>
+<length>5</length>
+<airdate>2019-07-30</airdate>
+<title xml:lang="ja">ぼく, ミドリムシ</title>
+<title xml:lang="en">Episode 554</title>
+<title xml:lang="x-jat">Boku, Midorimushi</title>
+</episode>
+<episode id="219063" update="2019-07-29">
+<epno type="1">555</epno>
+<length>5</length>
+<airdate>2019-07-31</airdate>
+<title xml:lang="ja">帰ってきたモンシロー</title>
+<title xml:lang="en">Episode 555</title>
+<title xml:lang="x-jat">Kaette Kita Monshirou</title>
+</episode>
+<episode id="220033" update="2019-09-01">
+<epno type="1">556</epno>
+<length>5</length>
+<airdate>2019-09-02</airdate>
+<title xml:lang="ja">キンピカ王国 前編</title>
+<title xml:lang="en">Episode 556</title>
+<title xml:lang="x-jat">Kinpika Oukoku: Zenpen</title>
+</episode>
+<episode id="220034" update="2019-09-01">
+<epno type="1">557</epno>
+<length>5</length>
+<airdate>2019-09-02</airdate>
+<title xml:lang="ja">キンピカ王国 後編</title>
+<title xml:lang="en">Episode 557</title>
+<title xml:lang="x-jat">Kinpika Oukoku: Kouhen</title>
+</episode>
+<episode id="220035" update="2019-09-01">
+<epno type="1">558</epno>
+<length>5</length>
+<airdate>2019-09-04</airdate>
+<title xml:lang="ja">あまかっぱちゃんのおともだち</title>
+<title xml:lang="en">Episode 558</title>
+<title xml:lang="x-jat">Amakappa-chan no Otomodachi</title>
+</episode>
+<episode id="221871" update="2019-10-02">
+<epno type="1">559</epno>
+<length>5</length>
+<airdate>2019-09-30</airdate>
+<title xml:lang="ja">はなかっぱアクアリウム</title>
+<title xml:lang="en">Episode 559</title>
+<title xml:lang="x-jat">Hanakappa Aquarium</title>
+</episode>
+<episode id="221872" update="2019-10-02">
+<epno type="1">560</epno>
+<length>5</length>
+<airdate>2019-10-01</airdate>
+<title xml:lang="ja">はなかっぱの恋</title>
+<title xml:lang="en">Episode 560</title>
+<title xml:lang="x-jat">Hanakappa no Koi</title>
+</episode>
+<episode id="221873" update="2019-10-02">
+<epno type="1">561</epno>
+<length>5</length>
+<airdate>2019-10-02</airdate>
+<title xml:lang="ja">はなかっぱ, あきっぽい!?</title>
+<title xml:lang="en">Episode 561</title>
+<title xml:lang="x-jat">Hanakappa, Akippoi!?</title>
+</episode>
+<episode id="223625" update="2019-10-28">
+<epno type="1">562</epno>
+<length>5</length>
+<airdate>2019-10-28</airdate>
+<title xml:lang="ja">明日でいいさ</title>
+<title xml:lang="en">Episode 562</title>
+<title xml:lang="x-jat">Ashita de Ii sa</title>
+</episode>
+<episode id="223626" update="2019-10-28">
+<epno type="1">563</epno>
+<length>5</length>
+<airdate>2019-10-29</airdate>
+<title xml:lang="ja">池の怪獣</title>
+<title xml:lang="en">Episode 563</title>
+<title xml:lang="x-jat">Ike no Kaijuu</title>
+</episode>
+<episode id="223627" update="2019-10-28">
+<epno type="1">564</epno>
+<length>5</length>
+<airdate>2019-10-30</airdate>
+<title xml:lang="ja">あまやどり</title>
+<title xml:lang="en">Episode 564</title>
+<title xml:lang="x-jat">Amayadori</title>
+</episode>
+<episode id="224886" update="2019-12-02">
+<epno type="1">565</epno>
+<length>5</length>
+<airdate>2019-12-02</airdate>
+<title xml:lang="ja">はなかっぱ, ゴーマンになる</title>
+<title xml:lang="en">Episode 565</title>
+<title xml:lang="x-jat">Hanakappa, Gouman ni Naru</title>
+</episode>
+<episode id="224887" update="2019-12-02">
+<epno type="1">566</epno>
+<length>5</length>
+<airdate>2019-12-03</airdate>
+<title xml:lang="ja">はなかっぱ屋あらわる!</title>
+<title xml:lang="en">Episode 566</title>
+<title xml:lang="x-jat">Hanakappa Ya Arawaru!</title>
+</episode>
+<episode id="224888" update="2019-12-02">
+<epno type="1">567</epno>
+<length>5</length>
+<airdate>2019-12-04</airdate>
+<title xml:lang="ja">花のような人</title>
+<title xml:lang="en">Episode 567</title>
+<title xml:lang="x-jat">Hana no You na Hito</title>
+</episode>
+<episode id="225723" update="2019-12-30">
+<epno type="1">568</epno>
+<length>5</length>
+<airdate>2020-01-06</airdate>
+<title xml:lang="ja">マメマメちゃんブーム</title>
+<title xml:lang="en">Episode 568</title>
+<title xml:lang="x-jat">Mamemame-chan Boom</title>
+</episode>
+<episode id="225724" update="2019-12-30">
+<epno type="1">569</epno>
+<length>5</length>
+<airdate>2020-01-07</airdate>
+<title xml:lang="ja">ふたりのはなかっぱ</title>
+<title xml:lang="en">Episode 569</title>
+<title xml:lang="x-jat">Futari no Hanakappa</title>
+</episode>
+<episode id="225725" update="2019-12-30">
+<epno type="1">570</epno>
+<length>5</length>
+<airdate>2020-01-08</airdate>
+<title xml:lang="ja">コンサートできるかな</title>
+<title xml:lang="en">Episode 570</title>
+<title xml:lang="x-jat">Concert Dekiru ka na</title>
+</episode>
+<episode id="227794" update="2020-03-30">
+<epno type="1">571</epno>
+<length>5</length>
+<airdate>2020-04-01</airdate>
+<title xml:lang="ja">若がえりのパワー</title>
+<title xml:lang="en">Episode 571</title>
+<title xml:lang="x-jat">Wakagaeri no Power</title>
+</episode>
+<episode id="227795" update="2020-03-30">
+<epno type="1">572</epno>
+<length>5</length>
+<airdate>2020-04-02</airdate>
+<title xml:lang="ja">はっぱではっぱっぱ</title>
+<title xml:lang="en">Episode 572</title>
+<title xml:lang="x-jat">Happa de Happappa</title>
+</episode>
+<episode id="227796" update="2020-03-30">
+<epno type="1">573</epno>
+<length>5</length>
+<airdate>2020-04-03</airdate>
+<title xml:lang="ja">ももかっぱちゃんを救え!?</title>
+<title xml:lang="en">Episode 573</title>
+<title xml:lang="x-jat">Momokappa-chan o Sukue!?</title>
+</episode>
+</episodes>
+</anime>

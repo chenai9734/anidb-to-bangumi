@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="615" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2001-01-09</startdate>
+<enddate>2001-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chikyuu Bouei Kazoku</title>
+<title xml:lang="en" type="synonym">The Family`s Defensive Alliance</title>
+<title xml:lang="en" type="synonym">Earth Defence Family</title>
+<title xml:lang="x-jat" type="short">Daichis</title>
+<title xml:lang="ja" type="official">地球防衛家族</title>
+<title xml:lang="en" type="official">The Daichis - Earth`s Defense Family</title>
+</titles>
+<similaranime>
+<anime id="11920" approval="2" total="2">Uchuu Patrol Luluco</anime>
+</similaranime>
+<url>http://www.bandaivisual.co.jp/boei/</url>
+<creators>
+<name id="152" type="Series Composition">Kawamori Shouji</name>
+<name id="152" type="Original Work">Kawamori Shouji</name>
+<name id="5705" type="Character Design">Mouri Kazuaki</name>
+<name id="5705" type="Chief Animation Direction">Mouri Kazuaki</name>
+<name id="7022" type="Direction">Kimura Tetsu</name>
+<name id="23473" type="Music">Naka Shigeo</name>
+<name id="774" type="Animation Work">Group Tac</name>
+</creators>
+<description>Yesterday, dad suffered as a programmer in a dead-end job, mom worked to ... being married, sister struggled to balance her homework and keeping up the house and little brother used silly pranks and outrageous behavior to keep everyone laughing. Today, they are the Earth`s front line of defense against extra terrestrial invasion! Can they find a way to keep their family together while defeating the aliens on time and under budget?</description>
+<ratings>
+<permanent count="100">5.37</permanent>
+<temporary count="100">6.37</temporary>
+</ratings>
+<picture>69885.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1257</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1962</identifier>
+</externalentity>
+<externalentity>
+<identifier>6579</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>924</identifier>
+<identifier>qcejsj</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.bandaivisual.co.jp/boei/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>地球防衛家族</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234320</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2202" parentid="2846" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2623" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="2624" parentid="2612" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2653" parentid="2853" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2655" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2749" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="2770" parentid="2653" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-25">
+<name>violent retribution for accidental infringement</name>
+<description>A comedy / slapstick element often found in Ecchi anime: The hilarity derives from spontaneous embarrassment, overreaction of the "victim" (girl), immediate retribution for a seemingly inappropriate act, and a sense of pity with the supposed "aggressor" (boy).
+Typically a boy will - through no fault of his own - stumble into a girl, thus invading her personal space. In the process the boy may e.g. pull down her skirt, grab the girl`s breasts, or accidentally kiss her. Any level-headed girl would see the accident just for what it is. Not so the girl with an overly developed sense of modesty, and a thing for violence. She - often a tsundere - will clobber the boy with excessive brutality.</description>
+</tag>
+<tag id="2826" parentid="2856" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-27">
+<name>pantsu</name>
+<description>"Panties" in Japanese. Upskirt views in various positions are typical, however all forms of partial or fully exposed panties are accepted. Exposure is usually accidental, but may also be deliberate. Pantsu views may be exclusive to the viewer without impacting any characters. Bikinis are not pantsu.</description>
+<picurl>5721.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2842" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-19">
+<name>incest</name>
+<description>Incest is human sexual activity between family members or close relatives by consanguinity (blood relations) and sometimes by affinity (marriage or stepfamily), adoption, clan, or lineage. The incest taboo is among the most widespread cultural taboos in present and past societies. Most modern societies have laws regarding incest or social restrictions on closely consanguineous marriages, with first cousins being the closest kin that is often (but not always) considered legally acceptable.
+Source: Wikipedia</description>
+<picurl>210769.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2852" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-11">
+<name>thriller</name>
+<description>The thriller is a genre of fiction in which tough, resourceful, but essentially ordinary heroes are pitted against villains determined to destroy them, their country, or the stability of the free world. The hero of a typical thriller faces danger alone or in the company of a small band of companions. The protagonist may be a law enforcement agent, a journalist, or a soldier, but typically he or she is cut off from the resources of "their" organization. More often the hero is an ordinary citizen drawn into danger and intrigue by circumstances beyond their control.
+Source: Wikipedia</description>
+<picurl>214683.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2856" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-05">
+<name>ecchi</name>
+<description>Fan service is found in many anime, in many forms. When the service has a distinctly sexual slant to it, and it appears to be a major focus of the show, then it`s safe to assume you`re watching ecchi.
+The word "ecchi" is used by English-speaking anime fans to refer to refer to soft-core pornographic or sexually suggestive anime and manga. This is a western invention; in Japanese, it is a catch-all term for all things anyhow sexual in nature, not being limited to porn, but also not really considered a "milder" term, as it may also refer to sexual intercourse itself. The term "ecchi" in Japanese comes from the pronunciation of the letter "H" in English, which is rendered into Japanese syllabary as エッチ, which in turn is transliterated in the English alphabet as "ecchi" or "etchi". It is not, as many believe, short for "hentai" -- that, too, seems to be a western invention. It is, however, nearly as misunderstood and misapplied a term as "hentai".
+The line between ecchi and hentai, from the western perspective over these terms, can be hard to draw at times; one good rule of thumb is: if it was aired on Japanese public TV at all, it probably wasn`t hentai. Ecchi usually features all the specifics to human anatomy that can only be found in anime, and generally avoids full nudity, instead abusing of panty shots. Hentai, on the other hand, will usually show full frontal nudity in some explicit form, including genitalia, and full, intimate sex scenes. At its mildest, ecchi is composed of double entendres, big misunderstandings, and sexual farce; at its most explicit, it is still in the realm of softcore pornography, with full breast shots, full back nudity and similar content, but no display of genitalia. Another good way to distinguish the two is looking for animated sex scenes; if one is found, you have generally left the genre entirely, though a few borderline exceptions apply here. For AniDB`s purposes, the distinction between explicit ecchi and actual hentai is simple: if it was sold with a 18+ restriction in its country of origin, it is hentai; if it was sold without it, it is ecchi.
+Source: TV Tropes</description>
+<picurl>32416.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3824" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-01-05">
+<name>sentai</name>
+<description>In Japanese, sentai is a military unit, and may be translated as "squadron", "task force", "group" or "wing". In the anime fandom, however, it usually refers to the Super Sentai Series, a long-running superhero team franchise of http://anidb.net/t5000 [tokusatsu] shows featuring live action characters and colorful special effects, and other similar shows. A prominent characteristic of such shows is that the colour- and elemental-coded heroes, usually numbering around five or more, fight to save the world from the evil that terrorizes the area, which may even span the entire universe.</description>
+</tag>
+<tag id="3887" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-09-30">
+<name>cheating</name>
+<description>Cheating is an act of lying, deception, fraud, trickery, imposture, or imposition. Cheating characteristically is employed to create an unfair advantage, usually in one`s own interest, and often at the expense of others. Cheating implies the breaking of rules.
+Note: In the game of Mahjong you HAVE to cheat to win.</description>
+</tag>
+<tag id="4455" parentid="6249" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-15">
+<name>dysfunctional family</name>
+<description>When the nuclear family (Mother, Father and child(ren)) goes boom due to conflicts between family members, sometimes resulting in the breakup of the family or even violence.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+<tag id="6249" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-31">
+<name>family life</name>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="7517" type="main character in" update="2009-05-27">
+<name>Daichi Dai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>26178.jpg</picture>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+<character id="9816" type="main character in" update="2009-06-23">
+<name>Daichi Mamoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>29809.jpg</picture>
+<seiyuu id="406" picture="186436.jpg">Kamiya Akira</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="6824" update="2010-05-17">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2001-01-16</airdate>
+<title xml:lang="ja">みんなバラバラ</title>
+<title xml:lang="en">The Broken Family</title>
+<title xml:lang="x-jat">Minna Barabara</title>
+</episode>
+<episode id="6825" update="2010-05-17">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2001-01-09</airdate>
+<rating votes="1">8.19</rating>
+<title xml:lang="ja">地球最期の日</title>
+<title xml:lang="en">Earth`s Final Day</title>
+<title xml:lang="x-jat">Chikyuu Saigo no Hi</title>
+</episode>
+<episode id="46039" update="2010-05-17">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2001-01-23</airdate>
+<title xml:lang="ja">いえろおかあど</title>
+<title xml:lang="en">Yellow Card</title>
+<title xml:lang="x-jat">Yellow Card</title>
+</episode>
+<episode id="46040" update="2010-05-17">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2001-01-30</airdate>
+<title xml:lang="ja">仰天! 大地家の変</title>
+<title xml:lang="en">Surprise! The Daichi Family`s Weird</title>
+<title xml:lang="x-jat">Gyouten! Daichika no Hen</title>
+</episode>
+<episode id="46041" update="2010-05-17">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2001-02-06</airdate>
+<title xml:lang="ja">特訓! 眠れない夜</title>
+<title xml:lang="en">Special Training! Sleepless Nights</title>
+<title xml:lang="x-jat">Tokkun! Nemurenai Yoru</title>
+</episode>
+<episode id="48582" update="2010-05-17">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2001-02-13</airdate>
+<title xml:lang="ja">戦士の休息</title>
+<title xml:lang="en">Warriors` Rest</title>
+<title xml:lang="x-jat">Senshi no Kyuusoku</title>
+</episode>
+<episode id="48583" update="2010-05-17">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2001-02-20</airdate>
+<title xml:lang="ja">雨の中のアイツ</title>
+<title xml:lang="en">The Guy in the Rain</title>
+<title xml:lang="x-jat">Ame no Naka no Aitsu</title>
+</episode>
+<episode id="48584" update="2010-05-17">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2001-02-27</airdate>
+<title xml:lang="ja">わかいい侵略者</title>
+<title xml:lang="en">The Cute Invaders</title>
+<title xml:lang="x-jat">Wakaii Shinryakusha</title>
+</episode>
+<episode id="48585" update="2010-05-17">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2001-03-06</airdate>
+<title xml:lang="ja">愛が地球を滅ぼす日</title>
+<title xml:lang="en">The Day Love Destroys Earth</title>
+<title xml:lang="x-jat">Ai ga Chikyuu o Horobosuhi</title>
+</episode>
+<episode id="48586" update="2010-05-17">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2001-03-13</airdate>
+<title xml:lang="ja">ハチ公前, 夜8時</title>
+<title xml:lang="en">Eight O`Clock at Hachiko Plaza</title>
+<title xml:lang="x-jat">Hachikouzen, Yoru 8-ji</title>
+</episode>
+<episode id="48587" update="2010-05-17">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2001-03-20</airdate>
+<title xml:lang="ja">戦慄! 大地家の深い闇</title>
+<title xml:lang="en">The Darkness Hanging Over the Daichis</title>
+<title xml:lang="x-jat">Senritsu! Daichika no Fukai Yami</title>
+</episode>
+<episode id="48588" update="2010-05-17">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2001-03-27</airdate>
+<title xml:lang="ja">炎のバースディ</title>
+<title xml:lang="en">The Birthday of Flames</title>
+<title xml:lang="x-jat">Honoo no Birthday</title>
+</episode>
+<episode id="48589" update="2010-05-17">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2001-03-29</airdate>
+<title xml:lang="ja">決戦! 花束を君に...</title>
+<title xml:lang="en">Final Battle! Flowers for You!</title>
+<title xml:lang="x-jat">Kessen! Hanataba o Kimi ni...</title>
+</episode>
+<episode id="48590" update="2014-03-15">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2002-11-25</airdate>
+<title xml:lang="ja">絶叫!愛の迷宮地獄</title>
+<title xml:lang="en">Into the Depths of Marital Hell (Alternative Ep. 11)</title>
+<title xml:lang="x-jat">Zekkyou! Ai no Meikyuu Jigoku</title>
+</episode>
+<episode id="49595" update="2006-05-03">
+<epno type="2">S2</epno>
+<length>1</length>
+<title xml:lang="en">Alternate Episode 12 Scene</title>
+</episode>
+<episode id="90771" update="2008-05-17">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+<episode id="91301" update="2008-06-10">
+<epno type="3">C1</epno>
+<length>1</length>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="125349" update="2010-11-20">
+<epno type="3">C2</epno>
+<length>0</length>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="125350" update="2010-11-20">
+<epno type="4">T2</epno>
+<length>0</length>
+<title xml:lang="en">Promotional Clips</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12030" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2017-01-08</startdate>
+<enddate>2017-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Reikenzan: Eichi e no Shikaku</title>
+<title xml:lang="en" type="synonym">Spirit Blade Mountain 2nd season</title>
+<title xml:lang="ja" type="official">霊剣山 叡智への資格</title>
+<title xml:lang="zh-Hans" type="official">从前有座灵剑山 第二季</title>
+</titles>
+<relatedanime>
+<anime id="11784" type="Prequel">Reikenzan: Hoshikuzu-tachi no Utage</anime>
+</relatedanime>
+<url>http://reikenzan.net/</url>
+<creators>
+<name id="730" type="Animation Work">Studio Deen</name>
+<name id="5944" type="Character Design">Ryuuno Tatsuo</name>
+<name id="4257" type="Series Composition">Nishizawa Susumu</name>
+<name id="4257" type="Direction">Nishizawa Susumu</name>
+<name id="44574" type="Music">Kawasaki Ryou</name>
+<name id="55650" type="Original Work">Tencent Dongman</name>
+</creators>
+<description>After two years of studying within the Reiken clan, http://anidb.net/ch78390 [Ouriku] and other inexperienced disciples are ordered to descend to the temporal world for further studies, and Ouriku embarks the journey back to his birthplace.
+Source: ANN</description>
+<ratings>
+<permanent count="196">4.41</permanent>
+<temporary count="198">6.39</temporary>
+</ratings>
+<picture>196410.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18800</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33019</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://reikenzan.net/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>霊剣山</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4431</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359059</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19895</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>Reikenzan</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6690" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-07-12">
+<name>Sino-Japanese co-production</name>
+</tag>
+</tags>
+<characters>
+<character id="78871" type="secondary cast in" update="2017-02-27">
+<rating votes="2">1.36</rating>
+<name>Ouchuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180580.jpg</picture>
+<seiyuu id="41754" picture="181639.jpg">Kobayashi Daiki</seiyuu>
+</character>
+<character id="78872" type="main character in" update="2017-03-01">
+<rating votes="15">6.99</rating>
+<name>Oubu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>199007.jpg</picture>
+<seiyuu id="1900" picture="156922.jpg">Yamaguchi Yuriko</seiyuu>
+</character>
+<character id="79969" type="main character in" update="2017-02-27">
+<rating votes="7">6.64</rating>
+<name>Rei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182620.jpg</picture>
+<seiyuu id="4712" picture="27521.jpg">Nakamura Eriko</seiyuu>
+</character>
+<character id="79971" type="secondary cast in" update="2017-02-27">
+<rating votes="1">3.80</rating>
+<name>Shushin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182625.jpg</picture>
+<seiyuu id="39076" picture="181640.jpg">Itou Kento</seiyuu>
+</character>
+<character id="79972" type="appears in" update="2017-01-12">
+<rating votes="3">8.88</rating>
+<name>Rurisen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>64676.png</picture>
+<seiyuu id="37896" picture="138980.jpg">Hatanaka Marie</seiyuu>
+</character>
+<character id="81772" type="appears in" update="2016-04-19">
+<name>Gaku Keiyou</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185919.jpg</picture>
+<seiyuu id="28794" picture="223534.jpg">Satou Miyuki</seiyuu>
+</character>
+<character id="87872" type="secondary cast in" update="2017-02-24">
+<rating votes="1">1.18</rating>
+<name>Kain</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198798.jpg</picture>
+<seiyuu id="3383" picture="24325.jpg">Oobayashi Ryuusuke</seiyuu>
+</character>
+<character id="87873" type="secondary cast in" update="2017-02-24">
+<name>Shuu-sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198795.jpg</picture>
+<seiyuu id="1441" picture="18827.jpg">Tsuboi Tomohiro</seiyuu>
+</character>
+<character id="87874" type="secondary cast in" update="2017-02-24">
+<name>Kotora</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198796.jpg</picture>
+<seiyuu id="34508" picture="211755.jpg">Tokuishi Katsuhiro</seiyuu>
+</character>
+<character id="87875" type="secondary cast in" update="2017-02-24">
+<name>Ryanshuu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198797.jpg</picture>
+<seiyuu id="28794" picture="223534.jpg">Satou Miyuki</seiyuu>
+</character>
+<character id="87876" type="secondary cast in" update="2017-02-24">
+<name>Oufuuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198793.jpg</picture>
+<seiyuu id="688" picture="18295.jpg">Tanaka Kan</seiyuu>
+</character>
+<character id="87877" type="secondary cast in" update="2017-02-24">
+<name>Ouzuishi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198794.jpg</picture>
+<seiyuu id="36943" picture="223626.jpg">Kobayashi Misa</seiyuu>
+</character>
+<character id="87878" type="secondary cast in" update="2017-02-24">
+<name>Youshojin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198801.jpg</picture>
+<seiyuu id="343" picture="140430.jpg">Genda Tesshou</seiyuu>
+</character>
+<character id="87879" type="secondary cast in" update="2017-02-24">
+<name>Shachi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198800.jpg</picture>
+<seiyuu id="3098" picture="36733.jpg">Ugaki Hidenari</seiyuu>
+</character>
+<character id="87880" type="secondary cast in" update="2017-02-24">
+<rating votes="2">2.64</rating>
+<name>Muhika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198799.jpg</picture>
+<seiyuu id="253" picture="222833.jpg">Yuzuki Ryouka</seiyuu>
+</character>
+<character id="87881" type="secondary cast in" update="2017-02-27">
+<rating votes="1">1.04</rating>
+<name>Ouro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198802.jpg</picture>
+<seiyuu id="586" picture="171556.jpg">Yonaga Tsubasa</seiyuu>
+</character>
+<character id="87942" type="main character in" update="2017-02-27">
+<rating votes="1">1.18</rating>
+<name>Ouriku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198904.jpg</picture>
+<seiyuu id="586" picture="171556.jpg">Yonaga Tsubasa</seiyuu>
+</character>
+<character id="87943" type="secondary cast in" update="2017-02-27">
+<rating votes="1">2.39</rating>
+<name>Bunhou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198908.jpg</picture>
+<seiyuu id="40456" picture="181638.jpg">Hayashi Daichi</seiyuu>
+</character>
+<character id="87944" type="secondary cast in" update="2017-02-27">
+<name>Kaiunho</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198909.jpg</picture>
+<seiyuu id="16886" picture="151720.jpg">Nishida Masakazu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="183211" update="2016-12-27">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-01-29</airdate>
+<rating votes="1">9.92</rating>
+<title xml:lang="ja">法壇</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Houdan</title>
+</episode>
+<episode id="183212" update="2016-12-27">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-01-22</airdate>
+<rating votes="2">5.41</rating>
+<title xml:lang="ja">新教設立</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Shinkyou Setsuritsu</title>
+</episode>
+<episode id="183213" update="2016-12-27">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-01-15</airdate>
+<rating votes="2">5.41</rating>
+<title xml:lang="ja">戦いの始まり</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Tatakai no Hajimari</title>
+</episode>
+<episode id="183214" update="2016-12-27">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-01-08</airdate>
+<rating votes="2">5.46</rating>
+<title xml:lang="ja">帰郷</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kikyou</title>
+</episode>
+<episode id="183545" update="2017-01-07">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2017-01-08</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="183546" update="2017-01-07">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-01-08</airdate>
+<rating votes="1">7.63</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="183867" update="2017-01-22">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-02-26</airdate>
+<title xml:lang="ja">血雲峡</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Ketsuunkyou</title>
+</episode>
+<episode id="183868" update="2017-01-22">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-02-19</airdate>
+<title xml:lang="ja">決着</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Kecchaku</title>
+</episode>
+<episode id="183869" update="2017-01-22">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-02-12</airdate>
+<rating votes="1">5.25</rating>
+<title xml:lang="ja">乾元燃血功</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Kengen Nekketsu Kou</title>
+</episode>
+<episode id="183870" update="2017-01-22">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-02-05</airdate>
+<rating votes="1">7.13</rating>
+<title xml:lang="ja">仙人への道</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Sennin e no Michi</title>
+</episode>
+<episode id="184743" update="2017-02-19">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-03-26</airdate>
+<title xml:lang="ja">新たなる旅立ち</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Aratanaru Tabidachi</title>
+</episode>
+<episode id="184744" update="2017-02-19">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-03-19</airdate>
+<title xml:lang="ja">問心剣</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Monshinken</title>
+</episode>
+<episode id="184745" update="2017-02-19">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-03-12</airdate>
+<title xml:lang="ja">召喚</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Shoukan</title>
+</episode>
+<episode id="184746" update="2017-02-19">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-03-05</airdate>
+<title xml:lang="ja">再会</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Saikai</title>
+</episode>
+</episodes>
+</anime>

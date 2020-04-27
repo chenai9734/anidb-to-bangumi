@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7466" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>1998-08-01</startdate>
+<enddate>1998-08-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Impression of First Gundam</title>
+<title xml:lang="ja" type="synonym">ジ・インプレッション・オブ・ファーストガンダム</title>
+<title xml:lang="ja" type="official">The Impression of First GUNDAM</title>
+</titles>
+<relatedanime>
+<anime id="715" type="Full Story">Kidou Senshi Gundam</anime>
+<anime id="4741" type="Other">Gundam: Mission to the Rise</anime>
+</relatedanime>
+<url>http://www.sunrisest.jp/archives/detail.html?i=183</url>
+<creators>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="147" type="Original Work">Tomino Yoshiyuki</name>
+<name id="6726" type="Series Composition">Sakaguchi Kazuhisa</name>
+</creators>
+<description>Screened together with http://anidb.net/a4741 [Gundam: Mission to the Rise] at Gundam`s 20th Anniversary event "Gundam Big Bang Sengen" in Pacifico Yokohama National Convention Hall.
+Selected scenes from http://anidb.net/a715 [Kidou Senshi Gundam] were re-edited for three giant projection screens to give the widescreen feel to the original 4:3 aspect footage. They were also computer synchronized to sweeping lights and lasers to simulate space battles. The soundtrack was remixed for six-channel surround sound.</description>
+<ratings>
+<permanent count="61">2.80</permanent>
+<temporary count="62">4.29</temporary>
+</ratings>
+<picture>3149.gif</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19977</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sunrisest.jp/archives/detail.html?i=183</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="3216" parentid="2626" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-25">
+<name>Universal Century</name>
+<description>Refers to the Universal Century timeline in Gundam anime. Gundam anime with this tag all belong in the same universe.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="117260" update="2010-03-31">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1998-08-01</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

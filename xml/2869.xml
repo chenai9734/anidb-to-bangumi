@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2869" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1980-05-03</startdate>
+<enddate>1980-05-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Wakakusa Monogatari</title>
+<title xml:lang="ja" type="official">若草物語</title>
+<title xml:lang="en" type="official">Little Women (1980)</title>
+<title xml:lang="el" type="official">Μικρές Κυριες</title>
+</titles>
+<relatedanime>
+<anime id="2868" type="Prequel">Wakakusa no Yon Shimai</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="4155" type="Direction">Serikawa Yuugo</name>
+<name id="4808" type="Music">Aoki Nozomi</name>
+<name id="8582" type="Original Work">Louisa May Alcott</name>
+</creators>
+<description>* Based on the novel, Little Women, by http://anidb.net/cr8582 [Louisa May Alcott].
+A year in the lives of four sisters, Meg, Jo, Beth, and Amy as their father is away fighting in the American Civil War.</description>
+<ratings>
+<permanent count="28">5.59</permanent>
+<temporary count="28">5.64</temporary>
+</ratings>
+<picture>242109.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9002</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4991</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://corp.toei-anim.co.jp/english/film/little_women.php</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235591</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2479</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="52353" update="2010-04-16">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1980-05-03</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

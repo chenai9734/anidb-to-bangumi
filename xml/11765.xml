@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11765" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>1984</startdate>
+<enddate>1984</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Broots</title>
+<title xml:lang="en" type="synonym">Mighty Orbots Pilot</title>
+<title xml:lang="en" type="synonym">Brutes</title>
+<title xml:lang="ja" type="official">BROOTS</title>
+</titles>
+<relatedanime>
+<anime id="5195" type="Alternative Setting">Mighty Orbots</anime>
+</relatedanime>
+<description>The original six-minute "pilot" featured a slightly different version of Might Orbots called Broots (pronounced "Brutes"). Rob and Ono looked similar to their `finished` selves, though definitively more late 70s-like. The Orbots, while having the same names as in the finished product, are subtly different, and obviously unfinished. Even their combined form aka "Super-Broots" would go through some more developmental evolution before becoming Mighty Orbots.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="34">2.72</permanent>
+<temporary count="34">4.08</temporary>
+</ratings>
+<picture>179253.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28305</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mighty_Orbots</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="173703" update="2015-12-08">
+<epno type="1">1</epno>
+<length>6</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

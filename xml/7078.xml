@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7078" restricted="false">
+<type>TV Series</type>
+<episodecount>143</episodecount>
+<startdate>2009-10-12</startdate>
+<enddate>2012-09-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tamagotchi!</title>
+<title xml:lang="ja" type="official">たまごっち!</title>
+</titles>
+<relatedanime>
+<anime id="9420" type="Sequel">Tamagotchi! Yume Kira Dream</anime>
+<anime id="6321" type="Other">Saa Ikou! Tamagotchi</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/tamagotchi/</url>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="5374" type="Series Composition">Matsui Aya</name>
+<name id="6607" type="Direction">Shimura Jouji</name>
+</creators>
+<description>The daily lives of the Tamagotchi, with new characters and settings.</description>
+<ratings>
+<permanent count="8">3.62</permanent>
+<temporary count="8">4.87</temporary>
+</ratings>
+<picture>36429.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>10958</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6900</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4599</identifier>
+<identifier>lhdmwf</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/tamagotchi/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Tamagotchi!_(anime)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>たまごっち!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1779</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>335111</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12045</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+</tags>
+<characters>
+<character id="31572" type="main character in" update="2011-04-26">
+<rating votes="8">5.12</rating>
+<name>Mametchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70562.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="31573" type="secondary cast in" update="2011-04-26">
+<rating votes="6">7.27</rating>
+<name>Memetchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70563.jpg</picture>
+<seiyuu id="253" picture="222833.jpg">Yuzuki Ryouka</seiyuu>
+</character>
+<character id="31574" type="secondary cast in" update="2011-04-26">
+<rating votes="6">7.27</rating>
+<name>Kuchipatchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70564.jpg</picture>
+<seiyuu id="12373" picture="223463.jpg">Yaguchi Asami</seiyuu>
+</character>
+<character id="31576" type="secondary cast in" update="2011-04-26">
+<name>Lovelitchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70567.jpg</picture>
+<seiyuu id="453" picture="45925.jpg">Shindou Kei</seiyuu>
+</character>
+<character id="31577" type="secondary cast in" update="2011-04-26">
+<name>Flowertchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70568.jpg</picture>
+<seiyuu id="10854" picture="38961.jpg">Sasaki Hinako</seiyuu>
+</character>
+<character id="31578" type="secondary cast in" update="2011-04-26">
+<name>Makiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70569.jpg</picture>
+<seiyuu id="319" picture="228606.jpg">Okamura Akemi</seiyuu>
+</character>
+<character id="31579" type="secondary cast in" update="2011-04-26">
+<name>KuroMametchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70570.jpg</picture>
+<seiyuu id="402" picture="17249.jpg">Katou Nanae</seiyuu>
+</character>
+<character id="31580" type="secondary cast in" update="2011-04-26">
+<name>Gozarutchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70571.jpg</picture>
+<seiyuu id="2364" picture="151724.jpg">Furushima Kiyotaka</seiyuu>
+</character>
+<character id="31581" type="secondary cast in" update="2011-04-26">
+<name>Uwasatchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70572.jpg</picture>
+<seiyuu id="2413" picture="22272.jpg">Mizuta Wasabi</seiyuu>
+</character>
+<character id="31582" type="secondary cast in" update="2011-04-26">
+<name>Spacytchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70573.jpg</picture>
+<seiyuu id="2674" picture="41437.jpg">Kase Yasuyuki</seiyuu>
+</character>
+<character id="31583" type="secondary cast in" update="2011-04-27">
+<rating votes="3">3.20</rating>
+<name>ChaMametchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70574.jpg</picture>
+<seiyuu id="2228" picture="21776.jpg">Gibu Yuuko</seiyuu>
+</character>
+<character id="31584" type="appears in" update="2011-04-27">
+<name>Mamametchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70585.jpg</picture>
+<seiyuu id="3601" picture="38507.jpg">Kawase Akiko</seiyuu>
+</character>
+<character id="31585" type="secondary cast in" update="2011-04-27">
+<name>Akasupetchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70576.jpg</picture>
+<seiyuu id="3768" picture="188710.jpg">Hino Miho</seiyuu>
+</character>
+<character id="31586" type="appears in" update="2011-04-27">
+<name>Piposupetchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70577.jpg</picture>
+</character>
+<character id="31587" type="appears in" update="2011-04-27">
+<name>Lovepapalitchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70578.jpg</picture>
+<seiyuu id="4741" picture="45560.jpg">Konno Jun</seiyuu>
+</character>
+<character id="31588" type="appears in" update="2011-04-27">
+<name>Lovemamalitchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70579.jpg</picture>
+<seiyuu id="5979" picture="30602.jpg">Fujimura Chika</seiyuu>
+</character>
+<character id="31589" type="secondary cast in" update="2011-04-27">
+<name>Lovelin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70580.jpg</picture>
+<seiyuu id="453" picture="45925.jpg">Shindou Kei</seiyuu>
+</character>
+<character id="31590" type="appears in" update="2011-04-27">
+<name>Papamametchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70581.jpg</picture>
+<seiyuu id="2248" picture="170362.jpg">Kawashima Tokuyoshi</seiyuu>
+</character>
+<character id="31591" type="appears in" update="2011-04-27">
+<name>Memepapatchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70582.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+<character id="31592" type="appears in" update="2011-04-27">
+<name>Gotchiman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70583.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+<character id="31593" type="appears in" update="2011-04-27">
+<name>Adtchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70584.jpg</picture>
+<seiyuu id="4741" picture="45560.jpg">Konno Jun</seiyuu>
+</character>
+<character id="31594" type="secondary cast in" update="2011-04-27">
+<name>Kikitchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70575.jpg</picture>
+<seiyuu id="2069" picture="170535.jpg">Yamaguchi Mayumi</seiyuu>
+</character>
+<character id="31595" type="appears in" update="2011-04-27">
+<name>Kumattatatchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70587.jpg</picture>
+<seiyuu id="10854" picture="38961.jpg">Sasaki Hinako</seiyuu>
+</character>
+<character id="31596" type="appears in" update="2011-04-27">
+<name>Dorotchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70588.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="109125" update="2009-10-06">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2009-10-12</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ワクワク! たまストリートで大レース / ドキドキ! ラブリンは誰にほほえむ?</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="109331" update="2009-10-12">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2009-10-19</airdate>
+<title xml:lang="ja">キュン! たまごっちスクールの転校生 / どこどこ? ラブリっちのおうち</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="110783" update="2009-10-19">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2009-10-26</airdate>
+<title xml:lang="ja">ゴーゴー! TAMAX-TV見学 / クラクラ! いきなり生放送</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="111138" update="2009-11-02">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2009-11-02</airdate>
+<title xml:lang="ja">シンケン! レインボーそりっち作戦 / ハラハラ! ラブリンコンサート</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="111197" update="2009-11-02">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2009-11-09</airdate>
+<title xml:lang="ja">ワイワイ! たまとも大調査 / ラブリン大追跡! だわさ</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="111312" update="2009-11-09">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2009-11-16</airdate>
+<title xml:lang="ja">ヒ・ミ・ツ! まめっちの誕生日 / キ・メ・タ! ラブリンの告白</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="111490" update="2009-11-16">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2009-11-23</airdate>
+<title xml:lang="ja">ええっ! まめちゃまめっち / パチリ! ハチャメチャさつえい会</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="111666" update="2009-11-23">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2009-11-30</airdate>
+<title xml:lang="ja">たまスペ! カメラは見た! / ピンチ! 南の島大脱出!</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="111788" update="2009-11-30">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2009-12-07</airdate>
+<title xml:lang="ja">と~じょ~! あんパン刑事(デカ)! / まて~! 怪盗パピヨン</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="111891" update="2009-12-07">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2009-12-14</airdate>
+<title xml:lang="ja">時ラブ? メッセージボトルで大混乱 / ふわふわ! 届けクリスマスカード</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="112062" update="2009-12-15">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2009-12-21</airdate>
+<title xml:lang="ja">キラキラ! 仮装でクリスマス / ぐるぐる? 迷子のアカハナっち</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="112207" update="2009-12-21">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2009-12-23</airdate>
+<title xml:lang="ja">ゆけゆけ! ちびっこトリオ / ゴクゴク! パンプキンスープの泉</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="112234" update="2009-12-23">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2010-01-04</airdate>
+<title xml:lang="ja">ピポパポ! たまごっち星征服? / キラ~ン! ラブリン氷上に舞う</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="112414" update="2010-01-04">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2010-01-11</airdate>
+<title xml:lang="ja">ズバッ! ごっちがきる! / すてき! 若きぱぱまめっちの冒険</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="113015" update="2010-01-11">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2010-01-18</airdate>
+<title xml:lang="ja">うわさの親子! だわさ / ハピハピっちがんばる! ワン!</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="113150" update="2010-01-20">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2010-01-25</airdate>
+<title xml:lang="ja">ききっち! 今夜は眠れない / クールくろまめっちの旅</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="113261" update="2010-01-25">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2010-02-01</airdate>
+<title xml:lang="ja">バラン? タコウィンナーっちの秘密 / ままーめままめ! マーメの日</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="116142" update="2010-02-01">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2010-02-08</airdate>
+<title xml:lang="ja">ソワソワ! ラブリンチョコのゆくえは? / いっぱい! エブリーラブリンチョコ</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="116330" update="2010-02-08">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2010-02-15</airdate>
+<title xml:lang="ja">おさわがせ! TAMAラッキーくじ / ピンポーン! 次から次へとお客さま</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="116454" update="2010-02-15">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2010-02-22</airdate>
+<title xml:lang="ja">ポポン! 笑いで花を咲かせましょう / 決戦! ドーナツコンテスト</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="116552" update="2010-02-22">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2010-03-01</airdate>
+<title xml:lang="ja">男子はダメよ! ひめまつり / まさか! 虫歯きんでむしばっち?</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="116708" update="2010-03-01">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2010-03-08</airdate>
+<title xml:lang="ja">いいかも~! うらないっちの占い / ききっち! 修行はきびしいでござる</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="116808" update="2010-03-08">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2010-03-15</airdate>
+<title xml:lang="ja">ソーダツ! エブリーラブリンチョコ / キョーレツ! まめっち・ヴァンパイア</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="116914" update="2010-03-15">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2010-03-22</airdate>
+<title xml:lang="ja">GOTCHIMAN! フォーエバー / くるりん! トレビアンなフルーツシェイク</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="117052" update="2010-03-22">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2010-03-29</airdate>
+<title xml:lang="ja">ウソッ!? たまプリルフール / ドキッ! 花言葉でラブパニック</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="117322" update="2010-04-01">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2010-04-12</airdate>
+<title xml:lang="ja">まぼろし? 真実のくちぱっち / ゆめ? 不思議なメール</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="117715" update="2010-04-13">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2010-04-19</airdate>
+<title xml:lang="ja">タイムスリップ! ジャングルたまごっち星 / スーパーヒロイン! テルリン誕生</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="117839" update="2010-04-19">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2010-04-26</airdate>
+<title xml:lang="ja">テルリン! TAMAX-TVへ / テルリン! たまごっちスクールへ</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="117984" update="2010-04-26">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2010-05-03</airdate>
+<title xml:lang="ja">ボーノ! はじけるフルーツシェイク / オーレ! たまワールドカップ</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="118140" update="2010-05-03">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2010-05-10</airdate>
+<title xml:lang="ja">あっちも! こっちも! ままめっち / ラブリっちの母の日</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Acchi mo! Kocchi mo! Mamamecchi / Lovelycchi no Haha no Hi</title>
+</episode>
+<episode id="118278" update="2010-05-10">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2010-05-17</airdate>
+<title xml:lang="ja">どっち? 怪盗パピヨン再び / 解決! ラブリン&amp;テルリン最初の事件</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="118344" update="2010-05-11">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2010-06-07</airdate>
+<title xml:lang="ja">ジャジャン! 番組対抗クイズバトル / ワンツーワンツー! レッツダンチュ</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="118345" update="2010-05-11">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2010-05-31</airdate>
+<title xml:lang="ja">ボカーン! きょうだいゲンカ? / 新ヒーロー? ぱっちマンだっち</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="118346" update="2010-05-11">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2010-05-24</airdate>
+<title xml:lang="ja">スペイシーブラザーズのお引越 / 特訓! ファイトー! バーゲンセール</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="118717" update="2010-06-07">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2010-06-21</airdate>
+<title xml:lang="ja">海の男! キャプテン号っち来航 / タラララララーン! ラブパパリっちの珍メニュー</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="119084" update="2010-06-22">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2010-06-28</airdate>
+<title xml:lang="ja">ピチピチ島! ごっちでバトル / おみせっちでお仕事! ピチ</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="119366" update="2010-06-29">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2010-07-05</airdate>
+<title xml:lang="ja">シュタタ! くのいちラブリンまいる / だれの? スケジュール帳だわさ</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="119541" update="2010-07-05">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2010-07-12</airdate>
+<title xml:lang="ja">スペイシーっち! 史上最大の作戦 / GOTCHIMANの田舎に泊まろう</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="119885" update="2010-07-12">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2010-07-19</airdate>
+<title xml:lang="ja">らるらる! テルリンがラブリン? / さようなら, テルリン</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="120022" update="2010-07-19">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2010-07-26</airdate>
+<title xml:lang="ja">ナツ! とこなつ島だなっつ! / ラブリン! マリンブルー伝説</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="120409" update="2010-07-26">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2010-08-02</airdate>
+<title xml:lang="ja">ゴー! たいふうっちVS秘密基地 / パクリ! 自由研究は命がけ</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="120632" update="2010-08-02">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2010-08-09</airdate>
+<title xml:lang="ja">すっきり! さわやか! ごっちのしずく / たー! ちー! ちびぱっち くちぱっち ぱぱぱっち</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="121125" update="2010-08-10">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2010-08-16</airdate>
+<title xml:lang="ja">ひゃっく! しゃっくりが止まらない / ゴロゴロ! カミナリ! がんこっち</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="121260" update="2010-08-16">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2010-08-23</airdate>
+<title xml:lang="ja">ちゃま! お空を飛びたいです / これって, お料理ごっこだし!</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="121399" update="2010-08-23">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2010-08-30</airdate>
+<title xml:lang="ja">エブリーラブリー 届け! のーすのーすぽいんとへ / マリンブルー! 海賊島で宝探し</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="121605" update="2010-08-31">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2010-09-06</airdate>
+<title xml:lang="ja">ダッチ! マンモスくちぱっちVSメカくちぱっち / おーほっほっほ! めざせ次世代プリンセス</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="121941" update="2010-09-07">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2010-09-13</airdate>
+<title xml:lang="ja">告白! ラブリっちはラブリン / ラブリン! うわさのたまともだわさ</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="122449" update="2010-09-16">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2010-09-20</airdate>
+<title xml:lang="ja">ライバル? アイドル? メロディっち登場 / きせき! エブリーラブリー♪バイオリン</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="122556" update="2010-09-20">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2010-09-27</airdate>
+<title xml:lang="ja">どこどこ? メロディっち&amp;バイオリン / 夢のコラボ! ハッピーハッピーハーモニー</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="122758" update="2010-09-27">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2010-10-11</airdate>
+<title xml:lang="ja">マンボー! メロディっちのリフォーム大作戦 / ハロー! たまごっちスクール</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="122942" update="2014-06-02">
+<epno type="3">C13</epno>
+<length>2</length>
+<airdate>2010-09-27</airdate>
+<title xml:lang="en">Ending 3</title>
+</episode>
+<episode id="122943" update="2014-06-02">
+<epno type="3">C12</epno>
+<length>2</length>
+<airdate>2010-04-12</airdate>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="122944" update="2014-06-02">
+<epno type="3">C11</epno>
+<length>2</length>
+<airdate>2009-10-12</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="122945" update="2010-10-05">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2010-09-27</airdate>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="122946" update="2010-10-05">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2009-10-12</airdate>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="124081" update="2010-10-12">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2010-10-18</airdate>
+<title xml:lang="ja">まめっちのヒミツをみはるでござる / ふわふわ! つくろうたまシュマロ</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="124287" update="2010-10-18">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2010-10-25</airdate>
+<title xml:lang="ja">パンプキンミントン! はじまるだっち / 秋よこいこい! あきつげっち</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="124595" update="2010-10-25">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>2010-11-01</airdate>
+<title xml:lang="ja">ハッピー! 学園祭でお店屋さん / 大変! GOTCHIMANとヒーローショー</title>
+<title xml:lang="en">Episode 53</title>
+</episode>
+<episode id="124861" update="2010-11-01">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>2010-11-08</airdate>
+<title xml:lang="ja">だじゃれはだれじゃ! ごっちリン / たまごっちグランプリ! 猛レース</title>
+<title xml:lang="en">Episode 54</title>
+</episode>
+<episode id="125070" update="2010-11-08">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>2010-11-15</airdate>
+<title xml:lang="ja">夜空にドッカーン! はなびっち / レッツエンジョイ! たまカフェ</title>
+<title xml:lang="en">Episode 55</title>
+</episode>
+<episode id="125225" update="2010-11-15">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>2010-11-22</airdate>
+<title xml:lang="ja">ハッピーバースディ! まめっち / なりきりチャレンジ! 王子様とテニス</title>
+<title xml:lang="en">Episode 56</title>
+</episode>
+<episode id="125428" update="2010-11-23">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>2010-11-29</airdate>
+<title xml:lang="ja">密着! メロディっち24時? / なりきりチャレンジ! 茶道! グレイト!</title>
+<title xml:lang="en">Episode 57</title>
+</episode>
+<episode id="125631" update="2010-11-29">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>2010-12-06</airdate>
+<title xml:lang="ja">レッツゴーグル! 探せバイオリン / なりきりチャレンジ! たまカーリング</title>
+<title xml:lang="en">Episode 58</title>
+</episode>
+<episode id="125828" update="2010-12-06">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>2010-12-13</airdate>
+<title xml:lang="ja">ピンクの! ハートの! メッセンジャーワン! / たまともみんなで! キャロリング</title>
+<title xml:lang="en">Episode 59</title>
+</episode>
+<episode id="126170" update="2010-12-13">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>2010-12-20</airdate>
+<title xml:lang="ja">メリー! スペイシー! クリスマス / ハッピーハッピー! イルミネーション</title>
+<title xml:lang="en">Episode 60</title>
+</episode>
+<episode id="126295" update="2010-12-20">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>2010-12-27</airdate>
+<title xml:lang="ja">3,2,1スタート! ミニTAMAX-TV / ドッキリ! たまステっちのお見合い大作戦</title>
+<title xml:lang="en">Episode 61</title>
+</episode>
+<episode id="126442" update="2010-12-27">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>2011-01-10</airdate>
+<title xml:lang="ja">レッツくのいち修行! でござる / あつあつ! さぶさぶ! 席がえパニック</title>
+<title xml:lang="en">Episode 62</title>
+</episode>
+<episode id="126775" update="2011-01-10">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>2011-01-17</airdate>
+<title xml:lang="ja">おしのび! おでかけ! ラブリン姫 / ドガガーン! とこふゆ島で雪玉合戦!</title>
+<title xml:lang="en">Episode 63</title>
+</episode>
+<episode id="126848" update="2011-01-11">
+<epno type="1">66</epno>
+<length>25</length>
+<airdate>2011-02-07</airdate>
+<title xml:lang="ja">パフパフ! エブリーラブリンチョコ / メロディっちちゃま! かげながら応援でちゅ</title>
+<title xml:lang="en">Episode 66</title>
+</episode>
+<episode id="126849" update="2011-01-11">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>2011-01-31</airdate>
+<title xml:lang="ja">きゅきゅ! 迷子のどれみっち / テレレッテン! メロディチャームの奇跡</title>
+<title xml:lang="en">Episode 65</title>
+</episode>
+<episode id="126850" update="2011-01-11">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>2011-01-24</airdate>
+<title xml:lang="ja">きゅ~きゅ~! メロディランドへの招待状 / みゅ~みゅ~! メロディチャーム誕生</title>
+<title xml:lang="en">Episode 64</title>
+</episode>
+<episode id="127990" update="2011-02-07">
+<epno type="1">67</epno>
+<length>25</length>
+<airdate>2011-02-14</airdate>
+<title xml:lang="ja">激突! ワイワイユーホッケー / 困った! まめっちのいないスクール</title>
+<title xml:lang="en">Episode 67</title>
+</episode>
+<episode id="128100" update="2011-02-10">
+<epno type="1">70</epno>
+<length>25</length>
+<airdate>2011-03-07</airdate>
+<title xml:lang="ja">ビューン! 風のおくりもの / シスターラブリン! ヴァンパイアの花嫁</title>
+<title xml:lang="en">Episode 70</title>
+</episode>
+<episode id="128101" update="2011-02-10">
+<epno type="1">69</epno>
+<length>25</length>
+<airdate>2011-02-28</airdate>
+<title xml:lang="ja">迷推理? あんパン刑事(でか)VSメロディっち捜査官 / 灯台もりっち! 最後の灯</title>
+<title xml:lang="en">Episode 69</title>
+</episode>
+<episode id="128102" update="2011-02-10">
+<epno type="1">68</epno>
+<length>25</length>
+<airdate>2011-02-21</airdate>
+<title xml:lang="ja">ちっちゃいスカウト! まめまめクラブ / ケーキとおしゃべり! ママともクラブ</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Chicchai Scout! Mamemame Club / Cake to Oshaberi! Mama tomo Club</title>
+</episode>
+<episode id="128586" update="2011-03-07">
+<epno type="1">71</epno>
+<length>25</length>
+<airdate>2011-03-14</airdate>
+<title xml:lang="ja">新メンバー? 突然クラスがえ / ヒーロー? アイドル? TAMAX-TVに現る</title>
+<title xml:lang="en">Episode 71</title>
+</episode>
+<episode id="128720" update="2011-03-10">
+<epno type="1">73</epno>
+<length>25</length>
+<airdate>2011-03-28</airdate>
+<title xml:lang="ja">ワタワタ! おしゃべり! わたわたっち / イケイケ! 大食い! くちぱっちVSくいしんぼっち</title>
+<title xml:lang="en">Episode 73</title>
+</episode>
+<episode id="128721" update="2011-03-10">
+<epno type="1">72</epno>
+<length>25</length>
+<airdate>2011-03-21</airdate>
+<title xml:lang="ja">たまもり! よろぴく! もりりっち / まかせてちょんまげ! たまもりショップ</title>
+<title xml:lang="en">Episode 72</title>
+</episode>
+<episode id="129055" update="2011-03-28">
+<epno type="1">74</epno>
+<length>25</length>
+<airdate>2011-04-11</airdate>
+<title xml:lang="ja">シュシュシュ! ケンケンケン! しぐれひめっち城 / オドロキ! 桃の木! アイテムの種</title>
+<title xml:lang="en">Episode 74</title>
+</episode>
+<episode id="129284" update="2011-04-11">
+<epno type="1">75</epno>
+<length>25</length>
+<airdate>2011-04-18</airdate>
+<title xml:lang="ja">スクールまるごと! たまもり! / たまもルームでバッチグー!</title>
+<title xml:lang="en">Episode 75</title>
+</episode>
+<episode id="129392" update="2011-04-12">
+<epno type="1">78</epno>
+<length>25</length>
+<airdate>2011-05-09</airdate>
+<title xml:lang="ja">たまベリー! 母の日ケーキペロ / ママへ! プレゼントたまもり</title>
+<title xml:lang="en">Episode 78</title>
+</episode>
+<episode id="129393" update="2011-04-12">
+<epno type="1">77</epno>
+<length>25</length>
+<airdate>2011-05-02</airdate>
+<title xml:lang="ja">ドッカーン! 発明! ヘヤピカール / はらっぱらっ! テルリンの大冒険</title>
+<title xml:lang="en">Episode 77</title>
+</episode>
+<episode id="129394" update="2011-04-12">
+<epno type="1">76</epno>
+<length>25</length>
+<airdate>2011-04-25</airdate>
+<title xml:lang="ja">キラキラ! たまもり天国 / ヘイカモン! ふらわっちのバースディ</title>
+<title xml:lang="en">Episode 76</title>
+</episode>
+<episode id="130009" update="2011-05-10">
+<epno type="1">79</epno>
+<length>25</length>
+<airdate>2011-05-16</airdate>
+<title xml:lang="ja">スクープ! スペイシーっちの秘密だわさ / 夢の共演? GOTCHIMANvsあんパン刑事</title>
+<title xml:lang="en">Episode 79</title>
+</episode>
+<episode id="130059" update="2011-05-10">
+<epno type="1">82</epno>
+<length>25</length>
+<airdate>2011-06-06</airdate>
+<title xml:lang="ja">こんどはカメラが! パシャリン誕生 / パシャリン! キラキラデビューたまもり</title>
+<title xml:lang="en">Episode 82</title>
+</episode>
+<episode id="130060" update="2011-05-10">
+<epno type="1">81</epno>
+<length>25</length>
+<airdate>2011-05-30</airdate>
+<title xml:lang="ja">ハートにズキュドキュ! たまともキッチンの輪 / ころころ! ぱっちの森のぐりぐりっち</title>
+<title xml:lang="en">Episode 81</title>
+</episode>
+<episode id="130061" update="2011-05-10">
+<epno type="1">80</epno>
+<length>25</length>
+<airdate>2011-05-23</airdate>
+<title xml:lang="ja">ハクネツ! 学級委員選挙 / たまもり! アート対決</title>
+<title xml:lang="en">Episode 80</title>
+</episode>
+<episode id="130696" update="2011-06-06">
+<epno type="1">83</epno>
+<length>25</length>
+<airdate>2011-06-13</airdate>
+<title xml:lang="ja">決定的シュンカン! 写真コンテスト / ピコピココピー! ぱぱまめっち</title>
+<title xml:lang="en">Episode 83</title>
+</episode>
+<episode id="130757" update="2011-06-10">
+<epno type="1">86</epno>
+<length>25</length>
+<airdate>2011-07-04</airdate>
+<title xml:lang="ja">テルリンせんぱい! がんばる / パシャリン! 思い出の写真</title>
+<title xml:lang="en">Episode 86</title>
+</episode>
+<episode id="130758" update="2011-06-10">
+<epno type="1">85</epno>
+<length>25</length>
+<airdate>2011-06-27</airdate>
+<title xml:lang="ja">夏だ! 海だ! ぴちぴっちだ! ぴち / かわいい! 迷子のルビーっち</title>
+<title xml:lang="en">Episode 85</title>
+</episode>
+<episode id="130759" update="2011-06-10">
+<epno type="1">84</epno>
+<length>25</length>
+<airdate>2011-06-20</airdate>
+<title xml:lang="ja">ドォーンと変身! へんしんじょ / 合体! 地獄デビル三姉妹</title>
+<title xml:lang="en">Episode 84</title>
+</episode>
+<episode id="131523" update="2011-07-05">
+<epno type="1">87</epno>
+<length>25</length>
+<airdate>2011-07-11</airdate>
+<title xml:lang="ja">思い出さがして, 走れ! ラブリンカー / パシャリン! カンゲキ! 里帰り</title>
+<title xml:lang="en">Episode 87</title>
+</episode>
+<episode id="131685" update="2011-07-08">
+<epno type="1">91</epno>
+<length>25</length>
+<airdate>2011-08-08</airdate>
+<title xml:lang="ja">心霊写真を撮っちゃった?! / 出張たまもりライブ~ござる村~</title>
+<title xml:lang="en">Episode 91</title>
+</episode>
+<episode id="131686" update="2011-07-08">
+<epno type="1">90</epno>
+<length>25</length>
+<airdate>2011-08-01</airdate>
+<title xml:lang="ja">ラブリンカーで出張ライブ / 暑い夏に生まれたクールな恋だっち</title>
+<title xml:lang="en">Episode 90</title>
+</episode>
+<episode id="131687" update="2011-07-08">
+<epno type="1">89</epno>
+<length>25</length>
+<airdate>2011-07-25</airdate>
+<title xml:lang="ja">TAMAX-TVまつり(前編) / TAMAX-TVまつり(後編)</title>
+<title xml:lang="en">Episode 89</title>
+</episode>
+<episode id="131688" update="2011-07-08">
+<epno type="1">88</epno>
+<length>25</length>
+<airdate>2011-07-18</airdate>
+<title xml:lang="ja">スペイシーっちの恋 / まじょっこフラワーVS地獄デビル三姉妹</title>
+<title xml:lang="en">Episode 88</title>
+</episode>
+<episode id="132364" update="2011-08-11">
+<epno type="1">95</epno>
+<length>25</length>
+<airdate>2011-09-05</airdate>
+<title xml:lang="ja">これって告白? 謎プロフ</title>
+<title xml:lang="en">Episode 95</title>
+</episode>
+<episode id="132365" update="2011-08-11">
+<epno type="1">94</epno>
+<length>25</length>
+<airdate>2011-08-29</airdate>
+<title xml:lang="ja">なかまわれ? 地獄デビル三姉妹 / がんばれ! たまペット大レース</title>
+<title xml:lang="en">Episode 94</title>
+</episode>
+<episode id="132366" update="2011-08-11">
+<epno type="1">93</epno>
+<length>25</length>
+<airdate>2011-08-22</airdate>
+<title xml:lang="ja">でたでたおばけ? 肝だめし / めめっち冒険記 ザ・ワールド</title>
+<title xml:lang="en">Episode 93</title>
+</episode>
+<episode id="132367" update="2011-08-11">
+<epno type="1">92</epno>
+<length>25</length>
+<airdate>2011-08-15</airdate>
+<title xml:lang="ja">夏! エンジョイマシーン / ハッピー! フラワーたまもり</title>
+<title xml:lang="en">Episode 92</title>
+</episode>
+<episode id="132908" update="2011-09-11">
+<epno type="1">96</epno>
+<length>25</length>
+<airdate>2011-09-12</airdate>
+<title xml:lang="ja">もしもーし! プロフマシーンで大混線?</title>
+<title xml:lang="en">Episode 96</title>
+</episode>
+<episode id="132924" update="2011-09-13">
+<epno type="1">97</epno>
+<length>25</length>
+<airdate>2011-09-19</airdate>
+<title xml:lang="ja">誕生! たまプロフィ</title>
+<title xml:lang="en">Episode 97</title>
+</episode>
+<episode id="132973" update="2011-09-13">
+<epno type="1">98</epno>
+<length>25</length>
+<airdate>2011-10-03</airdate>
+<title xml:lang="ja">ライバルのきずな</title>
+<title xml:lang="en">Episode 98</title>
+</episode>
+<episode id="133809" update="2011-10-10">
+<epno type="1">99</epno>
+<length>25</length>
+<airdate>2011-10-10</airdate>
+<title xml:lang="ja">ともみのTAMAX-TVデビュー!?</title>
+<title xml:lang="en">Episode 99</title>
+</episode>
+<episode id="133810" update="2011-10-10">
+<epno type="1">100</epno>
+<length>25</length>
+<airdate>2011-10-17</airdate>
+<title xml:lang="ja">探しものはなんですか?</title>
+<title xml:lang="en">Episode 100</title>
+</episode>
+<episode id="133880" update="2011-10-11">
+<epno type="1">103</epno>
+<length>25</length>
+<airdate>2011-11-07</airdate>
+<title xml:lang="ja">ナゾがいっぱい! きずなっち</title>
+<title xml:lang="en">Episode 103</title>
+</episode>
+<episode id="133881" update="2011-10-11">
+<epno type="1">102</epno>
+<length>25</length>
+<airdate>2011-10-31</airdate>
+<title xml:lang="ja">フーアーユー? お目覚め きずなっち</title>
+<title xml:lang="en">Episode 102</title>
+</episode>
+<episode id="133882" update="2011-10-11">
+<epno type="1">101</epno>
+<length>25</length>
+<airdate>2011-10-24</airdate>
+<title xml:lang="ja">発見! たまサバク 神殿の秘密</title>
+<title xml:lang="en">Episode 101</title>
+</episode>
+<episode id="135010" update="2011-11-29">
+<epno type="1">104</epno>
+<length>25</length>
+<airdate>2011-11-14</airdate>
+<title xml:lang="ja">たまギネスに挑戦だっち!</title>
+<title xml:lang="en">Episode 104</title>
+</episode>
+<episode id="135011" update="2011-11-29">
+<epno type="1">105</epno>
+<length>25</length>
+<airdate>2011-11-21</airdate>
+<title xml:lang="ja">ドラマスペシャル ごっちがヴァンパイア刑事(デカ)?</title>
+<title xml:lang="en">Episode 105</title>
+</episode>
+<episode id="135012" update="2011-11-29">
+<epno type="1">106</epno>
+<length>25</length>
+<airdate>2011-11-28</airdate>
+<title xml:lang="ja">ジ・アースへ! さよならともみ</title>
+<title xml:lang="en">Episode 106</title>
+</episode>
+<episode id="135013" update="2011-11-29">
+<epno type="1">107</epno>
+<length>25</length>
+<airdate>2011-12-05</airdate>
+<title xml:lang="ja">ラブリンショック! まねーねっちの心変わり?</title>
+<title xml:lang="en">Episode 107</title>
+</episode>
+<episode id="135289" update="2011-12-11">
+<epno type="1">108</epno>
+<length>25</length>
+<airdate>2011-12-12</airdate>
+<title xml:lang="ja">メリークリスマス! たまもりツリー対決</title>
+<title xml:lang="en">Episode 108</title>
+</episode>
+<episode id="135737" update="2011-12-28">
+<epno type="1">109</epno>
+<length>25</length>
+<airdate>2011-12-19</airdate>
+<title xml:lang="ja">ミラクルホワイトクリスマス!</title>
+<title xml:lang="en">Episode 109</title>
+</episode>
+<episode id="135738" update="2011-12-28">
+<epno type="1">110</epno>
+<length>25</length>
+<airdate>2011-12-26</airdate>
+<title xml:lang="ja">お外でウキウキ! きずなっち</title>
+<title xml:lang="en">Episode 110</title>
+</episode>
+<episode id="135739" update="2011-12-28">
+<epno type="1">111</epno>
+<length>25</length>
+<airdate>2012-01-09</airdate>
+<title xml:lang="ja">びっくりスタート! 新TAMAX-TV</title>
+<title xml:lang="en">Episode 111</title>
+</episode>
+<episode id="136242" update="2012-01-09">
+<epno type="1">112</epno>
+<length>25</length>
+<airdate>2012-01-16</airdate>
+<title xml:lang="ja">ともみ決心! ジ・アースへ</title>
+<title xml:lang="en">Episode 112</title>
+</episode>
+<episode id="137061" update="2012-02-09">
+<epno type="1">113</epno>
+<length>25</length>
+<airdate>2012-01-23</airdate>
+<title xml:lang="ja">怖がりききっち大特訓!</title>
+<title xml:lang="en">Episode 113</title>
+</episode>
+<episode id="137062" update="2012-02-09">
+<epno type="1">114</epno>
+<length>25</length>
+<airdate>2012-01-30</airdate>
+<title xml:lang="ja">ギガキュン! 謎の転校生ひめスペっち</title>
+<title xml:lang="en">Episode 114</title>
+</episode>
+<episode id="137063" update="2012-02-09">
+<epno type="1">115</epno>
+<length>25</length>
+<airdate>2012-02-06</airdate>
+<title xml:lang="ja">嵐の予感!?ひめスペフォン占い</title>
+<title xml:lang="en">Episode 115</title>
+</episode>
+<episode id="137064" update="2012-02-09">
+<epno type="1">116</epno>
+<length>25</length>
+<airdate>2012-02-13</airdate>
+<title xml:lang="ja">伝説のラブラブパワースポット</title>
+<title xml:lang="en">Episode 116</title>
+</episode>
+<episode id="137156" update="2012-02-13">
+<epno type="1">117</epno>
+<length>25</length>
+<airdate>2012-02-20</airdate>
+<title xml:lang="ja">ドタバタ収録! あんパン刑事(デカ)</title>
+<title xml:lang="en">Episode 117</title>
+</episode>
+<episode id="137976" update="2014-06-02">
+<epno type="3">C10</epno>
+<length>2</length>
+<airdate>2012-04-09</airdate>
+<title xml:lang="en">Opening 10</title>
+</episode>
+<episode id="137977" update="2014-06-02">
+<epno type="3">C16</epno>
+<length>2</length>
+<airdate>2011-10-10</airdate>
+<title xml:lang="en">Ending 6</title>
+</episode>
+<episode id="137978" update="2014-06-02">
+<epno type="3">C15</epno>
+<length>2</length>
+<airdate>2011-07-04</airdate>
+<title xml:lang="en">Ending 5</title>
+</episode>
+<episode id="137979" update="2014-06-02">
+<epno type="3">C14</epno>
+<length>2</length>
+<airdate>2011-04-11</airdate>
+<title xml:lang="en">Ending 4</title>
+</episode>
+<episode id="137980" update="2012-03-15">
+<epno type="3">C9</epno>
+<length>2</length>
+<airdate>2011-10-10</airdate>
+<title xml:lang="en">Opening 9</title>
+</episode>
+<episode id="137981" update="2012-03-15">
+<epno type="3">C8</epno>
+<length>2</length>
+<airdate>2011-04-11</airdate>
+<title xml:lang="en">Opening 8</title>
+</episode>
+<episode id="137982" update="2012-03-15">
+<epno type="3">C7</epno>
+<length>2</length>
+<airdate>2011-03-07</airdate>
+<title xml:lang="en">Opening 7</title>
+</episode>
+<episode id="137983" update="2012-03-15">
+<epno type="3">C6</epno>
+<length>2</length>
+<airdate>2011-02-07</airdate>
+<title xml:lang="en">Opening 6</title>
+</episode>
+<episode id="137984" update="2012-03-15">
+<epno type="3">C5</epno>
+<length>2</length>
+<airdate>2011-01-10</airdate>
+<title xml:lang="en">Opening 5</title>
+</episode>
+<episode id="137985" update="2012-03-15">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2010-12-06</airdate>
+<title xml:lang="en">Opening 4</title>
+</episode>
+<episode id="137986" update="2012-03-15">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2010-11-01</airdate>
+<title xml:lang="en">Opening 3</title>
+</episode>
+<episode id="138919" update="2012-04-17">
+<epno type="1">118</epno>
+<length>25</length>
+<airdate>2012-02-27</airdate>
+<title xml:lang="ja">大ゲンカ!?もりりっちVSあねもりりっち</title>
+<title xml:lang="en">Episode 118</title>
+</episode>
+<episode id="138920" update="2012-04-17">
+<epno type="1">119</epno>
+<length>25</length>
+<airdate>2012-03-05</airdate>
+<title xml:lang="ja">音をなくしたメロディバイオリン</title>
+<title xml:lang="en">Episode 119</title>
+</episode>
+<episode id="138921" update="2012-04-17">
+<epno type="1">120</epno>
+<length>25</length>
+<airdate>2012-03-12</airdate>
+<title xml:lang="ja">よみがえったメロディ</title>
+<title xml:lang="en">Episode 120</title>
+</episode>
+<episode id="138922" update="2012-04-17">
+<epno type="1">121</epno>
+<length>25</length>
+<airdate>2012-03-19</airdate>
+<title xml:lang="ja">「歌ヘタ」まめっちと「歌イヤ」フォルテっち</title>
+<title xml:lang="en">Episode 121</title>
+</episode>
+<episode id="138923" update="2012-04-17">
+<epno type="1">122</epno>
+<length>25</length>
+<airdate>2012-03-26</airdate>
+<title xml:lang="ja">大当たり!?テルリンのものまね占い</title>
+<title xml:lang="en">Episode 122</title>
+</episode>
+<episode id="138924" update="2012-04-17">
+<epno type="1">123</epno>
+<length>25</length>
+<airdate>2012-04-09</airdate>
+<title xml:lang="ja">最後のたまミズキ</title>
+<title xml:lang="en">Episode 123</title>
+</episode>
+<episode id="138925" update="2012-04-17">
+<epno type="1">124</epno>
+<length>25</length>
+<airdate>2012-04-16</airdate>
+<title xml:lang="ja">スケボーききっち猛特訓!</title>
+<title xml:lang="en">Episode 124</title>
+</episode>
+<episode id="138926" update="2012-04-17">
+<epno type="1">125</epno>
+<length>25</length>
+<airdate>2012-04-23</airdate>
+<title xml:lang="ja">サプライズウェディングパーティー!</title>
+<title xml:lang="en">Episode 125</title>
+</episode>
+<episode id="139294" update="2012-05-01">
+<epno type="1">126</epno>
+<length>25</length>
+<airdate>2012-04-30</airdate>
+<title xml:lang="ja">ライバル出現? モヤモヤひめスペっち</title>
+<title xml:lang="en">Episode 126</title>
+</episode>
+<episode id="139295" update="2012-05-01">
+<epno type="1">127</epno>
+<length>25</length>
+<airdate>2012-05-07</airdate>
+<title xml:lang="ja">つくってみせらぁ! ぐるぐるハニワ大作戦</title>
+<title xml:lang="en">Episode 127</title>
+</episode>
+<episode id="142563" update="2012-08-30">
+<epno type="1">143</epno>
+<length>25</length>
+<airdate>2012-09-03</airdate>
+<title xml:lang="ja">きずなのちから</title>
+<title xml:lang="en">Episode 143</title>
+</episode>
+<episode id="142564" update="2012-08-30">
+<epno type="1">142</epno>
+<length>25</length>
+<airdate>2012-08-27</airdate>
+<title xml:lang="ja">たまごっち星のピンチ! 救えるのはきずなっち!?</title>
+<title xml:lang="en">Episode 142</title>
+</episode>
+<episode id="142565" update="2012-08-30">
+<epno type="1">141</epno>
+<length>25</length>
+<airdate>2012-08-20</airdate>
+<title xml:lang="ja">ショック! タマゴ化がとまらない</title>
+<title xml:lang="en">Episode 141</title>
+</episode>
+<episode id="142566" update="2012-08-30">
+<epno type="1">140</epno>
+<length>25</length>
+<airdate>2012-08-13</airdate>
+<title xml:lang="ja">流行! サイコー? タマゴ化スタイル</title>
+<title xml:lang="en">Episode 140</title>
+</episode>
+<episode id="142567" update="2012-08-30">
+<epno type="1">139</epno>
+<length>25</length>
+<airdate>2012-07-30</airdate>
+<title xml:lang="ja">消えたたまハートと不思議のはじまり</title>
+<title xml:lang="en">Episode 139</title>
+</episode>
+<episode id="142568" update="2012-08-30">
+<epno type="1">138</epno>
+<length>25</length>
+<airdate>2012-07-23</airdate>
+<title xml:lang="ja">あばよたまとも! スペイシーっち涙の決断</title>
+<title xml:lang="en">Episode 138</title>
+</episode>
+<episode id="142569" update="2012-08-30">
+<epno type="1">137</epno>
+<length>25</length>
+<airdate>2012-07-16</airdate>
+<title xml:lang="ja">決めろ! 黄金のたまともシュート!</title>
+<title xml:lang="en">Episode 137</title>
+</episode>
+<episode id="142570" update="2012-08-30">
+<epno type="1">136</epno>
+<length>25</length>
+<airdate>2012-07-09</airdate>
+<title xml:lang="ja">ピンチ! ごっち大王ゆであがる!?</title>
+<title xml:lang="en">Episode 136</title>
+</episode>
+<episode id="142571" update="2012-08-30">
+<epno type="1">135</epno>
+<length>25</length>
+<airdate>2012-07-02</airdate>
+<title xml:lang="ja">ちょいワル? 真夏のサンタクロっち</title>
+<title xml:lang="en">Episode 135</title>
+</episode>
+<episode id="142572" update="2012-08-30">
+<epno type="1">134</epno>
+<length>25</length>
+<airdate>2012-06-25</airdate>
+<title xml:lang="ja">ビックリ! そっくり? くちぱっちといしぱっち</title>
+<title xml:lang="en">Episode 134</title>
+</episode>
+<episode id="142573" update="2012-08-30">
+<epno type="1">133</epno>
+<length>25</length>
+<airdate>2012-06-18</airdate>
+<title xml:lang="ja">まさかのスペイシー・パニック!</title>
+<title xml:lang="en">Episode 133</title>
+</episode>
+<episode id="142574" update="2012-08-30">
+<epno type="1">132</epno>
+<length>25</length>
+<airdate>2012-06-11</airdate>
+<title xml:lang="ja">たまごっち村の不思議なたまともたち</title>
+<title xml:lang="en">Episode 132</title>
+</episode>
+<episode id="142575" update="2012-08-30">
+<epno type="1">131</epno>
+<length>25</length>
+<airdate>2012-06-04</airdate>
+<title xml:lang="ja">マーマー! 迷子のふわもこっち</title>
+<title xml:lang="en">Episode 131</title>
+</episode>
+<episode id="142576" update="2012-08-30">
+<epno type="1">130</epno>
+<length>25</length>
+<airdate>2012-05-28</airdate>
+<title xml:lang="ja">ナハハハハ! まめっちのGOTCHIMANデビュー</title>
+<title xml:lang="en">Episode 130</title>
+</episode>
+<episode id="142577" update="2012-08-30">
+<epno type="1">129</epno>
+<length>25</length>
+<airdate>2012-05-21</airdate>
+<title xml:lang="ja">ドギマギ! うち記憶喪失になっちゃった!?</title>
+<title xml:lang="en">Episode 129</title>
+<title xml:lang="x-jat">Dogimagi! Uchi Kiokusoushitsu ni Nacchatta!?</title>
+</episode>
+<episode id="142578" update="2012-08-30">
+<epno type="1">128</epno>
+<length>25</length>
+<airdate>2012-05-14</airdate>
+<title xml:lang="ja">ナゾだらけ!? ハー島とハートかみっち</title>
+<title xml:lang="en">Episode 128</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13131" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1965</startdate>
+<enddate>1965</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Samurai</title>
+<title xml:lang="ja" type="official">さむらい</title>
+</titles>
+<description>A short film by Kuri Youji.</description>
+<ratings>
+<permanent count="24">2.23</permanent>
+<temporary count="25">3.40</temporary>
+</ratings>
+<picture>201500.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29637</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="187430" update="2017-04-29">
+<epno type="1">1</epno>
+<length>8</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

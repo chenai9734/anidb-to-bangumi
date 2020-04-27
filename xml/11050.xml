@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11050" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-07-18</startdate>
+<enddate>2015-07-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pikachu to Pokemon Ongakutai</title>
+<title xml:lang="en" type="synonym">Pokemon: Movie 18 Short</title>
+<title xml:lang="ja" type="official">ピカチュウとポケモンおんがくたい</title>
+</titles>
+<relatedanime>
+<anime id="10966" type="Other">Pokemon the Movie XY: Ring no Choumajin Hoopa</anime>
+</relatedanime>
+<url>http://www.pokemon-movie.jp/</url>
+<creators>
+<name id="5780" type="Original Plan">Tajiri Satoshi</name>
+<name id="4235" type="Direction">Yuyama Kunihiko</name>
+<name id="4464" type="Chief Animation Direction">Ichiishi Sayuri</name>
+<name id="43544" type="Music">Marutani Manabu</name>
+<name id="2822" type="Music">Tada Akifumi</name>
+</creators>
+<ratings>
+<permanent count="45">3.12</permanent>
+<temporary count="45">5.18</temporary>
+</ratings>
+<picture>221908.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16736</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>28853</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.pokemon-movie.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ピカチュウとポケモンおんがくたい</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>352057</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>19453</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="165667" update="2015-08-22">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2015-07-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

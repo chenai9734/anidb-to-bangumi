@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10222" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2002</startdate>
+<enddate>2002</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ojamajo Doremi no Koutsuu Anzen</title>
+<title xml:lang="ja" type="official">おジャ魔女どれみの交通安全</title>
+</titles>
+<relatedanime>
+<anime id="1766" type="Parent Story">Motto! Ojamajo Doremi</anime>
+</relatedanime>
+<ratings>
+<permanent count="3">3.36</permanent>
+<temporary count="3">5.33</temporary>
+</ratings>
+<picture>144665.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>12591</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7496</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="155815" update="2013-11-04">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

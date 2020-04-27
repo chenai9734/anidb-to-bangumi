@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11424" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1979</startdate>
+<enddate>1979</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Beautiful Name</title>
+<title xml:lang="ja" type="official">ビューティフル・ネーム</title>
+</titles>
+<description>A special performance for Laforet, the large department store/museum in Harajuku.</description>
+<ratings>
+<permanent count="22">2.40</permanent>
+<temporary count="23">4.39</temporary>
+</ratings>
+<picture>175666.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30078</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="182797" update="2016-12-05">
+<epno type="1">1</epno>
+<length>2</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

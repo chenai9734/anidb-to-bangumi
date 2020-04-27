@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7780" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-07-21</startdate>
+<enddate>1990-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hello Kitty no Oyayubi-hime</title>
+<title xml:lang="ja" type="synonym">ハローキティのおやゆび姫</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 12</title>
+<title xml:lang="ja" type="official">ハローキティのおやゆびひめ</title>
+<title xml:lang="en" type="official">Hello Kitty`s Thumbelina</title>
+</titles>
+<creators>
+<name id="5504" type="Direction">Kubo Hidemi</name>
+<name id="13517" type="Chief Animation Direction">Akahori Kanji</name>
+<name id="4880" type="Chief Direction">Hata Masami</name>
+</creators>
+<description>Note: Screened along http://anidb.net/a3073 [Kero Kero Keroppi no Daibouken] and http://anidb.net/a8411 [Pokopon no Yukai na Saiyuuki] at the second Sanrio Sekai Meisaku Eigakan theatrical road show.</description>
+<ratings>
+<permanent count="8">4.20</permanent>
+<temporary count="8">4.12</temporary>
+</ratings>
+<picture>71234.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8240</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32622</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2537</identifier>
+<identifier>iylzqh</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151138</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2502</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120581" update="2010-08-01">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>1990-07-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

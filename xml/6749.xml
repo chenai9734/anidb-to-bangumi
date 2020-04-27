@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6749" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1989-04-15</startdate>
+<enddate>1989-04-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ultraman USA</title>
+<title xml:lang="ja" type="official">ウルトラマンUSA</title>
+<title xml:lang="en" type="official">Ultraman: The Adventure Begins</title>
+<title xml:lang="gl" type="official">Ultraman, comeza a aventura</title>
+</titles>
+<relatedanime>
+<anime id="2347" type="Same Setting">The Ultraman</anime>
+<anime id="8849" type="Same Setting">Ultraman M78 Gekijou: Love &amp; Peace</anime>
+</relatedanime>
+<creators>
+<name id="5083" type="Music">Kazato Shinsuke</name>
+<name id="6959" type="Direction">Kusakabe Mitsuo</name>
+</creators>
+<description>The lives of three stunt pilots (Scott, Chuck, and Beth) are changed when they gain the ability to transform into three new Ultra-beings, and form the Ultra Force, to battle four giant Sorkin Monsters.</description>
+<ratings>
+<permanent count="25">3.78</permanent>
+<temporary count="25">4.86</temporary>
+</ratings>
+<picture>31840.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3901</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>12851</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2939</identifier>
+<identifier>zxhvrc</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150747</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1914</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="4215" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-30">
+<name>daikaijuu</name>
+<description>Literally translating to giant monster, daikaiju is an element found often in Japanese entertainment. Although usually for the science fiction genre it is also often used in horror, fantasy, mecha, and to a lesser extent comedy. Any monster that towers over a house technically qualifies as a daikaiju. Some anime, usually mecha, will go as far as calling their daikaiju with a specific title.</description>
+<picurl>60039.png</picurl>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="105476" update="2009-07-23">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>1989-04-15</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5946" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1985-11-25</startdate>
+<enddate>1985-11-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">What`s Michael?</title>
+<title xml:lang="ja" type="synonym">ホワッツ マイケル?</title>
+<title xml:lang="ja" type="official">What`s Michael?</title>
+</titles>
+<relatedanime>
+<anime id="6758" type="Alternative Setting">What`s Michael? (1988)</anime>
+<anime id="5952" type="Character">What`s Michael? 2</anime>
+</relatedanime>
+<similaranime>
+<anime id="4599" approval="1" total="5">Mikan Enikki</anime>
+</similaranime>
+<creators>
+<name id="20161" type="Animation Work">Kitty Film Mitaka Studio</name>
+<name id="7350" type="Original Work">Kobayashi Makoto</name>
+<name id="10437" type="Character Design">Matoba Atsushi</name>
+<name id="7350" type="Music">Kobayashi Makoto</name>
+<name id="5305" type="Series Composition">Yanagawa Shigeru</name>
+<name id="10151" type="Direction">Nagao Shuku</name>
+<name id="41548" type="Music">Lion Merry</name>
+</creators>
+<description>What`s Michael? shows Michael, an orange American Shorthair tabby cat, his feline friends, and other domesticated pets in a series of humorous episodes.</description>
+<ratings>
+<permanent count="52">4.89</permanent>
+<temporary count="52">5.57</temporary>
+</ratings>
+<picture>143895.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3336</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>12005</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2812</identifier>
+<identifier>tekxyx</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>What's_Michael%3F</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ホワッツマイケル</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>240973</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4591</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="44505" type="main character in" update="2013-02-28">
+<name>Michael</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132887.jpg</picture>
+<seiyuu id="278" picture="44088.jpg">Ootake Hiroshi</seiyuu>
+</character>
+<character id="53277" type="secondary cast in" update="2013-02-28">
+<name>Poppo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132888.jpg</picture>
+<seiyuu id="386" picture="187997.jpg">Nozawa Masako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="105967" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1985-11-25</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

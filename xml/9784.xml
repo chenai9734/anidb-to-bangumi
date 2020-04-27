@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9784" restricted="false">
+<type>TV Series</type>
+<episodecount>51</episodecount>
+<startdate>2013-04-06</startdate>
+<enddate>2014-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tanken Driland: 1000 Nen no Mahou</title>
+<title xml:lang="x-jat" type="synonym">Tanken Driland: Sennen no Mahou</title>
+<title xml:lang="x-jat" type="short">driland2</title>
+<title xml:lang="ja" type="official">探検ドリランド -1000年の真宝-</title>
+<title xml:lang="zh-Hans" type="official">探险托里兰托 1000年的真宝</title>
+</titles>
+<relatedanime>
+<anime id="9211" type="Prequel">Tanken Driland</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/driland2/</url>
+<creators>
+<name id="33462" type="Character Design">Watanabe Koudai</name>
+<name id="32821" type="Direction">Fukazawa Toshinori</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="33777" type="Original Work">Gree</name>
+<name id="33462" type="Chief Animation Direction">Watanabe Koudai</name>
+<name id="4393" type="Music">Hirano Yoshihisa</name>
+</creators>
+<ratings>
+<permanent count="14">2.83</permanent>
+<temporary count="15">4.96</temporary>
+</ratings>
+<picture>133977.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15206</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17969</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/tv/Driland/</url>
+</externalentity>
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/driland2/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>探検ドリランド_-1000年の真宝-</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2975</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>345635</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16001</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="45583" type="secondary cast in" update="2013-04-04">
+<rating votes="2">6.08</rating>
+<name>Haruka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134668.jpg</picture>
+<seiyuu id="1799" picture="156027.jpg">Hikasa Youko</seiyuu>
+</character>
+<character id="54615" type="main character in" update="2013-04-04">
+<name>Hagan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134664.jpg</picture>
+<seiyuu id="2069" picture="170535.jpg">Yamaguchi Mayumi</seiyuu>
+</character>
+<character id="54616" type="main character in" update="2013-04-04">
+<name>Gekienken Kibamaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134665.jpg</picture>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+<character id="54617" type="main character in" update="2013-04-04">
+<name>Raichouka Feirin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134666.jpg</picture>
+<seiyuu id="3198" picture="160468.jpg">Shimamura Yuu</seiyuu>
+</character>
+<character id="54618" type="main character in" update="2013-04-04">
+<name>Kisuikyou Nagare</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134667.jpg</picture>
+<seiyuu id="196" picture="17010.jpg">Nojima Kenji</seiyuu>
+</character>
+<character id="54619" type="secondary cast in" update="2013-04-04">
+<name>Pan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134669.jpg</picture>
+<seiyuu id="2588" picture="153507.jpg">Uchiyama Kouki</seiyuu>
+</character>
+<character id="54639" type="secondary cast in" update="2013-04-05">
+<name>Mahouou Goodo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134717.jpg</picture>
+<seiyuu id="2271" picture="23219.jpg">Shibata Hidekatsu</seiyuu>
+</character>
+<character id="54640" type="secondary cast in" update="2013-04-05">
+<name>Dr. Puller</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134723.jpg</picture>
+<seiyuu id="1925" picture="21115.jpg">Yuuki Hiro</seiyuu>
+</character>
+<character id="54641" type="secondary cast in" update="2013-04-05">
+<name>Yuugenei Zergado</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134724.jpg</picture>
+<seiyuu id="2674" picture="41437.jpg">Kase Yasuyuki</seiyuu>
+</character>
+<character id="54642" type="secondary cast in" update="2013-04-05">
+<name>Kouretsuki Hilde</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134725.jpg</picture>
+<seiyuu id="349" picture="79057.jpg">Kanda Akemi</seiyuu>
+</character>
+<character id="54643" type="secondary cast in" update="2013-04-05">
+<name>Mekki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134726.jpg</picture>
+<seiyuu id="3934" picture="43170.jpg">Yanagihara Tetsuya</seiyuu>
+</character>
+<character id="54644" type="secondary cast in" update="2013-04-05">
+<name>Shakki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134727.jpg</picture>
+<seiyuu id="10757" picture="81678.jpg">Miyamoto Kanako</seiyuu>
+</character>
+<character id="61039" type="secondary cast in" update="2013-11-02">
+<name>Meikaiou Desmenos</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145210.jpg</picture>
+<seiyuu id="1733" picture="25839.jpg">Tanaka Hideyuki</seiyuu>
+</character>
+<character id="61040" type="secondary cast in" update="2013-11-02">
+<name>Koukikoushin Dior</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145209.jpg</picture>
+<seiyuu id="194" picture="130580.jpg">Ishida Akira</seiyuu>
+</character>
+<character id="61041" type="secondary cast in" update="2013-11-02">
+<name>Jokoutentei Renas</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145208.jpg</picture>
+<seiyuu id="360" picture="171401.jpg">Hisakawa Aya</seiyuu>
+</character>
+<character id="61042" type="secondary cast in" update="2013-11-02">
+<name>Belinda</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>145207.jpg</picture>
+<seiyuu id="15" picture="44976.jpg">Yukana</seiyuu>
+</character>
+<character id="64981" type="secondary cast in" update="2014-02-23">
+<name>Eryx</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150672.jpg</picture>
+<seiyuu id="1663" picture="23213.jpg">Takato Yasuhiro</seiyuu>
+</character>
+<character id="64982" type="secondary cast in" update="2014-02-23">
+<name>Jashinki Seado</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150671.jpg</picture>
+<seiyuu id="336" picture="17172.jpg">Sakaguchi Daisuke</seiyuu>
+</character>
+<character id="64983" type="secondary cast in" update="2014-02-23">
+<name>Jaseishin Einshi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150670.jpg</picture>
+<seiyuu id="42" picture="155105.jpg">Hayamizu Risa</seiyuu>
+</character>
+<character id="64984" type="secondary cast in" update="2014-02-23">
+<name>Gokuenouji Helmerek</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150669.jpg</picture>
+<seiyuu id="6411" picture="44853.jpg">Aoki Tsuyoshi</seiyuu>
+</character>
+<character id="64996" type="secondary cast in" update="2014-02-23">
+<name>Tenjoumegami Nasha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150668.jpg</picture>
+<seiyuu id="36617" picture="228872.jpg">Fukuhara Ayaka</seiyuu>
+</character>
+<character id="64997" type="secondary cast in" update="2014-02-23">
+<name>Suishouseijo Cosmos</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150667.jpg</picture>
+<seiyuu id="39466" picture="150674.jpg">Gotou Yukari</seiyuu>
+</character>
+<character id="64998" type="secondary cast in" update="2014-02-23">
+<name>Tettsuishin Aviel</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>150666.jpg</picture>
+<seiyuu id="84" picture="16692.jpg">Tai Yuuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="149869" update="2013-04-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2013-04-27</airdate>
+<title xml:lang="ja">飛べ, 雷蝶花フェイリン!</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="149870" update="2013-04-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2013-04-20</airdate>
+<title xml:lang="ja">決戦!真宝王ゴード城!</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="149871" update="2013-04-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2013-04-13</airdate>
+<title xml:lang="ja">ハンターカードの謎</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hunter Card no Nazo</title>
+</episode>
+<episode id="149872" update="2013-04-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2013-04-06</airdate>
+<title xml:lang="ja">俺が掘ったらすごいぞ!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Ore ga Hottara Sugoi zo!</title>
+</episode>
+<episode id="150411" update="2013-05-06">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2013-05-11</airdate>
+<title xml:lang="ja">その女神, 天使か悪魔か</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Sono Megami, Tenshi ka Akuma ka</title>
+</episode>
+<episode id="150412" update="2013-05-06">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2013-05-04</airdate>
+<title xml:lang="ja">美しき貴公子ナガレ</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Utsukushiki Kikoushi Nagare</title>
+</episode>
+<episode id="150638" update="2013-05-18">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2013-05-25</airdate>
+<title xml:lang="ja">一匹狼 荒野侍ワイルド</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="150639" update="2013-05-18">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2013-05-18</airdate>
+<title xml:lang="ja">アゲハ神姫マチ降臨</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="151160" update="2013-06-15">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2013-06-22</airdate>
+<title xml:lang="ja">潜入!闇の前線基地</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="151161" update="2013-06-15">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2013-06-15</airdate>
+<title xml:lang="ja">孤高の盗賊 神風カシム</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="151162" update="2013-06-15">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2013-06-08</airdate>
+<title xml:lang="ja">真宝学校卒業試験</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="151163" update="2013-06-15">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2013-06-01</airdate>
+<title xml:lang="ja">キピー!キノピーの里</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="151508" update="2013-08-04">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2013-07-06</airdate>
+<title xml:lang="ja">哀と悲しみの戦友</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="151509" update="2013-06-30">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2013-06-29</airdate>
+<title xml:lang="ja">闇の基地を破壊せよ</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="152337" update="2013-08-04">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2013-08-10</airdate>
+<title xml:lang="ja">レトロンに咲く花</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="152338" update="2013-08-04">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2013-08-03</airdate>
+<title xml:lang="ja">レトロンに眠る秘密</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="152339" update="2013-08-04">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2013-07-27</airdate>
+<title xml:lang="ja">謎の少女 アリソン</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="152340" update="2013-08-04">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2013-07-20</airdate>
+<title xml:lang="ja">フェイリンとキングモンスター</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="152341" update="2013-08-04">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2013-07-13</airdate>
+<title xml:lang="ja">ミコト 決断の刻</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="153883" update="2013-09-02">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2013-09-07</airdate>
+<title xml:lang="ja">俺が復活したらすごいぞ!</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="153884" update="2013-09-02">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2013-08-31</airdate>
+<title xml:lang="ja">ハガンが失くしたもの</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="153885" update="2013-09-02">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2013-08-24</airdate>
+<title xml:lang="ja">ハガン 戦力外通告</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="153886" update="2013-09-02">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2013-08-17</airdate>
+<title xml:lang="ja">大決戦! 三大素の女神</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="154396" update="2013-09-28">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2013-09-14</airdate>
+<title xml:lang="ja">真宝王ゴード, その光と闇</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="154397" update="2013-09-28">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2013-09-21</airdate>
+<title xml:lang="ja">真宝の弾丸</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="154398" update="2013-09-28">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2013-09-28</airdate>
+<title xml:lang="ja">ハンターは最高だ!</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="154399" update="2013-09-28">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2013-10-05</airdate>
+<title xml:lang="ja">混沌の子 目覚める</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="155297" update="2013-10-27">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2013-11-02</airdate>
+<title xml:lang="ja">初めてのお別れ</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="155298" update="2013-11-21">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2013-10-26</airdate>
+<title xml:lang="ja">天使の羽を手に入れろ!</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="155299" update="2013-10-27">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2013-10-19</airdate>
+<title xml:lang="ja">ベリンダのオモチャ</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="155300" update="2013-10-27">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2013-10-12</airdate>
+<title xml:lang="ja">ハガンのお宝</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="156243" update="2013-11-21">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2013-11-23</airdate>
+<title xml:lang="ja">わたしのボディーガード</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="156244" update="2013-11-21">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2013-11-16</airdate>
+<title xml:lang="ja">フェイリンの決意</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="156245" update="2013-11-21">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2013-11-09</airdate>
+<title xml:lang="ja">創造の子 フェイリン</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="156609" update="2013-12-07">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2013-11-30</airdate>
+<title xml:lang="ja">ハニワパニック!</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="156610" update="2013-12-07">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2013-12-07</airdate>
+<title xml:lang="ja">ハルカなる想い</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="156611" update="2013-12-07">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2013-12-13</airdate>
+<title xml:lang="ja">潜入!冥王城</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="157123" update="2014-01-08">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2013-12-21</airdate>
+<title xml:lang="ja">冥王城の決闘</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="157124" update="2014-01-08">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2013-12-28</airdate>
+<title xml:lang="ja">妹の名はスズメ</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="157125" update="2014-01-08">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2014-01-11</airdate>
+<title xml:lang="ja">魔神騎ヴァンデル襲来!</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="158625" update="2014-03-26">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2014-01-18</airdate>
+<title xml:lang="ja">蘇ったハンター</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="158626" update="2014-03-26">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2014-01-25</airdate>
+<title xml:lang="ja">雷轟軍神ラインハルト!</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="158627" update="2014-03-26">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2014-02-01</airdate>
+<title xml:lang="ja">ナガレ ふたたび</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="158628" update="2014-03-26">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2014-02-08</airdate>
+<title xml:lang="ja">語られる真実</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="158629" update="2014-03-26">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2014-02-15</airdate>
+<title xml:lang="ja">三種の神器</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="158630" update="2014-03-26">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2014-02-22</airdate>
+<title xml:lang="ja">守りたいもの</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="158631" update="2014-03-26">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2014-03-01</airdate>
+<title xml:lang="ja">ディオル, その悦び</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="158632" update="2014-03-26">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2014-03-08</airdate>
+<title xml:lang="ja">ベリンダ覚醒</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="158633" update="2014-03-26">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2014-03-15</airdate>
+<title xml:lang="ja">神の召喚</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="158634" update="2014-03-26">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2014-03-22</airdate>
+<title xml:lang="ja">ドリランドを救わなきゃ!</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="158635" update="2014-03-26">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2014-03-29</airdate>
+<title xml:lang="ja">大好きな世界</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+</episodes>
+</anime>

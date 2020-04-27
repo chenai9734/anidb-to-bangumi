@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13860" restricted="false">
+<type>Web</type>
+<episodecount>3</episodecount>
+<startdate>2015-05-31</startdate>
+<enddate>2015-07-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Project HAL</title>
+<title xml:lang="ja" type="official">PROJECT HAL</title>
+</titles>
+<url>https://www.hal.ac.jp/pro_hal/</url>
+<description>Students in the Tokyo, Osaka and Nagoya branches of HAL College of Technology and Design under supervision and sponsorship by professional mecha designer Takayuki Yanase along with other industry professionals, created a series of 3 web movies to act as commercials.
+The three teams—each consisting of 16 members including animators, artists and effect technicians—are working on their own advertisements to display the talent of the students and the subjects one can learn through attending HAL such as game design, anime development and even car design. Each team is drawing from the same design and story to create their own unique commercials. Initially all 3 branches released a 16-sec. CM before each completing the full 39-sec. Web Movie.
+Music for each creation is provided by J-rock band MY FIRST STORY.
+Source: ANN</description>
+<ratings>
+<permanent count="14">6.01</permanent>
+<temporary count="14">5.57</temporary>
+</ratings>
+<picture>214164.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32385</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.hal.ac.jp/pro_hal/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="201925" update="2018-06-21">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2015-07-30</airdate>
+<title xml:lang="en">NAGOYA ver.</title>
+</episode>
+<episode id="201926" update="2018-06-21">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2015-05-31</airdate>
+<title xml:lang="en">TOKYO ver.</title>
+</episode>
+<episode id="201927" update="2018-06-21">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2015-05-31</airdate>
+<title xml:lang="en">OSAKA ver.</title>
+</episode>
+</episodes>
+</anime>

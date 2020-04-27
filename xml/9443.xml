@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9443" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2010-01-10</startdate>
+<enddate>2010-04-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha</title>
+<title xml:lang="ja" type="official">うんこさん ツイてる人にしか見えない妖精 純情派</title>
+</titles>
+<relatedanime>
+<anime id="7451" type="Prequel">Unko-san: Tsuiteru Hito ni Shika Mienai Yousei</anime>
+</relatedanime>
+<url>http://unko-san.jp/</url>
+<description>The series is effectively the second season of http://anidb.net/a7451 [Unko-san], the 2009 Flash-animated scatological comedy about a character named after the Japanese word for feces.
+Source: ANN</description>
+<ratings>
+<temporary count="1">6.00</temporary>
+</ratings>
+<picture>95010.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>12394</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33085</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://unko-san.jp/</url>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12422</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+</anime>

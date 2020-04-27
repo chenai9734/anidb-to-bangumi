@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8706" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2008-01</startdate>
+<enddate>2008-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Melody</title>
+<title xml:lang="ja" type="official">melody</title>
+</titles>
+<url>http://www.falcon-one.net/movie/melody/</url>
+<creators>
+<name id="34182" type="Direction">Yamamoto Jun`ichi</name>
+</creators>
+<description>Melody is a young rabbit trying to overcome the loss of his mother.</description>
+<ratings>
+<permanent count="76">5.49</permanent>
+<temporary count="76">5.66</temporary>
+</ratings>
+<picture>64676.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8936</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.falcon-one.net/movie/melody/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="133700" update="2011-10-05">
+<epno type="1">1</epno>
+<length>8</length>
+<rating votes="2">3.85</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

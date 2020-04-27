@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11508" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1972</startdate>
+<enddate>1972</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nihon Mukashibanashi: Sarukani</title>
+<title xml:lang="ja" type="official">日本むかしばなし さるかに</title>
+</titles>
+<relatedanime>
+<anime id="5384" type="Alternative Setting">Saru to Kani no Gassen</anime>
+<anime id="6945" type="Alternative Setting">Manguwa Shin Saru Kani Gassen</anime>
+<anime id="10173" type="Alternative Setting">Sarukanigassen: Ijimekkozaru to Shoujiki Kani-san</anime>
+<anime id="11507" type="Alternative Setting">Saru Kani Gassen</anime>
+<anime id="11509" type="Alternative Setting">Saru Kani Gassen (1996)</anime>
+</relatedanime>
+<description>An adaptation of an old Japanese folk tale also titled "Saru Kani Gassen." The story involves the two main characters: a crab and a monkey. Through the chance of luck, the crab finds a rice ball simultaneously as the monkey finds an apricot seed. The monkey does not want the apricot seed so he negotiates a trade with the crab for his rice ball. The monkey eats the rice ball immediately where as the crab plants the apricot seed and cares for it until it becomes a tall tree with plenty of apricot fruits. At this point, the crab cannot climb the tree to get the apricots, so he needs the monkey to get him the apricots. This is where the story takes a turn for the worse.</description>
+<ratings>
+<permanent count="20">3.57</permanent>
+<temporary count="20">4.50</temporary>
+</ratings>
+<picture>176323.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7713</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2857" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="3206" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-06">
+<name>stop motion</name>
+<description>Stop motion (also known as stop-action or frame-by-frame) is an animation technique to make a physically manipulated object appear to move on its own. The object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played as a continuous sequence.</description>
+</tag>
+<tag id="4259" parentid="2857" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>animal world</name>
+<description>All characters of the show are walking-talking animals. Their behaviour and clothing can resemble that of humans. They also may try to mirror human society.
+There are no humans present in this world.
+Not to be confused with http://anidb.net/t3968 [animal protagonist].</description>
+<picurl>10254.jpeg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="172037" update="2015-09-27">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

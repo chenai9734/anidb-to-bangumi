@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4944" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1980-07-19</startdate>
+<enddate>1980-07-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">11 Piki no Neko</title>
+<title xml:lang="x-jat" type="synonym">Juuippiki no Neko</title>
+<title xml:lang="ja" type="official">11ぴきのねこ</title>
+<title xml:lang="en" type="official">Eleven Cats</title>
+<title xml:lang="de" type="official">Elf hungrige Katzen</title>
+<title xml:lang="fi" type="official">11 nälkäistä kissaa</title>
+</titles>
+<relatedanime>
+<anime id="4945" type="Sequel">11 Piki no Neko to Ahoudori</anime>
+</relatedanime>
+<recommendations total="1"/>
+<creators>
+<name id="10071" type="Original Work">Baba Noboru</name>
+<name id="857" type="Chief Animation Direction">Maeda Tsuneo</name>
+<name id="6672" type="Music">Komuro Hitoshi</name>
+<name id="6070" type="Chief Animation Direction">Ueguchi Teruhito</name>
+<name id="9999" type="Work">Furukawa Hiromitsu</name>
+<name id="4308" type="Work">Tashiro Atsumi</name>
+<name id="774" type="Work">Group Tac</name>
+</creators>
+<description>A gang of eleven stray cats wreak havoc in a small town, costing them much trouble.
+They defend themselves by stating they were just `hungry`.
+The cats hear of an urban legend about a scary, giant fish. They decide to take on the challenge to find and catch that fish, proving the citizens of the town that they`re not all useless after all.
+The task is pretty tricky and the path they have to cross is stony and danger lurks everywhere.
+Will our little furry heroes be brave, confident and strong enough to master the challenge of challenges?</description>
+<ratings>
+<permanent count="18">5.70</permanent>
+<temporary count="18">5.55</temporary>
+</ratings>
+<picture>11731.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1468</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6071</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2565</identifier>
+<identifier>kwmxpj</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>11ぴきのねこ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>147261</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3977</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="66431" update="2011-10-20">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1980-07-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

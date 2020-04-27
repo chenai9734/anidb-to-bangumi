@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5480" restricted="false">
+<type>Other</type>
+<episodecount>2</episodecount>
+<startdate>2007-08-24</startdate>
+<enddate>2007-08-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tamala on Parade</title>
+<title xml:lang="ja" type="synonym">TAMALA 2010</title>
+<title xml:lang="ja" type="official">TAMALA ON PARADE</title>
+</titles>
+<relatedanime>
+<anime id="1634" type="Other">Tamala 2010 - A Punk Cat in Space</anime>
+</relatedanime>
+<url>http://www.tamala2010.com/tamala2010/rocket/200706_01.html</url>
+<creators>
+<name id="5760" type="Direction">Ohara Hidekazu</name>
+<name id="724" type="Work">Studio Pierrot</name>
+<name id="14130" type="Original Work">t.o.L</name>
+<name id="14130" type="Direction">t.o.L</name>
+<name id="14130" type="Music">t.o.L</name>
+</creators>
+<description>After a long 5-year wait, the team that created the widely acclaimed "TAMALA2010 A Punk Cat in Space" (Winner of the Jury and Public`s Prize for Best Animated Feature Film in Canada`s FanTasia 2003), brings you a fusion of extremely cute graphics and nice music. Also included are 3 shorts directed by Studio 4C`s http://anidb.net/cr5760 [Ohara Hidekazu]. It`s a new animation world you`d want to see and listen to again and again.</description>
+<ratings>
+<permanent count="40">3.68</permanent>
+<temporary count="40">4.73</temporary>
+</ratings>
+<picture>6264.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8079</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tamala2010.com/tamala2010/rocket/200706_01.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="83983" update="2010-12-09">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2007-08-24</airdate>
+<title xml:lang="ja">Tamala on Parade</title>
+<title xml:lang="en">Tamala on Parade</title>
+<title xml:lang="x-jat">Tamala on Parade</title>
+</episode>
+<episode id="83984" update="2012-04-20">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2007-08-24</airdate>
+<title xml:lang="ja">TAMALA`S "WILD PARTY"</title>
+<title xml:lang="en">Tamala`s "Wild Party"</title>
+<title xml:lang="x-jat">Tamala`s "Wild Party"</title>
+</episode>
+<episode id="142299" update="2012-08-27">
+<epno type="4">T1</epno>
+<length>1</length>
+<airdate>2007-08-24</airdate>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9063" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1985-12-21</startdate>
+<enddate>1985-12-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yukiguni no Oujisama</title>
+<title xml:lang="ja" type="official">雪国の王子さま</title>
+</titles>
+<creators>
+<name id="48713" type="Work">Shinano Kikaku</name>
+<name id="1833" type="Direction">Katsumata Tomoharu</name>
+<name id="4809" type="Character Design">Kouzai Takao</name>
+<name id="4295" type="Music">Yokoyama Seiji</name>
+<name id="10235" type="Original Work">Ikeda Daisaku</name>
+</creators>
+<description>Koichi and his sister Yuki befriend Hanaguro, a swan who has flown to Japan from Siberia. Hanaguro is attacked by a dog, and the cowardly Koichi flees, but that night he has a dream in which he is whisked away to the Kingdom of Snow Prince, where he finds the bravery to help the other swans.
+Source: The Anime Encyclopedia</description>
+<ratings>
+<permanent count="5">5.46</permanent>
+<temporary count="5">5.60</temporary>
+</ratings>
+<picture>241835.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19942</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23345</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149638</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4572</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="138021" update="2012-03-18">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1985-12-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

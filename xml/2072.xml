@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2072" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1988-03-12</startdate>
+<enddate>1988-03-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Lady Lady!! (1988)</title>
+<title xml:lang="fr" type="synonym">Gwendoline Le Film</title>
+<title xml:lang="lt" type="synonym">Ledi Lina filmas</title>
+<title xml:lang="ja" type="official">レディレディ!! (1988)</title>
+<title xml:lang="pl" type="official">Mała Dama the Movie</title>
+</titles>
+<relatedanime>
+<anime id="2068" type="Other">Lady Lady!!</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="5248" type="Direction">Shidara Hiroshi</name>
+<name id="8382" type="Original Work">Hanabusa Youko</name>
+</creators>
+<description>When http://anidb.net/ch50386 [Lynn]`s mother dies, she makes the promise that some day she will become a Lady, and travels to England to meet the rest of the family. She is not very welcomed (specially at the start by her stepsister Sara), but after some time they are all a happy family. Lynn is also very interested in horses and racing, and she wins a nice share of contests.
+This series is divided in two parts, first with Lynn being really a child, and the second with her being around 13.</description>
+<ratings>
+<permanent count="51">4.37</permanent>
+<temporary count="52">5.73</temporary>
+</ratings>
+<picture>241429.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3657</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9773</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3140</identifier>
+<identifier>eraqpo</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150409</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2428</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2844" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>angst</name>
+<description>A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.
+Warning: may contain copious amounts of brooding and sighing.
+Etymology: "Angst" is a German word meaning fear or anxiety.</description>
+<picurl>212183.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="50386" type="main character in" update="2012-11-06">
+<rating votes="1">4.25</rating>
+<name>Lynn Russell</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127758.jpg</picture>
+<seiyuu id="6820" picture="151692.jpg">Miyuki Sanae</seiyuu>
+</character>
+<character id="50388" type="secondary cast in" update="2012-11-06">
+<rating votes="3">5.01</rating>
+<name>Sarah Frances Russell</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127759.jpg</picture>
+<seiyuu id="1742" picture="20193.jpg">Honda Chieko</seiyuu>
+</character>
+<character id="50389" type="secondary cast in" update="2012-11-06">
+<name>George Russell</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127760.jpg</picture>
+<seiyuu id="1733" picture="25839.jpg">Tanaka Hideyuki</seiyuu>
+</character>
+<character id="50390" type="secondary cast in" update="2012-11-06">
+<name>Midorikawa Misuzu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127761.jpg</picture>
+<seiyuu id="9582" picture="219362.jpg">Yokozawa Keiko</seiyuu>
+</character>
+<character id="50391" type="secondary cast in" update="2012-11-06">
+<name>Arthur Drake Brighton</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127762.jpg</picture>
+<seiyuu id="4932" picture="16806.jpg">Horikawa Ryou</seiyuu>
+</character>
+<character id="50392" type="secondary cast in" update="2012-11-06">
+<name>Edward Brighton</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127763.jpg</picture>
+<seiyuu id="22085" picture="57831.jpg">Kikuchi Hidehiro</seiyuu>
+</character>
+<character id="50393" type="secondary cast in" update="2012-11-06">
+<name>Magdalene Waverley</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127765.jpg</picture>
+<seiyuu id="4735" picture="29144.jpg">Masuyama Eiko</seiyuu>
+</character>
+<character id="50394" type="secondary cast in" update="2012-11-06">
+<name>Mary Waverley</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127767.jpg</picture>
+<seiyuu id="3947" picture="25762.jpg">Shou Mayumi</seiyuu>
+</character>
+<character id="50395" type="secondary cast in" update="2012-11-06">
+<name>Thomas Waverley</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>127768.jpg</picture>
+<seiyuu id="3282" picture="24710.jpg">Nanba Keiichi</seiyuu>
+</character>
+<character id="50398" type="secondary cast in" update="2015-09-14">
+<name>Warbawn Koushaku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>177395.jpg</picture>
+<seiyuu id="3220" picture="24200.jpg">Totani Kouji</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="21713" update="2010-04-16">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1988-03-12</airdate>
+<rating votes="2">6.80</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

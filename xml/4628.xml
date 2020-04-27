@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4628" restricted="false">
+<type>TV Series</type>
+<episodecount>10</episodecount>
+<startdate>1988-04-11</startdate>
+<enddate>1988-06-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shin Pro Golfer Saru</title>
+<title xml:lang="ja" type="official">新プロゴルファー猿</title>
+</titles>
+<relatedanime>
+<anime id="3167" type="Prequel">Pro Golfer Saru (1985)</anime>
+</relatedanime>
+<creators>
+<name id="6394" type="Series Composition">Matsuoka Seiji</name>
+<name id="2241" type="Chief Direction">Nishimura Junji</name>
+<name id="4444" type="Music">Tsutsui Hiroshi</name>
+</creators>
+<ratings>
+<permanent count="7">2.99</permanent>
+<temporary count="7">3.85</temporary>
+</ratings>
+<picture>153394.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17315</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235422</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>633</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2762" parentid="2881" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>golf</name>
+<description>Golf is a game played in an open field where the player hits a small ball with a specifically prepared club to sink it into a hole of about the same size. This may appear as a very boring and pointless type of game to on-lookers.</description>
+</tag>
+<tag id="2881" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="56040" update="2006-08-07">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1988-04-11</airdate>
+<title xml:lang="ja">ゴルフ場は大混乱</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="56041" update="2006-08-07">
+<epno type="1">2</epno>
+<length>20</length>
+<airdate>1988-04-18</airdate>
+<title xml:lang="ja">三人のパットメン</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="56042" update="2006-08-07">
+<epno type="1">3</epno>
+<length>20</length>
+<airdate>1988-04-25</airdate>
+<title xml:lang="ja">若葉ちゃんと勝負</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="56043" update="2006-08-07">
+<epno type="1">4</epno>
+<length>20</length>
+<airdate>1988-05-02</airdate>
+<title xml:lang="ja">あの鯉のぼりを撃て!</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="56044" update="2006-08-07">
+<epno type="1">5</epno>
+<length>20</length>
+<airdate>1988-05-09</airdate>
+<title xml:lang="ja">魔のパター</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="56045" update="2006-08-07">
+<epno type="1">6</epno>
+<length>20</length>
+<airdate>1988-05-16</airdate>
+<title xml:lang="ja">猿谷のユーレイ</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="56046" update="2006-08-07">
+<epno type="1">7</epno>
+<length>20</length>
+<airdate>1988-05-23</airdate>
+<title xml:lang="ja">ゴエモン, パットする</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="56047" update="2006-08-07">
+<epno type="1">8</epno>
+<length>20</length>
+<airdate>1988-05-30</airdate>
+<title xml:lang="ja">黒いセールスマン</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="56048" update="2006-08-07">
+<epno type="1">9</epno>
+<length>20</length>
+<airdate>1988-06-06</airdate>
+<title xml:lang="ja">ゴルフ天狗</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="56049" update="2006-08-07">
+<epno type="1">10</epno>
+<length>20</length>
+<airdate>1988-06-13</airdate>
+<title xml:lang="ja">芝ドロボーを探せ!</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+</episodes>
+</anime>

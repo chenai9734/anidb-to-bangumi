@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14293" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-03-15</startdate>
+<enddate>2019-03-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga no Osomatsu-san</title>
+<title xml:lang="ja" type="official">えいがのおそ松さん</title>
+<title xml:lang="en" type="official">Mr. Osomatsu the Movie</title>
+</titles>
+<relatedanime>
+<anime id="12944" type="Parent Story">Osomatsu-san (2017)</anime>
+<anime id="14697" type="Other">Eiga no Osomatsu-san: Gekijou Koukai Kinen - Original Tanpen Gekijou</anime>
+</relatedanime>
+<url>https://osomatsusan.com/eiga/</url>
+<creators>
+<name id="724" type="Animation Work">Studio Pierrot</name>
+<name id="9250" type="Character Design">Asano Naoyuki</name>
+<name id="977" type="Original Work">Akatsuka Fujio</name>
+<name id="24337" type="Direction">Fujita Youichi</name>
+</creators>
+<description>The sextuplets attend a high school class reunion. There, they see all their former classmates who have become "proper" adults with company jobs. The sextuplets sulk about this and go home and drink until they fall asleep. But when they wake up, a certain scene awaits them.
+Source: ANN</description>
+<ratings>
+<permanent count="18">7.68</permanent>
+<temporary count="18">7.00</temporary>
+</ratings>
+<picture>228713.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21718</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38201</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://osomatsusan.com/eiga/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おそ松さん</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5281</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365243</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21765</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>osomatsu_pr</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2749" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2879" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>alcohol</name>
+<description>Alcohol (or more scientifically, ethanol), is one of the world`s oldest psychoactive substances. It is traditionally found in the form of a beverage such as beer, wine, or liquor, although in some contexts it can be inhaled to produce similar or intoxication, and some people prefer another way of consuming beverage-form alcohol.
+Alcoholic beverages are many and varied, due to production methods (fermentation or distillation), source materials (grains, fruits, vegetables, other plants), added substances such as flavorings, and many more ways of defining different forms of alcoholic beverages.
+Alcoholic beverages are divided into three general classes: beers, wines, and spirits. They are legally consumed in most countries, and over 100 countries have laws regulating their production, sale, and consumption. In particular, such laws specify the minimum age at which a person may legally buy or drink them. This minimum age varies between 16 and 25 years, depending upon the country and the type of drink. Most nations set it at 18 years of age.</description>
+<picurl>70749.jpg</picurl>
+</tag>
+<tag id="4251" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-20">
+<name>ensemble cast</name>
+<description>A show with an ensemble cast focuses on a larger group of main characters in a single plot narrative; anime containing several segmented plot narratives (such as episodic or arc-based plots) are excluded. As such, it doesn`t really have a "main" or "lead" character; instead, every member of the central main character group plays an important part in the show`s grander scheme; no single character is more important or prominent than the others (equality of importance). Further, subplots (if any) lead by each character in the ensemble have equal weighting in importance (or lack of weight).
+
+* In a show where no single main character is more important or prominent than the others, 4+ main characters is almost always an ensemble cast.
+* A show with 3 main characters of equal importance is likely also an ensemble cast; equality of importance must be considered carefully.
+* A show with 2 main characters of equal importance is generally not an ensemble cast situation; however, on an exception basis where neither main character is considered an antagonist, a 2-main-character anime may be considered an ensemble (e.g. http://anidb.net/a11829 [Kimi no Na wa.]).
+
+Pictured: http://anidb.net/a9043 [K (anime)]</description>
+<picurl>94914.jpg</picurl>
+</tag>
+<tag id="4729" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-07-06">
+<name>colour coded</name>
+<description>Every single character on the main cast has a unique hair colour to help less perceptive viewers distiguish between them.</description>
+</tag>
+<tag id="5384" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-15">
+<name>put right what once went wrong</name>
+</tag>
+<tag id="5823" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-01">
+<name>predominantly male cast</name>
+<description>The anime features a mostly male cast, i.e. female characters are rare.
+Example: Reverse harem setting with a plethora of bishounen.</description>
+</tag>
+<tag id="6018" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-27">
+<name>predominantly adult cast</name>
+<description>This show features mostly adults. That means children and teenagers are relatively rare and unlikely to hold significance to the plot.
+That is a rare trait in anime, as most shows spin around children or teenagers.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<characters>
+<character id="37177" type="main character in" update="2015-10-12">
+<rating votes="27">6.20</rating>
+<name>Osomatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63250.png</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="37180" type="main character in" update="2015-10-12">
+<rating votes="27">6.46</rating>
+<name>Karamatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63248.png</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="37181" type="main character in" update="2015-10-12">
+<rating votes="22">6.31</rating>
+<name>Choromatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63247.png</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="37182" type="secondary cast in" update="2015-10-12">
+<rating votes="12">8.42</rating>
+<name>Iyami</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63256.png</picture>
+<seiyuu id="191" picture="17006.jpg">Suzumura Ken`ichi</seiyuu>
+</character>
+<character id="37183" type="secondary cast in" update="2015-10-12">
+<rating votes="11">7.21</rating>
+<name>Chibita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63253.png</picture>
+<seiyuu id="9365" picture="34581.jpg">Kokuryuu Sachi</seiyuu>
+</character>
+<character id="37184" type="secondary cast in" update="2015-10-12">
+<rating votes="8">8.16</rating>
+<name>Dekapan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63257.png</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="37185" type="secondary cast in" update="2015-10-12">
+<rating votes="8">2.72</rating>
+<name>Hatabou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63254.png</picture>
+<seiyuu id="476" picture="23579.jpg">Saitou Momoko</seiyuu>
+</character>
+<character id="37186" type="main character in" update="2015-10-12">
+<rating votes="26">6.86</rating>
+<name>Juushimatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63251.png</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="37187" type="main character in" update="2015-10-12">
+<rating votes="22">3.99</rating>
+<name>Todomatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63252.png</picture>
+<seiyuu id="470" picture="17419.jpg">Irino Miyu</seiyuu>
+</character>
+<character id="37188" type="main character in" update="2015-10-12">
+<rating votes="23">7.32</rating>
+<name>Ichimatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63249.png</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="37191" type="secondary cast in" update="2015-10-12">
+<rating votes="6">4.53</rating>
+<name>Dayoon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63255.png</picture>
+<seiyuu id="190" picture="186145.jpg">Tobita Nobuo</seiyuu>
+</character>
+<character id="37192" type="secondary cast in" update="2015-10-12">
+<rating votes="15">2.13</rating>
+<name>Totoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63258.png</picture>
+<seiyuu id="424" picture="224027.jpg">Endou Aya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="209826" update="2019-03-14">
+<epno type="1">1</epno>
+<length>110</length>
+<airdate>2019-03-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>790321</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="224029" update="2019-11-09">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2019-03-15</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="224030" update="2019-11-09">
+<epno type="3">C2</epno>
+<length>3</length>
+<airdate>2019-03-15</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="225563" update="2020-01-01">
+<epno type="2">S1</epno>
+<length>2</length>
+<airdate>2019-11-06</airdate>
+<title xml:lang="ja">前説劇場 オン・ザ・ムービー</title>
+<title xml:lang="en">Prologue Theater: On the Movie</title>
+<title xml:lang="x-jat">Zensetsu Gekijou: On the Movie</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792187</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225564" update="2020-01-01">
+<epno type="2">S2</epno>
+<length>3</length>
+<airdate>2019-11-06</airdate>
+<title xml:lang="ja">前説劇場 オレに任せろ</title>
+<title xml:lang="en">Prologue Theater: Leave It to Me</title>
+<title xml:lang="x-jat">Zensetsu Gekijou: Ore ni Makasero</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792188</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225565" update="2020-01-01">
+<epno type="2">S3</epno>
+<length>2</length>
+<airdate>2019-11-06</airdate>
+<title xml:lang="ja">前説劇場 限定商品</title>
+<title xml:lang="en">Prologue Theater: Limited-Edition Merch</title>
+<title xml:lang="x-jat">Zensetsu Gekijou: Gentei Shouhin</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792190</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225566" update="2020-01-01">
+<epno type="2">S4</epno>
+<length>2</length>
+<airdate>2019-11-06</airdate>
+<title xml:lang="ja">前説劇場 ストーリー</title>
+<title xml:lang="en">Prologue Theater: Story</title>
+<title xml:lang="x-jat">Zensetsu Gekijou: Story</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792192</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225567" update="2020-01-01">
+<epno type="2">S5</epno>
+<length>3</length>
+<airdate>2019-11-06</airdate>
+<title xml:lang="ja">前説劇場 テコ入れ</title>
+<title xml:lang="en">Prologue Theater: Promoting</title>
+<title xml:lang="x-jat">Zensetsu Gekijou: Tekoire</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792193</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="225568" update="2020-01-01">
+<epno type="2">S6</epno>
+<length>3</length>
+<airdate>2019-11-06</airdate>
+<title xml:lang="ja">前説劇場 ありがとう</title>
+<title xml:lang="en">Prologue Theater: Thank You</title>
+<title xml:lang="x-jat">Zensetsu Gekijou: Arigatou</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792194</identifier>
+<identifier>mr-osomatsu</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

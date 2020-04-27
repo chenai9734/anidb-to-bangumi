@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3478" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1985-08-17</startdate>
+<enddate>1985-08-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Onboro Film</title>
+<title xml:lang="ja" type="official">おんぼろフィルム</title>
+<title xml:lang="en" type="official">Broken Down Film</title>
+<title xml:lang="fr" type="official">Le film cassé</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Recommended" uid="80266">a very short, fun and playful experimental work by osamu tezuka</recommendation>
+</recommendations>
+<url>http://ja.tezuka.co.jp/anime/sakuhin/ea/ea010.html</url>
+<creators>
+<name id="723" type="Animation Production">Tezuka Productions</name>
+<name id="1195" type="Original Plan">Tezuka Osamu</name>
+<name id="1195" type="Series Composition">Tezuka Osamu</name>
+<name id="1195" type="Direction">Tezuka Osamu</name>
+</creators>
+<description>A scene from an American animated piece called "Dudley Do Right" shows a scene in which a queen is tied to a railroad track with ropes and shouting, "Help!" This image was often used in serial action films of the silent comedy period. In this short film, a western-style hero fights a villain and saves a beautiful woman in the same situation. This classical scene, however, is marred, blurred and smudged because the film itself is very old. Not only does the hero have to fight the villain, but he also has to struggle hard against the bad condition of the film.
+Source: http://en.tezuka.co.jp/anime/sakuhin/ea/ea010.html</description>
+<ratings>
+<permanent count="299">5.91</permanent>
+<temporary count="301">6.35</temporary>
+</ratings>
+<picture>4966.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3421</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2550</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://tezukaosamu.net/jp/anime/73.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>149521</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2655" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="38602" update="2005-07-08">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>1985-08-17</airdate>
+<rating votes="1">6.28</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

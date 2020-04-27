@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3956" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1987-04-04</startdate>
+<enddate>1987-04-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hoero! Bun Bun (1987)</title>
+<title xml:lang="en" type="synonym">Bark! Bun Bun Special</title>
+<title xml:lang="en" type="synonym">Bark! Bunbun</title>
+<title xml:lang="x-jat" type="synonym">Hoeru! Bunbun Special</title>
+<title xml:lang="ja" type="official">ほえろブンブン (1987)</title>
+<title xml:lang="pl" type="official">Piesek Bum Bum</title>
+</titles>
+<relatedanime>
+<anime id="3304" type="Parent Story">Hoero Bunbun</anime>
+</relatedanime>
+<url>http://www.madhouse.co.jp/works/1988-1987/works_movie_bunbun.html</url>
+<creators>
+<name id="1865" type="Character Design">Kanemori Yoshinori</name>
+<name id="5563" type="Original Work">Murano Moribi</name>
+<name id="3308" type="Direction">Hirata Toshio</name>
+<name id="6272" type="Music">Komori Akihiro</name>
+</creators>
+<ratings>
+<permanent count="6">6.03</permanent>
+<temporary count="6">6.16</temporary>
+</ratings>
+<picture>68470.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5902</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10509</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.madhouse.co.jp/works/1988-1987/works_movie_bunbun.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ほえろブンブン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150106</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2271</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="3968" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>animal protagonist</name>
+<description>The anime revolves around an animal, usually only communicating with typical onomatopoeia. The animal mostly lives in a human family and has adventures on a regular base. This can be the discovery of a new room, or being lost by having taken a wrong turn in the outside world.
+Typical example: http://anidb.net/a5801 [Chii`s Sweet Home].
+Not to be confused with http://anidb.net/t4259 [animal world], where the whole world is composed of animals.</description>
+<picurl>10255.jpeg</picurl>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="99328" update="2013-09-05">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>1987-04-04</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

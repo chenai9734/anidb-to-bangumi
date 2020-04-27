@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14326" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2010-05-15</startdate>
+<enddate>2010-05-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nanchatte!</title>
+<title xml:lang="ja" type="official">なんちゃって!</title>
+</titles>
+<url>http://www.shin-ei-animation.jp/2016/petitani/</url>
+<description>A satire gag story about politics for adults.
+Source: MAL</description>
+<ratings>
+<permanent count="4">1.61</permanent>
+<temporary count="4">2.25</temporary>
+</ratings>
+<picture>222770.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8959</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.shin-ei-animation.jp/2016/petitani/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204640" update="2018-12-09">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2010-05-15</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="204641" update="2018-12-09">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2010-05-15</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+</episodes>
+</anime>

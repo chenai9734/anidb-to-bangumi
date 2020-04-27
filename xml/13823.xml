@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13823" restricted="false">
+<type>TV Series</type>
+<episodecount>6</episodecount>
+<startdate>2017-10-15</startdate>
+<enddate>2017-11-19</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Turning Mecard W: Vandyne-ui Bimil</title>
+<title xml:lang="ko" type="official">터닝메카드 W: 반다인의 비밀</title>
+</titles>
+<relatedanime>
+<anime id="13822" type="Prequel">Turning Mecard W Season 2</anime>
+<anime id="13824" type="Summary">Teugbyeolpan Turning Mecard W: Bandain ui Bimil</anime>
+</relatedanime>
+<ratings>
+<permanent count="1">4.17</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>213165.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37750</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Turning_Mecard</identifier>
+</externalentity>
+</resource>
+<resource type="19">
+<externalentity>
+<identifier>터닝메카드_W:_반다인의_비밀</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="196309" update="2018-02-18">
+<epno type="1">6</epno>
+<length>30</length>
+<airdate>2017-11-19</airdate>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="ko">밝혀진 반다인의 비밀</title>
+</episode>
+<episode id="196310" update="2018-02-18">
+<epno type="1">5</epno>
+<length>30</length>
+<airdate>2017-11-12</airdate>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="ko">애송이 삼총사의 분투!</title>
+</episode>
+<episode id="196311" update="2018-02-18">
+<epno type="1">4</epno>
+<length>30</length>
+<airdate>2017-11-05</airdate>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="ko">켄타스콘의 부활?</title>
+</episode>
+<episode id="196312" update="2018-02-18">
+<epno type="1">3</epno>
+<length>30</length>
+<airdate>2017-10-29</airdate>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="ko">타오르는 반다인의 마음</title>
+</episode>
+<episode id="196313" update="2018-02-18">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2017-10-22</airdate>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="ko">마스터와 사성수 VS 윙피닉스</title>
+</episode>
+<episode id="196314" update="2018-02-18">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2017-10-15</airdate>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="ko">신형 메카니멀을 추적하라</title>
+</episode>
+</episodes>
+</anime>

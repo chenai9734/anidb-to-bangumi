@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11526" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-08-13</startdate>
+<enddate>2016-08-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Aikatsu Stars!</title>
+<title xml:lang="ja" type="official">劇場版アイカツスターズ!</title>
+<title xml:lang="zh-Hans" type="official">偶像活动Stars! 剧场版</title>
+</titles>
+<relatedanime>
+<anime id="11934" type="Parent Story">Aikatsu Stars!</anime>
+</relatedanime>
+<url>http://www.aikatsu-movie.net/</url>
+<creators>
+<name id="14275" type="Character Design">Aikei Yukiko</name>
+<name id="42824" type="Original Work">BN Pictures</name>
+<name id="1051" type="Original Plan">Bandai</name>
+<name id="19275" type="Direction">Watada Shin`ya</name>
+<name id="42824" type="Animation Work">BN Pictures</name>
+<name id="43637" type="Music">Onetrap</name>
+</creators>
+<description>The film`s plot is set in a southern island, where a Legendary Dress Audition is taking place. http://anidb.net/ch80813 [Nijino Yume] and the others must find secret dresses said to be hidden somewhere in the island.
+Source: ANN</description>
+<ratings>
+<permanent count="34">6.07</permanent>
+<temporary count="34">6.60</temporary>
+</ratings>
+<picture>188006.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18547</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31485</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.aikatsu-movie.net/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355785</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="93451" type="main character in" update="2018-01-28">
+<name>Maori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>is a young girl who made her first appearance in Aikatsu Stars! The Movie.</description>
+<picture>212420.jpg</picture>
+<seiyuu id="430" picture="129542.jpg">Hidaka Rina</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="175544" update="2017-02-12">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2016-08-13</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

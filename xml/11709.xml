@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11709" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-05-27</startdate>
+<enddate>2017-05-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Biohazard: Vendetta</title>
+<title xml:lang="ja" type="official">BIOHAZARD: VENDETTA</title>
+<title xml:lang="en" type="official">Resident Evil: Vendetta</title>
+<title xml:lang="ru" type="official">Обитель зла: Вендетта</title>
+</titles>
+<relatedanime>
+<anime id="8079" type="Prequel">Biohazard: Damnation</anime>
+</relatedanime>
+<url>http://biohazard-vendetta.com/</url>
+<creators>
+<name id="1283" type="Original Work">Capcom</name>
+<name id="1946" type="Music">Kawai Kenji</name>
+<name id="44264" type="Animation Work">Marza Animation Planet</name>
+<name id="50021" type="Direction">Tsujimoto Takanori</name>
+</creators>
+<description>BSAA Chris Redfield enlists the help of government agent Leon S. Kennedy and Professor Rebecca Chambers from Alexander Institute of Biotechnology to stop a death merchant with a vengeance from spreading a deadly virus in New York.</description>
+<ratings>
+<permanent count="200">4.92</permanent>
+<temporary count="202">6.28</temporary>
+<review count="1">5.16</review>
+</ratings>
+<picture>195867.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18178</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31853</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://biohazard-vendetta.com/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.residentevilvendetta.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354512</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="7632" type="main character in" update="2011-12-15">
+<rating votes="30">8.30</rating>
+<name>Leon S. Kennedy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>78541.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+<character id="88798" type="secondary cast in" update="2017-04-14">
+<rating votes="2">3.84</rating>
+<name>D.C.</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200979.jpg</picture>
+<seiyuu id="46408" picture="188954.jpg">Fujii Hayato</seiyuu>
+</character>
+<character id="88799" type="main character in" update="2017-04-14">
+<rating votes="2">9.61</rating>
+<name>Chris Redfield</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200977.jpg</picture>
+<seiyuu id="451" picture="17347.jpg">Touchi Hiroki</seiyuu>
+</character>
+<character id="88800" type="secondary cast in" update="2017-04-14">
+<rating votes="3">5.40</rating>
+<name>Glenn Arias</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200983.jpg</picture>
+<seiyuu id="45579" picture="211758.jpg">Kirimoto Takuya</seiyuu>
+</character>
+<character id="88801" type="secondary cast in" update="2017-04-14">
+<rating votes="2">3.84</rating>
+<name>Damian</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200981.jpg</picture>
+<seiyuu id="25524" picture="17083.jpg">Aizawa Masaki</seiyuu>
+</character>
+<character id="88802" type="secondary cast in" update="2017-04-14">
+<rating votes="2">5.85</rating>
+<name>Diego</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200984.jpg</picture>
+<seiyuu id="2053" picture="23204.jpg">Ootomo Ryuuzaburou</seiyuu>
+</character>
+<character id="88803" type="secondary cast in" update="2017-04-14">
+<rating votes="3">3.34</rating>
+<name>Nadia</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200980.jpg</picture>
+<seiyuu id="5" picture="233827.jpg">Tomatsu Haruka</seiyuu>
+</character>
+<character id="88804" type="secondary cast in" update="2017-04-14">
+<rating votes="2">6.91</rating>
+<name>Maria</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200982.jpg</picture>
+<seiyuu id="74" picture="84835.jpg">Oohara Sayaka</seiyuu>
+</character>
+<character id="88805" type="secondary cast in" update="2017-04-14">
+<rating votes="3">6.64</rating>
+<name>Rebecca Chambers</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200978.jpg</picture>
+<seiyuu id="51" picture="39247.jpg">Koshimizu Ami</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="182925" update="2017-05-22">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2017-05-27</airdate>
+<rating votes="1">2.71</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12272" restricted="false">
+<type>unknown</type>
+<episodecount>0</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Mahou Shoujo Lyrical Nanoha (Shinsaku)</title>
+<title xml:lang="ja" type="official">魔法少女リリカルなのは (新作)</title>
+</titles>
+<relatedanime>
+<anime id="12264" type="Sequel">ViVid Strike!</anime>
+<anime id="10795" type="Prequel">Mahou Shoujo Lyrical Nanoha Vivid</anime>
+</relatedanime>
+<url>http://nanoha-vivid.tv/</url>
+<picture>243866.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://nanoha-vivid.tv/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+</tags>
+</anime>

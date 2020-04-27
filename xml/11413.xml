@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11413" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2009</startdate>
+<enddate>2009</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Arigatou Gomennasai</title>
+<title xml:lang="ja" type="official">ありがとうごめんなさい</title>
+</titles>
+<description>A short animation film by Taku Furukawa.</description>
+<ratings>
+<permanent count="28">2.11</permanent>
+<temporary count="29">3.63</temporary>
+</ratings>
+<picture>175605.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30399</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170089" update="2015-07-19">
+<epno type="1">1</epno>
+<length>2</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

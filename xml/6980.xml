@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6980" restricted="false">
+<type>TV Series</type>
+<episodecount>60</episodecount>
+<startdate>1974-04-05</startdate>
+<enddate>1975-06-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tonari no Tamageta-kun</title>
+<title xml:lang="en" type="synonym">Little Tamageta, the Neighbor</title>
+<title xml:lang="ja" type="official">となりのたまげ太くん</title>
+</titles>
+<creators>
+<name id="5198" type="Original Work">Ishinomori Shoutarou</name>
+</creators>
+<description>The adventures of a witless boy who finds a time machine hidden in a cave near his house. The 5 minutes episodes aired during the morning television show "Ohayo Kodomo"</description>
+<ratings>
+<permanent count="4">1.70</permanent>
+<temporary count="4">2.00</temporary>
+</ratings>
+<picture>34704.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7851</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20233</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1876</identifier>
+<identifier>xyulch</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89530</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>923</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>158</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>721</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108299" update="2009-09-06">
+<epno type="1">60</epno>
+<length>5</length>
+<airdate>1975-06-27</airdate>
+<title xml:lang="ja">た~こたこあがれの巻</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Takotako Agare no Maki</title>
+</episode>
+<episode id="108300" update="2009-09-06">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>1974-04-05</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

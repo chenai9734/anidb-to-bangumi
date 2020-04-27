@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1713" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1987-12-01</startdate>
+<enddate>1987-12-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Makyou Gaiden Le Deus</title>
+<title xml:lang="ja" type="synonym">魔境外伝レディウス</title>
+<title xml:lang="ja" type="synonym">LE·DEUS</title>
+<title xml:lang="x-jat" type="synonym">Makyou Gaiden Ladius</title>
+<title xml:lang="ja" type="official">魔境外伝レ・ディウス</title>
+<title xml:lang="en" type="official">Ladius</title>
+</titles>
+<creators>
+<name id="4567" type="Music">Nanba Hiroyuki</name>
+<name id="7342" type="Animation Character Design">Tamura Hideki</name>
+<name id="21833" type="Character Design">Aran Rei</name>
+<name id="5307" type="Direction">Negishi Hiroshi</name>
+</creators>
+<description>The future... urban civilisation has broken down; the crumbling tower blocks and great cities are sinking into ruin as greenery encroaches everywhere. Man`s greed, though, is as active as ever, and for those who still have access to power armour and the other trapping of high technology, the new Holy Grail is an almost mythical source of energy locked in a vast underground complex. The beautiful and hot-tempered Yuta is the key...</description>
+<ratings>
+<permanent count="136">3.66</permanent>
+<temporary count="137">5.39</temporary>
+</ratings>
+<picture>244804.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4341</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4058</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3065</identifier>
+<identifier>doyuzp</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>魔境外伝レディウス</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88774</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1723</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2643" parentid="2638" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>power suit</name>
+<description>Power Suits are similar to Piloted Robots which are controlled from inside the robot except that Power Suits tend to be more directly tied to how the character moves and they are usually not as big as Piloted Robots can be. They are still mechanical and shouldn`t be confused with plug suits.</description>
+<picurl>222235.jpg</picurl>
+</tag>
+<tag id="2644" parentid="2274" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-14">
+<name>transforming craft</name>
+<description>A transforming craft is an object built by humans or other intelligent lifeforms, usually a robot but sometimes also a vehicle of some sort, that can rearrange its parts in order to switch between a minimum of two forms.</description>
+<picurl>224142.jpg</picurl>
+</tag>
+<tag id="2645" parentid="2274" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>piloted robot</name>
+<description>Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.</description>
+<picurl>222199.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2791" parentid="6230" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2011-12-25">
+<name>stereotypes</name>
+<description>This show presents stereotypes, which are generalizations about a group of people. Examples would be saying that people from a certain country or with a certain hair color are stupid. If the show deals with comedy, the stereotypes are likely to be played on for laughs; if the show is a parody, the stereotypes will be exaggerated to have their flaws exposed and may be used as a form of social commentary.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2856" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-05">
+<name>ecchi</name>
+<description>Fan service is found in many anime, in many forms. When the service has a distinctly sexual slant to it, and it appears to be a major focus of the show, then it`s safe to assume you`re watching ecchi.
+The word "ecchi" is used by English-speaking anime fans to refer to refer to soft-core pornographic or sexually suggestive anime and manga. This is a western invention; in Japanese, it is a catch-all term for all things anyhow sexual in nature, not being limited to porn, but also not really considered a "milder" term, as it may also refer to sexual intercourse itself. The term "ecchi" in Japanese comes from the pronunciation of the letter "H" in English, which is rendered into Japanese syllabary as エッチ, which in turn is transliterated in the English alphabet as "ecchi" or "etchi". It is not, as many believe, short for "hentai" -- that, too, seems to be a western invention. It is, however, nearly as misunderstood and misapplied a term as "hentai".
+The line between ecchi and hentai, from the western perspective over these terms, can be hard to draw at times; one good rule of thumb is: if it was aired on Japanese public TV at all, it probably wasn`t hentai. Ecchi usually features all the specifics to human anatomy that can only be found in anime, and generally avoids full nudity, instead abusing of panty shots. Hentai, on the other hand, will usually show full frontal nudity in some explicit form, including genitalia, and full, intimate sex scenes. At its mildest, ecchi is composed of double entendres, big misunderstandings, and sexual farce; at its most explicit, it is still in the realm of softcore pornography, with full breast shots, full back nudity and similar content, but no display of genitalia. Another good way to distinguish the two is looking for animated sex scenes; if one is found, you have generally left the genre entirely, though a few borderline exceptions apply here. For AniDB`s purposes, the distinction between explicit ecchi and actual hentai is simple: if it was sold with a 18+ restriction in its country of origin, it is hentai; if it was sold without it, it is ecchi.
+Source: TV Tropes</description>
+<picurl>32416.jpg</picurl>
+</tag>
+<tag id="2874" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-05-07">
+<name>disaster</name>
+<description>A disaster is a large-scale situation that causes great loss of or damage or threat to life, health, property, society, or the environment, irrespective of its source or cause. Disasters have substantial, long-lasting negative repercussions, and great effort must be spent in order to undo or mitigate their effects.</description>
+</tag>
+<tag id="2923" parentid="2874" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2014-06-25">
+<name>post-apocalyptic</name>
+<description>An anime that takes place on future Earth (or it could be an alternative universe) after a major cataclysm has occurred. World War III, an alien invasion, plague, global warming or some other general disaster are common themes to build a post-apocalyptic world upon, where the effects were severe enough that mankind barely survived.
+The time frame may be immediately after the catastrophe, focusing on the travails or psychology of survivors, or considerably later, often including the theme that the existence of pre-catastrophe civilization has been forgotten (or mythologised). Post-apocalyptic stories often take place in an agrarian, non-technological future world, or a world where only scattered elements of technology remain. There is a considerable degree of blurring between post-apocalyptic fiction and that which deals with false utopias or dystopian societies.</description>
+<picurl>42081.jpg</picurl>
+</tag>
+<tag id="4278" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-15">
+<name>stand-alone movie</name>
+<description>You can watch this movie without having to watch something else first. This tag should not used for sequels, side stories, or summary movies, but may be used if the movie is either the first anime in a franchise or a remake.
+The movie must be feature-length. For shorts, use the `short movie` tag. In general, a "show-in-show" would not qualify as standalone. For example, an anime has a cartoon show within it. If the show within was released as an OVA or movie, it would not be considered standalone.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="55531" type="main character in" update="2013-05-01">
+<rating votes="1">6.72</rating>
+<name>Riot Genus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>136117.jpg</picture>
+<seiyuu id="283" picture="17113.jpg">Yao Kazuki</seiyuu>
+</character>
+<character id="55532" type="secondary cast in" update="2013-05-01">
+<rating votes="1">3.33</rating>
+<name>Yuta Caradeen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>136118.jpg</picture>
+<seiyuu id="1870" picture="186893.jpg">Mizutani Yuuko</seiyuu>
+</character>
+<character id="55533" type="appears in" update="2013-05-01">
+<name>Demsta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>136123.jpg</picture>
+<seiyuu id="27" picture="26123.jpg">Hayami Shou</seiyuu>
+</character>
+<character id="55534" type="secondary cast in" update="2013-05-01">
+<rating votes="1">6.72</rating>
+<name>Kaiser</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>136119.jpg</picture>
+<seiyuu id="2" picture="16471.jpg">Wakamoto Norio</seiyuu>
+</character>
+<character id="55535" type="secondary cast in" update="2013-05-01">
+<rating votes="1">3.33</rating>
+<name>Seneca</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>136121.jpg</picture>
+</character>
+<character id="55536" type="secondary cast in" update="2013-05-01">
+<rating votes="1">3.33</rating>
+<name>Spica</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>136122.jpg</picture>
+<seiyuu id="12345" picture="36489.jpg">Koujiro Chie</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="43341" update="2011-10-20">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1987-12-01</airdate>
+<rating votes="2">5.64</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

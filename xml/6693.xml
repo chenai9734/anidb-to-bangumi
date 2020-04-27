@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6693" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1933</startdate>
+<enddate>1933</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sankou to Tako: Hyakuman-ryou Chinsoudou</title>
+<title xml:lang="en" type="synonym">Sanko and the Octopus: A Fight Over a Fortune</title>
+<title xml:lang="ja" type="official">三公と蛸~百万両珍騒動~</title>
+</titles>
+<description>A strong fisherman is tasked to dig up a treasure box buried in the ocean. While retrieving the box, it turns out there is no treasure, but that the box is home to an octopus family that attacks the fisherman.</description>
+<ratings>
+<permanent count="83">3.30</permanent>
+<temporary count="84">4.87</temporary>
+</ratings>
+<picture>32750.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>5874</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5529" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-11-05">
+<name>black and white</name>
+<description>Some or all of this anime is in black and white, typical of older anime made before ~1960. Some modern anime may intentionally shift to black and white for certain scenes or episodes as an artistic effect.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="105388" update="2011-10-20">
+<epno type="1">1</epno>
+<length>20</length>
+<rating votes="1">2.05</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

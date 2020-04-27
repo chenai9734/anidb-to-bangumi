@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12268" restricted="false">
+<type>Web</type>
+<episodecount>3</episodecount>
+<startdate>2016-03-15</startdate>
+<enddate>2016-11-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Choujuu Giga</title>
+<title xml:lang="ja" type="official">鳥獣戯画</title>
+</titles>
+<url>https://denki.marubeni.co.jp/special/</url>
+<description>Studio Ghibli animated Choujuu-Jinbutsu-Giga Emaki, the famous Japanese "Scrolls of Cartoons of Birds, Animals, and People" or "Choujuu Giga" for short, for a Marubeni Power commercial. The "Encounter" commercial promotes Plan G, a new electric power option that Marubeni Power is offering to homes as Japan deregulates its power industry. The plan derives its name from both "Ghibli" and "green." It promises to support the national trust for "Totoro`s Forest," provide power for the Ghibli Museum, and promote conservation in general.</description>
+<ratings>
+<permanent count="30">5.52</permanent>
+<temporary count="30">5.70</temporary>
+</ratings>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32932</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://denki.marubeni.co.jp/special/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="200594" update="2018-06-01">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2016-11-18</airdate>
+<title xml:lang="ja">そして旅はつづく</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Soshite Tabi wa Tsuzuku</title>
+</episode>
+<episode id="200595" update="2018-06-01">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2016-06-22</airdate>
+<title xml:lang="ja">つれあい</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Tsureai</title>
+</episode>
+<episode id="200596" update="2018-06-01">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2016-03-15</airdate>
+<title xml:lang="ja">出会い</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Deai</title>
+</episode>
+</episodes>
+</anime>

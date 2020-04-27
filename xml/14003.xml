@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14003" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1972</startdate>
+<enddate>1972</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Made in Japan</title>
+<title xml:lang="ja" type="official">MADE IN JAPAN</title>
+</titles>
+<description>Film by Kinoshita Renzo.</description>
+<ratings>
+<permanent count="9">3.91</permanent>
+<temporary count="9">4.55</temporary>
+</ratings>
+<picture>215782.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30673</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="201859" update="2018-06-21">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

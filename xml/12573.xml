@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12573" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2016-11-29</startdate>
+<enddate>2016-11-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gijinka de Manabo!</title>
+<title xml:lang="ja" type="official">擬人化でまなぼ!</title>
+</titles>
+<url>https://webnewtype.com/special/gijinka/</url>
+<creators>
+<name id="49936" type="Animation Work">Yokohama Animation Lab</name>
+<name id="14857" type="Series Composition">Tanimura Daishirou</name>
+</creators>
+<description>The anime illustrates how the three protocols/standards handle a request (an online video purchase) from the user by handing off packets of data between them.
+Source: ANN</description>
+<ratings>
+<permanent count="41">3.79</permanent>
+<temporary count="42">5.45</temporary>
+</ratings>
+<picture>195440.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34464</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://webnewtype.com/special/gijinka/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=Bzv4L03ud8A</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="86531" type="main character in" update="2016-12-04">
+<name>IP</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195571.jpg</picture>
+<seiyuu id="600" picture="148972.jpg">Arai Satomi</seiyuu>
+</character>
+<character id="86532" type="main character in" update="2016-12-04">
+<name>UDP</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195572.jpg</picture>
+<seiyuu id="32939" picture="237666.jpg">Kakuma Ai</seiyuu>
+</character>
+<character id="86533" type="main character in" update="2016-12-04">
+<name>Ether</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195570.jpg</picture>
+<seiyuu id="20762" picture="131325.jpg">Sakura Ayane</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="182673" update="2016-12-01">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2016-11-29</airdate>
+<rating votes="2">5.33</rating>
+<title xml:lang="en">Web</title>
+</episode>
+<episode id="199517" update="2018-05-18">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">PV</title>
+</episode>
+</episodes>
+</anime>

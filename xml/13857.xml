@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13857" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-05-22</startdate>
+<enddate>2014-05-22</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Ghost Messenger Geugjangpan</title>
+<title xml:lang="ko" type="official">고스트 메신저 극장판</title>
+</titles>
+<url>http://www.ghostmessenger.co.kr/</url>
+<ratings>
+<permanent count="7">3.49</permanent>
+<temporary count="7">5.71</temporary>
+</ratings>
+<picture>214131.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30278</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ghostmessenger.co.kr/</url>
+</externalentity>
+</resource>
+<resource type="19">
+<externalentity>
+<identifier>극장판_고스트_메신저</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="197083" update="2018-03-17">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>2014-05-22</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

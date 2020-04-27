@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7834" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1993-03-21</startdate>
+<enddate>1993-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kero Kero Keroppi no Mitsubachi Daisoudou</title>
+<title xml:lang="ja" type="official">けろけろけろっぴのミツバチ大騒動</title>
+</titles>
+<picture>204659.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23146</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22653</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="41768" type="main character in" update="2012-02-26">
+<name>Keroppi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82267.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="120682" update="2010-08-04">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

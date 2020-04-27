@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6555" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2007-03-15</startdate>
+<enddate>2007-03-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Himitsukessha Taka no Tsume The Movie: Soutou wa Nido Shinu</title>
+<title xml:lang="en" type="synonym">Eagle Talon The Movie: The Chancellor Only Lives Twice</title>
+<title xml:lang="ja" type="official">秘密結社 鷹の爪 THE MOVIE~総統は二度死ぬ~</title>
+</titles>
+<relatedanime>
+<anime id="6638" type="Sequel">Himitsukessha Taka no Tsume The Movie II: Watashi o Aishita Kuro Oolong-Cha</anime>
+<anime id="4408" type="Prequel">The Frogman Show</anime>
+</relatedanime>
+<url>http://www.kaeruotoko.com/movie/</url>
+<creators>
+<name id="3825" type="Character Design">Frogman</name>
+<name id="3825" type="Direction">Frogman</name>
+</creators>
+<ratings>
+<permanent count="5">5.21</permanent>
+<temporary count="5">3.50</temporary>
+</ratings>
+<picture>25941.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8038</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8355</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4603</identifier>
+<identifier>ybpsax</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.kaeruotoko.com/movie/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1425</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>327215</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12119</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="4200" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>flash animation</name>
+<description>Made in Adobe Flash (formerly known as Macromedia Flash), a software package for rich multimedia and Web animations and applications. Very popular on amateur fanproductions (like the ones found in places such as YouTube)
+Sadly, Flash has also earned a bad reputation among the animation purists because it leads to cheap low-quality animation jobs, since anyone with a hint of creativity and a "idea" on its head can easily learn how to produce an animated feature in Flash... and sell it to the masses.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="7189" type="appears in" update="2009-06-20">
+<rating votes="1">8.26</rating>
+<name>Deluxe Fighter</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3056.png</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="7191" type="main character in" update="2009-06-20">
+<rating votes="1">9.19</rating>
+<name>Soutou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3054.png</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="7193" type="main character in" update="2009-06-20">
+<name>Yoshida</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3055.png</picture>
+<seiyuu id="3825" picture="30816.jpg">Frogman</seiyuu>
+</character>
+<character id="7195" type="appears in" update="2009-05-24">
+<name>Taka no Tsume-Dan</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="7553" type="cameo appearance in" update="2017-11-14">
+<rating votes="1">9.19</rating>
+<name>Elvis Aaron Presley</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>26285.jpg</picture>
+</character>
+<character id="7554" type="cameo appearance in" update="2017-11-12">
+<name>Koizumi Jun`ichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Prime Minister of Japan from 2001 to 2006.</description>
+<picture>26296.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="102734" update="2009-05-25">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2007-03-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

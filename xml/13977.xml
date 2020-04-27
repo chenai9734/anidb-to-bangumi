@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13977" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2019-04-01</startdate>
+<enddate>2019-04-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pop Team Epic (2019)</title>
+<title xml:lang="ja" type="synonym">星色ガールドロップ 2</title>
+<title xml:lang="ja" type="official">ポプテピピック (2019)</title>
+<title xml:lang="en" type="official">Pop Team Epic TV Special</title>
+<title xml:lang="zh-Hans" type="official">pop子和pipi美的日常 TV特番</title>
+</titles>
+<relatedanime>
+<anime id="13067" type="Prequel">Pop Team Epic</anime>
+</relatedanime>
+<recommendations total="1">
+<recommendation type="For Fans" uid="406148">Must see if you finished the first season of PTE. That specials are the best episodes overall.</recommendation>
+</recommendations>
+<url>http://hoshiiro.jp/</url>
+<description>* Based on a yonkoma absurd comedy manga series written and illustrated by http://anidb.net/cr49463 [Ookawa Bkub].
+Note: The special has four versions shown on four different channel: Tokyo MX (Blue Dragon ver.), Nico Nico Douga (Vermilion Bird ver.), Abema TV Anilive (White Tiger ver.) and Abema TV Pop Team Epic Channel (Black Tortoise ver.). Each version has a unique combination of seiyuus.</description>
+<ratings>
+<permanent count="91">6.63</permanent>
+<temporary count="92">6.70</temporary>
+</ratings>
+<picture>231928.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22476</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37596</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://hoshiiro.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Pop_Team_Epic</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ポプテピピック</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4785</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365516</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>hoshiiro_anime</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>pop-team-epic</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-13">
+<name>multi-segment episodes</name>
+<description>Multi-segment episodes are split into several short segments (parts), usually with separate titles and independent storylines.
+Not to be confused with http://anidb.net/t5852 [short episodes], which are regular episodes that are much shorter than the standard length (up to and including 10 minutes).
+Also not to be confused with an OVA or music video with multiple (otherwise unrelated) full-length http://anidb.net/t7241 [bundled episodes] consolidated into a single episode video track.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="207841" update="2019-04-30">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-04-01</airdate>
+<rating votes="1">3.64</rating>
+<title xml:lang="ja">コンビニ</title>
+<title xml:lang="en">The Convenience Store</title>
+<title xml:lang="x-jat">Konbini</title>
+<summary>BLACK TORTOISE - PART 1
+It’s impossible to have too much Pop Team Epic. Popuko and Pipimi are here to inject even more unapologetic surrealist comedy directly into your synapses!
+BLACK TORTOISE - PART 2
+You thought the last episode was the final one? No way, it’s not over until Popuko and Pipimi say it’s over! Let the next episode commence!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782796</identifier>
+<identifier>pop-team-epic</identifier>
+</externalentity>
+<externalentity>
+<identifier>782798</identifier>
+<identifier>pop-team-epic</identifier>
+</externalentity>
+<externalentity>
+<identifier>782797</identifier>
+<identifier>pop-team-epic</identifier>
+</externalentity>
+<externalentity>
+<identifier>782795</identifier>
+<identifier>pop-team-epic</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="214603" update="2019-04-02">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2019-04-01</airdate>
+<rating votes="1">4.46</rating>
+<title xml:lang="ja">大江戸ポプテ</title>
+<title xml:lang="en">Edo Era Pop Team</title>
+<title xml:lang="x-jat">Ooedo Pop Team</title>
+</episode>
+</episodes>
+</anime>

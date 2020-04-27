@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10369" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2013-12-29</startdate>
+<enddate>2013-12-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chou Akuukan Bouheki Cheese Neapolitan</title>
+<title xml:lang="ja" type="official">超亜空間防壁チーズ・ナポリタン</title>
+</titles>
+<url>http://www.mikumo.com/movie/</url>
+<creators>
+<name id="3705" type="Work">Studio Khara</name>
+</creators>
+<description>Full 3D CG two-minute anime special featuring GMO`s two female mascots, http://anidb.net/ch62658 [Mikumo Anzu] and http://anidb.net/ch62659 [Mikumo Conoha], who live in virtual reality and fight off the invasions of bug-like creatures.
+— written by Singan
+Note: GMO was distributing the special on 15000 (5000 each day) free DVDs at the Comic Market 85 event at booth 314 from December 29 to 31.</description>
+<ratings>
+<permanent count="60">3.43</permanent>
+<temporary count="60">4.87</temporary>
+</ratings>
+<picture>173834.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>21875</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.mikumo.com/movie/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2439" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-16">
+<name>PIC NEEDS IMPROVEMENT</name>
+<description>This entry has a poor picture and needs to have it replaced by a higher-quality alternative. Causes may include: it is too small; its colours or lighting are bad; it has excessive compression or other encoding issues; it is from non-anime sources (anime/char); the face is hard to see (char/creator); the hair/eye/skin colours do not match the anime (char); it does not represent their usual appearance (char); among others. If you can, please swap a better picture in and remove this tag. Thank you.</description>
+<picurl>224875.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="62658" type="main character in" update="2014-01-02">
+<name>Mikumo Anzu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mikumo Anzu is the official mascot character for GMO Internet`s GMO Application Cloud cloud server service.</description>
+<picture>147987.jpg</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+<character id="62659" type="main character in" update="2014-01-02">
+<name>Mikumo Conoha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mikumo Conoha is the official mascot character for the company`s VPS service ConoHa byGMO.</description>
+<picture>147988.jpg</picture>
+<seiyuu id="28602" picture="131381.jpg">Uesaka Sumire</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="156962" update="2014-01-02">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2013-12-29</airdate>
+<rating votes="1">1.28</rating>
+<title xml:lang="ja">ショートアニメ</title>
+<title xml:lang="en">Short Anime</title>
+<title xml:lang="x-jat">Short Anime</title>
+</episode>
+</episodes>
+</anime>

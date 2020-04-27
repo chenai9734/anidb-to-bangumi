@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13207" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-04-19</startdate>
+<enddate>2019-04-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Hibike! Euphonium: Chikai no Finale</title>
+<title xml:lang="ja" type="official">劇場版 響け! ユーフォニアム ~誓いのフィナーレ~</title>
+<title xml:lang="en" type="official">Sound! Euphonium: The Movie - Our Promise - A Brand New Day</title>
+<title xml:lang="zh-Hans" type="official">吹响吧！上低音号~誓言的终曲~</title>
+</titles>
+<relatedanime>
+<anime id="14935" type="Sequel">Hibike! Euphonium: Kumiko 3 Nensei Hen</anime>
+<anime id="11746" type="Prequel">Hibike! Euphonium 2</anime>
+<anime id="13491" type="Side Story">Liz to Aoi Tori</anime>
+</relatedanime>
+<url>http://anime-eupho.com</url>
+<creators>
+<name id="736" type="Animation Work">Kyoto Animation</name>
+<name id="523" type="Character Design">Ikeda Shouko</name>
+<name id="42570" type="Original Work">Takeda Ayano</name>
+<name id="519" type="Direction">Ishihara Tatsuya</name>
+<name id="36136" type="Music">Matsuda Akito</name>
+<name id="529" type="Chief Animation Direction">Nishiya Futoshi</name>
+</creators>
+<description>In http://anidb.net/ch72340 [Oumae Kumiko]`s first year in the http://anidb.net/ch76146 [Kitauji High School Wind Ensemble], they surprised everyone by blazing through the Kyoto and Kansai competitions and making it to the national competition under advisor http://anidb.net/ch73090 [Taki Noboru]. Their seniors graduated, but the remaining members are in high spirits, and their national exposure led to an influx of competent new students. This new iteration of the club decides to set their aims even higher: this year, rather than simply making it to the national competition, they want to also win gold medal there.
+— written by Hinoe</description>
+<ratings>
+<permanent count="65">7.75</permanent>
+<temporary count="67">7.48</temporary>
+</ratings>
+<picture>227674.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21102</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35678</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://anime-eupho.com</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360846</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>anime_eupho</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="55" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-08-11">
+<name>awards</name>
+</tag>
+<tag id="2043" parentid="2869" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>high school</name>
+<description>A secondary school that usually contains grades 10 through 12 in Japan, or 9 through 12 in America.</description>
+<picurl>210064.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2669" parentid="2869" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school clubs</name>
+<description>Even though school clubs in Japan are not mandatory, there is some pressure from the social grid (e.g. fellow students, teachers) to participate in some kind of after-school activity, be it in sports or arts. Colleges also have clubs.
+As a comedy element in anime, some students have joined too many clubs, and are thus constantly stressed out. There is also the element of social commentary, making it clear that you have to join a club, if you want to be part of the class. Since self-founded clubs need at least 3 members, the desperate search and advertising for new members can be cause for hilarity in anime.</description>
+<picurl>210065.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2793" parentid="2883" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>performance</name>
+<description>The song performance on stage or acting in a theatre is a central part of the character`s life in this anime type.</description>
+</tag>
+<tag id="2794" parentid="2883" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>music</name>
+<description>Music anime generally revolves around people concerned with music in their everyday lives. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competitions, characters desire for self improvement, and pursuit of a specific goal. This is not unlike the Sports category.</description>
+<picurl>169131.jpg</picurl>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2862" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>friendship</name>
+<description>The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.</description>
+<picurl>65691.png</picurl>
+</tag>
+<tag id="2869" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2883" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>the arts</name>
+<description>The arts represent an outlet of human expression, usually influenced by culture, and driven by human creative impulse. Major constituents of the arts include literature – including poetry, novels and short stories, and epics; performing arts – among them music, dance, and theatre; culinary arts such as baking, chocolatiering, and winemaking; media arts like photography and film, and visual arts – including drawing, painting, and sculpting. Some art forms combine a visual element with performance (e.g. film) and the written word (e.g. comics).
+From prehistoric cave paintings to modern day films, art serves as a vessel for storytelling and conveying mankind`s relationship with its environment.
+Source: Wiki</description>
+</tag>
+<tag id="2978" parentid="5604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-06-28">
+<name>aim for the top</name>
+<description>This can be a positive or negative plot device. A character may strive to become the best in an altruistic way (e.g. best healer, most widely learned master), or it can be quite banal and primitive (e.g. challenged delinquents wanting to be the strongest fighters).
+Alas in fighting anime the latter usually prevails.</description>
+</tag>
+<tag id="3013" parentid="55" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-12-10">
+<name>Newtype Anime Award</name>
+<description>This anime has won 1 or more Newtype Anime Award(s)</description>
+</tag>
+<tag id="3831" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-13">
+<name>training</name>
+<description>Training is extensive, serious practising a person undergoes in order to develop skills and abilities, such as handling weapons, playing instruments, playing sports, and so on.</description>
+</tag>
+<tag id="3863" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-07-05">
+<name>competition</name>
+<description>Some sort of confrontation occurs in this show. The protagonists "duke it out" via various competitions.</description>
+</tag>
+<tag id="5355" parentid="3863" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-13">
+<name>tournament</name>
+<description>A competition involving a large number of participants. Such competitions may range from friendly, moderated sporting events to anything-goes, all-out fights to the death.
+All participants take part in the tournament in want or need of the final goal and possible prizes; which depending on genre, may range from a boastful record at school to great riches and/or the granting of a wish. 
+Depending on the type of tournament, contestants will either act alone, be permitted a team, or construct a team of chance throughout the ongoing competition.</description>
+<picurl>227699.jpg</picurl>
+</tag>
+<tag id="5604" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-04">
+<name>following one`s dream</name>
+<description>No matter what the hardships may be, at least one of the protagonists in this anime is following her/his dream.
+Examples: To become a professional athlete, a musician, a painter or the ruler of this world!</description>
+</tag>
+<tag id="5851" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>female protagonist</name>
+<description>The anime has a female protagonist.</description>
+</tag>
+<tag id="5917" parentid="2794" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-24">
+<name>classical music</name>
+<description>Classical music is art music produced or rooted in the traditions of Western music (both liturgical and secular). It encompasses a broad span of time from roughly the 11th century to the present day.
+Anime tagged have classical music as a central theme.</description>
+<picurl>169132.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<characters>
+<character id="72337" type="secondary cast in" update="2014-12-28">
+<rating votes="47">5.33</rating>
+<name>Katou Hazuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>166656.jpg</picture>
+<seiyuu id="38232" picture="140073.jpg">Asai Ayaka</seiyuu>
+</character>
+<character id="72338" type="secondary cast in" update="2014-12-28">
+<rating votes="50">5.30</rating>
+<name>Kawashima Sapphire</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>166657.jpg</picture>
+<seiyuu id="37282" picture="136945.jpg">Toyota Moe</seiyuu>
+</character>
+<character id="72339" type="secondary cast in" update="2014-12-28">
+<rating votes="116">7.73</rating>
+<name>Kousaka Reina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>166658.jpg</picture>
+<seiyuu id="10759" picture="38748.jpg">Anzai Chika</seiyuu>
+</character>
+<character id="72340" type="main character in" update="2014-12-28">
+<rating votes="176">7.47</rating>
+<name>Oumae Kumiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>166655.jpg</picture>
+<seiyuu id="16804" picture="224734.jpg">Kurosawa Tomoyo</seiyuu>
+</character>
+<character id="73088" type="secondary cast in" update="2015-04-16">
+<rating votes="39">4.90</rating>
+<name>Tsukamoto Shuuichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168457.jpg</picture>
+<seiyuu id="39260" picture="150015.jpg">Ishiya Haruki</seiyuu>
+</character>
+<character id="73090" type="secondary cast in" update="2018-10-05">
+<rating votes="41">5.85</rating>
+<name>Taki Noboru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>168458.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="73091" type="secondary cast in" update="2015-04-28">
+<rating votes="110">7.88</rating>
+<name>Tanaka Asuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Likes: Cats, Coffee and Bitter Chocolate.
+Dislikes: Dogs, Cocoa, Milk chocolate and useless people.
+Vice president of concert band club.
+Plays the Euphonium.</description>
+<picture>168454.jpg</picture>
+<seiyuu id="1798" picture="20493.jpg">Kotobuki Minako</seiyuu>
+</character>
+<character id="73763" type="secondary cast in" update="2016-12-15">
+<rating votes="64">7.48</rating>
+<name>Nakagawa Natsuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170060.jpg</picture>
+<seiyuu id="33790" picture="93020.jpg">Fujimura Konomi</seiyuu>
+</character>
+<character id="73764" type="secondary cast in" update="2017-11-29">
+<rating votes="46">3.32</rating>
+<name>Yoshikawa Yuuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170061.jpg</picture>
+<seiyuu id="9405" picture="228517.jpg">Yamaoka Yuri</seiyuu>
+</character>
+<character id="73765" type="secondary cast in" update="2017-11-29">
+<rating votes="15">6.85</rating>
+<name>Gotou Takuya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170058.jpg</picture>
+<seiyuu id="592" picture="170729.jpg">Tsuda Kenjirou</seiyuu>
+</character>
+<character id="73768" type="secondary cast in" update="2017-11-29">
+<rating votes="27">6.06</rating>
+<name>Nagase Riko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>170059.jpg</picture>
+<seiyuu id="38169" picture="139881.jpg">Kobori Miyuki</seiyuu>
+</character>
+<character id="76146" type="appears in" update="2016-12-29">
+<rating votes="8">7.90</rating>
+<name>Kitauji Koukou Suisougaku Bu</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<description>Kitauji High School Wind Ensemble</description>
+<picture>196313.jpg</picture>
+</character>
+<character id="95341" type="appears in" update="2018-10-04">
+<rating votes="4">7.59</rating>
+<name>Kenzaki Ririka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224928.jpg</picture>
+</character>
+<character id="96165" type="secondary cast in" update="2018-12-14">
+<rating votes="3">7.44</rating>
+<name>Hisaishi Kanade</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227686.jpg</picture>
+<seiyuu id="34626" picture="144409.jpg">Amamiya Sora</seiyuu>
+</character>
+<character id="96166" type="secondary cast in" update="2018-12-14">
+<rating votes="2">6.58</rating>
+<name>Suzuki Mirei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227687.jpg</picture>
+<seiyuu id="43471" picture="200335.jpg">Nanase Ayaka</seiyuu>
+</character>
+<character id="96167" type="secondary cast in" update="2018-12-14">
+<rating votes="3">7.44</rating>
+<name>Suzuki Satsuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227688.jpg</picture>
+<seiyuu id="20806" picture="182700.jpg">Kuno Misaki</seiyuu>
+</character>
+<character id="96168" type="secondary cast in" update="2018-12-14">
+<name>Tsukinaga Motomu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227689.jpg</picture>
+<seiyuu id="46764" picture="204863.jpg">Tsuchiya Shinba</seiyuu>
+</character>
+<character id="98393" type="appears in" update="2018-10-04">
+<name>Kabutodani Eru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224930.jpg</picture>
+</character>
+<character id="98394" type="appears in" update="2018-10-04">
+<name>Koteyama Suguru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224931.jpg</picture>
+</character>
+<character id="98395" type="appears in" update="2018-10-04">
+<name>Etou Kana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224932.jpg</picture>
+</character>
+<character id="98396" type="appears in" update="2018-10-04">
+<name>Hiraishi Narumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224933.jpg</picture>
+</character>
+<character id="98397" type="appears in" update="2018-10-04">
+<name>Yamane Tsumiki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224935.jpg</picture>
+</character>
+<character id="98398" type="appears in" update="2018-10-04">
+<rating votes="6">7.45</rating>
+<name>Inoue Shirabe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224936.jpg</picture>
+</character>
+<character id="98399" type="appears in" update="2018-10-04">
+<rating votes="6">7.45</rating>
+<name>Oda Meiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224937.jpg</picture>
+</character>
+<character id="98400" type="appears in" update="2018-10-04">
+<rating votes="6">7.45</rating>
+<name>Takahashi Sari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224938.jpg</picture>
+</character>
+<character id="98401" type="appears in" update="2018-10-04">
+<rating votes="6">7.45</rating>
+<name>Nakano Tsubomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>224939.jpg</picture>
+</character>
+<character id="98416" type="appears in" update="2018-10-05">
+<name>Kohara Aine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225011.jpg</picture>
+</character>
+<character id="98417" type="appears in" update="2018-10-05">
+<name>Tsuchiya Hibiki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225013.jpg</picture>
+</character>
+<character id="98418" type="appears in" update="2018-10-05">
+<name>Fukamachi Sumiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225014.jpg</picture>
+</character>
+<character id="98419" type="appears in" update="2018-10-05">
+<name>Yashiki Sanae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225016.jpg</picture>
+</character>
+<character id="98420" type="appears in" update="2018-10-05">
+<name>Kitada Une</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225017.jpg</picture>
+</character>
+<character id="98421" type="appears in" update="2018-10-05">
+<rating votes="6">7.45</rating>
+<name>Kishibe Miru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225022.jpg</picture>
+</character>
+<character id="98423" type="appears in" update="2018-10-05">
+<rating votes="6">7.45</rating>
+<name>Hitomi Lala</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225023.jpg</picture>
+</character>
+<character id="98424" type="appears in" update="2018-10-05">
+<rating votes="6">7.45</rating>
+<name>Morimoto Michiyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225024.jpg</picture>
+</character>
+<character id="98427" type="appears in" update="2018-10-05">
+<name>Hayashi Rairi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225028.jpg</picture>
+</character>
+<character id="98428" type="appears in" update="2018-10-05">
+<name>Higashiura Motoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225029.jpg</picture>
+</character>
+<character id="98431" type="appears in" update="2018-10-05">
+<name>Maeda Aota</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225034.jpg</picture>
+</character>
+<character id="98434" type="appears in" update="2018-10-05">
+<name>Maeda Sosuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225040.jpg</picture>
+</character>
+<character id="98436" type="appears in" update="2018-10-05">
+<name>Machida Michiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>225043.jpg</picture>
+</character>
+<character id="98882" type="appears in" update="2018-10-26">
+<rating votes="5">7.45</rating>
+<name>Shima Rie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226004.jpg</picture>
+</character>
+<character id="98883" type="appears in" update="2018-10-26">
+<rating votes="6">7.45</rating>
+<name>Ueda Hiyoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226006.jpg</picture>
+</character>
+<character id="98884" type="appears in" update="2018-10-26">
+<rating votes="6">7.45</rating>
+<name>Takano Hisae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226010.jpg</picture>
+</character>
+<character id="98890" type="appears in" update="2018-10-26">
+<rating votes="6">7.45</rating>
+<name>Takahisa Chieri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226011.jpg</picture>
+</character>
+<character id="98891" type="appears in" update="2018-10-26">
+<rating votes="6">7.45</rating>
+<name>Matsuzaki Yoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226014.jpg</picture>
+</character>
+<character id="98892" type="appears in" update="2018-10-26">
+<name>Ashida Seiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226016.jpg</picture>
+</character>
+<character id="98893" type="appears in" update="2018-10-26">
+<name>Imura Taku</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226018.jpg</picture>
+</character>
+<character id="98894" type="appears in" update="2018-10-26">
+<name>Katou Miki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226019.jpg</picture>
+</character>
+<character id="98895" type="appears in" update="2018-10-26">
+<name>Kitayama Tairu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226020.jpg</picture>
+</character>
+<character id="98896" type="appears in" update="2018-10-26">
+<name>Sakasaki Ayako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226021.jpg</picture>
+</character>
+<character id="98897" type="appears in" update="2018-10-26">
+<name>Hashida Maya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226022.jpg</picture>
+</character>
+<character id="98898" type="appears in" update="2018-10-26">
+<name>Hiranuma Shiori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226025.jpg</picture>
+</character>
+<character id="99402" type="appears in" update="2018-11-22">
+<rating votes="12">7.02</rating>
+<name>Kabe Tomoe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227033.jpg</picture>
+</character>
+<character id="99403" type="appears in" update="2018-11-22">
+<rating votes="6">2.79</rating>
+<name>Takino Junichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227034.jpg</picture>
+</character>
+<character id="99404" type="appears in" update="2018-11-22">
+<rating votes="6">7.45</rating>
+<name>Yoshizawa Akiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227035.jpg</picture>
+</character>
+<character id="99405" type="appears in" update="2018-11-22">
+<name>Asakura Tamari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227036.jpg</picture>
+</character>
+<character id="99406" type="appears in" update="2018-11-22">
+<name>Kohinata Yume</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227037.jpg</picture>
+</character>
+<character id="99407" type="appears in" update="2018-11-22">
+<name>Takami Suguru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227038.jpg</picture>
+</character>
+<character id="99408" type="appears in" update="2018-11-22">
+<name>Takino Sayaka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227039.jpg</picture>
+</character>
+<character id="99409" type="appears in" update="2018-11-22">
+<rating votes="6">7.45</rating>
+<name>Iwata Keina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227040.jpg</picture>
+</character>
+<character id="99410" type="appears in" update="2018-11-22">
+<rating votes="6">7.45</rating>
+<name>Akamatsu Maki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227041.jpg</picture>
+</character>
+<character id="99411" type="appears in" update="2018-11-22">
+<rating votes="6">7.45</rating>
+<name>Fukui Sayaka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227042.jpg</picture>
+</character>
+<character id="99412" type="appears in" update="2018-11-22">
+<name>Kikkawa Maya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227043.jpg</picture>
+</character>
+<character id="99413" type="appears in" update="2018-11-22">
+<name>Hakase Michiru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227044.jpg</picture>
+</character>
+<character id="99414" type="appears in" update="2018-11-22">
+<name>Hotei Tomomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227045.jpg</picture>
+</character>
+<character id="99521" type="appears in" update="2018-11-30">
+<rating votes="6">7.45</rating>
+<name>Hirao Sumiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227239.jpg</picture>
+</character>
+<character id="99522" type="appears in" update="2018-11-30">
+<rating votes="6">7.45</rating>
+<name>Morita Shinobu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227240.jpg</picture>
+</character>
+<character id="99523" type="appears in" update="2018-11-30">
+<rating votes="6">7.45</rating>
+<name>Takigawa Chikao</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227241.jpg</picture>
+</character>
+<character id="99524" type="appears in" update="2018-11-30">
+<rating votes="6">7.45</rating>
+<name>Maki Chikai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227242.jpg</picture>
+</character>
+<character id="99547" type="appears in" update="2018-12-01">
+<name>Ayukawa Kyoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227271.jpg</picture>
+</character>
+<character id="99549" type="appears in" update="2018-12-01">
+<name>Uchida Babe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227272.jpg</picture>
+</character>
+<character id="99550" type="appears in" update="2018-12-01">
+<name>Endo Tadashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227273.jpg</picture>
+</character>
+<character id="99551" type="appears in" update="2018-12-01">
+<name>Otaki Nanami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227274.jpg</picture>
+</character>
+<character id="99552" type="appears in" update="2018-12-01">
+<name>Suzuki Seiya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227275.jpg</picture>
+</character>
+<character id="99553" type="appears in" update="2018-12-01">
+<name>Nara Machiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227276.jpg</picture>
+</character>
+<character id="99554" type="appears in" update="2018-12-01">
+<name>Hattori Nakaba</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227277.jpg</picture>
+</character>
+<character id="99555" type="appears in" update="2018-12-01">
+<name>Hosono Haruna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227278.jpg</picture>
+</character>
+<character id="99557" type="appears in" update="2018-12-01">
+<name>Matsumoto Kiri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>227280.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="188112" update="2019-04-17">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2019-04-19</airdate>
+<rating votes="2">9.62</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

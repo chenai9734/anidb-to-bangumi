@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12881" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1932</startdate>
+<enddate>1932</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ahiru no Ko</title>
+<title xml:lang="en" type="synonym">The Ugly Duckling</title>
+<title xml:lang="ja" type="official">あひるの子</title>
+</titles>
+<ratings>
+<permanent count="23">4.37</permanent>
+<temporary count="23">4.84</temporary>
+</ratings>
+<picture>198735.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35410</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3055" parentid="3876" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>fairy tale</name>
+<description>This anime is either based on or contains parts of fairy tales. Usually those parts are highly modified or twisted when compared with the original source.</description>
+</tag>
+<tag id="3597" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-02-26">
+<name>mythology</name>
+<description>The anime gets inspirations from many forms of mythologies (either Greek, Egyptian, Nord, etc.) to form its story and setting.</description>
+</tag>
+<tag id="3876" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>folklore</name>
+<description>Folklore, or simply Lore, are the traditions of a culture, subculture, or group, in the form of legends, music, proverbs, jokes, popular beliefs, fairy tales, stories, tall tales and customs. In usage, there is a continuum between folklore and mythology.
+Folklore is generally divided into four areas of study: physical artifacts, transmissible entities and stories, culture and technologies, and behaviors and rituals.
+[From Wikipedia]</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="184958" update="2017-02-22">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

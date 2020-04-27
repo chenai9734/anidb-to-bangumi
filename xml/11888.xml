@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11888" restricted="false">
+<type>TV Series</type>
+<episodecount>32</episodecount>
+<startdate>2016-04-06</startdate>
+<enddate>2017-02-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Neko Neko Nihonshi</title>
+<title xml:lang="ja" type="official">ねこねこ日本史</title>
+<title xml:lang="en" type="official">Meow Meow Japanese History</title>
+</titles>
+<relatedanime>
+<anime id="13054" type="Sequel">Neko Neko Nihonshi (2017)</anime>
+</relatedanime>
+<url>http://neco-neco.jp/index.html</url>
+<creators>
+<name id="44235" type="Direction">Kawamura Tomohiro</name>
+<name id="44235" type="Character Design">Kawamura Tomohiro</name>
+<name id="45404" type="Series Composition">Takada Ryou</name>
+<name id="9170" type="Original Work">Sonishi Kenji</name>
+<name id="45405" type="Music">Kosen</name>
+<name id="45408" type="Animation Work">Cresco Motion Design</name>
+<name id="45409" type="Animation Work">Neft Film</name>
+</creators>
+<description>The anime imagines if Japanese historical figures such as Queen Himiko, the warlord Oda Nobunaga, and samurai Sakamoto Ryouma were cats.</description>
+<ratings>
+<permanent count="18">3.78</permanent>
+<temporary count="18">5.16</temporary>
+</ratings>
+<picture>181565.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18092</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32572</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://neco-neco.jp/index.html</url>
+</externalentity>
+<externalentity>
+<url>http://www6.nhk.or.jp/anime/program/detail.html?i=nekoneko</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ねこねこ日本史</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4173</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355486</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19090</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="81455" type="secondary cast in" update="2017-11-14">
+<name>Himiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185139.jpg</picture>
+</character>
+<character id="81456" type="secondary cast in" update="2017-11-13">
+<name>Oda Nobunaga</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185140.jpg</picture>
+</character>
+<character id="81457" type="main character in" update="2017-11-12">
+<name>Sakamoto Ryouma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>185141.jpg</picture>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="176677" update="2017-12-15">
+<epno type="1">4</epno>
+<length>9</length>
+<airdate>2016-04-27</airdate>
+<title xml:lang="ja">スーパーキャット, 聖徳太子!</title>
+<title xml:lang="en">Prince Shotoku, the Super Cat!</title>
+<title xml:lang="x-jat">Super Cat, Shoutoku Taishi!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751283</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="176678" update="2017-12-15">
+<epno type="1">3</epno>
+<length>9</length>
+<airdate>2016-04-20</airdate>
+<title xml:lang="ja">幕末に龍馬あり! ~青春編~</title>
+<title xml:lang="en">Ryoma in the Bakumatsu! The Story of His Youth</title>
+<title xml:lang="x-jat">Bakumatsu ni Ryouma Ari! Seishun Hen</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751281</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="176679" update="2017-12-15">
+<epno type="1">2</epno>
+<length>9</length>
+<airdate>2016-04-13</airdate>
+<title xml:lang="ja">その猫, 織田信長!</title>
+<title xml:lang="en">The Cat, Oda Nobunaga!</title>
+<title xml:lang="x-jat">Sono Neko, Oda Nobunaga!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751279</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="176680" update="2017-12-15">
+<epno type="1">1</epno>
+<length>9</length>
+<airdate>2016-04-06</airdate>
+<title xml:lang="ja">女王, 卑弥呼!</title>
+<title xml:lang="en">Queen Himiko!</title>
+<title xml:lang="x-jat">Joou, Himiko!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751277</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="176870" update="2017-12-15">
+<epno type="1">5</epno>
+<length>9</length>
+<airdate>2016-05-11</airdate>
+<title xml:lang="ja">新選組, 疾風伝!</title>
+<title xml:lang="en">Chronicles of the Shinsengumi!</title>
+<title xml:lang="x-jat">Shinsengumi, Shippuuden!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751285</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="177114" update="2017-12-15">
+<epno type="1">6</epno>
+<length>9</length>
+<airdate>2016-05-18</airdate>
+<title xml:lang="ja">家康は天下の苦労人! ~関ヶ原編~</title>
+<title xml:lang="en">Ieyasu: Japan`s Great Struggler! The Story of Sekigahara</title>
+<title xml:lang="x-jat">Ieyasu wa Tenka no Kurounin! Sekigahara Hen</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751289</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="177829" update="2017-12-15">
+<epno type="1">9</epno>
+<length>9</length>
+<airdate>2016-06-15</airdate>
+<title xml:lang="ja">源頼朝, 鎌倉に立つ!</title>
+<title xml:lang="en">Minamoto no Yoritomo Rises in Kamakura!</title>
+<title xml:lang="x-jat">Minamoto no Yoritomo, Kamakura ni Tatsu!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751299</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="177830" update="2017-12-15">
+<epno type="1">8</epno>
+<length>9</length>
+<airdate>2016-06-01</airdate>
+<title xml:lang="ja">平安絵巻, 紫式部!</title>
+<title xml:lang="en">The Heian Icon, Murasaki Shikibu!</title>
+<title xml:lang="x-jat">Heian Emaki, Murasaki Shikibu!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751295</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="177831" update="2017-12-15">
+<epno type="1">7</epno>
+<length>9</length>
+<airdate>2016-05-25</airdate>
+<title xml:lang="ja">戦上手, 真田幸村! ~迷走!? 編~</title>
+<title xml:lang="en">Master of Warfare, Sanada Yukimura! The Wandering Story?!</title>
+<title xml:lang="x-jat">Ikusa Jouzu, Sanada Yukimura! Meisou!? Hen</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751291</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="177988" update="2017-12-15">
+<epno type="1">11</epno>
+<length>9</length>
+<airdate>2016-06-29</airdate>
+<title xml:lang="ja">無敵, 武田信玄伝説!</title>
+<title xml:lang="en">The Legend of the Invincible Takeda Shingen!</title>
+<title xml:lang="x-jat">Muteki, Takeda Shingen Densetsu!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751315</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="177989" update="2017-12-15">
+<epno type="1">10</epno>
+<length>9</length>
+<airdate>2016-06-22</airdate>
+<title xml:lang="ja">がんばれ, 藤原道長!</title>
+<title xml:lang="en">Hang in There, Fujiwara no Michinaga!</title>
+<title xml:lang="x-jat">Ganbare, Fujiwara no Michinaga!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751313</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="178307" update="2017-12-15">
+<epno type="1">13</epno>
+<length>9</length>
+<airdate>2016-07-13</airdate>
+<title xml:lang="ja">幕末に龍馬あり! ~ねこねこの夜明け編~</title>
+<title xml:lang="en">Ryoma in the Bakumatsu! The Dawn of a Kitty Cat</title>
+<title xml:lang="x-jat">Bakumatsu ni Ryouma Ari! Neko Neko no Yoake Hen</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751319</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="178308" update="2017-12-15">
+<epno type="1">12</epno>
+<length>9</length>
+<airdate>2016-07-06</airdate>
+<title xml:lang="ja">おしゃれ独眼竜政宗! ~大ピンチ編~</title>
+<title xml:lang="en">The Stylish One-Eyed Dragon Masamune! The Story of His Big Trouble</title>
+<title xml:lang="x-jat">Oshare Dokuganryuu Masamune! Dai Pinch Hen</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751317</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179750" update="2017-12-15">
+<epno type="1">15</epno>
+<length>9</length>
+<airdate>2016-09-14</airdate>
+<title xml:lang="ja">戦上手, 真田幸村! ~大坂の陣編~</title>
+<title xml:lang="en">Master of Warfare, Sanada Yukimura! The Siege of Osaka</title>
+<title xml:lang="x-jat">Ikusa Jouzu, Sanada Yukimura! Oosaka no Jin Hen</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751323</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="179751" update="2017-12-15">
+<epno type="1">14</epno>
+<length>9</length>
+<airdate>2016-09-07</airdate>
+<title xml:lang="ja">ドキドキ, 縄文人!</title>
+<title xml:lang="en">Exciting Times with the Jomon!</title>
+<title xml:lang="x-jat">Doki Doki, Joumonjin!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751321</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180040" update="2017-12-15">
+<epno type="1">17</epno>
+<length>9</length>
+<airdate>2016-09-28</airdate>
+<title xml:lang="ja">足利尊氏, ゼッコーチョー!</title>
+<title xml:lang="en">Ashikaga Takauji`s in Top Shape!</title>
+<title xml:lang="x-jat">Ashikaga Takauji, Zekkouchou!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751327</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180041" update="2017-12-15">
+<epno type="1">16</epno>
+<length>9</length>
+<airdate>2016-09-21</airdate>
+<title xml:lang="ja">家康は天下の苦労人!~しかめっつら編~</title>
+<title xml:lang="en">Ieyasu: Japan`s Great Struggler! The Story of Grimace</title>
+<title xml:lang="x-jat">Ieyasu wa Tenka no Kurounin! Shikamettsura Hen</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751325</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180486" update="2017-12-15">
+<epno type="1">18</epno>
+<length>9</length>
+<airdate>2016-10-12</airdate>
+<title xml:lang="ja">ヒーロー大塩平八郎, 見参!</title>
+<title xml:lang="en">The Hero, Oshio Heihachiro, Arrives!</title>
+<title xml:lang="x-jat">Hero Ooshio Heihachirou, Kenzan!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751331</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180950" update="2017-12-15">
+<epno type="1">20</epno>
+<length>9</length>
+<airdate>2016-10-26</airdate>
+<title xml:lang="ja">いぬいぬ将軍, 徳川綱吉!</title>
+<title xml:lang="en">The Puppy Dog Shogun Tokugawa Tsunayoshi!</title>
+<title xml:lang="x-jat">Inu Inu Shougun, Tokugawa Tsunayoshi!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751335</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="180951" update="2017-12-15">
+<epno type="1">19</epno>
+<length>9</length>
+<airdate>2016-10-19</airdate>
+<title xml:lang="ja">清少納言, いとをかし!</title>
+<title xml:lang="en">Sei Shonagon, the Eminent!</title>
+<title xml:lang="x-jat">Sei Shounagon, Ito o Kashi!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751333</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181326" update="2017-12-15">
+<epno type="1">22</epno>
+<length>9</length>
+<airdate>2016-11-16</airdate>
+<title xml:lang="ja">若武者, 義経!</title>
+<title xml:lang="en">The Young Warrior, Minamoto no Yoshitsune!</title>
+<title xml:lang="x-jat">Wakamusha, Yoshitsune!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751339</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="181327" update="2017-12-15">
+<epno type="1">21</epno>
+<length>9</length>
+<airdate>2016-11-09</airdate>
+<title xml:lang="ja">新選組, 青春編!</title>
+<title xml:lang="en">Shinsengumi: The Early Days!</title>
+<title xml:lang="x-jat">Shinsengumi, Seishun Hen!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751337</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187765" update="2017-12-15">
+<epno type="1">32</epno>
+<length>9</length>
+<airdate>2017-02-22</airdate>
+<title xml:lang="ja">秀吉はサルである!</title>
+<title xml:lang="en">Hideyoshi`s a Monkey!</title>
+<title xml:lang="x-jat">Hideyoshi wa Saru de Aru!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751363</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187766" update="2017-12-15">
+<epno type="1">31</epno>
+<length>9</length>
+<airdate>2017-02-15</airdate>
+<title xml:lang="ja">お市と浅井三姉妹, 嫁入り大作戦!</title>
+<title xml:lang="en">Oichi and the Three Azai Sisters! The Great Marriage Strategy</title>
+<title xml:lang="x-jat">Oichi to Azai San Shimai, Yomeiri Daisakusen!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751361</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187767" update="2017-12-15">
+<epno type="1">30</epno>
+<length>9</length>
+<airdate>2017-02-08</airdate>
+<title xml:lang="ja">輝け, 大仏開眼!</title>
+<title xml:lang="en">Shine! The Great Buddha`s Eye Opening!</title>
+<title xml:lang="x-jat">Kagayake, Daibutsu Kaigen!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751359</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187768" update="2017-12-15">
+<epno type="1">29</epno>
+<length>9</length>
+<airdate>2017-02-01</airdate>
+<title xml:lang="ja">正直すぎ, 石田三成!</title>
+<title xml:lang="en">You`re Too Honest, Ishida Mitsunari!</title>
+<title xml:lang="x-jat">Shoujiki Sugi, Ishida Mitsunari!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751353</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187769" update="2017-12-15">
+<epno type="1">28</epno>
+<length>9</length>
+<airdate>2017-01-18</airdate>
+<title xml:lang="ja">はだかン坊将軍, 徳川吉宗!</title>
+<title xml:lang="en">The Naked Shogun, Tokugawa Yoshimune!</title>
+<title xml:lang="x-jat">Hadakanbou Shougun, Tokugawa Yoshimune!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751351</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187770" update="2017-12-15">
+<epno type="1">27</epno>
+<length>9</length>
+<airdate>2017-01-11</airdate>
+<title xml:lang="ja">女領主井伊直虎, 誕生編!</title>
+<title xml:lang="en">The Lady Feudal Lord, Ii Naotora! The Beginning!</title>
+<title xml:lang="x-jat">Onna Ryoushu Ii Naotora, Tanjou Hen!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751349</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187771" update="2017-12-15">
+<epno type="1">26</epno>
+<length>9</length>
+<airdate>2016-12-21</airdate>
+<title xml:lang="ja">いくぜ信長, 桶狭間!</title>
+<title xml:lang="en">Here Comes Nobunaga to Okehazama!</title>
+<title xml:lang="x-jat">Ikuze Nobunaga, Okehazama!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751347</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187772" update="2017-12-15">
+<epno type="1">25</epno>
+<length>9</length>
+<airdate>2016-12-14</airdate>
+<title xml:lang="ja">宮本武蔵, 天下一なり!</title>
+<title xml:lang="en">Miyamoto Musashi, Becoming the Greatest in the Land!</title>
+<title xml:lang="x-jat">Miyamoto Musashi, Tenkaichi Nari!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751345</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187773" update="2017-12-15">
+<epno type="1">24</epno>
+<length>9</length>
+<airdate>2016-12-07</airdate>
+<title xml:lang="ja">忠臣蔵だよ, 大石内蔵助!</title>
+<title xml:lang="en">That`s Forty-Seven Ronin, Ooishi Kuranosuke!</title>
+<title xml:lang="x-jat">Chuushingura Da yo, Ooishi Kuranosuke!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751343</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187774" update="2017-12-15">
+<epno type="1">23</epno>
+<length>9</length>
+<airdate>2016-11-23</airdate>
+<title xml:lang="ja">ねこねこマップだ, 伊能忠敬!</title>
+<title xml:lang="en">A Kitty Cat Map! Ino Tadataka!</title>
+<title xml:lang="x-jat">Neko Neko Map Da, Inou Tadataka!</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>751341</identifier>
+<identifier>meow-meow-japanese-history</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

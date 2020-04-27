@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7447" restricted="false">
+<type>TV Series</type>
+<episodecount>20</episodecount>
+<startdate>2010-03-20</startdate>
+<enddate>2010-09-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Doubutsu Kankyou Kaigi</title>
+<title xml:lang="en" type="synonym">The Animal Conference on the Environment</title>
+<title xml:lang="ja" type="official">動物かんきょう会議</title>
+</titles>
+<url>http://nhkint-animalconference.com/</url>
+<creators>
+<name id="730" type="Animation Work">Studio Deen</name>
+<name id="2241" type="Direction">Nishimura Junji</name>
+<name id="3191" type="Character Design">Saitou Tetsuhito</name>
+</creators>
+<ratings>
+<permanent count="3">4.02</permanent>
+<temporary count="3">4.33</temporary>
+</ratings>
+<picture>45238.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11362</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8478</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4707</identifier>
+<identifier>ucrkku</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://nhkint-animalconference.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>337039</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="16110" type="secondary cast in" update="2010-03-27">
+<name>Azarashi no Azy</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45246.jpg</picture>
+<seiyuu id="16126" picture="45257.jpg">Yoshida Mai</seiyuu>
+</character>
+<character id="16111" type="secondary cast in" update="2010-03-27">
+<name>Iguana no Igu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="609" picture="1835.gif">Aomori Shin</seiyuu>
+</character>
+<character id="16112" type="secondary cast in" update="2010-03-27">
+<name>Iguana no Gala</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="609" picture="1835.gif">Aomori Shin</seiyuu>
+</character>
+<character id="16113" type="secondary cast in" update="2010-10-11">
+<name>Usagi no Dr. Rabi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45245.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="16114" type="secondary cast in" update="2010-10-11">
+<name>Orang Utan no Uuta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45248.jpg</picture>
+<seiyuu id="16125" picture="45256.jpg">Hasuike Ryuuzou</seiyuu>
+</character>
+<character id="16115" type="secondary cast in" update="2010-03-27">
+<name>Karasu no Karao</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45250.jpg</picture>
+<seiyuu id="16124" picture="45254.jpg">Kobashi Tatsuya</seiyuu>
+</character>
+<character id="16116" type="secondary cast in" update="2010-03-27">
+<name>Kangaroo no Joey</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="16126" picture="45257.jpg">Yoshida Mai</seiyuu>
+</character>
+<character id="16117" type="secondary cast in" update="2010-03-27">
+<name>Kangaroo no Lupo</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="490" picture="17481.jpg">Kikuchi Shiho</seiyuu>
+</character>
+<character id="16118" type="secondary cast in" update="2010-10-11">
+<name>Kuma no Tanya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45251.jpg</picture>
+<seiyuu id="1871" picture="20967.jpg">Asano Mayumi</seiyuu>
+</character>
+<character id="16119" type="secondary cast in" update="2010-03-27">
+<name>Kuroneko no Kurocchi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+</character>
+<character id="16120" type="secondary cast in" update="2010-10-11">
+<name>Zou no Zou-mama</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45247.jpg</picture>
+<seiyuu id="608" picture="18012.jpg">Takahashi Rieko</seiyuu>
+</character>
+<character id="16121" type="main character in" update="2010-10-11">
+<name>Tanuki no Takku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45239.jpg</picture>
+<seiyuu id="65" picture="170428.jpg">Yoshino Hiroyuki</seiyuu>
+</character>
+<character id="16122" type="secondary cast in" update="2010-10-11">
+<name>Tora no Torajii</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45242.jpg</picture>
+<seiyuu id="694" picture="52187.jpg">Choo</seiyuu>
+</character>
+<character id="16123" type="secondary cast in" update="2010-03-27">
+<name>Niwatori no Jean</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="270" picture="25681.jpg">Sasaki Nozomu</seiyuu>
+</character>
+<character id="16124" type="secondary cast in" update="2010-03-27">
+<name>Hyena no Haidara</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4196" picture="26343.jpg">Takeda Masanori</seiyuu>
+</character>
+<character id="16125" type="secondary cast in" update="2010-10-11">
+<name>Harinezumi no Harry</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45240.jpg</picture>
+<seiyuu id="268" picture="17093.jpg">Hidaka Noriko</seiyuu>
+</character>
+<character id="16126" type="secondary cast in" update="2010-10-11">
+<name>Panda no Pao</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45244.jpg</picture>
+<seiyuu id="198" picture="202893.jpg">Kusao Takeshi</seiyuu>
+</character>
+<character id="16127" type="secondary cast in" update="2010-10-11">
+<name>Beaver no Eva</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45249.jpg</picture>
+<seiyuu id="2126" picture="145389.jpg">Niino Michi</seiyuu>
+</character>
+<character id="16128" type="secondary cast in" update="2010-10-11">
+<name>Washi no Wasshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45241.jpg</picture>
+<seiyuu id="32" picture="16618.jpg">Tachiki Fumihiko</seiyuu>
+</character>
+<character id="16129" type="secondary cast in" update="2010-10-11">
+<name>Wani no Wanir</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>45243.jpg</picture>
+<seiyuu id="52" picture="19811.jpg">Takahashi Hiroki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="117113" update="2012-01-22">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2010-09-18</airdate>
+<title xml:lang="ja">地球博覧会</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Chikyuu Hakuran Kai</title>
+</episode>
+<episode id="117114" update="2012-01-22">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2010-09-18</airdate>
+<title xml:lang="ja">風の道</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Kaze no Michi</title>
+</episode>
+<episode id="117115" update="2012-01-22">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2010-08-14</airdate>
+<title xml:lang="ja">マジカル ミステリー ツアー</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Magical Mistery Tour</title>
+</episode>
+<episode id="117116" update="2012-01-22">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2010-08-14</airdate>
+<title xml:lang="ja">ランプの魔人</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Lamp no Majin</title>
+</episode>
+<episode id="117117" update="2012-01-22">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2010-08-08</airdate>
+<title xml:lang="ja">ディープ ブルー</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Deep Blue</title>
+</episode>
+<episode id="117118" update="2012-01-22">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2010-08-07</airdate>
+<title xml:lang="ja">トレンドファッション入門</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Trend Fasshion Nyuumon</title>
+</episode>
+<episode id="117119" update="2012-01-22">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2010-07-24</airdate>
+<title xml:lang="ja">オープンウォーターパーティー</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Open Water Party</title>
+</episode>
+<episode id="117120" update="2012-01-22">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2010-07-24</airdate>
+<title xml:lang="ja">動物, 月へ行く</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Doubutsu, Tsuki e Iku</title>
+</episode>
+<episode id="117121" update="2012-01-22">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2010-07-17</airdate>
+<title xml:lang="ja">くるくる交換会</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kurukuru Koukankai</title>
+</episode>
+<episode id="117122" update="2012-01-22">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2010-07-17</airdate>
+<title xml:lang="ja">魔法のタネ</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Mahou no Tane</title>
+</episode>
+<episode id="117123" update="2010-04-30">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2010-05-04</airdate>
+<title xml:lang="ja">宝島</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Takarajima</title>
+</episode>
+<episode id="117124" update="2010-04-30">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2010-05-02</airdate>
+<title xml:lang="ja">笛吹き男</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Fuefuki Otoko</title>
+</episode>
+<episode id="117125" update="2010-04-30">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2010-05-02</airdate>
+<title xml:lang="ja">ユメ占い</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Yume Uranai</title>
+</episode>
+<episode id="117126" update="2010-04-30">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2010-05-01</airdate>
+<title xml:lang="ja">オムツ☆ラプソディ</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Omutsu Rhapsody</title>
+</episode>
+<episode id="117127" update="2010-04-30">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2010-05-01</airdate>
+<title xml:lang="ja">超マイカー宣言</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Chou My Car Sengen</title>
+</episode>
+<episode id="117128" update="2010-03-27">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2010-03-20</airdate>
+<title xml:lang="ja">宇宙より愛をこめて</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Uchuu yori Ai o Komete</title>
+</episode>
+<episode id="117129" update="2010-03-27">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2010-03-20</airdate>
+<title xml:lang="ja">夢みるエコハウス</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Yume Miru Eco House</title>
+</episode>
+<episode id="117130" update="2010-03-27">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2010-03-20</airdate>
+<title xml:lang="ja">絶滅危ぐ種を救え</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Zetsumetsu Kigushu o Sukue</title>
+</episode>
+<episode id="117131" update="2010-03-27">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2010-03-20</airdate>
+<title xml:lang="ja">虹色ピクニック</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Nijiiro Picnic</title>
+</episode>
+<episode id="117132" update="2010-03-27">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2010-03-20</airdate>
+<title xml:lang="ja">エレガントな発電より</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Elegant na Hatsuden yori</title>
+</episode>
+</episodes>
+</anime>

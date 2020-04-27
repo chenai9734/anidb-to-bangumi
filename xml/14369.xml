@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14369" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1976-10-13</startdate>
+<enddate>1976-10-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chikara Bashi</title>
+<title xml:lang="ja" type="official">ちからばし</title>
+</titles>
+<creators>
+<name id="43610" type="Original Work">Koizumi Yakumo</name>
+<name id="11206" type="Direction">Okamoto Tadanari</name>
+</creators>
+<description>A short puppet animation ghost story by http://anidb.net/cr11206 [Okamoto Tadanari].</description>
+<ratings>
+<permanent count="9">2.76</permanent>
+<temporary count="9">3.88</temporary>
+</ratings>
+<picture>223065.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29793</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>12879</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205924" update="2018-09-01">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>1976-10-13</airdate>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

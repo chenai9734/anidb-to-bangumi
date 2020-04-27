@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11434" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2015-01-19</startdate>
+<enddate>2015-01-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yume no Ukiyo ni Saitemina</title>
+<title xml:lang="ja" type="official">夢の浮世に咲いてみな</title>
+</titles>
+<description>Music video for Yume no Ukiyo ni Saitemina, a collaboration between idol group Momoiro Clover Z, and rock band KISS.</description>
+<ratings>
+<permanent count="76">4.51</permanent>
+<temporary count="76">5.05</temporary>
+</ratings>
+<picture>175680.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29707</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=ivJZljEostE</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="170296" update="2015-07-27">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-01-19</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

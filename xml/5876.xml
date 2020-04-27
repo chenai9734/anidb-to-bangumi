@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5876" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2008-09-21</startdate>
+<enddate>2008-09-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mushrambo (2008)</title>
+<title xml:lang="ja" type="official">マシュランボー (2008)</title>
+</titles>
+<relatedanime>
+<anime id="2127" type="Other">Mushrambo</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/tv/mashura/</url>
+<creators>
+<name id="3778" type="Character Design">Kamimura Sachiko</name>
+<name id="4282" type="Direction">Imazawa Tetsuo</name>
+<name id="683" type="Series Composition">Sekijima Mayori</name>
+<name id="2808" type="Original Work">Toudou Izumi</name>
+<name id="4779" type="Music">Horii Katsumi</name>
+<name id="22907" type="Series Composition">Nonaka Yukihito</name>
+</creators>
+<description>Toei Animation has revealed plans to revive the Mushrambo sci-fi action anime television series originally broadcast in 2000. The series was broadcast on American television in 2001 under the title "Shinzo". The original TV series will be "renewed" under the direction of Kenji Nakamura (director of the Mononoke TV series) and released as two 90 minute feature films later this year.
+● 第1部「心を力に」 (90分) ● first part of "mind power" (90 minutes)
+● 第2部「終わらない地球」 (90分) ● Part II "never ends Earth" (90 minutes)
+http://d.hatena.ne.jp/moonphase/20080404#p3
+http://www.toei-anim.co.jp/tv/mashura/</description>
+<ratings>
+<permanent count="19">4.79</permanent>
+<temporary count="20">5.55</temporary>
+</ratings>
+<picture>13298.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>4961</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/tv/mashura/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="93078" update="2008-09-21">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2008-09-21</airdate>
+<title xml:lang="ja">心を力に</title>
+<title xml:lang="en">Part 1</title>
+<title xml:lang="x-jat">Kokoro o Chikara ni</title>
+</episode>
+<episode id="93079" update="2008-09-21">
+<epno type="1">2</epno>
+<length>90</length>
+<airdate>2008-09-21</airdate>
+<title xml:lang="ja">終わらない地球</title>
+<title xml:lang="en">Part 2</title>
+<title xml:lang="x-jat">Owaranai Chikyuu</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14343" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1973-07-28</startdate>
+<enddate>1973-07-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tasukeai no Rekishi: Seimei Hoken no Hajimari</title>
+<title xml:lang="ja" type="official">たすけあいの歴史 -生命保険のはじまり-</title>
+</titles>
+<creators>
+<name id="7627" type="Music">Mamiya Michio</name>
+<name id="3665" type="Direction">Sugii Gisaburou</name>
+<name id="56059" type="Original Work">Murayama Masami</name>
+</creators>
+<description>An educational film aimed at promoting understanding of life insurance among the general public.</description>
+<ratings>
+<permanent count="6">2.51</permanent>
+<temporary count="6">3.50</temporary>
+</ratings>
+<picture>222999.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>26311</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>12807</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205868" update="2018-08-31">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1973-07-28</airdate>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

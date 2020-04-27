@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8358" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2011-05-14</startdate>
+<enddate>2011-05-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hayabusa: Back to the Earth (2011)</title>
+<title xml:lang="ja" type="synonym">HAYABUSA -BACK TO THE EARTH- 帰還バージョン</title>
+<title xml:lang="x-jat" type="synonym">Hayabusa: Back to the Earth - Kikan Version</title>
+<title xml:lang="ja" type="official">HAYABUSA BACK TO THE EARTH (2011)</title>
+</titles>
+<relatedanime>
+<anime id="8359" type="Other">Hayabusa: Back to the Earth</anime>
+</relatedanime>
+<creators>
+<name id="24330" type="Direction">Kousaka Hiromitsu</name>
+</creators>
+<description>CG anime about a satellite`s journey back to Earth.</description>
+<ratings>
+<permanent count="1">2.05</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>68741.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10602</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>339413</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="129187" update="2011-04-06">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>2011-05-14</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11288" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-12-19</startdate>
+<enddate>2015-12-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Youkai Watch: Enma Daiou to Itsutsu no Monogatari Da Nyan!</title>
+<title xml:lang="ja" type="official">映画 妖怪ウォッチ エンマ大王と5つの物語だニャン!</title>
+</titles>
+<relatedanime>
+<anime id="10680" type="Prequel">Eiga Youkai Watch: Tanjou no Himitsu Da Nyan!</anime>
+<anime id="9930" type="Parent Story">Youkai Watch</anime>
+</relatedanime>
+<url>http://www.eiga-yokai.jp/</url>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="7914" type="Character Design">Yamada Shun`ya</name>
+<name id="13148" type="Character Design">Terasawa Shinsuke</name>
+<name id="8394" type="Original Work">Level-5</name>
+<name id="11255" type="Direction">Ushiro Shinji</name>
+<name id="11560" type="Direction">Takahashi Shigeharu</name>
+<name id="6395" type="Chief Animation Direction">Makino Ryuuichi</name>
+<name id="9841" type="Chief Animation Direction">Kusakabe Chizuko</name>
+<name id="13148" type="Chief Animation Direction">Terasawa Shinsuke</name>
+<name id="6389" type="Chief Animation Direction">Takeuchi Akira</name>
+<name id="5457" type="Chief Animation Direction">Ikeda Yuuji</name>
+<name id="8260" type="Chief Animation Direction">Takeuchi Kyouko</name>
+<name id="46478" type="Music">Saigou Ken`ichirou</name>
+</creators>
+<ratings>
+<permanent count="9">6.44</permanent>
+<temporary count="9">7.50</temporary>
+</ratings>
+<picture>175497.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17214</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>28257</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://youkai-world.com/eiga/eiga02/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Yo-kai_Watch:_Enma_Daiō_to_Itsutsu_no_Monogatari_da_Nyan!</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>妖怪ウォッチ_(アニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4403</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>352692</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="62128" type="secondary cast in" update="2014-01-28">
+<name>Whisper</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149197.jpg</picture>
+<seiyuu id="236" picture="132757.jpg">Seki Tomokazu</seiyuu>
+</character>
+<character id="62131" type="main character in" update="2014-01-28">
+<rating votes="1">6.09</rating>
+<name>Amano Keita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149195.jpg</picture>
+<seiyuu id="5" picture="233827.jpg">Tomatsu Haruka</seiyuu>
+</character>
+<character id="62132" type="main character in" update="2014-01-28">
+<name>Jibanyan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149201.jpg</picture>
+<seiyuu id="28123" picture="186581.jpg">Kozakura Etsuko</seiyuu>
+</character>
+<character id="74504" type="main character in" update="2015-04-18">
+<name>Fuyunyan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>172185.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+<character id="74506" type="secondary cast in" update="2015-04-18">
+<name>Komasan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>172191.jpg</picture>
+<seiyuu id="424" picture="224027.jpg">Endou Aya</seiyuu>
+</character>
+<character id="76407" type="secondary cast in" update="2015-07-18">
+<name>Misora Inaho</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>175541.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="90662" type="main character in" update="2017-07-29">
+<name>Usapyon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205597.jpg</picture>
+</character>
+<character id="90663" type="secondary cast in" update="2017-07-29">
+<name>Emi-chan (Otona)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205599.jpg</picture>
+<seiyuu id="5037" picture="28760.jpg">Nagasawa Masami</seiyuu>
+</character>
+<character id="90664" type="main character in" update="2017-07-29">
+<name>Enma-daiou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205598.jpg</picture>
+<seiyuu id="2225" picture="192115.jpg">Kimura Ryouhei</seiyuu>
+</character>
+<character id="90665" type="secondary cast in" update="2017-07-29">
+<name>Chiaki-senpai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205596.jpg</picture>
+</character>
+<character id="90666" type="secondary cast in" update="2017-07-29">
+<name>Kyodai Santa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205595.jpg</picture>
+</character>
+<character id="90667" type="secondary cast in" update="2017-07-29">
+<name>Inumaro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205593.jpg</picture>
+</character>
+<character id="90668" type="secondary cast in" update="2017-07-29">
+<name>Nekokiyo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>205594.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="169839" update="2015-12-11">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2015-12-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

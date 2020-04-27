@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8953" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2012-02-01</startdate>
+<enddate>2012-02-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Rui no Masaiban</title>
+<title xml:lang="en" type="synonym">Rui`s Magical Trials</title>
+<title xml:lang="ja" type="official">ルイの魔裁判</title>
+</titles>
+<url>http://www.youtube.com/watch?v=FytWE7BEkoc</url>
+<description>The animated promotional video for the drama CD Rui no Masaiban (Rui`s Magical Trials). The original dark fantasy story revolves around Rui, the youngest ever magical judge who weighs the fate of demons.
+Source: ANN</description>
+<ratings>
+<permanent count="59">2.44</permanent>
+<temporary count="59">3.98</temporary>
+</ratings>
+<picture>81051.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>13541</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.rui-masaiban.jp/animepv.html</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=FytWE7BEkoc</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="136897" update="2012-02-05">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2012-02-01</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

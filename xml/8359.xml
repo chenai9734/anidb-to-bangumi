@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8359" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2009-03-26</startdate>
+<enddate>2009-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hayabusa: Back to the Earth</title>
+<title xml:lang="ja" type="official">HAYABUSA BACK TO THE EARTH</title>
+</titles>
+<relatedanime>
+<anime id="8358" type="Other">Hayabusa: Back to the Earth (2011)</anime>
+</relatedanime>
+<url>http://www.live-net.co.jp/hayabusa-movie/index.html</url>
+<creators>
+<name id="24330" type="Direction">Kousaka Hiromitsu</name>
+</creators>
+<description>Note: It received a private screening for the press on March 26, 2009. The avant-premiere for the general public was held on March 28, 2009. Both were held at the Osaka Science Museum. The regular roadshow started on April 1, 2009 at the Hitachi Civic Center with a 26` condensed version used as alternative program (usually for working days) in some locations and at the Osaka Science Museum with the 43` complete version.</description>
+<ratings>
+<permanent count="2">5.52</permanent>
+<temporary count="2">6.00</temporary>
+</ratings>
+<picture>68742.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10603</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.live-net.co.jp/hayabusa-movie/index.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>333505</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="129061" update="2011-04-23">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>2009-03-26</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="171107" update="2015-10-03">
+<epno type="6">O1</epno>
+<length>30</length>
+<airdate>2009-03-26</airdate>
+<title xml:lang="en">condensed version</title>
+</episode>
+</episodes>
+</anime>

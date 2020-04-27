@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7092" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2009-09-19</startdate>
+<enddate>2009-09-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Penguin no Mondai: Shiawase no Aoi Tori de Go-Pen-nasai</title>
+<title xml:lang="ja" type="short">劇場版ペン問</title>
+<title xml:lang="x-jat" type="short">gekijouban penmon</title>
+<title xml:lang="ja" type="official">劇場版ペンギンの問題 幸せの青い鳥でごペンなさい</title>
+</titles>
+<relatedanime>
+<anime id="5901" type="Parent Story">Penguin no Mondai</anime>
+</relatedanime>
+<url>http://www.corocoro.tv/duepen-movie/</url>
+<creators>
+<name id="4605" type="Direction">Kamiya Jun</name>
+<name id="10180" type="Original Work">Nagai Yuuji</name>
+</creators>
+<ratings>
+<permanent count="4">4.10</permanent>
+<temporary count="4">5.00</temporary>
+</ratings>
+<picture>153101.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11489</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6063</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.corocoro.tv/duepen-movie/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ペンギンの問題#.E5.8A.87.E5.A0.B4.E7.89.88.E3.83.9A.E3.83.B3.E3.82.AE.E3.83.B3.E3.81.AE.E5.95.8F.E9.A1.8C_.E5.B9.B8.E3.81.9B.E3.81.AE.E9.9D.92.E3.81.84.E9.B3.A5.E3.81.A7.E3.81.94.E3.83.9A.E3.83.B3.E3.81.AA.E3.81.95.E3.81.84</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>334331</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11862</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="27034" type="secondary cast in" update="2011-01-16">
+<name>Takahashi Charlotte</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63531.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="33273" type="main character in" update="2011-06-12">
+<name>Kinoshita Bekkamu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73212.jpg</picture>
+<seiyuu id="6925" picture="201846.jpg">Itou Miyako</seiyuu>
+</character>
+<character id="33274" type="secondary cast in" update="2011-06-12">
+<name>Okamoto Paul</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73213.jpg</picture>
+<seiyuu id="60" picture="171602.jpg">Kawada Shinji</seiyuu>
+</character>
+<character id="33275" type="secondary cast in" update="2011-06-12">
+<name>Watanabe Gordon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>4277.gif</picture>
+<seiyuu id="178" picture="228660.jpg">Miyake Kenta</seiyuu>
+</character>
+<character id="33276" type="secondary cast in" update="2011-06-12">
+<name>Matsui Yumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73214.jpg</picture>
+<seiyuu id="355" picture="71573.jpg">Gotou Saori</seiyuu>
+</character>
+<character id="33277" type="secondary cast in" update="2011-06-12">
+<name>Inoue Michael</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>73215.jpg</picture>
+<seiyuu id="694" picture="52187.jpg">Choo</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="109124" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2009-09-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="224635" update="2019-11-27">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Gekijouban Duel Masters - Lunatic God Saga &amp; Gekijouban Penguin no Mondai - Shiawase no Aoi Tori de Go-Pen-nasai combo PV</title>
+</episode>
+<episode id="224636" update="2019-11-27">
+<epno type="4">T2</epno>
+<length>2</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

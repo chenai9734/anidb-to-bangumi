@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13522" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-09-15</startdate>
+<enddate>2016-09-15</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Mak Dau Faan Bou Gei Bing</title>
+<title xml:lang="zh-Hans" type="synonym">麦兜 饭宝奇兵</title>
+<title xml:lang="zh" type="official">麥兜 飯寶奇兵</title>
+<title xml:lang="en" type="official">McDull: Rise of the Rice Cooker</title>
+</titles>
+<ratings>
+<permanent count="1">2.45</permanent>
+<temporary count="1">3.00</temporary>
+</ratings>
+<picture>10459.jpeg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35910</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>McDull:_Rise_of_the_Rice_Cooker</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>麥兜·飯寶奇兵</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="193563" update="2017-12-02">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>2016-09-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

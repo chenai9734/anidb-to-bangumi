@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5952" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1988-07-25</startdate>
+<enddate>1988-07-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">What`s Michael? 2</title>
+<title xml:lang="ja" type="official">ホワッツマイケル? 2</title>
+</titles>
+<relatedanime>
+<anime id="5946" type="Character">What`s Michael?</anime>
+</relatedanime>
+<creators>
+<name id="5305" type="Series Composition">Yanagawa Shigeru</name>
+<name id="7350" type="Original Work">Kobayashi Makoto</name>
+<name id="8014" type="Character Design">Shimazaki Katsumi</name>
+<name id="5416" type="Direction">Kogawa Yoriyasu</name>
+<name id="116" type="Music">Oomori Toshiyuki</name>
+<name id="52826" type="Music">Kikuchi Himiko</name>
+<name id="970" type="Animation Work">Kitty Film</name>
+</creators>
+<ratings>
+<permanent count="33">4.39</permanent>
+<temporary count="33">5.15</temporary>
+</ratings>
+<picture>143896.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3337</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>12037</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>What's_Michael%3F</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ホワッツマイケル</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88714</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2462</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="44505" type="main character in" update="2013-02-28">
+<name>Michael</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132887.jpg</picture>
+<seiyuu id="278" picture="44088.jpg">Ootake Hiroshi</seiyuu>
+</character>
+<character id="53277" type="secondary cast in" update="2013-02-28">
+<name>Poppo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132888.jpg</picture>
+<seiyuu id="386" picture="187997.jpg">Nozawa Masako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="105968" update="2017-12-25">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>1988-07-25</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

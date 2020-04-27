@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12152" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2016-06-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Ippou Nippon Mukashibanashi</title>
+<title xml:lang="ja" type="official">いっぽう日本昔ばなし</title>
+</titles>
+<url>http://ippou-mukashibanashi.com/</url>
+<creators>
+<name id="38226" type="Animation Work">Ilca</name>
+</creators>
+<ratings>
+<permanent count="2">3.09</permanent>
+<temporary count="2">4.50</temporary>
+</ratings>
+<picture>187332.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33387</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://ippou-mukashibanashi.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356885</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="177898" update="2016-06-02">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2016-06-01</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

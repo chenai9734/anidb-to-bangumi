@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8339" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2009-01-30</startdate>
+<enddate>2009-01-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mou Hitotsu no Doubutsuen: Zetsumetsu Doubutsu Monogatari</title>
+<title xml:lang="ja" type="official">もうひとつのどうぶつえん ~絶滅動物ものがたり~</title>
+</titles>
+<url>http://www.another-zoo.jp/</url>
+<description>A two-part OVA, featuring a documentary-like story, each about a one extinct animal: Mammoth and a Dodo.</description>
+<picture>68122.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://www.another-zoo.jp/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="129465" update="2011-04-12">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2009-01-30</airdate>
+<title xml:lang="ja">ドードーたちの時代篇</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Doudou-tachi no Jidai Hen</title>
+</episode>
+<episode id="129466" update="2011-04-12">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2009-01-30</airdate>
+<title xml:lang="ja">マンモスたちの時代篇</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Mammoth-tachi no Jidai Hen</title>
+</episode>
+</episodes>
+</anime>

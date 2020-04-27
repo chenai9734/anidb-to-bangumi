@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5867" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1988-09-23</startdate>
+<enddate>1989-07-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Namakemono ga Miteta</title>
+<title xml:lang="en" type="synonym">Namakemono is Watching</title>
+<title xml:lang="ja" type="official">ナマケモノが見てた</title>
+</titles>
+<creators>
+<name id="5553" type="Character Design">Suzuki Kin`ichirou</name>
+<name id="4408" type="Direction">Nagaoka Akinori</name>
+<name id="6393" type="Music">Yamamoto Masayuki</name>
+<name id="9092" type="Original Work">Murakami Takashi</name>
+</creators>
+<description>* Based on a manga by http://anidb.net/cr9092 [Murakami Takashi], serialised in Weekly Young Jump.</description>
+<ratings>
+<permanent count="3">3.80</permanent>
+<temporary count="3">5.00</temporary>
+</ratings>
+<picture>241294.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7129</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>19817</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3060</identifier>
+<identifier>tzwnwy</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88721</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="7" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>juujin</name>
+<description>Kemono, "beast", is a genre of Japanese art and character design that prominently features anthropomorphic animal characters. It is used widely in visual arts, especially drawing and painting, and can be found in many manga, anime, and video game.
+Anthropomorphic animal characters in the kemono genre are frequently called juujin, "therianthrope"; the kanji for juujin are also sometimes pronounced kemonobito, "beast-human". While their design differs from artist to artist, they generally employ animal traits considered cute and endearing; most kemono characters retain a fundamentally human personality, however, seldom behaving as the actual animals from which they have been anthropomorphized, and as such they are typically depicted living as humans do.
+Juujin leans more on the human-looking side when compared to http://anidb.net/t2857 [anthropomorphism], which leans more on the animal-looking side.
+Source: Manga Wikia</description>
+</tag>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="104225" update="2009-06-15">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>1989-07-28</airdate>
+<title xml:lang="ja">動物村の逆襲</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Doubutsu Mura no Gyakushuu</title>
+</episode>
+<episode id="104226" update="2009-06-15">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1988-09-23</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

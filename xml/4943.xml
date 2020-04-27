@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4943" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1992-03-07</startdate>
+<enddate>1992-03-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">21 Emon: Sora Ike! Hadashi no Princess</title>
+<title xml:lang="ja" type="synonym">21エモン 宇宙いけ! 裸足のプリンセス</title>
+<title xml:lang="en" type="synonym">21 Emon: To Space! The Barefoot Princess</title>
+<title xml:lang="ja" type="official">21エモン 宇宙[そら]いけ! 裸足のプリンセス</title>
+</titles>
+<relatedanime>
+<anime id="4922" type="Other">21 Emon</anime>
+</relatedanime>
+<creators>
+<name id="1548" type="Direction">Hongou Mitsuru</name>
+<name id="1393" type="Music">Tanaka Kouhei</name>
+<name id="4732" type="Original Work">Fujiko F. Fujio</name>
+</creators>
+<ratings>
+<permanent count="17">4.83</permanent>
+<temporary count="17">5.55</temporary>
+</ratings>
+<picture>11727.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4538</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6074</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2567</identifier>
+<identifier>wgfaju</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>21エモン_宇宙いけ!_裸足のプリンセス#.E6.98.A0.E7.94.BB.E3.80.8C21.E3.82.A8.E3.83.A2.E3.83.B3_.E5.AE.87.E5.AE.99.28.E3.81.9D.E3.82.89.29.E3.81.84.E3.81.91.21_.E8.A3.B8.E8.B6.B3.E3.81.AE.E3.83.97.E3.83.AA.E3.83.B3.E3.82.BB.E3.82.B9.E3.80.8D</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151626</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2857</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="66430" update="2007-01-04">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>1992-03-07</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

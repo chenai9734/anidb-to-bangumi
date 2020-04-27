@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5434" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1978-07-15</startdate>
+<enddate>1978-07-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kagaku Ninjatai Gatchaman (1978)</title>
+<title xml:lang="ja" type="official">科学忍者隊 ガッチャマン (1978)</title>
+<title xml:lang="en" type="official">Gatchaman: The Movie</title>
+</titles>
+<relatedanime>
+<anime id="3513" type="Full Story">Kagaku Ninjatai Gatchaman</anime>
+</relatedanime>
+<url>http://www.tatsunoko.co.jp/works/archive/movie_gatchaman.html</url>
+<creators>
+<name id="60062" type="Series Composition">Tori Pro</name>
+<name id="4238" type="Character Design">Yoshida Tatsuo</name>
+<name id="6468" type="Character Design">Amano Yoshitaka</name>
+<name id="3974" type="Character Design">Kuri Ippei</name>
+<name id="5311" type="Music">Sugiyama Kouichi</name>
+<name id="4122" type="Direction">Toriumi Hisayuki</name>
+<name id="4238" type="Original Work">Yoshida Tatsuo</name>
+</creators>
+<description>Movie directed by live-action director Kihachi Okamoto. Gatchaman joins forces with the mysterious pilot Charm Red Impulse.</description>
+<ratings>
+<permanent count="49">4.63</permanent>
+<temporary count="49">5.31</temporary>
+</ratings>
+<picture>5901.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>6856</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3153</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3081</identifier>
+<identifier>qtqevs</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tatsunoko.co.jp/works/gatchaman-the-movie</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>146371</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m080</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="82461" update="2007-09-05">
+<epno type="1">1</epno>
+<length>110</length>
+<airdate>1978-07-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9363" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-04-28</startdate>
+<enddate>1990-04-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Little Polar Bear: Shirokuma-kun, Doko e?</title>
+<title xml:lang="ja" type="official">リトルポーラベア しろくまくん, どこへ?</title>
+</titles>
+<relatedanime>
+<anime id="7317" type="Other">Little Polar Bear: Shirokuma-kun, Fune ni Noru</anime>
+</relatedanime>
+<creators>
+<name id="12594" type="Original Work">Hans de Beer</name>
+<name id="1965" type="Direction">Sadamitsu Shin`ya</name>
+<name id="5133" type="Character Design">Murata Toshiharu</name>
+<name id="898" type="Work">Animate Film</name>
+</creators>
+<description>* Based on the book Little Polar Bear by Dutch author http://anidb.net/cr12594 [Hans de Beer].</description>
+<ratings>
+<permanent count="3">5.03</permanent>
+<temporary count="3">2.66</temporary>
+</ratings>
+<picture>92071.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22248</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>25027</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3201</identifier>
+<identifier>kwcntr</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151060</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2530</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="141471" update="2015-05-10">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1990-04-28</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

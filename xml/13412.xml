@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13412" restricted="false">
+<type>TV Series</type>
+<episodecount>39</episodecount>
+<startdate>2018-01-04</startdate>
+<enddate>2018-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Micchiri Neko</title>
+<title xml:lang="x-jat" type="synonym">Mitchiri Neko</title>
+<title xml:lang="ja" type="official">みっちりねこ</title>
+<title xml:lang="en" type="official">Mitchiri Neko</title>
+<title xml:lang="zh-Hans" type="official">密奇丽猫咪</title>
+</titles>
+<relatedanime>
+<anime id="12204" type="Other">Micchiri Neko March</anime>
+</relatedanime>
+<similaranime>
+<anime id="11910" approval="3" total="3">Bananya</anime>
+</similaranime>
+<url>http://mitchirineko-anime.com/</url>
+<creators>
+<name id="45889" type="Direction">Yatate Kyou</name>
+<name id="39014" type="Music">Kobayashi Tetsuya</name>
+<name id="53105" type="Animation Work">Helo</name>
+<name id="53106" type="Original Work">Frencel</name>
+</creators>
+<description>* Based on http://anidb.net/cr53106 [Frencel]`s character franchise.
+Micchiri Neko is a cat-like creature who always sticks with each other wherever they go!
+Note: The show aired a 1-minute episode on every weekday. Crunchyroll streamed a compilation of these episodes weekly.</description>
+<ratings>
+<permanent count="91">4.59</permanent>
+<temporary count="92">5.80</temporary>
+</ratings>
+<picture>211111.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20462</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36982</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://mitchirineko-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>みっちりねこ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363321</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>mitchiri_neko</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2857" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="3750" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-09-08">
+<name>thick line animation</name>
+<description>The characters are drawn with a thicker outline than is usually seen in anime.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-13">
+<name>multi-segment episodes</name>
+<description>Multi-segment episodes are split into several short segments (parts), usually with separate titles and independent storylines.
+Not to be confused with http://anidb.net/t5852 [short episodes], which are regular episodes that are much shorter than the standard length (up to and including 10 minutes).
+Also not to be confused with an OVA or music video with multiple (otherwise unrelated) full-length http://anidb.net/t7241 [bundled episodes] consolidated into a single episode video track.</description>
+</tag>
+</tags>
+<characters>
+<character id="92988" type="main character in" update="2018-01-10">
+<name>Piyopiyo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211815.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="92989" type="main character in" update="2018-01-10">
+<name>Colorful</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211816.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+<character id="92990" type="main character in" update="2018-01-10">
+<name>Honey</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211817.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="92991" type="main character in" update="2018-01-10">
+<name>Micchy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211814.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="92992" type="main character in" update="2018-01-10">
+<name>Ribbon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211818.jpg</picture>
+<seiyuu id="2296" picture="189623.jpg">Hayami Saori</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="194705" update="2019-11-21">
+<epno type="1">7</epno>
+<length>1</length>
+<airdate>2018-01-12</airdate>
+<rating votes="2">1.43</rating>
+<title xml:lang="ja">裏技 / 気づいた</title>
+<title xml:lang="en">Secret Move / Realization</title>
+<title xml:lang="x-jat">Urawaza / Kizuita</title>
+<summary>Meow meow me- *chomp*
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758735</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194706" update="2019-11-21">
+<epno type="1">6</epno>
+<length>1</length>
+<airdate>2018-01-10</airdate>
+<rating votes="2">2.52</rating>
+<title xml:lang="ja">カーリング / ラブショット</title>
+<title xml:lang="en">Curling / Love Shot</title>
+<title xml:lang="x-jat">Curling / Love Shot</title>
+<summary>Meow meow meoooow meowmeow soy sauce meow.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758733</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194707" update="2019-11-21">
+<epno type="1">5</epno>
+<length>1</length>
+<airdate>2018-01-10</airdate>
+<rating votes="2">2.85</rating>
+<title xml:lang="ja">得意技 / なにがなんでも</title>
+<title xml:lang="en">Special Skill / Whatever It Takes</title>
+<title xml:lang="x-jat">Tokui Waza / Nani ga Nandemo</title>
+<summary>Meow meow meoooow meowmeow soy sauce meow.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758733</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194708" update="2018-01-23">
+<epno type="1">4</epno>
+<length>1</length>
+<airdate>2018-01-09</airdate>
+<rating votes="2">1.96</rating>
+<title xml:lang="ja">詰め放題 / 常備</title>
+<title xml:lang="en">All You Can Pack / Always on Hand</title>
+<title xml:lang="x-jat">Tsume Houdai / Joubi</title>
+<summary>Meow meow meoooow meowmeow soy sauce meow.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758733</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194709" update="2018-01-21">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2018-01-08</airdate>
+<rating votes="2">1.96</rating>
+<title xml:lang="ja">伝達 / ねこなべ</title>
+<title xml:lang="en">Transmission / Cat Pot</title>
+<title xml:lang="x-jat">Dentatsu / Neko Nabe</title>
+<summary>Meow meow squish meoooow meow "...you guys at the bottom alive?"
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758731</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194710" update="2018-01-21">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2018-01-05</airdate>
+<rating votes="2">1.43</rating>
+<title xml:lang="ja">決めきれない / 99%</title>
+<title xml:lang="en">Can`t Get It In / 99%</title>
+<title xml:lang="x-jat">Kimekirenai / 99%</title>
+<summary>Meow meow squish meoooow meow "...you guys at the bottom alive?"
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758731</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194711" update="2018-01-21">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2018-01-04</airdate>
+<rating votes="3">1.37</rating>
+<title xml:lang="ja">ぶさいく / 引いてダメなら</title>
+<title xml:lang="en">Ugly / If Pulling Doesn`t Work</title>
+<title xml:lang="x-jat">Busaiku / Hiite Dame nara</title>
+<summary>Meow meow squish meoooow meow "...you guys at the bottom alive?"
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758731</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195024" update="2019-11-21">
+<epno type="1">8</epno>
+<length>1</length>
+<airdate>2018-01-15</airdate>
+<rating votes="2">2.52</rating>
+<title xml:lang="ja">集合の怪 / きぐるみ</title>
+<title xml:lang="en">The Mystery of the Gathering / Costume</title>
+<title xml:lang="x-jat">Shuugou no Kai / Kigurumi</title>
+<summary>Meow meow me- *chomp*
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758735</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195086" update="2019-11-21">
+<epno type="1">11</epno>
+<length>1</length>
+<airdate>2018-01-19</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">迷推理 / 迷探偵</title>
+<title xml:lang="en">Confused Deduction / Confused Detective</title>
+<title xml:lang="x-jat">Meisuiri / Meitantei</title>
+<summary>Meoooow meow meow detective meowy meow culprit meow!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758737</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195087" update="2019-11-21">
+<epno type="1">10</epno>
+<length>1</length>
+<airdate>2018-01-17</airdate>
+<rating votes="2">1.43</rating>
+<title xml:lang="ja">分裂増殖説 / 足の方がつらい</title>
+<title xml:lang="en">Mitotic Proliferation Theory / It`s Harder on the Legs</title>
+<title xml:lang="x-jat">Bunretsu Zoushokusetsu / Ashi no Hou ga Tsurai</title>
+<summary>Meoooow meow meow detective meowy meow culprit meow!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758737</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195088" update="2019-11-21">
+<epno type="1">9</epno>
+<length>1</length>
+<airdate>2018-01-15</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">お忍び / すいとん</title>
+<title xml:lang="en">Ninja / Water Escape</title>
+<title xml:lang="x-jat">Oshinobi / Suiton</title>
+<summary>Meow meow me- *chomp*
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758735</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195209" update="2019-11-21">
+<epno type="1">13</epno>
+<length>1</length>
+<airdate>2018-01-23</airdate>
+<rating votes="1">1.36</rating>
+<title xml:lang="ja">重低音 / 血が騒ぐ</title>
+<title xml:lang="en">Heavy Bass / It Gets You Excited</title>
+<title xml:lang="x-jat">Juuteion / Chi ga Sawagu</title>
+<summary>Boom boom jingle jingle shake-a shake-a shake-a meooooow!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758739</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195210" update="2019-11-21">
+<epno type="1">12</epno>
+<length>1</length>
+<airdate>2018-01-22</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">好物らしい / 巻き巻き</title>
+<title xml:lang="en">It`s His Favorite / Roll, Roll</title>
+<title xml:lang="x-jat">Koubutsu Rashii / Maki Maki</title>
+<summary>Meoooow meow meow detective meowy meow culprit meow!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758737</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195230" update="2018-01-30">
+<epno type="1">14</epno>
+<length>1</length>
+<airdate>2018-01-25</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">縦 / ちゅー</title>
+<title xml:lang="en">Vertical / Smooch</title>
+<title xml:lang="x-jat">Tate / Chuu</title>
+<summary>Boom boom jingle jingle shake-a shake-a shake-a meooooow!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758739</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195336" update="2018-01-30">
+<epno type="1">15</epno>
+<length>1</length>
+<airdate>2018-01-29</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">新居 / ちょっと待って</title>
+<title xml:lang="en">New Home / Wait a Minute</title>
+<title xml:lang="x-jat">Shinkyo / Chotto Matte</title>
+<summary>Boom boom jingle jingle shake-a shake-a shake-a meooooow!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758739</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195399" update="2019-11-21">
+<epno type="1">16</epno>
+<length>1</length>
+<airdate>2018-01-31</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">コツ / つかみどころ</title>
+<title xml:lang="en">The Trick / Where to Grab</title>
+<title xml:lang="x-jat">Kotsu / Tsukamidokoro</title>
+<summary>Meow... meow... meooooooooooow...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758741</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195444" update="2018-03-13">
+<epno type="1">17</epno>
+<length>1</length>
+<airdate>2018-02-01</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">お着替え / 得体</title>
+<title xml:lang="en">Changing / Identity</title>
+<title xml:lang="x-jat">Okigae / Etai</title>
+<summary>Meow... meow... meooooooooooow...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758741</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195675" update="2018-03-13">
+<epno type="1">18</epno>
+<length>1</length>
+<airdate>2018-02-05</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">気になる / 夕立</title>
+<title xml:lang="en">Curious / Evening Shower</title>
+<title xml:lang="x-jat">Ki ni Naru / Yuudachi</title>
+<summary>Meow... meow... meooooooooooow...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758741</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195834" update="2019-11-21">
+<epno type="1">19</epno>
+<length>1</length>
+<airdate>2018-02-06</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">じっくりねこ / 寒がり</title>
+<title xml:lang="en">Unhurried Cat / I`m Cold</title>
+<title xml:lang="x-jat">Jikkuri Neko / Samugari</title>
+<summary>Meow meow... please don`t hit meow...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758743</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195856" update="2018-03-13">
+<epno type="1">20</epno>
+<length>1</length>
+<airdate>2018-02-08</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">ぶりっこ / 自発的</title>
+<title xml:lang="en">Cutesy Act / Spontaneous</title>
+<title xml:lang="x-jat">Burikko / Jihatsuteki</title>
+<summary>Meow meow... please don`t hit meow...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758743</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196061" update="2018-03-13">
+<epno type="1">21</epno>
+<length>1</length>
+<airdate>2018-02-12</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">バケの皮 / レントゲン</title>
+<title xml:lang="en">False Skin / X-Rays</title>
+<title xml:lang="x-jat">Bake no Kawa / Roentgen</title>
+<summary>Meow meow... please don`t hit meow...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758743</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196112" update="2019-11-21">
+<epno type="1">22</epno>
+<length>1</length>
+<airdate>2018-02-14</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">時報 / どうしても</title>
+<title xml:lang="en">Time Tone / I Just Can`t</title>
+<title xml:lang="x-jat">Jihou / Doushitemo</title>
+<summary>Unyaaaah! Nyoaaaah! Hey! Moo.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758745</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196189" update="2018-03-13">
+<epno type="1">23</epno>
+<length>1</length>
+<airdate>2018-02-16</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">カミングアウト / Hey</title>
+<title xml:lang="en">Coming Out / Hey</title>
+<title xml:lang="x-jat">Coming Out / Hey</title>
+<summary>Unyaaaah! Nyoaaaah! Hey! Moo.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758745</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196365" update="2018-03-13">
+<epno type="1">24</epno>
+<length>1</length>
+<airdate>2018-02-19</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">人数ゆえに / 着く頃には定員</title>
+<title xml:lang="en">Because of How Many Are Here / At Capacity by the Time We Get There</title>
+<title xml:lang="x-jat">Ninzuu Yue ni / Tsuku Koro ni wa Teiin</title>
+<summary>Unyaaaah! Nyoaaaah! Hey! Moo.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758745</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196545" update="2019-11-21">
+<epno type="1">25</epno>
+<length>1</length>
+<airdate>2018-02-21</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">shall we dance? / ねこの本気</title>
+<title xml:lang="en">Shall We Dance? / When a Cat Gets Serious</title>
+<title xml:lang="x-jat">Shall We Dance? / Neko no Honki</title>
+<summary>Meow jingle jingle jingle jingle meow.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758747</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196591" update="2018-03-13">
+<epno type="1">26</epno>
+<length>1</length>
+<airdate>2018-02-22</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">大掃除 / ねこのきもち</title>
+<title xml:lang="en">Spring Cleaning / How the Cat Feels</title>
+<title xml:lang="x-jat">Oosouji / Neko no Kimochi</title>
+<summary>Meow jingle jingle jingle jingle meow.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758747</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196695" update="2018-03-13">
+<epno type="1">27</epno>
+<length>1</length>
+<airdate>2018-02-26</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">チリン / 風情</title>
+<title xml:lang="en">Jingle / Elegance</title>
+<title xml:lang="x-jat">Chirin / Fuzei</title>
+<summary>Meow jingle jingle jingle jingle meow.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>758747</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196738" update="2019-11-21">
+<epno type="1">28</epno>
+<length>1</length>
+<airdate>2018-02-28</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">出ない / すらっと</title>
+<title xml:lang="en">Won`t Come Out / Slender</title>
+<title xml:lang="x-jat">Denai / Suratto</title>
+<summary>One, two, three, ta-da! Ngyowaaaah... Meowch!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765073</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196819" update="2018-03-13">
+<epno type="1">29</epno>
+<length>1</length>
+<airdate>2018-03-02</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">実地練習 / ウエスタン式</title>
+<title xml:lang="en">On-Set Practice / Western Style</title>
+<title xml:lang="x-jat">Jicchi Renshuu / Western Shiki</title>
+<summary>One, two, three, ta-da! Ngyowaaaah... Meowch!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765073</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196931" update="2018-03-13">
+<epno type="1">30</epno>
+<length>1</length>
+<airdate>2018-03-05</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">新種目 / 鉄壁</title>
+<title xml:lang="en">New Event / Impregnable</title>
+<title xml:lang="x-jat">Shinshumoku / Teppeki</title>
+<summary>One, two, three, ta-da! Ngyowaaaah... Meowch!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765073</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196962" update="2019-11-21">
+<epno type="1">31</epno>
+<length>1</length>
+<airdate>2018-03-07</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">グッズ開発 / 乾燥の季節</title>
+<title xml:lang="en">Merchandise Development / The Dry Season</title>
+<title xml:lang="x-jat">Goods Kaihatsu / Kansou no Kisetsu</title>
+<summary>Meow meow meow woof moo cluck baa!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765075</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197002" update="2018-03-13">
+<epno type="1">33</epno>
+<length>1</length>
+<airdate>2018-03-12</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">ビギナーズファーム / アクロバティック</title>
+<title xml:lang="en">Beginner`s Farm / Acrobatic</title>
+<title xml:lang="x-jat">Beginner`s Farm / Acrobatic</title>
+<summary>Meow meow meow woof moo cluck baa!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765075</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197003" update="2018-03-13">
+<epno type="1">32</epno>
+<length>1</length>
+<airdate>2018-03-09</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">たまには / ペットブーム</title>
+<title xml:lang="en">Every Now and Then / Pet Boom</title>
+<title xml:lang="x-jat">Tama ni wa / Pet Boom</title>
+<summary>Meow meow meow woof moo cluck baa!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765075</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197038" update="2019-11-21">
+<epno type="1">34</epno>
+<length>1</length>
+<airdate>2018-03-14</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">のっとりねこ / みっちり波</title>
+<title xml:lang="en">Takeover Cats / Squish Waves</title>
+<title xml:lang="x-jat">Nottori Neko / Micchiri Nami</title>
+<summary>Squish, squish, squish, squish, squish, squish, squish, squish...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765077</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197058" update="2018-04-05">
+<epno type="1">35</epno>
+<length>1</length>
+<airdate>2018-03-16</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">あるある / お約束</title>
+<title xml:lang="en">Stuff That Always Happens / Expected</title>
+<title xml:lang="x-jat">Aruaru / Oyakusoku</title>
+<summary>Squish, squish, squish, squish, squish, squish, squish, squish...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765077</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197143" update="2018-04-05">
+<epno type="1">36</epno>
+<length>1</length>
+<airdate>2018-03-19</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">みっちりねこねこマーチ / あの...</title>
+<title xml:lang="en">Squish Cats March / Um...</title>
+<title xml:lang="x-jat">Micchiri Neko March / Ano...</title>
+<summary>Squish, squish, squish, squish, squish, squish, squish, squish...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765077</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197223" update="2019-11-21">
+<epno type="1">37</epno>
+<length>1</length>
+<airdate>2018-03-21</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">癒しの時間 / おもてなし</title>
+<title xml:lang="en">A Time of Healing / Hospitality</title>
+<title xml:lang="x-jat">Iyashi no Jikan / Omotenashi</title>
+<summary>Welcome back, meowster! Tuna! Tuna!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765079</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197484" update="2018-04-05">
+<epno type="1">39</epno>
+<length>1</length>
+<airdate>2018-03-26</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">M[みっちり]極 / 釣れた</title>
+<title xml:lang="en">The M(itchiri) Pole / Caught One</title>
+<title xml:lang="x-jat">Micchiri Kyoku / Tsureta</title>
+<summary>Welcome back, meowster! Tuna! Tuna!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765079</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197485" update="2018-04-05">
+<epno type="1">38</epno>
+<length>1</length>
+<airdate>2018-03-26</airdate>
+<rating votes="1">2.06</rating>
+<title xml:lang="ja">ぎゅうぎゅう / リバーシブル</title>
+<title xml:lang="en">Squeezed / Reversible</title>
+<title xml:lang="x-jat">Gyuugyuu / Reversible</title>
+<summary>Welcome back, meowster! Tuna! Tuna!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>765079</identifier>
+<identifier>mitchiri-neko</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10843" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-04-18</startdate>
+<enddate>2015-04-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Crayon Shin-chan: Ora no Hikkoshi Monogatari - Saboten Dai Shuugeki</title>
+<title xml:lang="en" type="synonym">Crayon Shin-chan: My Moving Story - The Great Cactus Attack!</title>
+<title xml:lang="x-unk" type="short">Crayon Shin-chan - Movie 23</title>
+<title xml:lang="ja" type="official">映画 クレヨンしんちゃん オラの引越し物語 ~サボテン大襲撃~</title>
+</titles>
+<relatedanime>
+<anime id="708" type="Parent Story">Crayon Shin-chan</anime>
+</relatedanime>
+<url>http://www.shinchan-movie.com/</url>
+<ratings>
+<permanent count="17">6.64</permanent>
+<temporary count="17">5.73</temporary>
+</ratings>
+<picture>172019.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16755</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>27653</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.shinchan-movie.com/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4092</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>350824</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17982</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="164714" update="2015-04-13">
+<epno type="1">1</epno>
+<length>105</length>
+<airdate>2015-04-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

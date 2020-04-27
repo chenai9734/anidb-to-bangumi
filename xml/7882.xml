@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7882" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010-09-01</startdate>
+<enddate>2010-09-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Junod</title>
+<title xml:lang="ja" type="official">ジュノー</title>
+</titles>
+<similaranime>
+<anime id="3620" approval="1" total="5">Nagasaki 1945: Angelus no Kane</anime>
+</similaranime>
+<url>http://www.junod.jp/</url>
+<creators>
+<name id="985" type="Animation Work">Studio Hibari</name>
+<name id="9171" type="Character Design">Iwasa Tomoko</name>
+<name id="2965" type="Direction">Kimura Shin`ichirou</name>
+<name id="9171" type="Chief Animation Direction">Iwasa Tomoko</name>
+<name id="6883" type="Music">Asakura Noriyuki</name>
+</creators>
+<description>A film recounts the life of the first foreign doctor to arrive at Hiroshima after its atomic bombing. Marcel Junod was a Swiss doctor who served in the Red Cross throughout the entire course of World War II, but he is best known in Japan for organizing the delivery of 15 tons of medical supplies to Hiroshima after the bombing.</description>
+<ratings>
+<permanent count="38">6.68</permanent>
+<temporary count="38">6.47</temporary>
+</ratings>
+<picture>52872.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>12095</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9525</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.junod.jp/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://junod.biz/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ジュノー_(アニメ映画)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2642</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>337576</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="36" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>military</name>
+<description>The military, also known as the armed forces, are forces authorized and legally entitled to use deadly force so as to support the interests of the state and its citizens. The task of the military is usually defined as defence of the state and its citizens and the prosecution of war against foreign powers. The military may also have additional functions within a society, including construction, emergency services, social ceremonies, and guarding critical areas.
+Source: Wikipedia</description>
+<picurl>212184.jpg</picurl>
+</tag>
+<tag id="635" parentid="36" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-30">
+<name>navy</name>
+</tag>
+<tag id="1996" parentid="36" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-05-19">
+<name>air force</name>
+<description>An air force, also known in some countries as an air army or air corps, is in the broadest sense, the national military organization that primarily conducts aerial warfare. More specifically, it is the branch of a nation`s armed services that is responsible for aerial warfare as distinct from an army, navy or other branch. Typically, air forces are responsible for gaining control of the air, carrying out strategic-bombing missions and providing support to surface forces.
+The term "air force" may also refer to a tactical air force or numbered air force, which is an operational formation within a national air force. Air forces typically consist of a combination of fighters, bombers, helicopters, transport planes and other aircraft.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2637" parentid="7050" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>time travel</name>
+<description>In time travel anime characters are transported through time either figuratively or literally to find themselves either in the past or the future</description>
+<picurl>210068.jpg</picurl>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="2672" parentid="2834" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2674" parentid="2834" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>China</name>
+<description>China, officially the People`s Republic of China (PRC), is a unitary sovereign state in East Asia and the world`s most populous country. It is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
+Source: Wikipedia</description>
+<picurl>214277.jpg</picurl>
+</tag>
+<tag id="2675" parentid="2831" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Russia</name>
+<description>Russia, officially known as the Russian Federation, is a sovereign country in Eurasia. Russia is the largest country in the world by area, covering more than one-eighth of the Earth`s inhabited land area, and the ninth most populous. The European western part of the country is much more populated and urbanised than the eastern; about 77% of the population live in European Russia. Russia`s capital Moscow is one of the largest cities in the world.
+Source: Wikipedia</description>
+<picurl>192045.jpg</picurl>
+</tag>
+<tag id="2691" parentid="2641" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-12-21">
+<name>World War II</name>
+<description>World War II, or the Second World War (often abbreviated WWII or WW2), was a global military conflict which involved most of the world`s nations, including all great powers, organised into two opposing military alliances: the Allies and the Axis. The war involved the mobilisation of over 100 million military personnel, making it the most widespread war in history. In a state of "total war," the major participants placed their entire economic, industrial, and scientific capabilities at the service of the war effort, erasing the distinction between civilian and military resources. Over seventy million people, the majority civilians, were killed, making it the deadliest conflict in human history.
+The start of the war is generally held to be September 1, 1939, with the invasion of Poland by Nazi Germany and subsequent declarations of war on Germany by most of the countries in the British Empire and Commonwealth, and by France. Many countries were already at war before this date, such as Ethiopia and Italy in the Second Italo-Abyssinian War and China and Japan in the Second Sino-Japanese War. Many who were not initially involved joined the war later, as a result of events such as the German invasion of the Soviet Union, the attacks on Pearl Harbor and British colonies, and subsequent declarations of war on Japan by the United States, the Netherlands, and British Commonwealth.
+In 1945, the war ended in a victory for the Allies. The Soviet Union and the United States subsequently emerged as the world`s superpowers, setting the stage for the Cold War which continued for the next 46 years. The United Nations was formed in the hope of preventing another world conflict. The acceptance of the principle of self-determination accelerated decolonization movements in Asia and Africa, while Western Europe itself began moving toward integration.
+------
+About the picture
+Top left: Battle of Wuhan
+Top right: Second Battle of El Alamein
+Middle left: Battle of Stalingrad
+Middle right: German dive bombers over Eastern Front winter 1943-1944
+Bottom left: Wilhelm Keitel signing German Instrument of Surrender
+Bottom right: Invasion of Lingayen Gulf</description>
+<picurl>40430.jpg</picurl>
+</tag>
+<tag id="2807" parentid="2831" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>France</name>
+<description>France, officially the French Republic, is a country whose territory consists of metropolitan France in western Europe, as well as several overseas regions and territories. The metropolitan area of France extends from the Mediterranean Sea to the English Channel and the North Sea, and from the Rhine to the Atlantic Ocean. The overseas territories include French Guiana in South America and several islands in the Atlantic, Pacific and Indian oceans.
+Source: Wikipedia</description>
+<picurl>214343.jpg</picurl>
+</tag>
+<tag id="2808" parentid="2831" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Spain</name>
+<description>Spain, officially the Kingdom of Spain, is a country mostly located on the Iberian Peninsula in Europe, with there also being two large archipelagoes, the Balearic Islands in the Mediterranean Sea and the Canary Islands off the African Atlantic coast, two cities, Ceuta and Melilla, on the African mainland and several small islands in the Alboran Sea near the African coast.
+Source: Wikipedia</description>
+<picurl>214376.jpg</picurl>
+</tag>
+<tag id="2811" parentid="2831" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Germany</name>
+<description>Germany, officially the Federal Republic of Germany, is a federal parliamentary republic in central-western Europe. It includes 16 constituent states, and has a largely temperate seasonal climate. Germany is the most populous member state of the European Union. Germany`s capital and largest metropolis is Berlin, while its largest conurbation is the Ruhr, with its main centres of Dortmund and Essen.
+Source: Wikipedia</description>
+<picurl>214345.jpg</picurl>
+</tag>
+<tag id="2831" parentid="2630" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Europe</name>
+<description>Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia.
+Source: Wikipedia</description>
+<picurl>192044.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2835" parentid="2630" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-06">
+<name>Africa</name>
+<description>The world`s second-largest continent and the birthplace of the human species, Africa is a place of a huge diversity, with deserts and savannas, with famine and precious stones, with cultural and economical riches of all kinds. Throughout history, Africa has been the cradle of empires and has been ruled by foreign powers, and as of the early 21st century sees swift changes and economic boom going side by side with inhuman levels of poverty.</description>
+<picurl>126530.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2869" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>school life</name>
+<description>Since a large part of the anime audience still takes part in school life or is visiting college, it is only natural to choose a setting the audience can identify with, be it elementary, middle, or high school. For the older viewers a college setting with more mature real-life problems is appropriate. And since clubs take up so much time in the lives of students, these are obviously also important.</description>
+<picurl>210062.jpg</picurl>
+</tag>
+<tag id="2871" parentid="2607" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>anti-war</name>
+<description>The anime portrays the insanity of war.</description>
+<picurl>70855.jpg</picurl>
+</tag>
+<tag id="2872" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="2874" parentid="2607" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-05-07">
+<name>disaster</name>
+<description>A disaster is a large-scale situation that causes great loss of or damage or threat to life, health, property, society, or the environment, irrespective of its source or cause. Disasters have substantial, long-lasting negative repercussions, and great effort must be spent in order to undo or mitigate their effects.</description>
+</tag>
+<tag id="2887" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-16">
+<name>tragedy</name>
+<description>Tragedy is a form of drama characterized by seriousness and dignity, usually involving a conflict between a character and some higher power, such as the law, the gods, fate, or society.</description>
+</tag>
+<tag id="2888" parentid="2607" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-16">
+<name>coming of age</name>
+<description>In the strict sense the Coming of age describes a young person`s transition from adolescence to adulthood. In anime the term is used in a more general sense where the protagonists have to face a challenge, make an important decision in their life, take on responsibility, or learn a lesson, and by overcoming these obstacles they reach a higher level of maturity.</description>
+</tag>
+<tag id="2925" parentid="2874" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>war</name>
+<description>War is a phenomenon of organized violent conflict, typified by extreme aggression, societal disruption and adaptation, and high mortality. The objective of warfare differs in accord with a group`s role in a conflict: The goals of offensive warfare are typically the submission, assimilation or destruction of another group, while the goals of defensive warfare are simply the repulsion of the offensive force and, often, survival itself. Relative to each other, combatants in warfare are called enemies. The terms military, militant, and militarism each refer to fundamental aspects of war, i.e. the organized group, the combative individual, and the supportive ethos (respectively).
+Source: wiki</description>
+<picurl>56441.jpg</picurl>
+</tag>
+<tag id="2926" parentid="2874" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>post-war</name>
+<description>An armed conflict has ended not too long ago, devastation of the world or society is still evident.</description>
+</tag>
+<tag id="3028" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-17">
+<name>real-world location</name>
+<description>Places seen in the show exist in reality.
+Note: This could be sometime in the future, though names and certain places will still be recognizable.</description>
+</tag>
+<tag id="3741" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-25">
+<name>bullying</name>
+<description>Bullying is the use of force, threat, or coercion to abuse, intimidate, or aggressively dominate others. One who engages in bullying is known as a bully.
+Source: Wikipedia</description>
+</tag>
+<tag id="3818" parentid="2925" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-11-21">
+<name>kids in war</name>
+<description>When minors participate in armed conflict.</description>
+</tag>
+<tag id="4244" parentid="2607" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>healthcare and medicine</name>
+<description>The anime contains themes related to healthcare, medicine, or the human body.</description>
+</tag>
+<tag id="4277" parentid="2925" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-01-30">
+<name>nuclear weapons</name>
+<description>A nuclear weapon is an explosive device that derives its destructive force from nuclear reactions, which release vast quantities of energy from relatively small amounts of matter. Nuclear weapons are considered weapons of mass destruction, and their use and control have been a major focus of international relations policy since their debut.
+Source: Wikipedia</description>
+</tag>
+<tag id="4383" parentid="2872" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-02-23">
+<name>hostage situation</name>
+<description>One or more characters in this anime are taken hostage, to pressure or blackmail other involved parties.
+A person given as a pledge or security for the performance of the conditions of a treaty or stipulations of any kind, on the performance of which the person is to be released.
+(Source: Wiktionary)</description>
+</tag>
+<tag id="4565" parentid="2925" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-08-17">
+<name>war-zone realities</name>
+<description>War is hell. This tag is for when characters experience the hell of war... not just the exciting stuff blowing up part.</description>
+</tag>
+<tag id="4616" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-05">
+<name>based on real events</name>
+<description>Contains content based on real-life events.
+Depending on the creators` wishes those events may have been altered. In the most substantial cases, expect many things to have been changed from the original events.</description>
+</tag>
+<tag id="4691" parentid="2831" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-08">
+<name>Switzerland</name>
+<description>Switzerland, officially the Swiss Confederation is a federal republic in Europe. While still named the "Swiss Confederation" for historical reasons, modern Switzerland is a federal directorial republic consisting of 26 cantons, with Bern as the seat of the federal authorities, called "federal city". The country is situated in Western-Central Europe, and is bordered by Italy to the south, France to the west, Germany to the north, and Austria and Liechtenstein to the east. Switzerland is a landlocked country geographically divided between the Alps, the Swiss Plateau and the Jura, spanning an area of 41,285 km². While the Alps occupy the greater part of the territory, the Swiss population of approximately eight million people is concentrated mostly on the plateau, where the largest cities are to be found: among them are the two global and economic centres Zürich and Geneva.
+Source: Wikipedia</description>
+<picurl>192470.jpg</picurl>
+</tag>
+<tag id="5111" parentid="2672" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Hiroshima</name>
+<description>Hiroshima Prefecture is a prefecture of Japan located in the Chuugoku region on Honshu island. The capital is the city of Hiroshima.
+Source: Wikipedia</description>
+<picurl>214291.jpg</picurl>
+</tag>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6318" parentid="4565" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-01-17">
+<name>concentration camp</name>
+</tag>
+<tag id="6327" parentid="2925" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-01-30">
+<name>chemical weapons</name>
+<description>A chemical weapon is a device that uses chemicals formulated to inflict death or harm on human beings. The term may also be applied to any toxic chemical or its precursor that can cause death, injury, temporary incapacitation, or sensory irritation through its chemical action. Munitions or other delivery devices designed to deliver chemical weapons, whether filled or unfilled, are also considered weapons themselves. Under the Chemical Weapons Convention, there is a legally binding, worldwide ban on the production, stockpiling, and use of chemical weapons and their precursors. Notwithstanding, large stockpiles thereof continue to exist, usually justified as only a precaution against putative use by an aggressor.
+Source: Wikipedia</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+<tag id="7231" parentid="2675" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-02">
+<name>Eastern Russia</name>
+<description>Eastern Russia / North Asia consists of the Russian regions of Siberia, Ural and the Russian Far East – an area east of the Ural Mountains. The region is sometimes also referred to as Asian Russia (as opposed to the smaller but more densely populated European Russia to the west)</description>
+<picurl>228642.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="21680" type="main character in" update="2011-04-07">
+<name>Douglas MacArthur</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>General of the Army Douglas MacArthur (January 26, 1880 - April 5, 1964) was an American general and field marshal of the Philippine Army. He was a Chief of Staff of the United States Army during the 1930s and played a prominent role in the Pacific theater during World War II. He received the Medal of Honor for his service in the Philippines Campaign. Arthur MacArthur, Jr., and Douglas MacArthur were the first father and son to each be awarded the medal. He was one of only five men ever to rise to the rank of general of the army in the U.S. Army, and the only man ever to become a field marshal in the Philippine Army.</description>
+<seiyuu id="544" picture="238510.jpg">Ogawa Shinji</seiyuu>
+</character>
+<character id="21681" type="main character in" update="2011-04-09">
+<name>Marcel Junod</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Marcel Junod (May 14, 1904 - June 16, 1961) was a Swiss doctor and one of the most accomplished field delegates in the history of the International Committee of the Red Cross (ICRC). After medical school and a short position as a surgeon in Mulhouse, France, he became an ICRC delegate and was deployed in Ethiopia during the Second Italo-Abyssinian War, in Spain during the Spanish Civil War, and in Europe as well as in Japan during World War II. In 1947, he wrote a book with the title Warrior without Weapons about his experiences. After the war, he worked for the United Nations Children`s Fund (UNICEF) as chief representative in China, and settled back in Europe in 1950. He founded the anaesthesiology department of the Cantonal Hospital in Geneva and became the first professor in this discipline at the University of Geneva. In 1952, he was appointed a member of the ICRC and, after many more missions for this institution, was Vice-President from 1959 until his death in 1961.</description>
+<picture>3547.gif</picture>
+<seiyuu id="2016" picture="240331.jpg">Yanaka Hiroshi</seiyuu>
+</character>
+<character id="21682" type="main character in" update="2010-09-17">
+<name>Yuuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>55153.jpg</picture>
+<seiyuu id="411" picture="17475.jpg">Takagaki Ayahi</seiyuu>
+</character>
+<character id="21683" type="main character in" update="2010-09-17">
+<rating votes="1">6.08</rating>
+<name>Mii</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>55152.jpg</picture>
+<seiyuu id="1438" picture="69192.jpg">Toyosaki Aki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="120936" update="2010-10-22">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>2010-09-01</airdate>
+<rating votes="1">3.64</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="135907" update="2011-12-30">
+<epno type="4">T1</epno>
+<length>6</length>
+<title xml:lang="en">Promo</title>
+</episode>
+</episodes>
+</anime>

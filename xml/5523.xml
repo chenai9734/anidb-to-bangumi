@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5523" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2000-07-15</startdate>
+<enddate>2000-07-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Rokumon Tengai Mon Colle Knight: Densetsu no Fire Dragon</title>
+<title xml:lang="ja" type="official">六門天外モンコレナイト 伝説のファイア ドラゴン</title>
+</titles>
+<relatedanime>
+<anime id="3511" type="Parent Story">Rokumon Tengai Mon Colle Knight</anime>
+</relatedanime>
+<creators>
+<name id="1419" type="Character Design">Nakajima Atsuko</name>
+<name id="730" type="Work">Studio Deen</name>
+<name id="1022" type="Original Work">Akahori Satoru</name>
+<name id="4152" type="Original Work">Hasegawa Katsumi</name>
+<name id="5680" type="Direction">Aoki Yasunao</name>
+<name id="8420" type="Original Plan">Yasuda Hitoshi</name>
+<name id="35214" type="Original Plan">Group SNE</name>
+</creators>
+<ratings>
+<permanent count="14">4.03</permanent>
+<temporary count="14">5.78</temporary>
+</ratings>
+<picture>6675.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19700</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5314</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2533</identifier>
+<identifier>jgyqfi</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>六門天外モンコレナイト</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>162467</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4064</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="47767" type="appears in" update="2012-08-12">
+<name>Ooya Mondo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92361.jpg</picture>
+<seiyuu id="3062" picture="170303.jpg">Saeki Tomo</seiyuu>
+</character>
+<character id="47768" type="appears in" update="2012-08-12">
+<rating votes="4">8.71</rating>
+<name>Hiiragi Rokuna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92362.jpg</picture>
+<seiyuu id="61" picture="58663.jpg">Horie Yui</seiyuu>
+</character>
+<character id="47769" type="appears in" update="2012-08-12">
+<name>Hiiragi Ichiroubee</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92363.jpg</picture>
+<seiyuu id="541" picture="26117.jpg">Chiba Shigeru</seiyuu>
+</character>
+<character id="47770" type="appears in" update="2012-08-12">
+<name>Jane</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92364.jpg</picture>
+<seiyuu id="1870" picture="186893.jpg">Mizutani Yuuko</seiyuu>
+</character>
+<character id="47771" type="appears in" update="2012-08-12">
+<name>Gokumare Namiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92365.jpg</picture>
+<seiyuu id="1870" picture="186893.jpg">Mizutani Yuuko</seiyuu>
+</character>
+<character id="47772" type="appears in" update="2012-08-12">
+<name>Ludwig Presto von Meinstein Collection</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92366.jpg</picture>
+<seiyuu id="189" picture="203306.jpg">Inoue Kazuhiko</seiyuu>
+</character>
+<character id="47774" type="appears in" update="2012-08-12">
+<name>Guuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92369.jpg</picture>
+<seiyuu id="362" picture="74735.jpg">Imai Yuka</seiyuu>
+</character>
+<character id="47776" type="appears in" update="2012-08-12">
+<name>Begina-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92373.jpg</picture>
+<seiyuu id="70" picture="171604.jpg">Kanai Mika</seiyuu>
+</character>
+<character id="47790" type="appears in" update="2012-08-13">
+<name>Rairai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>92387.jpg</picture>
+<seiyuu id="2051" picture="224288.jpg">Tsuruno Kyouko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="84725" update="2007-11-02">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+<episode id="97021" update="2009-02-16">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2000-07-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

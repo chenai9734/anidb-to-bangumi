@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11181" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-12-19</startdate>
+<enddate>2015-12-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga The Snack World</title>
+<title xml:lang="ja" type="official">映画 THE SNACK WORLD</title>
+</titles>
+<relatedanime>
+<anime id="11180" type="Other">The Snack World</anime>
+</relatedanime>
+<url>http://www.eiga-yokai.jp/topics/snackworld/index.php</url>
+<creators>
+<name id="20169" type="Character Design">Nagano Takuzou</name>
+<name id="8394" type="Original Work">Level-5</name>
+<name id="10390" type="Original Plan">Hino Akihiro</name>
+<name id="3052" type="Direction">Mori Takeshi</name>
+<name id="10390" type="Chief Direction">Hino Akihiro</name>
+<name id="24058" type="Music">Kondou Rei</name>
+</creators>
+<description>Note: the Snack World film played with screeeings of http://anidb.net/a11288 [Youkai Watch film].</description>
+<ratings>
+<permanent count="5">3.06</permanent>
+<temporary count="5">4.60</temporary>
+</ratings>
+<picture>190058.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32593</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://web.archive.org/web/20160303171032/http://www.eiga-yokai.jp/topics/snackworld/index.php</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354912</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+</tags>
+<characters>
+<character id="78720" type="main character in" update="2015-12-01">
+<name>Gob-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180051.jpg</picture>
+<seiyuu id="11009" picture="39517.jpg">Miyazawa Tadashi</seiyuu>
+</character>
+<character id="78721" type="main character in" update="2015-12-01">
+<name>Chap</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180054.jpg</picture>
+<seiyuu id="27977" picture="76416.jpg">Han Megumi</seiyuu>
+</character>
+<character id="78722" type="main character in" update="2015-12-01">
+<name>Peperon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180052.jpg</picture>
+<seiyuu id="12487" picture="170941.jpg">Sugimura Kenji</seiyuu>
+</character>
+<character id="78723" type="main character in" update="2015-12-01">
+<name>Mayone</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180053.jpg</picture>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="173589" update="2016-08-12">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-12-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

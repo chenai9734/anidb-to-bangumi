@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2981" restricted="false">
+<type>TV Series</type>
+<episodecount>37</episodecount>
+<startdate>1991-04-11</startdate>
+<enddate>1991-12-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shounen Ashibe</title>
+<title xml:lang="en" type="synonym">Young Ashibe</title>
+<title xml:lang="ja" type="official">少年アシベ</title>
+</titles>
+<relatedanime>
+<anime id="2982" type="Sequel">Shounen Ashibe 2</anime>
+<anime id="11887" type="Alternative Setting">Shounen Ashibe: Go! Go! Goma-chan</anime>
+<anime id="12124" type="Other">Shounen Ashibe OVA</anime>
+</relatedanime>
+<creators>
+<name id="5542" type="Character Design">Shindou Mitsuo</name>
+<name id="5726" type="Direction">Ishizaki Susumu</name>
+<name id="12343" type="Original Work">Morishita Hiromi</name>
+<name id="16433" type="Character Design">Shibata Noriko</name>
+<name id="45872" type="Series Composition">Higashi Taeko</name>
+<name id="23493" type="Animation Work">Life Work</name>
+</creators>
+<description>* Based on a 4-panel comic strip drawn by http://anidb.net/cr12343 [Morishita Hiromi] and published in http://anidb.net/cr32180 [Young Jump].
+The story describes the daily life of Ashibe, an elementary school boy, and his family and friends, including a pet white sea lion.</description>
+<ratings>
+<permanent count="6">2.08</permanent>
+<temporary count="6">3.00</temporary>
+</ratings>
+<picture>4206.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1983</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8829</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>少年アシベ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89109</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>597</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2805" parentid="2798" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>4-koma manga</name>
+<description>Yonkoma manga (4コマ漫画, four cell manga, or 4-koma for short), a comic-strip format, generally consists of gag comic strips within four panels of equal size ordered from top to bottom. (They also sometimes run right-to-left horizontally or use a hybrid 2x2 style, depending on the layout requirements of the publication in which they appear.) Though the word yonkoma comes from the Japanese, the style also exists outside of Japan in other Asian countries as well as in the English-speaking market.</description>
+<picurl>70558.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-13">
+<name>multi-segment episodes</name>
+<description>Multi-segment episodes are split into several short segments (parts), usually with separate titles and independent storylines.
+Not to be confused with http://anidb.net/t5852 [short episodes], which are regular episodes that are much shorter than the standard length (up to and including 10 minutes).
+Also not to be confused with an OVA or music video with multiple (otherwise unrelated) full-length http://anidb.net/t7241 [bundled episodes] consolidated into a single episode video track.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="29692" update="2007-03-05">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1991-04-11</airdate>
+<title xml:lang="ja">ゴマちゃんが家に来た日 - 博愛固めのスガオ君 - じいちゃんは, いっぱいが好き</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Goma-chan ga Ie ni Kita hi - Hakuai Katame no Sugao-kun - Jii-chan wa, Ippai ga Suki</title>
+</episode>
+<episode id="29693" update="2007-03-05">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1991-04-18</airdate>
+<title xml:lang="ja">天堂先生の恋 - リャンリャンのパパ - ゴマちゃんの悩み</title>
+<title xml:lang="en">Love of a Heavenly Teacher - Ryanryan`s Father - Goma-chan`s Troubles</title>
+<title xml:lang="x-jat">Tendou Sensei no Koi - Ryanryan no Papa - Goma-chan no Nayami</title>
+</episode>
+<episode id="29694" update="2007-03-05">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1991-04-25</airdate>
+<title xml:lang="ja">じいちゃんの秘書 - スガオ君, ネパールへ行く - 父ちゃんの趣味</title>
+<title xml:lang="en">Jii-chan`s Secretary - Sugao-kun, Off To Nepal - Tou-chan`s Hobby</title>
+<title xml:lang="x-jat">Jii-chan no Hisho - Sugao-kun, Nepal e Iku - Tou-chan no Shumi</title>
+</episode>
+<episode id="29695" update="2007-03-05">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1991-05-02</airdate>
+<title xml:lang="ja">ゴマちゃんとサカタ兄弟 - ネパールのスガオ君 - 完治君の就職</title>
+<title xml:lang="en">Goma-chan and Sakata are Brothers - Sugao-kun from Nepal - Kanji-kun`s Employment</title>
+<title xml:lang="x-jat">Goma-chan to Sakata Kyoudai - Nepal no Sugao-kun - Kanji-kun no Shuushoku</title>
+</episode>
+<episode id="29696" update="2007-03-05">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1991-05-09</airdate>
+<title xml:lang="ja">母親参観日 - スガオ君の家庭教師 - まおちゃん事故に遭う</title>
+<title xml:lang="en">Mother`s Visit - Sugao-kun`s Tutor - Mao-chan Has An Accident</title>
+<title xml:lang="x-jat">Hahaoya Sankannichi - Sugao-kun no Kateikyoushi - Mao-chan Jiko ni Au</title>
+</episode>
+<episode id="29697" update="2007-03-05">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1991-05-16</airdate>
+<title xml:lang="ja">じいちゃんのお仕事 - あこがれの白鳥さん - リャンリャンのお店</title>
+<title xml:lang="en">Jii-chan`s Work - The Longing of Hakuchou-san - Ryanryan`s Shop</title>
+<title xml:lang="x-jat">Jii-chan no Oshigoto - Akogare no Hakuchou-san - Ryanryan no Omise</title>
+</episode>
+<episode id="29698" update="2007-03-05">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1991-05-23</airdate>
+<title xml:lang="ja">恋の季節 - ネパールのお祭り - サラリーマン完治君</title>
+<title xml:lang="en">Season of Love - Festival of Nepal - Salaryman Kanji-kun</title>
+<title xml:lang="x-jat">Koi no Kisetsu - Nepal no Omatsuri - Salaryman Kanji-kun</title>
+</episode>
+<episode id="29699" update="2007-03-05">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1991-05-30</airdate>
+<title xml:lang="ja">ヨーイ, ドン! - リャンリャンの初恋 - 僕のおじさん</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="29700" update="2007-03-05">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1991-06-06</airdate>
+<title xml:lang="ja">ゴマちゃんのライバル - イエティがやって来た - 味田君の天敵</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="29701" update="2007-03-05">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1991-06-13</airdate>
+<title xml:lang="ja">ゴマちゃんの一日 - おりこうイエティ - リャンリャンとヒトシ君</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="29702" update="2007-03-05">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1991-06-20</airdate>
+<title xml:lang="ja">アシベの誕生日 - プールだ, わーい! - 居そうろうはつらい</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="29703" update="2007-03-05">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1991-06-27</airdate>
+<title xml:lang="ja">ゴマの悲しき街角 - アドベンチャー・ファミリー - 強いぞじいちゃん</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="29704" update="2007-03-05">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1991-07-04</airdate>
+<title xml:lang="ja">ゴマちゃんのプール遊び - ペッペッペッのファンクラブ - さよならヒトシ君</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="29705" update="2007-03-05">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1991-07-11</airdate>
+<title xml:lang="ja">ゴマちゃんが飛んだ!? - 帰ってこないゆうま - 天堂先生は恋のビョーキ</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="29706" update="2007-03-05">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1991-07-18</airdate>
+<title xml:lang="ja">アッキーとゴマちゃん - 夏休みはどこ行くの? - 結婚式はカラオケショー</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="29707" update="2007-03-05">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1991-07-25</airdate>
+<title xml:lang="ja">ゴマちゃんもおんぶして - イエティまんじゅうはいかが - レストランに連れてって</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="29708" update="2007-03-05">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1991-08-01</airdate>
+<title xml:lang="ja">じいちゃんちのプール - みんなで遊ぼう - アッキーの出前</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="29709" update="2007-03-05">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1991-08-08</airdate>
+<title xml:lang="ja">ゴマちゃんはアイスが好き - 海の家の隠し部屋 - 女学生にもてた山本兄弟</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="29712" update="2007-03-05">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1991-08-15</airdate>
+<title xml:lang="ja">ゴマちゃんが誘かいされた!? - もてないおじさん - 父ちゃんの誕生日</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="29713" update="2007-03-05">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1991-08-22</airdate>
+<title xml:lang="ja">ゴマちゃんの金魚すくい - 父ちゃんのおくりもの - アシベ, ネパールへ行く!</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="29714" update="2007-03-05">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1991-09-05</airdate>
+<title xml:lang="ja">スガオ君に会えるかな? - 天堂先生はデートが好き - オイラの料理</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="29715" update="2007-03-05">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1991-09-12</airdate>
+<title xml:lang="ja">きょうから新学期 - ゴマちゃん, 台風だよ! - サカタと決闘!</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="29716" update="2007-03-05">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1991-09-19</airdate>
+<title xml:lang="ja">じいちゃんはすごい! - スガオ君は芸術家 - 育ちのいい父ちゃん</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="29717" update="2007-03-05">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1991-09-26</airdate>
+<title xml:lang="ja">大運動会だ! - お化けが写ってる!! - お見送りのゴマちゃん</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="29718" update="2007-03-05">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1991-10-05</airdate>
+<title xml:lang="ja">ゴマちゃんの遠足 - 不良になりたいスガオ君 - ゴマちゃんも温泉が好き</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="29719" update="2007-03-05">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1991-10-12</airdate>
+<title xml:lang="ja">ゴマちゃんの書道教室 - ゴマちゃんがいない! - 寒くたって泳いじゃう</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="29720" update="2007-03-05">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>1991-10-19</airdate>
+<title xml:lang="ja">ゴマちゃんを盗め - イエティはまねしんぼ - 釣りに行こうよ</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="29721" update="2007-03-05">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>1991-10-26</airdate>
+<title xml:lang="ja">ゴマちゃんの恩返し - ネパールからの贈り物 - 今夜はごちそう</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="29722" update="2007-03-05">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>1991-11-02</airdate>
+<title xml:lang="ja">ケンカはやめて - ネパールの運動会 - ゴマちゃんだって強いんだ</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="29723" update="2007-03-05">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>1991-11-09</airdate>
+<title xml:lang="ja">ゴマちゃん, 新聞を読む?! - 天堂先生の待ちぼうけ - 柿を食べたの, だーれ?</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="29724" update="2007-03-05">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>1991-11-16</airdate>
+<title xml:lang="ja">ゴマちゃんがフグを食べちゃった! - イエティと雪遊び - 音楽の秋</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="29725" update="2007-03-05">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>1991-11-23</airdate>
+<title xml:lang="ja">ゴマちゃんのお手伝い - イエティのおしおき - 雪だ! スキーだ!</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="29726" update="2007-03-05">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>1991-11-30</airdate>
+<title xml:lang="ja">塾へは行かないアシベ - ネパールのたからさがし - 天堂先生のデート</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="29727" update="2007-03-05">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>1991-12-07</airdate>
+<title xml:lang="ja">サーカスがやって来た - 居そうろうがいっぱい - 父ちゃんのおみやげ</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="29728" update="2007-03-05">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>1991-12-14</airdate>
+<title xml:lang="ja">ゴマちゃんの家出 - 南先生, おめでとう - ピラニアがかじった</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="29729" update="2007-03-05">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>1991-12-21</airdate>
+<title xml:lang="ja">天堂先生のクリスマス - イエティのプレゼント - サンタへの手紙</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="29730" update="2007-03-05">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>1991-12-28</airdate>
+<title xml:lang="ja">ゴマちゃんの待ち伏せ - カゼなんか引かない - ゴマちゃんの雪だるま</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="128314" update="2011-02-24">
+<epno type="3">C4</epno>
+<length>2</length>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="128315" update="2011-02-24">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>1991-04-11</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="128316" update="2011-02-24">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="128317" update="2011-02-24">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>1991-04-11</airdate>
+<title xml:lang="en">Opening 1</title>
+</episode>
+</episodes>
+</anime>

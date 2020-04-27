@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7427" restricted="false">
+<type>TV Series</type>
+<episodecount>30</episodecount>
+<startdate>2010-03-30</startdate>
+<enddate>2011-03-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Marie &amp; Gali Ver.2.0</title>
+<title xml:lang="ja" type="official">マリー&amp;ガリー Ver.2.0</title>
+</titles>
+<relatedanime>
+<anime id="6434" type="Prequel">Marie &amp; Gali</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/tv/marie_gali/</url>
+<creators>
+<name id="2208" type="Character Design">Umakoshi Yoshihiko</name>
+<name id="1558" type="Music">Yoshino Yuuji</name>
+<name id="2808" type="Original Work">Toudou Izumi</name>
+<name id="2939" type="Series Composition">Yamada Takashi</name>
+</creators>
+<ratings>
+<permanent count="22">3.92</permanent>
+<temporary count="22">5.23</temporary>
+</ratings>
+<picture>44965.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11405</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8409</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/tv/marie_gali/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>マリー&amp;ガリー#ver.2.0</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1907</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>336556</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12651</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>2010/marie_gali2</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2628" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-31">
+<name>fictional location</name>
+<description>A fictional location is a place or world which is run by different set of rules than our common and ordinary world. This may include completely fictional worlds with no semblance of Earth, computer-generated worlds, fantasy worlds, magical worlds, parallel worlds accessible through portals, and so on. Or it may be fictional places like floating islands, dungeons or planets, which can co-exist with ordinary Earth, but are otherwise separate from it.
+A world that generally shares the characteristics of, and/or is generally indistinguishable from the real world (bar research on a "more than cursory" level), would NOT be considered a fictional world. A good example is http://anidb.net/a4521 [Code Geass]. It contains several real world nationalities, such as http://anidb.net/a4521 [China], http://anidb.net/t2672 [Japan] (now Area 11), http://anidb.net/t5091 [India], etc, along with fictional nationalities such as http://anidb.net/t2361 [Britannia]. China, Japan, and India are easily identified with a cursory look. The location is unmistakably the planet Earth, even though national borders have been redrawn.
+The fictional world should only be tagged if it plays a materially important role in the plot and setting; generally, an episodic occurrence of a fictional world should not be tagged.
+A fantasy world is a type of fictional world, part of a fictional universe. Typical worlds involve, but are not limited to: magic or magical abilities, and/or a medieval theme. Some examples include: a parallel world tenuously connected to Earth via magical portals or items; a fictional Earth-like planet in the remote past or future; or an entirely independent world set in another universe. Many fantasy worlds draw heavily on real world history, geography, and sociology, and also on folklore.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2850" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6075" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-01-12">
+<name>educational</name>
+<description>The entire series (at least a major part of it) is centred on a particular subject. Information is fed to the audience in a sublime manner. Most of the time an on-screen written comment by the narrator (or translator) can be seen, e.g. biological specimen, medicine, process, etc. Sometimes at the end of every episode’s closing song, a 20 seconds educational clip is presented.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="6146" type="main character in" update="2009-04-14">
+<rating votes="2">10.00</rating>
+<name>Marika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1967.gif</picture>
+<seiyuu id="540" picture="41046.jpg">Chiba Chiemi</seiyuu>
+</character>
+<character id="6147" type="main character in" update="2009-04-14">
+<name>Galileo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1968.gif</picture>
+<seiyuu id="694" picture="52187.jpg">Choo</seiyuu>
+</character>
+<character id="6148" type="secondary cast in" update="2009-04-14">
+<rating votes="2">5.60</rating>
+<name>Pet</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1969.gif</picture>
+</character>
+<character id="6149" type="secondary cast in" update="2009-04-14">
+<name>Curie-fujin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1970.gif</picture>
+<seiyuu id="386" picture="187997.jpg">Nozawa Masako</seiyuu>
+</character>
+<character id="6150" type="secondary cast in" update="2009-04-14">
+<name>Newton</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1971.gif</picture>
+<seiyuu id="2943" picture="203765.jpg">Sakata Tomoyasu</seiyuu>
+</character>
+<character id="6151" type="secondary cast in" update="2009-04-14">
+<name>Hertz</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1972.gif</picture>
+<seiyuu id="220" picture="17038.jpg">Kosugi Juurouta</seiyuu>
+</character>
+<character id="6152" type="secondary cast in" update="2009-04-14">
+<name>Archimedes</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1973.gif</picture>
+<seiyuu id="289" picture="186204.jpg">Nishimura Tomomichi</seiyuu>
+</character>
+<character id="6153" type="secondary cast in" update="2009-04-14">
+<rating votes="1">10.00</rating>
+<name>Fleming</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1974.gif</picture>
+<seiyuu id="468" picture="17383.jpg">Kikuchi Masami</seiyuu>
+</character>
+<character id="6154" type="secondary cast in" update="2017-11-14">
+<name>Da Vinci</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1975.gif</picture>
+<seiyuu id="28" picture="23184.jpg">Aono Takeshi</seiyuu>
+</character>
+<character id="6155" type="secondary cast in" update="2009-04-14">
+<name>Edison</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1976.gif</picture>
+<seiyuu id="4707" picture="27477.jpg">Tamaki Yuuki</seiyuu>
+</character>
+<character id="6156" type="secondary cast in" update="2009-04-14">
+<name>Darwin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1977.gif</picture>
+<seiyuu id="408" picture="17255.jpg">Fujita Yoshinori</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="117194" update="2010-04-01">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2010-04-13</airdate>
+<title xml:lang="ja">どうしてさかさま? 鏡の秘密</title>
+<title xml:lang="en">Why Is It Reversed? The Secret of a Mirror</title>
+<title xml:lang="x-jat">Doushite Sakasama? Kagami no Himitsu</title>
+</episode>
+<episode id="117195" update="2010-04-01">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2010-04-06</airdate>
+<title xml:lang="ja">どうして丸いのシャボン玉</title>
+<title xml:lang="en">Why Is It Round? Soap Bubbles!</title>
+<title xml:lang="x-jat">Doushite Marui no Shabondama</title>
+</episode>
+<episode id="117196" update="2010-04-01">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2010-03-30</airdate>
+<title xml:lang="ja">帰ってきたマリカ</title>
+<title xml:lang="en">Marika Came Back</title>
+<title xml:lang="x-jat">Kaette Kita Marika</title>
+</episode>
+<episode id="117901" update="2010-04-20">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2010-04-20</airdate>
+<title xml:lang="ja">ふっくらパンを焼こう!</title>
+<title xml:lang="en">Let`s Bake Some Plump Bread!</title>
+<title xml:lang="x-jat">Fukkura Pan o Yakou!</title>
+</episode>
+<episode id="118057" update="2010-04-28">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2010-04-27</airdate>
+<title xml:lang="ja">けんかの仲裁 マリカはせっけん?</title>
+<title xml:lang="en">Argument Intervention. Marika Is Detergent?</title>
+<title xml:lang="x-jat">Kenka no Chuusai, Marika wa Sekken?</title>
+</episode>
+<episode id="118063" update="2010-04-28">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2010-05-04</airdate>
+<title xml:lang="ja">マリカとノリカのイビキバスターズ</title>
+<title xml:lang="en">Marika and Norika, Snoring Busters</title>
+<title xml:lang="x-jat">Marika to Norika no Ibiki Busters</title>
+</episode>
+<episode id="118381" update="2010-05-11">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2010-06-08</airdate>
+<title xml:lang="ja">失われた時を求めて</title>
+<title xml:lang="en">Searching for Lost Time</title>
+<title xml:lang="x-jat">Ushinawareta Toki o Motomete</title>
+</episode>
+<episode id="118382" update="2010-05-11">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2010-06-01</airdate>
+<title xml:lang="ja">一億年生きたクマ</title>
+<title xml:lang="en">The Bear That Lived 100,000,000 Years</title>
+<title xml:lang="x-jat">Ichioku Nen Ikita Kuma</title>
+</episode>
+<episode id="118383" update="2010-05-11">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2010-05-25</airdate>
+<title xml:lang="ja">ガリバ式!? リンゴちゃんダイエット!</title>
+<title xml:lang="en">Galiba-Way!? Ringo-chan Diet!</title>
+<title xml:lang="x-jat">Gariba Shiki!? Ringo-chan Diet!</title>
+</episode>
+<episode id="118384" update="2010-05-11">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2010-05-18</airdate>
+<title xml:lang="ja">マイクロマシンで体内探検!</title>
+<title xml:lang="en">Inner Body Discovery with Micro-Machines!</title>
+<title xml:lang="x-jat">Micro Machine de Tainai Tanken!</title>
+</episode>
+<episode id="118385" update="2010-05-11">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2010-05-11</airdate>
+<title xml:lang="ja">マリカは名ゴルファー!?</title>
+<title xml:lang="en">Marika Is a Famous Golfer!?</title>
+<title xml:lang="x-jat">Mariko wa Mei Golfer!?</title>
+</episode>
+<episode id="119595" update="2010-07-06">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2010-07-06</airdate>
+<title xml:lang="ja">白夜の夢の物語</title>
+<title xml:lang="en">Tale of the Dreamy White Night</title>
+<title xml:lang="x-jat">Byakuya no Yume no Monogatari</title>
+</episode>
+<episode id="120426" update="2010-07-27">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2010-07-27</airdate>
+<title xml:lang="ja">ガリバの海賊! 隠された宝をねらえ</title>
+<title xml:lang="en">Galiba`s Pirates! Aim for the Hidden Treasure</title>
+<title xml:lang="x-jat">Gariba no Kaizoku! Kakusareta Takara o Nerae</title>
+</episode>
+<episode id="120660" update="2010-08-04">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2010-08-03</airdate>
+<title xml:lang="ja">灼熱のガリバを冷やせ!</title>
+<title xml:lang="en">Cool Down the Heated Galiba!</title>
+<title xml:lang="x-jat">Shokunetsu no Gariba o Hiyase!</title>
+</episode>
+<episode id="121405" update="2010-08-25">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2010-08-24</airdate>
+<title xml:lang="ja">誕生! ガリバ未来館</title>
+<title xml:lang="en">Coming to Life! Galiba Future Museum</title>
+<title xml:lang="x-jat">Tanjou! Gariba Miraikan</title>
+</episode>
+<episode id="121626" update="2010-08-31">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2010-08-31</airdate>
+<title xml:lang="ja">熱いハートを伝えたい!</title>
+<title xml:lang="en">I Want to Convey the Feelings of My Hot Heart!</title>
+<title xml:lang="x-jat">Atsui Heart o Tsutaetai!</title>
+</episode>
+<episode id="121965" update="2011-06-20">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2010-09-07</airdate>
+<title xml:lang="ja">ガリバ遊園地へようこそ</title>
+<title xml:lang="en">Welcome to the Galiba Amusement Park</title>
+<title xml:lang="x-jat">Gariba Yuuenchi e Youkoso</title>
+</episode>
+<episode id="122955" update="2011-06-20">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2010-10-05</airdate>
+<title xml:lang="ja">科学探偵! ロリロリシスターズ</title>
+<title xml:lang="en">Science Detective! Loli-Loli Sisters</title>
+<title xml:lang="x-jat">Kagaku Tantei! Loli Loli Sisters</title>
+</episode>
+<episode id="124129" update="2010-10-13">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2010-10-12</airdate>
+<title xml:lang="ja">怪盗ガリバの挑戦状</title>
+<title xml:lang="en">Phantom Thief Galiba`s Letter of Challenge</title>
+<title xml:lang="x-jat">Kaitou Gariba no Chousenjou</title>
+</episode>
+<episode id="124335" update="2010-10-19">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2010-10-19</airdate>
+<title xml:lang="ja">怪盗ガリバの最後</title>
+<title xml:lang="en">Phantom Thief Galiba`s End</title>
+<title xml:lang="x-jat">Kaitou Gariba no Saigo</title>
+</episode>
+<episode id="124877" update="2010-11-02">
+<epno type="1">21</epno>
+<length>5</length>
+<airdate>2010-11-02</airdate>
+<title xml:lang="ja">星の形のひみつ</title>
+<title xml:lang="en">The Secret Behind the Shape of the Stars</title>
+<title xml:lang="x-jat">Hoshi no Katachi no Himitsu</title>
+</episode>
+<episode id="125127" update="2010-11-09">
+<epno type="1">22</epno>
+<length>5</length>
+<airdate>2010-11-09</airdate>
+<title xml:lang="ja">挑戦! サイエンスクッキング</title>
+<title xml:lang="en">Challenge! Science Cooking</title>
+<title xml:lang="x-jat">Chousen! Science Cooking</title>
+</episode>
+<episode id="125252" update="2010-11-16">
+<epno type="1">23</epno>
+<length>5</length>
+<airdate>2010-11-16</airdate>
+<title xml:lang="ja">大空にはばたけ!</title>
+<title xml:lang="en">Fly in the Sky!</title>
+<title xml:lang="x-jat">Oozora ni Habatake!</title>
+</episode>
+<episode id="125943" update="2010-12-08">
+<epno type="1">24</epno>
+<length>5</length>
+<airdate>2010-12-07</airdate>
+<title xml:lang="ja">天空の冒険者たち</title>
+<title xml:lang="en">Adventurers in the Clouds</title>
+<title xml:lang="x-jat">Tenkuu no Boukensha-tachi</title>
+</episode>
+<episode id="126597" update="2011-01-04">
+<epno type="1">25</epno>
+<length>5</length>
+<airdate>2011-01-04</airdate>
+<title xml:lang="ja">出動! ロリロリ消防隊</title>
+<title xml:lang="en">Let`s Move! Loli-Loli Fire Brigade</title>
+<title xml:lang="x-jat">Shutsudou! Loli Loli Shouboutai</title>
+</episode>
+<episode id="126884" update="2011-01-11">
+<epno type="1">27</epno>
+<length>5</length>
+<airdate>2011-02-01</airdate>
+<title xml:lang="ja">大人気! ロリロリDJシスターズ</title>
+<title xml:lang="en">Super Popular! Loli-Loli DJ Sisters</title>
+<title xml:lang="x-jat">Daininki! Loli Loli DJ Sisters</title>
+</episode>
+<episode id="126885" update="2011-01-11">
+<epno type="1">26</epno>
+<length>5</length>
+<airdate>2011-01-11</airdate>
+<title xml:lang="ja">ペット・クマ進化論</title>
+<title xml:lang="en">Pet, Kuma Evolved</title>
+<title xml:lang="x-jat">Pet Kuma Shinkaron</title>
+</episode>
+<episode id="128140" update="2011-02-10">
+<epno type="1">29</epno>
+<length>5</length>
+<airdate>2011-03-08</airdate>
+<title xml:lang="ja">宇宙への挑戦者</title>
+<title xml:lang="en">The Challenger of the Universe</title>
+<title xml:lang="x-jat">Uchuu e no Chousensha</title>
+</episode>
+<episode id="128141" update="2011-02-10">
+<epno type="1">28</epno>
+<length>5</length>
+<airdate>2011-03-01</airdate>
+<title xml:lang="ja">大噴火! ノリカの怒りをしずめろ!</title>
+<title xml:lang="en">Huge Explosion! Let`s Silence Norika`s Anger!</title>
+<title xml:lang="x-jat">Daifunka! Norika no Ikari o Shizumero!</title>
+</episode>
+<episode id="128755" update="2011-03-10">
+<epno type="1">30</epno>
+<length>5</length>
+<airdate>2011-03-22</airdate>
+<title xml:lang="ja">みんなで宇宙旅行</title>
+<title xml:lang="en">Let`s All Go on a Space Vacation</title>
+<title xml:lang="x-jat">Minna de Uchuu Ryokou</title>
+</episode>
+</episodes>
+</anime>

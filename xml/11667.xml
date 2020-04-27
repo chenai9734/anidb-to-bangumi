@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11667" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-04-30</startdate>
+<enddate>2014-04-30</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Congming de Yixiu: Fan Dou Gongzhu</title>
+<title xml:lang="en" type="synonym">Princess Yulan</title>
+<title xml:lang="en" type="synonym">Naughty Princess and Ikkyuu-san</title>
+<title xml:lang="en" type="synonym">Naughty Princess and Ikkyu-san</title>
+<title xml:lang="x-zht" type="synonym">Congming de Yixiu Zhi Fan Dou Gongzhu</title>
+<title xml:lang="zh" type="official">聪明的一休之反斗公主</title>
+</titles>
+<relatedanime>
+<anime id="1678" type="Alternative Setting">Ikkyuu-san</anime>
+</relatedanime>
+<description>A Chinese version of the original Japanese Ikkyuu-san anime.</description>
+<ratings>
+<permanent count="10">3.94</permanent>
+<temporary count="10">4.45</temporary>
+</ratings>
+<picture>178072.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20684</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30247</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>一休さん_(テレビアニメ)#.E4.B8.AD.E5.9B.BD.E7.89.88.E6.98.A0.E7.94.BB</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>機靈小和尚</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2876" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>religion</name>
+<description>Religion is a collection of belief systems, cultural systems, and worldviews that relate humanity to spirituality and, sometimes, to moral values. Many religions have narratives, symbols, traditions and sacred histories that are intended to give meaning to life or to explain the origin of life or the universe. They tend to derive morality, ethics, religious laws or a preferred lifestyle from their ideas about the cosmos and human nature.</description>
+</tag>
+<tag id="3322" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-06-04">
+<name>remake</name>
+<description>This anime is a remake of a previously released story, anime, or movie.</description>
+</tag>
+<tag id="3363" parentid="2876" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-04">
+<name>Buddhism</name>
+<description>Buddhism is a nontheistic religion or dharma, "right way of living", that encompasses a variety of traditions, beliefs and practices largely based on teachings attributed to Siddhartha Gautama, commonly known as the Buddha ("the awakened one").
+Source: Wikipedia</description>
+<picurl>169453.jpg</picurl>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="172078" update="2015-10-03">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>2014-04-30</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

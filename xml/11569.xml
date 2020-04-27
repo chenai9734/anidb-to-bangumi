@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11569" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2015-10-13</startdate>
+<enddate>2015-12-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ketsuekigata-kun! 3</title>
+<title xml:lang="ja" type="official">血液型くん! 3</title>
+<title xml:lang="zh-Hant" type="official">血型君3</title>
+</titles>
+<relatedanime>
+<anime id="11826" type="Sequel">Ketsuekigata-kun! 4</anime>
+<anime id="10902" type="Prequel">Ketsuekigata-kun! 2</anime>
+</relatedanime>
+<url>http://ketsuekigatakun.com/</url>
+<creators>
+<name id="1006" type="Animation Work">Feel</name>
+<name id="8575" type="Animation Work">Assez Finaud Fabric</name>
+<name id="788" type="Animation Work">Zexcs</name>
+<name id="17499" type="Character Design">Hiramine Yoshihiro</name>
+<name id="23021" type="Series Composition">Yamashita Ken`ichi</name>
+<name id="8665" type="Direction">Ooyama Yoshihisa</name>
+<name id="43750" type="Original Work">Real Crazy Man</name>
+</creators>
+<ratings>
+<permanent count="61">4.20</permanent>
+<temporary count="62">5.58</temporary>
+</ratings>
+<picture>177181.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17632</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31566</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://ketsuekigatakun.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>A_Simple_Thinking_About_Blood_Type</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>血液型くん!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3973</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354052</identifier>
+</externalentity>
+</resource>
+<resource type="19">
+<externalentity>
+<identifier>혈액형에_관한_간단한_고찰</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="5010" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manhwa</name>
+<description>The Korean equivalent of the Japanese manga (has the look of a manga, but you read it like a Western comic).
+See also http://anidb.net/t2798 [manga] and http://anidb.net/t6493 [manhua].</description>
+</tag>
+<tag id="7260" parentid="5010" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>4-koma manhwa</name>
+</tag>
+</tags>
+<characters>
+<character id="53508" type="main character in" update="2013-04-11">
+<name>O-Gata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134696.jpg</picture>
+<seiyuu id="194" picture="130580.jpg">Ishida Akira</seiyuu>
+</character>
+<character id="53509" type="main character in" update="2013-04-11">
+<name>AB-Gata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134695.jpg</picture>
+<seiyuu id="174" picture="41158.jpg">Kakihara Tetsuya</seiyuu>
+</character>
+<character id="53510" type="main character in" update="2013-04-11">
+<name>A-Gata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134694.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="53511" type="main character in" update="2013-04-11">
+<name>B-Gata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134697.jpg</picture>
+<seiyuu id="345" picture="84834.jpg">Nakamura Yuuichi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="172464" update="2015-10-10">
+<epno type="1">4</epno>
+<length>3</length>
+<airdate>2015-11-03</airdate>
+<title xml:lang="ja">血液型くんVS</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Ketsuekigata-kun VS</title>
+</episode>
+<episode id="172465" update="2015-10-10">
+<epno type="1">3</epno>
+<length>3</length>
+<airdate>2015-10-27</airdate>
+<title xml:lang="ja">A型家族物語</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">A-gata Kazoku Monogatari</title>
+</episode>
+<episode id="172466" update="2015-10-10">
+<epno type="1">2</epno>
+<length>3</length>
+<airdate>2015-10-20</airdate>
+<title xml:lang="ja">血液型ちゃんの海外旅行</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Ketsuekigata-chan no Kaigairyokou</title>
+</episode>
+<episode id="172467" update="2015-10-10">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2015-10-13</airdate>
+<title xml:lang="ja">血液型くんの彼女の条件</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Ketsuekigata-kun no Kanojo no Jouken</title>
+</episode>
+<episode id="172918" update="2015-10-27">
+<epno type="1">8</epno>
+<length>3</length>
+<airdate>2015-12-01</airdate>
+<title xml:lang="ja">漆黒の血液型くん</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Shikkoku no Ketsuekigata-kun</title>
+</episode>
+<episode id="172919" update="2015-10-27">
+<epno type="1">7</epno>
+<length>3</length>
+<airdate>2015-11-24</airdate>
+<title xml:lang="ja">血液型くんとエッチな本</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Ketsuekigata-kun to Ecchi na Hon</title>
+</episode>
+<episode id="172920" update="2015-10-27">
+<epno type="1">6</epno>
+<length>3</length>
+<airdate>2015-11-17</airdate>
+<title xml:lang="ja">A型お父さんの口説き方</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">A-gata Otousan no Kudoki Kata</title>
+</episode>
+<episode id="172921" update="2015-10-27">
+<epno type="1">5</epno>
+<length>3</length>
+<airdate>2015-11-10</airdate>
+<title xml:lang="ja">血液型くんの合コン</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Ketsuekigata-kun no Goukon</title>
+</episode>
+<episode id="173453" update="2015-11-24">
+<epno type="1">12</epno>
+<length>3</length>
+<airdate>2015-12-29</airdate>
+<title xml:lang="ja">血液型くんのクリスマス</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Ketsuekigata-kun no Christmas</title>
+</episode>
+<episode id="173454" update="2015-11-24">
+<epno type="1">11</epno>
+<length>3</length>
+<airdate>2015-12-22</airdate>
+<title xml:lang="ja">血液型はつらいよ</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Ketsuekigata wa Tsurai yo</title>
+</episode>
+<episode id="173455" update="2015-11-24">
+<epno type="1">10</epno>
+<length>3</length>
+<airdate>2015-12-15</airdate>
+<title xml:lang="ja">血液型ちゃんの大掃除</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Ketsuekigata-chan no Oosouji</title>
+</episode>
+<episode id="173456" update="2015-11-24">
+<epno type="1">9</epno>
+<length>3</length>
+<airdate>2015-12-08</airdate>
+<title xml:lang="ja">アリ達とキリギリス達</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Ari-tachi to Kirigirisu-tachi</title>
+</episode>
+</episodes>
+</anime>

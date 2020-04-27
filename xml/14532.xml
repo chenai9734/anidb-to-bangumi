@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14532" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-09-20</startdate>
+<enddate>2019-09-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hello World</title>
+<title xml:lang="ja" type="synonym">ハロー・ワールド</title>
+<title xml:lang="ja" type="official">HELLO WORLD</title>
+<title xml:lang="ar" type="official">مرحبًا أيها العالم</title>
+</titles>
+<relatedanime>
+<anime id="15065" type="Side Story">Another World</anime>
+</relatedanime>
+<url>https://hello-world-movie.com/</url>
+<creators>
+<name id="16731" type="Animation Work">Graphinica</name>
+<name id="528" type="Character Design">Horiguchi Yukiko</name>
+<name id="8068" type="Direction">Itou Tomohiko</name>
+</creators>
+<description>In Kyoto in the year 2027, Naomi Katagaki, a male high school student encounters a person who claiming to be Naomi from 10 years in the future. Together, they must change the future and save a classmate, Ruri, whom the younger Naomi starts to date in three months.
+Source: ANN</description>
+<ratings>
+<permanent count="39">5.71</permanent>
+<temporary count="41">7.10</temporary>
+</ratings>
+<picture>236376.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22139</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38816</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://hello-world-movie.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Hello_World_(film)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>HELLO_WORLD_(アニメ映画)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5425</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366465</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>22220</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>helloworld0920</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="106134" type="main character in" update="2019-10-12">
+<rating votes="1">6.95</rating>
+<name>Katagaki Naomi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239593.jpg</picture>
+<seiyuu id="58922" picture="239605.jpg">Kitamura Takumi</seiyuu>
+</character>
+<character id="106135" type="main character in" update="2019-10-12">
+<name>Katagaki Naomi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239594.jpg</picture>
+<seiyuu id="29626" picture="78589.jpg">Matsuzaka Toori</seiyuu>
+</character>
+<character id="106136" type="main character in" update="2019-10-12">
+<rating votes="2">6.76</rating>
+<name>Ichigyou Ruri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239595.jpg</picture>
+<seiyuu id="58921" picture="239604.jpg">Hamabe Minami</seiyuu>
+</character>
+<character id="106137" type="secondary cast in" update="2019-10-12">
+<name>Karasu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239596.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="106138" type="secondary cast in" update="2019-10-12">
+<rating votes="1">6.58</rating>
+<name>Kadenokouji Misuzu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239597.jpg</picture>
+<seiyuu id="3134" picture="211664.jpg">Fukuhara Haruka</seiyuu>
+</character>
+<character id="106139" type="secondary cast in" update="2019-10-12">
+<name>Senko Tsunehisa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239598.jpg</picture>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+<character id="106140" type="secondary cast in" update="2019-10-12">
+<name>Xu Yiyi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239599.jpg</picture>
+<seiyuu id="1798" picture="20493.jpg">Kotobuki Minako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="214955" update="2019-09-18">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2019-09-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

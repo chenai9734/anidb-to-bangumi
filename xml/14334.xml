@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14334" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1959-08</startdate>
+<enddate>1959-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ou-sama ni Natta Kitsune</title>
+<title xml:lang="ja" type="synonym">王さまになった狐</title>
+<title xml:lang="ja" type="official">王さまになったきつね</title>
+</titles>
+<creators>
+<name id="9587" type="Direction">Mochinaga Tadahito</name>
+<name id="24091" type="Music">Hayashi Hikaru</name>
+</creators>
+<description>A short puppet animation movie directed by http://anidb.net/cr9587 [Mochinaga Tadahito].</description>
+<ratings>
+<permanent count="8">3.89</permanent>
+<temporary count="8">4.25</temporary>
+</ratings>
+<picture>222977.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29922</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14112</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205817" update="2018-08-30">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

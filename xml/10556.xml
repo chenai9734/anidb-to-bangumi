@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10556" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2013-12-31</startdate>
+<enddate>2013-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sagashita no wa Oheya, Mitsuketa no wa Mirai</title>
+<title xml:lang="ja" type="official">探したのはお部屋, 見つけたのは未来</title>
+</titles>
+<url>http://minimini.jp/tokushu/cm/</url>
+<ratings>
+<permanent count="28">4.95</permanent>
+<temporary count="28">5.32</temporary>
+</ratings>
+<picture>61664.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23621</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://minimini.jp/tokushu/cm/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=oTty4UlTGpg</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="65972" type="main character in" update="2014-03-23">
+<name>Miki-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152150.jpg</picture>
+<seiyuu id="591" picture="226209.jpg">Mizuhashi Kaori</seiyuu>
+</character>
+<character id="65973" type="main character in" update="2014-03-23">
+<name>Nagai Sumika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152149.jpg</picture>
+<seiyuu id="182" picture="226274.jpg">Itou Shizuka</seiyuu>
+</character>
+<character id="65974" type="main character in" update="2014-03-23">
+<name>Yuuki Mamoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152148.jpg</picture>
+<seiyuu id="390" picture="33609.jpg">Okamoto Nobuhiko</seiyuu>
+</character>
+<character id="65975" type="main character in" update="2014-03-23">
+<name>Ichijou-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152147.jpg</picture>
+<seiyuu id="353" picture="17192.jpg">Midorikawa Hikaru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="158597" update="2014-03-24">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2013-12-31</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

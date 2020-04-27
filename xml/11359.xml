@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11359" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2012</startdate>
+<enddate>2012</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Columbos</title>
+<title xml:lang="ja" type="official">コロンボス</title>
+</titles>
+<description>A re-imagining of Columbo with puppet animation.</description>
+<ratings>
+<permanent count="32">2.21</permanent>
+<temporary count="33">3.92</temporary>
+</ratings>
+<picture>175305.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28955</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2872" parentid="2607" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="4316" parentid="6242" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-11">
+<name>murder</name>
+<description>To murder means to bring about someone else`s death, by a voluntary act. Whether it comes from the killer`s own hand or by exposing the victim to life-threatening circumstances, the result is foreseeable and sought by the perpetrator. Someone who murders as their profession/job is an http://anidb.net/t2399 [assassin or hitman].</description>
+</tag>
+<tag id="4349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>puppetmation</name>
+<description>A puppet is an inanimate object or representational figure animated or manipulated by a puppeteer. It is usually (but by no means always) a depiction of a human character, and is used in puppetry, a play or a presentation that is a very ancient form of theatre. The puppet undergoes a process of transformation through being animated, and is normally manipulated by at least one puppeteer.
+There are many different varieties of puppets, and they are made of a wide range of materials, depending on their form and intended use. They can be extremely complex or very simple in their construction. They may even be found objects. As Oscar Wilde wrote, "There are many advantages in puppets. They never argue. They have no crude views about art. They have no private lives".</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6070" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-15">
+<name>mystery</name>
+<description>The mystery film is a sub-genre of the more general category of crime film. It focuses on the efforts of the detective, private investigator or amateur sleuth to solve the mysterious circumstances of a crime by means of clues, investigation, and clever deduction. (Source: Wikipedia)</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6242" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-24">
+<name>death</name>
+<description>Death is the state of no longer being alive or the process of ceasing to be alive.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="171962" update="2015-09-26">
+<epno type="1">1</epno>
+<length>9</length>
+<rating votes="1">1.90</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

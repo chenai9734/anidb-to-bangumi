@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10124" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2013-05-20</startdate>
+<enddate>2013-05-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Take Your Way</title>
+<title xml:lang="ja" type="official">Take Your Way</title>
+</titles>
+<relatedanime>
+<anime id="9554" type="Other">Devil Survivor 2 The Animation</anime>
+</relatedanime>
+<ratings>
+<permanent count="129">5.29</permanent>
+<temporary count="130">6.04</temporary>
+</ratings>
+<picture>143373.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18799</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="154462" update="2013-10-01">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2013-05-20</airdate>
+<rating votes="1">3.96</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

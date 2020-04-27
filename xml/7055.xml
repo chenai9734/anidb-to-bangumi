@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7055" restricted="false">
+<type>OVA</type>
+<episodecount>4</episodecount>
+<startdate>1997-11-21</startdate>
+<enddate>1998-06-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hello Kitty to Miyou: Aesop Monogatari</title>
+<title xml:lang="ja" type="official">ハローキティと見よう イソップ物語</title>
+</titles>
+<ratings>
+<permanent count="2">5.61</permanent>
+<temporary count="2">5.00</temporary>
+</ratings>
+<picture>36020.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30064</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11223</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108654" update="2009-09-22">
+<epno type="1">4</epno>
+<length>30</length>
+<airdate>1998-06-20</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="108655" update="2009-09-22">
+<epno type="1">3</epno>
+<length>30</length>
+<airdate>1998-06-20</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="108656" update="2009-09-22">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1997-11-21</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="108657" update="2009-09-22">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1997-11-21</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

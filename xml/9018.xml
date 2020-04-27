@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9018" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002-08-10</startdate>
+<enddate>2002-08-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bonobono: Kumomo no Ki no Koto</title>
+<title xml:lang="ja" type="official">ぼのぼの クモモの木のこと</title>
+</titles>
+<relatedanime>
+<anime id="3548" type="Parent Story">Bonobono (1995)</anime>
+</relatedanime>
+<creators>
+<name id="9336" type="Original Work">Igarashi Mikio</name>
+<name id="14711" type="Music">Gontiti</name>
+<name id="37581" type="Direction">Kumagai Kouki</name>
+</creators>
+<ratings>
+<permanent count="3">3.65</permanent>
+<temporary count="3">4.33</temporary>
+</ratings>
+<picture>82658.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18221</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8403</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Bonobono#2002_film</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ぼのぼの#.E6.98.A0.E7.94.BB.E3.80.8C.E3.81.BC.E3.81.AE.E3.81.BC.E3.81.AE_.E3.82.AF.E3.83.A2.E3.83.A2.E3.81.AE.E6.9C.A8.E3.81.AE.E3.81.93.E3.81.A8.E3.80.8D</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>239454</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6910</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="137770" update="2012-03-12">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2002-08-10</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

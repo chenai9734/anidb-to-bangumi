@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5194" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1997-03-21</startdate>
+<enddate>1997-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kishin Douji Zenki Gaiden: Anki Kitan</title>
+<title xml:lang="ja" type="official">鬼神童子ZENKI外伝 黯鬼奇譚</title>
+</titles>
+<relatedanime>
+<anime id="558" type="Side Story">Kishin Douji Zenki</anime>
+</relatedanime>
+<recommendations total="1"/>
+<creators>
+<name id="60134" type="Original Work">Tani Kikuhide</name>
+<name id="102" type="Character Design">Kizaki Fuminori</name>
+<name id="2241" type="Direction">Nishimura Junji</name>
+<name id="5809" type="Music">Tsuno Gouji</name>
+<name id="10044" type="Original Work">Kuroiwa Yoshihiro</name>
+<name id="730" type="Animation Work">Studio Deen</name>
+</creators>
+<description>In Kanoesaru village every 60 years mysterious murders happen. Every time seven 17 year old girls are killed. The villagers believe it is the work of a demon who once saved the village so they keep quiet about it. However the current head of the Ibuki family calls an exorcist to save her 2 daughters. What is the truth behind the murders in Kanoesaru village?</description>
+<ratings>
+<permanent count="48">4.35</permanent>
+<temporary count="49">5.78</temporary>
+</ratings>
+<picture>12392.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8224</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5828</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2852</identifier>
+<identifier>ltedlr</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>鬼神童子ZENKI</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88115</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11152</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3590" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2014-03-17">
+<name>transforming guardian</name>
+<description>Guardian-like characters in this anime, e.g. Guardian Angels, will actually transform into another usually "powered up" version of themselves.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="72476" update="2007-05-04">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1997-03-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

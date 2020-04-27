@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12662" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2016-09-26</startdate>
+<enddate>2016-09-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kubbe Gachapin Mukku</title>
+<title xml:lang="ja" type="official">KUBBE GACHAPIN MUKKU</title>
+</titles>
+<relatedanime>
+<anime id="10081" type="Other">Kubbe: Kort Animasjon</anime>
+</relatedanime>
+<url>http://kubbe.jp/</url>
+<ratings>
+<permanent count="10">3.10</permanent>
+<temporary count="10">4.20</temporary>
+</ratings>
+<picture>199615.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34601</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kubbe.jp/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=9Jmb7orvNCw</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="183032" update="2016-12-20">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2016-09-26</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

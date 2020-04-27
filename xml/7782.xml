@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7782" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1989-07-22</startdate>
+<enddate>1989-07-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hello Kitty no Cinderella</title>
+<title xml:lang="en" type="synonym">Hello Kitty and Friends: Cinderella</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 9</title>
+<title xml:lang="ja" type="official">ハローキティのシンデレラ</title>
+<title xml:lang="en" type="official">Hello Kitty in Cinderella</title>
+</titles>
+<creators>
+<name id="4793" type="Direction">Kohanawa Tameo</name>
+<name id="4880" type="Chief Direction">Hata Masami</name>
+<name id="20625" type="Music">Kitayama Ryou</name>
+</creators>
+<description>Hello Kitty version of Cinderella.</description>
+<ratings>
+<permanent count="25">4.41</permanent>
+<temporary count="25">4.84</temporary>
+</ratings>
+<picture>63891.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9156</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9291</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2538</identifier>
+<identifier>sxoxvg</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150839</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11511</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="6374" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-03-10">
+<name>Cinderella</name>
+<description>Cinderella is a folk tale embodying a myth-element of unjust oppression and triumphant reward, with thousands of variants known throughout the world. The defining characteristic of the tale is the title character, a young woman living in unfortunate circumstances that are suddenly changed to remarkable fortune.
+Source: Wikipedia</description>
+<picurl>184008.jpg</picurl>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120583" update="2011-04-26">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>1989-07-22</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

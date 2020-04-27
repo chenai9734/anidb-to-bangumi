@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14042" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2018-11-30</startdate>
+<enddate>2018-11-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kidou Senshi Gundam Narrative</title>
+<title xml:lang="en" type="synonym">Mobile Suit Gundam Narrative</title>
+<title xml:lang="x-jat" type="synonym">Kidou Senshi Gundam NT</title>
+<title xml:lang="ja" type="official">機動戦士ガンダムNT (ナラティブ)</title>
+<title xml:lang="zh-Hans" type="official">机动战士高达NT</title>
+</titles>
+<relatedanime>
+<anime id="6517" type="Prequel">Kidou Senshi Gundam Unicorn</anime>
+</relatedanime>
+<url>http://gundam-nt.net/</url>
+<creators>
+<name id="726" type="Animation Work">Sunrise</name>
+<name id="18247" type="Character Design">Kim Se-Jun</name>
+<name id="726" type="Work">Sunrise</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="147" type="Original Work">Tomino Yoshiyuki</name>
+<name id="19075" type="Direction">Yoshizawa Shun`ichi</name>
+<name id="6722" type="Music">Sawano Hiroyuki</name>
+</creators>
+<description>U.C. 0097, one year after the opening of "Laplace`s Box." Despite the revelation of the Universal Century Charter that acknowledges the existence and rights of Newtypes, the framework of the world has not been greatly altered.
+The conflict later dubbed the "Laplace Incident" is thought to have ended with the downfall of the Neo Zeon remnants known as the Sleeves. In its final battle, two full psycho-frame mobile suits displayed power beyond human understanding. The white unicorn and the black lion were sealed away to remove this danger from people`s consciousness, and they should now be completely forgotten.
+However, the RX-0 Unicorn Gundam 03, which disappeared two years earlier, is now about to show itself in the Earth Sphere once more. A golden phoenix... named http://anidb.net/ch95100 [Phenex].
+Source: Official page</description>
+<ratings>
+<permanent count="95">4.65</permanent>
+<temporary count="96">6.15</temporary>
+<review count="1">5.83</review>
+</ratings>
+<picture>225612.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20852</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37764</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://gundam-nt.net/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mobile_Suit_Gundam_Narrative</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>機動戦士ガンダムNT</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5133</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364118</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19861</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>g_narrative</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="3216" parentid="2626" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-25">
+<name>Universal Century</name>
+<description>Refers to the Universal Century timeline in Gundam anime. Gundam anime with this tag all belong in the same universe.</description>
+</tag>
+</tags>
+<characters>
+<character id="29825" type="appears in" update="2012-04-04">
+<rating votes="1">5.01</rating>
+<name>Stephanie Luio</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>The outward face of the Luio family from Hong Kong, who has contacts that can get almost anything done.</description>
+<picture>85239.jpg</picture>
+<seiyuu id="1917" picture="151688.jpg">Natsuki Rio</seiyuu>
+</character>
+<character id="45210" type="secondary cast in" update="2012-05-26">
+<rating votes="3">3.69</rating>
+<name>Martha Vist Carbine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A grandchild of Syam Vist. In order to maintain the Vist Foundation`s control over the Earth Sphere, she has married into the family of Chairman Carbine of Anaheim Electronics, and with the death of her brother Cardeas she is now the acting head of the Vist Foundation as well.</description>
+<picture>88472.jpg</picture>
+<seiyuu id="17052" picture="234928.jpg">Shiota Tomoko</seiyuu>
+</character>
+<character id="45229" type="appears in" update="2012-05-27">
+<name>RAS-96 Anksha</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<description>A successor to the NRX-044 Asshimar. For the sake of maintenance and production efficiency, the Federation Forces made it compatible with the standards of the Jegan series, their main mass production mobile suits. It was completed as a transformable mobile suit specialized for use in the atmosphere, and stationed aboard the giant airlifter Garuda to provide aerial fighting strength.</description>
+<picture>88496.jpg</picture>
+</character>
+<character id="57480" type="appears in" update="2013-06-25">
+<name>RGM-89A2 Jegan Type-A2 (General Revil Haibiki)</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>139048.jpg</picture>
+</character>
+<character id="57482" type="appears in" update="2013-06-25">
+<name>General Revil</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>139050.jpg</picture>
+</character>
+<character id="95097" type="appears in" update="2018-08-16">
+<name>MSN-06S Sinanju Stein</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>222419.jpg</picture>
+</character>
+<character id="95098" type="appears in" update="2018-08-16">
+<name>Narrative Gundam</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>222417.jpg</picture>
+</character>
+<character id="95099" type="main character in" update="2018-04-20">
+<rating votes="1">3.78</rating>
+<name>Michele Luio</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>216440.jpg</picture>
+<seiyuu id="32035" picture="151695.jpg">Muranaka Tomo</seiyuu>
+</character>
+<character id="95100" type="appears in" update="2018-08-16">
+<name>RX-0 Unicorn Gundam 3 Gouki Phenex</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>222418.jpg</picture>
+</character>
+<character id="95101" type="main character in" update="2018-04-20">
+<rating votes="1">3.78</rating>
+<name>Jona Basta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>216441.jpg</picture>
+<seiyuu id="33512" picture="225800.jpg">Enoki Jun`ya</seiyuu>
+</character>
+<character id="95102" type="main character in" update="2020-01-13">
+<rating votes="1">3.78</rating>
+<name>Rita Bernal</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>216439.jpg</picture>
+<seiyuu id="27397" picture="234926.jpg">Matsuura Ayu</seiyuu>
+</character>
+<character id="97488" type="secondary cast in" update="2018-08-16">
+<rating votes="1">2.19</rating>
+<name>Abaev</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4494" picture="245665.jpg">Yamaji Kazuhiro</seiyuu>
+</character>
+<character id="97489" type="secondary cast in" update="2018-08-16">
+<rating votes="1">2.19</rating>
+<name>Amaja</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222427.jpg</picture>
+<seiyuu id="2786" picture="211228.jpg">Satou Setsuji</seiyuu>
+</character>
+<character id="97490" type="secondary cast in" update="2020-01-12">
+<rating votes="1">2.19</rating>
+<name>Iago Hakana</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68411.png</picture>
+<seiyuu id="259" picture="17082.jpg">Nakai Kazuya</seiyuu>
+</character>
+<character id="97491" type="secondary cast in" update="2018-08-17">
+<name>Zoltan Akkanen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222436.jpg</picture>
+<seiyuu id="39792" picture="176251.jpg">Umehara Yuuichirou</seiyuu>
+</character>
+<character id="97492" type="secondary cast in" update="2018-08-17">
+<name>Taman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222438.jpg</picture>
+<seiyuu id="39678" picture="224254.jpg">Komada Wataru</seiyuu>
+</character>
+<character id="97493" type="secondary cast in" update="2018-08-17">
+<rating votes="1">2.19</rating>
+<name>Delao</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222439.jpg</picture>
+<seiyuu id="39931" picture="234927.jpg">Arai Yuuki</seiyuu>
+</character>
+<character id="97494" type="secondary cast in" update="2018-08-17">
+<name>Pavel</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222437.jpg</picture>
+<seiyuu id="38999" picture="148277.jpg">Shimada Takahiro</seiyuu>
+</character>
+<character id="97495" type="secondary cast in" update="2018-08-16">
+<rating votes="1">2.19</rating>
+<name>Fransson</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="177" picture="170981.jpg">Hoshino Takanori</seiyuu>
+</character>
+<character id="97496" type="secondary cast in" update="2018-08-17">
+<rating votes="1">2.19</rating>
+<name>Brick Techlate</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222451.jpg</picture>
+<seiyuu id="34070" picture="130103.jpg">Furukawa Makoto</seiyuu>
+</character>
+<character id="97497" type="secondary cast in" update="2018-08-17">
+<name>Michele Luio (15-sai)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222450.jpg</picture>
+<seiyuu id="32035" picture="151695.jpg">Muranaka Tomo</seiyuu>
+</character>
+<character id="97498" type="secondary cast in" update="2018-08-17">
+<name>Michele Luio (8-sai)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222449.jpg</picture>
+<seiyuu id="57015" picture="228196.jpg">Yokomizo Naho</seiyuu>
+</character>
+<character id="97499" type="secondary cast in" update="2018-08-16">
+<rating votes="1">3.66</rating>
+<name>Mineva Lao Zabi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222428.jpg</picture>
+<seiyuu id="441" picture="171611.jpg">Fujimura Ayumi</seiyuu>
+</character>
+<character id="97500" type="secondary cast in" update="2018-08-17">
+<name>Jona Basta (15-sai)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222447.jpg</picture>
+<seiyuu id="33512" picture="225800.jpg">Enoki Jun`ya</seiyuu>
+</character>
+<character id="97501" type="secondary cast in" update="2018-08-17">
+<rating votes="1">3.78</rating>
+<name>Jona Basta (8-sai)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222445.jpg</picture>
+<seiyuu id="57027" picture="228208.jpg">Nakamura Buntoku</seiyuu>
+</character>
+<character id="97502" type="secondary cast in" update="2018-08-17">
+<name>Luio Umin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>222452.jpg</picture>
+</character>
+<character id="97503" type="appears in" update="2018-08-17">
+<name>FD-03 Gustav Karl</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>222454.jpg</picture>
+</character>
+<character id="97504" type="appears in" update="2018-08-17">
+<name>RGM-89D Jegan D-gata Goei Tai Shiyou</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>222455.jpg</picture>
+</character>
+<character id="97505" type="appears in" update="2018-08-17">
+<name>RGM-96Xs Jesta Schezar Tai Shiyou</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>222456.jpg</picture>
+</character>
+<character id="97506" type="appears in" update="2018-08-17">
+<name>MSK-008 Dijeh</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>222453.jpg</picture>
+</character>
+<character id="97507" type="appears in" update="2018-08-16">
+<name>Schezar Tai</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="97508" type="appears in" update="2018-08-16">
+<name>Luio Shokai</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="101661" type="appears in" update="2019-03-28">
+<name>Silver Bullet Suppressor</name>
+<gender>unknown</gender>
+<charactertype id="2">Mecha</charactertype>
+<picture>231751.jpg</picture>
+</character>
+<character id="107965" type="secondary cast in" update="2020-01-11">
+<name>Rita Bernal (8-sai)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>243567.jpg</picture>
+<seiyuu id="27397" picture="234926.jpg">Matsuura Ayu</seiyuu>
+</character>
+<character id="107992" type="secondary cast in" update="2020-01-13">
+<name>Eric Yuugo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68414.png</picture>
+<seiyuu id="424" picture="224027.jpg">Endou Aya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="204294" update="2018-11-28">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2018-11-30</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

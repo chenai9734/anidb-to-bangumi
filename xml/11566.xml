@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11566" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2012-01-03</startdate>
+<enddate>2012-01-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Night Game: Neko no Sakusen</title>
+<title xml:lang="ja" type="official">The Night Game ネコのさくせん</title>
+</titles>
+<description>Cats play baseball at night. When their ball goes over the fence a dog is indifferent on giving it back. The cat tries different methods to get revenge.</description>
+<ratings>
+<permanent count="8">4.31</permanent>
+<temporary count="9">5.33</temporary>
+</ratings>
+<picture>177170.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29501</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>TheNightGame_ネコのさくせん</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="28" parentid="2881" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-16">
+<name>baseball</name>
+<description>Baseball is like a complicated version of Rounders. It involves hitting a ball with a stick, then running around several bases placed in the form of a diamond on a field. Big in the US, and also in Japan.</description>
+<picurl>29801.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="172049" update="2015-09-27">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2012-01-03</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

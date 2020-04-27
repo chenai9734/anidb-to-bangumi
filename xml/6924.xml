@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6924" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1918-03-20</startdate>
+<enddate>1918-03-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Issunboushi</title>
+<title xml:lang="ja" type="official">一寸法師</title>
+</titles>
+<ratings>
+<permanent count="5">3.95</permanent>
+<temporary count="5">4.80</temporary>
+</ratings>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10760</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>156342</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106627" update="2009-08-26">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

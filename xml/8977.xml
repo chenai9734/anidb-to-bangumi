@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8977" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2012-01-31</startdate>
+<enddate>2012-01-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nantokashite Alguard</title>
+<title xml:lang="ja" type="synonym">なんとかして☆アルガード</title>
+<title xml:lang="x-jat" type="synonym">Alguard</title>
+<title xml:lang="ja" type="official">なんとかして アルガード</title>
+</titles>
+<url>http://rohtoalguard.jp/</url>
+<description>Opening animation featuring the Alguard Sisters, used in Rohto Pharmaceutical`s campain against pollinosis.</description>
+<ratings>
+<permanent count="54">2.04</permanent>
+<temporary count="54">3.55</temporary>
+</ratings>
+<picture>81475.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>13543</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://rohtoalguard.jp/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=q95_Nxcm9H8</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="41289" type="main character in" update="2012-02-12">
+<rating votes="1">6.08</rating>
+<name>Tatsumi Atene</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81476.jpg</picture>
+</character>
+<character id="41290" type="main character in" update="2012-02-12">
+<rating votes="1">6.08</rating>
+<name>Tatsumi Temisu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81477.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="137136" update="2012-02-12">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2012-01-31</airdate>
+<title xml:lang="en">Opening Animation</title>
+</episode>
+</episodes>
+</anime>

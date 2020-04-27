@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11565" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2006</startdate>
+<enddate>2006</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yume</title>
+<title xml:lang="ja" type="official">Yumé</title>
+</titles>
+<description>A visualization of how dreams mush up unrelated events together to make up a single story.</description>
+<ratings>
+<permanent count="37">3.35</permanent>
+<temporary count="37">4.37</temporary>
+</ratings>
+<picture>177168.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29932</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.shunsukesaito.com/privateworks-3/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="172053" update="2015-09-27">
+<epno type="1">1</epno>
+<length>2</length>
+<rating votes="1">1.58</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

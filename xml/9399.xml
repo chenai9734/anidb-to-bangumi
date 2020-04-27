@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9399" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2020-01-11</startdate>
+<enddate>2020-01-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ongaku</title>
+<title xml:lang="en" type="synonym">On-Gaku: Our Sound</title>
+<title xml:lang="ja" type="official">音楽</title>
+</titles>
+<url>http://on-gaku.info/</url>
+<creators>
+<name id="58023" type="Original Work">Oohashi Hiroyuki</name>
+<name id="58025" type="Direction">Iwaisawa Kenji</name>
+</creators>
+<picture>239927.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22544</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>40331</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://on-gaku.info/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>368673</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>eiga_ongaku</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="222111" update="2020-01-08">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>2020-01-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13202" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-12-24</startdate>
+<enddate>2016-12-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sanpou Shoujo</title>
+<title xml:lang="ja" type="official">算法少女</title>
+</titles>
+<url>http://sampo-shojo.oops.jp/index.html</url>
+<picture>203144.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37878</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://sampo-shojo.oops.jp/index.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>算法少女_(小説)</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360782</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>sanpousyoujo</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="188052" update="2017-05-30">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2016-12-24</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="199063" update="2018-05-14">
+<epno type="4">T1</epno>
+<length>5</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

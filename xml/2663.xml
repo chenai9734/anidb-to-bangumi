@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2663" restricted="false">
+<type>TV Series</type>
+<episodecount>10</episodecount>
+<startdate>2004-12-22</startdate>
+<enddate>2004-12-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kimagure Robot</title>
+<title xml:lang="ru" type="synonym">Капризный Робот</title>
+<title xml:lang="ja" type="official">きまぐれロボット</title>
+<title xml:lang="en" type="official">The Capricious Robot</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Recommended" uid="461271">Good, short watch about robots and aliens and stuff. Very enjoyable and funny at most of the time. 
+Recommended!</recommendation>
+</recommendations>
+<url>http://www.studio4c.co.jp/kimagurerobot/</url>
+<creators>
+<name id="738" type="Animation Work">Studio 4C</name>
+<name id="20083" type="Music">Yamamoto Seiichi</name>
+<name id="30650" type="Original Work">Hoshi Shin`ichi</name>
+<name id="10527" type="Direction">Chiba Yumi</name>
+<name id="18336" type="Direction">Shimizu Yasuyuki</name>
+<name id="11307" type="Direction">Uratani Chie</name>
+<name id="7785" type="Direction">Itou Nobutake</name>
+<name id="3188" type="Direction">Kubo Masahiko</name>
+<name id="7583" type="Direction">Ashino Yoshiharu</name>
+<name id="8630" type="Direction">Aoki Yasuhiro</name>
+</creators>
+<description>* Based on the short stories of legendary SF writer Hoshi Shin`ichi, who wrote over 1000 short stories.
+Each episode is two minutes long, and Seiichi Yamamoto is providing the music. "Kimagure Robot" was sponsored by Yahoo! and released free on Yahoo! Japan`s portal. If successful, the studio hopes to be able to make at least 100 episodes - possibly even 200, depending on the response. After the first ten episodes, the rest of the episodes would be produced not only by http://anidb.net/cr738 [Studio 4°C] but also by various artists from around the world, so that the series is in fact intended to eventually become a sort of showcase of a variety of animation techniques and styles, like a sci-fi version of Nihon Mukashibanashi.</description>
+<ratings>
+<permanent count="403">4.39</permanent>
+<temporary count="403">6.08</temporary>
+<review count="1">6.00</review>
+</ratings>
+<picture>154157.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4434</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1955</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3538</identifier>
+<identifier>jfomcb</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.studio4c.co.jp/works/pages/14.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://studio4c.co.jp/works/en/pages/14.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Kimagure_Robot</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>星新一ミステリーSP#.E3.81.8D.E3.81.BE.E3.81.90.E3.82.8C.E3.83.AD.E3.83.9C.E3.83.83.E3.83.88</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>321324</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="7" parentid="2611" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>juujin</name>
+<description>Kemono, "beast", is a genre of Japanese art and character design that prominently features anthropomorphic animal characters. It is used widely in visual arts, especially drawing and painting, and can be found in many manga, anime, and video game.
+Anthropomorphic animal characters in the kemono genre are frequently called juujin, "therianthrope"; the kanji for juujin are also sometimes pronounced kemonobito, "beast-human". While their design differs from artist to artist, they generally employ animal traits considered cute and endearing; most kemono characters retain a fundamentally human personality, however, seldom behaving as the actual animals from which they have been anthropomorphized, and as such they are typically depicted living as humans do.
+Juujin leans more on the human-looking side when compared to http://anidb.net/t2857 [anthropomorphism], which leans more on the animal-looking side.
+Source: Manga Wikia</description>
+</tag>
+<tag id="760" parentid="2274" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>robot helper</name>
+<description>In a http://anidb.net/t2846 [science fiction] setting, the robot helper is, in a comedic sense, pretty much equivalent to what the "cute comic relief http://anidb.net/t1835 [animal sidekick]" is in a fantasy setting. The usually small machine has artificial intelligence, enabling it to support their owner / master with advice or help with menial tasks.
+http://anidb.net/t1278 [Androids] should not be considered robot helpers since these are far more complex; use the android tag instead.</description>
+</tag>
+<tag id="1278" parentid="2274" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>android</name>
+<description>An android is a robot or synthetic organism designed to look and act like a human.</description>
+<picurl>223943.jpg</picurl>
+</tag>
+<tag id="2202" parentid="2846" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2639" parentid="2846" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space travel</name>
+<description>Space Travel usually refers going to space or travelling there with or without a spacecraft. There are different forms of space travel like Interplanetary travel, Interstellar travel or Intergalactic travel. Since it isn`t possible to travel faster than light, most anime series involve some sort "sub-space travel mechanism" as a way to travel faster than light.</description>
+<picurl>242375.jpg</picurl>
+</tag>
+<tag id="2644" parentid="2274" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-14">
+<name>transforming craft</name>
+<description>A transforming craft is an object built by humans or other intelligent lifeforms, usually a robot but sometimes also a vehicle of some sort, that can rearrange its parts in order to switch between a minimum of two forms.</description>
+<picurl>224142.jpg</picurl>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2841" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4215" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-30">
+<name>daikaijuu</name>
+<description>Literally translating to giant monster, daikaiju is an element found often in Japanese entertainment. Although usually for the science fiction genre it is also often used in horror, fantasy, mecha, and to a lesser extent comedy. Any monster that towers over a house technically qualifies as a daikaiju. Some anime, usually mecha, will go as far as calling their daikaiju with a specific title.</description>
+<picurl>60039.png</picurl>
+</tag>
+<tag id="4280" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2008-06-02">
+<name>surreal</name>
+<description>Refers to things or occurrences that are generally bizarre or dreamlike, with the relentless capability of replacing reality through the eyes of the beholder. Surrealism is boundless, limited only by thought itself.</description>
+</tag>
+<tag id="4499" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2014-07-28">
+<name>some weird shit goin` on</name>
+<description>Scenes of this show point to insanely strange events which seem to be taking place; throughout its episodes, the show may or may not explain what is going on. Either way, many viewers will find that a succinct and accurate way to describe the show is "WTF?", and the show`s explanations (or lack thereof) to the events will often be subject of heated debate.</description>
+</tag>
+<tag id="4831" parentid="2202" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-23">
+<name>alien invasion</name>
+<description>An alien invasion or space invasion is the invasion of the Earth by an extraterrestrial species, usually but not necessarily sentient and highly advanced technologically. The invasion typically happens for reasons such as to exterminate and supplant human life, to enslave the earthlings or harvest them for food, to steal the planet`s resources, or simply to destroy it altogether. It often happens during, causes, or is the result of a war between humans and aliens.</description>
+<picurl>215284.jpg</picurl>
+</tag>
+<tag id="5697" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-02">
+<name>randomness</name>
+<description>The anime does not follow a predictable storyline. New, strange, obscure, or otherwise unexpected story elements are introduced at a whim.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6399" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-25">
+<name>episodic</name>
+<description>An episodic anime consists of many successive short arcs that are generally 1-2 episodes in length, with strong plot continuity within each arc but generally little continuity from one arc to the next. For long shows (well upwards of 50 episodes), the episode count constraint is less tight; for example, a show with close to 250 episodes would also be considered episodic if it consisted of a majority of arcs of up to 3 or maybe 4 episodes and possibly also very few slightly longer arcs.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="35849" update="2009-08-02">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">5.02</rating>
+<title xml:lang="ja">きまぐれロボット</title>
+<title xml:lang="en">The Capricious Robot</title>
+<title xml:lang="x-jat">Kimagure Robot</title>
+</episode>
+<episode id="35945" update="2009-08-02">
+<epno type="1">2</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="7">4.05</rating>
+<title xml:lang="ja">夜の事件</title>
+<title xml:lang="en">The Incident in the Night</title>
+<title xml:lang="x-jat">Yoru no Jiken</title>
+</episode>
+<episode id="35946" update="2009-08-02">
+<epno type="1">3</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">3.83</rating>
+<title xml:lang="ja">3つの願い</title>
+<title xml:lang="en">Three Wishes</title>
+<title xml:lang="x-jat">Mitsu no Negai</title>
+</episode>
+<episode id="36060" update="2009-08-02">
+<epno type="1">4</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">5.10</rating>
+<title xml:lang="ja">ねぼけロボット</title>
+<title xml:lang="en">The Sleepy Robot</title>
+<title xml:lang="x-jat">Neboke Robot</title>
+</episode>
+<episode id="36124" update="2009-08-02">
+<epno type="1">5</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">4.02</rating>
+<title xml:lang="ja">文明の使者</title>
+<title xml:lang="en">Emissary of Civilization</title>
+<title xml:lang="x-jat">Bunmei no Shisha</title>
+</episode>
+<episode id="36207" update="2009-08-02">
+<epno type="1">7</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">5.76</rating>
+<title xml:lang="ja">スパイキャッチャー</title>
+<title xml:lang="en">Spy Catcher</title>
+<title xml:lang="x-jat">Spy Catcher</title>
+</episode>
+<episode id="36208" update="2009-08-02">
+<epno type="1">6</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">5.89</rating>
+<title xml:lang="ja">謎のロボット</title>
+<title xml:lang="en">The Mysterious Robot</title>
+<title xml:lang="x-jat">Nazo no Robot</title>
+</episode>
+<episode id="36227" update="2009-08-02">
+<epno type="1">8</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">6.63</rating>
+<title xml:lang="ja">火の用心</title>
+<title xml:lang="en">Beware of Fires</title>
+<title xml:lang="x-jat">Hi no Youjin</title>
+</episode>
+<episode id="36232" update="2009-08-02">
+<epno type="1">9</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="6">2.72</rating>
+<title xml:lang="ja">襲来の目的</title>
+<title xml:lang="en">The Purpose of the Invasion</title>
+<title xml:lang="x-jat">Shuurai no Mokuteki</title>
+</episode>
+<episode id="36233" update="2009-08-02">
+<epno type="1">10</epno>
+<length>2</length>
+<airdate>2004-12-22</airdate>
+<rating votes="7">6.63</rating>
+<title xml:lang="ja">薬</title>
+<title xml:lang="en">The Drug</title>
+<title xml:lang="x-jat">Kusuri</title>
+</episode>
+</episodes>
+</anime>

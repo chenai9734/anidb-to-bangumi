@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14365" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1968</startdate>
+<enddate>1968</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kage (1968)</title>
+<title xml:lang="ja" type="official">かげ</title>
+</titles>
+<creators>
+<name id="11077" type="Work">Hayashi Seiichi</name>
+</creators>
+<description>A short independent animation by http://anidb.net/cr11077 [Hayashi Seiichi].</description>
+<ratings>
+<permanent count="13">2.19</permanent>
+<temporary count="13">3.76</temporary>
+</ratings>
+<picture>223061.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29677</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14162</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205920" update="2018-09-01">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

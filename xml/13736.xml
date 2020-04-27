@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13736" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1989-03-11</startdate>
+<enddate>1989-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Robotan (1989)</title>
+<title xml:lang="ja" type="official">ロボタン (1989)</title>
+</titles>
+<relatedanime>
+<anime id="5560" type="Other">Robotan (1986)</anime>
+</relatedanime>
+<creators>
+<name id="3483" type="Direction">Okuwaki Masaharu</name>
+<name id="5314" type="Music">Mizutani Toshiharu</name>
+</creators>
+<description>Note: Screened as a triple feature with http://anidb.net/a5812 [Sore Ike! Anpanman: Kirakiraboshi no Namida] and http://anidb.net/a5806 [Onegai! Samia Don].</description>
+<picture>211884.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20521</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ロボタン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150718</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="195132" update="2018-01-13">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1989-03-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

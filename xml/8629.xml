@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8629" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2011-09-18</startdate>
+<enddate>2012-09-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Battle Spirits: Heroes</title>
+<title xml:lang="ja" type="official">バトルスピリッツ 覇王[ヒーローズ]</title>
+<title xml:lang="zh-Hans" type="official">战斗之魂 霸王</title>
+</titles>
+<relatedanime>
+<anime id="7675" type="Other">Battle Spirits Brave</anime>
+<anime id="9329" type="Other">Battle Spirits: Sword Eyes</anime>
+</relatedanime>
+<url>http://www.sunrise-inc.co.jp/battlespirits4/</url>
+<creators>
+<name id="726" type="Animation Work">Sunrise</name>
+<name id="22093" type="Character Design">Hirata Ryou</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="1019" type="Work">Nagoya TV Housou</name>
+<name id="996" type="Work">Asatsu-DK</name>
+<name id="726" type="Work">Sunrise</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="4541" type="Direction">Nishimori Akira</name>
+<name id="24129" type="Music">Segawa Eishi</name>
+</creators>
+<description>* Based on the Battle Spirits trading card game.</description>
+<ratings>
+<permanent count="9">3.93</permanent>
+<temporary count="10">4.80</temporary>
+</ratings>
+<picture>50733.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>13240</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>11017</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4963</identifier>
+<identifier>bzmohv</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nagoyatv.com/battlespirits_heroes/</url>
+</externalentity>
+<externalentity>
+<url>http://www.sunrise-inc.co.jp/battlespirits4/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Battle_Spirits:_Heroes</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>バトルスピリッツ_覇王</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2279</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>340711</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>13759</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="36578" type="secondary cast in" update="2012-01-19">
+<name>Nigiri Kobushi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80219.jpg</picture>
+<seiyuu id="2488" picture="186147.jpg">Matsuda Ken`ichirou</seiyuu>
+</character>
+<character id="36579" type="secondary cast in" update="2012-01-19">
+<name>Ooizumi Kataru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80218.jpg</picture>
+<seiyuu id="4924" picture="28340.jpg">Matsuoka Mika</seiyuu>
+</character>
+<character id="36580" type="secondary cast in" update="2012-01-19">
+<name>Ooizumi Manabu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80217.jpg</picture>
+<seiyuu id="17635" picture="170731.jpg">Mutou Tadashi</seiyuu>
+</character>
+<character id="36581" type="secondary cast in" update="2012-01-19">
+<name>Kisaragi Mika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80221.jpg</picture>
+<seiyuu id="216" picture="171983.jpg">Takahashi Mikako</seiyuu>
+</character>
+<character id="36582" type="main character in" update="2012-01-19">
+<name>Tatsumi Kimari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80192.jpg</picture>
+<seiyuu id="1673" picture="41835.jpg">Fujita Saki</seiyuu>
+</character>
+<character id="36583" type="main character in" update="2012-01-19">
+<name>Tatsumi Kouta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80193.jpg</picture>
+<seiyuu id="1436" picture="18822.jpg">Takagi Reiko</seiyuu>
+</character>
+<character id="36584" type="secondary cast in" update="2019-08-25">
+<name>Kusaka Chihiro</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80220.jpg</picture>
+<seiyuu id="238" picture="49561.jpg">Mizusawa Fumie</seiyuu>
+</character>
+<character id="36585" type="main character in" update="2012-01-19">
+<name>Tanashi Tegamaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80190.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="36586" type="main character in" update="2012-01-19">
+<name>Yakushiji Arata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80191.jpg</picture>
+<seiyuu id="29" picture="202917.jpg">Hatano Wataru</seiyuu>
+</character>
+<character id="36587" type="main character in" update="2012-01-19">
+<name>Hinobori Hajime</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80189.jpg</picture>
+<seiyuu id="12352" picture="130106.jpg">Hirata Mana</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="132914" update="2011-09-11">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2011-09-18</airdate>
+<title xml:lang="ja">バースト召喚! 英雄龍ロード・ドラゴン!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Burst Shoukan! Eiyuuryuu Lord Dragon!</title>
+</episode>
+<episode id="132992" update="2011-09-13">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2011-10-09</airdate>
+<title xml:lang="ja">頂点の激闘! 龍の覇王 ジーク・ヤマト・フリード!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Chouten no Gekitou! Ryuu no Haou Sieg Yamato Fried!</title>
+</episode>
+<episode id="132993" update="2011-09-13">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2011-10-02</airdate>
+<title xml:lang="ja">皇牙獣[おうがじゅう]キンタローグ・ベアー 疾風怒濤[どとう]! 仁王立ちのテガマル</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Ougajuu Kintarogue Bear Shippuu Dotou! Nioudachi no Tegamaru</title>
+</episode>
+<episode id="132994" update="2011-09-13">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2011-09-25</airdate>
+<title xml:lang="ja">バーストVSバースト! グラント・ベンケイ出陣!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Burst VS Burst! Grant Benkei Shutsujin!</title>
+</episode>
+<episode id="133821" update="2011-10-10">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2011-10-16</airdate>
+<title xml:lang="ja">バースト応酬! 降臨! 氷の覇王ミブロック・バラガン!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Burst Oushuu! Kourin! Koori no Haou Mibrock Baragan!</title>
+</episode>
+<episode id="133907" update="2011-10-11">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2011-11-06</airdate>
+<title xml:lang="ja">ドルクス・ウシワカ 逆襲のコブシ! 打倒ハジメ!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Dorcus Ushiwaka Gyakushuu no Kobushi! Datou Hajime!</title>
+</episode>
+<episode id="133908" update="2011-10-11">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2011-10-30</airdate>
+<title xml:lang="ja">ヒーローチャンピオンシップ開幕! 風の覇王 ドルクス・ウシワカ見参!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Hero Championship Kaimaku! Kaze no Haou Dorcus Ushiwaka Kenzan!</title>
+</episode>
+<episode id="133909" update="2011-10-11">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2011-10-23</airdate>
+<title xml:lang="ja">運命の出会い!?! 呪[じゅ]の覇王 カオティック・セイメイ</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Unmei no Deai!?! Ju no Haou Chaotic Seimei</title>
+</episode>
+<episode id="135040" update="2011-11-29">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2011-11-13</airdate>
+<title xml:lang="ja">打倒テガマル! 運命の爆烈十紋刃!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Datou Tegamaru! Unmei no Bakuretsu Juumonjin!</title>
+</episode>
+<episode id="135041" update="2011-11-29">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2011-11-20</airdate>
+<title xml:lang="ja">会長VS校長!?驚異の大粉砕, 鉄の覇王サイゴード・ゴレム!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Kaichou VS Kouchou!? Kyoui no Daifunsai, Kurogane no Haou Saigord Golem!</title>
+</episode>
+<episode id="135042" update="2011-11-29">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2011-11-27</airdate>
+<title xml:lang="ja">修行編スタート! 試練のペンタンデッキ!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Shugyou Hen Start! Shiren no Pentan Deck!</title>
+</episode>
+<episode id="135043" update="2011-11-29">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2011-12-04</airdate>
+<title xml:lang="ja">探せ! 刀の覇王ムサシード・アシュライガー!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Sagase! Katana no Haou Musashied Ashliger!</title>
+</episode>
+<episode id="135266" update="2011-12-11">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2011-12-11</airdate>
+<title xml:lang="ja">バースト, そしてワースト ハジメデッキ, 破壊10秒前!?</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Burst, Soshite Worst Hajime Deck, Hakai 10-byou Mae!?</title>
+</episode>
+<episode id="135267" update="2011-12-11">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2011-12-18</airdate>
+<title xml:lang="ja">燃えよブラザー! 光の覇王ルナアーク・カグヤ!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Moeyo Brother! Hikari no Haou Luna Ark Kaguya!</title>
+</episode>
+<episode id="135750" update="2011-12-28">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2011-12-25</airdate>
+<title xml:lang="ja">地獄のクリスマスイブ!?暴風デッキ, 軍師鳥ショカツリョー!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Jigoku no Christmas Eve!? Boufu Deck, Gunshichou Shokatsuryou!</title>
+</episode>
+<episode id="135751" update="2011-12-28">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2012-01-08</airdate>
+<title xml:lang="ja">救え, キマリ姫! 龍の覇王ジーク・ヤマト・フリード!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Sukue, Kimari-hime! Ryuu no Haou Sieg Yamato Fried!</title>
+</episode>
+<episode id="136235" update="2012-01-09">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2012-01-15</airdate>
+<title xml:lang="ja">世界征服暴走バトル 白VS紫 Xレア対決!</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Sekai Seifuku Bousou Battle Shiro VS Murasaki X-Rare Taiketsu!</title>
+</episode>
+<episode id="137075" update="2012-02-09">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2012-01-22</airdate>
+<title xml:lang="ja">新たな仲間, 爆炎の覇王ロード・ドラゴン・バゼル!</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Arata na Nakama, Bakuen no Haou Lord Dragon Bazzel!</title>
+</episode>
+<episode id="137076" update="2012-02-09">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2012-01-29</airdate>
+<title xml:lang="ja">ハジメとテガマル バゼルVSアシュライガー?</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Hajime to Tegamaru Bazzel VS Ashliger?</title>
+</episode>
+<episode id="137077" update="2012-02-09">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2012-02-05</airdate>
+<title xml:lang="ja">爆裂スタート! 覇王チャンピオンシップ全国大会!!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Bakuretsu Start! Haou Championship Zenkoku Taikai!!</title>
+</episode>
+<episode id="137078" update="2012-02-09">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2012-02-12</airdate>
+<title xml:lang="ja">雅な合体! 魁の覇王ミブロック・ブレイヴァー</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Miyabi na Brave! Sakigake no Haou Mibrock Braver</title>
+</episode>
+<episode id="137146" update="2012-02-12">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2012-02-19</airdate>
+<title xml:lang="ja">行くぜ, 二回戦! 大粉砕VS呪滅撃!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Ikuze, Nikaisen! Daifunsai VS Jumetsugeki!</title>
+</episode>
+<episode id="138014" update="2012-03-18">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2012-03-18</airdate>
+<title xml:lang="ja">夢の舞台へ...! 決着, バーストVSブレイヴ!!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Yume no Butai e...! Kecchaku, Burst VS Brave!!</title>
+</episode>
+<episode id="138015" update="2012-03-18">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2012-03-11</airdate>
+<title xml:lang="ja">ハジメVSイサミ! 怒涛の決勝バトル!!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Hajime VS Isami! Doutou no Kessho Battle!!</title>
+</episode>
+<episode id="138016" update="2012-03-18">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2012-03-04</airdate>
+<title xml:lang="ja">決勝戦開始!ムサシード・アシュライガーVS怪奇バースト男!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Kesshousen Kaishi! Musashied Ashliger VS Kaiki Burst Otoko!</title>
+</episode>
+<episode id="138017" update="2012-03-18">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2012-02-26</airdate>
+<title xml:lang="ja">奇跡の召喚!?ヒーローXレア, 烈の覇王セイリュービ</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Kiseki no Shoukan!? Hero X-Rare, Retsu no Haou Seiryuubi</title>
+</episode>
+<episode id="138259" update="2012-03-29">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2012-03-25</airdate>
+<title xml:lang="ja">初陣 バトルフィールド! ロード・ドラゴンVSロード・ドラゴン!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Uijin Battlefield Lord Dragon VS Lord Dragon!</title>
+</episode>
+<episode id="138315" update="2012-03-31">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2012-04-29</airdate>
+<title xml:lang="ja">王者吼える! 天剣の覇王ジーク・スサノ・フリード!</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Ouja Hoeru! Tenken no Haou Sieg Susano Fried!</title>
+</episode>
+<episode id="138316" update="2012-03-31">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2012-04-22</airdate>
+<title xml:lang="ja">決断のバースト テガマル対チヒロ</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Ketsudan no Burst Tegamaru tai Chihiro</title>
+</episode>
+<episode id="138317" update="2012-03-31">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2012-04-15</airdate>
+<title xml:lang="ja">華麗なる好敵手 騎士の覇王ソーディアス・アーサー!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Kareinaru Koutekishu Kishi no Haou Swordius Arthur!</title>
+</episode>
+<episode id="138318" update="2012-03-31">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2012-04-08</airdate>
+<title xml:lang="ja">ドラゴン怒りの烈神速!?セイリュービ飛翔!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Dragon Ikari no Retsu Shinsoku!? Seiryuubi Hishou!</title>
+</episode>
+<episode id="138319" update="2012-03-31">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2012-04-01</airdate>
+<title xml:lang="ja">世界への挑戦! 太骨望デッキ登場!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Sekai e no Chousen! Taikotsubo Deck Toujou!</title>
+</episode>
+<episode id="139308" update="2012-05-01">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2012-05-06</airdate>
+<title xml:lang="ja">幻のカードを探せ! 竜のカルタの謎</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Maboroshi no Card Sagase! Ryuu no Karuta no Nazo</title>
+</episode>
+<episode id="139950" update="2012-05-31">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2012-05-20</airdate>
+<title xml:lang="ja">覇王ドリームマッチ! スサノ・フリードVSバゼル!!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Haou Dream Match! Susano Fried VS Bazzel!</title>
+</episode>
+<episode id="139951" update="2012-05-31">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2012-06-03</airdate>
+<title xml:lang="ja">ただいま日本, さよならサンセット</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Tadaima Nihon, Sayonara Sunset</title>
+</episode>
+<episode id="139952" update="2012-05-31">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2012-05-27</airdate>
+<title xml:lang="ja">セイリュービVSヴァイキング・レイヴ</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Seiryububi VS Viking Leiv</title>
+</episode>
+<episode id="139953" update="2012-05-31">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2012-05-13</airdate>
+<title xml:lang="ja">鉄壁コンビ! ロック・アラディンとマジン・ゴレム</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Teppeki Conbi! Roc Aladdin to Majin Golem</title>
+</episode>
+<episode id="140281" update="2012-06-21">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2012-06-24</airdate>
+<title xml:lang="ja">新たなる出会い!爆氷の覇王ロード・ドラゴン・グレイザー!!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Aratanaru Deai! Bakuhyo no Haou Lord Dragon Glazar!!</title>
+</episode>
+<episode id="140282" update="2012-06-21">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2012-06-17</airdate>
+<title xml:lang="ja">なるぜ, 生徒会長! 魅惑の覇王VS光の覇王!?!</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Naruze, Seitokaichou! Miwaku no Haou VS Hikari no Haou!?!</title>
+</episode>
+<episode id="140283" update="2012-06-21">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2012-06-10</airdate>
+<title xml:lang="ja">リベンジ! 十二宮Xレア軍団襲来!</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Revenge! 12 Kyu Gundan Shurai!</title>
+</episode>
+<episode id="141200" update="2012-07-23">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2012-07-29</airdate>
+<title xml:lang="ja">ハジメVSレナード 運命の友情バトル!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Hajime VS Renard Unmei no Yuujou Battle!</title>
+</episode>
+<episode id="141201" update="2012-07-23">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2012-07-22</airdate>
+<title xml:lang="ja">テガマルの異変 制圧, 幻のカード!</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Tegamaru no Ihen Seiatsu, Maboroshi no Card!</title>
+</episode>
+<episode id="141202" update="2012-07-23">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2012-07-15</airdate>
+<title xml:lang="ja">ブレイヴ!騎士の覇王ソーディアス・アーサー!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Brave! Kishi no Haou Swordius Arthur!</title>
+</episode>
+<episode id="141203" update="2012-07-23">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2012-07-08</airdate>
+<title xml:lang="ja">世界大会開幕!出撃ロード・ドラゴン軍団!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Sekaitaiki Kaimaku! Shutsugeki Lord Dragon Gundan!</title>
+</episode>
+<episode id="141204" update="2012-07-23">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2012-07-01</airdate>
+<title xml:lang="ja">爆氷の覇王グレイザーVS蒼穹の覇王カーン・ウルフ</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Bakuhyo no Haou Glazar VS Soukyuu no Haou Kung Wolf</title>
+</episode>
+<episode id="141562" update="2012-08-12">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2012-08-19</airdate>
+<title xml:lang="ja">アラタVSテガマル!初代覇王誕生!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Arata VS Tegamaru! Shoudai Haou Tanjou!</title>
+</episode>
+<episode id="141563" update="2012-08-12">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2012-08-12</airdate>
+<title xml:lang="ja">決勝戦!ハジメ対テガマル</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Kesshouen! Hajime tai Tegamaru</title>
+</episode>
+<episode id="141564" update="2012-08-12">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2012-08-05</airdate>
+<title xml:lang="ja">制圧!ディクタトール・シーザー突撃!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Seiatsu! Dictator Caesar Totsugeki!</title>
+</episode>
+<episode id="142300" update="2012-08-27">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2012-09-02</airdate>
+<title xml:lang="ja">ライバルたちよ, 永遠に!</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Rival-tachi yo, Eien ni!</title>
+</episode>
+<episode id="142301" update="2012-08-27">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2012-08-26</airdate>
+<title xml:lang="ja">夢のあとさき ドラゴン軍団対幻龍神</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Yume no Atosaki: Dragon Gundan tai Genryuushin</title>
+</episode>
+</episodes>
+</anime>

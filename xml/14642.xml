@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14642" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2020</startdate>
+<enddate>2020</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Cider no You ni Kotoba ga Wakiagaru</title>
+<title xml:lang="ja" type="official">サイダーのように言葉が湧き上がる</title>
+</titles>
+<url>http://cider-kotoba.jp/</url>
+<creators>
+<name id="43312" type="Animation Work">Signal MD</name>
+<name id="37026" type="Animation Work">Sublimation</name>
+<name id="14275" type="Character Design">Aikei Yukiko</name>
+<name id="28620" type="Direction">Ishiguro Kyouhei</name>
+<name id="39776" type="Music">Ushio Kensuke</name>
+</creators>
+<picture>244620.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22941</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39175</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://cider-kotoba.jp/</url>
+</externalentity>
+<externalentity>
+<url>http://www.signal-md.co.jp/works/cider-kotoba/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367077</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="225485" update="2020-04-14">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

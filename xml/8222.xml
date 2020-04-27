@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8222" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2010-08-23</startdate>
+<enddate>2010-08-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tono to Issho 1.5</title>
+<title xml:lang="ja" type="official">殿といっしょ 1.5</title>
+</titles>
+<relatedanime>
+<anime id="7598" type="Parent Story">Tono to Issho: Ippunkan Gekijou</anime>
+</relatedanime>
+<creators>
+<name id="11047" type="Direction">Mankyuu</name>
+<name id="23353" type="Original Work">Ooba Kai</name>
+<name id="24616" type="Work">Gathering</name>
+</creators>
+<description>Note: DVD "volume 1.5" shipped with the fifth volume of the manga.</description>
+<ratings>
+<permanent count="31">4.64</permanent>
+<temporary count="31">5.35</temporary>
+</ratings>
+<picture>62988.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9794</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Tono_to_Issho#Original_video_animation</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>殿といっしょ#OVA</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="126903" update="2011-01-12">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2010-08-23</airdate>
+<title xml:lang="en">OAD</title>
+</episode>
+</episodes>
+</anime>

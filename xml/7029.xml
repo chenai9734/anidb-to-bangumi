@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7029" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1971-12-12</startdate>
+<enddate>1971-12-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Match Uri no Shoujo</title>
+<title xml:lang="en" type="synonym">The Little Match Girl</title>
+<title xml:lang="ja" type="official">マッチ売りの少女</title>
+</titles>
+<creators>
+<name id="6294" type="Original Work">Hans Christian Andersen</name>
+<name id="24091" type="Music">Hayashi Hikaru</name>
+</creators>
+<description>On a cold New Year`s Eve a young, poor girl tries to sell matches in the street. She is already shivering from cold but she is also afraid to go home because her father will beat her for not selling any matches. She shelters in a nook, sits down and lights the matches to warm herself. In their glow, she sees several lovely visions including a Christmas tree, a holiday feast and her late grandmother.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="37">5.62</permanent>
+<temporary count="37">5.35</temporary>
+</ratings>
+<picture>35492.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>11693</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>143806</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>n046</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3206" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-06">
+<name>stop motion</name>
+<description>Stop motion (also known as stop-action or frame-by-frame) is an animation technique to make a physically manipulated object appear to move on its own. The object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played as a continuous sequence.</description>
+</tag>
+<tag id="4349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>puppetmation</name>
+<description>A puppet is an inanimate object or representational figure animated or manipulated by a puppeteer. It is usually (but by no means always) a depiction of a human character, and is used in puppetry, a play or a presentation that is a very ancient form of theatre. The puppet undergoes a process of transformation through being animated, and is normally manipulated by at least one puppeteer.
+There are many different varieties of puppets, and they are made of a wide range of materials, depending on their form and intended use. They can be extremely complex or very simple in their construction. They may even be found objects. As Oscar Wilde wrote, "There are many advantages in puppets. They never argue. They have no crude views about art. They have no private lives".</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108559" update="2011-10-20">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1971-12-12</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

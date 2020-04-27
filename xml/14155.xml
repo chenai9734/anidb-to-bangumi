@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14155" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010-02-05</startdate>
+<enddate>2010-02-05</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Hong Mao Lan Tu Huo Fenghuang</title>
+<title xml:lang="zh-Hans" type="official">虹猫蓝兔火凤凰</title>
+</titles>
+<ratings>
+<permanent count="1">4.41</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>219002.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39132</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="220971" update="2019-09-07">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2010-02-05</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

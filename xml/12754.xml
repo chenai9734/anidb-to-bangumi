@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12754" restricted="false">
+<type>Movie</type>
+<episodecount>2</episodecount>
+<startdate>2020-09-11</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Bishoujo Senshi Sailor Moon Eternal</title>
+<title xml:lang="en" type="synonym">Pretty Guardians Sailor Moon Eternal the Movie</title>
+<title xml:lang="ja" type="official">劇場版 美少女戦士セーラームーンEternal</title>
+</titles>
+<relatedanime>
+<anime id="11665" type="Prequel">Bishoujo Senshi Sailor Moon Crystal Season III</anime>
+<anime id="2540" type="Alternative Setting">Bishoujo Senshi Sailor Moon Super S</anime>
+</relatedanime>
+<url>https://sailormoon-movie.jp/</url>
+<creators>
+<name id="1482" type="Direction">Kon Chiaki</name>
+<name id="3636" type="Original Work">Takeuchi Naoko</name>
+<name id="730" type="Animation Work">Studio Deen</name>
+<name id="1834" type="Animation Work">Toei Animation</name>
+<name id="4148" type="Character Design">Tadano Kazuko</name>
+</creators>
+<picture>246649.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21145</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>40024</identifier>
+</externalentity>
+<externalentity>
+<identifier>40429</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://sailormoon-movie.jp/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361124</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="223484" update="2019-10-22">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2020-09-11</airdate>
+<title xml:lang="en">Movie 1</title>
+</episode>
+<episode id="223485" update="2019-10-22">
+<epno type="1">2</epno>
+<length>0</length>
+<title xml:lang="en">Movie 2</title>
+</episode>
+</episodes>
+</anime>

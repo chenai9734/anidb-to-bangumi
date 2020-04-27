@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14501" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2019-01-25</startdate>
+<enddate>2019-01-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Lupin Sansei: Goodbye Partner</title>
+<title xml:lang="en" type="synonym">Lupin III Special: Goodbye Partner</title>
+<title xml:lang="ja" type="official">ルパン三世 グッバイ・パートナー</title>
+<title xml:lang="zh-Hans" type="official">鲁邦三世 Goodbye Partner</title>
+</titles>
+<relatedanime>
+<anime id="13266" type="Other">Lupin Sansei: Part 5</anime>
+</relatedanime>
+<creators>
+<name id="917" type="Animation Work">TMS Entertainment</name>
+<name id="8688" type="Character Design">Marufuji Hirotaka</name>
+<name id="1267" type="Original Work">Monkey Punch</name>
+<name id="5667" type="Direction">Kawagoe Jun</name>
+<name id="8688" type="Chief Animation Direction">Marufuji Hirotaka</name>
+<name id="4479" type="Music">Oono Yuuji</name>
+</creators>
+<ratings>
+<permanent count="48">7.13</permanent>
+<temporary count="49">7.36</temporary>
+</ratings>
+<picture>228127.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22121</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38720</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tms-e.co.jp/search/introduction.php?pdt_no=595</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ルパン三世_グッバイ・パートナー</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5215</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366269</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21704</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>lupin_anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="211470" update="2019-01-28">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>2019-01-25</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

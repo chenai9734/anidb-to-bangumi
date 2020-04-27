@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11260" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2015-07-08</startdate>
+<enddate>2015-09-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Suzakinishi The Animation</title>
+<title xml:lang="ja" type="official">洲崎西 THE ANIMATION</title>
+<title xml:lang="zh-Hans" type="official">洲崎西 THE ANIMATION</title>
+</titles>
+<url>http://suzakinishi.tv/</url>
+<creators>
+<name id="1006" type="Animation Work">Feel</name>
+<name id="9743" type="Character Design">Shimizu Yumi</name>
+<name id="17499" type="Direction">Hiramine Yoshihiro</name>
+<name id="17499" type="Series Composition">Hiramine Yoshihiro</name>
+<name id="9743" type="Chief Animation Direction">Shimizu Yumi</name>
+<name id="9824" type="Music">Suda Yoshihiro</name>
+</creators>
+<ratings>
+<permanent count="79">2.62</permanent>
+<temporary count="79">4.55</temporary>
+</ratings>
+<picture>174892.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17216</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30826</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://suzakinishi.tv/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>洲崎西#.E3.83.86.E3.83.AC.E3.83.93.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3837</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>353099</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18339</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6453" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-21">
+<name>radio programme</name>
+</tag>
+</tags>
+<characters>
+<character id="75386" type="main character in" update="2015-06-28">
+<rating votes="2">5.55</rating>
+<name>Suzaki Aya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174923.jpg</picture>
+<seiyuu id="34426" picture="128153.jpg">Suzaki Aya</seiyuu>
+</character>
+<character id="75387" type="main character in" update="2015-06-28">
+<rating votes="2">5.55</rating>
+<name>Nishi Asuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174924.jpg</picture>
+<seiyuu id="4616" picture="170439.jpg">Nishi Asuka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="169336" update="2015-07-24">
+<epno type="1">4</epno>
+<length>4</length>
+<airdate>2015-07-29</airdate>
+<title xml:lang="ja">西家が如く</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="169337" update="2015-07-24">
+<epno type="1">3</epno>
+<length>4</length>
+<airdate>2015-07-22</airdate>
+<title xml:lang="ja">綾と明日香の乳隠し</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="169338" update="2015-07-24">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2015-07-15</airdate>
+<title xml:lang="ja">ヒミツの綾園♡</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="169339" update="2015-07-12">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2015-07-08</airdate>
+<title xml:lang="ja">謎の転校生, 現る!?</title>
+<title xml:lang="en">A Mysterious Transfer Student Appears!?</title>
+</episode>
+<episode id="170220" update="2015-07-24">
+<epno type="1">8</epno>
+<length>4</length>
+<airdate>2015-08-26</airdate>
+<title xml:lang="ja">明日香には感謝しかしてない</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Asuka ni wa Kansha Shikashite Nai</title>
+</episode>
+<episode id="170221" update="2015-07-24">
+<epno type="1">7</epno>
+<length>4</length>
+<airdate>2015-08-19</airdate>
+<title xml:lang="ja">この物語はフィクションです</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Kono Monogatari wa Fiction</title>
+</episode>
+<episode id="170222" update="2015-07-24">
+<epno type="1">6</epno>
+<length>4</length>
+<airdate>2015-08-12</airdate>
+<title xml:lang="ja">ぞいやに来いやっ!!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Zoiya ni Koiya!</title>
+</episode>
+<episode id="170223" update="2015-07-24">
+<epno type="1">5</epno>
+<length>4</length>
+<airdate>2015-08-05</airdate>
+<title xml:lang="ja">西家が如く2</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Nishiie ga Shiku 2</title>
+</episode>
+<episode id="170915" update="2015-08-21">
+<epno type="1">12</epno>
+<length>4</length>
+<airdate>2015-09-23</airdate>
+<title xml:lang="ja">これも声優!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kore mo Seiyuu!</title>
+</episode>
+<episode id="170916" update="2015-08-21">
+<epno type="1">11</epno>
+<length>4</length>
+<airdate>2015-09-16</airdate>
+<title xml:lang="ja">ゆみりんごめんね</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Yumirin Gomen ne</title>
+</episode>
+<episode id="170917" update="2015-08-21">
+<epno type="1">10</epno>
+<length>4</length>
+<airdate>2015-09-09</airdate>
+<title xml:lang="ja">シマパンズ</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Shimapanzu</title>
+</episode>
+<episode id="170918" update="2015-08-21">
+<epno type="1">9</epno>
+<length>4</length>
+<airdate>2015-09-02</airdate>
+<title xml:lang="ja">ランバダの乱</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Lambada no Ran</title>
+</episode>
+<episode id="198026" update="2018-04-15">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>2015-07-08</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

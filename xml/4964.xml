@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4964" restricted="false">
+<type>TV Series</type>
+<episodecount>1498</episodecount>
+<startdate>1980-01-01</startdate>
+<enddate>1984-12-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kirin Ashita no Calendar</title>
+<title xml:lang="ja" type="official">キリンあしたのカレンダー</title>
+</titles>
+<ratings>
+<permanent count="1">1.35</permanent>
+<temporary count="1">2.00</temporary>
+</ratings>
+<picture>135655.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>222</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32448</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>キリンあしたのカレンダー</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>407</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>1109</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="112071" update="2009-12-15">
+<epno type="1">1306</epno>
+<length>0</length>
+<airdate>1984-10-06</airdate>
+<title xml:lang="en">Episode 1306</title>
+</episode>
+<episode id="112072" update="2009-12-15">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1980-01-01</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

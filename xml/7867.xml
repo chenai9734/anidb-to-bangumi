@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7867" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1991-07-20</startdate>
+<enddate>1991-07-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Taabou no Ryuuguusei Daitanken</title>
+<title xml:lang="ja" type="synonym">みんなのたあ坊の竜宮星大探検</title>
+<title xml:lang="x-jat" type="synonym">Minna no Taabou no Ryuuguusei Daitanken</title>
+<title xml:lang="ja" type="official">たあ坊の竜宮星大探険</title>
+</titles>
+<ratings>
+<permanent count="8">2.29</permanent>
+<temporary count="8">3.12</temporary>
+</ratings>
+<picture>144246.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19517</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151445</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2680</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120823" update="2012-10-01">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1991-07-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

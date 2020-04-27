@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8094" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2010-11-16</startdate>
+<enddate>2010-11-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Attraction</title>
+<title xml:lang="ja" type="official">魅力 Attraction</title>
+<title xml:lang="en" type="official">Attraction</title>
+<title xml:lang="fr" type="official">Attraction</title>
+<title xml:lang="tr" type="official">Cazibe</title>
+</titles>
+<creators>
+<name id="738" type="Work">Studio 4C</name>
+<name id="276" type="Direction">Morimoto Kouji</name>
+</creators>
+<description>Attraction is a revolutionary interactive anime film by http://anidb.net/cr276 [Morimoto Kouji] of Tokyo-based production studio http://anidb.net/cr738 [4°C] and was requested by INPES (Institut national de prévention et d`éducation) to discourage first-time smokers.
+The interactive aspect of Morimoto`s anime utilizes the viewer`s web cam and motion alignment to allow the user to move about within the film. Viewers can also interact with objects, listen into conversations, and so on and so forth.</description>
+<ratings>
+<permanent count="167">5.02</permanent>
+<temporary count="167">5.93</temporary>
+</ratings>
+<picture>59490.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9846</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://studio4c.co.jp/works/pages/28.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.attraction-lemanga.fr/site/index.php</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="125491" update="2011-12-22">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>2010-11-16</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

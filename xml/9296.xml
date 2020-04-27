@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9296" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1987-11-02</startdate>
+<enddate>1987-11-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fujiko Fujio no Kiteretsu Daihyakka</title>
+<title xml:lang="ja" type="official">藤子不二雄のキテレツ大百科</title>
+</titles>
+<relatedanime>
+<anime id="2723" type="Side Story">Kiteretsu Daihyakka</anime>
+</relatedanime>
+<creators>
+<name id="59684" type="Work">Staff 21</name>
+<name id="741" type="Work">Fuji TV</name>
+<name id="783" type="Work">NAS</name>
+<name id="4732" type="Original Work">Fujiko F. Fujio</name>
+<name id="2120" type="Direction">Watanabe Takashi</name>
+<name id="7028" type="Music">Ishida Katsunori</name>
+</creators>
+<description>TV special broadcast a few months before the http://anidb.net/a2723 [TV series].</description>
+<ratings>
+<permanent count="2">2.90</permanent>
+<temporary count="2">3.50</temporary>
+</ratings>
+<picture>234709.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22261</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>キテレツ大百科_(アニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2208</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>1987/kiteretsu</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="56625" type="main character in" update="2013-06-05">
+<name>Kite Eiichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10476.gif</picture>
+<seiyuu id="3250" picture="24693.jpg">Fujita Toshiko</seiyuu>
+</character>
+<character id="56626" type="main character in" update="2013-06-05">
+<name>Korosuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137715.jpg</picture>
+<seiyuu id="407" picture="17254.jpg">Koyama Mami</seiyuu>
+</character>
+<character id="56627" type="main character in" update="2013-06-05">
+<name>Nonohana Miyoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60593.png</picture>
+<seiyuu id="3274" picture="24702.jpg">Yamamoto Yuriko</seiyuu>
+</character>
+<character id="56628" type="main character in" update="2013-06-05">
+<name>Kumada Kaoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60594.png</picture>
+<seiyuu id="278" picture="44088.jpg">Ootake Hiroshi</seiyuu>
+</character>
+<character id="56629" type="main character in" update="2013-06-05">
+<name>Tongari Kouji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60595.png</picture>
+</character>
+<character id="56630" type="secondary cast in" update="2013-06-05">
+<name>Kite Eitarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137716.jpg</picture>
+<seiyuu id="1733" picture="25839.jpg">Tanaka Hideyuki</seiyuu>
+</character>
+<character id="56631" type="secondary cast in" update="2013-06-05">
+<name>Kite Michiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60596.png</picture>
+<seiyuu id="23579" picture="77704.jpg">Nashiwa Yukiko</seiyuu>
+</character>
+<character id="56632" type="secondary cast in" update="2013-06-05">
+<name>Kite Einoshin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60597.png</picture>
+<seiyuu id="3285" picture="193568.jpg">Kimotsuki Kaneta</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="141162" update="2012-07-21">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>1987-11-02</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

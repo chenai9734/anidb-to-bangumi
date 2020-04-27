@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12204" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2013-04-02</startdate>
+<enddate>2013-04-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Micchiri Neko March</title>
+<title xml:lang="ja" type="official">みっちりねこマーチ</title>
+</titles>
+<relatedanime>
+<anime id="13412" type="Other">Micchiri Neko</anime>
+</relatedanime>
+<description>A music video created for the Micchiri Neko character and brand. The video features cat characters playing in a marching band.</description>
+<ratings>
+<permanent count="64">5.55</permanent>
+<temporary count="65">5.96</temporary>
+</ratings>
+<picture>187530.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32233</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.mitchiri-neko.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>みっちりねこ</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=lAIGb1lfpBw</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="178033" update="2016-06-11">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2013-04-02</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10240" restricted="false">
+<type>Movie</type>
+<episodecount>2</episodecount>
+<startdate>2015-07-18</startdate>
+<enddate>2016-05-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Meiji Tokyo Renka</title>
+<title xml:lang="ja" type="synonym">明治東亰恋伽 花鏡の幻想曲</title>
+<title xml:lang="ja" type="synonym">明治東亰恋伽 弦月の小夜曲</title>
+<title xml:lang="ja" type="official">劇場版 明治東亰恋伽</title>
+</titles>
+<relatedanime>
+<anime id="12461" type="Other">Meiji Tokyo Renka</anime>
+</relatedanime>
+<url>http://meikoi-cinema.com/</url>
+<creators>
+<name id="730" type="Animation Work">Studio Deen</name>
+<name id="10902" type="Character Design">Hirakawa Akio</name>
+<name id="32523" type="Original Work">Mages.</name>
+<name id="2744" type="Direction">Watanabe Hiroshi</name>
+</creators>
+<description>* Based on romance visual novel game franchise for female players by Broccoli.
+On an evening lit by a crimson full moon, an ordinary high school girl named http://anidb.net/ch74463 [Ayazuki Mei] meets a self-proclaimed magician named http://anidb.net/ch74456 [Charlie] at a festival. Through Charlie`s magic, she time-travels to Meiji era Tokyo, where she meets and falls in love with various great historical figures from that time period.
+Source: ANN</description>
+<ratings>
+<permanent count="7">3.95</permanent>
+<temporary count="7">4.42</temporary>
+</ratings>
+<picture>168210.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16753</identifier>
+</externalentity>
+<externalentity>
+<identifier>22966</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33087</identifier>
+</externalentity>
+<externalentity>
+<identifier>29855</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://meikoi-cinema.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Gekijōban_Meiji_Tokyo_Renka:_Yumihari_no_Serenade</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>明治東亰恋伽#.E5.8A.87.E5.A0.B4.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>356884</identifier>
+</externalentity>
+<externalentity>
+<identifier>353267</identifier>
+</externalentity>
+</resource>
+<resource type="14">
+<externalentity>
+<identifier>12159</identifier>
+<identifier>v</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2614" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>josei</name>
+<description>In the context of manga and associated media, the word josei refers to a female audience roughly between the ages of 15 and 44. In Japanese, the word means simply "woman", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2804" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>visual novel</name>
+<description>The two terms are similar yet different, however, the fact that they look and `feel` the same outweighs the technical differences. For clarification, visual novels are considered a sub-genre of adventure games and the term does not cover simulations. While the two genres often share a common visual presentation, dating sims are sometimes considered to be more statistically based than the "choose your own adventure" style of visual novels; basically, the choices you make might change something else than just the story arc (or your next porn pic). Dating sims can involve several technical elements such as a time limit, several statistics such as looks and charm which can be boosted through exercise, or an "attraction meter" which can increase or decrease depending on one`s decisions.</description>
+</tag>
+</tags>
+<characters>
+<character id="74456" type="secondary cast in" update="2019-01-16">
+<rating votes="1">2.67</rating>
+<name>Charlie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229160.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+<character id="74457" type="secondary cast in" update="2019-01-16">
+<rating votes="1">4.92</rating>
+<name>Koizumi Yakumo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229158.jpg</picture>
+<seiyuu id="1680" picture="132752.jpg">Tachibana Shinnosuke</seiyuu>
+</character>
+<character id="74458" type="secondary cast in" update="2019-01-16">
+<rating votes="1">7.60</rating>
+<name>Kawakami Otojirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229155.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="74459" type="secondary cast in" update="2019-01-16">
+<rating votes="1">4.92</rating>
+<name>Mori Ougai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229153.jpg</picture>
+<seiyuu id="265" picture="25730.jpg">Namikawa Daisuke</seiyuu>
+</character>
+<character id="74460" type="secondary cast in" update="2019-01-16">
+<rating votes="1">4.92</rating>
+<name>Izumi Kyouka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229156.jpg</picture>
+<seiyuu id="390" picture="33609.jpg">Okamoto Nobuhiko</seiyuu>
+</character>
+<character id="74461" type="secondary cast in" update="2019-01-16">
+<rating votes="1">9.65</rating>
+<name>Hishida Shunsou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229154.jpg</picture>
+<seiyuu id="367" picture="17213.jpg">Kenn</seiyuu>
+</character>
+<character id="74462" type="secondary cast in" update="2019-01-16">
+<rating votes="1">10.00</rating>
+<name>Fujita Gorou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229157.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="74463" type="main character in" update="2019-01-16">
+<rating votes="4">6.09</rating>
+<name>Ayazuki Mei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229152.jpg</picture>
+<seiyuu id="9036" picture="215515.jpg">Morohoshi Sumire</seiyuu>
+</character>
+<character id="75013" type="secondary cast in" update="2019-01-16">
+<rating votes="1">2.67</rating>
+<name>Iwasaki Tousuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229159.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="169783" update="2015-07-14">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2015-07-18</airdate>
+<title xml:lang="ja">弦月の小夜曲</title>
+<title xml:lang="en">Movie 1</title>
+<title xml:lang="x-jat">Yumihari no Serenade</title>
+</episode>
+<episode id="176532" update="2016-03-31">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>2016-05-06</airdate>
+<title xml:lang="ja">花鏡の幻想曲[ファンタジア]</title>
+<title xml:lang="en">Movie 2</title>
+<title xml:lang="x-jat">Hanakagami no Fantasia</title>
+</episode>
+</episodes>
+</anime>

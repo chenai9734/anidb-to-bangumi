@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12515" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-04-28</startdate>
+<enddate>2017-04-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Tamagotchi Himitsu no Otodoke Daisakusen!</title>
+<title xml:lang="ja" type="official">映画たまごっち ヒミツのおとどけ大作戦!</title>
+</titles>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="6607" type="Direction">Shimura Jouji</name>
+</creators>
+<ratings>
+<permanent count="4">1.85</permanent>
+<temporary count="4">1.50</temporary>
+</ratings>
+<picture>193861.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18860</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34310</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://eiga-tamagotchi20th.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358684</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="186583" update="2017-03-31">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2017-04-28</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1112" restricted="false">
+<type>TV Series</type>
+<episodecount>48</episodecount>
+<startdate>1987-02-07</startdate>
+<enddate>1988-01-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kikou Senki Dragonar</title>
+<title xml:lang="it" type="synonym">Dragonar l`Armatura Metallica</title>
+<title xml:lang="x-jat" type="synonym">Dragonar</title>
+<title xml:lang="ja" type="official">機甲戦記ドラグナー</title>
+<title xml:lang="en" type="official">Metal Armor Dragonar</title>
+</titles>
+<recommendations total="1">
+<recommendation type="For Fans" uid="68257">Read the review and was expecting shit, but I have to say it was quite enjoyable. And I watched it with dubtitles mind you.</recommendation>
+</recommendations>
+<url>http://www.dragonar.net/</url>
+<creators>
+<name id="5084" type="Direction">Kanda Takeyuki</name>
+<name id="1649" type="Character Design">Oonuki Ken`ichi</name>
+<name id="657" type="Series Composition">Gobu Fuyunori</name>
+<name id="1433" type="Work">Nippon Sunrise</name>
+<name id="1019" type="Work">Nagoya TV Housou</name>
+<name id="919" type="Work">Sotsu Agency</name>
+<name id="726" type="Work">Sunrise</name>
+<name id="1352" type="Original Plan">Yatate Hajime</name>
+<name id="4508" type="Music">Watanabe Toshiyuki</name>
+<name id="3469" type="Music">Haneda Kentarou</name>
+</creators>
+<description>The year is 2087, and the Solar System is engulfed in the flames of war. Claiming that their goal is to bring about a "rebirth" of Earth`s humans, the United Lunar Empire Giganos seeks to establish a new order in the Solar System by waging war on the Earth Federation Military. Their superior organization and technology has given them a huge advantage over the nations of the Earth, to the point where they have gained control of 70% of the Earth`s surface. Three military students of the Space Station Alucard learn of the Imperial Army`s (ULEGiganos) shooting of a refugee ship outside their cargo holds. They go to investigate, and find a secret special Mecha armor that they commandeer. They then, against all odds, defeat the first raid on the Space Station Alucard. This does not, however, prevent it`s total destruction by an asteroid launched by the insidious ULEGiganos military.</description>
+<ratings>
+<permanent count="86">5.02</permanent>
+<temporary count="88">6.52</temporary>
+<review count="1">3.66</review>
+</ratings>
+<picture>154710.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2185</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>865</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1605</identifier>
+<identifier>axitdy</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.dragonar.net/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89212</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="36" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>military</name>
+<description>The military, also known as the armed forces, are forces authorized and legally entitled to use deadly force so as to support the interests of the state and its citizens. The task of the military is usually defined as defence of the state and its citizens and the prosecution of war against foreign powers. The military may also have additional functions within a society, including construction, emergency services, social ceremonies, and guarding critical areas.
+Source: Wikipedia</description>
+<picurl>212184.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2645" parentid="2274" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>piloted robot</name>
+<description>Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.</description>
+<picurl>222199.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+<tag id="7119" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-06">
+<name>Super Robot Wars</name>
+<description>Super Robot Wars is a series of tactical role-playing video games produced by Banpresto. The main feature of the franchise is having a story that crosses over several popular mecha anime, manga and video games, allowing characters and mecha from different titles to team up or battle one another. Due to the nature of crossover games and licensing involved, only a few games have been released outside Japan, and in English; early English-language games only feature Banpresto`s original characters and mecha, and a flagship installment were to never be released until 2016, with the English release of Super Robot Wars V in Southeast Asian countries. The franchise celebrated its 25th anniversary in 2016.
+Source: Wikipedia</description>
+<picurl>221614.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="30717" type="main character in" update="2011-04-02">
+<rating votes="2">5.94</rating>
+<name>Kaine Wakaba</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68946.jpg</picture>
+<seiyuu id="468" picture="17383.jpg">Kikuchi Masami</seiyuu>
+</character>
+<character id="30718" type="main character in" update="2012-01-02">
+<rating votes="2">7.66</rating>
+<name>Light Newman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68947.jpg</picture>
+<seiyuu id="2037" picture="244859.jpg">Horiuchi Ken`yuu</seiyuu>
+</character>
+<character id="30719" type="main character in" update="2012-09-13">
+<rating votes="2">7.66</rating>
+<name>Tap Oseano</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68948.jpg</picture>
+<seiyuu id="297" picture="233915.jpg">Ootsuka Houchuu</seiyuu>
+</character>
+<character id="31083" type="secondary cast in" update="2011-04-11">
+<rating votes="2">7.66</rating>
+<name>Meio Plato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>69610.jpg</picture>
+<seiyuu id="220" picture="17038.jpg">Kosugi Juurouta</seiyuu>
+</character>
+<character id="31084" type="appears in" update="2011-04-11">
+<rating votes="1">3.33</rating>
+<name>Giganos Empire</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="31085" type="appears in" update="2011-04-11">
+<name>Earth Federation Military</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+</character>
+<character id="31091" type="secondary cast in" update="2011-04-11">
+<rating votes="3">7.80</rating>
+<name>Linda Plato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>69622.jpg</picture>
+<seiyuu id="23578" picture="64914.jpg">Fujii Kayoko</seiyuu>
+</character>
+<character id="31128" type="secondary cast in" update="2011-04-12">
+<rating votes="3">3.71</rating>
+<name>Rose Pattenton</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>69691.jpg</picture>
+<seiyuu id="692" picture="188445.jpg">Hiramatsu Akiko</seiyuu>
+</character>
+<character id="31129" type="secondary cast in" update="2011-04-12">
+<rating votes="2">5.89</rating>
+<name>Ben Rooney</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>69692.jpg</picture>
+<seiyuu id="2823" picture="83143.jpg">Shimaka Yuu</seiyuu>
+</character>
+<character id="31130" type="secondary cast in" update="2011-04-12">
+<rating votes="2">7.60</rating>
+<name>Diane Lance</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>69694.jpg</picture>
+<seiyuu id="1813" picture="172159.jpg">Katsuki Masako</seiyuu>
+</character>
+<character id="58103" type="secondary cast in" update="2013-07-24">
+<rating votes="2">4.19</rating>
+<name>Dan Kruger</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140397.jpg</picture>
+<seiyuu id="4682" picture="27282.jpg">Kashiwakura Tsutomu</seiyuu>
+</character>
+<character id="58104" type="secondary cast in" update="2013-07-24">
+<rating votes="2">4.19</rating>
+<name>Welner Fritz</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140398.jpg</picture>
+<seiyuu id="3291" picture="24306.jpg">Takemura Hiroshi</seiyuu>
+</character>
+<character id="58105" type="secondary cast in" update="2013-07-24">
+<rating votes="2">4.19</rating>
+<name>Karl Geiner</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140399.jpg</picture>
+<seiyuu id="199" picture="23218.jpg">Shimada Bin</seiyuu>
+</character>
+<character id="58118" type="secondary cast in" update="2013-07-25">
+<rating votes="2">4.14</rating>
+<name>Gon Jem</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140413.jpg</picture>
+<seiyuu id="3377" picture="24406.jpg">Katou Osamu</seiyuu>
+</character>
+<character id="58119" type="secondary cast in" update="2013-07-25">
+<rating votes="2">7.60</rating>
+<name>Lee Sue Min</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140414.jpg</picture>
+<seiyuu id="2055" picture="21393.jpg">Shimazu Saeko</seiyuu>
+</character>
+<character id="58120" type="secondary cast in" update="2013-07-25">
+<rating votes="2">1.85</rating>
+<name>Gol</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140415.jpg</picture>
+<seiyuu id="2823" picture="83143.jpg">Shimaka Yuu</seiyuu>
+</character>
+<character id="58121" type="secondary cast in" update="2013-07-25">
+<rating votes="2">2.77</rating>
+<name>Ganan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140416.jpg</picture>
+<seiyuu id="8057">Sasaoka Shigezou</seiyuu>
+</character>
+<character id="58122" type="secondary cast in" update="2013-07-25">
+<rating votes="2">4.19</rating>
+<name>Zin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140417.jpg</picture>
+<seiyuu id="199" picture="23218.jpg">Shimada Bin</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="11850" update="2007-05-13">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1987-02-07</airdate>
+<rating votes="3">6.52</rating>
+<title xml:lang="ja">炎の日</title>
+<title xml:lang="en">Day of Fire</title>
+<title xml:lang="x-jat">Honoo no Hi</title>
+</episode>
+<episode id="11948" update="2007-07-28">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1987-02-21</airdate>
+<rating votes="2">6.41</rating>
+<title xml:lang="ja">ギガノスの蒼き鷹</title>
+<title xml:lang="en">The Blue Eagle of Giganos</title>
+<title xml:lang="x-jat">Giganos no Ao Kitaka</title>
+</episode>
+<episode id="11949" update="2007-07-28">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1987-02-14</airdate>
+<rating votes="3">4.74</rating>
+<title xml:lang="ja">廃墟の死闘</title>
+<title xml:lang="en">Life and Death Struggle in the Ruins</title>
+</episode>
+<episode id="19218" update="2007-07-28">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1987-02-28</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">男たちの戦場</title>
+<title xml:lang="en">The Men`s Battlefield</title>
+</episode>
+<episode id="19219" update="2007-07-28">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1987-03-07</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">誓いの出撃</title>
+<title xml:lang="en">Battle of Promise</title>
+</episode>
+<episode id="62337" update="2007-07-28">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1987-03-14</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">戦士への試練</title>
+<title xml:lang="en">Training for Warriors</title>
+<title xml:lang="it">Addestramento speciale</title>
+</episode>
+<episode id="62338" update="2007-07-28">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1987-03-21</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">さらばチェホフ</title>
+<title xml:lang="en">Goodbye Japther</title>
+</episode>
+<episode id="62339" update="2007-07-28">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1987-03-28</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">捕虜奪回作戦 前編</title>
+<title xml:lang="en">Battle: Retrieve Prisoners [Part One]</title>
+</episode>
+<episode id="62340" update="2007-07-28">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1987-04-11</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">捕虜奪回作戦 後編</title>
+<title xml:lang="en">Battle: Retrieve Prisoners [Part Two]</title>
+</episode>
+<episode id="62341" update="2007-07-28">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1987-04-18</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">体あたりの防戦</title>
+<title xml:lang="en">Intense Battle</title>
+</episode>
+<episode id="62342" update="2007-07-28">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1987-04-25</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">熱望の大地</title>
+<title xml:lang="en">Land of Feverish Hope</title>
+</episode>
+<episode id="62343" update="2007-07-28">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1987-05-02</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">それぞれの帰還</title>
+<title xml:lang="en">To Each Their Own Path</title>
+</episode>
+<episode id="62344" update="2007-07-28">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1987-05-09</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">マスドライバー発射司令</title>
+<title xml:lang="en">Countdown to Mass Driver</title>
+</episode>
+<episode id="62345" update="2007-07-28">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1987-05-23</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">新たなる旅立ち</title>
+<title xml:lang="en">A New Journey</title>
+</episode>
+<episode id="62346" update="2007-07-28">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1987-05-30</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">D艦隊危機一髪</title>
+<title xml:lang="en">Dragonar`s Close Shave</title>
+</episode>
+<episode id="62347" update="2007-07-28">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1987-06-06</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">補給基地の罠</title>
+<title xml:lang="en">Trap of the Replenishment Base</title>
+</episode>
+<episode id="62348" update="2007-07-28">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1987-06-13</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">ノーラッド破壊工作</title>
+<title xml:lang="en">Destruction Grant</title>
+</episode>
+<episode id="62349" update="2007-07-28">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1987-06-20</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">奇襲の蒼き鷹</title>
+<title xml:lang="en">The Blue Eagle`s Suprise Attack</title>
+<title xml:lang="it">L`assalto del Falco blu</title>
+</episode>
+<episode id="62350" update="2007-07-28">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1987-06-27</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">飛行兵器D(ドラグナー)</title>
+<title xml:lang="en">Flight Weapon D (Dragonar)</title>
+</episode>
+<episode id="62351" update="2007-07-28">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1987-07-04</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">洋上の再会</title>
+<title xml:lang="en">Meeting Again on the Ocean</title>
+</episode>
+<episode id="62352" update="2007-07-28">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1987-07-11</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">敵MA(メタルアーマー)奪取作戦</title>
+<title xml:lang="en">Enemy MA (Metal Armor) Capture Maneuvers</title>
+<title xml:lang="it">Operazione Schwalg</title>
+</episode>
+<episode id="62353" update="2007-07-28">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1987-07-18</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">ギガノス要塞破壊命令</title>
+<title xml:lang="en">Giganos Fortress Destruction Order</title>
+</episode>
+<episode id="62354" update="2007-07-28">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1987-07-25</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">対決マイヨ・プラート</title>
+<title xml:lang="en">Confrontation with Maio Plato</title>
+</episode>
+<episode id="62355" update="2007-07-28">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1987-08-01</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">上海(シャンハイ)大逃走</title>
+<title xml:lang="en">Large Shanghai Flight</title>
+</episode>
+<episode id="62356" update="2007-07-28">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1987-08-08</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">D兵器改造計画</title>
+<title xml:lang="en">D-Weapon Re-Planning</title>
+</episode>
+<episode id="62357" update="2007-07-28">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1987-08-15</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">恐怖のグン・ジェム</title>
+<title xml:lang="en">Fear of Gun Jiem</title>
+</episode>
+<episode id="62358" update="2007-07-28">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>1987-08-29</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">脅威の毒蛇部隊</title>
+<title xml:lang="en">The Threatening Viper Unit</title>
+</episode>
+<episode id="62359" update="2007-07-28">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>1987-09-05</airdate>
+<rating votes="1">9.63</rating>
+<title xml:lang="ja">潜入! リンダを救え</title>
+<title xml:lang="en">Disappearance! Rescue Linda</title>
+</episode>
+<episode id="62360" update="2007-07-28">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>1987-09-12</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">必殺! チェーンソー・アタック</title>
+<title xml:lang="en">Necessary Shooting! Chain Saw Attack</title>
+</episode>
+<episode id="62361" update="2007-07-28">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>1987-09-19</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">月からの刺客</title>
+<title xml:lang="en">Assassins from the Moon</title>
+</episode>
+<episode id="62362" update="2007-07-28">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>1987-09-26</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">復讐の狙撃兵(スナイパー)</title>
+<title xml:lang="en">Sniper of Vengeance</title>
+</episode>
+<episode id="62363" update="2007-07-28">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>1987-10-03</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">ギガノスの異変</title>
+<title xml:lang="en">Betrayal of Giganos</title>
+</episode>
+<episode id="62364" update="2007-07-28">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>1987-10-10</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">迫撃! 土蜘蛛作戦</title>
+<title xml:lang="en">Close Attack! Earth Spider Maneuvers</title>
+</episode>
+<episode id="62365" update="2007-07-28">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>1987-10-17</airdate>
+<title xml:lang="ja">恐怖! 無限機動砲</title>
+<title xml:lang="en">Fear! Infinite Movement Gun</title>
+</episode>
+<episode id="62366" update="2007-07-28">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>1987-10-24</airdate>
+<title xml:lang="ja">猛攻! 怒りのグン・ジェム</title>
+<title xml:lang="en">Super Attack! Gun Jiem`s Anger</title>
+</episode>
+<episode id="62367" update="2007-07-28">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>1987-11-07</airdate>
+<title xml:lang="ja">打倒! 毒蛇(どくじゃ)の青竜刀</title>
+<title xml:lang="en">Overthrow! Viper Seiryuu sword</title>
+</episode>
+<episode id="62368" update="2007-07-28">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>1987-11-14</airdate>
+<title xml:lang="ja">登場! 究極のMA(メタルアーマー)</title>
+<title xml:lang="en">Appearance! Ultimate MA (Metal Armor)</title>
+</episode>
+<episode id="62369" update="2007-07-28">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>1987-11-21</airdate>
+<title xml:lang="ja">壮絶! グン・ジェムの最期</title>
+<title xml:lang="en">Heroic! Gun Jiem`s Last Moments</title>
+</episode>
+<episode id="62370" update="2007-07-28">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>1987-11-28</airdate>
+<title xml:lang="ja">狡猾! ハイデルネッケン少佐</title>
+<title xml:lang="en">Cunning! Major Haidel Nekken</title>
+</episode>
+<episode id="62371" update="2007-07-28">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>1987-12-05</airdate>
+<title xml:lang="ja">復活! ギガノスの蒼き鷹</title>
+<title xml:lang="en">Revival! Blue Eagle of Giganos</title>
+</episode>
+<episode id="62372" update="2007-07-28">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>1987-12-12</airdate>
+<title xml:lang="ja">発動! ギガノス無敵要塞</title>
+<title xml:lang="en">Move! Giganos` Invincible Fortress</title>
+</episode>
+<episode id="62373" update="2007-07-28">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>1987-12-19</airdate>
+<title xml:lang="ja">決断! 巨大要塞攻撃指令</title>
+<title xml:lang="en">Decision! Enormous Fortress Attack Order</title>
+</episode>
+<episode id="62374" update="2007-07-28">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>1987-12-26</airdate>
+<title xml:lang="ja">非情! ドラグナー対ドラグナー</title>
+<title xml:lang="en">Heartless! Dragonar vs. Dragonar</title>
+</episode>
+<episode id="62375" update="2007-07-28">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>1988-01-09</airdate>
+<title xml:lang="ja">特攻! 復讐の蒼き鷹</title>
+<title xml:lang="en">Special Attack! Blue Eagle`s Vengeance</title>
+</episode>
+<episode id="62376" update="2007-07-28">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>1988-01-16</airdate>
+<title xml:lang="ja">突入! アオイ・ワカバ救出</title>
+<title xml:lang="en">Break In! Rescue Aoi Wakaba</title>
+</episode>
+<episode id="62377" update="2007-07-28">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>1987-08-22</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">見参! ドラグナー遊撃隊</title>
+<title xml:lang="en">Seeing! Dragonar Guerrilla Warfare Party</title>
+</episode>
+<episode id="62378" update="2007-07-28">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>1988-01-23</airdate>
+<title xml:lang="ja">肉迫! ミン大尉の猛追</title>
+<title xml:lang="en">Pressing Hard! Captain Min`s Pursuit</title>
+</episode>
+<episode id="62379" update="2007-07-28">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>1988-01-30</airdate>
+<title xml:lang="ja">大宇宙(おおぞら)の凱歌 (最終回)</title>
+<title xml:lang="en">The Universal (Heavenly) Victory</title>
+</episode>
+<episode id="73302" update="2007-05-12">
+<epno type="3">C1</epno>
+<length>1</length>
+<rating votes="2">5.86</rating>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="73303" update="2007-05-12">
+<epno type="3">C2</epno>
+<length>1</length>
+<rating votes="1">6.73</rating>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="73304" update="2007-05-12">
+<epno type="3">C3</epno>
+<length>1</length>
+<rating votes="2">5.86</rating>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="73305" update="2007-05-12">
+<epno type="3">C4</epno>
+<length>1</length>
+<rating votes="1">6.73</rating>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="73306" update="2007-05-13">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Episode 1 Preview</title>
+</episode>
+<episode id="102471" update="2009-05-15">
+<epno type="4">T2</epno>
+<length>0</length>
+<title xml:lang="en">Dragonar Toy Commercial</title>
+</episode>
+</episodes>
+</anime>

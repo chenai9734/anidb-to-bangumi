@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12578" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2017-10-04</startdate>
+<enddate>2017-12-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">TsukiPro the Animation</title>
+<title xml:lang="ja" type="synonym">ツキプロ・ジ・アニメーション</title>
+<title xml:lang="x-jat" type="short">tsukipro</title>
+<title xml:lang="ja" type="official">TSUKIPRO THE ANIMATION</title>
+<title xml:lang="en" type="official">Tsukipro the Animation</title>
+</titles>
+<relatedanime>
+<anime id="13696" type="Sequel">TsukiPro the Animation 2</anime>
+<anime id="10925" type="Parent Story">Tsukiuta. The Animation</anime>
+</relatedanime>
+<url>http://tsukipro-anime.com/</url>
+<creators>
+<name id="48800" type="Original Work">Fujiwara</name>
+<name id="9909" type="Animation Work">PRA</name>
+<name id="3918" type="Character Design">Oka Mariko</name>
+<name id="1790" type="Series Composition">Yoshida Reiko</name>
+<name id="34457" type="Direction">Matsumura Juria</name>
+<name id="1539" type="Chief Direction">Motonaga Keitarou</name>
+</creators>
+<description>SOARA, Growth, SolidS, and QUELL are four groups belonging to Tsukino Entertainment Production (AKA TSUKIPRO).
+The slice of life music anime "PRO ANI" depicting their music overflowing with uniqueness and the drama surrounding their lives begins now!
+Will you open this glittering treasure box of music?
+Source: crunchyroll</description>
+<ratings>
+<permanent count="60">2.48</permanent>
+<temporary count="61">3.90</temporary>
+</ratings>
+<picture>208335.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19898</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34474</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tsukipro-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ツキノ芸能プロダクション</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4688</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360982</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20555</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>tsukipro_anime</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5823" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-01">
+<name>predominantly male cast</name>
+<description>The anime features a mostly male cast, i.e. female characters are rare.
+Example: Reverse harem setting with a plethora of bishounen.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<characters>
+<character id="87494" type="main character in" update="2017-10-14">
+<name>Nanase Nozomu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208316.jpg</picture>
+<seiyuu id="38360" picture="239389.jpg">Sawashiro Chiharu</seiyuu>
+</character>
+<character id="87495" type="main character in" update="2017-10-14">
+<name>Sera Rikka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208325.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="87496" type="main character in" update="2017-10-14">
+<name>Kuga Issei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208330.jpg</picture>
+<seiyuu id="47919" picture="207907.jpg">Nakamura Shuugo</seiyuu>
+</character>
+<character id="87497" type="main character in" update="2017-10-14">
+<name>Kuga Ichiru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208331.jpg</picture>
+<seiyuu id="40096" picture="207906.jpg">Nogami Shou</seiyuu>
+</character>
+<character id="87498" type="main character in" update="2017-10-14">
+<name>Yaegashi Kensuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208319.jpg</picture>
+<seiyuu id="36495" picture="176250.jpg">Yamaya Yoshitaka</seiyuu>
+</character>
+<character id="87499" type="main character in" update="2017-10-14">
+<name>Izumi Shuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208328.jpg</picture>
+<seiyuu id="42164" picture="176249.jpg">Takeuchi Shunsuke</seiyuu>
+</character>
+<character id="87500" type="main character in" update="2017-10-14">
+<name>Arihara Morihito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208313.jpg</picture>
+<seiyuu id="3155" picture="24137.jpg">Ono Yuuki</seiyuu>
+</character>
+<character id="87501" type="main character in" update="2017-10-14">
+<name>Horimiya Eichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208329.jpg</picture>
+<seiyuu id="32912" picture="183255.jpg">Nishiyama Koutarou</seiyuu>
+</character>
+<character id="87502" type="main character in" update="2017-10-14">
+<name>Oohara Sora</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208312.jpg</picture>
+<seiyuu id="303" picture="166016.jpg">Toyonaga Toshiyuki</seiyuu>
+</character>
+<character id="87503" type="main character in" update="2017-10-14">
+<name>Okui Tsubasa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208324.jpg</picture>
+<seiyuu id="36680" picture="153752.jpg">Saitou Souma</seiyuu>
+</character>
+<character id="87504" type="main character in" update="2017-10-14">
+<name>Munakata Ren</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208315.jpg</picture>
+<seiyuu id="23534" picture="74510.jpg">Murata Taishi</seiyuu>
+</character>
+<character id="87505" type="main character in" update="2017-10-14">
+<name>Murase Dai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208326.jpg</picture>
+<seiyuu id="39792" picture="176251.jpg">Umehara Yuuichirou</seiyuu>
+</character>
+<character id="87506" type="main character in" update="2017-10-14">
+<name>Sakuraba Ryouta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208320.jpg</picture>
+<seiyuu id="34784" picture="129957.jpg">Yamashita Daiki</seiyuu>
+</character>
+<character id="87507" type="main character in" update="2017-10-14">
+<name>Kagurazaka Soushi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208314.jpg</picture>
+<seiyuu id="34070" picture="130103.jpg">Furukawa Makoto</seiyuu>
+</character>
+<character id="87508" type="main character in" update="2017-10-14">
+<name>Takamura Shiki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208323.jpg</picture>
+<seiyuu id="2575" picture="139952.jpg">Eguchi Takuya</seiyuu>
+</character>
+<character id="87509" type="main character in" update="2017-10-14">
+<rating votes="1">7.51</rating>
+<name>Fujimura Mamoru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208321.jpg</picture>
+<seiyuu id="29947" picture="223488.jpg">Terashima Junta</seiyuu>
+</character>
+<character id="87510" type="main character in" update="2017-10-14">
+<name>Etou Kouki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208318.jpg</picture>
+<seiyuu id="40342" picture="192446.jpg">Toki Shun`ichi</seiyuu>
+</character>
+<character id="91751" type="appears in" update="2017-10-14">
+<name>Soara</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>208317.jpg</picture>
+</character>
+<character id="91752" type="appears in" update="2017-10-14">
+<name>Growth</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>208322.jpg</picture>
+</character>
+<character id="91753" type="appears in" update="2017-10-14">
+<name>Solids</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>208327.jpg</picture>
+</character>
+<character id="91754" type="appears in" update="2017-10-14">
+<name>Quell</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<picture>208332.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="191063" update="2017-10-30">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-10-25</airdate>
+<title xml:lang="ja">one day...</title>
+<title xml:lang="en">One Day...</title>
+<title xml:lang="x-jat">One Day...</title>
+<summary>"I know what to get my coworker for his wedding."
+As Fujimura Mamoru attempts to compose new songs for the TSUKIPRO concert through trial and error, he`s reunited with Ito, a former coworker from his officer worker days. When he`s invited to attend Ito`s upcoming wedding, Mamoru asks the other members of Growth what he can give to his friend for his wedding. One day, Mamoru and his friends see Ito`s fiance behaving suspiciously around the city, and...?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749237</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191064" update="2017-10-22">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-10-18</airdate>
+<title xml:lang="ja">小さな世界</title>
+<title xml:lang="en">Small World</title>
+<title xml:lang="x-jat">Chiisana Sekai</title>
+<summary>"This QUELL`s song. Our song."
+Izumi Shu, who once worked as part of a national idol unit, has been  busy lately promoting the drama he`s starring in. Meanwhile, in order to catch up to their leader, Horimiya Eichi, Kuga Issei, and Kuga Ichiru, the other members of QUELL, devote themselves to their work and lessons.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749235</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191065" update="2017-10-17">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-10-11</airdate>
+<rating votes="1">3.45</rating>
+<title xml:lang="ja">FRIEND</title>
+<title xml:lang="en">Friend</title>
+<title xml:lang="x-jat">Friend</title>
+<summary>"You don`t have to worry about things on your own. I`m sure you have friends who will worry with you." Filming for the documentary leading up to the TSUKIPRO Concert begins in earnest, and the members of SOARA are excited. When the counseling corner of their regular variety program "TSUKIPRO ch." receives a particular question, Ohara Sora is forced to revisit his own troubles from his past.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749233</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191066" update="2017-10-11">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-10-04</airdate>
+<rating votes="2">2.34</rating>
+<title xml:lang="ja">桜花爛漫</title>
+<title xml:lang="en">Cherry Blossoms in Full Glory</title>
+<title xml:lang="x-jat">Oukaranman</title>
+<summary>"We`ll proudly show them ourselves in full bloom. That`s who we, SolidS, are."
+SOARA, Growth, SolidS, and QUELL are units belonging to Tsukino Entertainment Production. At a meeting attended by the leaders of each group, it`s announced that the four units will be performing on the second day of the Tsukino Concert to be held at the end of the year. SolidS leader Takamura Shiki gathers his members and describes the passion he feels for the concert.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749231</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191701" update="2017-12-29">
+<epno type="3">C5</epno>
+<length>2</length>
+<airdate>2017-10-04</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="191702" update="2017-10-14">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-10-04</airdate>
+<title xml:lang="en">Opening 1</title>
+</episode>
+<episode id="191707" update="2017-12-29">
+<epno type="3">C6</epno>
+<length>2</length>
+<airdate>2017-10-11</airdate>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="191708" update="2017-10-14">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2017-10-11</airdate>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="191941" update="2017-11-27">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-11-22</airdate>
+<title xml:lang="ja">パラレル・リネージュ</title>
+<title xml:lang="en">Parallel Lineage</title>
+<title xml:lang="x-jat">Parallel Lineage</title>
+<summary>"I probably wounded them deeply."
+Growth and ZIX, a two-man unit from another agency, have been closely connected since before their debut. Treated as two rival groups, they`ve been appearing together more and more often. Since Sakuraba Ryota hates to lose, his competitive spirit burns particularly hot every time they work together. Their leader Eto Koki watches over Ryota, sometimes rebuking him, but since he dislikes conflict, each passing day pains him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749245</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191942" update="2017-11-27">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-11-15</airdate>
+<title xml:lang="ja">Above the best</title>
+<title xml:lang="en">Above the Best</title>
+<title xml:lang="x-jat">Above the Best</title>
+<summary>"This is frustrating. We want to do a good job, but we keep making mistakes."
+Kuga Issei and Kuga Ichiru are chosen to appear in a new musical by a popular director.
+In a story based on the Grimm Fairy Tale, Issei and Ichiru are cast in roles that remind them of their own upbringing.
+Though rehearsing for their first real show leaves them feeling uncertain, they put forth their best effort, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749243</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191943" update="2017-11-13">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-11-08</airdate>
+<title xml:lang="ja">スタートライン ~Boys, Be Mighty~</title>
+<title xml:lang="en">Starting Line: Boys, Be Mighty</title>
+<title xml:lang="x-jat">Start Line: Boys, Be Mighty</title>
+<summary>"We, the athletes, swear not to forget to thank our fans and live up to their expectations as we fight fair and square to the best of our ability. Athlete representative, Ohara Sora."
+The entertainers of Tsukino Entertainment Productions have gathered for the red versus white TSUKIPRO Sports Tournament. Team red is Six Gravity, SolidS, and SOARA.
+Team white is Procellarum, QUELL, and Growth. As the official supporters of the tournament, the super amped members of SOARA are tasked with reporting on the event!
+The tournament is about to begin!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749241</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191944" update="2017-11-13">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-11-01</airdate>
+<title xml:lang="ja">Back On Track</title>
+<title xml:lang="en">Back on Track</title>
+<title xml:lang="x-jat">Back on Track</title>
+<summary>"Let`s go for a drive, Shiki."
+SolidS unit leader, producer, and composer who also does outside work Takamura Shiki is busier than usual in preparation for the end-of-year concert. Worried about their exhausted leader, Okui Tsubasa suggests the members of SolidS go for a nighttime drive. How far will they go?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749239</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192999" update="2017-12-28">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2017-12-27</airdate>
+<title xml:lang="ja">TSUKIPRO LIVE 2017 WINTER CARNIVAL</title>
+<title xml:lang="en">Tsukipro Live 2017 Winter Carnival</title>
+<title xml:lang="x-jat">Tsukipro Live 2017 Winter Carnival</title>
+<summary>"This song is for you."
+December 31st, 2017. The Budokan.
+Second day of the TSUKIPRO Concert.
+Curtains finally rise on the 17-man dream performance of SOARA, Growth, SolidS, and QUELL!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749255</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193000" update="2017-11-15">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-12-20</airdate>
+<title xml:lang="ja">陽だまりに咲く</title>
+<title xml:lang="en">Blooming in a Sunny Spot</title>
+<title xml:lang="x-jat">Hidamari ni Saku</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749253</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193001" update="2017-11-15">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-12-13</airdate>
+<title xml:lang="ja">ありがとう</title>
+<title xml:lang="en">Thank You</title>
+<title xml:lang="x-jat">Arigatou</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749251</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193002" update="2017-11-15">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-12-06</airdate>
+<title xml:lang="ja">未来への贈り物</title>
+<title xml:lang="en">A Gift for the Future</title>
+<title xml:lang="x-jat">Mirai e no Okurimono</title>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749249</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193003" update="2017-12-05">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-11-29</airdate>
+<title xml:lang="ja">運命を越える"Venga"</title>
+<title xml:lang="en">Overcoming Destiny "Venga"</title>
+<title xml:lang="x-jat">Unmei o Koeru "Venga"</title>
+<summary>"Today you won`t beat me." "...I could say the same thing."
+Sera Rikka and Murase Dai are chosen to play characters to promote women`s cosmetics. The theme of the commercial is a princess and her knight. Dai, who already feels he`s not good at working in front of a camera, begins to feel the pressure when he learns he`ll be working with cosmetics, a product he has no experience with, alongside former model Rikka, who completes any and all shoots with ease. Will they be able to finish filming the commercial without incident...?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749247</identifier>
+<identifier>tsukipro-the-animation</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194489" update="2017-12-29">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2017-10-25</airdate>
+<title xml:lang="en">Opening 4</title>
+</episode>
+<episode id="194490" update="2017-12-29">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2017-10-18</airdate>
+<title xml:lang="en">Opening 3</title>
+</episode>
+<episode id="194491" update="2017-12-29">
+<epno type="3">C16</epno>
+<length>2</length>
+<airdate>2017-12-20</airdate>
+<title xml:lang="en">Ending 12</title>
+</episode>
+<episode id="194492" update="2017-12-29">
+<epno type="3">C15</epno>
+<length>2</length>
+<airdate>2017-12-13</airdate>
+<title xml:lang="en">Ending 11</title>
+</episode>
+<episode id="194493" update="2017-12-29">
+<epno type="3">C14</epno>
+<length>2</length>
+<airdate>2017-12-06</airdate>
+<title xml:lang="en">Ending 10</title>
+</episode>
+<episode id="194494" update="2017-12-29">
+<epno type="3">C13</epno>
+<length>2</length>
+<airdate>2017-11-29</airdate>
+<title xml:lang="en">Ending 9</title>
+</episode>
+<episode id="194495" update="2017-12-29">
+<epno type="3">C12</epno>
+<length>2</length>
+<airdate>2017-11-22</airdate>
+<title xml:lang="en">Ending 8</title>
+</episode>
+<episode id="194496" update="2017-12-29">
+<epno type="3">C11</epno>
+<length>2</length>
+<airdate>2017-11-15</airdate>
+<title xml:lang="en">Ending 7</title>
+</episode>
+<episode id="194497" update="2017-12-29">
+<epno type="3">C10</epno>
+<length>2</length>
+<airdate>2017-11-08</airdate>
+<title xml:lang="en">Ending 6</title>
+</episode>
+<episode id="194498" update="2017-12-29">
+<epno type="3">C9</epno>
+<length>2</length>
+<airdate>2017-11-01</airdate>
+<title xml:lang="en">Ending 5</title>
+</episode>
+<episode id="194499" update="2017-12-29">
+<epno type="3">C8</epno>
+<length>2</length>
+<airdate>2017-10-25</airdate>
+<title xml:lang="en">Ending 4</title>
+</episode>
+<episode id="194500" update="2017-12-29">
+<epno type="3">C7</epno>
+<length>2</length>
+<airdate>2017-10-18</airdate>
+<title xml:lang="en">Ending 3</title>
+</episode>
+</episodes>
+</anime>

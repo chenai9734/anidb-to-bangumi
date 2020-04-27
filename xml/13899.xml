@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13899" restricted="false">
+<type>TV Series</type>
+<episodecount>18</episodecount>
+<startdate>2019-01-04</startdate>
+<enddate>2019-03-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Boogiepop wa Warawanai</title>
+<title xml:lang="bg" type="synonym">Бугипоп не дарява усмивки</title>
+<title xml:lang="ja" type="official">ブギーポップは笑わない</title>
+<title xml:lang="en" type="official">Boogiepop and Others</title>
+<title xml:lang="ko" type="official">부기팝은 웃지 않는다</title>
+<title xml:lang="zh-Hant" type="official">不吉波普不笑</title>
+<title xml:lang="zh-Hans" type="official">不吉波普不笑</title>
+</titles>
+<relatedanime>
+<anime id="179" type="Side Story">Boogiepop wa Warawanai: Boogiepop Phantom</anime>
+</relatedanime>
+<recommendations total="2">
+<recommendation type="Recommended" uid="531837">sorry, i`m really bad at explaining, but...
+this is a must see/watch.
+it is "THAT" good!</recommendation>
+<recommendation type="Must See" uid="209879">Having superhumans or non-human entities fight each other and pimping the tropes with witty dialogue and storytelling has become a routine of Light Novels and their anime adaptions. But Boogiepop was the first one to actually try this, and it did it right.
+
+A good story, a believable setting and realistic characters are coupled with non-conventional storytelling, a distinct visual style, a nice musical score and good production values. Although not as mysterious or unique as the former adaption (that doesn`t need to be watched before starting this one), Boogiepop forces the viewer to pay attention and think about its events and characters. But it still manages to be accessible and entertaining.</recommendation>
+</recommendations>
+<url>http://boogiepop-anime.com/</url>
+<creators>
+<name id="731" type="Animation Work">Madhouse</name>
+<name id="21016" type="Character Design">Sawada Hidehiko</name>
+<name id="28424" type="Series Composition">Suzuki Tomohiro</name>
+<name id="8905" type="Original Work">Kadono Kouhei</name>
+<name id="9862" type="Direction">Natsume Shingo</name>
+<name id="39776" type="Music">Ushio Kensuke</name>
+<name id="15958" type="Chief Animation Direction">Tsuchiya Kei</name>
+<name id="3780" type="Chief Animation Direction">Shino Masanori</name>
+</creators>
+<description>* Based on the Boogiepop light novel series written by http://anidb.net/cr8905 [Kadono Kouhei] and illustrated by http://anidb.net/cr8904 [Ogata Kouji].
+There is an urban legend that tells of a shinigami that can release people from the pain they are suffering. This "Angel of Death" has a name: http://anidb.net/ch94423 [Boogiepop]. And the legends are true. Boogiepop is real.
+When a rash of disappearances involving female students breaks out at Shinyo Academy, the police and faculty assume they just have a bunch of runaways on their hands. Yet some students know better. Something mysterious and foul is afoot. Is it Boogiepop or something even more sinister?
+Source: Seven Seas Entertainment</description>
+<ratings>
+<permanent count="667">6.24</permanent>
+<temporary count="670">7.08</temporary>
+</ratings>
+<picture>225174.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21201</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37451</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://boogiepop-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Boogiepop_and_Others</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ブギーポップシリーズ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5167</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363632</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21644</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>boogiepop_anime</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07RMYJMZT</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+</tags>
+<characters>
+<character id="94419" type="main character in" update="2018-12-27">
+<rating votes="5">7.19</rating>
+<name>Miyashita Touka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228143.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="94423" type="main character in" update="2018-12-27">
+<rating votes="3">5.80</rating>
+<name>Boogiepop</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228142.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="94424" type="main character in" update="2018-12-27">
+<rating votes="7">6.75</rating>
+<name>Kirima Nagi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228144.jpg</picture>
+<seiyuu id="34449" picture="171791.jpg">Oonishi Saori</seiyuu>
+</character>
+<character id="98769" type="secondary cast in" update="2018-12-27">
+<rating votes="2">5.17</rating>
+<name>Suema Kazuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228145.jpg</picture>
+<seiyuu id="43914" picture="225361.jpg">Kondou Reina</seiyuu>
+</character>
+<character id="99924" type="secondary cast in" update="2018-12-27">
+<rating votes="1">2.19</rating>
+<name>Echoes</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228154.jpg</picture>
+<seiyuu id="689" picture="170354.jpg">Miyata Kouki</seiyuu>
+</character>
+<character id="99925" type="secondary cast in" update="2019-01-17">
+<name>Spooky E</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229221.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="99926" type="secondary cast in" update="2019-01-17">
+<rating votes="1">2.19</rating>
+<name>Anou Shinjirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229219.jpg</picture>
+<seiyuu id="32568" picture="228752.jpg">Hasegawa Yoshiaki</seiyuu>
+</character>
+<character id="99927" type="secondary cast in" update="2018-12-27">
+<rating votes="8">8.69</rating>
+<name>Niitoki Kei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228148.jpg</picture>
+<seiyuu id="38508" picture="142916.jpg">Shimoji Shino</seiyuu>
+</character>
+<character id="99928" type="secondary cast in" update="2018-12-27">
+<name>Saotome Masami</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228150.jpg</picture>
+<seiyuu id="33512" picture="225800.jpg">Enoki Jun`ya</seiyuu>
+</character>
+<character id="99929" type="secondary cast in" update="2019-01-17">
+<rating votes="2">7.92</rating>
+<name>Minahoshi Suiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229222.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="99930" type="secondary cast in" update="2018-12-27">
+<name>Tanaka Shirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228152.jpg</picture>
+<seiyuu id="52057" picture="225903.jpg">Ichikawa Aoi</seiyuu>
+</character>
+<character id="99931" type="secondary cast in" update="2019-02-20">
+<rating votes="1">6.08</rating>
+<name>Yurihara Minako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230429.jpg</picture>
+<seiyuu id="36498" picture="223591.jpg">Kaiden Michiko</seiyuu>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+<character id="99932" type="secondary cast in" update="2018-12-27">
+<name>Takeda Keiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228147.jpg</picture>
+<seiyuu id="54588" picture="228753.jpg">Kobayashi Chiaki</seiyuu>
+</character>
+<character id="99933" type="secondary cast in" update="2018-12-27">
+<rating votes="3">4.68</rating>
+<name>Kamikishiro Naoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>228149.jpg</picture>
+<seiyuu id="34407" picture="202909.jpg">Suwa Ayaka</seiyuu>
+</character>
+<character id="99934" type="secondary cast in" update="2019-01-17">
+<rating votes="1">6.58</rating>
+<name>Kinugawa Kotoe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229220.jpg</picture>
+<seiyuu id="479" picture="222800.jpg">Asumi Kana</seiyuu>
+</character>
+<character id="99935" type="secondary cast in" update="2019-01-17">
+<name>Taniguchi Masaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229216.jpg</picture>
+<seiyuu id="38431" picture="224824.jpg">Yashiro Taku</seiyuu>
+</character>
+<character id="99936" type="secondary cast in" update="2019-01-17">
+<rating votes="1">2.19</rating>
+<name>Asukai Jin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229218.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="99937" type="secondary cast in" update="2019-01-17">
+<rating votes="2">7.89</rating>
+<name>Orihata Aya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>229217.jpg</picture>
+<seiyuu id="52537" picture="225050.jpg">Ichinose Kana</seiyuu>
+</character>
+<character id="100967" type="appears in" update="2019-02-20">
+<name>Kinoshita Kyouko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230428.jpg</picture>
+<seiyuu id="26760" picture="73354.jpg">Satou Amina</seiyuu>
+</character>
+<character id="100968" type="appears in" update="2019-02-20">
+<name>Kusatsu Akiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230427.jpg</picture>
+<seiyuu id="34545" picture="224469.jpg">Kiyoto Arisa</seiyuu>
+</character>
+<character id="100969" type="appears in" update="2019-02-20">
+<name>Imazaki Shizuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230432.jpg</picture>
+<seiyuu id="43438" picture="186227.jpg">Kawase Maki</seiyuu>
+</character>
+<character id="100970" type="appears in" update="2019-02-20">
+<name>Nakadai Sawako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230433.jpg</picture>
+<seiyuu id="47036" picture="211659.jpg">Watabe Sayumi</seiyuu>
+</character>
+<character id="100971" type="appears in" update="2019-02-20">
+<name>Komiya Mariko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230431.jpg</picture>
+<seiyuu id="45628" picture="223589.jpg">Kawakami Aya</seiyuu>
+</character>
+<character id="100972" type="appears in" update="2019-02-20">
+<name>Keiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230430.jpg</picture>
+<seiyuu id="31" picture="65365.jpg">Ueda Youji</seiyuu>
+</character>
+<character id="100973" type="appears in" update="2019-02-20">
+<name>Anou Shinjirou no Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230435.jpg</picture>
+<seiyuu id="39006" picture="148260.jpg">Satou Hana</seiyuu>
+</character>
+<character id="100974" type="appears in" update="2019-02-20">
+<name>Kitahara Misaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230438.jpg</picture>
+<seiyuu id="48573" picture="197395.jpg">Hirose Saya</seiyuu>
+</character>
+<character id="100975" type="appears in" update="2019-02-20">
+<name>Yuriko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230437.jpg</picture>
+<seiyuu id="39648" picture="235944.jpg">Abe Rika</seiyuu>
+</character>
+<character id="101016" type="appears in" update="2019-02-23">
+<name>Kinugawa Kotoe no Chichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230555.jpg</picture>
+<seiyuu id="47384" picture="223537.jpg">Sanpei Yuuki</seiyuu>
+</character>
+<character id="101017" type="appears in" update="2019-02-23">
+<name>Asukai Jin (Shounen)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230553.jpg</picture>
+<seiyuu id="39006" picture="148260.jpg">Satou Hana</seiyuu>
+</character>
+<character id="101018" type="appears in" update="2019-02-23">
+<name>Asukai Jin no Chichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230554.jpg</picture>
+<seiyuu id="277" picture="223606.jpg">Hanawa Eiji</seiyuu>
+</character>
+<character id="101019" type="secondary cast in" update="2019-02-23">
+<name>Sakakibara Gen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230556.jpg</picture>
+<seiyuu id="10750" picture="186166.jpg">Takeuchi Ryouta</seiyuu>
+</character>
+<character id="101020" type="secondary cast in" update="2019-02-23">
+<name>Kirima Seiichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230557.jpg</picture>
+<seiyuu id="60" picture="171602.jpg">Kawada Shinji</seiyuu>
+</character>
+<character id="101021" type="secondary cast in" update="2019-02-23">
+<name>Sasaki Masanori</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230558.jpg</picture>
+<seiyuu id="3156" picture="76983.jpg">Sakaguchi Shuuhei</seiyuu>
+</character>
+<character id="101022" type="secondary cast in" update="2019-02-23">
+<name>Pigeon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230559.jpg</picture>
+<seiyuu id="32939" picture="237666.jpg">Kakuma Ai</seiyuu>
+</character>
+<character id="101023" type="secondary cast in" update="2019-02-23">
+<name>Kuroda Shinpei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230560.jpg</picture>
+<seiyuu id="623" picture="18148.jpg">Miyauchi Atsushi</seiyuu>
+</character>
+<character id="101024" type="secondary cast in" update="2019-02-23">
+<name>Kisugi Makiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230561.jpg</picture>
+<seiyuu id="4634" picture="223664.jpg">Kinoshita Sayaka</seiyuu>
+</character>
+<character id="101025" type="secondary cast in" update="2019-02-23">
+<rating votes="1">6.58</rating>
+<name>Minahoshi Suiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230562.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="101026" type="secondary cast in" update="2019-02-23">
+<rating votes="1">6.58</rating>
+<name>Kamikishiro Naoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230563.jpg</picture>
+<seiyuu id="34407" picture="202909.jpg">Suwa Ayaka</seiyuu>
+</character>
+<character id="101027" type="secondary cast in" update="2019-02-23">
+<rating votes="1">6.58</rating>
+<name>Suema Kazuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230564.jpg</picture>
+<seiyuu id="43914" picture="225361.jpg">Kondou Reina</seiyuu>
+</character>
+<character id="101028" type="secondary cast in" update="2019-02-23">
+<rating votes="1">6.58</rating>
+<name>Kirima Nagi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230565.jpg</picture>
+<seiyuu id="34449" picture="171791.jpg">Oonishi Saori</seiyuu>
+</character>
+<character id="101029" type="appears in" update="2019-02-23">
+<rating votes="1">6.58</rating>
+<name>Kirima Nagi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230566.jpg</picture>
+<seiyuu id="34449" picture="171791.jpg">Oonishi Saori</seiyuu>
+</character>
+<character id="101030" type="secondary cast in" update="2019-02-23">
+<name>Miyashita Touka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230567.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="101031" type="secondary cast in" update="2019-02-23">
+<name>Boogiepop</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230568.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="101108" type="secondary cast in" update="2019-02-25">
+<name>Teratsuki Kyouichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230664.jpg</picture>
+<seiyuu id="382" picture="228600.jpg">Ookawa Tooru</seiyuu>
+</character>
+<character id="101109" type="secondary cast in" update="2019-02-25">
+<rating votes="1">2.19</rating>
+<name>Habara Kentarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230665.jpg</picture>
+<seiyuu id="47945" picture="211756.jpg">Murai Yuuji</seiyuu>
+</character>
+<character id="101110" type="secondary cast in" update="2019-02-25">
+<rating votes="1">2.19</rating>
+<name>Hashizaka Makoto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230666.jpg</picture>
+<seiyuu id="32990" picture="223632.jpg">Naitou Ami</seiyuu>
+</character>
+<character id="101111" type="secondary cast in" update="2019-02-25">
+<rating votes="1">2.19</rating>
+<name>Hashizaka Shizuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230667.jpg</picture>
+<seiyuu id="54091" picture="225341.jpg">Sugiyama Riho</seiyuu>
+</character>
+<character id="101112" type="appears in" update="2019-02-25">
+<name>Hashizaka Shizuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230668.jpg</picture>
+<seiyuu id="54091" picture="225341.jpg">Sugiyama Riho</seiyuu>
+</character>
+<character id="101113" type="secondary cast in" update="2019-02-25">
+<name>Michimoto Sakiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230670.jpg</picture>
+<seiyuu id="21823" picture="131326.jpg">Tsuda Minami</seiyuu>
+</character>
+<character id="101114" type="appears in" update="2019-02-25">
+<name>Michimoto Sakiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230669.jpg</picture>
+<seiyuu id="21823" picture="131326.jpg">Tsuda Minami</seiyuu>
+</character>
+<character id="101115" type="secondary cast in" update="2019-02-25">
+<rating votes="1">2.19</rating>
+<name>Hinako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230672.jpg</picture>
+<seiyuu id="18198" picture="228672.jpg">Akasaki Chinatsu</seiyuu>
+</character>
+<character id="101116" type="appears in" update="2019-02-25">
+<name>Hinako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>230671.jpg</picture>
+<seiyuu id="18198" picture="228672.jpg">Akasaki Chinatsu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="211236" update="2019-01-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-01-04</airdate>
+<rating votes="6">4.11</rating>
+<title xml:lang="ja">ブギーポップは笑わない 1</title>
+<title xml:lang="en">Boogiepop and Others 1</title>
+<title xml:lang="x-jat">Boogiepop wa Warawanai 1</title>
+<summary>Takeda Keiji was waiting for his girlfriend and junior in school, Miyashita Touka. But she doesn`t show up at the time they agreed on and he can`t get a hold of her. The sun starts to set and Takeda decides to give up and head home. But then, he sees a man unsteadily wandering around with tears in his eyes. Takeda and the other people around him quickly realize the man is not normal and decide to ignore him when a mysterious figure approaches the man. A mysterious figure wearing a cape and a bizarre hat. That figure happened to have the same face as Touka, the girlfriend who ditched Takeda...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780854</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211237" update="2019-01-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2019-01-04</airdate>
+<rating votes="6">3.66</rating>
+<title xml:lang="ja">ブギーポップは笑わない 2</title>
+<title xml:lang="en">Boogiepop and Others 2</title>
+<title xml:lang="x-jat">Boogiepop wa Warawanai 2</title>
+<summary>One day after school, Kinoshita Kyouko asks Suema Kazuko to walk home with her. As they`re walking along the river going home, Kyouko asks Kazuko if she knows another way home. Kazuko teases her, asking her if she thinks someone`s going to kill her. Kyouko stays silent and Kazuko tells her she`s overthinking things, when suddenly Kirima Nagi appears before them. Nagi then pins Kyouko to the ground.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780855</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211238" update="2019-01-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2019-01-11</airdate>
+<rating votes="4">3.34</rating>
+<title xml:lang="ja">ブギーポップは笑わない 3</title>
+<title xml:lang="en">Boogiepop and Others 3</title>
+<title xml:lang="x-jat">Boogiepop wa Warawanai 3</title>
+<summary>Tanaka Shiro is worried about Kamikishiro Naoko because she disappeared, so he went to ask Niitoki Kei from the disciplinary committee for help. Kei just figured Naoko was skipping again, but Tanaka tells her that Naoko had her reasons for not showing up to school. Saotome Masami happens to hear them talking and tells them that they should talk to Kirima Nagi. Naoko and Nagi are good friends and she might know something. The three of them then go to look for Nagi.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780856</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211239" update="2019-01-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2019-01-18</airdate>
+<rating votes="3">6.58</rating>
+<title xml:lang="ja">VSイマジネーター 1</title>
+<title xml:lang="en">VS Imaginator 1</title>
+<title xml:lang="x-jat">VS Imaginator 1</title>
+<summary>Asukai Jin teaches at a prep school and also acts as a guidance counselor to the students at that school... but he was also born with a strange power. He was able to see what other people were missing in their hearts. He could see plants within their hearts. Everyone had something missing from their plants, such as leaves or roots. However, he couldn`t do anything about what was missing in their hearts, so he tried to help them by telling them what they needed to hear. One day as he`s walking home, he encounters a woman named Minahoshi Suiko, who calls herself the Imaginator.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780857</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211706" update="2019-01-04">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2019-01-04</airdate>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="211707" update="2019-01-04">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2019-01-04</airdate>
+<rating votes="1">5.00</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="211871" update="2019-02-04">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2019-01-25</airdate>
+<rating votes="3">5.87</rating>
+<title xml:lang="ja">VSイマジネーター 2</title>
+<title xml:lang="en">VS Imaginator 2</title>
+<title xml:lang="x-jat">VS Imaginator 2</title>
+<summary>In order to go to high school in Japan, Kirima Nagi`s half brother, Taniguchi Masaki, returns to Japan. Masaki gets advice from his sister to not stand out as much at school, but ends up gathering some grudges from some of the kids at school. He gets surrounded by some students and a girl calls out to them. Orihata Aya seems to be offering herself up in Masaki`s place. Because of this encounter, the two of them start to get closer, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780858</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211872" update="2019-02-04">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2019-02-01</airdate>
+<rating votes="3">5.18</rating>
+<title xml:lang="ja">VSイマジネーター 3</title>
+<title xml:lang="en">VS Imaginator 3</title>
+<title xml:lang="x-jat">VS Imaginator 3</title>
+<summary>Kotokawa Kinue approaches Miyashita Touka and Suema Kazuko as they study at one of the tables at the prep school. Kotoe asks Kazuko for help and tells her that Kyouko was the one that referred her. Kotoe asks Kazuko to help her cousin Asukai Jin, who is one of the instructors at the prep school. Apparently, he used to worry a lot about various things, but stopped worrying and would stay out late at night and come home with blood stains on his clothes. Kazuko says she`ll accept the job and decides to investigate.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780859</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211873" update="2019-02-19">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2019-02-08</airdate>
+<rating votes="3">5.18</rating>
+<title xml:lang="ja">VSイマジネーター 4</title>
+<title xml:lang="en">VS Imaginator 4</title>
+<title xml:lang="x-jat">VS Imaginator 4</title>
+<summary>Due to Orihata`s request, Masaki dons a black hat and cape and goes around acting like Boogiepop. It had been two weeks since they started using Orihata as bait to lure bad guys in so Masaki can beat them up like a superhero, but Masaki still had no idea why they were doing this. Masaki mentions that they can`t do this forever, but Orihata just tells him that she`ll do anything for him. All he has to do is tell her. Slightly annoyed by Orihata avoiding the question, Masaki says he`ll continue acting as Boogiepop, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780860</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="211874" update="2019-02-19">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2019-02-15</airdate>
+<rating votes="3">6.58</rating>
+<title xml:lang="ja">VSイマジネーター 5</title>
+<title xml:lang="en">VS Imaginator 5</title>
+<title xml:lang="x-jat">VS Imaginator 5</title>
+<summary>Suema Kazuko finds out that Kinukawa Kotoe`s attitude has changed ever since she had requested Suema to help her with Asukai Jin. Suema can`t help but feel that there`s something deeper at play with Kotoe`s sudden attitude change, and she goes to visit Asukai to see if she can find out the truth. Suema asks him if he`s sure he doesn`t know the reason that Kotoe changed, but Asukai just changes the subject and starts talking about his own personal goals.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780861</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212443" update="2019-03-06">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2019-02-22</airdate>
+<rating votes="3">5.66</rating>
+<title xml:lang="ja">VSイマジネーター 6</title>
+<title xml:lang="en">VS Imaginator 6</title>
+<title xml:lang="x-jat">VS Imaginator 6</title>
+<summary>Masaki wonders where he`s been looking this whole time after he finds out the truth about Orihata and begins to desperately look for her. He finally manages to get through to her phone, but Orihata asks him to leave her alone. Masaki refuses to give up and tries to track down where she is. He gets to Paisley Park and...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780862</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212444" update="2019-03-06">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2019-02-23</airdate>
+<rating votes="2">4.11</rating>
+<title xml:lang="ja">夜明けのブギーポップ 1</title>
+<title xml:lang="en">Boogiepop at Dawn 1</title>
+<title xml:lang="x-jat">Yoake no Boogiepop 1</title>
+<summary>Private Investigator Kuroda Shinpei`s true identity actually a synthetic human named Scarecrow who works for a secret organization. His true mission is to track down any MPLS. MPLS had abilities that surpassed any human. One day, a fellow synthetic human named Pigeon brings him a new mission. His new mission is to investigate the entrepreneur Teratsuki Kyouichirou. Despite having some doubts about this mission, Kuroda looks into Teratsuki and discovers a hospital he donates to...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>780863</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212445" update="2019-03-06">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2019-02-23</airdate>
+<rating votes="2">5.10</rating>
+<title xml:lang="ja">夜明けのブギーポップ 2</title>
+<title xml:lang="en">Boogiepop at Dawn 2</title>
+<title xml:lang="x-jat">Yoake no Boogiepop 2</title>
+<summary>Everything started on the day when Kirima Nagi, who had been diagnosed with an unknown, incurable disease, made a sudden recovery and Makiko found remnants of some kind of medicine in her room. Kisugi Makiko began various experiments with this medicine and gained extraordinary powers. Soon after, there is news of a number of girls dying mysterious deaths. The number of victims climbs to 5 and the suspect still hasn`t been caught...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782360</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212446" update="2019-03-06">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2019-02-23</airdate>
+<rating votes="2">6.15</rating>
+<title xml:lang="ja">夜明けのブギーポップ 3</title>
+<title xml:lang="en">Boogiepop at Dawn 3</title>
+<title xml:lang="x-jat">Yoake no Boogiepop 3</title>
+<summary>One day, Kirima Seiichi receives a letter from a young man who says he`s about to be killed. The young man thanks Kirima for his books, saying that they helped him out quite a bit. But now, he`s become an enemy to society, so he was going to be disposed of. Kirima then asks his friend to look into the source of the letter. They find out that the young man indeed died the day after he sent out the letter and it`s discovered that he had some extraordinary power.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782361</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212447" update="2019-03-06">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2019-02-23</airdate>
+<rating votes="2">6.15</rating>
+<title xml:lang="ja">夜明けのブギーポップ 4</title>
+<title xml:lang="en">Boogiepop at Dawn 4</title>
+<title xml:lang="x-jat">Yoake no Boogiepop 4</title>
+<summary>Nagi prepares to fight with Kisugi Makiko. Now that Kisugi is not human, there`s a good chance Nagi won`t survive this fight. Mo Murder knows the odds of this fight and ends up doing something very much out of his character. Meanwhile, Nagi tries to lure Kisugi Makiko away from the hospital so there won`t be any other victims. Kisugi attacks Nagi and tries to get her to fear but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782362</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212448" update="2019-03-06">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2019-03-01</airdate>
+<rating votes="2">6.15</rating>
+<title xml:lang="ja">オーバードライブ 歪曲王 1</title>
+<title xml:lang="en">Overdrive: The King of Distortion 1</title>
+<title xml:lang="x-jat">Overdrive Waikyoku Ou 1</title>
+<summary>An eccentric billionaire named Teratsuki Kyouichirou created a strange building called the Moon Temple before he died. The purpose for its construction was unknown, so they decided to open it to the public to view to try to gain some money to help pay for its cost. Takeda Keiji happened to be waiting for his girlfriend Miyashita Touka nearby and Tanaka Shirou was visiting the tower because he had once promised Kamikishiro Naoko that they`d go together someday...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782413</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212844" update="2019-04-08">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2019-03-08</airdate>
+<rating votes="2">5.10</rating>
+<title xml:lang="ja">オーバードライブ 歪曲王 2</title>
+<title xml:lang="en">Overdrive: The King of Distortion 2</title>
+<title xml:lang="x-jat">Overdrive Waikyoku Ou 2</title>
+<summary>Niitoki Kei is progressing through the Moon Temple along with Boogiepop. According to Boogiepop, it`s definitely true that something is endangering the world right now, but they don`t know just how dangerous it is at the moment. Boogiepop explains that things aren`t that simple and that they`re not sure if the King of Distortion is actually an enemy yet. Kei`s stomach suddenly rumbles in the middle of their conversation and Boogiepop offers her a very cute looking bento.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782414</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212845" update="2019-04-08">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2019-03-15</airdate>
+<rating votes="2">5.10</rating>
+<title xml:lang="ja">オーバードライブ 歪曲王 3</title>
+<title xml:lang="en">Overdrive: The King of Distortion 3</title>
+<title xml:lang="x-jat">Overdrive Waikyoku Ou 3</title>
+<summary>Niitoki Kei is progressing through the Moon Temple along with Boogiepop. According to Boogiepop, it`s definitely true that something is endangering the world right now, but they don`t know just how dangerous it is at the moment. Boogiepop explains that things aren`t that simple and that they`re not sure if the King of Distortion is actually an enemy yet. Kei`s stomach suddenly rumbles in the middle of their conversation and Boogiepop offers her a very cute looking bento.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782415</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212846" update="2019-04-08">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2019-03-22</airdate>
+<rating votes="2">7.50</rating>
+<title xml:lang="ja">オーバードライブ 歪曲王 4</title>
+<title xml:lang="en">Overdrive: The King of Distortion 4</title>
+<title xml:lang="x-jat">Overdrive Waikyoku Ou 4</title>
+<summary>Tanaka Shirou finds a place in the floor that looks like it may lead somewhere else, so he and Habara Kentarou want to go explore it, but Sakiko was asleep on top of the entrance. They manage to wake her up and manage to get into the crawlspace, but nothing there seems to have any connections with the King of Distortion. Suddenly, the entrance closes and Sakiko yells at them, saying that she won`t let them get in the way of the King of Distortion. The entrance now won`t budge, leaving Kentarou and Shirou trapped. Then, they hear the sound of something shutting...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782416</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="212847" update="2019-04-08">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2019-03-29</airdate>
+<rating votes="2">4.11</rating>
+<title xml:lang="ja">オーバードライブ 歪曲王 5</title>
+<title xml:lang="en">Overdrive: The King of Distortion 5</title>
+<title xml:lang="x-jat">Overdrive Waikyoku Ou 5</title>
+<summary>The truth that Teratsuki Kyouichirou just revealed in the video... He explains that what`s happening in the Moon Temple right now is a collaboration between him and the King of Distortion. Niitoki Kei manages to make it to the top floor and she and Boogiepop encounter the actual King of Distortion. After seeing who the real King of Distortion is, Boogiepop realizes why he knew who Boogiepop was. The King of Distortion tells them that this is merely an experiment and that he doesn`t mean to harm anyone, but...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>782417</identifier>
+<identifier>boogiepop-and-others</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

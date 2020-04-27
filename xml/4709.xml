@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4709" restricted="false">
+<type>TV Series</type>
+<episodecount>102</episodecount>
+<startdate>1986-04-05</startdate>
+<enddate>1988-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Naruhodo Monogatari</title>
+<title xml:lang="ja" type="official">まんがなるほど物語</title>
+</titles>
+<relatedanime>
+<anime id="4952" type="Other">Manga Hajimete Omoshiro Juku</anime>
+<anime id="4962" type="Other">Manga Doushite Monogatari</anime>
+<anime id="4965" type="Other">21 Seiki Manga Hajimete Monogatari</anime>
+<anime id="6300" type="Other">Manga Hajimete Monogatari</anime>
+</relatedanime>
+<creators>
+<name id="8514" type="Direction">Soga Kimiyoshi</name>
+<name id="37633" type="Direction">Muraishi Hirochika</name>
+</creators>
+<ratings>
+<permanent count="5">3.08</permanent>
+<temporary count="5">3.70</temporary>
+</ratings>
+<picture>11263.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>999</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10137</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>85883</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>1993</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="106203" update="2009-08-10">
+<epno type="1">102</epno>
+<length>0</length>
+<airdate>1988-03-26</airdate>
+<title xml:lang="en">Episode 102</title>
+</episode>
+<episode id="106204" update="2009-08-10">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1986-04-05</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

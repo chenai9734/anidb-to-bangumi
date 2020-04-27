@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14280" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1963</startdate>
+<enddate>1963</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shiroi Zou</title>
+<title xml:lang="ja" type="official">しろいぞう</title>
+</titles>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+<ratings>
+<permanent count="3">3.65</permanent>
+<temporary count="3">4.00</temporary>
+</ratings>
+<picture>222222.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33484</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204514" update="2019-08-08">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

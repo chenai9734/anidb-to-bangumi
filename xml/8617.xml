@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8617" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1982-08-21</startdate>
+<enddate>1982-08-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kyojin no Hoshi (1982)</title>
+<title xml:lang="ja" type="official">巨人の星 (1982)</title>
+</titles>
+<relatedanime>
+<anime id="3413" type="Alternative Setting">Kyojin no Hoshi</anime>
+</relatedanime>
+<creators>
+<name id="7352" type="Original Work">Kawasaki Noboru</name>
+<name id="4298" type="Original Work">Kajiwara Ikki</name>
+<name id="4140" type="Series Composition">Yamazaki Haruya</name>
+<name id="146" type="Direction">Dezaki Satoshi</name>
+<name id="5725" type="Direction">Nagahama Tadao</name>
+</creators>
+<ratings>
+<permanent count="5">3.72</permanent>
+<temporary count="5">5.40</temporary>
+</ratings>
+<picture>49802.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22457</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17439</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>巨人の星_(アニメ)#.E6.98.A0.E7.94.BB.E7.89.88</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>148216</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>406</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="28" parentid="2881" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-16">
+<name>baseball</name>
+<description>Baseball is like a complicated version of Rounders. It involves hitting a ball with a stick, then running around several bases placed in the form of a diamond on a field. Big in the US, and also in Japan.</description>
+<picurl>29801.jpg</picurl>
+</tag>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="132714" update="2011-08-27">
+<epno type="1">1</epno>
+<length>110</length>
+<airdate>1982-08-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

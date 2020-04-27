@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14406" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2019-07-09</startdate>
+<enddate>2019-07-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Majimoji Rurumo: Kanketsuhen</title>
+<title xml:lang="ja" type="official">まじもじるるも 完結編</title>
+<title xml:lang="en" type="official">Magimoji Rurumo: The Conclusion</title>
+<title xml:lang="zh-Hans" type="official">修业魔女璐璐萌 完结篇</title>
+</titles>
+<relatedanime>
+<anime id="10609" type="Prequel">Majimoji Rurumo</anime>
+</relatedanime>
+<recommendations total="1">
+<recommendation type="Recommended" uid="164713">If you liked main story this OVA is a must see. Pretty interesting plot-wise and nice ending to the whole story. I highly recommend watching TV series before going to this as it is a direct sequel.</recommendation>
+</recommendations>
+<creators>
+<name id="720" type="Animation Work">J.C.Staff</name>
+<name id="2175" type="Character Design">Iwakura Kazunori</name>
+<name id="9747" type="Direction">Sakurai Chikara</name>
+</creators>
+<description>A boy named Kota Shibaki, who suddenly gets a bunch of magical tickets one day. Rurumo, a witch that was demoted to an apprentice witch, uses these tickets as training in the human world, and Kota can use these tickets to grant wishes, which are part of Rurumo’s training. However, the catch is that each ticket that is used shortens Kota’s lifespan, so will he help out Rurumo, even at the expense of his own life?
+Source: crunchyroll
+Note: Bundled with a limited edition of the Majimoji Rurumo: Houkago no Mahou Chuugakusei manga`s ninth volume.</description>
+<ratings>
+<permanent count="99">5.57</permanent>
+<temporary count="101">7.01</temporary>
+</ratings>
+<picture>236021.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38357</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Magimoji_Rurumo</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まじもじるるも</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365627</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>magimoji-rurumo</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="67601" type="main character in" update="2017-08-16">
+<rating votes="25">7.76</rating>
+<name>Rurumo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155962.jpg</picture>
+<seiyuu id="20025" picture="132938.jpg">Mimori Suzuko</seiyuu>
+</character>
+<character id="67604" type="main character in" update="2014-05-26">
+<rating votes="12">3.17</rating>
+<name>Shibaki Kouta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>155964.jpg</picture>
+<seiyuu id="34777" picture="129965.jpg">Takahashi Makoto</seiyuu>
+</character>
+<character id="67605" type="secondary cast in" update="2014-07-28">
+<rating votes="6">5.41</rating>
+<name>Kujirai Tanako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>158668.jpg</picture>
+<seiyuu id="44135" picture="185214.jpg">Suzuki Minori</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="208573" update="2019-07-22">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-07-09</airdate>
+<rating votes="2">8.62</rating>
+<title xml:lang="en">OAD 1</title>
+<summary>Kota learns Rurumo`s witch training will end in 14 days, at which point she will return to the spirit world, regardless of the state of her training. Unable to sacrifice his life for her, he prepares to send her off with a party. However, on the way home, he sees a truck speeding towards a little girl...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787143</identifier>
+<identifier>magimoji-rurumo</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="208574" update="2019-07-22">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2019-07-09</airdate>
+<rating votes="2">9.43</rating>
+<title xml:lang="en">OAD 2</title>
+<summary>Rurumo sneaks into the soul crystal vault in order to steal Kota`s soul crystal and speak to him one last time. However, she is discovered by the first class witches guarding the vault. They are just about to arrest her, when...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>787144</identifier>
+<identifier>magimoji-rurumo</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="218591" update="2019-07-09">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2019-07-09</airdate>
+<rating votes="1">7.77</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

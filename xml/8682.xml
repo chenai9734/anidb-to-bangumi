@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8682" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2004-03-20</startdate>
+<enddate>2004-03-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fuichin-san</title>
+<title xml:lang="ja" type="official">フイチンさん</title>
+</titles>
+<creators>
+<name id="28581" type="Original Work">Ueda Toshiko</name>
+<name id="7767" type="Direction">Koyama Yoshitaka</name>
+<name id="32754" type="Music">Takano Fujio</name>
+<name id="55900" type="Music">Nakamura Souichirou</name>
+</creators>
+<description>* Based on http://anidb.net/cr28581 [Ueda Toshiko]`s shoujo manga.</description>
+<ratings>
+<permanent count="1">6.52</permanent>
+<temporary count="1">7.00</temporary>
+</ratings>
+<picture>60987.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23983</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>フイチンさん#OVA.E4.BD.9C.E5.93.81</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>319831</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1999" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-29">
+<name>tomboy</name>
+<description>A girl who acts and dresses like a boy and enjoys rough, noisy activities traditionally associated with boys.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="133307" update="2011-09-29">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2004-03-20</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

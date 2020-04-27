@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7017" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2008-12-20</startdate>
+<enddate>2008-12-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga! Tamagotchi Uchuu Ichi Happy na Monogatari!?</title>
+<title xml:lang="ja" type="official">映画! たまごっち うちゅーいちハッピーな物語!?</title>
+</titles>
+<relatedanime>
+<anime id="7018" type="Prequel">Eiga de Toujou! Tamagotchi Doki Doki! Uchuu no Maigotchi!?</anime>
+</relatedanime>
+<url>http://tamaeiga.com/</url>
+<creators>
+<name id="727" type="Animation Work">OLM</name>
+<name id="4464" type="Character Design">Ichiishi Sayuri</name>
+<name id="6607" type="Direction">Shimura Jouji</name>
+<name id="4464" type="Chief Animation Direction">Ichiishi Sayuri</name>
+<name id="45243" type="Original Plan">Wiz</name>
+<name id="1051" type="Original Plan">Bandai</name>
+<name id="2019" type="Music">Hamaguchi Shirou</name>
+</creators>
+<ratings>
+<permanent count="2">2.20</permanent>
+<temporary count="2">3.00</temporary>
+</ratings>
+<picture>35214.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>10139</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6517</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tamaeiga.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>たまごっち#.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2238</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>331594</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>10628</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="31572" type="main character in" update="2011-04-26">
+<rating votes="8">5.12</rating>
+<name>Mametchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70562.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="31573" type="secondary cast in" update="2011-04-26">
+<rating votes="6">7.27</rating>
+<name>Memetchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70563.jpg</picture>
+<seiyuu id="253" picture="222833.jpg">Yuzuki Ryouka</seiyuu>
+</character>
+<character id="31574" type="secondary cast in" update="2011-04-26">
+<rating votes="6">7.27</rating>
+<name>Kuchipatchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70564.jpg</picture>
+<seiyuu id="12373" picture="223463.jpg">Yaguchi Asami</seiyuu>
+</character>
+<character id="31583" type="secondary cast in" update="2011-04-27">
+<rating votes="3">3.20</rating>
+<name>ChaMametchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70574.jpg</picture>
+<seiyuu id="2228" picture="21776.jpg">Gibu Yuuko</seiyuu>
+</character>
+<character id="31594" type="secondary cast in" update="2011-04-27">
+<name>Kikitchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70575.jpg</picture>
+<seiyuu id="302" picture="17134.jpg">Takeuchi Junko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="108403" update="2011-10-20">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2008-12-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11775" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2015-11-21</startdate>
+<enddate>2015-11-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kimi no Sumu Machi</title>
+<title xml:lang="ja" type="official">君の棲む街</title>
+<title xml:lang="en" type="official">The town you live in.</title>
+</titles>
+<url>http://www.b-kushoren.com/bungoweek/</url>
+<creators>
+<name id="4255" type="Character Design">Ootsuka Mai</name>
+<name id="720" type="Animation Work">J.C.Staff</name>
+<name id="34231" type="Music">Maruyama Tetsuo</name>
+<name id="48691" type="Direction">Takamatsu Akiko</name>
+</creators>
+<description>Original short animation that aired as part of promotion for the event "Bunkyo+Waseda Bungo Week". The video aims to convey the appeal of Bunkyo and Waseda area in Tokyo.
+Source: MAL</description>
+<ratings>
+<permanent count="45">3.97</permanent>
+<temporary count="45">5.33</temporary>
+</ratings>
+<picture>179358.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32065</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.b-kushoren.com/bungoweek/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354769</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="78461" type="main character in" update="2015-11-20">
+<name>Phoebe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179586.jpg</picture>
+<seiyuu id="2296" picture="189623.jpg">Hayami Saori</seiyuu>
+</character>
+<character id="78462" type="main character in" update="2015-11-20">
+<name>Wagahai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179587.jpg</picture>
+<seiyuu id="34296" picture="225238.jpg">Ishikawa Kaito</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="173276" update="2016-01-15">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2015-11-21</airdate>
+<title xml:lang="en">Special</title>
+</episode>
+</episodes>
+</anime>

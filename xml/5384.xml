@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5384" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1917-05-20</startdate>
+<enddate>1917-05-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Saru to Kani no Gassen</title>
+<title xml:lang="ja" type="official">猿と蟹(サルとカニの合戦)</title>
+</titles>
+<relatedanime>
+<anime id="11507" type="Alternative Setting">Saru Kani Gassen</anime>
+<anime id="11508" type="Alternative Setting">Nihon Mukashibanashi: Sarukani</anime>
+<anime id="11509" type="Alternative Setting">Saru Kani Gassen (1996)</anime>
+</relatedanime>
+<description>A monkey tricks a crab and steals his food. More crabs arrive and begin fighting the monkey.</description>
+<ratings>
+<permanent count="27">2.24</permanent>
+<temporary count="27">3.66</temporary>
+</ratings>
+<picture>132124.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4996</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10742</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="102736" update="2009-05-26">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

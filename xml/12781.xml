@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12781" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2018-01-06</startdate>
+<enddate>2018-03-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sanrio Danshi</title>
+<title xml:lang="ja" type="official">サンリオ男子</title>
+<title xml:lang="en" type="official">Sanrio Boys</title>
+<title xml:lang="ko" type="official">산리오 남자</title>
+<title xml:lang="zh-Hans" type="official">三丽鸥男子</title>
+</titles>
+<url>http://sdan-anime.com/</url>
+<creators>
+<name id="724" type="Animation Work">Studio Pierrot</name>
+<name id="1419" type="Character Design">Nakajima Atsuko</name>
+<name id="6742" type="Series Composition">Aoshima Takashi</name>
+<name id="1288" type="Original Work">Sanrio</name>
+<name id="5806" type="Direction">Kudou Masashi</name>
+<name id="4672" type="Music">Fujita Junpei</name>
+</creators>
+<description>http://anidb.net/ch87444 [Hasegawa Kouta], 17 years old, is a second-year high school student. His days are unremarkable and average when Kouta meets http://anidb.net/ch87441 [Mizuno Yuu], http://anidb.net/ch87440 [Yoshino Shunsuke], http://anidb.net/ch87443 [Nishimiya Ryou], and http://anidb.net/ch87442 [Minamoto Seiichirou], who are fellow students attending Hijirikawa High School. In an instant, Kouta`s average life begins to be awash with sparkling light.
+A tale of a sparkling youth and his encounter with the Sanrio Boys.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="137">3.04</permanent>
+<temporary count="137">5.08</temporary>
+</ratings>
+<picture>206725.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20015</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34839</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://sdan-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Sanrio_Boys</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>サンリオ男子</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4791</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359626</identifier>
+</externalentity>
+<externalentity>
+<identifier>364860</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20780</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>Sdan_Anime</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="87440" type="main character in" update="2017-12-20">
+<rating votes="1">7.68</rating>
+<name>Yoshino Shunsuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211042.jpg</picture>
+<seiyuu id="6077" picture="10491.jpeg">Oosuka Jun</seiyuu>
+</character>
+<character id="87441" type="main character in" update="2017-12-20">
+<rating votes="1">7.68</rating>
+<name>Mizuno Yuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211041.jpg</picture>
+<seiyuu id="36680" picture="153752.jpg">Saitou Souma</seiyuu>
+</character>
+<character id="87442" type="main character in" update="2017-12-20">
+<rating votes="1">7.68</rating>
+<name>Minamoto Seiichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211044.jpg</picture>
+<seiyuu id="38579" picture="225249.jpg">Uchida Yuuma</seiyuu>
+</character>
+<character id="87443" type="main character in" update="2017-12-20">
+<rating votes="1">7.68</rating>
+<name>Nishimiya Ryou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211043.jpg</picture>
+<seiyuu id="39791" picture="153557.jpg">Kagura Hiroyuki</seiyuu>
+</character>
+<character id="87444" type="main character in" update="2018-01-06">
+<rating votes="1">7.68</rating>
+<name>Hasegawa Kouta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211040.jpg</picture>
+<seiyuu id="2575" picture="139952.jpg">Eguchi Takuya</seiyuu>
+</character>
+<character id="92969" type="secondary cast in" update="2017-12-20">
+<name>Tsuchiya Akira</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="444" picture="17329.jpg">Suzuki Chihiro</seiyuu>
+</character>
+<character id="92970" type="secondary cast in" update="2017-12-20">
+<name>Matsuo Tomo</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34070" picture="130103.jpg">Furukawa Makoto</seiyuu>
+</character>
+<character id="92971" type="secondary cast in" update="2017-12-20">
+<name>Machida Yamato</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="63" picture="186695.jpg">Kishio Daisuke</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="194198" update="2018-02-01">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2018-01-27</airdate>
+<rating votes="3">2.99</rating>
+<title xml:lang="ja">ハローフレンズ!</title>
+<title xml:lang="en">Hello Friends!</title>
+<title xml:lang="fr">Hello Friends!</title>
+<title xml:lang="ko">헬로 프렌즈!</title>
+<title xml:lang="x-jat">Hello Friends!</title>
+<summary>Yuu and his little sister Yuri have managed to make up, but now Shunsuke is having trouble! Shunsuke is an ace player on his soccer team, but he seems to have trouble being a team player. What does his past have to do with his distancing himself from others? In the midst of all this, the captain decides to remove Shunsuke from the regulars in order to help teach him a lesson. Unable to participate in practices any longer Shunsuke struggles with his own desperate feelings. Will this be what makes Shunsuke cast aside his beloved Hello Kitty?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759039</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194199" update="2018-01-22">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-01-20</airdate>
+<rating votes="4">4.53</rating>
+<title xml:lang="ja">マイ♪シスター・ブルー</title>
+<title xml:lang="en">My Sister Blue</title>
+<title xml:lang="fr">My Sister Blue</title>
+<title xml:lang="ko">마이♪시스터 블루</title>
+<title xml:lang="x-jat">My Sister Blue</title>
+<summary>Finally able to admit his love of Pompompurin, Kouta feels relieved and has made friends with Yuu and Shunsuke. It turns out that while Yuu may seem flashy and carefree, he`s actually a pretty responsible older brother taking care of his younger sister, Yuri. However, Yuu`s life isn`t quite as easy as it seems. While he does his best to take care of the house and sister while his parents work, Yuri seems to be going through her rebellious phase and nothing Yuu does seems to be good enough. One day, when visiting Yuu while he`s sick, Kouta and Shunsuke accidentally end up in the middle of a fight between Yuu and Yuri. Fed up with his sister`s cruel words, Yuu storms out of the apartment forcing Kouta and Shunsuke to run after their friend to make sure he`s okay.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759037</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194200" update="2018-01-22">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-01-13</airdate>
+<rating votes="4">3.79</rating>
+<title xml:lang="ja">雨上がりのギフトゲート</title>
+<title xml:lang="en">Gift Gate After the Rain</title>
+<title xml:lang="fr">Au Gift Gate après la pluie</title>
+<title xml:lang="ko">비 갠 뒤의 기프트 게이트</title>
+<title xml:lang="x-jat">Ameagari no Gift Get</title>
+<summary>Kouta`s classmates, Mizuno Yuu and Yoshino Shunsuke, reveal that they too love Sanrio characters and are self-professed, "Sanrio Boys". And, much to Kouta`s surprise, they feel no shame in admitting that they like these things! Kouta has a hard time accepting this and tries to avoid a very intense Yuu bent on becoming his friend, but finds himself unable to avoid his new acquaintances. Meanwhile, when Kouta`s stuffed Pompompurin, a beloved token from his deceased grandmother, winds up accidentally being sent off to the recycler he takes off in a desperate search to try and find it. At his wit`s end Kouta is happened upon by Yuu and Shunsuke and wonders why they can admit was he has never been able to.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759035</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194201" update="2018-01-22">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2018-01-06</airdate>
+<rating votes="4">3.14</rating>
+<title xml:lang="ja">はじまりはポムポムプリン</title>
+<title xml:lang="en">It All Started with Pompompurin</title>
+<title xml:lang="fr">Commencement : Pompompurin</title>
+<title xml:lang="ko">처음은 폼폼푸린</title>
+<title xml:lang="x-jat">Hajimari wa Pompom Purin</title>
+<summary>Hasegawa Kouta is a completely average second-year high school student. He feels as though something is missing in his life and that it`s impossible for someone like him to have a shining school life. Then one day, as he`s out with his friends, Kouta encounters a missing little girl and she gives him a Pompompurin sticker for helping her find her mom. This reminds Kouta about how he used to love Pompompurin as a kid, especially because of the giant stuffed Pompompurin his beloved grandmother gave him as a birthday present, but was forced to cast that aside due to peer pressure. However, at school he picks up a lost My Melody keychain and realizes it might belong the very flashy and popular Mizuno Ryu, how is this possible?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759033</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194817" update="2018-04-09">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2018-03-24</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">ともだちの魔法</title>
+<title xml:lang="en">The Magic of Friends</title>
+<title xml:lang="fr">La magie de l`amitié</title>
+<title xml:lang="ko">친구의 마법</title>
+<title xml:lang="x-jat">Tomodachi no Mahou</title>
+<summary>Yuu, Shunsuke, Ryo, and Seiichirou follow after Kouta and the friends have a very frank and passionate exchange. Through this, Kouta finally realizes just how he wants to sparkle. The day of the school festival and the musical finally arrives. Everything is set for the boys to tackle the musical`s performance. Through their performance on stage they the story of how "I" became "we".
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759055</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194818" update="2018-04-09">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2018-03-17</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">IN THE DARK</title>
+<title xml:lang="en">In the Dark</title>
+<title xml:lang="fr">In the dark</title>
+<title xml:lang="ko">In the Dark</title>
+<title xml:lang="x-jat">In the Dark</title>
+<summary>Preparations for the musical are finally on the last part! But Kouta keeps taking on too much and makes mistake after mistake. He tries to make up for each one but it takes a physical toll and he falls ill. Yuu and the others call on those around them to help fill the gap Kouta leaves behind while he`s recovering. When Kouta finally returns he finds that his friends have managed just fine without him. Kouta starts to think that they don`t need him and when Yuu and the others try to figure out what`s wrong he suddenly blows up at them.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759053</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194819" update="2018-03-13">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2018-03-10</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">ゆめ星雲おもいやり星</title>
+<title xml:lang="en">Dream Galaxy, Compassion Planet</title>
+<title xml:lang="fr">Étoile de la gentillesse, Nébuleuse du rêve</title>
+<title xml:lang="ko">꿈성운, 동정별</title>
+<title xml:lang="x-jat">Yume Seiun Omoiyari Hoshi</title>
+<summary>Only one month left until the school festival! All the roles have been decided, but just as their excitement builds, Ryo is suddenly surprised by the return of his father and the shocking news that he and his family will be living in London starting in January. Feeling lost and reluctant to speak with his friends, Ryo begins acting strangely to the degree that Seiichirou, Yuu, and Shunsuke take notice. While the boys stay over at Seiichirou`s house to get some progress done on their production, the four others have planned a special surprise birthday party to hopefully cheer up Ryo.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759051</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194820" update="2018-03-13">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2018-03-03</airdate>
+<rating votes="2">3.97</rating>
+<title xml:lang="ja">男子`sバケーション</title>
+<title xml:lang="en">The Boys` Vacation!</title>
+<title xml:lang="fr">Les vacances des Boys</title>
+<title xml:lang="ko">남자`s Vacation!</title>
+<title xml:lang="x-jat">Danshi`s Vacation</title>
+<summary>Having settled on Kouta`s idea of putting on a musical, the boys go off on a training camp retreat to Seiichirou`s family`s vacation home in order to plan. However, despite a valiant effort and being complete amateurs with no theater experience the boys are at a loss. In such times it is important to refresh oneself and so the boys indulge in the fun of the beach. At night the weather takes a sudden turn and a huge rainstorm blows through knocking out the power. While the other boys are able to sleep Kouta finds himself frighteninly alone in the darkened vacation home.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759049</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194821" update="2018-03-13">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2018-02-24</airdate>
+<rating votes="2">3.97</rating>
+<title xml:lang="ja">キラキラ狂想曲</title>
+<title xml:lang="en">Sparkling Rhapsody</title>
+<title xml:lang="fr">Rhapsodie resplendissante</title>
+<title xml:lang="ko">반짝반짝 광상곡</title>
+<title xml:lang="x-jat">Kirakira Kyousoukyoku</title>
+<summary>"I want to sparkle too!" Kouta declares his desire to his friends, but he doesn`t know exactly how he wants to achieve this and so he consults with his friends. He tries joining the soccer team with Shunsuke, being a library assistant with Ryo, observing the archery club with Seiichirou, and making food with Yuu, but nothing seems to go right. With failure after failure Kouta finally comes to a conclusion. Just what has he decided?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759047</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194822" update="2018-03-13">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2018-02-17</airdate>
+<rating votes="2">2.74</rating>
+<title xml:lang="ja">ミラクルなホリデー</title>
+<title xml:lang="en">Miraculous Holiday</title>
+<title xml:lang="fr">Les vacances miraculeuses</title>
+<title xml:lang="ko">기적의 홀리데이</title>
+<title xml:lang="x-jat">Miracle na Holiday</title>
+<summary>The five members of the Sanrio Boys--Kouta, Yuu, Shunsuke, Ryo, and Seiichirou--are all together! With the boys finally able to openly admit their love of Sanrio characters they are able to spend their days together overflowing with happiness. In order to deepend their bond, Seiichirou is their guide on a special trip to Puroland. As they watch the sparkling Miracle Parade Kouta finally finds what he wants to do!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759045</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194823" update="2018-03-13">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2018-02-10</airdate>
+<rating votes="2">1.89</rating>
+<title xml:lang="ja">遠いお空の雲の上</title>
+<title xml:lang="en">Above the Distant Clouds</title>
+<title xml:lang="fr">Au-dessus des nuages, dans le ciel lointain</title>
+<title xml:lang="ko">먼 하늘의 구름 위</title>
+<title xml:lang="x-jat">Tooi Osora no Kumo no Ue</title>
+<summary>Just as Seiichirou seems to have made progress with Ryo, the younger boy discovers Seiichirou`s annual Puroland pass and confronts him outraged at his betrayal. Seiichirou persists in his mission and visits Ryo at his home to try and speak with him but his efforts seem in vain. However, eventually the pressure and weight of his regular student council and archery club responsibilities, combined with his efforts to work thinks out with Ryo eventually become too much and Seiichirou collapses suddenly. What will this mean for the other boys?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759043</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194824" update="2018-03-13">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2018-02-03</airdate>
+<rating votes="2">2.74</rating>
+<title xml:lang="ja">壊れたバラ色雲</title>
+<title xml:lang="en">Broken Rose-Colored Clouds</title>
+<title xml:lang="fr">Les nuages roses brisés</title>
+<title xml:lang="ko">부서진 장밋빛 구름</title>
+<title xml:lang="x-jat">Kowareta Barairo Kumo</title>
+<summary>With Shunsuke having overcome his troubles with his teammates, the bond between Kouta, Yuu, and Shunsuke grows deeper. As the three young men avidly discuss their shared interest in Sanrio one day in the library, they are suddenly confronted by an angry underclass student enraged by their behavior. Student council president Seiichirou manages to intercede on the incident and prevent a fight between Yuu and the underclass student, Ryo, but then makes it his personal mission to mediate a peace between both parties.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759041</identifier>
+<identifier>sanrio-boys</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202594" update="2018-07-07">
+<epno type="2">S7</epno>
+<length>0</length>
+<airdate>2018-08-15</airdate>
+<title xml:lang="ja">祭のあとの男子</title>
+<title xml:lang="en">Original Short Anime 7</title>
+<title xml:lang="x-jat">Matsuri no Ato no Danshi</title>
+</episode>
+<episode id="202595" update="2018-07-07">
+<epno type="2">S6</epno>
+<length>0</length>
+<airdate>2018-07-18</airdate>
+<title xml:lang="ja">燃え上がる男子</title>
+<title xml:lang="en">Original Short Anime 6</title>
+<title xml:lang="x-jat">Moeagaru Danshi</title>
+</episode>
+<episode id="202596" update="2018-07-07">
+<epno type="2">S5</epno>
+<length>0</length>
+<airdate>2018-06-20</airdate>
+<title xml:lang="ja">見てしまった男子</title>
+<title xml:lang="en">Original Short Anime 5</title>
+<title xml:lang="x-jat">Miteshimatta Danshi</title>
+</episode>
+<episode id="202597" update="2018-07-07">
+<epno type="2">S4</epno>
+<length>0</length>
+<airdate>2018-05-16</airdate>
+<title xml:lang="ja">LINE男子</title>
+<title xml:lang="en">Original Short Anime 4</title>
+<title xml:lang="x-jat">Line Danshi</title>
+</episode>
+<episode id="202598" update="2018-07-07">
+<epno type="2">S3</epno>
+<length>0</length>
+<airdate>2018-04-18</airdate>
+<title xml:lang="ja">Ｓレア男子</title>
+<title xml:lang="en">Original Short Anime 3</title>
+<title xml:lang="x-jat">S Rare Danshi</title>
+</episode>
+<episode id="202599" update="2018-07-07">
+<epno type="2">S2</epno>
+<length>0</length>
+<airdate>2018-03-21</airdate>
+<title xml:lang="ja">奥ゆかしい男子</title>
+<title xml:lang="en">Original Short Anime 2</title>
+<title xml:lang="x-jat">Okuyukashii Danshii</title>
+</episode>
+<episode id="202600" update="2018-07-07">
+<epno type="2">S1</epno>
+<length>0</length>
+<airdate>2018-03-21</airdate>
+<title xml:lang="ja">はじめてのおつかい男子 / 奥ゆかしい男子</title>
+<title xml:lang="en">Original Short Anime 1</title>
+<title xml:lang="x-jat">Hajimete no Otsukai Danshi</title>
+</episode>
+<episode id="218988" update="2019-07-24">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2018-01-20</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="218989" update="2019-07-24">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2018-01-06</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

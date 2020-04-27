@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14195" restricted="false">
+<type>Web</type>
+<episodecount>6</episodecount>
+<startdate>2018-07-01</startdate>
+<enddate>2018-07-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dies Irae (2018)</title>
+<title xml:lang="ja" type="official">Dies irae (2018)</title>
+</titles>
+<relatedanime>
+<anime id="11204" type="Prequel">Dies Irae</anime>
+</relatedanime>
+<url>http://diesirae-anime.com/</url>
+<description>http://anidb.net/ch78967 [Fujii Ren] is a normal student who just had a fistfight with his former best friend, leading him to break off their friendship. But with the help of his childhood friend, http://anidb.net/ch88459 [Ayase Kasumi], and upperclassman, http://anidb.net/ch78966 [Himuro Rea], he`s gradually returning to his normal school life.
+Then a series of brutal murders in which the victims are decapitated begins to strike their city. Strangely, at the same time, Ren starts to have terrifying nightmares of being beheaded by a guillotine. But these are just a prelude to the painful and terrifying battles to come.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="103">2.09</permanent>
+<temporary count="107">4.62</temporary>
+</ratings>
+<picture>221264.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21103</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36515</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://diesirae-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4727</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>dies-irae</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07H2M85XX</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6850" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2020-03-13">
+<name>STAFF MISSING</name>
+<description>This anime is missing staff credits. If you can, please assign staff credits to the anime accordingly and then remove the tag.
+If the tag is set on an anime level, please assign preferably all credits and then remove it from the anime. If that is not feasible, please assign, at a minimum, credits for all the major/key staff and then transfer it to all relevant episodes (broadly speaking, regular episodes and S-type episodes containing animation). If the tag is already set on an episode level, please assign all credits, including minor staff, to the episode and then remove the tag from it.
+Likewise, this tag should either be applied on an anime level, when it is missing key staff (in full or in part), or to all relevant episodes, when key staff is present but at least some episodes don`t have full staff.
+For further information on assigning staff credits, please see http://wiki.anidb.net/Content:Staff_Credits [the AniDB Wiki article on them].</description>
+</tag>
+</tags>
+<characters>
+<character id="78951" type="secondary cast in" update="2018-04-28">
+<rating votes="2">2.91</rating>
+<name>Isaak</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>216856.jpg</picture>
+<seiyuu id="55" picture="33603.jpg">Nabatame Hitomi</seiyuu>
+</character>
+<character id="78952" type="secondary cast in" update="2017-10-06">
+<rating votes="2">1.22</rating>
+<name>Wolfgang Schreiber</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207973.jpg</picture>
+<seiyuu id="4707" picture="27477.jpg">Tamaki Yuuki</seiyuu>
+</character>
+<character id="78953" type="secondary cast in" update="2017-10-06">
+<rating votes="5">4.55</rating>
+<name>Eleonore von Wittenburg</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207975.jpg</picture>
+<seiyuu id="12373" picture="223463.jpg">Yaguchi Asami</seiyuu>
+</character>
+<character id="78954" type="secondary cast in" update="2017-10-06">
+<rating votes="1">1.38</rating>
+<name>Goetz von Berlichingen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207974.jpg</picture>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+<character id="78957" type="main character in" update="2017-10-06">
+<rating votes="11">5.30</rating>
+<name>Marie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207962.jpg</picture>
+<seiyuu id="1666" picture="54036.jpg">Sakakibara Yui</seiyuu>
+</character>
+<character id="78958" type="secondary cast in" update="2017-10-06">
+<rating votes="4">3.33</rating>
+<name>Mercurius</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207972.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="78959" type="secondary cast in" update="2017-10-10">
+<rating votes="3">2.41</rating>
+<name>Reinhard Heydrich</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207971.jpg</picture>
+<seiyuu id="200" picture="17015.jpg">Suwabe Jun`ichi</seiyuu>
+</character>
+<character id="78960" type="secondary cast in" update="2017-10-06">
+<rating votes="8">6.51</rating>
+<name>Riza Brenner</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207969.jpg</picture>
+<seiyuu id="32193" picture="86109.jpg">Habuki Risato</seiyuu>
+</character>
+<character id="78961" type="secondary cast in" update="2017-10-06">
+<rating votes="9">6.90</rating>
+<name>Rusalka Schwagerin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207968.jpg</picture>
+<seiyuu id="19679" picture="207991.jpg">Inokuchi Yuka</seiyuu>
+</character>
+<character id="78962" type="secondary cast in" update="2017-10-06">
+<rating votes="2">2.31</rating>
+<name>Valeria Trifa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207966.jpg</picture>
+<seiyuu id="387" picture="17233.jpg">Narita Ken</seiyuu>
+</character>
+<character id="78963" type="secondary cast in" update="2017-10-06">
+<rating votes="2">3.15</rating>
+<name>Wilhelm Ehrenburg</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207967.jpg</picture>
+<seiyuu id="181" picture="171560.jpg">Taniyama Kishou</seiyuu>
+</character>
+<character id="78964" type="secondary cast in" update="2018-04-28">
+<rating votes="3">4.31</rating>
+<name>Honjou Erii</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>216855.jpg</picture>
+<seiyuu id="17529" picture="3231.gif">Makino Yoshina</seiyuu>
+</character>
+<character id="78965" type="secondary cast in" update="2017-10-06">
+<rating votes="7">6.92</rating>
+<name>Sakurai Kei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207964.jpg</picture>
+<seiyuu id="13796" picture="172018.jpg">Mizusawa Kei</seiyuu>
+</character>
+<character id="78966" type="secondary cast in" update="2017-10-06">
+<rating votes="9">6.02</rating>
+<name>Himuro Rea</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207963.jpg</picture>
+<seiyuu id="55" picture="33603.jpg">Nabatame Hitomi</seiyuu>
+</character>
+<character id="78967" type="main character in" update="2017-10-06">
+<rating votes="4">2.80</rating>
+<name>Fujii Ren</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207960.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="78968" type="secondary cast in" update="2017-10-06">
+<rating votes="1">6.40</rating>
+<name>Yusa Shirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207965.jpg</picture>
+<seiyuu id="76" picture="16684.jpg">Maeda Takeshi</seiyuu>
+</character>
+<character id="88459" type="secondary cast in" update="2017-10-06">
+<rating votes="11">6.06</rating>
+<name>Ayase Kasumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>207961.jpg</picture>
+<seiyuu id="36617" picture="228872.jpg">Fukuhara Ayaka</seiyuu>
+</character>
+<character id="95249" type="secondary cast in" update="2018-04-28">
+<name>Tubal Cain</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>216859.jpg</picture>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="202513" update="2018-07-07">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2018-07-01</airdate>
+<title xml:lang="ja">新世界へ</title>
+<title xml:lang="en">To the New World</title>
+<title xml:lang="fr">Vers un nouveau monde</title>
+<title xml:lang="x-jat">Shinsekai e</title>
+<summary>A new world is about to begin as the four masters of the Atziluth gather on the golden shore to decide whose law shall reign.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774532</identifier>
+<identifier>dies-irae</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202514" update="2018-07-07">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2018-07-01</airdate>
+<title xml:lang="ja">時よ止まれ</title>
+<title xml:lang="en">Verweile Doch</title>
+<title xml:lang="fr">Ô temps, suspens-toi</title>
+<title xml:lang="x-jat">Toki yo Tomare</title>
+<summary>The last battle against Reinhard and the Black Round Table heads for its final conclusion, with the fate of the world in the balance.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774531</identifier>
+<identifier>dies-irae</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202515" update="2018-07-07">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2018-07-01</airdate>
+<title xml:lang="ja">ヴァルハラ流出</title>
+<title xml:lang="en">Valhalla Emanation</title>
+<title xml:lang="fr">L`extraction du Valhalla</title>
+<title xml:lang="x-jat">Valhalla Ryuushutsu</title>
+<summary>Shiro and Sakurai battle the surviving lieutenants of the Black Round Table, while Heydrich leaves to prepare for a final encounter.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774530</identifier>
+<identifier>dies-irae</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202516" update="2019-05-19">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2018-07-01</airdate>
+<title xml:lang="ja">黄金錬成</title>
+<title xml:lang="en">Golden Alchemy</title>
+<title xml:lang="fr">La grande œuvre</title>
+<title xml:lang="x-jat">Ougon Rensei</title>
+<summary>Heydrich begins his holy war, and puts his plan to turn the world into Valhalla into action.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774529</identifier>
+<identifier>dies-irae</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202517" update="2019-05-19">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2018-07-01</airdate>
+<title xml:lang="ja">修羅道至高天[グラズヘイム]</title>
+<title xml:lang="en">Gladsheim</title>
+<title xml:lang="fr">Le Gladsheim</title>
+<title xml:lang="x-jat">Gladsheim</title>
+<summary>The secrets behind the Grail`s birth and its powers are revealed, as the protagonist`s plan falls apart in the face of the enemy`s overwhelming power.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774394</identifier>
+<identifier>dies-irae</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="202518" update="2019-05-19">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2018-07-01</airdate>
+<title xml:lang="ja">流出位階</title>
+<title xml:lang="en">Emanation Level</title>
+<title xml:lang="fr">L`extraction</title>
+<title xml:lang="x-jat">Ryuushutsu Ikai</title>
+<summary>The mysteries behind Lord Heydrich`s plan, and the highest, most hidden level of magic, are revealed.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>774393</identifier>
+<identifier>dies-irae</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

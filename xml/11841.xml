@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11841" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2016-02-24</startdate>
+<enddate>2016-02-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yes! Bang Dream!</title>
+<title xml:lang="ja" type="official">Yes! BanG_Dream!</title>
+</titles>
+<relatedanime>
+<anime id="12262" type="Other">Bang Dream!</anime>
+</relatedanime>
+<url>http://bang-dream.com/</url>
+<description>An anime music video for Yes! BanG_Dream!, the debut single of the Bushiroad project`s Poppin` Party band.</description>
+<ratings>
+<permanent count="62">4.40</permanent>
+<temporary count="62">5.54</temporary>
+</ratings>
+<picture>180380.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32338</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://bang-dream.com/</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="173873" update="2016-07-09">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2016-02-24</airdate>
+<rating votes="2">6.47</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+<episode id="176856" update="2016-04-12">
+<epno type="4">T1</epno>
+<length>0</length>
+<airdate>2015-12-13</airdate>
+<title xml:lang="ja">BanG Dream!「Yes! BanG_Dream!」アニメーションミュージックビデオ・ショートバージョン</title>
+<title xml:lang="en">Episode T1</title>
+<title xml:lang="x-jat">BanG Dream! "Yes! BanG_Dream!" Animation Music Video: Short Version</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12874" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1933</startdate>
+<enddate>1933</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hyakunengo no Aru Hi</title>
+<title xml:lang="en" type="synonym">A Day After a Hundred Years</title>
+<title xml:lang="ja" type="official">百年後の或る日</title>
+</titles>
+<creators>
+<name id="50343" type="Direction">Ogino Shigeji</name>
+</creators>
+<ratings>
+<permanent count="21">3.68</permanent>
+<temporary count="21">4.19</temporary>
+</ratings>
+<picture>198728.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35401</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184951" update="2017-02-22">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

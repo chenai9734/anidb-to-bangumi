@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13643" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2017-12-31</startdate>
+<enddate>2017-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fate/Grand Order: Moonlight/Lostroom</title>
+<title xml:lang="x-jat" type="synonym">FGO Moonlight/Lostroom</title>
+<title xml:lang="ja" type="official">Fate/Grand Order -MOONLIGHT/LOSTROOM-</title>
+<title xml:lang="en" type="official">Fate/Grand Order: Moonlight/Lostroom</title>
+<title xml:lang="zh-Hans" type="official">Fate/Grand Order -MOONLIGHT/LOSTROOM-</title>
+</titles>
+<relatedanime>
+<anime id="15461" type="Prequel">Fate/Grand Order: Shuukyoku Tokuiten - Kan`i Jikan Shinden Solomon</anime>
+</relatedanime>
+<url>https://anime.fate-go.jp/mllr/</url>
+<creators>
+<name id="42709" type="Work">Lay-duce</name>
+<name id="927" type="Original Work">Type-Moon</name>
+<name id="27375" type="Direction">Tsukada Takurou</name>
+<name id="5732" type="Chief Direction">Nanba Hitoshi</name>
+</creators>
+<description>* Based on the Prologue to Arc 2.0 of Fate/Grand Order, the Japanese smartphone role-playing game created by http://anidb.net/cr58840 [Delight Works] based on the Fate series by http://anidb.net/cr927 [Type-Moon].
+The Lostroom. A place where you can see what was lost, or maybe what will be lost to you in time. Existing in the innermost part of Chaldea, it is the boundary line between dream and reality where the light of the Moon shines through. Produced by the Chaldea Summoning System, the room holds a small number of worthwhile benefits to enjoy.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="250">2.98</permanent>
+<temporary count="253">5.47</temporary>
+</ratings>
+<picture>242710.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20498</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36915</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://anime.fate-go.jp/mllr/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>362715</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>21735</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>fategrand-order-moonlightlostroom-</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+</tags>
+<characters>
+<character id="85946" type="main character in" update="2016-12-15">
+<rating votes="36">4.29</rating>
+<name>Olgamally Animusphere</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195897.jpg</picture>
+<seiyuu id="1961" picture="222838.jpg">Yonezawa Madoka</seiyuu>
+</character>
+<character id="85948" type="main character in" update="2016-11-02">
+<rating votes="56">5.36</rating>
+<name>Mash Kyrielight</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193951.jpg</picture>
+<seiyuu id="38380" picture="224406.jpg">Takahashi Rie</seiyuu>
+</character>
+<character id="85952" type="secondary cast in" update="2016-12-15">
+<rating votes="6">2.35</rating>
+<name>Lev Lainur</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195895.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="85953" type="secondary cast in" update="2016-12-15">
+<rating votes="9">4.65</rating>
+<name>Romani Archaman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195896.jpg</picture>
+<seiyuu id="191" picture="17006.jpg">Suzumura Ken`ichi</seiyuu>
+</character>
+<character id="85954" type="main character in" update="2016-11-02">
+<rating votes="31">1.64</rating>
+<name>Fujimaru Ritsuka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193981.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="92746" type="appears in" update="2018-02-19">
+<rating votes="12">6.93</rating>
+<name>Saber Alter</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Saber Alter is what becomes of http://anidb.net/ch38 [Saber] after being consumed by evil. This version of Saber appears in the Fate/Grand Order video game.</description>
+<picture>210615.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="193704" update="2020-01-12">
+<epno type="1">1</epno>
+<length>35</length>
+<airdate>2017-12-31</airdate>
+<rating votes="2">1.61</rating>
+<title xml:lang="en">TV Special</title>
+<summary>The Lostroom. A place where you can see what was lost, or maybe what will be lost to you in time. Existing in the innermost part of Chaldea, it is the boundary line between dream and reality where the light of the Moon shines through. Produced by the Chaldea Summoning System, the room holds a small number of worthwhile benefits to enjoy.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>792232</identifier>
+<identifier>fategrand-order-moonlightlostroom-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="224577" update="2020-01-13">
+<epno type="2">S1</epno>
+<length>2</length>
+<airdate>2018-12-26</airdate>
+<title xml:lang="en">Fate/Grand Order: Cosmos in the Lostbelt Opening</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7345" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1969-02-02</startdate>
+<enddate>1969-02-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaitei Toshi no Dekiru Made</title>
+<title xml:lang="ja" type="synonym">海底都市のできるまで</title>
+<title xml:lang="ja" type="official">海底都市の出来るまで</title>
+</titles>
+<url>http://tezukaosamu.net/jp/anime/54.html</url>
+<creators>
+<name id="1195" type="Original Plan">Tezuka Osamu</name>
+<name id="812" type="Work">Nippon Television Network</name>
+<name id="833" type="Work">Mushi Production</name>
+<name id="7125" type="Music">Yamashita Takeo</name>
+</creators>
+<ratings>
+<permanent count="2">5.65</permanent>
+<temporary count="2">4.50</temporary>
+</ratings>
+<picture>42261.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3315</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>21551</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tezukaosamu.net/jp/anime/54.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234403</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>a005</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="113829" update="2010-01-31">
+<epno type="1">1</epno>
+<length>45</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

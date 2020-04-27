@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11870" restricted="false">
+<type>Other</type>
+<episodecount>5</episodecount>
+<startdate>2015-02-23</startdate>
+<enddate>2015-12-14</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dededen</title>
+<title xml:lang="ja" type="official">でででん</title>
+</titles>
+<description>The studio TMS Entertainment collaborated with Seibu Railways on the new original anime Dededen. The anime celebrates both the 50th anniversary of TMS Entertainment and the 100th anniversary of Seibu Railways. TMS Entertainment happens to be located near the Araiyakushimae Station on the Seibu Shinjuku Line.
+The anime followed the daily life of the main lead Amoru Tokorozawa and the railway. TMS plans to make five episodes, each 75 seconds long. It is running on the train`s onboard SmileVision screens, as well as on the Smile StationVision screens around major stations from February 23 to December 31.
+Source: ANN</description>
+<ratings>
+<permanent count="33">5.38</permanent>
+<temporary count="33">5.56</temporary>
+</ratings>
+<picture>181152.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30289</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2857" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="178016" update="2016-06-11">
+<epno type="1">5</epno>
+<length>2</length>
+<airdate>2015-12-14</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="178017" update="2016-06-11">
+<epno type="1">4</epno>
+<length>2</length>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="178018" update="2016-06-11">
+<epno type="1">3</epno>
+<length>2</length>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="178019" update="2016-06-11">
+<epno type="1">2</epno>
+<length>2</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="178020" update="2016-06-11">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2015-02-23</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

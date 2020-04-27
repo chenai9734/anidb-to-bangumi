@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11427" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2012</startdate>
+<enddate>2012</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Red Colored Bridge</title>
+<title xml:lang="ja" type="official">赤い太鼓橋</title>
+</titles>
+<ratings>
+<permanent count="69">1.88</permanent>
+<temporary count="73">3.30</temporary>
+</ratings>
+<picture>63049.png</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28657</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170289" update="2015-07-27">
+<epno type="1">1</epno>
+<length>6</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

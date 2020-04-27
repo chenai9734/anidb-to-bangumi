@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10215" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1996-06-29</startdate>
+<enddate>1996-06-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hamuko Mairu!</title>
+<title xml:lang="ja" type="official">はむこ参る!</title>
+</titles>
+<creators>
+<name id="9340" type="Original Work">Amako Soubee</name>
+<name id="4316" type="Direction">Yasumi Tetsuo</name>
+<name id="4287" type="Music">Makaino Kouji</name>
+</creators>
+<ratings>
+<permanent count="4">3.05</permanent>
+<temporary count="4">4.00</temporary>
+</ratings>
+<picture>144664.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19463</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3290</identifier>
+<identifier>mftsnt</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>152904</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3961</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="155218" update="2013-10-22">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1996-06-29</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

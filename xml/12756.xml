@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12756" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-01-26</startdate>
+<enddate>2017-01-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sakura Internet</title>
+<title xml:lang="ja" type="synonym">さくらインターネット 新生</title>
+<title xml:lang="ja" type="synonym">さくらインターネット新生</title>
+<title xml:lang="x-jat" type="synonym">Sakura Internet Shinsei</title>
+<title xml:lang="ja" type="official">SAKURA internet</title>
+</titles>
+<url>https://www.sakura.ad.jp/20th/anime/</url>
+<creators>
+<name id="1555" type="Animation Work">White Fox</name>
+<name id="28638" type="Chief Animation Direction">Ikariya Atsushi</name>
+</creators>
+<description>The Internet service provider Sakura Internet is celebrating its 20 year anniversary with a one episode anime focused on themes of change and challenge.
+Freelancer http://anidb.net/ch87863 [Touno Kouhei], office lady http://anidb.net/ch87862 [Hamada Saori], and graphic designer http://anidb.net/ch87864 [Ginji] realize that they`re not content in their current jobs, and break free to pursue their dreams - as a musician, a photographer, and an artist, respectively.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="55">3.57</permanent>
+<temporary count="55">5.63</temporary>
+</ratings>
+<picture>197396.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23041</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34818</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.sakura.ad.jp/20th/anime/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359540</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="87862" type="main character in" update="2017-02-23">
+<name>Hamada Saori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198757.jpg</picture>
+<seiyuu id="21013" picture="201781.jpg">Minase Inori</seiyuu>
+</character>
+<character id="87863" type="main character in" update="2017-02-23">
+<name>Touno Kouhei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198758.jpg</picture>
+<seiyuu id="644" picture="205640.jpg">Suzuki Tatsuhisa</seiyuu>
+</character>
+<character id="87864" type="main character in" update="2017-02-23">
+<name>Outomo Ginji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198759.jpg</picture>
+<seiyuu id="567" picture="80605.jpg">Asanuma Shintarou</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="184066" update="2017-01-26">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2017-01-26</airdate>
+<rating votes="2">4.92</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

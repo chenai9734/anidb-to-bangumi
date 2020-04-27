@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11294" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-10-24</startdate>
+<enddate>2015-10-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tobidasu PriPara: Minna de Mezase! Idol Grand Prix</title>
+<title xml:lang="ja" type="official">とびだすプリパラ み~んなでめざせ!アイドル☆グランプリ</title>
+<title xml:lang="zh-Hans" type="official">崭露头角 美妙天堂 剧场版:大家来争夺!偶像☆大奖赛</title>
+</titles>
+<relatedanime>
+<anime id="10515" type="Other">PriPara</anime>
+</relatedanime>
+<url>http://pp-movie.com/</url>
+<creators>
+<name id="35981" type="Work">10 Gauge</name>
+<name id="2720" type="Work">Q-tec</name>
+<name id="30409" type="Original Work">Takara Tomy A.R.T.S</name>
+<name id="25476" type="Original Work">Syn Sophia</name>
+<name id="36242" type="Direction">Yoda Nobutaka</name>
+</creators>
+<ratings>
+<permanent count="4">5.36</permanent>
+<temporary count="4">6.50</temporary>
+</ratings>
+<picture>176338.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17553</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31055</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://pp-movie.com/02/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>353319</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170809" update="2015-12-12">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2015-10-24</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

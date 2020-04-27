@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13367" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2004</startdate>
+<enddate>2004</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kodomo no Kaiten no Koto</title>
+<title xml:lang="en" type="synonym">The Thing of Rotation of a Child</title>
+<title xml:lang="ja" type="official">子供の廻転の事</title>
+</titles>
+<description>For whom does a girl keep rotating? A story of a weird relationship between a child and adults.
+Source: Official website</description>
+<ratings>
+<permanent count="23">2.15</permanent>
+<temporary count="23">3.50</temporary>
+</ratings>
+<picture>205884.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29908</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://kankaku.jp/independent-en/rotation.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="192508" update="2017-11-03">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

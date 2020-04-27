@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5097" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2007-12-22</startdate>
+<enddate>2007-12-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Cinnamon the Movie</title>
+<title xml:lang="vi" type="synonym">Cinnamon the Movie: Câu chuyện của chú chuột</title>
+<title xml:lang="ja" type="official">シナモン the Movie</title>
+</titles>
+<relatedanime>
+<anime id="5397" type="Other">Nezumi Monogatari: George to Gerald no Bouken</anime>
+</relatedanime>
+<url>http://sanriomovie.com/</url>
+<creators>
+<name id="3665" type="Direction">Sugii Gisaburou</name>
+<name id="680" type="Music">Hattori Takayuki</name>
+<name id="731" type="Animation Work">Madhouse</name>
+<name id="4306" type="Character Design">Eguchi Marisuke</name>
+<name id="4306" type="Chief Animation Direction">Eguchi Marisuke</name>
+<name id="23936" type="Original Plan">Seki Chisato</name>
+<name id="27924" type="Character Design">Okumura Miyuki</name>
+<name id="51353" type="Character Design">Yamaguchi Yuuko</name>
+</creators>
+<description>Mocha, Chiffon, Cappuccino, Espresso, and Milk go with Cinnamoroll in this adventure of a lifetime. Join them in their quest, meeting new friends like Anna (the girl who found Cinnamoroll/Cinnamon) and discovering new places like the Forest of Pastries and Bread and the Coffee Waterfalls.</description>
+<ratings>
+<permanent count="25">5.14</permanent>
+<temporary count="26">5.80</temporary>
+</ratings>
+<picture>36658.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7896</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5848</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://sanriomovie.com/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Cinnamoroll</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>シナモン_the_movie#.E6.98.A0.E7.94.BB</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>328491</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>9488</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="94807" update="2008-11-04">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>2007-12-22</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="182232" update="2016-11-18">
+<epno type="2">S2</epno>
+<length>5</length>
+<title xml:lang="en">Episode S2</title>
+</episode>
+<episode id="182233" update="2016-11-18">
+<epno type="2">S1</epno>
+<length>7</length>
+<title xml:lang="en">Episode S1</title>
+</episode>
+<episode id="188070" update="2018-01-23">
+<epno type="2">S3</epno>
+<length>15</length>
+<title xml:lang="en">Cinnamon Making</title>
+</episode>
+</episodes>
+</anime>

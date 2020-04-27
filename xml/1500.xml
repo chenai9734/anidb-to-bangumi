@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1500" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1991-04-01</startdate>
+<enddate>1991-04-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anime Koukyoushi: Jungle Taitei</title>
+<title xml:lang="en" type="synonym">Symphonic Poem: Jungle Emperor Leo</title>
+<title xml:lang="en" type="synonym">Jungle Emperor: The Symphonic Poem Film</title>
+<title xml:lang="ja" type="official">アニメ交響詩 ジャングル大帝</title>
+</titles>
+<relatedanime>
+<anime id="6652" type="Alternative Setting">Jungle Taitei: Yuuki ga Mirai o Kaeru</anime>
+<anime id="1496" type="Other">Jungle Taitei</anime>
+</relatedanime>
+<creators>
+<name id="1195" type="Original Work">Tezuka Osamu</name>
+<name id="3308" type="Direction">Hirata Toshio</name>
+<name id="4308" type="Series Composition">Tashiro Atsumi</name>
+<name id="15912" type="Series Composition">Yamamoto Eiichi</name>
+</creators>
+<description>Actually, that 1991 date is misleading. The Symphonic Poem originated with the music Isao Tomita wrote for Jungle Emperor in 1965. He re-worked his music into a long form which tells a story by itself. (This form of music was termed "symphonic poem" or "tone poem" by composers in the late Romantic era.) So music that was written originally to enhance visual story telling became the story teller.
+Tomita`s symphonic poem was recorded in the mid-60s and issued on LP in Japan. More than once, in fact. It has also been on CD more than once.
+In 1991, Tezuka Productions turned the process upside down and created new animation to illustrate the symphonic poem. The story is basically that of the first Kimba episode. We see the peaceful animal kingdom under Panja, the coming of the hunters, Eliza`s capture and Panja`s death. Kimba is born and escapes back to Africa. All this told without a single word spoken. The style of the Symphonic Poem`s animation is unique. It draws heavily on the style of the 1989 TV series, but Kimba looks different from the way he looked in any other production.
+Source: http://www.kimbawlion.com/verspage.htm</description>
+<ratings>
+<permanent count="17">4.77</permanent>
+<temporary count="17">5.88</temporary>
+</ratings>
+<picture>10670.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4458</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>13047</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234418</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7268</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2835" parentid="2630" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-06">
+<name>Africa</name>
+<description>The world`s second-largest continent and the birthplace of the human species, Africa is a place of a huge diversity, with deserts and savannas, with famine and precious stones, with cultural and economical riches of all kinds. Throughout history, Africa has been the cradle of empires and has been ruled by foreign powers, and as of the early 21st century sees swift changes and economic boom going side by side with inhuman levels of poverty.</description>
+<picurl>126530.jpg</picurl>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="53709" update="2010-03-12">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1991-04-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

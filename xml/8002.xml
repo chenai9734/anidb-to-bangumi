@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8002" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2008-03-10</startdate>
+<enddate>2008-03-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Taropicana</title>
+<title xml:lang="ja" type="official">タロピカーナ</title>
+</titles>
+<url>http://www.anime-innovation.jp/sys/works.php?itemid=42</url>
+<description>Killed by a landmine, a soul of a young peasant Taro rose up to the celestial world where he found love with an angelic beauty. Reincarnated without losing the memory of his previous life, one day Taro meets a girl with a striking resemblance of his celestial lover... and this coincidence throws Taro`s fate into a completely different path altogether... The first Masalanimation ever, an exotic mix of animation with Masala flavour!</description>
+<picture>55762.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15454</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.anime-innovation.jp/sys/works.php?itemid=42</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.anime-innovation.jp/sys/works_en.php?itemid=47</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="122805" update="2010-10-01">
+<epno type="4">T1</epno>
+<length>2</length>
+<airdate>2009-02-05</airdate>
+<title xml:lang="en">Trailer</title>
+</episode>
+<episode id="122811" update="2010-11-11">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2008-03-10</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

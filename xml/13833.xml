@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13833" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2012-03-28</startdate>
+<enddate>2012-03-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Lupin III 3DCG</title>
+<title xml:lang="en" type="synonym">Lupin the 3rd Pilot 3</title>
+<title xml:lang="ja" type="official">ルパン三世 3DCG</title>
+</titles>
+<relatedanime>
+<anime id="421" type="Parent Story">Lupin Sansei</anime>
+</relatedanime>
+<description>Pilot for a hypothetical Lupin 3DCG project included with the 40th anniversary Master File BD/DVD.</description>
+<ratings>
+<permanent count="44">5.40</permanent>
+<temporary count="44">6.04</temporary>
+</ratings>
+<picture>213251.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>36991</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ルパン三世_Master_File</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="201684" update="2018-06-18">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2012-05-28</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

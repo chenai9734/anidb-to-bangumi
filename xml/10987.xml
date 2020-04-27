@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10987" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2013-03-11</startdate>
+<enddate>2013-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Psychedelic Afternoon</title>
+<title xml:lang="ja" type="official">Psychedelic Afternoon</title>
+</titles>
+<relatedanime>
+<anime id="9044" type="Other">Blossom</anime>
+<anime id="10988" type="Other">By Your Side</anime>
+</relatedanime>
+<url>http://zapuni.com/ja/</url>
+<description>* Music video produced by Zapuni - a collaborative project between Japanese visual artists and world-renowned musicians, created to assist charities that help children affected by the Great Tohoku Earthquake and Fukushima Nuclear Disaster in Japan with the power of music.
+Seiji is tormented by horrible tsunami-flashback dreams, but one night he wakes up and his beloved grandfather has appeared. With a strum of his grandfather`s guitar, Seiji is transported to a colorful, slightly strange, psychedelic world and finally manages to have a good dream.</description>
+<ratings>
+<permanent count="68">2.89</permanent>
+<temporary count="69">4.38</temporary>
+</ratings>
+<picture>166209.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25549</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://zapuni.com/ja/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://urumadelvi.com/pa/</url>
+</externalentity>
+<externalentity>
+<url>http://zapuni.com/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="5257" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false">
+<name>psychedelic</name>
+</tag>
+</tags>
+<episodes>
+<episode id="167671" update="2015-04-07">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2013-03-11</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

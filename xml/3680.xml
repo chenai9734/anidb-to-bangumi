@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3680" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1962-08-25</startdate>
+<enddate>1962-08-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Otogi no Sekai Ryokou</title>
+<title xml:lang="en" type="synonym">Otogi`s World Tour</title>
+<title xml:lang="en" type="synonym">Otogi`s Voyage Around the World</title>
+<title xml:lang="ja" type="official">おとぎの世界旅行</title>
+</titles>
+<creators>
+<name id="4995" type="Original Work">Yokoyama Ryouichi</name>
+<name id="4995" type="Direction">Yokoyama Ryouichi</name>
+<name id="34247" type="Music">Dan Ikuma</name>
+</creators>
+<description>An omnibus film featuring 7 Otogi Pro shorts. The shorts are framed by segments about an old man, a young man and a boy travelling around the world on a train while showing these cartoons.
+Source: http://web.archive.org/web/20050910194728/http://www.pelleas.net/dbman/db.cgi?db=wmt&amp;uid=default&amp;ID=102&amp;view_records=1</description>
+<ratings>
+<permanent count="2">1.52</permanent>
+<temporary count="2">2.00</temporary>
+</ratings>
+<picture>5468.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7407</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17675</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2300</identifier>
+<identifier>pjkbut</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>おとぎの世界旅行</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>140532</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m008</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="40851" update="2011-10-20">
+<epno type="1">1</epno>
+<length>80</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

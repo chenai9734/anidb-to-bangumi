@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7994" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2010-10-05</startdate>
+<enddate>2010-10-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">009: The Reopening</title>
+<title xml:lang="en" type="synonym">Cyborg 009: The Reopening</title>
+<title xml:lang="ja" type="official">009 THE REOPENING</title>
+</titles>
+<relatedanime>
+<anime id="1214" type="Other">Cyborg 009: The Cyborg Soldier</anime>
+<anime id="8699" type="Other">009 Re:Cyborg</anime>
+</relatedanime>
+<creators>
+<name id="721" type="Work">Production I.G</name>
+<name id="131" type="Direction">Oshii Mamoru</name>
+<name id="1946" type="Music">Kawai Kenji</name>
+<name id="31688" type="Character Design">Asou Gatou</name>
+<name id="1211" type="Original Work">Ishinomori Shoutarou</name>
+</creators>
+<description>The electronics maker Panasonic sponsored a stereoscopic 3D animation project of http://anidb.net/cr1211 [Ishinomori Shoutarou]`s classic science-fiction manga Cyborg 009 with director http://anidb.net/cr131 [Oshii Mamoru] and the studio http://anidb.net/cr721 [Production I.G]. The high-definition anime short, which is four minutes and 45 seconds long, was unveiled at the Panasonic booth at the CEATEC Japan 2010 trade show. The show run at the Makuhari Messe event center in Chiba, Japan from October 5 to October 8.</description>
+<ratings>
+<permanent count="108">3.30</permanent>
+<temporary count="110">4.94</temporary>
+</ratings>
+<picture>55632.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9629</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>339964</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="43897" type="secondary cast in" update="2013-04-14">
+<name>Jet Link</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>86634.jpg</picture>
+</character>
+<character id="43898" type="secondary cast in" update="2013-04-14">
+<rating votes="8">7.98</rating>
+<name>Francoise Arnoul</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>86635.jpg</picture>
+</character>
+<character id="43904" type="main character in" update="2013-04-14">
+<name>Shimamura Joe</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>86641.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="122780" update="2010-09-29">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2010-10-05</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

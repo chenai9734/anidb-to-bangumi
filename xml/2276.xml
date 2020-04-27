@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2276" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1983-03-13</startdate>
+<enddate>1983-03-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Aesop Monogatari</title>
+<title xml:lang="en" type="synonym">Manga: Aesop`s Tale</title>
+<title xml:lang="ja" type="official">まんがイソップ物語</title>
+</titles>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+</creators>
+<description>Aesop is a trouble-making young boy who finds himself in another world filled with creatures he has never believed to exist, such as fairies and talking donkeys. He sets off to find a way back to the human world; on his journey, he befriends many characters from well-known fables and encounters many trials, each teaching him a valuable lesson.
+Source: ANN</description>
+<ratings>
+<permanent count="10">3.31</permanent>
+<temporary count="10">4.90</temporary>
+</ratings>
+<picture>204352.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3646</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23763</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まんがイソップ物語_(アニメ映画)</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>148452</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3990</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="21691" update="2010-04-17">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1983-03-13</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

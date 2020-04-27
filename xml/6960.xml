@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6960" restricted="false">
+<type>TV Series</type>
+<episodecount>1274</episodecount>
+<startdate>1966-07-01</startdate>
+<enddate>1970-08-02</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Monoshiri Daigaku Ashita no Calendar</title>
+<title xml:lang="en" type="synonym">Calendar Of Tomorrow`s University</title>
+<title xml:lang="ja" type="official">ものしり大学 明日のカレンダー</title>
+</titles>
+<description>A short 5 minute anime, broadcasted daily, which aired unrelated short stories.</description>
+<ratings>
+<permanent count="3">2.05</permanent>
+<temporary count="3">1.33</temporary>
+</ratings>
+<picture>202163.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22221</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4334</identifier>
+<identifier>olmgir</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1390</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>30</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>351</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108126" update="2009-08-29">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="157571" update="2014-01-22">
+<epno type="1">1274</epno>
+<length>5</length>
+<airdate>1970-08-02</airdate>
+<title xml:lang="en">Episode 1274</title>
+</episode>
+</episodes>
+</anime>

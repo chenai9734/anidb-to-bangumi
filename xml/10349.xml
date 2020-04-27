@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10349" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2012-10-02</startdate>
+<enddate>2013-02-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Denpa Kyoushi</title>
+<title xml:lang="ja" type="official">電波教師</title>
+</titles>
+<relatedanime>
+<anime id="11028" type="Other">Denpa Kyoushi (2015)</anime>
+</relatedanime>
+<creators>
+<name id="1303" type="Work">A-1 Pictures</name>
+<name id="7716" type="Character Design">Sakazaki Tadashi</name>
+<name id="7646" type="Direction">Ogura Hirofumi</name>
+</creators>
+<description>http://anidb.net/ch63812 [Kagami Jun`ichirou]`s sister http://anidb.net/ch63813 [Suzune] is angry at him because of his complete disinterest in the real world. As Jun`ichirou is interested in nothing but anime, manga and games, Suzune forces him to get a job as a physics teacher substitute at the same high school from which he graduated. Jun`ichirou proves himself a capable and hardworking teacher who comes up with unorthodox methods based on the seemingly useless knowledge he obtained as an otaku to teach and motivate his students.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="114">3.26</permanent>
+<temporary count="115">5.18</temporary>
+</ratings>
+<picture>149754.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>21495</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Denpa_Kyōshi</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>電波教師</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="63812" type="main character in" update="2015-05-31">
+<rating votes="24">9.25</rating>
+<name>Kagami Jun`ichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169783.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="63813" type="main character in" update="2017-02-20">
+<rating votes="33">6.96</rating>
+<name>Kagami Suzune</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169784.jpg</picture>
+<seiyuu id="479" picture="222800.jpg">Asumi Kana</seiyuu>
+</character>
+<character id="63814" type="secondary cast in" update="2015-03-08">
+<rating votes="25">6.94</rating>
+<name>Tenjouin Kisaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169790.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="157900" update="2014-02-06">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2013-02-17</airdate>
+<rating votes="1">3.43</rating>
+<title xml:lang="en">CM 2</title>
+</episode>
+<episode id="157901" update="2015-10-20">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2012-10-02</airdate>
+<rating votes="1">3.43</rating>
+<title xml:lang="en">CM 1</title>
+</episode>
+</episodes>
+</anime>

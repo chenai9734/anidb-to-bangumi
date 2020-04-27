@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13208" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-03-22</startdate>
+<enddate>2017-03-22</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Mandamgangho</title>
+<title xml:lang="ko" type="official">만담강호</title>
+</titles>
+<picture>203512.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37929</identifier>
+</externalentity>
+</resource>
+<resource type="19">
+<externalentity>
+<identifier>만담강호</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="198851" update="2018-05-10">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>2017-03-22</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

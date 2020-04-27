@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14204" restricted="false">
+<type>TV Series</type>
+<episodecount>0</episodecount>
+<startdate>2021</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches</title>
+<title xml:lang="ja" type="synonym">音楽隊ウィッチーズ</title>
+<title xml:lang="en" type="synonym">Idol Witches</title>
+<title xml:lang="en" type="synonym">Allied Air Force Magical Idols Luminous Witches</title>
+<title xml:lang="x-jat" type="synonym">Ongakutai Witches</title>
+<title xml:lang="ja" type="official">連盟空軍航空魔法音楽隊ルミナスウィッチーズ</title>
+</titles>
+<relatedanime>
+<anime id="5970" type="Same Setting">Strike Witches (2008)</anime>
+</relatedanime>
+<url>http://w-witch.jp/luminous/</url>
+<creators>
+<name id="3592" type="Series Composition">Saeki Shouji</name>
+<name id="10960" type="Original Work">Shimada Fumikane</name>
+<name id="3592" type="Direction">Saeki Shouji</name>
+</creators>
+<description>A unique squadron of witches who with the power of songs and music, instead of fighting, bring comfort to hearts and minds of those who fights Neuroi and who have been driven out of their hometowns by them.</description>
+<picture>237057.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38006</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://w-witch.jp/luminous/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364886</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>w_witch_anime</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="96604" type="main character in" update="2018-07-09">
+<rating votes="1">8.57</rating>
+<name>Lyudmila Andreyevna Ruslanova</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220154.jpg</picture>
+<seiyuu id="55625" picture="237069.jpg">Aimoto Ami</seiyuu>
+</character>
+<character id="96605" type="main character in" update="2018-07-09">
+<name>Virginia Robertson</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220152.jpg</picture>
+<seiyuu id="55624" picture="237068.jpg">Narumi Mai</seiyuu>
+</character>
+<character id="96606" type="main character in" update="2018-07-09">
+<name>Shibuya Inori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220153.jpg</picture>
+<seiyuu id="55623" picture="237067.jpg">Hosokawa Minako</seiyuu>
+</character>
+<character id="99204" type="secondary cast in" update="2018-11-11">
+<name>Aira Payvikki Linnamar</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10591.jpeg</picture>
+<seiyuu id="58353" picture="237063.jpg">Mamiya Ryou</seiyuu>
+</character>
+<character id="99205" type="secondary cast in" update="2018-11-11">
+<name>Eleonore Giovanna Gassion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>10592.jpeg</picture>
+<seiyuu id="58354" picture="237064.jpg">Tsuzuki Sayaka</seiyuu>
+</character>
+<character id="104920" type="main character in" update="2019-08-07">
+<name>Silvie Carriello</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>237061.jpg</picture>
+<seiyuu id="58355" picture="237065.jpg">Kotosaka Miu</seiyuu>
+</character>
+<character id="104921" type="main character in" update="2019-08-07">
+<name>Joanna Elizabeth Stafford</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>237060.jpg</picture>
+</character>
+<character id="104922" type="main character in" update="2019-08-07">
+<name>Manaia Matawhaura Hato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>237059.jpg</picture>
+<seiyuu id="58356" picture="237066.jpg">Yuuki Misaki</seiyuu>
+</character>
+<character id="104923" type="main character in" update="2019-08-07">
+<name>Maria Magdalene Dietrich</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>237058.jpg</picture>
+<seiyuu id="58352" picture="237062.jpg">Hanae Momo</seiyuu>
+</character>
+</characters>
+</anime>

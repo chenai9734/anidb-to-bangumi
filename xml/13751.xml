@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13751" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2018-03-30</startdate>
+<enddate>2018-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chichibu de Buchichi</title>
+<title xml:lang="ja" type="official">ちちぶでぶちち</title>
+<title xml:lang="zh-Hans" type="official">秩父福至</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Recommended" uid="583061">Beautiful backgrounds of Japan. If you liked Tokyo Station, Into the forest of Fireflies` light, it`s worth watching.</recommendation>
+</recommendations>
+<url>https://www.seiburailway.jp/railways/buchichi/</url>
+<creators>
+<name id="19293" type="Direction">Sugawara Seiki</name>
+<name id="917" type="Work">TMS Entertainment</name>
+<name id="3520" type="Character Design">Iwasa Yuuko</name>
+<name id="38165" type="Music">Tateyama Akiyuki</name>
+<name id="49262" type="Work">8 Pan</name>
+</creators>
+<description>http://anidb.net/ch93350 [Kaoruko] is set to meet a marriage partner... but there`s a person she can`t forget. Someone she met in Chichibu when she was a girl. A young boy whose name she doesn`t even know. Treasured memories of walking with him through Chichibu Shrine. Taking in the carpets of pink flowers at Hitsujiyama Park, the mountain stream at Nagatoro, the sea of clouds from Mitsumine Shrine. These are priceless moments she yearns to relive. Maybe... just maybe... if she heads to Chichibu she might see him again. Clinging to her faint hope and distant memories, Kaoruko resolves to find out.
+Source: Official page</description>
+<ratings>
+<permanent count="56">3.83</permanent>
+<temporary count="56">5.34</temporary>
+</ratings>
+<picture>212239.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37174</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.seiburailway.jp/railways/buchichi/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ちちぶでぶちち</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363169</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=UiiDfrqQo-A</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="93349" type="main character in" update="2019-02-14">
+<name>Nasa Akifumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67178.png</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="93350" type="main character in" update="2019-02-14">
+<name>Seibu Kaoruko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67179.png</picture>
+<seiyuu id="16804" picture="224734.jpg">Kurosawa Tomoyo</seiyuu>
+</character>
+<character id="100825" type="secondary cast in" update="2019-02-14">
+<name>Suzumura</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67173.png</picture>
+</character>
+<character id="100826" type="secondary cast in" update="2019-02-14">
+<name>Nagato Roman</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67174.png</picture>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+<character id="100827" type="secondary cast in" update="2019-02-14">
+<name>Hitsujiyama Mone</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67175.png</picture>
+<seiyuu id="1692" picture="224934.jpg">Okitsu Kazuyuki</seiyuu>
+</character>
+<character id="100828" type="secondary cast in" update="2019-02-14">
+<name>Chichibu Masaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67176.png</picture>
+<seiyuu id="3155" picture="24137.jpg">Ono Yuuki</seiyuu>
+</character>
+<character id="100829" type="secondary cast in" update="2019-02-14">
+<name>Seibu Tetsuzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67177.png</picture>
+<seiyuu id="39" picture="16629.jpg">Mugihito</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="195394" update="2018-03-30">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2018-03-30</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

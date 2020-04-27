@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9625" restricted="false">
+<type>TV Series</type>
+<episodecount>78</episodecount>
+<startdate>2013-04-06</startdate>
+<enddate>2015-02-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Danchi Tomoo</title>
+<title xml:lang="ja" type="official">団地ともお</title>
+<title xml:lang="zh-Hans" type="official">住宅区友夫</title>
+</titles>
+<similaranime>
+<anime id="370" approval="2" total="2">Hoohokekyo Tonari no Yamada-kun</anime>
+</similaranime>
+<url>http://www9.nhk.or.jp/anime/tomoo/</url>
+<creators>
+<name id="38526" type="Character Design">Kuwabata Mitsuru</name>
+<name id="5317" type="Direction">Watanabe Ayumu</name>
+<name id="35506" type="Original Work">Oda Tobira</name>
+<name id="2939" type="Series Composition">Yamada Takashi</name>
+<name id="4073" type="Music">Hasegawa Tomoki</name>
+</creators>
+<ratings>
+<permanent count="10">5.26</permanent>
+<temporary count="10">5.80</temporary>
+</ratings>
+<picture>131432.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15053</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31436</identifier>
+</externalentity>
+<externalentity>
+<identifier>17703</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www9.nhk.or.jp/anime/tomoo/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Danchi_Tomoo</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>団地ともお</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2949</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>345225</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>15827</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1802" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-01-24">
+<name>seinen</name>
+<description>Seinen, literally "young man", is one of the main demographic classifications applied to manga, and, by extension, to anime, especially manga-based ones. As the name implies, seinen works are marketed primarily to an audience of young men; the age range commonly understood to be the target of such works goes roughly from 17 to somewhere in the 40s.</description>
+<picurl>181651.jpg</picurl>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="53456" type="main character in" update="2013-04-05">
+<name>Kinoshita Tomoo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134742.jpg</picture>
+<seiyuu id="81" picture="41282.jpg">Sanpei Yuuko</seiyuu>
+</character>
+<character id="53457" type="secondary cast in" update="2013-04-05">
+<name>Kinoshita Kimiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134745.jpg</picture>
+<seiyuu id="475" picture="17433.jpg">Makino Yui</seiyuu>
+</character>
+<character id="53458" type="secondary cast in" update="2013-04-05">
+<name>Kinoshita Tetsuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134743.jpg</picture>
+<seiyuu id="548" picture="186185.jpg">Sakamoto Chika</seiyuu>
+</character>
+<character id="53459" type="secondary cast in" update="2013-04-05">
+<name>Kinoshita Tetsuo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134744.jpg</picture>
+<seiyuu id="3186" picture="171957.jpg">Tone Kentarou</seiyuu>
+</character>
+<character id="53460" type="secondary cast in" update="2013-04-05">
+<name>Yoshimoto Masato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134746.jpg</picture>
+<seiyuu id="3712" picture="240126.jpg">Tamura Mutsumi</seiyuu>
+</character>
+<character id="53461" type="secondary cast in" update="2013-04-05">
+<name>Yoshida Yoshinobu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134747.jpg</picture>
+<seiyuu id="569" picture="242492.jpg">Takeda Hana</seiyuu>
+</character>
+<character id="53462" type="secondary cast in" update="2013-04-05">
+<name>Kamakura Keiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134749.jpg</picture>
+<seiyuu id="441" picture="171611.jpg">Fujimura Ayumi</seiyuu>
+</character>
+<character id="53463" type="secondary cast in" update="2013-04-05">
+<name>Kikukawa Mitsuo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134748.jpg</picture>
+<seiyuu id="55" picture="33603.jpg">Nabatame Hitomi</seiyuu>
+</character>
+<character id="53464" type="secondary cast in" update="2013-04-05">
+<name>Hayama Yoriko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134750.jpg</picture>
+<seiyuu id="32286" picture="86408.jpg">Hitosugi Kasumi</seiyuu>
+</character>
+<character id="53465" type="secondary cast in" update="2013-10-17">
+<name>Nezu Yukio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>144397.jpg</picture>
+<seiyuu id="36226" picture="133330.jpg">Asako</seiyuu>
+</character>
+<character id="54652" type="secondary cast in" update="2013-04-05">
+<name>Shimada-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134751.jpg</picture>
+<seiyuu id="3102" picture="24178.jpg">Chou Katsumi</seiyuu>
+</character>
+<character id="54653" type="secondary cast in" update="2013-04-05">
+<name>Kashino-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134752.jpg</picture>
+<seiyuu id="541" picture="26117.jpg">Chiba Shigeru</seiyuu>
+</character>
+<character id="54654" type="secondary cast in" update="2013-04-05">
+<name>Aoto Hidemi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134753.jpg</picture>
+<seiyuu id="10340" picture="222848.jpg">Uetake Kana</seiyuu>
+</character>
+<character id="54655" type="appears in" update="2013-04-05">
+<name>Sport Taisa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>134754.jpg</picture>
+</character>
+<character id="60520" type="secondary cast in" update="2013-10-17">
+<name>Sakagami-san</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>144401.jpg</picture>
+<seiyuu id="10" picture="226529.jpg">Noto Mamiko</seiyuu>
+</character>
+<character id="60521" type="secondary cast in" update="2013-10-17">
+<name>Konno Yuuji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>144400.jpg</picture>
+<seiyuu id="12387" picture="223823.jpg">Yanai Hitoshi</seiyuu>
+</character>
+<character id="60522" type="secondary cast in" update="2013-10-17">
+<name>Hazama-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>144399.jpg</picture>
+<seiyuu id="19719" picture="201280.jpg">Hiura Ben</seiyuu>
+</character>
+<character id="60523" type="appears in" update="2013-10-17">
+<name>Honda Ikue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>144398.jpg</picture>
+<seiyuu id="32534" picture="222839.jpg">Yano Asami</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="148937" update="2013-04-07">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2013-04-27</airdate>
+<title xml:lang="ja">連休にして父を想うともお / あの坂を登っていくともお</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Renkyuu ni Shite Chichi o Omou Tomoo / Ano Saka o Nobotte Iku Tomoo</title>
+</episode>
+<episode id="148938" update="2013-04-07">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2013-04-20</airdate>
+<title xml:lang="ja">留守番を買って出るともお / 仲良きことは美しいのかなともお</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Rusuban o Katte Deru Tomoo / Nakayoki Koto wa Utsukushii no Kana Tomoo</title>
+</episode>
+<episode id="148939" update="2013-04-07">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2013-04-13</airdate>
+<title xml:lang="ja">団地で僕と握手だともお / 花より団地ですよともお</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Danchi de Boku to Akushu Da Tomoo / Hana Yori Danchi Desu yo Tomoo</title>
+</episode>
+<episode id="148940" update="2013-04-07">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2013-04-06</airdate>
+<title xml:lang="ja">春休みの計画表を作るともお / 春休みの習い事を探すともお</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Haruyasumi no Keikaku Hyou o Tsukuru Tomoo / Haruyasumi no Naraigoto o Sagasu Tomoo</title>
+</episode>
+<episode id="148941" update="2013-05-05">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2013-05-11</airdate>
+<title xml:lang="ja">王国建設をもくろむともお / 亀の甲より年の功だよともお</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Ookoku Kensetsu o Mokuromu Tomoo / Ano Saka o Nobotte Iku Tomoo</title>
+</episode>
+<episode id="150358" update="2013-05-05">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2013-06-01</airdate>
+<title xml:lang="ja">目指せハイスコアだともお / 過去を垣間見ちゃうぞともお</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Mezase Highscore Da Tomoo / Kako Okaima Michauzo Tomoo</title>
+</episode>
+<episode id="150359" update="2013-05-05">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2013-05-25</airdate>
+<title xml:lang="ja">伝言ゲームに踊らされるともお / 奇跡を信じるかいともお</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Dengon Game ni Odorasareru Tomoo / Kiseki o Shinjirukai Tomoo</title>
+</episode>
+<episode id="150360" update="2013-05-05">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2013-05-18</airdate>
+<title xml:lang="ja">寝言に答えるなともお / 団地で部屋をゲットだともお</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Negoto ni Kotaeru na Tomoo / Danchi de Heya o Getto Da Tomoo</title>
+</episode>
+<episode id="150621" update="2013-05-18">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2013-06-15</airdate>
+<title xml:lang="ja">計画性がなくていいのかともお / 女子高校生の伝書鳩だねともお</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Keikasu Sei ga Nakute Ii no Ka Tomoo / Joshikoukousei no Denshobato Da ne Tomoo</title>
+</episode>
+<episode id="150622" update="2013-05-18">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2013-06-08</airdate>
+<title xml:lang="ja">子供だましでいいじゃないともお / キューピッドはできるのかよともお</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Kodomodamashi de Ii ja Nai Tomoo / Cupid wa Dekiru no ka yo Tomoo</title>
+</episode>
+<episode id="151209" update="2013-06-18">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2013-07-13</airdate>
+<title xml:lang="ja">雨に唄えばうんざりだぜともお / マークシートは黒く塗れともお</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Ame ni Utaeba Unzari Daze Tomoo / Mark Sheet wa Kuroku Nure Tomoo</title>
+</episode>
+<episode id="151210" update="2013-06-18">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2013-07-06</airdate>
+<title xml:lang="ja">平賀源内だぜともお / 母さんだってナイーブだぞともお</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Hiraga Gennai Daze Tomoo / Kaasan Datte Naibu Dazo Tomoo</title>
+</episode>
+<episode id="151211" update="2013-06-18">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2013-06-29</airdate>
+<title xml:lang="ja">最強の乗り物になってやるともお / 道徳を甘く見るなよともお</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Saikyou no Norimono ni Natte Yaru Tomoo / Doutoku o Amaku Miru na yo Tomoo</title>
+</episode>
+<episode id="151212" update="2013-06-18">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2013-06-22</airdate>
+<title xml:lang="ja">何なら喜ばれるんだろうかともお / 汝の隣人がライバルだぜともお</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Nani Nara Yorokobarerundarouka Tomoo / Nanji no Rinjin ga Rival Daze Tomoo</title>
+</episode>
+<episode id="151942" update="2013-07-14">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2013-08-03</airdate>
+<title xml:lang="ja">家族の仲を取り持つんだともお / 何か写ってるぞともお</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Kazoku no Naka o Torimotsunda Tomoo / Nanka Utsutteruzo Tomoo</title>
+</episode>
+<episode id="151943" update="2013-07-14">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2013-07-27</airdate>
+<title xml:lang="ja">父さんを召喚するんだともお / 有楽町で会いましょうともお</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Tousan o Shoukan Surunda Tomoo / Yuurakuchou De Aimashou Tomoo</title>
+</episode>
+<episode id="151944" update="2013-07-14">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2013-07-20</airdate>
+<title xml:lang="ja">黒板なんか拭きまくれともお / ヒッチコックな夏だぜともお</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Kokuban Nanka Fukimakure Tomoo / Hicchikokku na Natsu Daze Tomoo</title>
+</episode>
+<episode id="152423" update="2013-08-08">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2013-09-14</airdate>
+<title xml:lang="ja">迷宮を抜け出せともお / すずしげだろともお</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Meikyuu o Nukedase Tomoo / Suzushige Daro Tomoo</title>
+</episode>
+<episode id="152424" update="2013-08-08">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2013-09-07</airdate>
+<title xml:lang="ja">団地は無法地帯だぜともお / すくすく育ってるともお</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Danchi wa Muhou Chitai Daze Tomoo / Sukusuku Sodatteru Tomoo</title>
+</episode>
+<episode id="152425" update="2013-08-08">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2013-08-31</airdate>
+<title xml:lang="ja">夏の記録に挑むともお / きっと飛べるはずだともお</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Natsu no Kiroku ni Idomu Tomoo / Kitto Toberu Hazu Da Tomoo</title>
+</episode>
+<episode id="152426" update="2013-08-08">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2013-08-24</airdate>
+<title xml:lang="ja">お前は時代に流されていけともお / 幼なじみは元気かいともお</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Omae wa Jidai ni Nagasarete Ike Tomoo / Osananajimi wa Genkikai Tomoo</title>
+</episode>
+<episode id="154266" update="2013-09-18">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2013-10-12</airdate>
+<title xml:lang="ja">3組の名誉を守るともお / 6も7もきっとあるぜともお</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">3-gumi no Meiyo o Mamoru Tomoo / 6 mo 7 mo Kitto Aruze Tomoo</title>
+</episode>
+<episode id="154267" update="2013-09-18">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2013-10-05</airdate>
+<title xml:lang="ja">お婆ちゃんで袋小路だともお / ふれ合うのって難しいねともお</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Obaa-chan de Fukurokouji Da Tomoo / Fureau Notte Muzukashii ne Tomoo</title>
+</episode>
+<episode id="154268" update="2013-09-18">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2013-09-28</airdate>
+<title xml:lang="ja">システムも大事だなともお / ビビビ... だなともお</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">System mo Daiji Da na Tomoo / Bibibi... Da na Tomoo</title>
+</episode>
+<episode id="154269" update="2013-09-18">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2013-09-21</airdate>
+<title xml:lang="ja">世界の秘密を見つけたぞともお / ナンバーワンでもオンリーワンでもないなともお</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Sekai no Himitsu o Mitsuketazo Tomoo / Number One de mo Only One de mo Nai na Tomoo</title>
+</episode>
+<episode id="154884" update="2013-10-09">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2013-11-16</airdate>
+<title xml:lang="ja">ハラペコより大事だぜともお / 笑い死にさせる気かよともお</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Harapeko Yori Daiji Daze Tomoo / Waraishi ni Saseruki Kayo Tomoo</title>
+</episode>
+<episode id="154885" update="2013-10-09">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2013-11-09</airdate>
+<title xml:lang="ja">手に職つけて安泰だともお / 姉ちゃんの生活もみたいぞともお</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Te ni Shokutsukete Antai Da Tomoo / Nee-chan no Seikatsu mo Mitaizo Tomoo</title>
+</episode>
+<episode id="154886" update="2013-10-09">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2013-11-02</airdate>
+<title xml:lang="ja">オレの名前を言ってみろともお / バントでホームランだぜともお</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Ore no Namae o Itte Miro Tomoo / Banto de Homerun Daze Tomoo</title>
+</episode>
+<episode id="154887" update="2013-10-09">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2013-10-26</airdate>
+<title xml:lang="ja">ヒマをもてあましまくるともお / たーんとお食べともお</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Hima o Moteamashimakuru Tomoo / Turn to Otabe Tomoo</title>
+</episode>
+<episode id="154888" update="2013-10-09">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2013-10-19</airdate>
+<title xml:lang="ja">クイズ, 早押しですともお / 父さんと走りたいんだともお</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Quiz, Haya Oshi Desu Tomoo / Tousan to Hashiritainda Tomoo</title>
+</episode>
+<episode id="156288" update="2013-11-22">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2013-12-07</airdate>
+<title xml:lang="ja">うつしちゃダメだよともお / ケンカの原因はなんなんだともお</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Utsushicha Dame Da yo Tomoo / Touza no Mokuhyou ga Daiji Daze Tomoo</title>
+</episode>
+<episode id="156289" update="2013-11-22">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2013-11-30</airdate>
+<title xml:lang="ja">守り守られ生きていくともお / プレミア感を出していこうかともお</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Mori Mamorareikite Iku Tomoo / Premier Kan o Dashite Ikouka Tomoo</title>
+</episode>
+<episode id="156290" update="2013-11-22">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2013-11-23</airdate>
+<title xml:lang="ja">安全をタダで買いますともお / 男子と女子とトイレなともお</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Anzen o Tada de Kaimasu Tomoo / Danshi to Joshi to Toilet na Tomoo</title>
+</episode>
+<episode id="156887" update="2013-12-24">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2014-01-11</airdate>
+<title xml:lang="ja">寝正月だって幸せだねともお / よその子になっちゃいなさいともお</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Neshougatsu Datte Shiwase Da ne Tomoo / Yoso no Ko ni Naccha Inasai Tomoo</title>
+</episode>
+<episode id="156888" update="2013-12-24">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2013-12-21</airdate>
+<title xml:lang="ja">サンタさんと心理戦だともお / そこで何が見えるんだともお</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Santa-san to Shinrisen Da Tomoo / Soko de Nani ga Mierunda Tomoo</title>
+</episode>
+<episode id="156889" update="2013-12-24">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2013-12-14</airdate>
+<title xml:lang="ja">お星さまにお願いともお / 当座の目標が大事だぜともお</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Ohoshi-sama ni Onegai Tomoo / Touza no Mokuhyou ga Daiji Daze Tomoo</title>
+</episode>
+<episode id="157228" update="2014-01-11">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2014-02-01</airdate>
+<title xml:lang="ja">関心の的だなともお / 巡りゆくともお</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Kanshin no Teki Da na Tomoo / Meguriyuku Tomoo</title>
+</episode>
+<episode id="157229" update="2014-01-11">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2014-01-25</airdate>
+<title xml:lang="ja">クラブ活動は昼寝の時間じゃないぞともお / 猫は動くから注意しろともお</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Club Katsudou wa Hirune no Jikan ja Naizo Tomoo / Neko wa Ugoku kara Chuui Shiro Tomoo</title>
+</episode>
+<episode id="157230" update="2014-01-11">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2014-01-18</airdate>
+<title xml:lang="ja">勝つとかぶとの緒は締まるのかなともお / 未知との再会だってばともお</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Katsu to Kabu to no Itoguchi wa Shimaru no kana Tomoo / Michi to no Saikai Datteba Tomoo</title>
+</episode>
+<episode id="159150" update="2014-04-08">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2014-04-26</airdate>
+<title xml:lang="ja">トップランナーなど簡単だなともお / それは誰の仕業だ? ともお / 花より団子の団地っ子だともお</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Top Runner Nado Kantan Da na Tomoo / Sore wa Dare no Shiwaza Da? Tomoo / Hana Yori Dango no Danchikko Da Tomoo</title>
+</episode>
+<episode id="159151" update="2014-04-08">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="ja">ロマンの神様ありがとうともお / 段取りは大事だなともお</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Roman no Kamisama Arigatou Tomoo / Dandori wa Daiji Da na Tomoo</title>
+</episode>
+<episode id="159152" update="2014-04-08">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2014-04-12</airdate>
+<title xml:lang="ja">風まかせだよなともお / 後悔は先に立たんぞともお</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Kaze Makase Da yo na Tomoo / Koukai wa Saki ni Tatanzo Tomoo</title>
+</episode>
+<episode id="159558" update="2014-04-28">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2014-05-24</airdate>
+<title xml:lang="ja">女子を振り向かせたいぜともお / 約束って一体なんだっけともお</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Joshi o Furimukasetaize Tomoo / Yakusokutte Ittai Nandakke Tomoo</title>
+</episode>
+<episode id="159559" update="2014-04-28">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2014-05-17</airdate>
+<title xml:lang="ja">会イタカッタデースだよなともお / コックさんは国算じゃないぞともお / 今号より新展開だぜともお</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Kai Itakatta Days Da yo na Tomoo / Kokku-san wa Kuni-san ja Nai zo Tomoo / Imagou Yori Shin Tenkai Daze Tomoo</title>
+</episode>
+<episode id="159560" update="2014-04-28">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2014-05-10</airdate>
+<title xml:lang="ja">運動会で神になれともお / 朝起きて昼寝して夜寝ろともお</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Undoukai de Kami ni Nare Tomoo / Asa Okite Hirune Shite Yoru Nero Tomoo</title>
+</episode>
+<episode id="159561" update="2014-04-28">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2014-05-03</airdate>
+<title xml:lang="ja">このボスについていこうともお / ちょいワルかよともお</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Kono Bosu ni Tsuite Ikou Tomoo / Choi Waru ka yo Tomoo</title>
+</episode>
+<episode id="160179" update="2014-05-25">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2014-06-21</airdate>
+<title xml:lang="ja">思い出せないよともお / 以下の問題に答えなよともお</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Omoidasenai yo Tomoo / Ika no Mondai ni Kotae na yo Tomoo</title>
+</episode>
+<episode id="160180" update="2014-05-25">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2014-06-14</airdate>
+<title xml:lang="ja">乗り越えていくのだともお / まだ続いているなともお</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Norkoete Iku no Da Tomoo / Mada Tsuzuite Iru na Tomoo</title>
+</episode>
+<episode id="160181" update="2014-05-25">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2014-05-07</airdate>
+<title xml:lang="ja">眠らぬ森のともお / ファッションリーダーって誰? ともお / 支配からの脱出は成るかともお</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Nemuranu Mori no Tomoo / Fassion Leadertte Dare? Tomoo / Shihai kara no Dasshutsu wa Naruka Tomoo</title>
+</episode>
+<episode id="160182" update="2014-05-25">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2014-05-31</airdate>
+<title xml:lang="ja">かわいい子には一人旅だなともお / 二軍で完全試合だともお</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Kawaii Ko ni wa Ichinin Tabi Da na Tomoo / Nigun de Kanzenshiai Da Tomoo</title>
+</episode>
+<episode id="160652" update="2014-06-22">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>2014-07-26</airdate>
+<title xml:lang="ja">新シリーズで絶望だぜともお / 競争率が高いなともお</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Shin Series de Zetsubou Daze Tomoo / Kyousou Ritsu ga Takai na Tomoo</title>
+</episode>
+<episode id="160653" update="2014-06-22">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>2014-07-19</airdate>
+<title xml:lang="ja">木下家の食のルールは厳しいかともお / 昔は君も若かったね大佐 / お天道様が見てるんだぜともお</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Kinoshita-ke no Shoku no Rule wa Kibishiika Tomoo / Mukashi wa Kimi mo Wakakatta ne Taisa / Otento-sama ga Miterun Daze Tomoo</title>
+</episode>
+<episode id="160654" update="2014-06-22">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>2014-07-12</airdate>
+<title xml:lang="ja">トモオとキノシタとともお / で, 赤いのは何なんだともお</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Tomoo to Kinoshita to Tomoo / De, Akai no wa Nannan Da Tomoo</title>
+</episode>
+<episode id="160655" update="2014-06-22">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2014-07-05</airdate>
+<title xml:lang="ja">その胸に夢があるからさともお / まだ間違えてたのかよともお</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Sono Mune ni Yume ga Aru kara sa Tomoo / Mada Machigaeteta no kayo Tomoo</title>
+</episode>
+<episode id="160656" update="2014-06-22">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2014-06-28</airdate>
+<title xml:lang="ja">暴かれし取り柄だよともお / うまく励ましたかなともお / 片づけて生還だともお</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Abakareshi Torie Da yo Tomoo / Umaku Hagemashita Kana Tomoo / Katazukete Seikan Da Tomoo</title>
+</episode>
+<episode id="161911" update="2014-08-09">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>2014-08-30</airdate>
+<title xml:lang="ja">後のカーニバルだよともお / 何重スパイなんだよともお</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Go no Carnival Da yo Tomoo / Nanjuu Spy Nanda yo Tomoo</title>
+</episode>
+<episode id="161912" update="2014-08-09">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>2014-08-23</airdate>
+<title xml:lang="ja">孤高の人になれるかなともお / そんなに見られてもなぁともお / クサいメシを食うともお</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Kokou no Hito ni Nareruka na Tomoo / Sonna ni Mirarete mo Naa Tomoo / Kusaimeshi o Kuu Tomoo</title>
+</episode>
+<episode id="161913" update="2014-08-09">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>2014-08-02</airdate>
+<title xml:lang="ja">最高の時間だなともお / ガツンと言ってやれよともお</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Saikou no Jikan Da na Tomoo / Gatsun to Itte Yare yo Tomoo</title>
+</episode>
+<episode id="162568" update="2014-09-07">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>2014-09-27</airdate>
+<title xml:lang="ja">苦しい時には何をだすのかなともお / 双子ってどっちが上なんだともお</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Kurushii Toki ni wa Nani o Dasu no kana Tomoo / Futagotte Docchi ga Ue Nanda Tomoo</title>
+</episode>
+<episode id="162569" update="2014-09-07">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>2014-09-20</airdate>
+<title xml:lang="ja">熱血と冷静のどっちだいともお / さあ, 冒険だなともお</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Nekketsu to Reisei no Docchidai Tomoo / Saa, Bouken Da na Tomoo</title>
+</episode>
+<episode id="162570" update="2014-09-07">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>2014-09-13</airdate>
+<title xml:lang="ja">大人の階段踏み外せともお / 花のつぼみが教えてくれたよともお</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Otona no Kaidan Fumihazuse Tomoo / Hana no Tsubomi ga Oshiete Kureta yo Tomoo</title>
+</episode>
+<episode id="162571" update="2014-09-07">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>2014-09-06</airdate>
+<title xml:lang="ja">一円の重みを思い知るかともお / その鐘を鳴らすのは誰だともお / 真夏の恋はエコじゃないぜともお</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Ichi En no Omomi o Omoishiruka Tomoo / Sono Kane o Narasu no wa Dare Da Tomoo / Manatsu no Koi wa Eko ja Naize Tomoo</title>
+</episode>
+<episode id="163267" update="2014-10-07">
+<epno type="1">67</epno>
+<length>25</length>
+<airdate>2014-11-01</airdate>
+<title xml:lang="ja">スクールでウォーズだぜともお / 探偵は楽な職業じゃないなともお</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">School de Wars Daze Tomoo / Tantei wa Raku na Shokugyou ja Nai na Tomoo</title>
+</episode>
+<episode id="163268" update="2014-10-07">
+<epno type="1">66</epno>
+<length>25</length>
+<airdate>2014-10-25</airdate>
+<title xml:lang="ja">生と死を司るぞともお / いつもより多く回ったなともお / 続・昔は君も若かったね大佐</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Nama to Shi o Tsukasadoruzo Tomoo / Itsumo Yori Ooku Mawatta na Tomoo / Zoku Mukashi wa Kimi mo Wakakatta ne Taisa</title>
+</episode>
+<episode id="163269" update="2014-10-07">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>2014-10-18</airdate>
+<title xml:lang="ja">ノープロブレムかよともお / ポッと出, 上等ッスともお</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">No Problem ka yo Tomoo / Pot De, Joutoussu Tomoo</title>
+</episode>
+<episode id="163270" update="2014-10-07">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>2014-10-11</airdate>
+<title xml:lang="ja">諦めたら試合終了なのかともお / それはホントにおふくろなのかともお</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Akirametara Shiai Shuuryou na no ka Tomoo / Sore wa Honto ni Ofukuro na no ka Tomoo</title>
+</episode>
+<episode id="163271" update="2014-10-07">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>2014-10-04</airdate>
+<title xml:lang="ja">そこに仁義はあるんかのうともお / 報われてほしくなるともお / 死ぬ気になれるかともお</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">Soko ni Jingi wa Arunkanou Tomoo / Mukuwarete Hoshiku Naru Tomoo / Shinuki ni Nareruka Tomoo</title>
+</episode>
+<episode id="163735" update="2014-10-24">
+<epno type="1">69</epno>
+<length>25</length>
+<airdate>2014-11-15</airdate>
+<title xml:lang="ja">底知れぬ技術力だなともお / 大事な袋のひとつだなともお / 気がつけば春夏秋冬ともお</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="x-jat">Sokoshirenu Gijutsu Roykuda na Tomoo / Daiji na Bukuro no Hitotsu Da na Tomoo / Kigatsukeba Shunkashuutou Tomoo</title>
+</episode>
+<episode id="163736" update="2014-10-24">
+<epno type="1">68</epno>
+<length>25</length>
+<airdate>2014-11-08</airdate>
+<title xml:lang="ja">駄菓子折[だがしおり]で礼を尽くすともお / 校長先生に訓示だともお</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Dagashiori de Rei o Tsukusu Tomoo / Kouchou-sensei ni Kunji Da Tomoo</title>
+</episode>
+<episode id="164340" update="2014-12-20">
+<epno type="1">73</epno>
+<length>25</length>
+<airdate>2014-12-20</airdate>
+<title xml:lang="ja">笑う門には何が来るんだともお / それでも, それでも続いていくのかなともお</title>
+<title xml:lang="en">Episode 73</title>
+<title xml:lang="x-jat">Waraukado ni wa Nani ga Kurunda Tomoo / Soredemo, Soredemo Tsuzuite Iku no ka na Tomoo</title>
+</episode>
+<episode id="164341" update="2014-12-20">
+<epno type="1">72</epno>
+<length>25</length>
+<airdate>2014-12-13</airdate>
+<title xml:lang="ja">思い出はいつもともお / ニュースソースは何だともお / 物にも歴史ありかともお</title>
+<title xml:lang="en">Episode 72</title>
+<title xml:lang="x-jat">Omoide wa Itsumo Tomoo / News Source wa Nanida Tomoo / Mono ni mo Rekishi Arika Tomoo</title>
+</episode>
+<episode id="164342" update="2014-11-21">
+<epno type="1">71</epno>
+<length>25</length>
+<airdate>2014-11-29</airdate>
+<title xml:lang="ja">最高のトレーナーは誰だともお / そこまでは続いてなかったなともお</title>
+<title xml:lang="en">Episode 71</title>
+<title xml:lang="x-jat">Saikou no Trainer wa Dare Da Tomoo / Soko made wa Tsuzuitenakatta na Tomoo</title>
+</episode>
+<episode id="164343" update="2014-11-21">
+<epno type="1">70</epno>
+<length>25</length>
+<airdate>2014-11-22</airdate>
+<title xml:lang="ja">大人になっても続けようともお / 入れて食えともお</title>
+<title xml:lang="en">Episode 70</title>
+<title xml:lang="x-jat">Otona ni Natte mo Tsuzukeyou Tomoo / Irete Kue Tomoo</title>
+</episode>
+<episode id="164782" update="2014-12-20">
+<epno type="1">76</epno>
+<length>25</length>
+<airdate>2015-01-24</airdate>
+<title xml:lang="ja">完敗を喫すともお / 昔話は虚し話なのかともお / そいつはサンキューだなともお</title>
+<title xml:lang="en">Episode 76</title>
+<title xml:lang="x-jat">Kanpai o Kiss Tomoo / Mukashibanashi wa Munashi Hanashi na no ka Tomoo / Soitsu wa Thank You Da na Tomoo</title>
+</episode>
+<episode id="164783" update="2014-12-20">
+<epno type="1">75</epno>
+<length>25</length>
+<airdate>2015-01-17</airdate>
+<title xml:lang="ja">キミたちに明日はないのかともお / 愛好し愛好され生きてくともお</title>
+<title xml:lang="en">Episode 75</title>
+<title xml:lang="x-jat">Kimi-tachi ni Ashita wa Nai no Ka Tomoo / Aikoushi Aikousare Ikiteku Tomoo</title>
+</episode>
+<episode id="164784" update="2014-12-20">
+<epno type="1">74</epno>
+<length>25</length>
+<airdate>2015-01-10</airdate>
+<title xml:lang="ja">ホシがるね~ともお / 年寄りの冷や水だともお</title>
+<title xml:lang="en">Episode 74</title>
+<title xml:lang="x-jat">Hoshigarune Tomoo / Toshiyori no Hiyamizu Da Tomoo</title>
+</episode>
+<episode id="165564" update="2015-01-22">
+<epno type="1">78</epno>
+<length>25</length>
+<airdate>2015-02-07</airdate>
+<title xml:lang="ja">アフターケアも大事ってことともお / 不器用ですからともお</title>
+<title xml:lang="en">Episode 78</title>
+<title xml:lang="x-jat">After Care mo Daijitte Koto Tomoo / Bukiyou Desukara Tomoo</title>
+</episode>
+<episode id="165565" update="2015-01-22">
+<epno type="1">77</epno>
+<length>25</length>
+<airdate>2015-01-31</airdate>
+<title xml:lang="ja">上を向いて歩こうともお / 魔法の力で強くなれともお</title>
+<title xml:lang="en">Episode 77</title>
+<title xml:lang="x-jat">Ue o Muite Arukou Tomoo / Mahou no Chikara de Tsuyokunare Tomoo</title>
+</episode>
+<episode id="171763" update="2015-09-21">
+<epno type="2">S1</epno>
+<length>45</length>
+<airdate>2015-08-14</airdate>
+<title xml:lang="ja">団地ともお スペシャル ~夏休みの宿題は終わったのかよ? ともお~</title>
+<title xml:lang="en">Episode S1</title>
+<title xml:lang="x-jat">Danchi Tomoo: Natsuyasumi no Shukudai wa Owatta no ka yo? Tomoo</title>
+</episode>
+<episode id="195909" update="2018-02-10">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="195910" update="2018-02-10">
+<epno type="3">C1</epno>
+<length>2</length>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="213159" update="2019-03-04">
+<epno type="2">S2</epno>
+<length>0</length>
+<airdate>2013-05-03</airdate>
+<title xml:lang="ja">団地ともおをますます見るともお!</title>
+<title xml:lang="en">Holiday Special</title>
+</episode>
+</episodes>
+</anime>

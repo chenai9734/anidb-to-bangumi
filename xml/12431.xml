@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12431" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-11-18</startdate>
+<enddate>2016-11-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Orange: Mirai</title>
+<title xml:lang="ja" type="official">orange -未来-</title>
+</titles>
+<relatedanime>
+<anime id="11938" type="Full Story">Orange</anime>
+</relatedanime>
+<url>http://movie.orange-anime.com/</url>
+<creators>
+<name id="5071" type="Series Composition">Kakihara Yuuko</name>
+<name id="21438" type="Chief Animation Direction">Takasu Miyako</name>
+<name id="6188" type="Chief Animation Direction">Kitao Masaru</name>
+<name id="900" type="Animation Work">Telecom Animation Film</name>
+<name id="2217" type="Character Design">Yuuki Nobuteru</name>
+<name id="18616" type="Chief Direction">Nakayama Naomi</name>
+<name id="917" type="Work">TMS Entertainment</name>
+<name id="44911" type="Original Work">Takano Ichigo</name>
+<name id="4411" type="Direction">Hamasaki Hiroshi</name>
+<name id="20876" type="Music">Tsutsumi Hiroaki</name>
+</creators>
+<ratings>
+<permanent count="181">5.17</permanent>
+<temporary count="182">6.66</temporary>
+<review count="1">7.00</review>
+</ratings>
+<picture>191760.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18756</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34136</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://movie.orange-anime.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358294</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="81236" type="main character in" update="2017-10-26">
+<rating votes="14">5.67</rating>
+<name>Murasaka Azusa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Murasaka Azusa is http://anidb.net/ch81238 [Naho]`s classmate and one of her friends. She is cheerful and often argues with http://anidb.net/ch81240 [Saku]. She receives a letter claiming to be from her future self with many requests for her.</description>
+<picture>184818.jpg</picture>
+<seiyuu id="23312" picture="205591.jpg">Takamori Natsumi</seiyuu>
+</character>
+<character id="81237" type="main character in" update="2017-10-26">
+<rating votes="15">5.77</rating>
+<name>Chino Takako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Chino Takako is http://anidb.net/ch81238 [Naho]`s classmate and best friend. She is very protective of Naho and often defends her. She receives a letter claiming to be from her future self with many requests for her.</description>
+<picture>184820.jpg</picture>
+<seiyuu id="42697" picture="223257.jpg">Kinugawa Rika</seiyuu>
+</character>
+<character id="81238" type="main character in" update="2019-07-28">
+<rating votes="26">4.04</rating>
+<name>Takamiya Naho</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Takamiya Naho is a high school student who receives a mysterious letter claiming to be from herself in the future. The letter concerns the transfer student http://anidb.net/ch81239 [Naruse Kakeru] and presents many demands, which she then tries to meet.</description>
+<picture>184819.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="81239" type="main character in" update="2017-10-26">
+<rating votes="15">3.64</rating>
+<name>Naruse Kakeru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Naruse Kakeru is a transfer student from Tokyo. During the first day of classes, he gets invited to go out with http://anidb.net/ch81238 [Naho] and her friends, so he ditches his previous arrangement of taking his mother to the hospital.</description>
+<picture>184817.jpg</picture>
+<seiyuu id="37882" picture="173035.jpg">Yamashita Seiichirou</seiyuu>
+</character>
+<character id="81240" type="main character in" update="2017-10-26">
+<rating votes="13">5.70</rating>
+<name>Hagita Saku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hagita Saku is http://anidb.net/ch81238 [Naho]`s classmate and one of her friends. He receives a letter claiming to be from his future self with many requests for him.</description>
+<picture>184821.jpg</picture>
+<seiyuu id="1692" picture="224934.jpg">Okitsu Kazuyuki</seiyuu>
+</character>
+<character id="81241" type="main character in" update="2017-10-26">
+<rating votes="20">8.31</rating>
+<name>Suwa Hiroto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Suwa Hiroto is http://anidb.net/ch81238 [Naho]`s classmate and one of her friends. He receives a letter claiming to be from his future self with many requests for him.</description>
+<picture>184816.jpg</picture>
+<seiyuu id="34070" picture="130103.jpg">Furukawa Makoto</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="180530" update="2016-11-16">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>2016-11-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

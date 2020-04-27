@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13777" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-01-30</startdate>
+<enddate>2015-01-30</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Xiong Chumo: Xue Ling Xiong Feng</title>
+<title xml:lang="x-zht" type="synonym">Xiong Chumo Zhi Xue Ling Xiong Feng</title>
+<title xml:lang="en" type="official">Boonie Bears: Mystical Winter</title>
+<title xml:lang="zh-Hans" type="official">熊出没之雪岭熊风</title>
+</titles>
+<relatedanime>
+<anime id="12535" type="Parent Story">Xiong Chumo: Chunri Dui Dui Peng</anime>
+</relatedanime>
+<description>A Mystical Winter is a magical, thrilling spectacle/family adventure that tells the legendary tale of The Mystical Spirit of Winter who maintains the harmonious balance on Crystal Peaks. Briar and Bramble were just cubs when they first heard the story. While getting lost in the woods, Bramble stumbles upon the lair of Neva, the Spirit of Winter and forms a long lasting bond with the mystical creature. Years later, the Spirit of Winter returns, and is being hunted by an ambitious collector. Bramble decides to go on a journey to find Neva, and save her from causing the dormant volcano on Crystal Peaks from erupting.
+Source: Official website</description>
+<ratings>
+<permanent count="4">4.39</permanent>
+<temporary count="4">2.50</temporary>
+</ratings>
+<picture>212556.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32809</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Boonie_Bears:_Mystical_Winter</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>熊出没之雪岭熊风</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="195853" update="2018-02-08">
+<epno type="1">1</epno>
+<length>100</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

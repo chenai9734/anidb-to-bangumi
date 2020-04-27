@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11267" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2008-12-07</startdate>
+<enddate>2008-12-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gegege no Kitarou: Youkai Japan Rally 3D</title>
+<title xml:lang="ja" type="official">ゲゲゲの鬼太郎 妖怪JAPANラリー3D</title>
+</titles>
+<relatedanime>
+<anime id="5049" type="Parent Story">Gegege no Kitarou (2007)</anime>
+</relatedanime>
+<ratings>
+<permanent count="5">3.24</permanent>
+<temporary count="5">2.80</temporary>
+</ratings>
+<picture>217882.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28103</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://corp.toei-anim.co.jp/english/film/gegege_no_kitaro_yokai_japan_r.php</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="169065" update="2015-06-19">
+<epno type="1">1</epno>
+<length>8</length>
+<airdate>2008-12-07</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

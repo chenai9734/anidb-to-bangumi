@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14263" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981-10-09</startdate>
+<enddate>1981-10-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Oyayubi Hime (1981)</title>
+<title xml:lang="ja" type="official">おやゆびひめ</title>
+</titles>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+<ratings>
+<permanent count="3">6.31</permanent>
+<temporary count="3">5.33</temporary>
+</ratings>
+<picture>222197.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35090</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gakken-eizo.com/artanime/movie.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>147818</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="204230" update="2018-08-13">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1981-10-09</airdate>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

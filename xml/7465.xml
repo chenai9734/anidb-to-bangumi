@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7465" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-06-30</startdate>
+<enddate>1990-06-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Midoriyama Koukou Koushien Hen (Gekijouban)</title>
+<title xml:lang="ja" type="official">緑山高校 甲子園編 (劇場版)</title>
+</titles>
+<relatedanime>
+<anime id="7464" type="Other">Midoriyama Koukou Koushien Hen</anime>
+</relatedanime>
+<creators>
+<name id="23259" type="Original Work">Kuwasawa Atsuo</name>
+<name id="5000" type="Direction">Ikeda Masashi</name>
+</creators>
+<ratings>
+<permanent count="3">6.07</permanent>
+<temporary count="3">4.00</temporary>
+</ratings>
+<picture>45455.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8181</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>8522</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2634</identifier>
+<identifier>xhxyqh</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151111</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2490</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="28" parentid="2881" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-16">
+<name>baseball</name>
+<description>Baseball is like a complicated version of Rounders. It involves hitting a ball with a stick, then running around several bases placed in the form of a diamond on a field. Big in the US, and also in Japan.</description>
+<picurl>29801.jpg</picurl>
+</tag>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="117258" update="2010-03-30">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1990-06-30</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="138868" update="2012-04-13">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

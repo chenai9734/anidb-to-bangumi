@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1897" restricted="false">
+<type>TV Series</type>
+<episodecount>90</episodecount>
+<startdate>1969-04-04</startdate>
+<enddate>1970-12-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mooretsu Atarou</title>
+<title xml:lang="en" type="synonym">Extraordinary Ataro</title>
+<title xml:lang="ja" type="official">もーれつア太郎</title>
+</titles>
+<relatedanime>
+<anime id="1898" type="Other">Mooretsu Atarou (1990)</anime>
+</relatedanime>
+<url>http://www.toei-anim.co.jp/lineup/tv/ataro/</url>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="977" type="Original Work">Akatsuka Fujio</name>
+<name id="4847" type="Music">Izumi Taku</name>
+</creators>
+<description>* Based on a manga of http://anidb.net/cr977 [Akatsuka Fujio].
+Batsugoro was the owner of a grocery store, Yaobatsu. When he tried to take a balloon hanged caught on the branch for a little child, he fell on to the ground to die. His son, Ataro, succeeded to the store, but Batsugoro was worried about him, and he remained there being a ghost. Ataro managed the shop alone, but soon his follower, Dekoppachi, began to help him. Being surrounded by strange characters such as, Nyarome, Butamatsu, the heart-warming story develops.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="8">2.24</permanent>
+<temporary count="8">3.00</temporary>
+</ratings>
+<picture>204450.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1460</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20001</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1800</identifier>
+<identifier>adybuz</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.toei-anim.co.jp/lineup/tv/ataro/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Mōretsu_Atarō</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>もーれつア太郎</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89606</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1381</identifier>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/987</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>n029</identifier>
+</externalentity>
+<externalentity>
+<identifier>72</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="37190" type="secondary cast in" update="2012-06-16">
+<rating votes="3">3.33</rating>
+<name>Kemunpas</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>89645.jpg</picture>
+<seiyuu id="2981" picture="23711.jpg">Noda Keiichi</seiyuu>
+</character>
+<character id="37193" type="secondary cast in" update="2012-06-16">
+<rating votes="4">3.33</rating>
+<name>Nyarome</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>89650.jpg</picture>
+<seiyuu id="278" picture="44088.jpg">Ootake Hiroshi</seiyuu>
+</character>
+<character id="45960" type="main character in" update="2012-06-16">
+<name>Atarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>89642.jpg</picture>
+<seiyuu id="3645" picture="25834.jpg">Yamamoto Keiko</seiyuu>
+</character>
+<character id="45961" type="secondary cast in" update="2012-06-16">
+<name>Kamisama</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3476.gif</picture>
+<seiyuu id="9443" picture="34858.jpg">Kamiyama Takuzou</seiyuu>
+</character>
+<character id="45962" type="secondary cast in" update="2012-06-16">
+<name>Kamisama no Deshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3477.gif</picture>
+<seiyuu id="9347" picture="34528.jpg">Ichiryuusai Teiyuu</seiyuu>
+</character>
+<character id="45963" type="secondary cast in" update="2012-06-16">
+<name>Kumagorou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3478.gif</picture>
+<seiyuu id="29508" picture="24699.jpg">Kitagawa Kunihiko</seiyuu>
+</character>
+<character id="45964" type="secondary cast in" update="2012-06-16">
+<name>Kumagorou no Tsuma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3479.gif</picture>
+<seiyuu id="34473" picture="51986.jpg">Tsuda Mariko</seiyuu>
+</character>
+<character id="45965" type="secondary cast in" update="2012-06-16">
+<name>Kuroneko no Tangorou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3481.gif</picture>
+<seiyuu id="416" picture="23206.jpg">Saka Osamu</seiyuu>
+</character>
+<character id="45966" type="secondary cast in" update="2012-06-16">
+<name>Koi Suru Nanashi Neko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3482.gif</picture>
+</character>
+<character id="45967" type="secondary cast in" update="2012-06-16">
+<name>Kokoro no Boss</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>89646.jpg</picture>
+<seiyuu id="3241" picture="24745.jpg">Yanami Jouji</seiyuu>
+</character>
+<character id="45968" type="secondary cast in" update="2012-06-16">
+<name>Kokoro no Kopun A</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3485.gif</picture>
+<seiyuu id="2981" picture="23711.jpg">Noda Keiichi</seiyuu>
+</character>
+<character id="45969" type="secondary cast in" update="2012-06-16">
+<name>Kokoro no Kopun B</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3489.gif</picture>
+<seiyuu id="2942" picture="23713.jpg">Tanonaka Isamu</seiyuu>
+</character>
+<character id="45970" type="secondary cast in" update="2012-06-16">
+<name>Dekoppachi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3495.gif</picture>
+<seiyuu id="21144" picture="142515.jpg">Katou Midori</seiyuu>
+</character>
+<character id="45971" type="secondary cast in" update="2012-06-16">
+<name>Deko-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3490.gif</picture>
+<seiyuu id="386" picture="187997.jpg">Nozawa Masako</seiyuu>
+</character>
+<character id="45972" type="secondary cast in" update="2012-06-16">
+<name>Batsugorou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3496.gif</picture>
+<seiyuu id="201" picture="17016.jpg">Nagai Ichirou</seiyuu>
+</character>
+<character id="45973" type="secondary cast in" update="2012-06-16">
+<name>Piyoko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3501.gif</picture>
+</character>
+</characters>
+<episodes>
+<episode id="52411" update="2007-10-02">
+<epno type="1">1</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ息子とグータラ親父 / もーれつワンワン大暴れ</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="83203" update="2007-10-02">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>1970-03-13</airdate>
+<title xml:lang="ja">八百×最大のピンチニャロメ -その1- / 八百×最大のピンチニャロメ -その2-</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="83204" update="2007-10-02">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>1970-03-06</airdate>
+<title xml:lang="ja">食われてたまるかニャロメ / 逆襲ねむりねこ</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="83205" update="2007-10-02">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>1970-02-27</airdate>
+<title xml:lang="ja">男でござる東海道 -その1- / 男でござる東海道 -その2-</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="83206" update="2007-10-02">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>1970-02-20</airdate>
+<title xml:lang="ja">誇り高きニャロメ / ニャロメのマイホーム</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="83207" update="2007-10-02">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>1970-02-13</airdate>
+<title xml:lang="ja">ライバルをぶっとばせ / あなたごのみのニャロメになりたい</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="83208" update="2007-10-02">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>1970-02-06</airdate>
+<title xml:lang="ja">禁じられた恋ニャロメ / かけた情けが仇ニャロメ</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="83209" update="2007-10-02">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>1970-01-30</airdate>
+<title xml:lang="ja">男一匹デコッ八 -その1- / 男一匹デコッ八 -その2-</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="83210" update="2007-10-02">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>1970-01-23</airdate>
+<title xml:lang="ja">日本一のモノグサ野郎 / ケムンパス危機連発</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="83211" update="2007-10-02">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>1970-01-16</airdate>
+<title xml:lang="ja">ひねくれねじくれ意地くらべ -その1- / ひねくれねじくれ意地くらべ -その2-</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="83212" update="2007-10-02">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>1970-01-09</airdate>
+<title xml:lang="ja">メチャクチャマラソン大会 -その1- / メチャクチャマラソン大会 -その2-</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="83213" update="2007-10-02">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>1970-01-02</airdate>
+<title xml:lang="ja">ニャイてたまるか / 悪魔のドキャット</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="83214" update="2007-10-02">
+<epno type="1">39</epno>
+<length>25</length>
+<title xml:lang="ja">ココロの親分のもーれつ思い出 / ココロのもーれつ雪だるま</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="83215" update="2007-10-02">
+<epno type="1">38</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつブタのもーれつ悲劇 / あゝもーれつヨッパライ</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="83216" update="2007-10-02">
+<epno type="1">37</epno>
+<length>25</length>
+<title xml:lang="ja">ニャロメのもーれつシャーワセ / 押しかけ恩人もーれつ稼業</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="83217" update="2007-10-02">
+<epno type="1">36</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつチビシイ柔道修業 / もーれつざんこくギロチン一家</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="83218" update="2007-10-02">
+<epno type="1">35</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ赤い靴騒動 -その1- / もーれつ赤い靴騒動 -その2-</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="83219" update="2007-10-02">
+<epno type="1">34</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつインチキ坊ちゃん / もーれつ魚つり合戦</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="83220" update="2007-10-02">
+<epno type="1">33</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ涙はあついのココロ -その1- / もーれつ涙はあついのココロ -その2-</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="83221" update="2007-10-02">
+<epno type="1">32</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつやさしいココロのココロ / 神様のもーれつおルス番</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="83222" update="2007-10-02">
+<epno type="1">31</epno>
+<length>25</length>
+<title xml:lang="ja">デコッ八のもーれつペンフレンド -その1- / デコッ八のもーれつペンフレンド -その2-</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="83223" update="2007-10-02">
+<epno type="1">30</epno>
+<length>25</length>
+<title xml:lang="ja">白昼のもーれつ決斗 / もーれつ雨降りもーれつ騒動</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="83224" update="2007-10-02">
+<epno type="1">29</epno>
+<length>25</length>
+<title xml:lang="ja">デコッ八のもーれつショック -その1- / デコッ八のもーれつショック -その2-</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="83225" update="2007-10-02">
+<epno type="1">28</epno>
+<length>25</length>
+<title xml:lang="ja">やってきたもーれつお馬ちゃん / もーれつノラ馬ブスタング</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="83226" update="2007-10-02">
+<epno type="1">27</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつハンサムつらいのこころ / 泣け泣けココロのもーれつブルース</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="83227" update="2007-10-02">
+<epno type="1">26</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつまごころプレゼント / 大売り出しもーれつ大景品</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="83228" update="2007-10-02">
+<epno type="1">25</epno>
+<length>25</length>
+<title xml:lang="ja">男と男のもーれつ友情 / もーれつ殺しのメロディ</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="83229" update="2007-10-02">
+<epno type="1">24</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつニャロメのこねこちゃん / インチキ男のもーれつ天罰</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="83230" update="2007-10-02">
+<epno type="1">23</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ親分その名はココロ / もーれつかわいいピヨコちゃん</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="83231" update="2007-10-02">
+<epno type="1">22</epno>
+<length>25</length>
+<title xml:lang="ja">大当たりもーれつ一座 -その1- / 大当たりもーれつ一座 -その2-</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="83232" update="2007-10-02">
+<epno type="1">21</epno>
+<length>25</length>
+<title xml:lang="ja">ああもーれつイソウロウ / もーれつお見合いゴーゴーゴー</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="83233" update="2007-10-02">
+<epno type="1">20</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ江戸っ子まつり -その1- / もーれつ江戸っ子まつり -その2-</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="83234" update="2007-10-02">
+<epno type="1">19</epno>
+<length>25</length>
+<title xml:lang="ja">あついょあついもーれつあつい / もーれつスナック大売り出し</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="83235" update="2007-10-02">
+<epno type="1">18</epno>
+<length>25</length>
+<title xml:lang="ja">ビックリシャックリもーれつ遺産 -その1- / ビックリシャックリもーれつ遺産 -その2-</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="83236" update="2007-10-02">
+<epno type="1">17</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつブタのもーれつ騒動 / ブタ松一家もーれつピンチ</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="83237" update="2007-10-02">
+<epno type="1">16</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつコンビのもーれつビンボウ / もーれつ山賊退治</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="83238" update="2007-10-02">
+<epno type="1">15</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ借金取り / もーれつコンビのカンニンブクロ</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="83239" update="2007-10-02">
+<epno type="1">14</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ小僧大暴れ / 神さまもーれつ大売出し</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="83240" update="2007-10-02">
+<epno type="1">13</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつもてもてデコッ八 / もーれつ強盗さようなら</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="83241" update="2007-10-02">
+<epno type="1">12</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ社長のもーれつルンペン / 泣くなもーれつカン太郎</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="83242" update="2007-10-02">
+<epno type="1">11</epno>
+<length>25</length>
+<title xml:lang="ja">とうちゃんのもーれつロボット / もーれつ剣豪とうちゃん</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="83243" update="2007-10-02">
+<epno type="1">10</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつかあちゃんやってきた / ブタ松のもーれつお嫁さん</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="83244" update="2007-10-02">
+<epno type="1">9</epno>
+<length>25</length>
+<title xml:lang="ja">ブタ松のもーれついそうろう / なぐりこみもーれつブタ松一家</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="83245" update="2007-10-02">
+<epno type="1">8</epno>
+<length>25</length>
+<title xml:lang="ja">男どうしのもーれつけんか / もーれつ親分大売り出し</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="83246" update="2007-10-02">
+<epno type="1">7</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ地獄のもーれつショー / ア太郎のもーれつマチガイ</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="83247" update="2007-10-02">
+<epno type="1">6</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつにすてきなあの子 -その1- / もーれつにすてきなあの子 -その2-</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="83248" update="2007-10-02">
+<epno type="1">5</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつネコきち一家 / あゝもーれつシゴキ</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="83249" update="2007-10-02">
+<epno type="1">4</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつ天国へやってきな -その1- / もーれつ天国へやってきな -その2-</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="83250" update="2007-10-02">
+<epno type="1">3</epno>
+<length>25</length>
+<title xml:lang="ja">デコッ八のもーれつ子分 / 男の中のもーれつ男</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="83251" update="2007-10-02">
+<epno type="1">2</epno>
+<length>25</length>
+<title xml:lang="ja">もーれつとうちゃん長生きしろよ / とうちゃんのもーれつ幽霊</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="83252" update="2007-10-02">
+<epno type="1">90</epno>
+<length>25</length>
+<airdate>1970-12-25</airdate>
+<title xml:lang="ja">すごいかわい子ちゃん / おむこさんになりたいのココロ</title>
+<title xml:lang="en">Episode 90</title>
+</episode>
+<episode id="83253" update="2007-10-02">
+<epno type="1">89</epno>
+<length>25</length>
+<airdate>1970-12-18</airdate>
+<title xml:lang="ja">ニャロメ偉人伝 -その1- / ニャロメ偉人伝 -その2-</title>
+<title xml:lang="en">Episode 89</title>
+</episode>
+<episode id="83254" update="2007-10-02">
+<epno type="1">88</epno>
+<length>25</length>
+<airdate>1970-12-11</airdate>
+<title xml:lang="ja">もてもてニャロメべし -その1- / もてもてニャロメべし -その2-</title>
+<title xml:lang="en">Episode 88</title>
+</episode>
+<episode id="83255" update="2007-10-02">
+<epno type="1">87</epno>
+<length>25</length>
+<airdate>1970-12-04</airdate>
+<title xml:lang="ja">ニャッポン一のへんな交番 -その1- / ニャッポン一のへんな交番 -その2-</title>
+<title xml:lang="en">Episode 87</title>
+</episode>
+<episode id="83256" update="2007-10-02">
+<epno type="1">86</epno>
+<length>25</length>
+<airdate>1970-11-27</airdate>
+<title xml:lang="ja">ニャロメえり巻きとニャる / 空飛ぶケムンパス</title>
+<title xml:lang="en">Episode 86</title>
+</episode>
+<episode id="83257" update="2007-10-02">
+<epno type="1">85</epno>
+<length>25</length>
+<airdate>1970-11-20</airdate>
+<title xml:lang="ja">バスは出てゆく煙はのこる -その1- / バスは出てゆく煙はのこる -その2-</title>
+<title xml:lang="en">Episode 85</title>
+</episode>
+<episode id="83258" update="2007-10-02">
+<epno type="1">84</epno>
+<length>25</length>
+<airdate>1970-11-13</airdate>
+<title xml:lang="ja">俺はシャビしいニャロメ -その1- / 俺はシャビしいニャロメ -その2-</title>
+<title xml:lang="en">Episode 84</title>
+</episode>
+<episode id="83259" update="2007-10-02">
+<epno type="1">83</epno>
+<length>25</length>
+<airdate>1970-11-06</airdate>
+<title xml:lang="ja">花のオデコの女の子 -その1- / 花のオデコの女の子 -その2-</title>
+<title xml:lang="en">Episode 83</title>
+</episode>
+<episode id="83260" update="2007-10-02">
+<epno type="1">82</epno>
+<length>25</length>
+<airdate>1970-10-30</airdate>
+<title xml:lang="ja">ニャロメだ! 結婚だ! -その1- / ニャロメだ! 結婚だ! -その2-</title>
+<title xml:lang="en">Episode 82</title>
+</episode>
+<episode id="83261" update="2007-10-02">
+<epno type="1">81</epno>
+<length>25</length>
+<airdate>1970-10-23</airdate>
+<title xml:lang="ja">ニャロメ恋に泣く -その1- / ニャロメ恋に泣く -その2-</title>
+<title xml:lang="en">Episode 81</title>
+</episode>
+<episode id="83262" update="2007-10-02">
+<epno type="1">80</epno>
+<length>25</length>
+<airdate>1970-10-16</airdate>
+<title xml:lang="ja">天国よいとこザンス / 死んでもらいやしょうのココロ</title>
+<title xml:lang="en">Episode 80</title>
+</episode>
+<episode id="83263" update="2007-10-02">
+<epno type="1">79</epno>
+<length>25</length>
+<airdate>1970-10-09</airdate>
+<title xml:lang="ja">瞼の父ゴコロ / 人類と猫の進歩と調和ニャロメ</title>
+<title xml:lang="en">Episode 79</title>
+</episode>
+<episode id="83264" update="2007-10-02">
+<epno type="1">78</epno>
+<length>25</length>
+<airdate>1970-10-02</airdate>
+<title xml:lang="ja">札束でぶんニャぐれ!! -その1- / 札束でぶんニャぐれ!! -その2-</title>
+<title xml:lang="en">Episode 78</title>
+</episode>
+<episode id="83265" update="2007-10-02">
+<epno type="1">77</epno>
+<length>25</length>
+<airdate>1970-09-25</airdate>
+<title xml:lang="ja">喰われちゃたまらんべし / 金にうらみがあるニャロメ</title>
+<title xml:lang="en">Episode 77</title>
+</episode>
+<episode id="83266" update="2007-10-02">
+<epno type="1">76</epno>
+<length>25</length>
+<airdate>1970-09-18</airdate>
+<title xml:lang="ja">俺と結婚しろニャロメ / あこがれのニャロメべし</title>
+<title xml:lang="en">Episode 76</title>
+</episode>
+<episode id="83267" update="2007-10-02">
+<epno type="1">75</epno>
+<length>25</length>
+<airdate>1970-09-11</airdate>
+<title xml:lang="ja">泣きドロボーニャロメ / ニャロメを消せ!</title>
+<title xml:lang="en">Episode 75</title>
+</episode>
+<episode id="83268" update="2007-10-02">
+<epno type="1">74</epno>
+<length>25</length>
+<airdate>1970-09-04</airdate>
+<title xml:lang="ja">ヒコーキ泥棒ニャロメ! -その1- / ヒコーキ泥棒ニャロメ! -その2-</title>
+<title xml:lang="en">Episode 74</title>
+</episode>
+<episode id="83269" update="2007-10-02">
+<epno type="1">73</epno>
+<length>25</length>
+<airdate>1970-08-28</airdate>
+<title xml:lang="ja">男ココロの泣きどころ / とんでもハプニング</title>
+<title xml:lang="en">Episode 73</title>
+</episode>
+<episode id="83270" update="2007-10-02">
+<epno type="1">72</epno>
+<length>25</length>
+<airdate>1970-08-21</airdate>
+<title xml:lang="ja">命短し恋せよココロ -その1- / 命短し恋せよココロ -その2-</title>
+<title xml:lang="en">Episode 72</title>
+</episode>
+<episode id="83271" update="2007-10-02">
+<epno type="1">71</epno>
+<length>25</length>
+<airdate>1970-08-14</airdate>
+<title xml:lang="ja">走れ!ニャロメロス -その1- / 走れ!ニャロメロス -その2-</title>
+<title xml:lang="en">Episode 71</title>
+</episode>
+<episode id="83272" update="2007-10-02">
+<epno type="1">70</epno>
+<length>25</length>
+<airdate>1970-08-07</airdate>
+<title xml:lang="ja">怪談八百×ユーレイ -その1- / 怪談八百×ユーレイ -その2-</title>
+<title xml:lang="en">Episode 70</title>
+</episode>
+<episode id="83273" update="2007-10-02">
+<epno type="1">69</epno>
+<length>25</length>
+<airdate>1970-07-31</airdate>
+<title xml:lang="ja">ニャロメ恋狂い -その1- / ニャロメ恋狂い -その2-</title>
+<title xml:lang="en">Episode 69</title>
+</episode>
+<episode id="83274" update="2007-10-02">
+<epno type="1">68</epno>
+<length>25</length>
+<airdate>1970-07-24</airdate>
+<title xml:lang="ja">二人のデコッ八 -その1- / 二人のデコッ八 -その2-</title>
+<title xml:lang="en">Episode 68</title>
+</episode>
+<episode id="83275" update="2007-10-02">
+<epno type="1">67</epno>
+<length>25</length>
+<airdate>1970-07-17</airdate>
+<title xml:lang="ja">女はしごくべしニャロメ -その1- / 女はしごくべしニャロメ -その2-</title>
+<title xml:lang="en">Episode 67</title>
+</episode>
+<episode id="83276" update="2007-10-02">
+<epno type="1">66</epno>
+<length>25</length>
+<airdate>1970-07-10</airdate>
+<title xml:lang="ja">ザ・ギャードマンニャロメ / サインはブイべし</title>
+<title xml:lang="en">Episode 66</title>
+</episode>
+<episode id="83277" update="2007-10-02">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>1970-07-03</airdate>
+<title xml:lang="ja">タバコのココロは命がけ / ニャロメの恋の物語</title>
+<title xml:lang="en">Episode 65</title>
+</episode>
+<episode id="83278" update="2007-10-02">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>1970-06-26</airdate>
+<title xml:lang="ja">男一匹対女一匹 -その1- / 男一匹対女一匹 -その2-</title>
+<title xml:lang="en">Episode 64</title>
+</episode>
+<episode id="83279" update="2007-10-02">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>1970-06-19</airdate>
+<title xml:lang="ja">ニャロメの子守歌 -その1- / ニャロメの子守歌 -その2-</title>
+<title xml:lang="en">Episode 63</title>
+</episode>
+<episode id="83280" update="2007-10-02">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>1970-06-12</airdate>
+<title xml:lang="ja">欠陥神様をしごけニャロメ -その1- / 欠陥神様をしごけニャロメ -その2-</title>
+<title xml:lang="en">Episode 62</title>
+</episode>
+<episode id="83281" update="2007-10-02">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>1970-06-05</airdate>
+<title xml:lang="ja">射ちつ射たれつ射つニャロメ / ゲバダコをさがせ</title>
+<title xml:lang="en">Episode 61</title>
+</episode>
+<episode id="83282" update="2007-10-02">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>1970-05-29</airdate>
+<title xml:lang="ja">どしゃぶりの涙雨ニャロメ / 花と少女と江戸っ子と</title>
+<title xml:lang="en">Episode 60</title>
+</episode>
+<episode id="83283" update="2007-10-02">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>1970-05-22</airdate>
+<title xml:lang="ja">やるべしニャロメは男でやんす -その1- / やるべしニャロメは男でやんす -その2-</title>
+<title xml:lang="en">Episode 59</title>
+</episode>
+<episode id="83284" update="2007-10-02">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>1970-05-15</airdate>
+<title xml:lang="ja">ガンと一発男のパンチ/ 血斗ニャロメ対ココロ</title>
+<title xml:lang="en">Episode 58</title>
+</episode>
+<episode id="83285" update="2007-10-02">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>1970-05-08</airdate>
+<title xml:lang="ja">江戸っ子ギャング最大の決戦 -その1- / 江戸っ子ギャング最大の決戦 -その2-</title>
+<title xml:lang="en">Episode 57</title>
+</episode>
+<episode id="83286" update="2007-10-02">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>1970-05-01</airdate>
+<title xml:lang="ja">黒猫のタンゴロー / 初恋ははかないものべし</title>
+<title xml:lang="en">Episode 56</title>
+</episode>
+<episode id="83287" update="2007-10-02">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>1970-04-24</airdate>
+<title xml:lang="ja">トン才教育するべしニャロメ -その1- / トン才教育するべしニャロメ -その2-</title>
+<title xml:lang="en">Episode 55</title>
+</episode>
+<episode id="83288" update="2007-10-02">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>1970-04-17</airdate>
+<title xml:lang="ja">ニャロメ雲にのる / スモウ病発生のこころ</title>
+<title xml:lang="en">Episode 54</title>
+</episode>
+<episode id="83289" update="2007-10-02">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>1970-04-10</airdate>
+<title xml:lang="ja">ケムンパスの恋 / デコッ八はぐれ鳥</title>
+<title xml:lang="en">Episode 53</title>
+</episode>
+<episode id="83290" update="2007-10-02">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>1970-03-27</airdate>
+<title xml:lang="ja">ひみつのシッポちゃん / ニャロメ狂乱すべし</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="83291" update="2007-10-02">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>1970-03-20</airdate>
+<title xml:lang="ja">ココロの怒りは胸にきけ / 欠陥かていキーシども</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="122074" update="2010-09-10">
+<epno type="3">C4</epno>
+<length>2</length>
+<title xml:lang="en">Ending 3</title>
+</episode>
+<episode id="122075" update="2010-09-10">
+<epno type="3">C3</epno>
+<length>2</length>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="122076" update="2010-09-10">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="122077" update="2010-09-10">
+<epno type="3">C1</epno>
+<length>2</length>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

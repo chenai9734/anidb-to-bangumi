@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7144" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2001</startdate>
+<enddate>2001</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekai Meisaku Gekijou Kanketsu Ban: Kazoku Robinson Hyouryuuki - Fushigi na Shima no Flone</title>
+<title xml:lang="en" type="synonym">World Masterpiece Theater Complete Edition: Flone of the Marvelous Island</title>
+<title xml:lang="ja" type="official">世界名作劇場・完結版 家族ロビンソン漂流記 ふしぎな島のフローネ</title>
+</titles>
+<relatedanime>
+<anime id="2302" type="Full Story">Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone</anime>
+</relatedanime>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/flone.php</url>
+<creators>
+<name id="728" type="Work">Nippon Animation</name>
+<name id="1102" type="Work">BS Fuji</name>
+</creators>
+<description>10-year-old Flone is a very active, tomboyish sort of a girl. One day, her father receives a letter from his English friend who is now in Australia. In the letter, the friend asks her father to come down to Australia because of a serious shortage of doctors. The family decides to leave their old house in Bern. Now their drifting voyage has begun!
+Flone`s fantastic adventures will teach children about the importance of family and the joys of living amidst nature`s beauty.</description>
+<ratings>
+<permanent count="4">5.81</permanent>
+<temporary count="4">6.50</temporary>
+</ratings>
+<picture>37990.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24681</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/flone.php</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+</tags>
+<characters>
+<character id="19397" type="main character in" update="2014-01-31">
+<rating votes="5">7.85</rating>
+<name>Flone Robinson</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>The main protagonist and middle daughter of the Robinson family. Flone is free-spirited and willing to do almost anything. She always speaks her mind, and enjoys doing new things. The story is usually told from her point of view.
+[i]Source: Wiki</description>
+<picture>50764.jpg</picture>
+<seiyuu id="2029" picture="236292.jpg">Matsuo Yoshiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="111012" update="2009-10-30">
+<epno type="1">1</epno>
+<length>45</length>
+<title xml:lang="en">Part 1</title>
+</episode>
+<episode id="111013" update="2009-10-30">
+<epno type="1">2</epno>
+<length>45</length>
+<title xml:lang="en">Part 2</title>
+</episode>
+</episodes>
+</anime>

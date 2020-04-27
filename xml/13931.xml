@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13931" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1989</startdate>
+<enddate>1989</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Meoteoldosa</title>
+<title xml:lang="ko" type="official">머털도사</title>
+</titles>
+<relatedanime>
+<anime id="13997" type="Sequel">Meoteoldosawa Ttomae</anime>
+</relatedanime>
+<description>A 1989 Korean movie about a young monk possessing supernatural powers.</description>
+<ratings>
+<permanent count="4">3.62</permanent>
+<temporary count="4">5.00</temporary>
+</ratings>
+<picture>214981.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>18311</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="214279" update="2019-03-25">
+<epno type="1">1</epno>
+<length>80</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

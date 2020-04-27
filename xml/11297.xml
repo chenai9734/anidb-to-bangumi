@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11297" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2003-12-20</startdate>
+<enddate>2003-12-20</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Loufuji: Faandau Jingtaam</title>
+<title xml:lang="x-zht" type="synonym">Laofuzi Fandou Zhentan</title>
+<title xml:lang="zh" type="official">老夫子反斗偵探</title>
+<title xml:lang="en" type="official">Master Q: Incredible Pet Detective</title>
+</titles>
+<relatedanime>
+<anime id="11298" type="Sequel">Loufuji: Siu Seui Fu Chyunkei</anime>
+<anime id="11296" type="Prequel">Saan T Loufuji</anime>
+</relatedanime>
+<ratings>
+<permanent count="11">3.58</permanent>
+<temporary count="11">3.90</temporary>
+</ratings>
+<picture>174740.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30098</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2655" parentid="2853" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4131" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2010-05-11">
+<name>cultural references</name>
+<description>The plot of this anime shows signs of cultural references, these are often jokes that make reference to a certain custom, habit or history that is specifically attributed to that culture. Knowledge of the culture itself is needed in order to properly understand these jokes.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6493" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manhua</name>
+<description>The Chinese equivalent of the Japanese manga, produced in Mainland China, Hong Kong, and Taiwan.
+See also http://anidb.net/t2798 [manga] and http://anidb.net/t5010 [manhwa].</description>
+</tag>
+<tag id="7261" parentid="6493" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>4-koma manhua</name>
+</tag>
+</tags>
+<episodes>
+<episode id="169067" update="2015-06-19">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>2003-12-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

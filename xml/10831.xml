@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10831" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2014-10-07</startdate>
+<enddate>2014-12-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Narihero www</title>
+<title xml:lang="x-jat" type="synonym">Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www (TV)</title>
+<title xml:lang="ja" type="official">なりヒロwww</title>
+</titles>
+<relatedanime>
+<anime id="10836" type="Other">Konna Watashi-tachi ga Nariyuki de Heroine ni Natta Kekka www</anime>
+</relatedanime>
+<url>http://narihero.com/</url>
+<creators>
+<name id="29708" type="Character Design">Sugahara Souta</name>
+<name id="29708" type="Original Plan">Sugahara Souta</name>
+<name id="29708" type="Direction">Sugahara Souta</name>
+<name id="48436" type="Work">Strawberry Meets Pictures</name>
+</creators>
+<description>The story follows Black.inc, the three Soyogi sisters who live in space.</description>
+<ratings>
+<permanent count="10">2.31</permanent>
+<temporary count="10">3.10</temporary>
+</ratings>
+<picture>160644.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16277</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>27519</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://narihero.com/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3547</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>350301</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17627</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6494" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>half-length episodes</name>
+<description>Half-length episodes are regular episodes that are somewhat shorter than the standard length. This includes episodes that are 11 to 20 minutes in length; shows with episodes up to and including 10 minutes are http://anidb.net/t5852 [short episodes] instead.</description>
+</tag>
+</tags>
+<characters>
+<character id="70502" type="main character in" update="2014-10-06">
+<name>Soyogi Sokura</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162351.jpg</picture>
+<seiyuu id="3712" picture="240126.jpg">Tamura Mutsumi</seiyuu>
+</character>
+<character id="70503" type="secondary cast in" update="2014-10-06">
+<name>Soyogi Sokura</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162352.jpg</picture>
+</character>
+<character id="70504" type="main character in" update="2014-10-06">
+<name>Soyogi Purato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162353.jpg</picture>
+<seiyuu id="578" picture="193571.jpg">Tatsumi Yuiko</seiyuu>
+</character>
+<character id="70505" type="secondary cast in" update="2014-10-06">
+<name>Soyogi Purato</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162354.jpg</picture>
+</character>
+<character id="70506" type="main character in" update="2014-10-06">
+<name>Soyogi Alice</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162355.jpg</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+<character id="70507" type="secondary cast in" update="2014-10-06">
+<name>Soyogi Alice</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162356.jpg</picture>
+</character>
+<character id="70508" type="secondary cast in" update="2014-10-06">
+<name>Kyattsuo Toukatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162357.jpg</picture>
+<seiyuu id="38804" picture="232223.jpg">Nishimura Taisuke</seiyuu>
+</character>
+<character id="70509" type="secondary cast in" update="2014-10-06">
+<name>DT</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162358.jpg</picture>
+<seiyuu id="156" picture="227713.jpg">Ochiai Kouji</seiyuu>
+</character>
+<character id="70510" type="secondary cast in" update="2014-10-06">
+<name>Mayoi Neko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>162359.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="163153" update="2014-10-06">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2014-10-28</airdate>
+<title xml:lang="ja">キャッツォ総括, 在りし日を語る / BL, 涙する</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="163154" update="2014-10-06">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2014-10-21</airdate>
+<title xml:lang="ja">ソクラ, 伸び悩む / プラト, 操られる / アリス, 辱めを受ける</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="163155" update="2014-10-06">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2014-10-14</airdate>
+<title xml:lang="ja">ソクラ, 結婚詐欺に合う / プラト, 人生を振り返る / アリス, スイーツ好き設定が加わる</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="163156" update="2014-10-06">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2014-10-07</airdate>
+<title xml:lang="ja">ソクラ, 賛同なくすねる / プラト, ヒロインの居場所をつきとめる / アリス, 火にこだわる</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="164225" update="2014-11-17">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2014-12-23</airdate>
+<title xml:lang="ja">ソクラ, 戦う / プラト, 戦う / アリス, 戦う / 統括, 逃げる / BL, 逃げる</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="164226" update="2014-11-17">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2014-12-16</airdate>
+<title xml:lang="ja">統括, 回想する / BL, 生唾を飲む</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="164227" update="2014-11-17">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2014-12-09</airdate>
+<title xml:lang="ja">ソクラ, ツイてる / プラト, 肩が張る / アリス, やる気まんまん</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="164228" update="2014-11-17">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2014-12-02</airdate>
+<title xml:lang="ja">ソクラ, 変身する / プラト, 変身する / アリス, 変身する</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="164229" update="2014-11-17">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2014-11-25</airdate>
+<title xml:lang="ja">BL, 自己暗示をかける / 3姉妹, 殺し合う</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="164230" update="2014-11-17">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2014-11-18</airdate>
+<title xml:lang="ja">ソクラ, おしりを奪われる / プラト, 付き合わされうんざり / アリス, ハイテンション</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="164231" update="2014-11-17">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2014-11-11</airdate>
+<title xml:lang="ja">ソクラ, ゾクゾクする / プラト, 好き嫌いが発覚 / アリス, ぷよる</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="164232" update="2014-11-17">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2014-11-04</airdate>
+<title xml:lang="ja">ソクラ, 諦める / プラト, 悟る / アリス, 記憶を飛ばす</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+</episodes>
+</anime>

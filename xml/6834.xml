@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6834" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1924</startdate>
+<enddate>1924</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shou-chan no Bouken</title>
+<title xml:lang="ja" type="official">正ちゃんの冒険</title>
+</titles>
+<description>* Based on the manga of the same name.
+The story is about a young boy and his squirrel friend who travel all over the world and find adventure.</description>
+<ratings>
+<permanent count="1">1.35</permanent>
+<temporary count="1">2.00</temporary>
+</ratings>
+<picture>33806.jpg</picture>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106586" update="2009-08-29">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

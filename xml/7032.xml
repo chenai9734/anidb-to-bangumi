@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7032" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1984-03-17</startdate>
+<enddate>1984-03-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ultraman Kids: M7.8 Sei no Yukai na Nakama</title>
+<title xml:lang="ja" type="synonym">ウルトラマンキッズ M7.8星のゆかいな仲間</title>
+<title xml:lang="ja" type="synonym">ウルトラマン キッズ M7.8星のゆかいな仲間</title>
+<title xml:lang="en" type="synonym">Ultraman Kids: M7.8 Star of Young Friends</title>
+<title xml:lang="ja" type="official">ULTRAMAN Kids M7.8星のゆかいな仲間</title>
+</titles>
+<relatedanime>
+<anime id="2347" type="Same Setting">The Ultraman</anime>
+<anime id="8849" type="Same Setting">Ultraman M78 Gekijou: Love &amp; Peace</anime>
+<anime id="3161" type="Other">Ultraman Kids no Kotowaza Monogatari</anime>
+</relatedanime>
+<creators>
+<name id="3962" type="Music">Kikuchi Shunsuke</name>
+<name id="11038" type="Work">Tsuburaya Production</name>
+</creators>
+<ratings>
+<permanent count="11">3.48</permanent>
+<temporary count="11">4.18</temporary>
+</ratings>
+<picture>241945.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11076</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10909</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3082</identifier>
+<identifier>tyetmx</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>148911</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3558</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="44552" type="secondary cast in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Erepii</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87618.jpg</picture>
+</character>
+<character id="44553" type="secondary cast in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Gamara</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87644.jpg</picture>
+<seiyuu id="289" picture="186204.jpg">Nishimura Tomomichi</seiyuu>
+</character>
+<character id="44554" type="main character in" update="2012-05-11">
+<rating votes="1">1.50</rating>
+<name>Taa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87624.jpg</picture>
+</character>
+<character id="44555" type="secondary cast in" update="2012-05-11">
+<rating votes="1">1.50</rating>
+<name>Baru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87625.jpg</picture>
+<seiyuu id="32813">Minakura Kumiko</seiyuu>
+</character>
+<character id="44556" type="main character in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Piguko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87620.jpg</picture>
+<seiyuu id="6699" picture="145242.jpg">Oosugi Kumiko</seiyuu>
+</character>
+<character id="44557" type="main character in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Piko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87619.jpg</picture>
+</character>
+<character id="44558" type="secondary cast in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Majara</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87643.jpg</picture>
+<seiyuu id="3252" picture="24231.jpg">Tomiyama Kei</seiyuu>
+</character>
+<character id="44559" type="main character in" update="2012-05-11">
+<rating votes="1">1.50</rating>
+<name>Maa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87622.jpg</picture>
+<seiyuu id="30828" picture="31690.jpg">Yamada Kyouko</seiyuu>
+</character>
+<character id="44560" type="main character in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Midori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87621.jpg</picture>
+</character>
+<character id="44561" type="secondary cast in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Mefira</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87626.jpg</picture>
+</character>
+<character id="44562" type="main character in" update="2012-05-11">
+<rating votes="1">1.05</rating>
+<name>Ruukii</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87623.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="108569" update="2012-09-09">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1984-03-17</airdate>
+<rating votes="1">1.05</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12878" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1931</startdate>
+<enddate>1931</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Denshin Denrei Denwa</title>
+<title xml:lang="en" type="synonym">Electrical Telegraphy, Electric Bells and Telephones</title>
+<title xml:lang="ja" type="official">電信 電鈴 電話</title>
+</titles>
+<ratings>
+<permanent count="18">2.75</permanent>
+<temporary count="18">3.83</temporary>
+</ratings>
+<picture>198732.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35409</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184955" update="2017-02-22">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

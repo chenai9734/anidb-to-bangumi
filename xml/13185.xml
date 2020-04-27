@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13185" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981-08-09</startdate>
+<enddate>1981-08-09</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Robot King</title>
+<title xml:lang="ko" type="official">로보트킹</title>
+</titles>
+<ratings>
+<permanent count="3">1.47</permanent>
+<temporary count="3">2.66</temporary>
+</ratings>
+<picture>202739.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>16620</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="188069" update="2017-05-31">
+<epno type="1">1</epno>
+<length>65</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

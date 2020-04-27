@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6975" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1971-09-11</startdate>
+<enddate>1971-09-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nihon Manga Eiga Hattatsushi: Manga Eiga Tanjou</title>
+<title xml:lang="en" type="synonym">The Story and Development of Japanese Animated Cartoons</title>
+<title xml:lang="ja" type="official">日本漫画映画発達史・漫画映画誕生</title>
+</titles>
+<relatedanime>
+<anime id="6977" type="Other">Nihon Manga Eiga Hattatsushi: Anime Shingajou</anime>
+</relatedanime>
+<creators>
+<name id="7998" type="Music">Miyashita Shigeru</name>
+</creators>
+<description>Black and white feature film about the birth and history of animation.</description>
+<ratings>
+<permanent count="1">4.64</permanent>
+<temporary count="1">4.00</temporary>
+</ratings>
+<resources>
+<resource type="9">
+<externalentity>
+<identifier>143714</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m048</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108289" update="2009-09-05">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1971-09-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

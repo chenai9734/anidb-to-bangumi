@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9193" restricted="false">
+<type>TV Series</type>
+<episodecount>38</episodecount>
+<startdate>2003-07-09</startdate>
+<enddate>2004-03-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Topo Gigio Gekijou</title>
+<title xml:lang="ja" type="official">トッポ・ジージョ劇場</title>
+</titles>
+<relatedanime>
+<anime id="5054" type="Character">Topo Gigio</anime>
+</relatedanime>
+<creators>
+<name id="32394" type="Original Work">Maria Perego</name>
+</creators>
+<ratings>
+<permanent count="1">3.20</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>86670.jpg</picture>
+<resources>
+<resource type="7">
+<externalentity>
+<identifier>トッポ・ジージョ#2003.E5.B9.B4.E7.89.88</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>319064</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="139284" update="2012-05-08">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2003-07-09</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="139477" update="2012-05-08">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2004-03-31</airdate>
+<title xml:lang="en">Episode 38</title>
+</episode>
+</episodes>
+</anime>

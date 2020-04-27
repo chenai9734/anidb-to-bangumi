@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11599" restricted="false">
+<type>TV Series</type>
+<episodecount>75</episodecount>
+<startdate>2016-10-02</startdate>
+<enddate>2018-04-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Monster Hunter Stories: Ride On</title>
+<title xml:lang="ja" type="official">モンスターハンターストーリーズ RIDE ON</title>
+<title xml:lang="en" type="official">Monster Hunter Stories: Ride On</title>
+<title xml:lang="pt" type="official">Monster Hunter Stories</title>
+<title xml:lang="zh-Hans" type="official">怪物猎人物语 RIDE ON</title>
+</titles>
+<url>http://www.mh-stories-rideon.jp/</url>
+<creators>
+<name id="2887" type="Animation Work">David Production</name>
+<name id="38090" type="Character Design">Saitou Takuya</name>
+<name id="1465" type="Series Composition">Takahashi Natsuko</name>
+<name id="1283" type="Original Work">Capcom</name>
+<name id="1548" type="Direction">Hongou Mitsuru</name>
+<name id="3326" type="Music">Yokoyama Masaru</name>
+</creators>
+<description>* Based on Monster Hunter Stories RPG by http://anidb.net/cr1283 [Capcom]
+In a world where people and monsters are at odds, some learn to coexist. Known as Riders, they awaken the powers of monsters and live alongside them in secrecy. Now, one young http://anidb.net/ch82191 [boy] journeys to find his own companion and become the world`s greatest Rider.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="72">3.23</permanent>
+<temporary count="72">4.99</temporary>
+</ratings>
+<picture>187057.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18446</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31631</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.mh-stories-rideon.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Monster_Hunter_Stories:_Ride_On</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>モンスターハンター_ストーリーズ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4336</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354149</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>19531</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>MHST_RIDEON</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B079FQX8HD</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+</tags>
+<characters>
+<character id="82190" type="main character in" update="2016-10-30">
+<rating votes="1">1.00</rating>
+<name>Navirou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193821.jpg</picture>
+<seiyuu id="36368" picture="224755.jpg">Mao</seiyuu>
+</character>
+<character id="82191" type="main character in" update="2016-10-30">
+<name>Ryuuto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193819.jpg</picture>
+<seiyuu id="3712" picture="240126.jpg">Tamura Mutsumi</seiyuu>
+</character>
+<character id="82296" type="secondary cast in" update="2016-10-30">
+<name>Lilia</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193820.jpg</picture>
+<seiyuu id="33633" picture="151771.jpg">Takahashi Minami</seiyuu>
+</character>
+<character id="84181" type="secondary cast in" update="2016-10-30">
+<name>Ayuria</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193816.jpg</picture>
+<seiyuu id="475" picture="17433.jpg">Makino Yui</seiyuu>
+</character>
+<character id="84182" type="secondary cast in" update="2016-10-30">
+<name>Omuna-sonchou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193815.jpg</picture>
+<seiyuu id="300" picture="226467.jpg">Gotou Tetsuo</seiyuu>
+</character>
+<character id="84183" type="secondary cast in" update="2016-10-30">
+<name>Simone</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193817.jpg</picture>
+<seiyuu id="18" picture="170423.jpg">Mizuki Nana</seiyuu>
+</character>
+<character id="84184" type="secondary cast in" update="2016-10-30">
+<name>Cheval</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193822.jpg</picture>
+<seiyuu id="29979" picture="223317.jpg">Oosaka Ryouta</seiyuu>
+</character>
+<character id="84185" type="secondary cast in" update="2016-10-30">
+<name>Jeannie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193825.jpg</picture>
+<seiyuu id="38579" picture="225249.jpg">Uchida Yuuma</seiyuu>
+</character>
+<character id="84186" type="secondary cast in" update="2016-10-30">
+<name>Stone</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193826.jpg</picture>
+<seiyuu id="28471" picture="57632.jpg">Yamamoto Itaru</seiyuu>
+</character>
+<character id="84187" type="secondary cast in" update="2016-10-30">
+<name>Dan-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193814.jpg</picture>
+<seiyuu id="10906" picture="200861.jpg">Yanagita Jun`ichi</seiyuu>
+</character>
+<character id="84188" type="secondary cast in" update="2016-10-30">
+<name>Noor</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193827.jpg</picture>
+<seiyuu id="610" picture="18093.jpg">Ooyama Takanori</seiyuu>
+</character>
+<character id="84189" type="secondary cast in" update="2016-10-30">
+<name>Hyoro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193824.jpg</picture>
+<seiyuu id="36494" picture="171541.jpg">Murase Michiyo</seiyuu>
+</character>
+<character id="84190" type="secondary cast in" update="2016-10-30">
+<name>Miru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193823.jpg</picture>
+<seiyuu id="38232" picture="140073.jpg">Asai Ayaka</seiyuu>
+</character>
+<character id="84191" type="secondary cast in" update="2016-10-30">
+<name>Rivelt</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>193818.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="86382" type="secondary cast in" update="2016-11-24">
+<name>Popola</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>195053.jpg</picture>
+</character>
+<character id="91014" type="secondary cast in" update="2017-08-19">
+<name>Manerger-hakase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206380.jpg</picture>
+<seiyuu id="173" picture="150067.jpg">Chafuurin</seiyuu>
+</character>
+<character id="91015" type="secondary cast in" update="2017-08-19">
+<name>Ichibittsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206381.jpg</picture>
+<seiyuu id="2766" picture="181834.jpg">Mamiya Kurumi</seiyuu>
+</character>
+<character id="91016" type="secondary cast in" update="2017-08-19">
+<name>Deburi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206382.jpg</picture>
+<seiyuu id="390" picture="33609.jpg">Okamoto Nobuhiko</seiyuu>
+</character>
+<character id="91017" type="secondary cast in" update="2017-08-19">
+<name>Lars</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206383.jpg</picture>
+<seiyuu id="60" picture="171602.jpg">Kawada Shinji</seiyuu>
+</character>
+<character id="91018" type="secondary cast in" update="2017-08-19">
+<name>Shadow</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206384.jpg</picture>
+<seiyuu id="160" picture="30490.jpg">Kaida Yuuko</seiyuu>
+</character>
+<character id="91019" type="secondary cast in" update="2017-08-19">
+<name>Mad</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206385.jpg</picture>
+<seiyuu id="1692" picture="224934.jpg">Okitsu Kazuyuki</seiyuu>
+</character>
+<character id="91020" type="secondary cast in" update="2017-08-19">
+<name>Gail</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>206386.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="180316" update="2016-11-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2016-10-23</airdate>
+<title xml:lang="ja">絆あわせの儀式</title>
+<title xml:lang="en">The Kinship Rite</title>
+<title xml:lang="x-jat">Kizuna Awase no Gishiki</title>
+<summary>Chief Omna sends the apprentice Riders off in search of the Waterfall of Trials. A visitor to Hakum Village gives Lilia inspiration for her future.
+Source: crunchyroll</summary>
+</episode>
+<episode id="180317" update="2016-11-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2016-10-16</airdate>
+<rating votes="1">3.53</rating>
+<title xml:lang="ja">絶対強者</title>
+<title xml:lang="en">Absolute Power</title>
+<title xml:lang="x-jat">Zettai Kyousha</title>
+<summary>A Hunter is headed for secretive Hakum Village. He`s sure to have his own way of dealing with all these monsters showing up where they don`t belong...
+Source: crunchyroll</summary>
+</episode>
+<episode id="180318" update="2016-11-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2016-10-09</airdate>
+<rating votes="1">5.25</rating>
+<title xml:lang="ja">オトモン誕生!</title>
+<title xml:lang="en">A Monstie Is Born!</title>
+<title xml:lang="x-jat">Otomon Tanjou!</title>
+<summary>It`s Kinship Rite time! Lilia and Cheval are uncertain about their futures, while an unexpected attack on Hakum Village sends its Riders scrambling.
+Source: crunchyroll</summary>
+</episode>
+<episode id="180319" update="2016-11-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2016-10-02</airdate>
+<rating votes="1">5.25</rating>
+<title xml:lang="ja">絆の力</title>
+<title xml:lang="en">The Power of Bonds</title>
+<title xml:lang="x-jat">Kizuna no Chikara</title>
+<summary>Aspiring young Rider Lute and friends go in search of a Monstie Egg on the eve of the Kinship Rite--a search that takes them into dangerous territory.
+Source: crunchyroll</summary>
+</episode>
+<episode id="180707" update="2016-10-02">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2016-10-02</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="181061" update="2016-11-29">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2016-11-20</airdate>
+<title xml:lang="ja">ナビルーの恋</title>
+<title xml:lang="en">Navirou in Love</title>
+<title xml:lang="x-jat">Navirou no Koi</title>
+<summary>Ms. Pink the traveling merchant stops by the village, and Navirou falls hard for her Airou assistant Mocha. How far will he go in the name of love?
+Source: crunchyroll</summary>
+</episode>
+<episode id="181062" update="2016-11-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2016-11-13</airdate>
+<title xml:lang="ja">ドリンコはママの味</title>
+<title xml:lang="en">Like Mom Used to Make</title>
+<title xml:lang="x-jat">Dorinko wa Mama no Aji</title>
+<summary>The mischievous twins Den-Den and Lin-Lin are stirring up trouble in Hakum Village--and run into trouble of their own in the forboding woods at night.
+Source: crunchyroll</summary>
+</episode>
+<episode id="181063" update="2016-11-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2016-11-06</airdate>
+<title xml:lang="ja">金のたまごクエスト</title>
+<title xml:lang="en">Quest for the Golden Egg</title>
+<title xml:lang="x-jat">Kin no Tamago Quest</title>
+<summary>Lute and friends dream about what they`d buy with the proceeds from a rare and valuable golden Gargwa egg, and Cheval decides to try hunting one down.
+Source: crunchyroll</summary>
+</episode>
+<episode id="181064" update="2016-11-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2016-10-30</airdate>
+<title xml:lang="ja">オトモンレース</title>
+<title xml:lang="en">Off to the Monstie Races</title>
+<title xml:lang="x-jat">Otomon Race</title>
+<summary>Hakum Village revives the beloved Monstie Races for their four newest Riders, but Lute could still use a lot more practice piloting his powerful pal.
+Source: crunchyroll</summary>
+</episode>
+<episode id="181982" update="2016-12-19">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2016-12-18</airdate>
+<title xml:lang="ja">ナルガクルガ襲来</title>
+<title xml:lang="en">Invasion of the Nargacuga</title>
+<title xml:lang="x-jat">Nargacuga Shuurai</title>
+<summary>A Blight-mad Nargacuga attacks the village, leaving a trail of blind destruction in its wake as Riders young and old do all they can to drive it away.
+Source: crunchyroll</summary>
+</episode>
+<episode id="181983" update="2016-12-12">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2016-12-11</airdate>
+<title xml:lang="ja">嵐の前</title>
+<title xml:lang="en">Before the Storm</title>
+<title xml:lang="x-jat">Arashi no Mae</title>
+<summary>Lilia leads her friends into the woods to investigate the evil changes taking place. There they learn about a legendary Rider--and about Lute`s folks.
+Source: crunchyroll</summary>
+</episode>
+<episode id="181984" update="2016-12-05">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2016-12-04</airdate>
+<title xml:lang="ja">災厄の予兆</title>
+<title xml:lang="en">Portent of Disaster</title>
+<title xml:lang="x-jat">Saiyaku no Yochou</title>
+<summary>In the latest ill omen, the village`s beneficial wind turns violent. Hyoro struggles to live up to the expectations of his demanding brother Genie.
+Source: crunchyroll</summary>
+</episode>
+<episode id="181985" update="2016-11-28">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2016-11-27</airdate>
+<title xml:lang="ja">DSZ (ダンとシルバのゼッコーチョー!)</title>
+<title xml:lang="en">DSZ (Dan and Silva`s Zeal!)</title>
+<title xml:lang="x-jat">DSZ (Dan to Silva no Zekkouchou!)</title>
+<summary>Dan has doubts about whether he should be leading the Riders in training, and remembers his old friend Silva, who was once a shoo-in to be the leader.
+Source: crunchyroll</summary>
+</episode>
+<episode id="182646" update="2016-12-28">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2016-12-25</airdate>
+<title xml:lang="ja">リオレイア誕生!</title>
+<title xml:lang="en">A Lioleia Is Born!</title>
+<title xml:lang="x-jat">Lioleia Tanjou!</title>
+<summary>There`s no time to clean up after the Nargacuga when it could attack the village again at any moment. Cheval swears revenge and takes a new Monstie.
+Source: crunchyroll</summary>
+</episode>
+<episode id="183106" update="2017-01-29">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2017-01-29</airdate>
+<title xml:lang="ja">なぞなぞじいさん登場!</title>
+<title xml:lang="en">Meet the Riddlemaster</title>
+<title xml:lang="x-jat">Nazonazo Jii-san Toujou!</title>
+<summary>Lute, Navirou, and Avinia encounter an enigmatic, riddle-loving innkeeper who stands between them and the help Avinia needs for her beloved Monstie.
+Source: crunchyroll</summary>
+</episode>
+<episode id="183107" update="2017-01-23">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2017-01-22</airdate>
+<title xml:lang="ja">アユリアの秘密</title>
+<title xml:lang="en">Avinia`s Secret</title>
+<title xml:lang="x-jat">Ayuria no Himitsu</title>
+<summary>Having started their journey outside the village, Lute and Navirou get separated from the others, and find a girl who is hurt and in need of help.
+Source: crunchyroll</summary>
+</episode>
+<episode id="183108" update="2017-01-16">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2017-01-15</airdate>
+<title xml:lang="ja">旅立ちの日</title>
+<title xml:lang="en">The Journey Begins</title>
+<title xml:lang="x-jat">Tabidachi no Hi</title>
+<summary>The time has come for the young Riders to venture forth beyond Hakum Village, accompanied by excitement, responsibility, and not a little trepidation.
+Source: crunchyroll</summary>
+</episode>
+<episode id="183109" update="2017-01-09">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2017-01-08</airdate>
+<title xml:lang="ja">立ち向かえ! 黒の凶気!</title>
+<title xml:lang="en">Face the Black Blight!</title>
+<title xml:lang="x-jat">Tachimukae! Kuro no Kyouki!</title>
+<summary>The apprentice Riders go off on their own to face the Blighted Nargacuga, but it`s going to be tough with Lute`s Monstie still recovering back home...
+Source: crunchyroll</summary>
+</episode>
+<episode id="183714" update="2017-03-07">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2017-02-19</airdate>
+<title xml:lang="ja">ニクキュー村の伝説</title>
+<title xml:lang="en">The Legend of Pawpad Place</title>
+<title xml:lang="x-jat">Nikukyuu Mura no Densetsu</title>
+<summary>Lute and Lilia stumble across a Felyne village while searching for a Kinship Ore. Navirou is confronted by a strange Felyne who insists they`re pals.
+Source: crunchyroll</summary>
+</episode>
+<episode id="183715" update="2017-02-12">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2017-02-12</airdate>
+<title xml:lang="ja">急襲! ネルスキュラ</title>
+<title xml:lang="en">Nerscylla Blitz!</title>
+<title xml:lang="x-jat">Kyuushuu! Nerskyura</title>
+<summary>It`s questing time in the Hunter city of Gildegaran! A task that looks like a piece of cake winds up being more than Lute and Navirou bargained for.
+Source: crunchyroll</summary>
+</episode>
+<episode id="183716" update="2017-02-06">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2017-02-05</airdate>
+<title xml:lang="ja">到着! ギルデカラン</title>
+<title xml:lang="en">Welcome to Gildegaran</title>
+<title xml:lang="x-jat">Touchaku! Guildekaran</title>
+<summary>Lute and friends are dazzled by the big city, but they soon get down to business: finding the Scriveners and a way to keep the Black Blight in check.
+Source: crunchyroll</summary>
+</episode>
+<episode id="184495" update="2017-03-19">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2017-03-19</airdate>
+<title xml:lang="ja">空の飛竜, 陸の飛竜</title>
+<title xml:lang="en">Sky Wyvern, Land Wyvern</title>
+<title xml:lang="x-jat">Sora no Hiryuu, Riku no Hiryuu</title>
+<summary>The rift deepens between fellow Riders Lute and Cheval as their attitudes toward rogue monsters drift further apart. Lute reunites with an old friend.
+Source: crunchyroll</summary>
+</episode>
+<episode id="184496" update="2017-03-14">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2017-03-12</airdate>
+<title xml:lang="ja">角竜慟哭</title>
+<title xml:lang="en">The Horned Wyvern`s Lament</title>
+<title xml:lang="x-jat">Tsunoryuu Doukoku</title>
+<summary>Dan and the other senior Riders meet up with Lute`s party in the desert, where Chief Nolma shares some info that changes the course of their quest.
+Source: crunchyroll</summary>
+</episode>
+<episode id="184497" update="2017-03-06">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2017-03-05</airdate>
+<title xml:lang="ja">砂漠からの救援依頼</title>
+<title xml:lang="en">Desert Mayday</title>
+<title xml:lang="x-jat">Sabaku kara no Kyuuen Irai</title>
+<summary>The group meets with Hunter opposition in the Oasum refugee camp. A desert battle with a Blighted monster gets an unexpected--and unwelcome--assist.
+Source: crunchyroll</summary>
+</episode>
+<episode id="184498" update="2017-02-26">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2017-02-26</airdate>
+<title xml:lang="ja">土砂竜ボルボロス!!</title>
+<title xml:lang="en">Barroth, Landslide Wyvern</title>
+<title xml:lang="x-jat">Dosha Ryuu Borboros!!</title>
+<summary>Lilia brings the young Riders a request from the Scriveners that sends them through a vast desert in search of a solution to the Black Blight problem.
+Source: crunchyroll</summary>
+</episode>
+<episode id="185114" update="2017-03-27">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2017-03-26</airdate>
+<title xml:lang="ja">死闘! 角竜ディアブロス!</title>
+<title xml:lang="en">Diabolical Diablos, Horned Wyvern</title>
+<title xml:lang="x-jat">Shitou! Tsunoryuu Diablos!</title>
+<summary>After proving their mettle against the Blighted Diablos near the ruins of Reverto`s hometown, the Riders reach an understanding about the road ahead.
+Source: crunchyroll</summary>
+</episode>
+<episode id="186160" update="2017-04-17">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2017-04-16</airdate>
+<title xml:lang="ja">進め! ナンバーズ!</title>
+<title xml:lang="en">Onward, Numbers!</title>
+<title xml:lang="x-jat">Susume! Numbers!</title>
+<summary>Discarded like so much trash, Navirou happens to reunite with some old friends. If only he could remember them--or the grand plans they had to escape.
+Source: crunchyroll</summary>
+</episode>
+<episode id="186161" update="2017-04-10">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2017-04-09</airdate>
+<title xml:lang="ja">ドヴァン火山の記憶</title>
+<title xml:lang="en">Dovan Volcano Memories</title>
+<title xml:lang="x-jat">Dovan Kazan no Kioku</title>
+<summary>Why does Navirou`s head hurt at the very mention of the Dovan Volcano? Lute runs into a couple of troublemakers en route to the next Kinship Ore.
+Source: crunchyroll</summary>
+</episode>
+<episode id="186162" update="2017-04-02">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2017-04-02</airdate>
+<title xml:lang="ja">謎の白い竜</title>
+<title xml:lang="en">The Mysterious White Dragon</title>
+<title xml:lang="x-jat">Nazo no Shiroi Ryuu</title>
+<summary>Lute wants the same Monstie as the legendary hero Redan--and Debli`s teacher seems to know where to find precisely the Monster Egg he`s looking for.
+Source: crunchyroll</summary>
+</episode>
+<episode id="186912" update="2017-05-14">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2017-05-14</airdate>
+<title xml:lang="ja">リュート沈没? 空中大決戦!</title>
+<title xml:lang="en">All-Out Airborne Assault!</title>
+<title xml:lang="x-jat">Ryuuto Chinbotsu? Kuuchuu Dai Kessen!</title>
+<summary>There`s a Blighted monster on Naubaka Island, but no one who sails there comes back. Lute and friends brave the waves with the unique Bandit Captain.
+Source: crunchyroll</summary>
+</episode>
+<episode id="186913" update="2017-05-08">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2017-05-07</airdate>
+<title xml:lang="ja">森となり獣となれ</title>
+<title xml:lang="en">Be the Forest, Be the Beast</title>
+<title xml:lang="x-jat">Mori to Nari Kemono to Nare</title>
+<summary>Lute and Reverto track a monster into a mine, despite rumors that it`s haunted. Never mind what they find--what`s more worrying is what finds THEM.
+Source: crunchyroll</summary>
+</episode>
+<episode id="186914" update="2017-05-01">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2017-04-30</airdate>
+<title xml:lang="ja">決別の時</title>
+<title xml:lang="en">Parting Ways</title>
+<title xml:lang="x-jat">Ketsubetsu no Toki</title>
+<summary>Bent on destroying Blighted monsters, Cheval confronts Lute over his beloved Monstie Ratha, who may not even have the strength to defend himself.
+Source: crunchyroll</summary>
+</episode>
+<episode id="186915" update="2017-04-23">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2017-04-23</airdate>
+<title xml:lang="ja">火の海に棲む竜</title>
+<title xml:lang="en">The Dragon in the Sea of Fire</title>
+<title xml:lang="x-jat">Hi no Umi ni Sumu Ryuu</title>
+<summary>Lute and the Numbers face off against Dr. Manelger in his subterranean lab, where the mad scientist has an unpleasant mechanized surprise for them.
+Source: crunchyroll</summary>
+</episode>
+<episode id="187542" update="2017-06-11">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2017-06-11</airdate>
+<title xml:lang="ja">マネルガー博士を追え!</title>
+<title xml:lang="en">The Great Manelger Chase</title>
+<title xml:lang="x-jat">Manelger-hakase o Oe!</title>
+<summary>Lute follows a tip from the Scriveners to outside Albrachs Village as he tracks down Dr. Manelger, where he gets Hunter help--and a Hunter headache.
+Source: crunchyroll</summary>
+</episode>
+<episode id="187543" update="2017-06-05">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2017-06-04</airdate>
+<title xml:lang="ja">白き竜のタマゴ</title>
+<title xml:lang="en">The White Dragon`s Egg</title>
+<title xml:lang="x-jat">Shiroki Ryuu no Tamago</title>
+<summary>Lilia has a strong lead on the whereabouts of the legendary white dragon`s egg that sends Lute and friends into the ruins of the hero Redan`s village.
+Source: crunchyroll</summary>
+</episode>
+<episode id="187544" update="2017-05-28">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2017-05-28</airdate>
+<title xml:lang="ja">レインボービーチを封鎖せよ!</title>
+<title xml:lang="en">Rainbow Beach Blockade!</title>
+<title xml:lang="x-jat">Rainbow Beach o Fuusa Seyo!</title>
+<summary>Chief Mallerie`s pickle weight has been stolen! Never fear: Detective Navirou is on the case. Meanwhile, Lute searches for Naubaka`s Kinship Ore.
+Source: crunchyroll</summary>
+</episode>
+<episode id="187545" update="2017-05-22">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2017-05-21</airdate>
+<title xml:lang="ja">黒狼鳥の逆襲</title>
+<title xml:lang="en">The Wolf Raven Strikes Back</title>
+<title xml:lang="x-jat">Kokurouchou no Gyakushuu</title>
+<summary>Lute and Avinia must defend lovely Koapni Village from the Blighted monster that`s been terrorizing the island. Pansy has a big favor to ask Navirou.
+Source: crunchyroll</summary>
+</episode>
+<episode id="188107" update="2017-07-10">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2017-07-09</airdate>
+<title xml:lang="ja">撃滅のブラキディオス</title>
+<title xml:lang="en">Brachydios the Destroyer</title>
+<title xml:lang="x-jat">Gekimetsu no Brachydios</title>
+<summary>Lute accompanies Reverto on a quest to slay Brachydios the Destroyer, an ultra-powerful tempered monster and the expert Hunter`s longtime rival.
+Source: crunchyroll</summary>
+</episode>
+<episode id="188108" update="2017-07-02">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2017-07-02</airdate>
+<title xml:lang="ja">試練! 蜃気楼の塔へ</title>
+<title xml:lang="en">Tested at the Tower of Illusion</title>
+<title xml:lang="x-jat">Shiren! Shinkirou no Tou e</title>
+<summary>Chief Omna brings Lute to the Tower of Illusion, where he undergoes a tense trial meant to dispel the doubt from his mind and lead him to the truth.
+Source: crunchyroll</summary>
+</episode>
+<episode id="188109" update="2017-06-25">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2017-06-25</airdate>
+<title xml:lang="ja">小さな花束</title>
+<title xml:lang="en">The Little Bouquet</title>
+<title xml:lang="x-jat">Chiisana Hanataba</title>
+<summary>Cheval is back in Hakum Village! He may be too late to slay the Blighted beast, but he sticks around to confront and challenge his former friend Lute.
+Source: crunchyroll</summary>
+</episode>
+<episode id="188110" update="2017-06-18">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2017-06-18</airdate>
+<title xml:lang="ja">ハクム村の危機, 再び!</title>
+<title xml:lang="en">Trouble Returns to Hakum</title>
+<title xml:lang="x-jat">Hakum Mura no Kiki, Futatabi!</title>
+<summary>A second Kinship Ore in Hakum Village? Lute returns to his hometown just in time to deal with the devastating fallout of the mad Manelger`s meddling.
+Source: crunchyroll</summary>
+</episode>
+<episode id="188676" update="2017-07-23">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2017-07-23</airdate>
+<title xml:lang="ja">ナンバーズ, 全員集合!</title>
+<title xml:lang="en">Numbers, Assemble!</title>
+<title xml:lang="x-jat">Numbers, Zen`in Shuugou!</title>
+<summary>Lute and Navirou reunite with the Numbers as they search for another Kinship Ore on Mt. Rhyz, where some unexpected company puts their plans on hold.
+Source: crunchyroll</summary>
+</episode>
+<episode id="188677" update="2017-07-16">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2017-07-16</airdate>
+<title xml:lang="ja">ナルガクルガ再び</title>
+<title xml:lang="en">The Nargacuga Returns</title>
+<title xml:lang="x-jat">Nargacuga Futatabi</title>
+<summary>Cheval takes on an unexpected--and hopefully more obedient--new Monstie before he and his team head to the desert to find a Black Diablos run amok.
+Source: crunchyroll</summary>
+</episode>
+<episode id="189002" update="2017-08-06">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2017-08-06</airdate>
+<title xml:lang="ja">摩訶不思議! 幻獣キリンとの遭遇</title>
+<title xml:lang="en">A Mystical Meeting with Kirin</title>
+<title xml:lang="x-jat">Makafushigi! Genjuu Kirin to no Souguu</title>
+<summary>The team has a rare encounter with a mysterious Elder Dragon deep in the Forest of Confusion as they continue their search for the Kinship Ore.
+Source: crunchyroll</summary>
+</episode>
+<episode id="189003" update="2017-07-30">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2017-07-30</airdate>
+<title xml:lang="ja">迷いの森</title>
+<title xml:lang="en">Forest of Confusion</title>
+<title xml:lang="x-jat">Mayoi no Mori</title>
+<summary>Some familiar faces rejoin Lute on his journey into the Forest of Confusion, hot on the trail of the next Kinship Ore. But the Blight is spreading...
+Source: crunchyroll</summary>
+</episode>
+<episode id="189607" update="2017-09-04">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2017-09-03</airdate>
+<title xml:lang="ja">白い奇跡</title>
+<title xml:lang="en">A Miracle in White</title>
+<title xml:lang="x-jat">Shiroi Kiseki</title>
+<summary>Lute and Ratha`s pitched battle with the formidable Black Dread rages on, but Lute`s secret weapon--the power of Kinship--may finally turn the tide.
+Source: crunchyroll</summary>
+</episode>
+<episode id="189608" update="2017-08-27">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2017-08-27</airdate>
+<title xml:lang="ja">決戦! 最凶の黒</title>
+<title xml:lang="en">This Is It: The Black Dread</title>
+<title xml:lang="x-jat">Kessen! Saikyou no Kuro</title>
+<summary>Lute and Cheval face the staggeringly powerful Black Dread, a monster capable of wiping entire villages off the map; Ratha has a fight of his own.
+Source: crunchyroll</summary>
+</episode>
+<episode id="189609" update="2017-08-21">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2017-08-20</airdate>
+<title xml:lang="ja">誕生! 伝説の白き竜</title>
+<title xml:lang="en">The Legendary White Dragon Is Born!</title>
+<title xml:lang="x-jat">Tanjou! Densetsu no Shiroki Ryuu</title>
+<summary>Cheval flexes his newfound muscle with his white dragon Monstie, but even he`s not safe from the Black Blight. Lute seeks a chance to patch things up.
+Source: crunchyroll</summary>
+</episode>
+<episode id="189610" update="2017-08-13">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2017-08-13</airdate>
+<title xml:lang="ja">セリオン山の恐暴竜</title>
+<title xml:lang="en">The Deviljho of Mt. Celion</title>
+<title xml:lang="x-jat">Celionzan no Kyoubouryuu</title>
+<summary>The final Kinship Ore waits amid freezing mountain ruins. Lute and Manelger are in hot pursuit, but Cheval`s new Mechinship Stone changes everything.
+Source: crunchyroll</summary>
+</episode>
+<episode id="190522" update="2017-09-04">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2017-10-08</airdate>
+<title xml:lang="ja">森の忍者, シャドウ参上!</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Mori no Ninja, Shadow Sanjou!</title>
+</episode>
+<episode id="190523" update="2017-09-04">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2017-10-01</airdate>
+<title xml:lang="ja">空前絶後のナルシスト!? マッド見参!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Kuuzenzetsugo no Narcissist! Mad Kenzan!</title>
+</episode>
+<episode id="190524" update="2017-09-04">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2017-09-24</airdate>
+<title xml:lang="ja">強くて危ない謎の奴</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Tsuyokute Abunai Nazo no Yatsu</title>
+</episode>
+<episode id="190525" update="2017-09-04">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2017-09-17</airdate>
+<title xml:lang="ja">襲来! ブラックライダーズ!</title>
+<title xml:lang="en">Attack of the Ebon Riders!</title>
+<title xml:lang="x-jat">Shuurai! Black Riders!</title>
+</episode>
+<episode id="191342" update="2017-10-01">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>2017-11-05</airdate>
+<title xml:lang="ja">クールでホッとな絆</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Cool de Hot na Kizuna</title>
+</episode>
+<episode id="191343" update="2017-10-01">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>2017-10-29</airdate>
+<title xml:lang="ja">雷光のレウス</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Raikou no Reus</title>
+</episode>
+<episode id="191344" update="2017-10-01">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>2017-10-22</airdate>
+<title xml:lang="ja">アユリアの為に!</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Ayuria no Tame ni!</title>
+</episode>
+<episode id="191345" update="2017-10-01">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>2017-10-15</airdate>
+<title xml:lang="ja">がんばれ! ドスランポス</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Ganbare! Dosranpos</title>
+</episode>
+<episode id="192333" update="2017-10-29">
+<epno type="1">60</epno>
+<length>25</length>
+<airdate>2017-12-03</airdate>
+<title xml:lang="ja">オトモンレース, 再び!</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Otomon Race, Futatabi!</title>
+</episode>
+<episode id="192334" update="2017-10-29">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>2017-11-26</airdate>
+<title xml:lang="ja">闇と絆と</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Yami to Kizuna to</title>
+</episode>
+<episode id="192335" update="2017-10-29">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>2017-11-19</airdate>
+<title xml:lang="ja">ナビルーおなら大作戦!</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Nabiruu Onara Daisakusen!</title>
+</episode>
+<episode id="192336" update="2017-10-29">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>2017-11-12</airdate>
+<title xml:lang="ja">副隊長はつらいよ</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Fukutaichou wa Tsurai yo</title>
+</episode>
+<episode id="193487" update="2017-11-26">
+<epno type="1">63</epno>
+<length>25</length>
+<airdate>2017-12-24</airdate>
+<title xml:lang="ja">アユリア, 救出大作戦!</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">Ayuria, Kyuushutsu Daisakusen!</title>
+</episode>
+<episode id="193488" update="2017-11-26">
+<epno type="1">62</epno>
+<length>25</length>
+<airdate>2017-12-17</airdate>
+<title xml:lang="ja">リュートVSゲイル再び!</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Ryuuto vs Gail Futatabi!</title>
+</episode>
+<episode id="193489" update="2017-11-26">
+<epno type="1">61</epno>
+<length>25</length>
+<airdate>2017-12-10</airdate>
+<title xml:lang="ja">復活? マネルガー博士!</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Fukkatsu? Manelger-hakase!</title>
+</episode>
+<episode id="194244" update="2017-12-24">
+<epno type="1">66</epno>
+<length>25</length>
+<airdate>2018-01-21</airdate>
+<title xml:lang="ja">2人のシャドウ</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Futari no Shadow</title>
+</episode>
+<episode id="194245" update="2017-12-24">
+<epno type="1">65</epno>
+<length>25</length>
+<airdate>2018-01-14</airdate>
+<title xml:lang="ja">記憶の中の絆</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">Kioku no Naka no Kizuna</title>
+</episode>
+<episode id="194246" update="2017-12-24">
+<epno type="1">64</epno>
+<length>25</length>
+<airdate>2018-01-07</airdate>
+<title xml:lang="ja">ハクム村の新年</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Hakum Mura no Shinnen</title>
+</episode>
+<episode id="194906" update="2018-01-07">
+<epno type="1">68</epno>
+<length>25</length>
+<airdate>2018-02-04</airdate>
+<title xml:lang="ja">強襲! 鋼の龍</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Kyoushuu! Hagane no Ryuu</title>
+</episode>
+<episode id="194907" update="2018-01-07">
+<epno type="1">67</epno>
+<length>25</length>
+<airdate>2018-01-28</airdate>
+<title xml:lang="ja">アンヴィスの企み</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">Anvis no Takurami</title>
+</episode>
+<episode id="195661" update="2018-02-18">
+<epno type="1">72</epno>
+<length>25</length>
+<airdate>2018-03-11</airdate>
+<title xml:lang="ja">古龍防衛対策会議</title>
+<title xml:lang="en">Episode 72</title>
+<title xml:lang="x-jat">Fururyuu Bouei Taisaku Kaigi</title>
+</episode>
+<episode id="195662" update="2018-02-18">
+<epno type="1">71</epno>
+<length>25</length>
+<airdate>2018-03-04</airdate>
+<title xml:lang="ja">クシャルダオラの進撃</title>
+<title xml:lang="en">Episode 71</title>
+<title xml:lang="x-jat">Kusharudaora no Shingeki</title>
+</episode>
+<episode id="195663" update="2018-01-28">
+<epno type="1">70</epno>
+<length>25</length>
+<airdate>2018-02-18</airdate>
+<title xml:lang="ja">アンヴィスというライダー</title>
+<title xml:lang="en">Episode 70</title>
+<title xml:lang="x-jat">Anvis to Iu Rider</title>
+</episode>
+<episode id="195664" update="2018-01-28">
+<epno type="1">69</epno>
+<length>25</length>
+<airdate>2018-02-11</airdate>
+<title xml:lang="ja">スパイデブリ</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="x-jat">Spy Debris</title>
+</episode>
+<episode id="196869" update="2018-03-04">
+<epno type="1">75</epno>
+<length>25</length>
+<airdate>2018-04-01</airdate>
+<title xml:lang="ja">絆</title>
+<title xml:lang="en">Episode 75</title>
+<title xml:lang="x-jat">Kizuna</title>
+</episode>
+<episode id="196870" update="2018-03-04">
+<epno type="1">74</epno>
+<length>25</length>
+<airdate>2018-03-25</airdate>
+<title xml:lang="ja">風と雲と歌と</title>
+<title xml:lang="en">Episode 74</title>
+<title xml:lang="x-jat">Kaze to Kumo to Uta to</title>
+</episode>
+<episode id="196871" update="2018-03-04">
+<epno type="1">73</epno>
+<length>25</length>
+<airdate>2018-03-18</airdate>
+<title xml:lang="ja">舞い降りる鋼龍</title>
+<title xml:lang="en">Episode 73</title>
+<title xml:lang="x-jat">Maioriru Kouryuu</title>
+</episode>
+</episodes>
+</anime>

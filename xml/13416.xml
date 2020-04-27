@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13416" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-10-07</startdate>
+<enddate>2017-10-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Panpaka Pantsu Matsuri: Purin Ara, Domo</title>
+<title xml:lang="ja" type="official">えいが パンパカパンツまつり -プリン あら, ど~も-</title>
+</titles>
+<url>http://www.panpaka.com/purin_collabo/</url>
+<creators>
+<name id="21566" type="Direction">Benpineko</name>
+</creators>
+<picture>212772.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>36234</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.panpaka.com/purin_collabo/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361747</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>ppp_movie</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="190560" update="2017-09-01">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2017-10-07</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

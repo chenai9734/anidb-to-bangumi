@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6978" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2009-09-13</startdate>
+<enddate>2010-09-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Battle Spirits: Shounen Gekiha Dan</title>
+<title xml:lang="zh-Hans" type="synonym">Battle Spirits 少年激霸弹</title>
+<title xml:lang="ja" type="official">バトルスピリッツ 少年激覇ダン</title>
+</titles>
+<relatedanime>
+<anime id="7675" type="Sequel">Battle Spirits Brave</anime>
+<anime id="6069" type="Other">Battle Spirits: Shounen Toppa Bashin</anime>
+</relatedanime>
+<url>http://www.sunrise-inc.co.jp/battlespirits2/</url>
+<creators>
+<name id="726" type="Animation Work">Sunrise</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="4541" type="Direction">Nishimori Akira</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="9566" type="Character Design">Yumoto Yoshinori</name>
+<name id="24129" type="Music">Segawa Eishi</name>
+</creators>
+<description>http://anidb.net/ch17992 [Dan Bashin] is a young boy who dreams of winning the Battle Spirits Trading Card Game tournaments. One day, while following after a strange girl he met at the championships, he is transported to another world in which Battle Spirits materialize and do battle.
+~ translated and adapted from official site by Cranston</description>
+<ratings>
+<permanent count="21">4.29</permanent>
+<temporary count="22">5.45</temporary>
+</ratings>
+<picture>38927.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>10969</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6901</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4598</identifier>
+<identifier>kzpdun</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sunrise-inc.co.jp/battlespirits2/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1736</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>334949</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11881</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2850" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2863" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>proxy battles</name>
+<description>In our terms, a proxy battle is a battle where humans use creatures/robots to do the fighting for them, either by commanding those creatures/robots or by simply evolving them/changing them into battle mode. Often the training aspect is also involved, or in some cases the proxies are nothing more than holographic representatives of some other variation of competition (like for example a card game). While many popular shounen anime fit under this category, it`s not limited to shounen anime.</description>
+</tag>
+</tags>
+<characters>
+<character id="17991" type="secondary cast in" update="2010-10-11">
+<rating votes="1">1.63</rating>
+<name>Zungurii</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>48440.jpg</picture>
+<seiyuu id="95" picture="16702.jpg">Horanai Ai</seiyuu>
+</character>
+<character id="17992" type="main character in" update="2010-09-17">
+<rating votes="2">1.63</rating>
+<name>Bashin Dan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3549.gif</picture>
+<seiyuu id="142" picture="68482.jpg">Ooura Fuyuka</seiyuu>
+</character>
+<character id="17993" type="secondary cast in" update="2010-05-23">
+<rating votes="1">2.14</rating>
+<name>Magisa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>48442.jpg</picture>
+<seiyuu id="271" picture="171555.jpg">Yukino Satsuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="108405" update="2009-09-11">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2009-10-04</airdate>
+<title xml:lang="ja">鉄騎皇VS雷皇龍</title>
+<title xml:lang="en">ThunderEmperorDragon vs. Iron Knight</title>
+<title xml:lang="x-jat">Tekkiou VS Raiouryuu</title>
+</episode>
+<episode id="108406" update="2009-09-11">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2009-09-27</airdate>
+<title xml:lang="ja">巨神召喚・鉄騎皇イグドラシル</title>
+<title xml:lang="en">Giant Summon- The IronKnight Yggdrasill</title>
+<title xml:lang="x-jat">Kyojin Shoukan Tekkiou Yggdrasill</title>
+</episode>
+<episode id="108407" update="2009-09-11">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2009-09-20</airdate>
+<title xml:lang="ja">友情のアンキラーザウルス!</title>
+<title xml:lang="en">Ankillersaurus Friendship</title>
+<title xml:lang="x-jat">Yuujou no Ankillersaurus!</title>
+</episode>
+<episode id="108408" update="2009-09-11">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2009-09-13</airdate>
+<title xml:lang="ja">激突! 雷皇龍ジークヴルム!</title>
+<title xml:lang="en">Clash! The ThunderEmperorDragon Siegwurm!</title>
+<title xml:lang="x-jat">Gekitotsu! Raiouryuu Siegwurm!</title>
+</episode>
+<episode id="109070" update="2009-10-04">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2009-10-11</airdate>
+<title xml:lang="ja">緑の疾風! 神速のアメンボーグ</title>
+<title xml:lang="en">Green Hurricane! Swift Amenborg</title>
+<title xml:lang="x-jat">Midori no Hayate! Shinsoku no Amenborg</title>
+</episode>
+<episode id="109311" update="2009-10-11">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2009-10-18</airdate>
+<title xml:lang="ja">美女と野獣!?! 天使長ソフィア / 賢獣アイベリックス</title>
+<title xml:lang="en">Beauty and Beast!?! The GreatAngelia Sophia/The CleverBeast Iberix</title>
+<title xml:lang="x-jat">Bijo to Yajuu!?! Tenshichou Sophia / Kenjuu Iberix</title>
+</episode>
+<episode id="110766" update="2009-10-18">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2009-10-25</airdate>
+<title xml:lang="ja">デスマッチ! 冥闘士バラムの猛攻</title>
+<title xml:lang="en">Deathmatch! The HellFighter Balam`s Fierce Attack</title>
+<title xml:lang="x-jat">Death Match! Meitoushi Balam no Moukou</title>
+</episode>
+<episode id="110877" update="2009-10-25">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2009-11-01</airdate>
+<title xml:lang="ja">究極龍 激神皇カタストロフドラゴン</title>
+<title xml:lang="en">Ultimate Dragon- The Deity Catastrophedragon</title>
+<title xml:lang="x-jat">Kyuukyoku Ryuu Gekishinou Catastrophedragon</title>
+</episode>
+<episode id="111123" update="2009-11-01">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2009-11-08</airdate>
+<title xml:lang="ja">紫の闇! 魔界七将ベルゼビート</title>
+<title xml:lang="en">Purple Darkness! The SevenShogun Beelzebeat</title>
+<title xml:lang="x-jat">Murasaki no Yami! Makaishichishou Beelzebeat</title>
+</episode>
+<episode id="111293" update="2009-11-09">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2009-11-15</airdate>
+<title xml:lang="ja">鎧神機ヴァルハランスの審判 最強の槍, 神機グングニル</title>
+<title xml:lang="en">The ArmoredSacred Walhalance`s Trial- Strongest Lance, The Sacred Gungnir</title>
+<title xml:lang="x-jat">Gaishinki Walhalancs no Shinpan Saikyou no Yari, Shinki Gungnir</title>
+</episode>
+<episode id="111377" update="2009-11-13">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2009-11-22</airdate>
+<title xml:lang="ja">閉ざされた門 鉄壁のブロック・ゴレム!</title>
+<title xml:lang="en">The Locked Gate- Iron Wall Block-Golem</title>
+<title xml:lang="x-jat">Tozasareta Mon Teppeki no Block-Golem!</title>
+</episode>
+<episode id="111378" update="2009-11-13">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2009-11-29</airdate>
+<title xml:lang="ja">覚醒・紅蓮のドラゴンデッキ!</title>
+<title xml:lang="en">Awaken- Crimson Dragon Deck</title>
+<title xml:lang="x-jat">Kakusei Guren no Dragon Deck!</title>
+</episode>
+<episode id="111379" update="2009-11-13">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2009-12-06</airdate>
+<title xml:lang="ja">嵐の暴君・天帝ホウオウガ!</title>
+<title xml:lang="en">Storm Tyrant- The Providence Hououga!</title>
+<title xml:lang="x-jat">Arashi no Boukun Tentei Hououga!</title>
+</episode>
+<episode id="111872" update="2009-12-05">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2009-12-13</airdate>
+<title xml:lang="ja">異界の中心で魔ゐが叫ぶ</title>
+<title xml:lang="en">Mai`s Cry to Otherworld`s Core</title>
+<title xml:lang="x-jat">Ikai no Chuushin de Mai ga Sakebu</title>
+</episode>
+<episode id="112030" update="2009-12-13">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2009-12-20</airdate>
+<title xml:lang="ja">封印された激突 龍星皇メテオヴルム!</title>
+<title xml:lang="en">The Sealed Clash- The StarEmperorDragon Meteorwurm!</title>
+<title xml:lang="x-jat">Fuuin Sareta Gekitotsu Ryuuseiou Meteorwurm!</title>
+</episode>
+<episode id="112179" update="2009-12-20">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2010-01-03</airdate>
+<title xml:lang="ja">チャンピオンシップ開幕 巨人大帝アレクサンダー強襲!</title>
+<title xml:lang="en">Championship Curtain Raised- The GiantEmperor Alexander`s Assault</title>
+<title xml:lang="x-jat">Championship Kaimaku Kyojin Taitei Alexander Kyoushuu!</title>
+</episode>
+<episode id="112401" update="2010-01-03">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2010-01-10</airdate>
+<title xml:lang="ja">Xレア対決! 龍星皇メテオヴルムVSカイザーアトラス皇帝</title>
+<title xml:lang="en">X-rare Showdown! The StarEmperorDragon Meteorwurm vs. The Emperor Kaiseratlas</title>
+<title xml:lang="x-jat">X Rare Taiketsu! Ryuuseiou Meteorwurm VS Kaiseratlas Koutei</title>
+</episode>
+<episode id="112950" update="2010-01-10">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2010-01-17</airdate>
+<title xml:lang="ja">1ターンキル! 光の貴公子VS攻速のシュラ!</title>
+<title xml:lang="en">One Turn Kill! The Noble Youth of Light vs. Light Speed Shula!</title>
+<title xml:lang="x-jat">1 Turn Kill! Hikari no Kikoushi VS Kousoku no Shura!</title>
+</episode>
+<episode id="113146" update="2010-01-20">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2010-01-24</airdate>
+<title xml:lang="ja">あやつりバトル!?! 剣王獣ビャク・ガロウ見参!</title>
+<title xml:lang="en">A Possessed Battle!?! Meet The BladeKingBeast Byak-Garo!</title>
+<title xml:lang="x-jat">Ayatsuri Battle!?! Kenoujuu Byak-Garo Kenzan!</title>
+</episode>
+<episode id="113221" update="2010-01-23">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2010-01-31</airdate>
+<title xml:lang="ja">チャンピオンシップ決勝戦! 龍星皇VS剣王獣!!</title>
+<title xml:lang="en">Championship`s Final Match! StarEmperorDragon vs. BladeKingBeast!!</title>
+<title xml:lang="x-jat">Championship Kesshousen! Ryuuseiou VS Kenoujuu!!</title>
+</episode>
+<episode id="113908" update="2010-01-31">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2010-02-07</airdate>
+<title xml:lang="ja">龍虎激突! 復活のメテオヴルム!!</title>
+<title xml:lang="en">Dragon and Tiger Clash! Meteorwurm`s Revival!!</title>
+<title xml:lang="x-jat">Ryuuko Gekitotsu! Fukkatsu no Meteorwurm!!</title>
+</episode>
+<episode id="116308" update="2010-02-07">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2010-02-14</airdate>
+<title xml:lang="ja">メテオヴルムVSヴァルハランス!</title>
+<title xml:lang="en">Metworwurm vs. Walhalance!</title>
+<title xml:lang="x-jat">Meteorwurm VS Walhalancs!</title>
+</episode>
+<episode id="116446" update="2010-02-14">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2010-02-21</airdate>
+<title xml:lang="ja">囚われのメテオヴルム!</title>
+<title xml:lang="en">Captive Meteorwurm!</title>
+<title xml:lang="x-jat">Toraware no Meteorwurm!</title>
+</episode>
+<episode id="116486" update="2010-02-18">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2010-02-28</airdate>
+<title xml:lang="ja">激突vs破壊! 竜騎将ディライダロス</title>
+<title xml:lang="en">Clash vs. Destruction! The DinoCavalry Diridalus</title>
+<title xml:lang="x-jat">Gekitotsu vs Hakai! Ryuukishou Diridalus</title>
+</episode>
+<episode id="116487" update="2010-02-18">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2010-03-07</airdate>
+<title xml:lang="ja">光臨! 大天使イスフィール!</title>
+<title xml:lang="en">I Call You! The ArcAngelia Isfiel!</title>
+<title xml:lang="x-jat">Kourin! Daitenshi Isfiel!</title>
+</episode>
+<episode id="116800" update="2010-03-07">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2010-03-14</airdate>
+<title xml:lang="ja">砕け散るライフ! 異界王VS激突王</title>
+<title xml:lang="en">Broken Life! Otherworld King vs. Clash King</title>
+<title xml:lang="x-jat">Kudakechiru Life! Ikaiou VS Gekitotsuou</title>
+</episode>
+<episode id="116902" update="2010-03-14">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2010-03-21</airdate>
+<title xml:lang="ja">メテオヴルム散る 異界王VS激突王!</title>
+<title xml:lang="en">Meteorwurm Falls- Otherworld King vs. Clash King</title>
+<title xml:lang="x-jat">Meteorwurm Chiru Ikaiou VS Gekitotsuou!</title>
+</episode>
+<episode id="117024" update="2010-03-21">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2010-03-28</airdate>
+<title xml:lang="ja">バトル入門 ペンタン帝国の野望</title>
+<title xml:lang="en">Introductory Battle- The Treacherous Pentan Empire</title>
+<title xml:lang="x-jat">Battle Nyuumon Pentan Teikoku no Yabou</title>
+</episode>
+<episode id="117313" update="2010-04-01">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2010-04-04</airdate>
+<title xml:lang="ja">龍帝コンボ 魔帝龍騎ダーク・クリムゾン</title>
+<title xml:lang="en">Dragon Emperor Combo- The MasterDragonRider Dark-Crimson</title>
+<title xml:lang="x-jat">Ryuutei Combo Mateiryuuki Dark-Crimson</title>
+</episode>
+<episode id="117423" update="2010-04-04">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2010-04-11</airdate>
+<title xml:lang="ja">青のクライシス 囚われの鎧神機(がいしんき)ヴァルハランス</title>
+<title xml:lang="en">Blue Crisis- The Captured ArmoredSacred Walhalance</title>
+<title xml:lang="x-jat">Ao no Crisis, Toraware no Gaishinki Walhalance</title>
+</episode>
+<episode id="117634" update="2010-04-11">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2010-04-18</airdate>
+<title xml:lang="ja">ダーク・クリムゾン襲来 逆襲のビャク・ガロウ</title>
+<title xml:lang="en">Dark-Crimson Attack Byak-Garo Counterattack</title>
+<title xml:lang="x-jat">Dark Cromson Shuurai, Gyakushuu no Byak-Garo</title>
+</episode>
+<episode id="117830" update="2010-04-18">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2010-04-25</airdate>
+<title xml:lang="ja">激突王ダン! メテオストームの奇跡!</title>
+<title xml:lang="en">Clash King Dan! Meteor Storm Miracle!</title>
+<title xml:lang="x-jat">Gekitotsuou Dan! Meteor Storm no Kiseki!</title>
+</episode>
+<episode id="117956" update="2010-04-24">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2010-05-02</airdate>
+<title xml:lang="ja">タッグバトル! 神造巨兵(しんぞうきょへい) オリハルコン・ゴレムの恐怖</title>
+<title xml:lang="en">Tag Battle! Terrifying GodMadeSoldier Orihalcum-Golem</title>
+<title xml:lang="x-jat">Tag Battle! Shinzoukyohei, Orichalcum Golem no Kyoufu</title>
+</episode>
+<episode id="118059" update="2010-04-28">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2010-05-09</airdate>
+<title xml:lang="ja">タッグバトル! 龍星皇(りゅうせいおう)VS神造巨兵</title>
+<title xml:lang="en">Tag Battle! StarEmperorDragon vs. GodMadeSoldier</title>
+<title xml:lang="x-jat">Tag Battle! Ryuuseiou VS Shinzoukyohei</title>
+</episode>
+<episode id="118188" update="2010-05-08">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2010-05-16</airdate>
+<title xml:lang="ja">復讐のスカルピオーネ 来たれ! 魔界七将アスモディオス</title>
+<title xml:lang="en">Vengeful Scullpione- Come! SevenShogun Asmodios</title>
+<title xml:lang="x-jat">Fukushuu no Skullpione Kitare! Makai Nana Shou Asmodios</title>
+</episode>
+<episode id="118363" update="2010-05-11">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2010-06-06</airdate>
+<title xml:lang="ja">翼神機(よくしんき)グラン・ウォーデン飛翔!</title>
+<title xml:lang="en">The WingDeity Grand-Woden`s Flight!</title>
+<title xml:lang="x-jat">Yokushinki Grand-Woden Hishou!</title>
+</episode>
+<episode id="118364" update="2010-05-11">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2010-05-30</airdate>
+<title xml:lang="ja">鎧神機(がいしんき)ヴァルハランスVS賢者の樹の実</title>
+<title xml:lang="en">ArmoredSacred Walhalance vs. The Fruit of Wise Tree</title>
+<title xml:lang="x-jat">Gaishinki Walhalancs VS Kenja no Ki no Mi</title>
+</episode>
+<episode id="118365" update="2010-05-11">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2010-05-23</airdate>
+<title xml:lang="ja">決断の硯! 決別のオリハルコン・ゴレム</title>
+<title xml:lang="en">Suzuri`s Decision! Orihalcum-Golem`s Farewell</title>
+<title xml:lang="x-jat">Ketsudan no Suzuri! Ketsubetsu Orichalcum Golem</title>
+</episode>
+<episode id="118708" update="2010-06-07">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2010-06-13</airdate>
+<title xml:lang="ja">全色激突! ホライゾンラダー攻防戦</title>
+<title xml:lang="en">All Colors Clash! Horizon Ladder Battle</title>
+<title xml:lang="x-jat">Zen Shoku Gekitotsu! Horizon Ladder Koubousen</title>
+</episode>
+<episode id="118849" update="2010-06-10">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2010-07-04</airdate>
+<title xml:lang="ja">超神星龍の咆吼! よみがえれ, マギサ!</title>
+<title xml:lang="en">The SuperNovaDragon`s Roar! Magisa, Resurrected!</title>
+<title xml:lang="x-jat">Choushinseiryuu no Houkou! Yomigaere, Magisa!</title>
+</episode>
+<episode id="118850" update="2010-06-10">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2010-06-27</airdate>
+<title xml:lang="ja">超新星龍ジークヴルム・ノヴァVS Xレア軍団</title>
+<title xml:lang="en">The SuperNovaDragon Siegwurm-Nova vs. X-rare Army</title>
+<title xml:lang="x-jat">Choushinseiryuu Seigwurm-Nova VS X Rare Gundan</title>
+</episode>
+<episode id="118851" update="2010-06-10">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2010-06-20</airdate>
+<title xml:lang="ja">グラン・ロロ最期の日</title>
+<title xml:lang="en">Grand Rolo`s Final Day</title>
+<title xml:lang="x-jat">Grand Rolo Saigo no Nichi</title>
+</episode>
+<episode id="119501" update="2010-07-03">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2010-07-18</airdate>
+<title xml:lang="ja">異界王からの刺客! 魔界七将VS終焉の騎神</title>
+<title xml:lang="en">Otherworld King`s Assassin! SevenShoguns vs. The DoomKnightLord</title>
+<title xml:lang="x-jat">Ikaiou kara no Shikaku! Makaishichishou VS Shuuen no Kishin</title>
+</episode>
+<episode id="120012" update="2010-07-18">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2010-07-25</airdate>
+<title xml:lang="ja">緑の暴風がやむとき</title>
+<title xml:lang="en">The End of the Green Windstorm</title>
+<title xml:lang="x-jat">Midori no Boufuu ga Yamu Toki</title>
+</episode>
+<episode id="120364" update="2010-07-25">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2010-08-01</airdate>
+<title xml:lang="ja">覚悟のドロー! Xレア魔導女皇アンブロシウス</title>
+<title xml:lang="en">Prepared to Draw! X-rare The MagicalEmpress Ambrocius</title>
+<title xml:lang="x-jat">Kakugo no Draw! X Rare Madoujoou Anbrosius</title>
+</episode>
+<episode id="120546" update="2010-08-01">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2010-08-08</airdate>
+<title xml:lang="ja">究極のXレア! 幻羅星龍ガイ・アスラ登場!</title>
+<title xml:lang="en">The Ultimate X-rare! The PhantomStarDragon Gai-Asura Enters!</title>
+<title xml:lang="x-jat">Kyuukyoku no X Rare! Genraseiryuu Gai-Asura Toujou!</title>
+</episode>
+<episode id="120946" update="2010-08-08">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2010-08-15</airdate>
+<title xml:lang="ja">激突王VS白銀の騎士</title>
+<title xml:lang="en">Clash King vs. Silver Knight</title>
+<title xml:lang="x-jat">Gekitotsuou VS Hakugin no Kishi</title>
+</episode>
+<episode id="121257" update="2010-08-15">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2010-08-22</airdate>
+<title xml:lang="ja">決着! ジークヴルム・ノヴァVSラグナ・ロック</title>
+<title xml:lang="en">Settlement! Siegwurm-Nova vs. Ragna-Rock</title>
+<title xml:lang="x-jat">Kecchaku! Seigwurm-Nova VS Ragna-Rock</title>
+</episode>
+<episode id="121378" update="2010-08-21">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2010-08-29</airdate>
+<title xml:lang="ja">対異界王! 最後の光主デッキ</title>
+<title xml:lang="en">Against Otherworld King! Final Light Bearers Deck</title>
+<title xml:lang="x-jat">Tsui Ikaiou! Saigo no Hikarinushi Deck</title>
+</episode>
+<episode id="121541" update="2010-08-29">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2010-09-05</airdate>
+<title xml:lang="ja">さらば, 激突王!</title>
+<title xml:lang="en">Farewell, Clash King!</title>
+<title xml:lang="x-jat">Saraba, Gekitotsuou!</title>
+</episode>
+</episodes>
+</anime>

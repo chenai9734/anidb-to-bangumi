@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11668" restricted="false">
+<type>Web</type>
+<episodecount>3</episodecount>
+<startdate>2015-09-27</startdate>
+<enddate>2015-09-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sugio: Mori de Koi o Shite</title>
+<title xml:lang="ja" type="official">SUGIO~森林で恋をして~</title>
+</titles>
+<url>http://toyamanoki.net/sugio/</url>
+<ratings>
+<permanent count="19">2.65</permanent>
+<temporary count="19">4.15</temporary>
+</ratings>
+<picture>178081.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31807</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://toyamanoki.net/sugio/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="78656" type="main character in" update="2015-11-27">
+<name>Sugio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179949.jpg</picture>
+<seiyuu id="44251" picture="179954.jpg">Sugi-chan</seiyuu>
+</character>
+<character id="78657" type="secondary cast in" update="2015-11-27">
+<name>Hitomi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179950.jpg</picture>
+</character>
+<character id="78658" type="secondary cast in" update="2015-11-27">
+<name>Opiyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179951.jpg</picture>
+</character>
+<character id="78659" type="secondary cast in" update="2015-11-27">
+<name>Sugiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179952.jpg</picture>
+</character>
+<character id="78660" type="secondary cast in" update="2015-11-27">
+<name>Yanho</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179953.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="172070" update="2015-09-29">
+<epno type="1">3</epno>
+<length>6</length>
+<airdate>2015-09-27</airdate>
+<title xml:lang="ja">「スギオ・運命の時」のま木</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">"Sugio, Unmei no Toki" no Maki</title>
+</episode>
+<episode id="172071" update="2015-09-29">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2015-09-27</airdate>
+<title xml:lang="ja">「スギオ・鍛錬の日々」のま木</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">"Sugio, Tanren no Hibi" no Maki</title>
+</episode>
+<episode id="172072" update="2015-09-29">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2015-09-27</airdate>
+<title xml:lang="ja">「スギオ・恋をする」のま木</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">"Sugio, Koi o Suru" no Maki</title>
+</episode>
+<episode id="172804" update="2015-10-22">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2015-09-27</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

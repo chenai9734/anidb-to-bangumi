@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4946" restricted="false">
+<type>TV Series</type>
+<episodecount>156</episodecount>
+<startdate>1969-09-29</startdate>
+<enddate>1970-03-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pinch to Punch</title>
+<title xml:lang="ja" type="official">ピンチとパンチ</title>
+</titles>
+<creators>
+<name id="13189" type="Original Work">Aoki Takashi</name>
+</creators>
+<description>A comedy about two goofy twins in the armed forces. Each 5 minute episode ran Monday through Saturday.</description>
+<ratings>
+<permanent count="1">2.40</permanent>
+<temporary count="1">3.00</temporary>
+</ratings>
+<picture>2626.gif</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1699</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>20005</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ピンチとパンチ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89611</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1146</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>78</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>475</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108085" update="2009-08-28">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="108086" update="2009-08-28">
+<epno type="1">156</epno>
+<length>5</length>
+<airdate>1970-03-28</airdate>
+<title xml:lang="en">Episode 156</title>
+</episode>
+</episodes>
+</anime>

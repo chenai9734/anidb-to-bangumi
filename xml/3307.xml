@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3307" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2005-01-15</startdate>
+<enddate>2005-01-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hurdle</title>
+<title xml:lang="ja" type="official">ハードル</title>
+</titles>
+<url>http://cinema-indies.co.jp/hurdle/</url>
+<creators>
+<name id="5433" type="Character Design">Shibuichi Setsuko</name>
+<name id="146" type="Direction">Dezaki Satoshi</name>
+<name id="6029" type="Music">Nakajima Yuuki</name>
+<name id="27257" type="Original Work">Aoki Kazuo</name>
+<name id="893" type="Animation Work">Magic Bus</name>
+<name id="5105" type="Chief Animation Direction">Kobayashi Yukari</name>
+</creators>
+<description>http://anidb.net/ch63369 [Yuuki] has to move from Yokohama to a rural city and becomes the target of bullying.</description>
+<ratings>
+<permanent count="4">5.24</permanent>
+<temporary count="4">5.50</temporary>
+</ratings>
+<picture>58210.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5120</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>16776</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://cinema-indies.co.jp/hurdle/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ハードル_真実と勇気の間で#.E3.82.A2.E3.83.8B.E3.83.A1.E6.98.A0.E7.94.BB</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>322988</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6672</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3741" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-25">
+<name>bullying</name>
+<description>Bullying is the use of force, threat, or coercion to abuse, intimidate, or aggressively dominate others. One who engages in bullying is known as a bully.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="63361" type="secondary cast in" update="2014-01-24">
+<name>Nishina Hikaru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148988.jpg</picture>
+<seiyuu id="4958" picture="177897.jpg">Takamori Nao</seiyuu>
+</character>
+<character id="63362" type="secondary cast in" update="2014-01-24">
+<name>Oosaki no Jii-sama</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148987.jpg</picture>
+<seiyuu id="19172" picture="189066.jpg">Inagaki Takashi</seiyuu>
+</character>
+<character id="63363" type="secondary cast in" update="2014-01-24">
+<name>Kitano no Oba-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148986.jpg</picture>
+<seiyuu id="5352" picture="134103.jpg">Tani Ikuko</seiyuu>
+</character>
+<character id="63364" type="secondary cast in" update="2014-01-24">
+<name>Arisawa Masaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148985.jpg</picture>
+<seiyuu id="1913" picture="186187.jpg">Chiba Isshin</seiyuu>
+</character>
+<character id="63365" type="secondary cast in" update="2014-01-24">
+<name>Arisawa Mio</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148984.jpg</picture>
+<seiyuu id="542" picture="60897.jpg">Doi Mika</seiyuu>
+</character>
+<character id="63366" type="secondary cast in" update="2014-01-24">
+<name>Oosaki Tatsunoshin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148983.jpg</picture>
+<seiyuu id="4724" picture="29037.jpg">Kusaka Chihiro</seiyuu>
+</character>
+<character id="63367" type="secondary cast in" update="2014-01-24">
+<name>Oosaki Kennosuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148982.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="63368" type="secondary cast in" update="2014-01-24">
+<name>Oda Ryouhei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148981.jpg</picture>
+<seiyuu id="191" picture="17006.jpg">Suzumura Ken`ichi</seiyuu>
+</character>
+<character id="63369" type="main character in" update="2014-01-24">
+<name>Arisawa Yuuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148980.jpg</picture>
+<seiyuu id="570" picture="151691.jpg">Minagawa Junko</seiyuu>
+</character>
+<character id="63370" type="main character in" update="2014-01-24">
+<name>Arisawa Reon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148979.jpg</picture>
+<seiyuu id="7068" picture="186695.jpg">Kishio Daisuke</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="53590" update="2010-04-16">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2005-01-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="53591" update="2006-07-30">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>2005-01-15</airdate>
+<title xml:lang="en">Part 1 of 2</title>
+</episode>
+<episode id="53592" update="2006-07-30">
+<epno type="1">3</epno>
+<length>0</length>
+<airdate>2005-01-15</airdate>
+<title xml:lang="en">Part 2 of 2</title>
+</episode>
+</episodes>
+</anime>

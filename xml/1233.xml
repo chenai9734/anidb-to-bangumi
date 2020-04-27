@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1233" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1997-05-21</startdate>
+<enddate>1997-09-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">JaJa Uma! Quartet</title>
+<title xml:lang="ja" type="synonym">The Crown Knights Jaja馬!カルテット</title>
+<title xml:lang="x-jat" type="synonym">Crown Knights</title>
+<title xml:lang="ja" type="official">Jaja馬!カルテット</title>
+<title xml:lang="en" type="official">Wild Cardz</title>
+<title xml:lang="fi" type="official">JaJaUma! Quartette</title>
+</titles>
+<creators>
+<name id="4234" type="Direction">Nagaoka Yasuchika</name>
+<name id="35683" type="Original Work">Studio OX</name>
+</creators>
+<description>Here come the Crown Knights: Sunday Spades — the poker-faced leader and possessor of the mysterious trump power! Jo Diamonds — who can run at the speed of light! Casa Clubs — combat expert who possesses hyper-senses! Coco Hearts — the tricky master of psycho-magic! Together, these cute, card-carrying champions are dealing a world of hurt to the criminals who threaten the tranquil Card Kingdom. But can they checkmate two, invading war machines — shaped like gigantic chess pieces — before the kingdom topples like a house of cards?</description>
+<ratings>
+<permanent count="128">2.59</permanent>
+<temporary count="128">4.92</temporary>
+</ratings>
+<picture>161001.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>242</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1855</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>115</identifier>
+<identifier>ylhaqi</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Wild_Cardz</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Jaja馬!カルテット#OVA</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88121</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="13290" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1997-05-21</airdate>
+<rating votes="1">6.45</rating>
+<title xml:lang="ja">Black and White</title>
+<title xml:lang="en">Black and White</title>
+<title xml:lang="x-jat">Black and White</title>
+</episode>
+<episode id="13291" update="2011-10-20">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>1997-09-26</airdate>
+<rating votes="1">4.09</rating>
+<title xml:lang="ja">Kiss of Fire</title>
+<title xml:lang="en">Kiss of Fire</title>
+<title xml:lang="x-jat">Kiss of Fire</title>
+</episode>
+</episodes>
+</anime>

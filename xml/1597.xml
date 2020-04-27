@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1597" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2001-09-08</startdate>
+<enddate>2001-09-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shenmue The Movie</title>
+<title xml:lang="x-jat" type="synonym">Shen Mue</title>
+<title xml:lang="x-jat" type="short">Shenmue</title>
+<title xml:lang="x-jat" type="short">Shenmuu</title>
+<title xml:lang="ja" type="official">シェンムー・ザ・ムービー</title>
+</titles>
+<url>http://www.emovie.ne.jp/movie/shenmue/</url>
+<creators>
+<name id="1178" type="Unknown Relation">Sega</name>
+<name id="27988" type="Direction">Suzuki Yuu</name>
+</creators>
+<description>Ryo, a respected Japanese student sees his father killed in front of his own eyes. He sets out to find the man in charge of his fathers death and the mystery of who and why?</description>
+<ratings>
+<permanent count="88">2.69</permanent>
+<temporary count="91">5.39</temporary>
+</ratings>
+<picture>1446.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15474</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4524</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.emovie.ne.jp/movie/shenmue/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Shenmue</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>シェンムー</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>287</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235926</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2282" parentid="2841" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="17445" update="2005-09-02">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2001-09-08</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

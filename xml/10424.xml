@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10424" restricted="false">
+<type>TV Series</type>
+<episodecount>48</episodecount>
+<startdate>2014-04-02</startdate>
+<enddate>2015-09-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">KutsuDaru.</title>
+<title xml:lang="ja" type="synonym">くつしたがだるだるになっちゃうわけ ~イマドキ妖怪図鑑~</title>
+<title xml:lang="x-jat" type="synonym">Kutsushita ga Daru Daru ni Nacchau Wake: Imadoki Youkai Zukan</title>
+<title xml:lang="ja" type="official">くつだる.</title>
+</titles>
+<url>http://www9.nhk.or.jp/anime/kutsudaru/</url>
+<creators>
+<name id="39698" type="Original Plan">Gotou Masafumi</name>
+<name id="39697" type="Direction">Katou Taka</name>
+<name id="19386" type="Animation Work">Egg</name>
+<name id="7877" type="Character Design">Watanabe Ruriko</name>
+<name id="6010" type="Music">Ooishi Ken`ichirou</name>
+</creators>
+<description>* Based on http://anidb.net/cr39698 [Gotou Masafumi]`s illustrated monster guide Kutsushita ga Darudaru ni Nacchau Wake ~Imadoki Youkai Zukan~ that http://anidb.net/cr748 [Kodansha] published in 2011.
+When annoying little misfortunes occur again and again: such as loose socks, uneven disposable chopsticks, mistaking rinse for shampoo, and the like, then that may well be due to mischievous youkai (Japanese monsters).</description>
+<ratings>
+<permanent count="12">4.48</permanent>
+<temporary count="12">4.75</temporary>
+</ratings>
+<picture>152542.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15880</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22465</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www9.nhk.or.jp/anime/kutsudaru/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>くつしたがだるだるになっちゃうわけ_〜イマドキ妖怪図鑑〜</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3371</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348550</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17106</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="66164" type="main character in" update="2014-03-31">
+<name>Darudaru Kutsushita</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152537.jpg</picture>
+<seiyuu id="3972" picture="33319.jpg">Hikida Yukari</seiyuu>
+</character>
+<character id="66165" type="secondary cast in" update="2014-03-31">
+<name>Daniel Morishita</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152536.jpg</picture>
+<seiyuu id="2226" picture="23215.jpg">Suganuma Hisayoshi</seiyuu>
+</character>
+<character id="66166" type="secondary cast in" update="2014-03-31">
+<name>Maruo Mikako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152533.jpg</picture>
+<seiyuu id="39741" picture="152539.jpg">Kanai Miki</seiyuu>
+</character>
+<character id="66167" type="secondary cast in" update="2014-03-31">
+<name>Karasawa Rin</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152534.jpg</picture>
+<seiyuu id="39742" picture="152540.jpg">Satou Hinata</seiyuu>
+</character>
+<character id="66168" type="main character in" update="2014-03-31">
+<name>Nekota Kaoru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152532.jpg</picture>
+<seiyuu id="39740" picture="152538.jpg">Horiuchi Marina</seiyuu>
+</character>
+<character id="66169" type="secondary cast in" update="2014-03-31">
+<name>Tachibana Kurara</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152535.jpg</picture>
+<seiyuu id="39743" picture="152541.jpg">Shima Yuika</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="158779" update="2015-08-29">
+<epno type="1">1</epno>
+<length>9</length>
+<airdate>2014-04-02</airdate>
+<title xml:lang="ja">くつしたがだるだるになっちゃうわけ</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kutsushita ga Darudaru ni Nacchau Wake</title>
+</episode>
+<episode id="158866" update="2015-08-29">
+<epno type="1">4</epno>
+<length>9</length>
+<airdate>2014-04-30</airdate>
+<title xml:lang="ja">コーンポタージュにかたまりが残っちゃうわけ</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="158867" update="2015-08-29">
+<epno type="1">3</epno>
+<length>9</length>
+<airdate>2014-04-16</airdate>
+<title xml:lang="ja">ひもがカタムスビになっちゃうわけ</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="158868" update="2015-08-29">
+<epno type="1">2</epno>
+<length>9</length>
+<airdate>2014-04-09</airdate>
+<title xml:lang="ja">本がキッチリつめこまれちゃうわけ</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hon ga Kicchiri Tsumekomarechau Wake</title>
+</episode>
+<episode id="159497" update="2015-08-29">
+<epno type="1">6</epno>
+<length>9</length>
+<airdate>2014-05-14</airdate>
+<title xml:lang="ja">ストローがパックの中に落ちちゃうわけ</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="159498" update="2015-08-29">
+<epno type="1">5</epno>
+<length>9</length>
+<airdate>2014-05-07</airdate>
+<title xml:lang="ja">ミートソースが服についちゃうわけ</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="160223" update="2015-08-29">
+<epno type="1">8</epno>
+<length>9</length>
+<airdate>2014-06-04</airdate>
+<title xml:lang="ja">コースターがグラスにくっついちゃうわけ</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="160224" update="2015-08-29">
+<epno type="1">7</epno>
+<length>9</length>
+<airdate>2014-05-21</airdate>
+<title xml:lang="ja">鼻毛がひょっこりでちゃうわけ</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="160571" update="2015-08-29">
+<epno type="1">10</epno>
+<length>9</length>
+<airdate>2014-06-25</airdate>
+<title xml:lang="ja">イスがガタガタしちゃうわけ</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="160572" update="2015-08-29">
+<epno type="1">9</epno>
+<length>9</length>
+<airdate>2014-06-11</airdate>
+<title xml:lang="ja">メロディが頭からはなれなくなっちゃうわけ</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="161316" update="2015-08-29">
+<epno type="1">11</epno>
+<length>9</length>
+<airdate>2014-07-02</airdate>
+<title xml:lang="ja">居眠りしてるとガクンとなっちゃうわけ</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="161318" update="2015-08-29">
+<epno type="1">14</epno>
+<length>9</length>
+<airdate>2014-09-03</airdate>
+<title xml:lang="ja">体育館の天井にボールがはさまっちゃうわけ</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="161319" update="2015-08-29">
+<epno type="1">13</epno>
+<length>9</length>
+<airdate>2014-07-16</airdate>
+<title xml:lang="ja">水たまりの水がはねちゃうわけ</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="161320" update="2015-08-29">
+<epno type="1">12</epno>
+<length>9</length>
+<airdate>2014-07-09</airdate>
+<title xml:lang="ja">満腹でもお菓子はたべられちゃうわけ</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="162692" update="2015-08-29">
+<epno type="1">18</epno>
+<length>9</length>
+<airdate>2014-10-08</airdate>
+<title xml:lang="ja">パーカーのひもが片方だけ長くなっちゃうわけ</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="162693" update="2015-08-29">
+<epno type="1">17</epno>
+<length>9</length>
+<airdate>2014-09-24</airdate>
+<title xml:lang="ja">タルトの底を切ったときカーンと音が鳴っちゃうわけ</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="162694" update="2015-08-29">
+<epno type="1">16</epno>
+<length>9</length>
+<airdate>2014-09-17</airdate>
+<title xml:lang="ja">自動販売機に入れたお札がもどってきちゃうわけ</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="162695" update="2015-08-29">
+<epno type="1">15</epno>
+<length>9</length>
+<airdate>2014-09-10</airdate>
+<title xml:lang="ja">忘れたころに探し物がみつかっちゃうわけ</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="164505" update="2015-08-29">
+<epno type="1">24</epno>
+<length>9</length>
+<airdate>2014-11-26</airdate>
+<title xml:lang="ja">髪を切ったあと首筋がチクチクしちゃうわけ</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="164506" update="2015-08-29">
+<epno type="1">23</epno>
+<length>9</length>
+<airdate>2014-11-19</airdate>
+<title xml:lang="ja">道でお見合いしちゃうわけ</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="164507" update="2015-08-29">
+<epno type="1">22</epno>
+<length>9</length>
+<airdate>2014-11-12</airdate>
+<title xml:lang="ja">メガネが白くくもっちゃうわけ</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="164508" update="2015-08-29">
+<epno type="1">21</epno>
+<length>9</length>
+<airdate>2014-10-29</airdate>
+<title xml:lang="ja">会話の途中でとつぜんシーンとなっちゃうわけ</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="164509" update="2015-08-29">
+<epno type="1">20</epno>
+<length>9</length>
+<airdate>2014-10-22</airdate>
+<title xml:lang="ja">オタマに当たって水がはねちゃうわけ</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="164510" update="2015-08-29">
+<epno type="1">19</epno>
+<length>9</length>
+<airdate>2014-10-15</airdate>
+<title xml:lang="ja">ビンのフタが固くて開かなくなっちゃうわけ</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="170323" update="2015-09-15">
+<epno type="1">48</epno>
+<length>9</length>
+<airdate>2015-09-16</airdate>
+<title xml:lang="ja">イマドキ妖怪がそこにいるわけ</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="170324" update="2015-09-15">
+<epno type="1">47</epno>
+<length>9</length>
+<airdate>2015-09-09</airdate>
+<title xml:lang="ja">トングをカチカチしちゃうわけ</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="170325" update="2015-09-15">
+<epno type="1">46</epno>
+<length>9</length>
+<airdate>2015-09-02</airdate>
+<title xml:lang="ja">お弁当が片寄っちゃうわけ</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="170326" update="2015-08-29">
+<epno type="1">45</epno>
+<length>9</length>
+<airdate>2015-07-15</airdate>
+<title xml:lang="ja">シャーペンの芯がヘコッとしちゃうわけ</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="170327" update="2015-08-29">
+<epno type="1">44</epno>
+<length>9</length>
+<airdate>2015-07-08</airdate>
+<title xml:lang="ja">ないと思ったお菓子がひとつだけ残っているわけ</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="170328" update="2015-08-29">
+<epno type="1">43</epno>
+<length>9</length>
+<airdate>2015-07-01</airdate>
+<title xml:lang="ja">シャンプーとリンスを間違えちゃうわけ</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="170329" update="2015-09-15">
+<epno type="1">42</epno>
+<length>9</length>
+<airdate>2015-06-17</airdate>
+<title xml:lang="ja">鼻がムズムズしちゃうわけ</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="170330" update="2015-09-15">
+<epno type="1">41</epno>
+<length>9</length>
+<airdate>2015-06-10</airdate>
+<title xml:lang="ja">おせんべいがシケちゃうわけ</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="170331" update="2015-09-15">
+<epno type="1">40</epno>
+<length>9</length>
+<airdate>2015-06-03</airdate>
+<title xml:lang="ja">洋服のチャックが開かなくなっちゃうわけ</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="170332" update="2015-09-15">
+<epno type="1">39</epno>
+<length>9</length>
+<airdate>2015-05-20</airdate>
+<title xml:lang="ja">落としたものが足の甲に当たっちゃうわけ</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="170333" update="2015-09-15">
+<epno type="1">38</epno>
+<length>9</length>
+<airdate>2015-05-13</airdate>
+<title xml:lang="ja">吸っても吸ってもシェイクがでてこないわけ</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="170334" update="2015-09-15">
+<epno type="1">37</epno>
+<length>9</length>
+<airdate>2015-05-06</airdate>
+<title xml:lang="ja">タグピンがどこかへいっちゃうわけ</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="170335" update="2015-09-15">
+<epno type="1">36</epno>
+<length>9</length>
+<airdate>2015-04-29</airdate>
+<title xml:lang="ja">ごみ取りテープがベターッとはりついちゃうわけ</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="170336" update="2015-09-15">
+<epno type="1">35</epno>
+<length>9</length>
+<airdate>2015-04-15</airdate>
+<title xml:lang="ja">プリンターに紙がつまっちゃうわけ</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="170337" update="2015-09-15">
+<epno type="1">34</epno>
+<length>9</length>
+<airdate>2015-04-08</airdate>
+<title xml:lang="ja">とけたアイスがぽとぽとたれちゃうわけ</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="170338" update="2015-09-15">
+<epno type="1">33</epno>
+<length>9</length>
+<airdate>2015-04-01</airdate>
+<title xml:lang="ja">メニューがパタッとたおれちゃうわけ</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="170339" update="2015-09-15">
+<epno type="1">32</epno>
+<length>9</length>
+<airdate>2015-02-11</airdate>
+<title xml:lang="ja">イマドキ妖怪部がくじけないわけ 後編</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="170340" update="2015-09-15">
+<epno type="1">31</epno>
+<length>9</length>
+<airdate>2015-02-04</airdate>
+<title xml:lang="ja">イマドキ妖怪部がくじけないわけ 前編</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="170341" update="2015-09-15">
+<epno type="1">30</epno>
+<length>9</length>
+<airdate>2015-01-28</airdate>
+<title xml:lang="ja">思いついたとき思わず手を叩いちゃうわけ</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="170342" update="2015-09-15">
+<epno type="1">29</epno>
+<length>9</length>
+<airdate>2015-01-21</airdate>
+<title xml:lang="ja">ついつい話を盛っちゃうわけ</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="170343" update="2015-09-15">
+<epno type="1">28</epno>
+<length>9</length>
+<airdate>2015-01-14</airdate>
+<title xml:lang="ja">なんでメモしたか忘れちゃうわけ</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="170344" update="2015-09-15">
+<epno type="1">27</epno>
+<length>9</length>
+<airdate>2014-12-24</airdate>
+<title xml:lang="ja">クリーミーな飲み物を飲むとヒゲがついちゃうわけ</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="170345" update="2015-09-15">
+<epno type="1">26</epno>
+<length>9</length>
+<airdate>2014-12-17</airdate>
+<title xml:lang="ja">携帯電話をパカッと開きたくなっちゃうわけ</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="170346" update="2015-09-15">
+<epno type="1">25</epno>
+<length>9</length>
+<airdate>2014-12-10</airdate>
+<title xml:lang="ja">グラスがドーンと倒れちゃうわけ</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+</episodes>
+</anime>

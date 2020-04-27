@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11019" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2014-09-08</startdate>
+<enddate>2014-09-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hana wa Saku: Touhoku ni Saku</title>
+<title xml:lang="ja" type="official">花は咲く 東北に咲く</title>
+</titles>
+<relatedanime>
+<anime id="8025" type="Character">Little Charo</anime>
+<anime id="11006" type="Other">Hana wa Saku</anime>
+</relatedanime>
+<url>http://www.nhk.or.jp/ashita/touhokutabi/5min/</url>
+<creators>
+<name id="30657" type="Animation Work">Cyclone Graphics</name>
+<name id="9250" type="Character Design">Asano Naoyuki</name>
+<name id="7817" type="Direction">Katou Michiya</name>
+<name id="241" type="Music">Kanno Youko</name>
+<name id="42088" type="Animation Work">Dwarf</name>
+</creators>
+<description>This program was created for the NHK Great East Japan Earthquake Project.
+It is a modern fairy tale with a sad, but heart warming feel.
+In this tale, popular NHK characters Domo and Charo assist the main protagonist Zashikiwarashi.
+Since that day, Zashikiwarashi lost her home.
+The two escort the girl to her homeland Northeastern Japan.</description>
+<ratings>
+<permanent count="72">4.12</permanent>
+<temporary count="73">5.55</temporary>
+</ratings>
+<picture>167233.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28093</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.cyclone-graphics.com/works/hanahasaku/</url>
+</externalentity>
+<externalentity>
+<url>http://www.nhk.or.jp/ashita/touhokutabi/5min/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="74196" type="main character in" update="2015-03-29">
+<name>Zashiki Warashi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171053.jpg</picture>
+<seiyuu id="42087" picture="167234.jpg">Takahata Mitsuki</seiyuu>
+</character>
+<character id="74197" type="main character in" update="2015-03-29">
+<name>Doumo-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171054.jpg</picture>
+<seiyuu id="58390" picture="237251.jpg">Yamakawa Shizuo</seiyuu>
+</character>
+<character id="74198" type="main character in" update="2015-03-29">
+<name>Charo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171055.jpg</picture>
+<seiyuu id="42754" picture="171058.jpg">Junna Risa</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="165176" update="2015-01-07">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2014-09-08</airdate>
+<rating votes="3">1.97</rating>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

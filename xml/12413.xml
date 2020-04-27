@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12413" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2013-07-10</startdate>
+<enddate>2014-08-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tanahashi Hiroshi X Mameshiba Pro Wrestling</title>
+<title xml:lang="ja" type="official">棚橋弘至☓豆しばプロレス</title>
+</titles>
+<relatedanime>
+<anime id="9829" type="Other">Mameshiba</anime>
+</relatedanime>
+<url>http://dogatch.jp/feature/mameshiba/movie.html</url>
+<description>A collaboration between New Japan Pro Wrestling, Inc. and Mameshiba.</description>
+<ratings>
+<permanent count="25">2.42</permanent>
+<temporary count="25">4.42</temporary>
+</ratings>
+<picture>191305.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33543</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dogatch.jp/feature/mameshiba/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="180227" update="2016-09-17">
+<epno type="1">2</epno>
+<length>1</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="180228" update="2016-09-17">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12692" restricted="false">
+<type>TV Series</type>
+<episodecount>5</episodecount>
+<startdate>1984-01</startdate>
+<enddate>1984-12</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Hei Mao Jing Zhang</title>
+<title xml:lang="zh" type="official">黑貓警長</title>
+<title xml:lang="en" type="official">Black Cat Detective</title>
+<title xml:lang="zh-Hans" type="official">黑猫警长</title>
+</titles>
+<description>The series follows Officer Black Cat`s adventures around the forest neighbourhood, apprehending criminals, dealing justice, and solving crimes.
+Source: MAL</description>
+<ratings>
+<permanent count="9">2.80</permanent>
+<temporary count="9">3.50</temporary>
+</ratings>
+<picture>196149.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34510</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Black_Cat_Detective</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="183320" update="2017-01-15">
+<epno type="1">5</epno>
+<length>20</length>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="183321" update="2017-01-15">
+<epno type="1">4</epno>
+<length>20</length>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="183322" update="2017-01-15">
+<epno type="1">3</epno>
+<length>20</length>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="183323" update="2017-01-15">
+<epno type="1">2</epno>
+<length>20</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="183324" update="2017-01-15">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

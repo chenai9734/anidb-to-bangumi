@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14577" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-08-19</startdate>
+<enddate>2016-08-19</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Long Zhi Gu: Jingling Wangzuo</title>
+<title xml:lang="en" type="synonym">Throne of Elves</title>
+<title xml:lang="zh-Hans" type="synonym">精灵王座</title>
+<title xml:lang="x-zht" type="synonym">Jingling Wangzuo</title>
+<title xml:lang="en" type="official">Dragon Nest: Throne of Elves</title>
+<title xml:lang="de" type="official">Throne of Elves: Die Chroniken von Altera</title>
+<title xml:lang="zh-Hans" type="official">龙之谷: 精灵王座</title>
+</titles>
+<relatedanime>
+<anime id="14304" type="Prequel">Long Zhi Gu: Poxiao Qibing</anime>
+</relatedanime>
+<description>The original stream contains one piece of introduction which was not added to the Bluray version.</description>
+<ratings>
+<permanent count="11">5.85</permanent>
+<temporary count="11">5.90</temporary>
+</ratings>
+<picture>230145.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31678</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>https://www.imdb.com/title/tt5425264/?ref_=tt_urv</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Throne_of_Elves</identifier>
+</externalentity>
+</resource>
+<resource type="33">
+<externalentity>
+<identifier>精灵王座/15842291</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="211620" update="2018-12-31">
+<epno type="1">1</epno>
+<length>110</length>
+<airdate>2016-08-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

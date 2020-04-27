@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3044" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2005-03-23</startdate>
+<enddate>2005-03-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Oval X Over</title>
+<title xml:lang="ja" type="official">OVALxOVER</title>
+</titles>
+<similaranime>
+<anime id="1170" approval="1" total="2">Dead Leaves</anime>
+</similaranime>
+<url>http://www.production-ig.co.jp/contents/works_sp/1240_/index.html</url>
+<creators>
+<name id="721" type="Work">Production I.G</name>
+<name id="155" type="Direction">Imaishi Hiroyuki</name>
+<name id="20201" type="Character Design">Imai Toonz</name>
+<name id="20201" type="Original Plan">Imai Toonz</name>
+<name id="4410" type="Music">Ike Yoshihiro</name>
+</creators>
+<description>Oval X Over was produced to promote the IRL - Bridgestone Indy Japan 300 on April 30th, 2005 and was premiered at the Indy Japan 300 festival in Roppongi Hills on March 23rd.</description>
+<ratings>
+<permanent count="63">4.30</permanent>
+<temporary count="63">5.30</temporary>
+</ratings>
+<picture>4245.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5032</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4103</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.production-ig.co.jp/works/oval-over/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2759" parentid="2881" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-06">
+<name>motorsport</name>
+<description>Driving involves driving in a competitive manner. Note that just driving to get groceries does not suffice, unless one does it like Takumi Fujiwara in Initial D.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="63104" type="main character in" update="2014-01-14">
+<name>Bern</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148542.jpg</picture>
+<seiyuu id="554" picture="244340.jpg">Iwata Mitsuo</seiyuu>
+</character>
+<character id="63105" type="main character in" update="2014-01-14">
+<name>Glavis</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148543.jpg</picture>
+<seiyuu id="240" picture="17059.jpg">Inoue Kikuko</seiyuu>
+</character>
+<character id="63106" type="main character in" update="2014-01-14">
+<name>Arth</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>148544.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="53611" update="2010-09-09">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2005-03-23</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11766" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>1967</startdate>
+<enddate>1967</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Alps no Shoujo Heidi Pilot</title>
+<title xml:lang="ja" type="official">アルプスの少女ハイジ パイロット版</title>
+</titles>
+<relatedanime>
+<anime id="426" type="Other">Alps no Shoujo Heidi</anime>
+</relatedanime>
+<description>Pilot episode of the famous anime Heidi.</description>
+<ratings>
+<permanent count="24">3.46</permanent>
+<temporary count="24">4.20</temporary>
+</ratings>
+<picture>179254.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10813</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="178032" update="2016-06-11">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Alps no Shoujo Heidi Pilot</title>
+</episode>
+</episodes>
+</anime>

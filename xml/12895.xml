@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12895" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>2008-06-30</startdate>
+<enddate>2008-06-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kakinoki Mokkii</title>
+<title xml:lang="en" type="synonym">Persimmon Tree Mokkyi</title>
+<title xml:lang="ja" type="official">柿の木モッキィ</title>
+</titles>
+<url>http://www9.nhk.or.jp/anime/petit/back2008.html</url>
+<description>A persimmon tree wants to grow more fruit and a crow wants to get over his fear of flying. They end up working together to achieve what the both want.
+Source: MAL</description>
+<ratings>
+<permanent count="27">3.37</permanent>
+<temporary count="27">4.57</temporary>
+</ratings>
+<picture>198863.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29481</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www9.nhk.or.jp/anime/petit/back2008.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>プチプチ・アニメ</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2849" parentid="7050" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="186581" update="2017-03-31">
+<epno type="1">1</epno>
+<length>5</length>
+<rating votes="2">4.80</rating>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

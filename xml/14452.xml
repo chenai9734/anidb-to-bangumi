@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14452" restricted="false">
+<type>Web</type>
+<episodecount>20</episodecount>
+<startdate>2018-10-31</startdate>
+<enddate>2019</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Pan to Boku no Momo-chan</title>
+<title xml:lang="en" type="synonym">Bread and My Momo</title>
+<title xml:lang="ja" type="official">パンと僕のモモちゃん</title>
+</titles>
+<picture>226169.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38561</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>パンと僕のモモちゃん</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365933</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+<tag id="7052" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-13">
+<name>vertical format</name>
+<description>The anime was produced in vertical format; in other words, its vertical dimension, height, is bigger than its horizontal dimension, width. Reasons for that may include, among others, to optimize the available screen area of mobile phones. This is not the same as and should not be confused with the http://anidb.net/t7053 [Tate Anime] mobile device app, which streams some anime in vertical format.</description>
+</tag>
+<tag id="7053" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-06-03">
+<name>Tate Anime</name>
+<description>Tate Anime (Vertical Anime) is a mobile device application by http://anidb.net/cr721 [Production I.G] dedicated to the streaming of exclusively produced http://anidb.net/t5852 [short-episodes anime] in http://anidb.net/t7052 [vertical format]. On 31.05.2018, it was replaced by Anime Beans, a rebranded application offering the same content and adding more on a daily basis.
+Please note that this tag should only be applied to anime originally produced for the mobile app, not to anime later ported to it.</description>
+<picurl>65677.png</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="209816" update="2018-10-31">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2018-10-31</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="209817" update="2018-10-31">
+<epno type="1">2</epno>
+<length>2</length>
+<airdate>2018-10-31</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="209995" update="2018-11-09">
+<epno type="1">3</epno>
+<length>2</length>
+<airdate>2018-11-09</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="209996" update="2018-11-09">
+<epno type="1">4</epno>
+<length>2</length>
+<airdate>2018-11-09</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="210858" update="2018-12-23">
+<epno type="1">5</epno>
+<length>2</length>
+<airdate>2018-12-07</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="210859" update="2018-12-23">
+<epno type="1">6</epno>
+<length>2</length>
+<airdate>2018-12-07</airdate>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="210964" update="2018-12-23">
+<epno type="1">7</epno>
+<length>2</length>
+<airdate>2018-12-14</airdate>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="210965" update="2018-12-23">
+<epno type="1">8</epno>
+<length>2</length>
+<airdate>2018-12-14</airdate>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="211421" update="2018-12-25">
+<epno type="1">9</epno>
+<length>2</length>
+<airdate>2018-12-21</airdate>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="211422" update="2018-12-25">
+<epno type="1">10</epno>
+<length>2</length>
+<airdate>2018-12-21</airdate>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="211503" update="2019-01-06">
+<epno type="1">11</epno>
+<length>2</length>
+<airdate>2019-01-04</airdate>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="211504" update="2019-01-06">
+<epno type="1">12</epno>
+<length>2</length>
+<airdate>2019-01-04</airdate>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="211827" update="2019-01-11">
+<epno type="1">13</epno>
+<length>2</length>
+<airdate>2019-01-18</airdate>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="211828" update="2019-01-11">
+<epno type="1">14</epno>
+<length>2</length>
+<airdate>2019-01-18</airdate>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="225513" update="2019-12-24">
+<epno type="1">15</epno>
+<length>2</length>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="225514" update="2019-12-24">
+<epno type="1">16</epno>
+<length>2</length>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="225515" update="2019-12-24">
+<epno type="1">17</epno>
+<length>2</length>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="225516" update="2019-12-24">
+<epno type="1">18</epno>
+<length>2</length>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="225517" update="2019-12-24">
+<epno type="1">19</epno>
+<length>2</length>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="225518" update="2019-12-24">
+<epno type="1">20</epno>
+<length>2</length>
+<title xml:lang="en">Episode 20</title>
+</episode>
+</episodes>
+</anime>

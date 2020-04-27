@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="799" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1995-04-07</startdate>
+<enddate>1995-04-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Lesson XX</title>
+<title xml:lang="ja" type="synonym">レッスン ダブルエックス</title>
+<title xml:lang="x-jat" type="synonym">Lesson Double X</title>
+<title xml:lang="ja" type="official">Lesson XX</title>
+</titles>
+<creators>
+<name id="34140" type="Original Work">Oonagi Ei</name>
+<name id="19636" type="Character Design">Chikanaga Sanae</name>
+<name id="1061" type="Work">Sido</name>
+<name id="16393" type="Direction">Hiroo Rin</name>
+</creators>
+<description>The story of Lesson XX has a sweet feel to it. It revolves around two boys, Morifuji Shizuka and Sakura Ichitarou who are friends at a coed boarding school. One day, Shizuka happens to notice Sakura`s sheer beauty when he dives in to take a hit from a baseball. After some mixed up thoughts of who Sakura likes, Shizuka tells him he wishes to kiss him as a joke. But Sakura doesn`t care; he still insists that the two kiss under the starry sky. After this incident, Shizuka thinks it`s best for the two to be away from each other, so as to sort out their thoughts and real feelings. A classic shounen ai/yaoi, incorporating love, misunderstanding, violence and somewhat angst with a sweet end to it.
+Source: ANN</description>
+<ratings>
+<permanent count="182">3.19</permanent>
+<temporary count="183">5.65</temporary>
+</ratings>
+<picture>2442.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4657</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1908</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3908</identifier>
+<identifier>ehljcm</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Lesson_XX</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235915</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2783" parentid="2858" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-04">
+<name>shounen ai</name>
+<description>Shounen Ai means boys love, and thus explores what happens when two boys (or men) fall in love. This is not to be mistaken for http://anidb.net/t2723 [Yaoi] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphical sex.
+The female version is http://anidb.net/t2782 [Shoujo Ai].</description>
+</tag>
+<tag id="2858" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="71445" type="main character in" update="2014-11-21">
+<name>Morifuji Shizuka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62322.png</picture>
+<seiyuu id="190" picture="186145.jpg">Tobita Nobuo</seiyuu>
+</character>
+<character id="71446" type="main character in" update="2014-11-21">
+<name>Sakura Ichitarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62323.png</picture>
+<seiyuu id="9195" picture="33999.jpg">Kanemaru Jun`ichi</seiyuu>
+</character>
+<character id="71517" type="secondary cast in" update="2014-11-21">
+<rating votes="1">5.01</rating>
+<name>Sakasegawa Misaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62324.png</picture>
+<seiyuu id="3374" picture="24704.jpg">Tomizawa Michie</seiyuu>
+</character>
+<character id="71526" type="secondary cast in" update="2014-11-21">
+<rating votes="1">5.01</rating>
+<name>Maekawa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62325.png</picture>
+<seiyuu id="6887" picture="31688.jpg">Yoshino Hinako</seiyuu>
+</character>
+<character id="71538" type="appears in" update="2014-11-21">
+<name>Higashio Junpei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62326.png</picture>
+<seiyuu id="8058" picture="17124.jpg">Nishimura Tomohiro</seiyuu>
+</character>
+<character id="71544" type="appears in" update="2014-11-21">
+<name>Masato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62327.png</picture>
+<seiyuu id="1819" picture="20694.jpg">Shiozawa Kaneto</seiyuu>
+</character>
+<character id="71548" type="appears in" update="2014-11-21">
+<rating votes="1">5.01</rating>
+<name>Haruna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>62328.png</picture>
+<seiyuu id="4770" picture="76766.jpg">Suzuka Chiharu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="8287" update="2005-12-30">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1995-04-07</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

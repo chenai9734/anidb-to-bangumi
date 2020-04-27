@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10148" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2005</startdate>
+<enddate>2005</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mirai e no Niji: Boku no Ojisan wa, Hansen-byou</title>
+<title xml:lang="ja" type="official">未来への虹 -僕のおじさんは, ハンセン病-</title>
+</titles>
+<creators>
+<name id="893" type="Work">Magic Bus</name>
+<name id="53876" type="Work">Kyoudou Eiga</name>
+<name id="5433" type="Direction">Shibuichi Setsuko</name>
+<name id="5105" type="Character Design">Kobayashi Yukari</name>
+<name id="5433" type="Character Design">Shibuichi Setsuko</name>
+<name id="6029" type="Music">Nakajima Yuuki</name>
+</creators>
+<ratings>
+<permanent count="1">7.69</permanent>
+<temporary count="1">6.00</temporary>
+</ratings>
+<picture>143448.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29365</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="154475" update="2013-10-01">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12310" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2016-08-02</startdate>
+<enddate>2017-01-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Watashitachi, Luck Logic Bu! 2</title>
+<title xml:lang="ja" type="official">私たち, らくろじ部! 2</title>
+</titles>
+<relatedanime>
+<anime id="11781" type="Prequel">Watashitachi, Luck Logic Bu!</anime>
+</relatedanime>
+<ratings>
+<permanent count="8">2.51</permanent>
+<temporary count="8">4.87</temporary>
+</ratings>
+<picture>179436.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33776</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ラクエンロジック#.E7.A7.81.E3.81.9F.E3.81.A1.E3.80.81.E3.82.89.E3.81.8F.E3.82.8D.E3.81.98.E9.83.A8.EF.BC.81</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359333</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="78322" type="main character in" update="2015-11-17">
+<name>Enshou Unne</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+</character>
+<character id="78323" type="main character in" update="2015-11-17">
+<name>Fukai Ronri</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+</character>
+<character id="78324" type="main character in" update="2015-11-17">
+<name>Sukinanohana Ado</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+</character>
+</characters>
+<episodes>
+<episode id="179341" update="2016-11-09">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2016-08-02</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="179877" update="2016-11-09">
+<epno type="1">2</epno>
+<length>1</length>
+<airdate>2016-08-22</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="180029" update="2016-11-09">
+<epno type="1">3</epno>
+<length>1</length>
+<airdate>2016-09-05</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="180448" update="2016-11-09">
+<epno type="1">4</epno>
+<length>1</length>
+<airdate>2016-09-21</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="180742" update="2016-11-09">
+<epno type="1">5</epno>
+<length>1</length>
+<airdate>2016-10-03</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="181247" update="2016-11-09">
+<epno type="1">6</epno>
+<length>1</length>
+<airdate>2016-10-18</airdate>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="181645" update="2016-11-09">
+<epno type="1">7</epno>
+<length>1</length>
+<airdate>2016-11-01</airdate>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="182047" update="2016-11-14">
+<epno type="1">8</epno>
+<length>1</length>
+<airdate>2015-11-14</airdate>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="182652" update="2016-11-28">
+<epno type="1">9</epno>
+<length>1</length>
+<airdate>2016-11-27</airdate>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="182908" update="2016-12-12">
+<epno type="1">10</epno>
+<length>1</length>
+<airdate>2016-12-12</airdate>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="183460" update="2017-01-05">
+<epno type="1">11</epno>
+<length>1</length>
+<airdate>2017-01-05</airdate>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="183979" update="2017-01-23">
+<epno type="1">12</epno>
+<length>1</length>
+<airdate>2017-01-22</airdate>
+<title xml:lang="en">Episode 12</title>
+</episode>
+</episodes>
+</anime>

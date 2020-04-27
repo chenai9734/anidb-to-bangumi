@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11420" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2011</startdate>
+<enddate>2011</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bara Bara Film</title>
+<title xml:lang="ja" type="official">バラバラフィルム</title>
+</titles>
+<description>Short animation film by Furukawa Taku.</description>
+<ratings>
+<permanent count="23">1.90</permanent>
+<temporary count="24">3.39</temporary>
+</ratings>
+<picture>175625.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30480</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170093" update="2015-07-19">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

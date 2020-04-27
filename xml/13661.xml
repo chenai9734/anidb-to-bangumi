@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13661" restricted="false">
+<type>Web</type>
+<episodecount>8</episodecount>
+<startdate>2018-07-20</startdate>
+<enddate>2018-07-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tales of the Rays Gekijou</title>
+<title xml:lang="ja" type="official">ているず おぶ ざ れいず 劇場</title>
+</titles>
+<relatedanime>
+<anime id="14628" type="Other">Tales of the Rays: Everlasting Destiny</anime>
+</relatedanime>
+<creators>
+<name id="42824" type="Animation Work">BN Pictures</name>
+<name id="43171" type="Original Work">Bandai Namco Entertainment</name>
+<name id="26739" type="Direction">Sasaki Shinobu</name>
+</creators>
+<description>* Based on http://anidb.net/cr43171 [Bandai Namco Entertainment]`s game app.</description>
+<ratings>
+<permanent count="8">3.15</permanent>
+<temporary count="8">4.62</temporary>
+</ratings>
+<picture>220740.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>36955</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://torays.tales-ch.jp/special/shortAnime/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364688</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="40984" type="main character in" update="2012-02-01">
+<name>Asbel Lhant</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3702.png</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="96965" type="main character in" update="2018-07-29">
+<name>Ickx Neve</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220957.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="96966" type="main character in" update="2018-07-29">
+<name>Mileena Weiss</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220958.jpg</picture>
+<seiyuu id="28437" picture="77562.jpg">Terui Haruka</seiyuu>
+</character>
+<character id="96967" type="main character in" update="2018-07-29">
+<name>Kyle Dunamis</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220959.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="96968" type="main character in" update="2018-07-29">
+<name>Lloyd Irving</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220960.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+<character id="96969" type="main character in" update="2018-07-29">
+<name>Yuri Lowell</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220961.jpg</picture>
+<seiyuu id="17" picture="71152.jpg">Toriumi Kousuke</seiyuu>
+</character>
+<character id="96970" type="main character in" update="2018-07-29">
+<name>Milla Maxwell</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220963.jpg</picture>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="96971" type="main character in" update="2018-07-29">
+<rating votes="1">6.08</rating>
+<name>Velvet Crowe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220964.jpg</picture>
+<seiyuu id="97" picture="222166.jpg">Satou Rina</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="203300" update="2018-07-23">
+<epno type="1">8</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="203301" update="2018-07-23">
+<epno type="1">7</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="203302" update="2018-07-23">
+<epno type="1">6</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="203303" update="2018-07-23">
+<epno type="1">5</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="203304" update="2018-07-23">
+<epno type="1">4</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="203305" update="2018-07-23">
+<epno type="1">3</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="203306" update="2018-07-23">
+<epno type="1">2</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="203307" update="2018-07-23">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2018-07-20</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

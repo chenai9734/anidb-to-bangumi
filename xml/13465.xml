@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13465" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-01-07</startdate>
+<enddate>2017-01-07</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Zhu Zhu Xia: Ying Xiong Zhu Shao Nian</title>
+<title xml:lang="en" type="synonym">GG Bond: Guarding</title>
+<title xml:lang="en" type="synonym">GG Bond Movie 4</title>
+<title xml:lang="zh-Hans" type="synonym">猪猪侠之英雄猪少年</title>
+<title xml:lang="zh-Hans" type="official">猪猪侠 英雄猪少年</title>
+</titles>
+<relatedanime>
+<anime id="13464" type="Other">Zhu Zhu Xia: Zhong Ji Jue Zhan</anime>
+</relatedanime>
+<description>Legend has it that five locks protect the world`s magic power, but it accidentally selected a "nobody" Pig Man (Zhang Zikun) as its owner.
+Source: imdb</description>
+<picture>207246.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>38134</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>GG_Bond:_Guarding</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>猪猪侠</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="199035" update="2018-05-13">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2017-01-07</airdate>
+<title xml:lang="en">Movie</title>
+</episode>
+</episodes>
+</anime>

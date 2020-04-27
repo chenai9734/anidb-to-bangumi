@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13081" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2010</startdate>
+<enddate>2010</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kyuushigai</title>
+<title xml:lang="en" type="synonym">Old City Ward</title>
+<title xml:lang="ja" type="official">旧市街</title>
+</titles>
+<url>http://ryukato.net/images/works/worksfile/kyusigai/kyusigai.html</url>
+<description>An official People In The Box music video.</description>
+<ratings>
+<permanent count="30">4.07</permanent>
+<temporary count="30">4.70</temporary>
+</ratings>
+<picture>200624.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19239</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://ryukato.net/images/works/worksfile/kyusigai/kyusigai.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="186752" update="2017-04-06">
+<epno type="1">1</epno>
+<length>7</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

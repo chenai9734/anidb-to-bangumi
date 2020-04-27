@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11054" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-06-06</startdate>
+<enddate>2015-06-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anata o Zutto Aishiteru</title>
+<title xml:lang="en" type="synonym">Tasty 2: Happy Together</title>
+<title xml:lang="en" type="synonym">You Are Umasou 2</title>
+<title xml:lang="x-jat" type="synonym">Anata wo Zutto Aishiteru</title>
+<title xml:lang="x-kot" type="synonym">Gonyeoseog Masnagessda 2: Hamkkelaseo Haengboghae</title>
+<title xml:lang="ja" type="official">あなたをずっとあいしてる</title>
+<title xml:lang="ko" type="official">고녀석 맛나겠다2: 함께라서 행복해</title>
+</titles>
+<relatedanime>
+<anime id="7655" type="Other">Omae Umasou Da na</anime>
+</relatedanime>
+<url>http://anatawozutto.com/</url>
+<creators>
+<name id="19592" type="Original Work">Miyanishi Tatsuya</name>
+<name id="22734" type="Chief Direction">Nonaka Kazumi</name>
+</creators>
+<description>The story centers around Toron, an infant Tyrannosaurus who lost his mother Sera and father Zesta. Left alone, Toron embarks on a journey and meets friends, learning about true strength and courage, and what love truly means.
+Source: ANN</description>
+<ratings>
+<permanent count="15">6.89</permanent>
+<temporary count="15">6.50</temporary>
+</ratings>
+<picture>170147.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17220</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>29863</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://anatawozutto.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>352295</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="566" parentid="2611" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-10">
+<name>dinosaur</name>
+<description>Dinosaurs are vertebrate animals that dominated terrestrial ecosystems for over 160 million years, first appearing approximately 230 million years ago. At the end of the Cretaceous Period, 66 million years ago, non-avian dinosaurs suffered a catastrophic extinction, which ended their dominance on land. Taxonomists consider modern birds to be the direct descendants of theropod dinosaurs.
+Since the first dinosaur was recognized in the 19th century, mounted, fossilized dinosaur skeletons have become major attractions at museums around the world. Dinosaurs have become a part of world culture and remain consistently popular, especially among children. They have been featured in best-selling books and films such as Jurassic Park, and new discoveries are regularly covered by the media.
+Source: Dinopedia</description>
+<picurl>191115.jpg</picurl>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2857" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="4259" parentid="2857" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>animal world</name>
+<description>All characters of the show are walking-talking animals. Their behaviour and clothing can resemble that of humans. They also may try to mirror human society.
+There are no humans present in this world.
+Not to be confused with http://anidb.net/t3968 [animal protagonist].</description>
+<picurl>10254.jpeg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="166950" update="2015-06-03">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2015-06-06</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

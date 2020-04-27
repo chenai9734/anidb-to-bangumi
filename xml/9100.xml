@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9100" restricted="false">
+<type>TV Series</type>
+<episodecount>32</episodecount>
+<startdate>2012-04-03</startdate>
+<enddate>2013-02-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zumomo to Nupepe</title>
+<title xml:lang="ja" type="official">ズモモとヌペペ</title>
+<title xml:lang="zh-Hans" type="official">自摸摸和努呸呸</title>
+</titles>
+<url>http://zumonupe.com/</url>
+<creators>
+<name id="19386" type="Animation Work">Egg</name>
+<name id="7015" type="Direction">Nakamura Noriyuki</name>
+<name id="8183" type="Music">Igarashi Hiroshi</name>
+<name id="31427" type="Direction">Yoshimizu Kei</name>
+</creators>
+<ratings>
+<permanent count="3">1.69</permanent>
+<temporary count="3">2.00</temporary>
+</ratings>
+<picture>132902.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14178</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>13455</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://zumonupe.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ズモモとヌペペ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2525</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>342509</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="46557" type="main character in" update="2012-07-01">
+<name>Zumomo</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90327.jpg</picture>
+<seiyuu id="353" picture="17192.jpg">Midorikawa Hikaru</seiyuu>
+</character>
+<character id="46558" type="main character in" update="2012-07-01">
+<name>Nupepe</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90328.jpg</picture>
+<seiyuu id="539" picture="228668.jpg">Aizawa Mai</seiyuu>
+</character>
+<character id="46559" type="secondary cast in" update="2012-07-01">
+<name>Mezamasshin</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90329.jpg</picture>
+<seiyuu id="1616" picture="23191.jpg">Inada Tetsu</seiyuu>
+</character>
+<character id="46560" type="secondary cast in" update="2012-07-01">
+<name>Iyashi no Yousei Dori-chan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90330.jpg</picture>
+<seiyuu id="1429" picture="18686.jpg">Konno Hiromi</seiyuu>
+</character>
+<character id="46561" type="secondary cast in" update="2012-07-01">
+<name>Mori no Gakusha U-san</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90331.jpg</picture>
+<seiyuu id="3064" picture="24692.jpg">Asou Tomohisa</seiyuu>
+</character>
+<character id="46562" type="secondary cast in" update="2012-07-01">
+<name>Captain Lowry</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90332.jpg</picture>
+<seiyuu id="4041" picture="26004.jpg">Miyasaka Shunzou</seiyuu>
+</character>
+<character id="46563" type="secondary cast in" update="2012-07-01">
+<name>Don Gurireone</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90333.jpg</picture>
+<seiyuu id="1616" picture="23191.jpg">Inada Tetsu</seiyuu>
+</character>
+<character id="46564" type="secondary cast in" update="2012-07-01">
+<name>Ingurino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90334.jpg</picture>
+<seiyuu id="4041" picture="26004.jpg">Miyasaka Shunzou</seiyuu>
+</character>
+<character id="46565" type="secondary cast in" update="2012-07-01">
+<name>Mongurino</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>90335.jpg</picture>
+<seiyuu id="3064" picture="24692.jpg">Asou Tomohisa</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="138943" update="2012-05-01">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2012-04-03</airdate>
+<title xml:lang="ja">朝はとつぜんやってきたの巻</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Asa wa Totsuzen Yatte Kita no Maki</title>
+</episode>
+<episode id="138944" update="2012-05-01">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2012-04-10</airdate>
+<title xml:lang="ja">嵐のようなアイツの巻</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Arashi no You na Aitsu no Maki</title>
+</episode>
+<episode id="138945" update="2012-05-01">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2012-04-17</airdate>
+<title xml:lang="ja">キミの家はボクの家? の巻</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Kimi no Ie wa Boku no Ie? no Maki</title>
+</episode>
+<episode id="139315" update="2012-05-01">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2012-04-24</airdate>
+<title xml:lang="ja">ロケットヌペペの巻</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Rocket Nupepe no Maki</title>
+</episode>
+<episode id="139316" update="2012-05-01">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2012-05-08</airdate>
+<title xml:lang="ja">ドン・グリレオーネの巻</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Don Gurireone no Maki</title>
+</episode>
+<episode id="139763" update="2012-05-22">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2012-05-22</airdate>
+<title xml:lang="ja">インテリアバトルの巻</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Interior Battle no Maki</title>
+</episode>
+<episode id="139764" update="2012-05-22">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2012-05-15</airdate>
+<title xml:lang="ja">ヨーセーてなに!?の巻</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Youseitte Nani!? no Maki</title>
+</episode>
+<episode id="140046" update="2012-06-06">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2012-06-12</airdate>
+<title xml:lang="ja">森のうーさん!の巻</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Mori no U-san! no Maki</title>
+</episode>
+<episode id="140047" update="2012-06-06">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2012-05-29</airdate>
+<title xml:lang="ja">不思議なヌペペの巻</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Fushigi na Nupepe no Maki</title>
+</episode>
+<episode id="140275" update="2012-06-21">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2012-06-26</airdate>
+<title xml:lang="ja">穴掘りの醍醐味の巻</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Ana Hori no Daigomi no Maki</title>
+</episode>
+<episode id="140276" update="2012-06-21">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2012-06-19</airdate>
+<title xml:lang="ja">キャプテン・ローリー!の巻</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Captain Lowry! no Maki</title>
+</episode>
+<episode id="140894" update="2012-09-01">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2012-09-11</airdate>
+<title xml:lang="ja">ハラペロポローン!の巻</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Haraperoporon! no Maki</title>
+</episode>
+<episode id="140895" update="2012-07-11">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2012-07-10</airdate>
+<title xml:lang="ja">右曲がりの一日の巻</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Migi Magari no Ichinichi no Maki</title>
+</episode>
+<episode id="140896" update="2012-07-11">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2012-07-03</airdate>
+<title xml:lang="ja">炸裂!ガールズトークの巻</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Sakuretsu! Girls Talk no Maki</title>
+</episode>
+<episode id="143916" update="2012-09-19">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2012-09-18</airdate>
+<title xml:lang="ja">ドン・グリレオーネの復讐の巻</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Don Gurireone no Fukushuu no Maki</title>
+</episode>
+<episode id="144316" update="2012-09-26">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2012-10-09</airdate>
+<title xml:lang="ja">ヨクトの丘の生物Xの巻</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Yokuto no Oka no Seibutsu x no Maki</title>
+</episode>
+<episode id="144317" update="2012-09-26">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2012-09-25</airdate>
+<title xml:lang="ja">ローリーの個人授業の巻</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Lowry no Kojin Jugyou no Maki</title>
+</episode>
+<episode id="144789" update="2012-10-17">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2012-10-23</airdate>
+<title xml:lang="ja">セバスチャン・Jr登場!の巻</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Sebastian Jr Toujou! no Maki</title>
+</episode>
+<episode id="144790" update="2012-10-17">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2012-10-16</airdate>
+<title xml:lang="ja">謎の石板の巻</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Nazo no Sekiban no Maki</title>
+</episode>
+<episode id="145539" update="2012-12-06">
+<epno type="1">22</epno>
+<length>5</length>
+<airdate>2012-11-20</airdate>
+<title xml:lang="ja">おかしなズモモの巻</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Okashi na Zumomo no Maki</title>
+</episode>
+<episode id="145540" update="2012-12-06">
+<epno type="1">21</epno>
+<length>5</length>
+<airdate>2012-11-13</airdate>
+<title xml:lang="ja">機械男の巻</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Kikai Otoko no Maki</title>
+</episode>
+<episode id="145541" update="2012-11-20">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2012-10-30</airdate>
+<title xml:lang="ja">バニ登場!の巻</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Barney Toujou! no Maki</title>
+</episode>
+<episode id="145814" update="2012-12-06">
+<epno type="1">25</epno>
+<length>5</length>
+<airdate>2013-01-08</airdate>
+<title xml:lang="ja">マッシーン奪取作戦の巻</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Machine Dasshu Sakusen no Maki</title>
+</episode>
+<episode id="145815" update="2012-12-06">
+<epno type="1">24</epno>
+<length>5</length>
+<airdate>2012-12-04</airdate>
+<title xml:lang="ja">セバスチャン・Jrの野望の巻</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Sebastian Jr no Yabou no Maki</title>
+</episode>
+<episode id="145816" update="2012-12-06">
+<epno type="1">23</epno>
+<length>5</length>
+<airdate>2012-11-27</airdate>
+<title xml:lang="ja">おばあちゃんの知恵袋の巻</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Obaachan no Chiebukuro no Maki</title>
+</episode>
+<episode id="147437" update="2013-02-12">
+<epno type="1">30</epno>
+<length>5</length>
+<airdate>2013-02-12</airdate>
+<title xml:lang="ja">マッシーン完成!の巻</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Machine Kansei! no Maki</title>
+</episode>
+<episode id="147438" update="2013-02-12">
+<epno type="1">29</epno>
+<length>5</length>
+<airdate>2013-02-05</airdate>
+<title xml:lang="ja">ハプニングは想定外の巻</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Happening wa Souteigai no Maki</title>
+</episode>
+<episode id="147439" update="2013-02-12">
+<epno type="1">28</epno>
+<length>5</length>
+<airdate>2013-01-29</airdate>
+<title xml:lang="ja">みんなでつくろう!の巻</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Minna de Tsukurou! no Maki</title>
+</episode>
+<episode id="147440" update="2013-02-12">
+<epno type="1">27</epno>
+<length>5</length>
+<airdate>2013-01-22</airdate>
+<title xml:lang="ja">うーさんの診察の巻</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">U-san no Shinsatsu no Maki</title>
+</episode>
+<episode id="147441" update="2013-02-12">
+<epno type="1">26</epno>
+<length>5</length>
+<airdate>2013-01-15</airdate>
+<title xml:lang="ja">マッシーン出現!の巻</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Machine Shutsugen! no Maki</title>
+</episode>
+<episode id="148031" update="2013-03-10">
+<epno type="1">32</epno>
+<length>5</length>
+<airdate>2013-02-26</airdate>
+<title xml:lang="ja">新たな旅立ちの巻</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Arata na Tabidachi no Maki</title>
+</episode>
+<episode id="148032" update="2013-03-10">
+<epno type="1">31</epno>
+<length>5</length>
+<airdate>2013-02-19</airdate>
+<title xml:lang="ja">その時ヌペペはの巻</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Sono Toki Nupepe wa no Maki</title>
+</episode>
+</episodes>
+</anime>

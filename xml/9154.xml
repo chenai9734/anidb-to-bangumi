@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9154" restricted="false">
+<type>Other</type>
+<episodecount>2</episodecount>
+<startdate>2011-12-17</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Yakimochi Caprice</title>
+<title xml:lang="ja" type="short">やきカプ</title>
+<title xml:lang="x-jat" type="short">yakicap</title>
+<title xml:lang="x-jat" type="short">yakikapu</title>
+<title xml:lang="ja" type="official">やきもち狂想曲[カプリス]</title>
+</titles>
+<url>http://www.anime-seijin.tv/</url>
+<creators>
+<name id="732" type="Animation Work">AIC</name>
+<name id="4538" type="Direction">Nishino Rie</name>
+</creators>
+<description>* Special ending animation sequence for the "Anime Seijin: Tokimeki Recipe" cooking and talk show.
+The "nonsensical romantic fantasy" of the anime centres around a kitten named Loup and a puppy named Noix — both of whom believe that they are actually human girls.
+Source: ANN</description>
+<ratings>
+<permanent count="29">3.27</permanent>
+<temporary count="29">4.79</temporary>
+</ratings>
+<picture>85647.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14241</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>15533</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.anime-seijin.tv/</url>
+</externalentity>
+<externalentity>
+<url>http://loupnoix.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>やきもち狂想曲</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="7" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>juujin</name>
+<description>Kemono, "beast", is a genre of Japanese art and character design that prominently features anthropomorphic animal characters. It is used widely in visual arts, especially drawing and painting, and can be found in many manga, anime, and video game.
+Anthropomorphic animal characters in the kemono genre are frequently called juujin, "therianthrope"; the kanji for juujin are also sometimes pronounced kemonobito, "beast-human". While their design differs from artist to artist, they generally employ animal traits considered cute and endearing; most kemono characters retain a fundamentally human personality, however, seldom behaving as the actual animals from which they have been anthropomorphized, and as such they are typically depicted living as humans do.
+Juujin leans more on the human-looking side when compared to http://anidb.net/t2857 [anthropomorphism], which leans more on the animal-looking side.
+Source: Manga Wikia</description>
+</tag>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="145986" update="2015-10-12">
+<epno type="1">2</epno>
+<length>2</length>
+<rating votes="1">1.90</rating>
+<title xml:lang="ja">「やきもち狂想曲」#2</title>
+<title xml:lang="en">Special Ending 2</title>
+<title xml:lang="x-jat">"Yakimochi Kyousoukyoku" #2</title>
+</episode>
+<episode id="145987" update="2015-10-12">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2011-12-17</airdate>
+<rating votes="1">1.90</rating>
+<title xml:lang="ja">「やきもち狂想曲」#1</title>
+<title xml:lang="en">Special Ending 1</title>
+<title xml:lang="x-jat">"Yakimochi Kyousoukyoku" #1</title>
+</episode>
+</episodes>
+</anime>

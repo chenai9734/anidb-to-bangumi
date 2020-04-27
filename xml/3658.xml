@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3658" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2005-10-25</startdate>
+<enddate>2005-10-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Street Fighter Alpha: Generations</title>
+<title xml:lang="x-jat" type="short">sfa2</title>
+<title xml:lang="x-jat" type="short">sfag</title>
+<title xml:lang="ja" type="official">ストリートファイターALPHAジェネレーション</title>
+<title xml:lang="en" type="official">Street Fighter Alpha: Generations</title>
+<title xml:lang="es" type="official">Street Fighter Zero 2</title>
+<title xml:lang="pt" type="official">Street Fighter Alpha: Generations - O Filme</title>
+<title xml:lang="hu" type="official">STREET FIGHTER ALPHA 2</title>
+</titles>
+<relatedanime>
+<anime id="210" type="Prequel">Street Fighter Zero: The Animation</anime>
+</relatedanime>
+<recommendations total="1"/>
+<url>http://www.streetfighteralpha.com</url>
+<creators>
+<name id="1283" type="Original Work">Capcom</name>
+<name id="9395" type="Direction">Kuwana Ikuo</name>
+<name id="9395" type="Character Design">Kuwana Ikuo</name>
+<name id="53442" type="Music">Bill Laswell</name>
+<name id="811" type="Animation Work">A.P.P.P.</name>
+</creators>
+<description>When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master`s killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma).</description>
+<ratings>
+<permanent count="591">3.21</permanent>
+<temporary count="601">6.08</temporary>
+<review count="3">5.88</review>
+</ratings>
+<picture>10013.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2759</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>950</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3595</identifier>
+<identifier>xjzpgh</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2282" parentid="2841" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-18">
+<name>martial arts</name>
+<description>Various sports or skills, mainly of Japanese origin, that originated as forms of self-defense or attack, such as judo, karate, and kendo.</description>
+<picurl>210947.jpg</picurl>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="5047" type="main character in" update="2011-04-07">
+<rating votes="51">9.01</rating>
+<name>Ryuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Ryu is a pretty simple guy. He wears the same outfit wherever he goes - white gi, black belt, red headband, period - and he has the same aim wherever he goes as well. He wants to fight whoever he thinks can make him a stronger fighter.</description>
+<picture>21382.jpg</picture>
+<seiyuu id="2674" picture="41437.jpg">Kase Yasuyuki</seiyuu>
+</character>
+<character id="13766" type="main character in" update="2011-03-15">
+<rating votes="26">9.27</rating>
+<name>Ken Masters</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Street Fighter 2 V voice actor: 羽賀研二</description>
+<picture>40634.jpg</picture>
+<seiyuu id="277" picture="223606.jpg">Hanawa Eiji</seiyuu>
+</character>
+<character id="13778" type="secondary cast in" update="2009-12-26">
+<rating votes="20">8.05</rating>
+<name>Gouki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>40590.jpg</picture>
+<seiyuu id="2946" picture="23373.jpg">Gouri Daisuke</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="40576" update="2005-10-25">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>2005-10-25</airdate>
+<rating votes="7">3.39</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13428" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2015-07-09</startdate>
+<enddate>2016-02-25</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Heibai Wushang</title>
+<title xml:lang="en" type="synonym">Black and White Warriors</title>
+<title xml:lang="zh-Hans" type="official">黑白无双</title>
+</titles>
+<relatedanime>
+<anime id="13444" type="Sequel">Heibai Wushang Di Er Ji</anime>
+</relatedanime>
+<description>A story about two young demons who are always slacking off at work, a place that happens to be an organization that vows to keep the balance between the worlds of the living and dead by killing humans!</description>
+<ratings>
+<permanent count="21">5.49</permanent>
+<temporary count="22">5.88</temporary>
+</ratings>
+<picture>207211.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33562</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://bangumi.bilibili.com/anime/3252</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6493" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manhua</name>
+<description>The Chinese equivalent of the Japanese manga, produced in Mainland China, Hong Kong, and Taiwan.
+See also http://anidb.net/t2798 [manga] and http://anidb.net/t5010 [manhwa].</description>
+</tag>
+<tag id="6494" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>half-length episodes</name>
+<description>Half-length episodes are regular episodes that are somewhat shorter than the standard length. This includes episodes that are 11 to 20 minutes in length; shows with episodes up to and including 10 minutes are http://anidb.net/t5852 [short episodes] instead.</description>
+</tag>
+<tag id="6850" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2020-03-13">
+<name>STAFF MISSING</name>
+<description>This anime is missing staff credits. If you can, please assign staff credits to the anime accordingly and then remove the tag.
+If the tag is set on an anime level, please assign preferably all credits and then remove it from the anime. If that is not feasible, please assign, at a minimum, credits for all the major/key staff and then transfer it to all relevant episodes (broadly speaking, regular episodes and S-type episodes containing animation). If the tag is already set on an episode level, please assign all credits, including minor staff, to the episode and then remove the tag from it.
+Likewise, this tag should either be applied on an anime level, when it is missing key staff (in full or in part), or to all relevant episodes, when key staff is present but at least some episodes don`t have full staff.
+For further information on assigning staff credits, please see http://wiki.anidb.net/Content:Staff_Credits [the AniDB Wiki article on them].</description>
+</tag>
+</tags>
+<episodes>
+<episode id="190801" update="2017-09-26">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2016-02-25</airdate>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="190802" update="2017-11-15">
+<epno type="1">11</epno>
+<length>10</length>
+<airdate>2016-02-01</airdate>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="190803" update="2017-09-26">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2016-01-15</airdate>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="190804" update="2017-09-17">
+<epno type="1">9</epno>
+<length>10</length>
+<airdate>2015-12-31</airdate>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="190805" update="2017-09-17">
+<epno type="1">8</epno>
+<length>10</length>
+<airdate>2015-12-17</airdate>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="190806" update="2017-09-26">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2015-11-19</airdate>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="190807" update="2017-09-26">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2015-11-10</airdate>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="190808" update="2017-09-17">
+<epno type="1">5</epno>
+<length>10</length>
+<airdate>2015-10-22</airdate>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="190809" update="2017-09-26">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2015-10-10</airdate>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="190810" update="2017-09-26">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2015-09-10</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="190811" update="2017-09-26">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2015-08-13</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="190812" update="2017-09-26">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2015-07-09</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

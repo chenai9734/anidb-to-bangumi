@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6536" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2009-08-22</startdate>
+<enddate>2009-08-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Yatterman: Shin Yattermecha Daishuugou! Omocha no Kuni de Daiketsudan Da Koron!</title>
+<title xml:lang="en" type="synonym">Yatterman (movie 2009)</title>
+<title xml:lang="en" type="synonym">New Yattaman the Movie</title>
+<title xml:lang="x-jat" type="synonym">Gekijouban Yatterman: Shin Yattermecha Osu Gou!</title>
+<title xml:lang="ja" type="official">劇場版 ヤッターマン 新ヤッターメカ大集合! オモチャの国で大決断だコロン!</title>
+</titles>
+<relatedanime>
+<anime id="5522" type="Other">Yatterman</anime>
+</relatedanime>
+<url>http://www.yattereiga.com/</url>
+<creators>
+<name id="830" type="Original Work">Tatsunoko Production</name>
+<name id="3986" type="Chief Direction">Sasagawa Hiroshi</name>
+<name id="2816" type="Character Design">Kamikita Futago</name>
+<name id="830" type="Animation Work">Tatsunoko Production</name>
+<name id="6669" type="Music">Jinbo Masaaki</name>
+<name id="6393" type="Music">Yamamoto Masayuki</name>
+<name id="9848" type="Direction">Hishida Masakazu</name>
+<name id="1595" type="Music">Fukasawa Hideyuki</name>
+</creators>
+<ratings>
+<permanent count="30">4.47</permanent>
+<temporary count="30">5.28</temporary>
+</ratings>
+<picture>24846.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>10848</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6693</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.yattereiga.com/</url>
+</externalentity>
+<externalentity>
+<url>http://www.tatsunoko.co.jp/works/yatterman-movie</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2700</identifier>
+</externalentity>
+<externalentity>
+<identifier>1303</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>334012</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11853</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="23348" type="appears in" update="2010-10-18">
+<name>Ai-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57112.jpg</picture>
+<seiyuu id="182" picture="226274.jpg">Itou Shizuka</seiyuu>
+</character>
+<character id="23349" type="appears in" update="2010-10-18">
+<rating votes="3">6.45</rating>
+<name>Gan-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57116.jpg</picture>
+<seiyuu id="65" picture="170428.jpg">Yoshino Hiroyuki</seiyuu>
+</character>
+<character id="23351" type="appears in" update="2011-04-08">
+<name>Dokurobei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Dokurobei is the elusive boss of the Dorombo Gang. He gives orders regarding the location of the Dokuro Stone to his subordinates in unusual ways, such as through a talking hamburger or the image of a red skull on a TV screen. Even when his leads are revealed to be inaccurate, Dokurobei is always quick to punish the Dorombo Gang when they fail.</description>
+<picture>57123.jpg</picture>
+<seiyuu id="3790" picture="50436.jpg">Takiguchi Junpei</seiyuu>
+</character>
+<character id="23352" type="appears in" update="2010-10-18">
+<rating votes="6">6.21</rating>
+<name>Doronjo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57117.jpg</picture>
+<seiyuu id="3414" picture="223019.jpg">Ohara Noriko</seiyuu>
+</character>
+<character id="23353" type="appears in" update="2010-10-18">
+<name>Boyacky</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>57120.jpg</picture>
+<seiyuu id="3241" picture="24745.jpg">Yanami Jouji</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="106484" update="2012-12-15">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>2009-08-22</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

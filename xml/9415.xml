@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9415" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1998-09-23</startdate>
+<enddate>1998-10-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Efficus: Kono Omoi o Kimi ni...</title>
+<title xml:lang="ja" type="synonym">エフィカス この想いを君に...</title>
+<title xml:lang="ja" type="official">efficus この想いを君に...</title>
+</titles>
+<creators>
+<name id="8120" type="Character Design">Shimada Hideaki</name>
+<name id="7154" type="Direction">Kimiya Shigeru</name>
+<name id="893" type="Animation Work">Magic Bus</name>
+</creators>
+<description>* Loosely based on the dating sim game from Genki.
+Formerly the kingdom`s foundations, now the Efficus Manjuu makes the pocket money of its three princesses and they must step in on its defense...</description>
+<ratings>
+<permanent count="7">2.66</permanent>
+<temporary count="7">4.14</temporary>
+</ratings>
+<picture>213540.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21591</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>16257</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3284</identifier>
+<identifier>oqtzbl</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>エフィカス_この想いを君に…#.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88172</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>5554</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="143817" update="2012-09-13">
+<epno type="1">1</epno>
+<length>35</length>
+<airdate>1998-09-23</airdate>
+<title xml:lang="en">Volume 1</title>
+</episode>
+<episode id="143818" update="2012-09-13">
+<epno type="1">2</epno>
+<length>45</length>
+<airdate>1998-10-23</airdate>
+<title xml:lang="en">Volume 2</title>
+</episode>
+</episodes>
+</anime>

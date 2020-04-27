@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11767" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1991-10-19</startdate>
+<enddate>1991-10-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bakabon Osomatsu no Curry wo Tazunete Sansenri</title>
+<title xml:lang="ja" type="official">バカボン・おそ松のカレーをたずねて三千里</title>
+</titles>
+<relatedanime>
+<anime id="2702" type="Other">Osomatsu-kun (1988)</anime>
+<anime id="5494" type="Other">Ganso Tensai Bakabon</anime>
+</relatedanime>
+<ratings>
+<permanent count="4">6.27</permanent>
+<temporary count="4">6.50</temporary>
+</ratings>
+<picture>179270.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24373</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="3752" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-10">
+<name>Journey to the West</name>
+<description>Journey to the West is a classic Chinese mythological novel. It was written during the Ming Dynasty based on traditional folk tales. Consisting of 100 chapters, this fantasy relates the adventures of a Tang Dynasty priest Sanzang and his three disciples, Monkey, Pig and Friar Sand, as they travel west in search of Buddhist Sutra. Several anime are loosely based on its story, most famously Dragon Ball.</description>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="173704" update="2015-12-08">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>1991-10-19</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

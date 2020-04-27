@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12735" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-08-07</startdate>
+<enddate>2015-08-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tama Shichi!</title>
+<title xml:lang="x-jat" type="synonym">Tama Sichi</title>
+<title xml:lang="ja" type="official">たましち!</title>
+</titles>
+<url>http://www.tamasichi.net/job/index.html</url>
+<creators>
+<name id="13150" type="Animation Work">C2C</name>
+<name id="26459" type="Character Design">Shimojou Yumi</name>
+</creators>
+<ratings>
+<permanent count="9">4.42</permanent>
+<temporary count="9">4.66</temporary>
+</ratings>
+<picture>197066.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34785</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tamasichi.net/job/index.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="183785" update="2017-01-17">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2015-08-07</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+<episode id="198893" update="2018-05-11">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Episode T1</title>
+</episode>
+</episodes>
+</anime>

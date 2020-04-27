@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10778" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2014-10-11</startdate>
+<enddate>2014-10-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Zephyr</title>
+<title xml:lang="ja" type="official">ZEPHYR</title>
+</titles>
+<url>http://rejetweb.jp/zephyr/</url>
+<creators>
+<name id="15243" type="Animation Character Design">Ootsuka Yae</name>
+<name id="1043" type="Animation Work">Satelight</name>
+<name id="39543" type="Character Design">Maeda Hirotaka</name>
+<name id="31365" type="Chief Direction">Iwasaki Daisuke</name>
+<name id="31365" type="Original Plan">Iwasaki Daisuke</name>
+</creators>
+<description>The story revolves around the boy band named Zephyr, who lives in the slums of Tokyo in the near future. They stopped producing music after a war. One day Ned, the lead vocalist, receives a message on his phone from his girlfriend who he thought died in the war.
+Source: ANN</description>
+<ratings>
+<permanent count="11">3.78</permanent>
+<temporary count="11">5.36</temporary>
+</ratings>
+<picture>160001.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25833</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://rejetweb.jp/zephyr/</url>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="69285" type="main character in" update="2014-08-08">
+<name>Uran</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159317.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="69286" type="main character in" update="2014-08-08">
+<name>Kal</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159315.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="69287" type="main character in" update="2014-08-08">
+<name>Ned</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159316.jpg</picture>
+<seiyuu id="644" picture="205640.jpg">Suzuki Tatsuhisa</seiyuu>
+</character>
+<character id="69288" type="main character in" update="2014-08-08">
+<name>Meisa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>159318.jpg</picture>
+<seiyuu id="1678" picture="68277.jpg">Kaji Yuuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="161879" update="2017-07-12">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2014-10-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

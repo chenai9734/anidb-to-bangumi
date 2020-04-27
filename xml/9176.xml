@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9176" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1993-03-21</startdate>
+<enddate>1993-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anata ga Furikaeru Toki</title>
+<title xml:lang="ja" type="official">あなたが振り返るとき</title>
+</titles>
+<creators>
+<name id="4479" type="Music">Oono Yuuji</name>
+<name id="32315" type="Original Work">Hanai Aiko</name>
+<name id="32315" type="Direction">Hanai Aiko</name>
+<name id="32417" type="Animation Work">Grouper Productions</name>
+</creators>
+<description>* Three shorts based on stories by http://anidb.net/cr32315 [Hanai Aiko], who also directed this OVA.</description>
+<ratings>
+<permanent count="7">3.15</permanent>
+<temporary count="7">4.14</temporary>
+</ratings>
+<picture>86338.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19923</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3229</identifier>
+<identifier>oyjlma</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>あなたが振り返るとき</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88348</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2984</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="43763" type="secondary cast in" update="2012-04-24">
+<name>Kazuteru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2730" picture="22755.jpg">Sugawara Masashi</seiyuu>
+</character>
+<character id="43764" type="secondary cast in" update="2012-04-24">
+<name>Ako</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="1734" picture="38029.jpg">Toda Keiko</seiyuu>
+</character>
+<character id="43765" type="secondary cast in" update="2012-04-25">
+<name>Haruhiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="8918" picture="33283.jpg">Furumoto Shin`nosuke</seiyuu>
+</character>
+<character id="43766" type="main character in" update="2014-02-05">
+<name>Mizuho</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149689.jpg</picture>
+<seiyuu id="2439" picture="166338.jpg">Araki Kae</seiyuu>
+</character>
+<character id="43767" type="secondary cast in" update="2012-04-24">
+<name>Ryou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+</character>
+<character id="43768" type="secondary cast in" update="2012-04-24">
+<name>Yumi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+</character>
+<character id="43769" type="secondary cast in" update="2012-04-24">
+<name>Hidetsugu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="33624" picture="92048.jpg">Miyashita Naoki</seiyuu>
+</character>
+<character id="43770" type="secondary cast in" update="2012-04-25">
+<name>Kanako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="360" picture="171401.jpg">Hisakawa Aya</seiyuu>
+</character>
+<character id="43771" type="secondary cast in" update="2012-04-24">
+<name>Rikako</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="17992" picture="63120.jpg">Minami Kyouko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="139120" update="2012-04-24">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1993-03-21</airdate>
+<title xml:lang="ja">FU・WA・FU・WA / ホワイト・バレンタイン / 神様のシナリオ</title>
+<title xml:lang="en">OVA</title>
+<title xml:lang="x-jat">Fuwafuwa / White Valentine / Kamisama no Scenario</title>
+</episode>
+</episodes>
+</anime>

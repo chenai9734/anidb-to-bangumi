@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12766" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>2017-04-01</startdate>
+<enddate>2018-03-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Future Card Buddyfight Batzz</title>
+<title xml:lang="ja" type="synonym">フューチャーカード バディファイトX</title>
+<title xml:lang="x-jat" type="synonym">Future Card Buddyfight Battsu</title>
+<title xml:lang="ja" type="official">フューチャーカード バディファイト バッツ</title>
+<title xml:lang="en" type="official">Future Card Buddyfight X</title>
+<title xml:lang="zh-Hans" type="official">未来卡搭档对战X</title>
+</titles>
+<relatedanime>
+<anime id="13984" type="Sequel">Future Card Buddyfight Batzz: All-Star Fight</anime>
+<anime id="11960" type="Prequel">Future Card Buddyfight DDD</anime>
+</relatedanime>
+<url>http://tv-aichi.co.jp/fc-buddyfightX/</url>
+<creators>
+<name id="54962" type="Music">Yamamoto Shigeru</name>
+<name id="8258" type="Direction">Ikeda Shigetaka</name>
+<name id="1082" type="Original Plan">Shogakukan</name>
+<name id="6287" type="Original Work">Bushiroad</name>
+<name id="1082" type="Original Work">Shogakukan</name>
+<name id="42583" type="Original Work">Tamura Mitsuhisa</name>
+<name id="4447" type="Series Composition">Fujita Shinzou</name>
+<name id="10937" type="Character Design">Ozawa Kumiko</name>
+<name id="719" type="Animation Work">Xebec</name>
+<name id="727" type="Animation Work">OLM</name>
+</creators>
+<ratings>
+<permanent count="9">2.62</permanent>
+<temporary count="9">3.50</temporary>
+</ratings>
+<picture>199737.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19092</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34836</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tv-aichi.co.jp/fc-buddyfightX/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4522</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360280</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>buddyfight</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=Lpzl5qJRYA8&amp;list=PLIQFFOvQ3VPqWr3sjkU5y3v913yfJJaac</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=qG5GyP99pEs&amp;list=PLIQFFOvQ3VPpjzx7rWGvO6ZBW1xnblEGY&amp;index=1</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="60040" type="secondary cast in" update="2018-06-29">
+<name>Nanana Paruko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>147757.jpg</picture>
+<seiyuu id="21805" picture="169875.jpg">Tokui Sora</seiyuu>
+</character>
+<character id="61167" type="secondary cast in" update="2017-10-21">
+<name>Hyouryuu Kiri</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208680.jpg</picture>
+<seiyuu id="25107" picture="76467.jpg">Aimi</seiyuu>
+</character>
+<character id="61168" type="secondary cast in" update="2017-10-21">
+<name>Kodou Noboru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208662.jpg</picture>
+<seiyuu id="4929" picture="41385.jpg">Kitta Izumi</seiyuu>
+</character>
+<character id="61169" type="secondary cast in" update="2017-10-21">
+<name>Uki Kuguru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208657.jpg</picture>
+<seiyuu id="21806" picture="186701.jpg">Sasaki Mikoi</seiyuu>
+</character>
+<character id="61170" type="secondary cast in" update="2017-10-21">
+<name>Oomori Baku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>147754.jpg</picture>
+<seiyuu id="23574" picture="64846.jpg">Morishima Shuuta</seiyuu>
+</character>
+<character id="61172" type="secondary cast in" update="2018-06-29">
+<name>Ryuuenji Tasuku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>147753.jpg</picture>
+<seiyuu id="36680" picture="153752.jpg">Saitou Souma</seiyuu>
+</character>
+<character id="61174" type="main character in" update="2017-10-21">
+<name>Mikado Gaou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208656.jpg</picture>
+<seiyuu id="34311" picture="242882.jpg">Mizuno Marie</seiyuu>
+</character>
+<character id="62608" type="secondary cast in" update="2017-10-21">
+<name>Mikado Hanako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208663.jpg</picture>
+<seiyuu id="20025" picture="132938.jpg">Mimori Suzuko</seiyuu>
+</character>
+<character id="62609" type="secondary cast in" update="2017-10-21">
+<name>Kurodake Tetsuya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208658.jpg</picture>
+<seiyuu id="10380" picture="38227.jpg">Yamamoto Kazutomi</seiyuu>
+</character>
+<character id="63398" type="appears in" update="2017-10-21">
+<name>Kaseijin Ufo Takosuke</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208712.jpg</picture>
+<seiyuu id="52292" picture="208734.jpg">Koike Yuki</seiyuu>
+</character>
+<character id="63399" type="secondary cast in" update="2014-01-27">
+<rating votes="1">6.08</rating>
+<name>Mikado Suzumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149086.jpg</picture>
+<seiyuu id="40833" picture="198636.jpg">Nanao Haruhi</seiyuu>
+</character>
+<character id="63400" type="secondary cast in" update="2014-01-27">
+<name>Mikado Takashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149087.jpg</picture>
+<seiyuu id="5040" picture="88977.jpg">Kawahara Yoshihisa</seiyuu>
+</character>
+<character id="63401" type="secondary cast in" update="2014-01-27">
+<name>Juumonji Hanae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149088.jpg</picture>
+<seiyuu id="40833" picture="198636.jpg">Nanao Haruhi</seiyuu>
+</character>
+<character id="65045" type="appears in" update="2017-10-21">
+<name>Nanomachine Ninja Tsukikage</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208709.jpg</picture>
+<seiyuu id="4005" picture="171558.jpg">Toudou Mai</seiyuu>
+</character>
+<character id="65050" type="secondary cast in" update="2017-10-21">
+<name>Shidou Magoroku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208687.jpg</picture>
+<seiyuu id="38306" picture="208109.jpg">Zaima Kenta</seiyuu>
+</character>
+<character id="65053" type="secondary cast in" update="2017-10-21">
+<name>Castle no Tenchou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208669.jpg</picture>
+<seiyuu id="280" picture="170840.jpg">Kiuchi Hidenobu</seiyuu>
+</character>
+<character id="65059" type="secondary cast in" update="2017-10-21">
+<name>Nitsuke Nisei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208671.jpg</picture>
+<seiyuu id="5040" picture="88977.jpg">Kawahara Yoshihisa</seiyuu>
+</character>
+<character id="65061" type="secondary cast in" update="2017-10-21">
+<name>Kisaragi Zan`ya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208659.jpg</picture>
+<seiyuu id="180" picture="171567.jpg">Saiga Mitsuki</seiyuu>
+</character>
+<character id="81443" type="main character in" update="2017-10-22">
+<name>Kurouzu Gaito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208753.jpg</picture>
+<seiyuu id="29613" picture="78208.jpg">Aoi Shouta</seiyuu>
+</character>
+<character id="91895" type="appears in" update="2017-10-21">
+<name>Eikou no Kishi El Quijote</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208716.jpg</picture>
+<seiyuu id="399" picture="17244.jpg">Suyama Akio</seiyuu>
+</character>
+<character id="91924" type="secondary cast in" update="2017-10-22">
+<name>Bunbuku-shishou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208757.jpg</picture>
+<seiyuu id="2071" picture="74324.jpg">Oohata Shintarou</seiyuu>
+</character>
+<character id="91925" type="secondary cast in" update="2017-10-22">
+<rating votes="1">10.00</rating>
+<name>Wisdom</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208758.jpg</picture>
+<seiyuu id="214" picture="238138.jpg">Nojima Hirofumi</seiyuu>
+</character>
+<character id="91926" type="secondary cast in" update="2017-10-22">
+<name>Grimo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208762.jpg</picture>
+<seiyuu id="12387" picture="223823.jpg">Yanai Hitoshi</seiyuu>
+</character>
+<character id="91927" type="secondary cast in" update="2017-10-22">
+<name>Keisetsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208761.jpg</picture>
+<seiyuu id="32197" picture="4765.png">Shida Arisa</seiyuu>
+</character>
+<character id="91928" type="secondary cast in" update="2017-10-22">
+<name>Brutal</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208760.jpg</picture>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+<character id="91929" type="main character in" update="2017-10-22">
+<name>Oozora Kanata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208752.jpg</picture>
+<seiyuu id="81" picture="41282.jpg">Sanpei Yuuko</seiyuu>
+</character>
+<character id="91930" type="secondary cast in" update="2017-10-22">
+<rating votes="1">10.00</rating>
+<name>Teito Kuu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208754.jpg</picture>
+<seiyuu id="20025" picture="132938.jpg">Mimori Suzuko</seiyuu>
+</character>
+<character id="91931" type="secondary cast in" update="2017-10-22">
+<name>Kaidou Dai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208755.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="91932" type="secondary cast in" update="2017-10-22">
+<name>Kirisame Shousetsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208756.jpg</picture>
+<seiyuu id="4005" picture="171558.jpg">Toudou Mai</seiyuu>
+</character>
+<character id="91933" type="secondary cast in" update="2017-10-22">
+<name>Onigashira Sakate</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208759.jpg</picture>
+<seiyuu id="33484" picture="241847.jpg">Kikuchi Yukitoshi</seiyuu>
+</character>
+<character id="91934" type="appears in" update="2017-10-22">
+<name>Maou Ryuu Batzz</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208767.jpg</picture>
+<seiyuu id="244" picture="23860.jpg">Koyama Rikiya</seiyuu>
+</character>
+<character id="91935" type="appears in" update="2017-10-22">
+<name>Raitei Ryuu Barbatzz</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208768.jpg</picture>
+<seiyuu id="244" picture="23860.jpg">Koyama Rikiya</seiyuu>
+</character>
+<character id="91936" type="appears in" update="2017-10-22">
+<name>Kesshou Ryuu Atora</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208769.jpg</picture>
+<seiyuu id="326" picture="17162.jpg">Mizushima Takahiro</seiyuu>
+</character>
+<character id="91937" type="appears in" update="2017-10-22">
+<name>Kakusei no Kokushi Ryuu Abigail</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208770.jpg</picture>
+<seiyuu id="371" picture="166173.jpg">Kuroda Takaya</seiyuu>
+</character>
+<character id="91938" type="appears in" update="2017-10-22">
+<name>Gekimetsu no Kokushi Ryuu Abigail</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208771.jpg</picture>
+<seiyuu id="371" picture="166173.jpg">Kuroda Takaya</seiyuu>
+</character>
+<character id="91939" type="appears in" update="2017-10-22">
+<name>Gyakuten no Kokushi Ryuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208772.jpg</picture>
+<seiyuu id="371" picture="166173.jpg">Kuroda Takaya</seiyuu>
+</character>
+<character id="91940" type="appears in" update="2017-10-22">
+<name>Chibi Panda</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208773.jpg</picture>
+<seiyuu id="397" picture="43234.jpg">Saitou Ayaka</seiyuu>
+</character>
+<character id="91941" type="appears in" update="2017-10-22">
+<name>Saint Holy Sword Dragon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208774.jpg</picture>
+<seiyuu id="397" picture="43234.jpg">Saitou Ayaka</seiyuu>
+</character>
+<character id="91942" type="appears in" update="2017-10-22">
+<name>Deka Tanuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208775.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="91944" type="appears in" update="2017-10-22">
+<name>Star Dragner Jackknife</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208781.jpg</picture>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+<character id="91945" type="appears in" update="2017-10-22">
+<name>Koyomi Kyuu Goban-kan Satsuki</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<picture>208782.jpg</picture>
+<seiyuu id="25107" picture="76467.jpg">Aimi</seiyuu>
+</character>
+<character id="91946" type="appears in" update="2017-10-22">
+<name>Bushin Banchou Duel Yeager</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208783.jpg</picture>
+</character>
+<character id="91947" type="appears in" update="2017-10-22">
+<name>Bone Master Lebul Garrows</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208784.jpg</picture>
+<seiyuu id="185" picture="228625.jpg">Ishigami Yuuichi</seiyuu>
+</character>
+<character id="91948" type="appears in" update="2017-10-22">
+<name>Nekketsu Maou Teacher Asmodai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208785.jpg</picture>
+<seiyuu id="378" picture="46436.jpg">Oota Tetsuharu</seiyuu>
+</character>
+<character id="91949" type="appears in" update="2017-10-22">
+<name>Gyakuten Ninja Tsukikage</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208786.jpg</picture>
+<seiyuu id="4005" picture="171558.jpg">Toudou Mai</seiyuu>
+</character>
+<character id="91950" type="appears in" update="2017-10-22">
+<name>C no Shihaisha Gear God VII</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208787.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="91951" type="appears in" update="2017-10-22">
+<name>PCM Gear God VIII</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208788.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="91952" type="appears in" update="2017-10-22">
+<name>Oni no Toumoku Ibuki Douji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208789.jpg</picture>
+<seiyuu id="29947" picture="223488.jpg">Terashima Junta</seiyuu>
+</character>
+<character id="91953" type="appears in" update="2017-10-22">
+<name>Shuten Majin Ibuki Douji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208790.jpg</picture>
+<seiyuu id="29947" picture="223488.jpg">Terashima Junta</seiyuu>
+</character>
+<character id="91954" type="appears in" update="2017-10-22">
+<name>Maganki Hei Dragolem</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208791.jpg</picture>
+<seiyuu id="4039" picture="91415.jpg">Mogami Tsuguo</seiyuu>
+</character>
+<character id="91955" type="appears in" update="2017-10-22">
+<name>Kouma Ouken Levantin</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>208792.jpg</picture>
+<seiyuu id="21806" picture="186701.jpg">Sasaki Mikoi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="186587" update="2017-04-02">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-04-01</airdate>
+<title xml:lang="ja">最強の魔王竜! その名はバッツ!!</title>
+<title xml:lang="en">The Most Powerful Demon Lord Dragon! His Name is Batzz!</title>
+<title xml:lang="x-jat">Saikyou no Maou Ryuu! Sono Na wa Batzz!!</title>
+<summary>A mysterious new dragon appears before Gao, inviting him to participate in a Buddyfight tournament that pits the parallel worlds against each other. Gao and his friends travel to Dragon World to find a Buddy that will be his partner.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>727703</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="186588" update="2017-04-08">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-04-08</airdate>
+<title xml:lang="ja">バッツ地球へ! 超東驚大パニック!!</title>
+<title xml:lang="en">Batzz Goes to Earth! Major Panic in Cho-Tokyo!</title>
+<title xml:lang="x-jat">Batzz Chikyuu e! Chou Higashi Odoroki Dai Panic!!</title>
+<summary>To Chibi Panda and Gao`s dismay, Batzz shows no interest in the World Buddy Masters. Worse still, his rampages cause city-wide blackouts. Chibi Panda learns the rules of Buddyfight, while Gaito and Abygale challenge Gao and Batzz to a match.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733533</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="186664" update="2017-04-03">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2017-04-01</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="186665" update="2017-04-03">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2017-04-01</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="186857" update="2017-04-16">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-04-15</airdate>
+<title xml:lang="ja">ノーダメージファイター! 大宇宙カナタ!!</title>
+<title xml:lang="en">No-Damage Fighter, Kanata Ozora!</title>
+<title xml:lang="x-jat">No Damage Fighter! Dai Uchuu Kanata!!</title>
+<summary>Gao discovers that soccer star Kanata is also a Buddyfight genius who has never lost a life point. Tasuku tries to convince Kanata to represent Star Dragon World in the World Buddy Masters, but Kanata is no longer interested in Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733535</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187158" update="2017-04-22">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-04-22</airdate>
+<title xml:lang="ja">ワールドバディマスターズ開幕!!</title>
+<title xml:lang="en">The World Buddy Masters Begins!</title>
+<title xml:lang="x-jat">World Buddy Masters Kaimaku!!</title>
+<summary>The World Buddy Masters tournament begins, with ten worlds represented by ten skilled Buddyfighters. Gao`s first match is against Magic World representative Tetsuya, but his real challenge is learning to deal with Batzz`s rebellious streak.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733537</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187326" update="2017-04-30">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-04-29</airdate>
+<title xml:lang="ja">トラになれ! ノボル, 最後のファイト!!</title>
+<title xml:lang="en">Become a Tiger! Noboru`s Final Fight!</title>
+<title xml:lang="x-jat">Tora ni Nare! Noboru, Saigo no Fight!!</title>
+<summary>Noboru meets his next opponent, a young boy who claims to be Noboru`s biggest fan. Batzz suspects that there is more to Sakate than meets the eye.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733539</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187420" update="2017-05-07">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-05-06</airdate>
+<title xml:lang="ja">最強戦艦サツキ発進! 攻撃目標はバッツ!!</title>
+<title xml:lang="en">Strongest Battleship Satsuki Launches! Attack Target: Batzz!</title>
+<title xml:lang="x-jat">Saikyou Senkan Satsuki Hasshin! Kougeki Mokuhyou wa Batzz!!</title>
+<summary>Gao`s next opponent is Kuu Teito, a Buddy Police trainee representing Hero World. Ku is determined to prove that her Buddy, Satsuki, is the strongest monster of all.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733541</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187613" update="2017-05-14">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-05-13</airdate>
+<title xml:lang="ja">ガイトか!? 海道か!? 迫る死の宣告!!</title>
+<title xml:lang="en">Gaito is...? Kaido is...? The Death Sentence Approaches!</title>
+<title xml:lang="x-jat">Gaito ka!? Kaidou ka!? Semarushi no Senkoku!!</title>
+<summary>Batzz quits the tournament, but Dai Kaido does his best to convince him to stay. Gaito decides to use a mysterious new Impact in his next match.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733543</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187614" update="2017-05-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-05-20</airdate>
+<title xml:lang="ja">恐怖の奇襲! バッツ絶体絶命!!</title>
+<title xml:lang="en">Terrifying Ambush! Batzz`s Back Against the Wall!</title>
+<title xml:lang="x-jat">Kyoufu no Kishuu! Batzz Zettaizetsumei!!</title>
+<summary>Gao and his friends try to come up with a strategy to defeat Sakate`s powerful Ambush technique. Zanya uncovers the truth about Sakate and his boss. Meanwhile, Sakate is back to his old tricks, playing mind games and trying to recruit Batzz.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733545</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="187881" update="2017-05-27">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-05-27</airdate>
+<title xml:lang="ja">ガイトVSカナタ! 運命の必殺シュート!!</title>
+<title xml:lang="en">Gaito versus Kanata! Impact Shoot of Destiny!</title>
+<title xml:lang="x-jat">Gaito s Kanata! Unmei no Hissatsu Shoot!!</title>
+<summary>Gao and Batzz have a fight and Gao takes drastic measures to keep Batzz in line. Gaito and Kanata are both determined to be the one who will face Gao in the final round, but Kanata finds his confidence wavering.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733547</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="188016" update="2017-06-03">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-06-03</airdate>
+<title xml:lang="ja">決勝戦! ワールドナンバー1は誰だ!!</title>
+<title xml:lang="en">Final Round! Who is the World Number One?</title>
+<title xml:lang="x-jat">Kesshousen! World Number 1 wa Dare Da!!</title>
+<summary>Gao and Kanata face off in the final round of the World Buddy Masters. Baku has prepared a special deck to counter the No-Damage Fighter, but Kanata has some unexpected tricks up his sleeve.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733549</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="188097" update="2017-06-11">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-06-10</airdate>
+<title xml:lang="ja">死闘決着! ミラージュカード降臨!!</title>
+<title xml:lang="en">The Desperate Battle Concludes! The Mirage Card Manifests!</title>
+<title xml:lang="x-jat">Shitou Kecchaku! Mirage Card Kourin!!</title>
+<summary>The final match of the World Buddy Masters continues, as Gao deals damage to Kanata and defends his life points. When Kanata uses his new card to survive a winning blow, the tournament`s outcome hinges on his final turn.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733551</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="188192" update="2017-06-17">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-06-17</airdate>
+<title xml:lang="ja">C[カオス]の支配者! ギアゴッドVII!!</title>
+<title xml:lang="en">Ruler of Chaos! Geargod VII!</title>
+<title xml:lang="x-jat">Chaos no Shihaisha! Gear God VII!!</title>
+<summary>As Gao and his friends race to find Batzz, Kanata faces Wisdom and his new Flag card, the Chaos.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733553</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="188400" update="2017-06-25">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2017-06-24</airdate>
+<title xml:lang="ja">ウィズダムの恐るべき陰謀! 怒れバッツ!!</title>
+<title xml:lang="en">Wisdom`s Terrifying Conspiracy! Rage, Batzz!</title>
+<title xml:lang="x-jat">Wisdom no Osorubeki Inbou! Okore Bats!!</title>
+<summary>Wisdom invites Batzz to join him in world domination as Gao faces him in a Buddyfight. Meanwhile, Gaito corners Sakate and tries to get the truth out of him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>733555</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="188644" update="2017-07-01">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2017-07-01</airdate>
+<title xml:lang="ja">激闘の果てに... 牙王死す!!</title>
+<title xml:lang="en">After the Raging Battle...Gao Perishes!</title>
+<title xml:lang="x-jat">Gekitou no Hate ni... Kiba-ou Shisu!!</title>
+<summary>Gao continues his gruelling battle against Wisdom. Tasuku and Ku face off against Brutal and Keisetsu, two members of the Chaos Three, Wisdom`s elite team of Buddyfighters.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740945</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="188770" update="2017-07-08">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2017-07-08</airdate>
+<title xml:lang="ja">トイレの恐怖! 相棒学園はオバケだらけ!?</title>
+<title xml:lang="en">Terror from the Toilet! Aibo Academy is Full of Ghosts!</title>
+<title xml:lang="x-jat">Toilet no Kyoufu! Aibou Gakuen wa Obake Darake!?</title>
+<summary>A mysterious old man holds the secret to restoring Gao. Gao and his friends investigate a series of spooky events plaguing Aibo Academy.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740947</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="188861" update="2017-07-16">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2017-07-15</airdate>
+<title xml:lang="ja">牙王 inタスク! 二人で一人の×天バスター!!</title>
+<title xml:lang="en">Gao in Tasuku! A Two-in-One X Tempest Buster!</title>
+<title xml:lang="x-jat">Kibaou in Tasuku! Futari de Hitori no x Ten Buster!!</title>
+<summary>Gao learns that he can possess humans in his current ghost-like form. When Shido grows jealous of Kanata and Gaito`s popularity and concocts a plan, only Gao and his friends can stop him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740949</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="189076" update="2017-07-22">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2017-07-22</airdate>
+<title xml:lang="ja">タイムリミット! 牙王が消滅する日!!</title>
+<title xml:lang="en">Time Limit! The Day that Gao Stops Existing!</title>
+<title xml:lang="x-jat">Time Limit! Kiba-ou ga Shoumetsu Suru Hi!!</title>
+<summary>Batzz has until sunset to help people and cure Gao`s dragonification. As Gao begins to fade out of existence, Baku discovers that the X Tempest Buster card has gone missing, leading to a desperate search.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740951</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="189573" update="2017-07-29">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2017-07-29</airdate>
+<title xml:lang="ja">天国? 地獄? ぶんぶく師匠とデカたぬき!!</title>
+<title xml:lang="en">Paradise? Underworld? Master Bunbuku and Giant Tanuki!</title>
+<title xml:lang="x-jat">Tengoku? Jigoku? Bunbuku Shishou to Deka Tanuki!!</title>
+<summary>Gao reunites with Master Bunbuku, the mysterious old man who helped him reverse his dragonification. Suzumi senses that there`s more to this stranger than meets the eye.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740953</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="189574" update="2017-08-05">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2017-08-05</airdate>
+<title xml:lang="ja">合宿スタート! 復活の×天バスター!!</title>
+<title xml:lang="en">Training Camp Begins! The X Tempest Buster Revives!</title>
+<title xml:lang="x-jat">Gasshuku Start! Fukkatsu no x Ten Buster!!</title>
+<summary>Gao and his friends start an intensive week-long training session at Master Bunbuku`s training camp. En route to the camp, mysterious monsters kidnap Master Bunbuku and the others. Gao must overcome his inability to use the X Tempest Buster.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740955</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="189804" update="2017-08-13">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2017-08-12</airdate>
+<title xml:lang="ja">死神VS死の宣告! 運命の第三ターン!!</title>
+<title xml:lang="en">Grim Reaper vs. Death Sentence! The Third Turn of Destiny!</title>
+<title xml:lang="x-jat">Shinigami VS Shi no Senkoku! Unmei no Dai San Turn!!</title>
+<summary>Guru Bunbuku gives advice to Gao`s friends. As they puzzle over the meaning of this words, Gaito becomes determined to face Kiri in a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740957</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="189940" update="2017-08-20">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2017-08-19</airdate>
+<title xml:lang="ja">タッグマッチ! すれ違うカナタとアトラ!!</title>
+<title xml:lang="en">Tag Match! Kanata and Athora`s Crossed Wires!</title>
+<title xml:lang="x-jat">Tag Match! Surechigau Kanata to Athora!!</title>
+<summary>Zanya and Tetsuya join the training camp. While Kanata tries to puzzle out the meaning of Guru Bunbuku`s advice, Athora worries about their future as Buddies.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740959</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190145" update="2017-08-26">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2017-08-26</airdate>
+<title xml:lang="ja">牙王とバッツ! 星空の誓い!!</title>
+<title xml:lang="en">Gao and Batzz! The Starry Sky Promise!</title>
+<title xml:lang="x-jat">Kiba-ou to Batzz! Hoshizora no Chikai!!</title>
+<summary>As the training camp winds down, Guru Bunbuku reveals the truth about Batzz`s past.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740961</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190506" update="2017-09-02">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2017-09-02</airdate>
+<title xml:lang="ja">バッツ逆天! 雷帝フォーメーション完成!!</title>
+<title xml:lang="en">Batzz`s Overturn! Thunder Empire Formation Complete!</title>
+<title xml:lang="x-jat">Batzz Gekiten! Kaminaritei Formation Kansei!!</title>
+<summary>Gao and friends are worried about Kanata`s strange behavior. Chibi Panda wants to become stronger to protect Gao and Batzz. Guru Bunbuku tries to solve both problems through a Buddyfight with Gao.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740963</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190629" update="2017-09-09">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2017-09-09</airdate>
+<title xml:lang="ja">逆天殺! 闘技のブルータル!!</title>
+<title xml:lang="en">Overkill! Brutal of the Martial Arts!</title>
+<title xml:lang="x-jat">Gyaku Tensatsu! Tougi no Brutal!!</title>
+<summary>Kiri encounters Brutal while investigating the mysterious disappearance of monsters from various worlds. When Kiri rescues some Chaos Monster cards from Brutal`s clutches, Brutal challenges him to a Buddyfight and shows his true colors.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740965</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190704" update="2017-09-16">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2017-09-16</airdate>
+<title xml:lang="ja">誕生! 逆天の黒死竜!!</title>
+<title xml:lang="en">Birth! Overturn Black Death Dragon Rises!</title>
+<title xml:lang="x-jat">Tanjou! Gyakuten no Kuro Shiryou!!</title>
+<summary>Abygale trains desperately in order to evolve further and gain the powers of Overturn.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740967</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="190762" update="2017-09-24">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2017-09-23</airdate>
+<title xml:lang="ja">師匠VSウィズダム! 衝撃のギアゴッドVIII!!</title>
+<title xml:lang="en">Guru vs. Wisdom! The Shocking Geargod VIII!</title>
+<title xml:lang="x-jat">Shishou VS Wisdom! Shougeki no Geargod VIII!</title>
+<summary>Gao and his friends wander through the maze-like forest as they try to stop Sakate and Keisetsu. Wisdom appears before Guru Bunbuku and tries to destroy the Mirage Card. A Buddyfight ensues.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>740969</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191180" update="2017-10-01">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2017-09-30</airdate>
+<title xml:lang="ja">集結! 雷帝軍!!</title>
+<title xml:lang="en">Assemble! Thunder Empire!</title>
+<title xml:lang="x-jat">Shuuketsu! Kaminari Teigun!!</title>
+<summary>Gao and Batzz create a new flag card. Chibi Panda decides that Gao needs to get stronger, as Thunder Empire monsters respond to Batzz`s call to arms. Wisdom`s second-in-command, Grimoire, orders Sakate to destroy the new flag card.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748799</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191316" update="2017-10-08">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2017-10-07</airdate>
+<title xml:lang="ja">逆天VS逆天殺 放て! ×天アルティメットバスター!!</title>
+<title xml:lang="en">Overturn versus Overkill! Unleash the X Tempest Ulti-Buster!</title>
+<title xml:lang="x-jat">Gyakuten VS Gyakutensatsu Hanate! x Ten Ultimate Buster!!</title>
+<summary>Gao and Sakate have a Buddyfight over the fate of the Thunder Emperor`s Fangs card.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748801</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191496" update="2017-10-15">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2017-10-14</airdate>
+<title xml:lang="ja">パパパンダ来襲! さらば, ちびパンダ!!</title>
+<title xml:lang="en">Invasion of Papa Panda! Farewell, Chibi Panda!</title>
+<title xml:lang="x-jat">Papa Panda Raishuu! Saraba, Chibi Panda!!</title>
+<summary>Chibi Panda`s father is determined to take him back to Dragon World. As the Mikado family tries to convince Papa Panda to let his son stay, Gao and Batzz must decide what is truly best for their friend.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748803</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191767" update="2017-10-22">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2017-10-21</airdate>
+<title xml:lang="ja">無限斬撃! 降魔王剣レヴァンティン!!</title>
+<title xml:lang="en">Infinite Slashes! Demonic Descent Sword of the King, Laevateinn!!</title>
+<title xml:lang="x-jat">Mugen Zangeki! Gouma-ou Ken Laevateinn!!</title>
+<summary>Gao and Batzz are invited to a ceremonial fight at the newly open Grimoire Park. Kanata and Zanya are suspicious of Keisetsu and investigate.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748805</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192079" update="2017-10-29">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2017-10-28</airdate>
+<title xml:lang="ja">パーフェクトスルーファイター! 気毒スルー!!</title>
+<title xml:lang="en">Perfectly Ignored Fighter! Slide Kidoku!</title>
+<title xml:lang="x-jat">Perfect Through Fighter! Kidoku Suruu!!</title>
+<summary>Gao is challenged by a mysterious Buddyfighter who wants to become Wisdom`s right hand man.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>748807</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192613" update="2017-11-12">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2017-11-11</airdate>
+<title xml:lang="ja">逆天の力! 天晶竜アルドアトラ!!</title>
+<title xml:lang="en">The Power of Overturn! Heavenly Crystal Dragon, Aldo Athora!</title>
+<title xml:lang="x-jat">Gyakuten no Chikara! Tenshou Ryuu Aldo Athora!!</title>
+<summary>Kanata`s past with Keisetsu is revealed. Grimoire hires a mercenary Buddyfighter to represent Grimoire Park. Meanwhile, monsters all over Cho-Tokyo begin to act strangely.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753933</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192614" update="2017-11-05">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2017-11-04</airdate>
+<title xml:lang="ja">迫る魔剣! ケイセツの逆天殺!!</title>
+<title xml:lang="en">The Demonic Sword Draws Near! Keisetsu`s Overkill!</title>
+<title xml:lang="x-jat">Semaru Maken! Keisetsu no Gyaku Tensatsu!!</title>
+<summary>Gao and his friends infiltrate Grimoire Park in an attempt to find Wisdom. Keisetsu challenges Kanata to a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753163</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192794" update="2017-11-19">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2017-11-18</airdate>
+<title xml:lang="ja">ガイトVS人工知能! 爆裂のミニギアゴッド!!</title>
+<title xml:lang="en">Gaito versus Artificial Intelligence! Explosion of the Mini Geargods!</title>
+<title xml:lang="x-jat">Gaito vs Jinkou Chinou! Bakuretsu no Mini Gia God!!</title>
+<summary>Wisdom holds a press conference and announces his plans for Grimoire Park. An enraged Gaito storms into the park and is forced to battle the Mini Geargods.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>754539</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193208" update="2017-11-25">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2017-11-25</airdate>
+<title xml:lang="ja">ケイセツに届け! カナタの新必殺シュート!!</title>
+<title xml:lang="en">Will it reach Keisetsu? Kanata`s new Impact Shot!</title>
+<title xml:lang="x-jat">Keisetsu ni Todoke! Kanata no Shin Hissatsu Shoot!!</title>
+<summary>Gao and his friends pursue Sakate from Grimoire Park to the Chaos Control Company HQ. Kanata must defeat Keisetsu to gain an audience with Wisdom.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>754541</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193464" update="2017-12-02">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2017-12-02</airdate>
+<title xml:lang="ja">Cの超越者! ギアゴッドver. 099 !!</title>
+<title xml:lang="en">CHAOS Transcendant! Geargod Ver. 099!</title>
+<title xml:lang="x-jat">C no Chouetsusha! Geargod Ver. 099!!</title>
+<summary>Gao tries to understand Wisdom`s motivations, but they are unable to overcome their philosophical differences. The only way to settle the issue: a Buddyfight pitting their unique Flags against each other.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>754543</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193562" update="2017-12-10">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2017-12-09</airdate>
+<title xml:lang="ja">ギアゴッドの逆天殺! 追いつめられた牙王!!</title>
+<title xml:lang="en">Geargod`s Overkill! Gao in Dire Straits!</title>
+<title xml:lang="x-jat">Geargod no Gyaku Tensatsu! Oitsumerareta Kiba-ou!!</title>
+<summary>Gao faces Wisdom in a Buddyfight, but things take an unexpected turn when Geargod ver. 099`s Overkill is unleashed. Gao and his friends must flee when Geargod runs wild.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>754545</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193708" update="2017-12-16">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2017-12-16</airdate>
+<title xml:lang="ja">掴め! 逆天を超える力!!</title>
+<title xml:lang="en">Grasp it! The Power Beyond Overturn!!</title>
+<title xml:lang="x-jat">Tsukame! Gekiten o Koeru Chikara!!</title>
+<summary>Gao and his friends visit Guru Bunbuku, hoping for a training session. Keisetsu faces Wisdom in a Buddyfight that tests not only Geargod 099, but also Keisetsu`s relationship with Wisdom.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>754547</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193850" update="2017-12-23">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2017-12-23</airdate>
+<title xml:lang="ja">友情の雷帝軍 ギアゴッド反乱!?</title>
+<title xml:lang="en">Thunder Empire of Friendship! Geargod Rebels?!</title>
+<title xml:lang="x-jat">Yuujou no Kaminari Teigun Geargod Hanran!?</title>
+<summary>When Gao struggles to find a way to defeat Wisdom, Kiri tries to reignite his passion for Buddyfight by challenging him to a match. Meanwhile, Geargod and Wisdom clash over their attitudes towards Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>754549</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194181" update="2018-01-06">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2018-01-06</airdate>
+<title xml:lang="ja">新たなバディ! 機械じかけの太陽番長!!</title>
+<title xml:lang="en">A New Buddy! The Clockwork Mighty Sun Fighter!!</title>
+<title xml:lang="x-jat">Arata na Buddy! Kikaiji Kake no Taiyou Banchou!!</title>
+<summary>Zanya reveals the results of his investigation into the Chaos Company. Geargod 099 sends a duplicate of Gao to infiltrate his home and school, resulting in an attack on Student Council President Shido. Shido challenges Gao to a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>754551</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194921" update="2018-01-13">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2018-01-13</airdate>
+<title xml:lang="ja">牙王VSカオス牙王! 機神フォーメーション完成!!</title>
+<title xml:lang="en">Gao versus CHAOS Gao! Autodeity Formation Complete!</title>
+<title xml:lang="x-jat">Kibaou VS Chaos Kibaou! Hatagami Formation Kansei!!</title>
+<summary>Gao and Batzz struggle against CHAOS Gao`s Autodeity Army, which is made up of evil duplicates of the Thunder Empire cards. Batzz begins to have doubts about his own abilities.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759821</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195145" update="2018-01-21">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2018-01-20</airdate>
+<title xml:lang="ja">バディ解散! さらばバッツ!!</title>
+<title xml:lang="en">Buddy Breakup! Farewell, Batzz!</title>
+<title xml:lang="x-jat">Buddy Kaisan! Saraba Batzz!!</title>
+<summary>Gao and Chibi Panda notice Batzz acting strangely. Meanwhile, Ku and Satsuki investigate Grimoire`s activities. Grimoire reveals a surprising new side to himself and challenges Ku to a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759823</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195276" update="2018-01-27">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2018-01-27</airdate>
+<title xml:lang="ja">轟天覇王竜! バールバッツ・ドラグロイヤー!!</title>
+<title xml:lang="en">Turbulent Warlord Dragon! Barlbatzz Dragoroyale!</title>
+<title xml:lang="x-jat">Gouten Haou Ryuu! Barlbatzz Dragoroyale!!</title>
+<summary>Gao and Chibi Panda search for Batzz. Batzz returns to Dragon World and asks Saint Glory Sword Dragon to seal him away in the same shrine where Gao first found him.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759825</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195654" update="2018-02-04">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2018-02-03</airdate>
+<title xml:lang="ja">見よ! これがバッツの大逆天だ!!</title>
+<title xml:lang="en">Behold! This is Batzz`s Overthrow!</title>
+<title xml:lang="x-jat">Miyo! Kore ga Batzz no Daigyaku Tenda!!</title>
+<summary>CHAOS Gao and Geargod 099 begin chaosifying the monsters of Dragon World. Gao and Batzz challenge them to a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759827</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195758" update="2018-02-10">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2018-02-10</airdate>
+<title xml:lang="ja">都市伝説ロボ? ハナコWC降臨!!</title>
+<title xml:lang="en">Robo of Urban Legends? Hanako WC Appears!</title>
+<title xml:lang="x-jat">Toshi Densetsu Robo? Hanako WC Kourin!!</title>
+<summary>Batzz is eager to show off his new evolved form in a Buddyfight, but first Gao and his friends must deal with Hanako, a monster who has returned to haunt the boys` bathroom.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759829</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195938" update="2018-02-17">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2018-02-17</airdate>
+<title xml:lang="ja">輝け! 逆天星竜ジャックナイフ!!</title>
+<title xml:lang="en">Shine Bright! Shining Dragoner, Jackknife!</title>
+<title xml:lang="x-jat">Kagayake! Gyaku Takashi Seiryuu Jacknife!</title>
+<summary>Tasuku and Gao attempt to find and capture Geargod before Wisdom can use his hacking skills to take over its mind. Grimoire stands in Tasuku`s way, while Gao has his hands full explaining the nature of true Buddies to Geargod.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759831</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196253" update="2018-02-24">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2018-02-24</airdate>
+<title xml:lang="ja">神を超える力! 究極に至るカオス!!</title>
+<title xml:lang="en">The Power that Surpasses Deities! The Ultimate Chaos!</title>
+<title xml:lang="x-jat">Kami o Koeru Chikara! Kyuukyoku ni Itaru Chaos!!</title>
+<summary>Guru Bunbuku reveals Geargod`s secret origins. Grimoire and Wisdom face off in a Buddyfight, with the future of the Wisdom clan at stake.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759833</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196676" update="2018-03-04">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2018-03-03</airdate>
+<title xml:lang="ja">牙王VSケイセツ! 帰ってきたカオススリー!!</title>
+<title xml:lang="en">Gao versus Keisetsu! Return of the Chaos Three!</title>
+<title xml:lang="x-jat">Gao VS Keisetsu! Kaette Kita Chaos Three!!</title>
+<summary>Wisdom instructs the Chaos Three to destroy Gao and Batzz. Armed with a powerful new card, Keisetsu challenges Gao to a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759835</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196850" update="2018-03-11">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2018-03-10</airdate>
+<title xml:lang="ja">ウィズダムの野望! 恐怖のアップグレード宣言!!</title>
+<title xml:lang="en">Wisdom`s Ambition! The Terrifying Upgrade Declaration!</title>
+<title xml:lang="x-jat">Wisdom no Yabaou! Kyoufu no Upgrade Sengen!!</title>
+<summary>As monsters rampage throughout Cho-Tokyo, Wisdom announces his plans to upgrade the world through Chaosification of all monsters. Keisetsu offers to lead Gao and company to Wisdom, but Brutal of the Martial Arts stands in their way.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759837</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196983" update="2018-03-17">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2018-03-17</airdate>
+<title xml:lang="ja">最終計画始動! カオス化する世界!!</title>
+<title xml:lang="en">Final Plan Activated! New World Chaos!</title>
+<title xml:lang="x-jat">Saishuu Keikaku Shidou! Chaos Suru Sekai!!</title>
+<summary>Kiri leads a team of heroes trying to slow down the Chaosification of the remaining worlds. Meanwhile, Gao and his friends search for Chibi Panda, and Kanata faces Sakate in a Buddyfight.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>766685</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197067" update="2018-03-24">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2018-03-24</airdate>
+<title xml:lang="ja">最終決戦! 牙王VSウィズダム!!</title>
+<title xml:lang="en">Final Battle! Gao versus Wisdom!</title>
+<title xml:lang="x-jat">Saishuu Kessen! Gao VS Wisdom!!</title>
+<summary>Gao and his friends follow Wisdom to the former site of the Mirage Shrine, where Gao challenges Wisdom to a Buddyfight match. It`s all-out war between the Chaos monsters and Thunder Empire!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>766687</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="197311" update="2018-03-31">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2018-03-31</airdate>
+<title xml:lang="ja">勝て牙王! 最後のバディファイト!!</title>
+<title xml:lang="en">Win, Gao! The Last Buddyfight!</title>
+<title xml:lang="x-jat">Kate Gao! Saigo no Buddyfight!!</title>
+<summary>Gao and Wisdom pull out all the stops as they battle over the fate of the parallel worlds. New cards and new abilities are revealed as the Buddyfight comes to a thrilling conclusion.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>766689</identifier>
+<identifier>future-card-buddyfight</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13108" restricted="false">
+<type>Movie</type>
+<episodecount>5</episodecount>
+<startdate>2019-11-29</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Gundam G no Reconguista</title>
+<title xml:lang="ja" type="official">劇場版 ガンダム Gのレコンギスタ</title>
+</titles>
+<relatedanime>
+<anime id="10531" type="Other">Gundam G no Reconguista</anime>
+</relatedanime>
+<url>http://www.g-reco.net/</url>
+<creators>
+<name id="503" type="Character Design">Yoshida Ken`ichi</name>
+<name id="147" type="Original Work">Tomino Yoshiyuki</name>
+<name id="1352" type="Original Work">Yatate Hajime</name>
+<name id="147" type="Chief Direction">Tomino Yoshiyuki</name>
+<name id="6306" type="Music">Kanno Yuugo</name>
+</creators>
+<description>Note: The first part received a screening at France`s Japan Expo in July 2019.</description>
+<ratings>
+<permanent count="2">2.54</permanent>
+<temporary count="2">1.50</temporary>
+</ratings>
+<picture>236587.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22302</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38714</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.g-reco.net/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>369082</identifier>
+</externalentity>
+<externalentity>
+<identifier>370818</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>gundam_reco</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="68119" type="main character in" update="2014-06-29">
+<rating votes="11">4.47</rating>
+<name>Aida Rayhunton</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A young woman who forms part of the pirate detachment. She is one of three people who can pilot the G-Self. Using the captured G-Self, she attempts to seize a Photon Battery, but is in turn captured by Bellri. Her background is not what it seems at first.
+Source: en.gundam.info</description>
+<picture>157046.jpg</picture>
+<seiyuu id="3198" picture="160468.jpg">Shimamura Yuu</seiyuu>
+</character>
+<character id="68120" type="secondary cast in" update="2014-07-30">
+<rating votes="1">2.01</rating>
+<name>Klim Nick</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>The son of Ameria`s President, he is an extremely talented mobile suit pilot with strong ambition. Piloting the Montero, he joins the pirates in an effort to rescue Aida.
+Source: en.gundam.info</description>
+<picture>158803.jpg</picture>
+<seiyuu id="29979" picture="223317.jpg">Oosaka Ryouta</seiyuu>
+</character>
+<character id="68121" type="secondary cast in" update="2014-06-29">
+<rating votes="4">2.51</rating>
+<name>Noredo Nug</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A student at Saint Flower Academy, and a member of its cheerleading squad. Fond of Bellri, she goes out of her way to spend time with him. A caring, responsible individual, she looks after the amnesiac Raraiya.
+Source: en.gundam.info</description>
+<picture>157043.jpg</picture>
+<seiyuu id="1798" picture="20493.jpg">Kotobuki Minako</seiyuu>
+</character>
+<character id="68122" type="main character in" update="2014-06-29">
+<rating votes="11">3.48</rating>
+<name>Bellri Zenam</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A cadet in the Capital Guard Academy, created to advance the protection of the Capital Tower. His prodigious talents carry him upward in the ranks quickly, earning a double promotion. He falls for Aida at first sight, and joins the pirates in their battle against the Capital Army. He is one of three people who can pilot the G-Self.
+Source: en.gundam.info</description>
+<picture>157042.jpg</picture>
+<seiyuu id="40311" picture="200799.jpg">Ishii Mark</seiyuu>
+</character>
+<character id="68123" type="secondary cast in" update="2014-07-30">
+<rating votes="2">5.54</rating>
+<name>Manny Ambassada</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Luin`s girlfriend. Like Noredo, she`s a student at Saint Flower Academy and a member of the cheerleading squad.
+Source: en.gundam.info</description>
+<picture>158802.jpg</picture>
+<seiyuu id="411" picture="17475.jpg">Takagaki Ayahi</seiyuu>
+</character>
+<character id="68124" type="secondary cast in" update="2014-06-29">
+<rating votes="7">3.71</rating>
+<name>Raraiya Akuparl</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A girl who suddenly appears on Earth piloting the G-Self.
+An amnesiac, she is given the name "Monday" when Captain Dellensen takes her under his protection on a Monday. She is one of three people who can pilot the G-Self.
+Source: en.gundam.info</description>
+<picture>157045.jpg</picture>
+<seiyuu id="80" picture="228656.jpg">Fukui Yukari</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="218586" update="2019-11-28">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2019-11-29</airdate>
+<title xml:lang="ja">行け! コア・ファイター</title>
+<title xml:lang="en">Go! Core Fighter</title>
+<title xml:lang="x-jat">Ike! Core Fighter</title>
+</episode>
+<episode id="218587" update="2020-02-18">
+<epno type="1">2</epno>
+<length>95</length>
+<airdate>2020-02-21</airdate>
+<title xml:lang="ja">ベルリ 撃進</title>
+<title xml:lang="en">Bellri Advances</title>
+<title xml:lang="x-jat">Bellri Gekishin</title>
+</episode>
+<episode id="218588" update="2019-07-09">
+<epno type="1">3</epno>
+<length>0</length>
+<title xml:lang="en">Movie 3</title>
+</episode>
+<episode id="218589" update="2019-07-09">
+<epno type="1">4</epno>
+<length>0</length>
+<title xml:lang="en">Movie 4</title>
+</episode>
+<episode id="218590" update="2019-07-09">
+<epno type="1">5</epno>
+<length>0</length>
+<title xml:lang="en">Movie 5</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14790" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2020</startdate>
+<enddate>2020</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Majo Minarai o Sagashite</title>
+<title xml:lang="ja" type="synonym">おジャ魔女どれみ (2020)</title>
+<title xml:lang="en" type="synonym">Looking for Magical Doremi</title>
+<title xml:lang="en" type="synonym">Searching for Witch Apprentices</title>
+<title xml:lang="x-jat" type="synonym">Ojamajo Doremi (2020)</title>
+<title xml:lang="ja" type="official">魔女見習いをさがして</title>
+</titles>
+<relatedanime>
+<anime id="1767" type="Prequel">Ojamajo Doremi Dokkaan!</anime>
+</relatedanime>
+<url>https://www.lookingfor-magical-doremi.com/</url>
+<creators>
+<name id="1834" type="Animation Work">Toei Animation</name>
+<name id="2208" type="Character Design">Umakoshi Yoshihiko</name>
+<name id="43233" type="Direction">Kamatani Yuu</name>
+<name id="3611" type="Direction">Satou Jun`ichi</name>
+<name id="2208" type="Chief Animation Direction">Umakoshi Yoshihiko</name>
+</creators>
+<picture>244907.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22003</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39585</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.lookingfor-magical-doremi.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367669</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>Doremi_staff</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="223648" update="2020-03-19">
+<epno type="1">1</epno>
+<length>0</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

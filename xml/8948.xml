@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8948" restricted="false">
+<type>OVA</type>
+<episodecount>3</episodecount>
+<startdate>2010-05-25</startdate>
+<enddate>2010-05-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hetalia: Axis Powers Fan Disc</title>
+<title xml:lang="ja" type="official">ヘタリア Axis Powers ファンディスク</title>
+<title xml:lang="en" type="official">Hetalia: Axis Powers Fan Disc</title>
+</titles>
+<relatedanime>
+<anime id="6234" type="Other">Hetalia: Axis Powers</anime>
+</relatedanime>
+<url>http://hetalia.com/cd/dvd.htm#fundisk</url>
+<description>Hetalia Axis Powers Fan Disc contains an unreleased episode and the "Chibitalia" and "America`s Storehouse Cleaning" sections from the original series remade into separate episodes.</description>
+<ratings>
+<permanent count="174">5.25</permanent>
+<temporary count="174">6.32</temporary>
+</ratings>
+<picture>80947.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>9865</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://hetalia.com/cd/dvd.htm#fundisk</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>List_of_Hetalia:_Axis_Powers_episodes#Specials</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Axis_powers_ヘタリア</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<characters>
+<character id="5845" type="secondary cast in" update="2012-12-22">
+<rating votes="48">7.85</rating>
+<name>Igirisu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A nation that was once a pirate and tormented Spain, the United Kingdom is a gentleman who is known for having terrible cooking skills (although America enjoys his food), a foul mouth, and huge eyebrows. He does not get along well with France or Russia, and can sometimes be cynical, particularly towards his somewhat estranged sibling America. Despite being mocked by the other nations for it, England is a strong believer of unicorns, faeries, and magic, going so far as to literally curse his enemies. England cannot hold his liquor well and is a very unhappy sort of drunk. He once formed an alliance with Japan because he felt lonely. He is classified as a tsundere character.</description>
+<picture>59510.png</picture>
+<seiyuu id="221" picture="17039.jpg">Sugiyama Noriaki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="143919" update="2012-12-29">
+<epno type="1">3</epno>
+<length>6</length>
+<airdate>2010-05-25</airdate>
+<title xml:lang="ja">アメリカの倉庫掃除</title>
+<title xml:lang="en">America`s Storehouse Cleaning</title>
+<title xml:lang="x-jat">Amerika no Souko Souji</title>
+</episode>
+<episode id="143920" update="2012-12-29">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2010-05-25</airdate>
+<title xml:lang="ja">ちびたりあ</title>
+<title xml:lang="en">Chibitalia</title>
+<title xml:lang="x-jat">Chibitalia</title>
+</episode>
+<episode id="143921" update="2012-12-29">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2010-05-25</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">おれさまにっき その2</title>
+<title xml:lang="en">The Awesome Me Diaries Part 2</title>
+<title xml:lang="x-jat">Ore-sama Nikki Sono 2</title>
+</episode>
+</episodes>
+</anime>

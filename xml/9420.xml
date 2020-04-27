@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9420" restricted="false">
+<type>TV Series</type>
+<episodecount>49</episodecount>
+<startdate>2012-09-10</startdate>
+<enddate>2013-08-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tamagotchi! Yume Kira Dream</title>
+<title xml:lang="ja" type="official">たまごっち! ゆめキラドリーム</title>
+</titles>
+<relatedanime>
+<anime id="10050" type="Sequel">Tamagotchi! Miracle Friends</anime>
+<anime id="7078" type="Prequel">Tamagotchi!</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/tamagotchi/</url>
+<description>http://anidb.net/ch31572 [Mametchi] and his friends return to study abroad at Dream Town, a place that supports the dreams of all who live there. At Dream Town, Mametchi meets the aspiring idol singer http://anidb.net/ch49146 [Yumemitchi], http://anidb.net/ch49147 [Kiraritchi] and other new characters as they all follow their own dreams.
+Source: ANN</description>
+<ratings>
+<permanent count="1">2.02</permanent>
+<temporary count="1">3.00</temporary>
+</ratings>
+<picture>93915.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14758</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>15865</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/tamagotchi/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>たまごっち!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2721</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>343708</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12045</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1846" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-03">
+<name>kodomo</name>
+<description>In the context of manga and associated media, the word kodomo refers to a children`s audience roughly for the ages 12 and younger. In Japanese, the word means simply "child", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+</tags>
+<characters>
+<character id="31572" type="main character in" update="2011-04-26">
+<rating votes="8">5.12</rating>
+<name>Mametchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70562.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="31573" type="secondary cast in" update="2011-04-26">
+<rating votes="6">7.27</rating>
+<name>Memetchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70563.jpg</picture>
+<seiyuu id="253" picture="222833.jpg">Yuzuki Ryouka</seiyuu>
+</character>
+<character id="31574" type="secondary cast in" update="2011-04-26">
+<rating votes="6">7.27</rating>
+<name>Kuchipatchi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70564.jpg</picture>
+<seiyuu id="12373" picture="223463.jpg">Yaguchi Asami</seiyuu>
+</character>
+<character id="49146" type="main character in" update="2012-09-22">
+<name>Yumemitchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94615.jpg</picture>
+<seiyuu id="304" picture="17139.jpg">Fukuen Misato</seiyuu>
+</character>
+<character id="49147" type="main character in" update="2012-09-22">
+<name>Kiraritchi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94616.jpg</picture>
+<seiyuu id="356" picture="224408.jpg">Toyoguchi Megumi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="144050" update="2013-08-29">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2012-09-17</airdate>
+<title xml:lang="ja">え~!?アイドルに変身しちゃった!?</title>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="144051" update="2013-08-29">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2012-09-10</airdate>
+<title xml:lang="ja">登場!ゆめみっちとキラリっち</title>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="152836" update="2013-08-29">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2012-09-24</airdate>
+<title xml:lang="ja">ビックリ! ひめスぺっちもやってきた!</title>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="152837" update="2013-08-29">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2012-10-15</airdate>
+<title xml:lang="ja">算数克服? ゆめキラパティシエ!</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="152838" update="2013-08-29">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2012-10-08</airdate>
+<title xml:lang="ja">ピンチを救え! ゆめキラバック!</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="152839" update="2013-08-29">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2012-10-29</airdate>
+<title xml:lang="ja">愛は爆発! 情熱の求愛ダンス</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="152840" update="2013-08-29">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2012-10-22</airdate>
+<title xml:lang="ja">キラリっちの妹は暴走アーティスト!?</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="152841" update="2013-08-29">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2013-08-29</airdate>
+<title xml:lang="ja">愛しのMさんにレッツ告白!</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="152842" update="2013-08-29">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2012-11-05</airdate>
+<title xml:lang="ja">くちぱっちの中華まん真剣勝負</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="152843" update="2013-08-29">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2012-11-12</airdate>
+<title xml:lang="ja">涙の女王VSゆめキラ漫才師!</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="152844" update="2013-08-29">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2012-11-19</airdate>
+<title xml:lang="ja">たまとも再会! たまごっちタウンに里帰り</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="152845" update="2013-08-29">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2012-12-03</airdate>
+<title xml:lang="ja">イケメンパティシエのスイーツな苦悩!?</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="152846" update="2013-08-29">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2012-11-26</airdate>
+<title xml:lang="ja">ゆめキラ感動! D2に急接近!!</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="152847" update="2013-08-29">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2012-12-10</airdate>
+<title xml:lang="ja">超プリティ! NO.1たまペット決定戦!</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="152848" update="2013-08-29">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2012-12-17</airdate>
+<title xml:lang="ja">想いよとどけ! クリスマスバスケット</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="152849" update="2013-08-29">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2012-12-24</airdate>
+<title xml:lang="ja">クリスマスキャン! ふわふわゆめキャンっち</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="152850" update="2013-08-29">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2013-01-07</airdate>
+<title xml:lang="ja">目指せサーカスデビュー! 転校生まじょっこっち</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="152851" update="2013-08-29">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2013-01-21</airdate>
+<title xml:lang="ja">笑いと涙と友情のサーカスデビュー!</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="152852" update="2013-08-29">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2013-03-18</airdate>
+<title xml:lang="ja">うちは刻むよ! 魂のビート</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="152853" update="2013-08-29">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2013-06-06</airdate>
+<title xml:lang="ja">たまローズはキケンな香り</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="152854" update="2013-08-29">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2013-08-15</airdate>
+<title xml:lang="ja">ありがとう! ゆめキラバッグ... プラスワン</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="152855" update="2013-08-29">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2013-08-22</airdate>
+<title xml:lang="ja">夢にむかって心キラキラ!</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="152856" update="2013-08-29">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2013-06-13</airdate>
+<title xml:lang="ja">愛しのエンジェルと合同授業!?</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="152857" update="2013-08-29">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2013-06-20</airdate>
+<title xml:lang="ja">密着取材! キラキラガールズ</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="152858" update="2013-08-29">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2013-06-27</airdate>
+<title xml:lang="ja">スクープ! Cさんに浮気疑惑!?</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="152859" update="2013-08-29">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2013-07-04</airdate>
+<title xml:lang="ja">大迷宮! ゆめみっちプリンセスハウス!!</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="152860" update="2013-08-29">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2013-07-11</airdate>
+<title xml:lang="ja">おばけもノリノリ? サマービーチライブ!</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="152861" update="2013-08-29">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2013-07-18</airdate>
+<title xml:lang="ja">氷と対決? ロボット科のあつい戦い!</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="152862" update="2013-08-29">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2013-07-25</airdate>
+<title xml:lang="ja">勇気を出して... 発進! 告白ロボ</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="152863" update="2013-08-29">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2013-08-01</airdate>
+<title xml:lang="ja">たぁ~のしぃ~い♥ ゆめキラ変身絶好調★</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="152864" update="2013-08-29">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2013-08-08</airdate>
+<title xml:lang="ja">つきとめるでち! 二人組の秘密!!</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="152865" update="2013-08-29">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2013-01-14</airdate>
+<title xml:lang="ja">まいごをさがせ! ドリームランド大追跡!</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="152866" update="2013-08-29">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2013-01-28</airdate>
+<title xml:lang="ja">真剣勝負! お茶くみロボット大作戦!</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="152867" update="2013-08-29">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2013-02-04</airdate>
+<title xml:lang="ja">ひとりぼっちのまめっち</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="152868" update="2013-08-29">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2013-02-11</airdate>
+<title xml:lang="ja">ポロロン♪ ピアニっちがやってきた</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="152869" update="2013-08-29">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2013-02-18</airdate>
+<title xml:lang="ja">いかりっちの真実</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="152870" update="2013-08-29">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2013-02-25</airdate>
+<title xml:lang="ja">アテンションプリーズ! スクール脱出大作戦!</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="152871" update="2013-08-29">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2013-03-04</airdate>
+<title xml:lang="ja">みつけて! たまぐるみカーニバル!</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="152872" update="2013-08-29">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2013-03-11</airdate>
+<title xml:lang="ja">ハッピーバースディ! どーするプレゼント!?</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="152873" update="2013-08-29">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2013-03-25</airdate>
+<title xml:lang="ja">よみがえれ虹の輝き! 女王様のピアノ</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="152874" update="2013-08-29">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2013-04-04</airdate>
+<title xml:lang="ja">巨大怪獣現る!? ガレージを取り戻せ!</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="152875" update="2013-08-29">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2013-04-11</airdate>
+<title xml:lang="ja">守れ! たまごっち星のトップシークレット!?</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="152876" update="2013-08-29">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2013-04-18</airdate>
+<title xml:lang="ja">ゆめキラ漫画家デビュー!!</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="152877" update="2013-08-29">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2013-04-25</airdate>
+<title xml:lang="ja">大激戦! スイーツコンテストは甘くない!?</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="152878" update="2013-08-29">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2013-05-02</airdate>
+<title xml:lang="ja">スゴイ強敵! チョコレートの女王</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="152879" update="2013-08-29">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2013-05-09</airdate>
+<title xml:lang="ja">タイムカプセルは初恋の思い出!?</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="152880" update="2013-08-29">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2013-05-16</airdate>
+<title xml:lang="ja">言えない! ひめスペっちの秘密</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="152881" update="2013-08-29">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2013-05-23</airdate>
+<title xml:lang="ja">ひめスペっち, また明日</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="152882" update="2013-08-29">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2013-05-30</airdate>
+<title xml:lang="ja">メイクは愛~♪ 転校生はコフレっち</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+</episodes>
+</anime>

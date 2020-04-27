@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10314" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>1972</startdate>
+<enddate>1972</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yuki no Taiyou</title>
+<title xml:lang="ja" type="official">ユキの太陽</title>
+<title xml:lang="en" type="official">Yuki`s Sun</title>
+</titles>
+<creators>
+<name id="40" type="Direction">Miyazaki Hayao</name>
+<name id="782" type="Work">Tokyo Movie</name>
+<name id="4256" type="Original Work">Chiba Tetsuya</name>
+</creators>
+<description>* Based on a popular shoujo manga by http://anidb.net/cr4256 [Chiba Tetsuya].
+A 10-year-old orphan girl is adopted into a family.</description>
+<ratings>
+<permanent count="157">4.15</permanent>
+<temporary count="158">5.48</temporary>
+</ratings>
+<picture>160168.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>15021</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3683" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>storytelling</name>
+</tag>
+<tag id="4083" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-11-04">
+<name>drastic change of life</name>
+<description>One or more characters in this series go through an event that makes them change their way of life drastically and permanently. This change might be voluntary, or against the character`s will.
+Some examples might be an accident, the gaining of superpowers, or simply graduating.</description>
+</tag>
+<tag id="4558" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-02-12">
+<name>long time span</name>
+<description>The anime spans a much longer than usual (for that genre) period of time, typically several years (possibly decades or even centuries).
+Example: In a school setting this could mean the character development is followed from school through college right into working life and the founding of a family with children.</description>
+</tag>
+<tag id="4614" parentid="3683" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>narration</name>
+<description>The most common example is that of a voice, either that of one of the characters or entirely unrelated, that appears at the beginning of an episode to offer a summary or introduction, and at the end of an episode for closure or for a preview to hint upon what to expect next.
+Another use of narration comes in the form of a dominant voice belonging to one of the protagonists, intended only for the viewer and revealing the intimate thoughts to whom it belongs. This type of narration occurs frequently throughout the duration of the episode or movie.</description>
+</tag>
+</tags>
+<characters>
+<character id="69678" type="main character in" update="2014-08-26">
+<name>Yuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>160167.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="156676" update="2014-08-26">
+<epno type="1">1</epno>
+<length>5</length>
+<rating votes="2">3.96</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="637" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>2003-04-06</startdate>
+<enddate>2003-09-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Firestorm</title>
+<title xml:lang="ja" type="official">FIRESTORM ファイアーストーム</title>
+</titles>
+<creators>
+<name id="1136" type="Animation Work">Trans Arts</name>
+<name id="1649" type="Character Design">Oonuki Ken`ichi</name>
+<name id="4126" type="Direction">Terada Kenji</name>
+<name id="34787" type="Original Plan">Gerry Anderson</name>
+</creators>
+<description>It is the year 2104 AD. The terrible war is over and peace seemed close in the world. However, there is one thing that can bring down this peace. That is the criminal organisation who`s power and actions are widespread across the world... The Black Orchid.
+From the main countries of the world, the "Storm Force" was formed to take down the Black Orchid. They are also known under the code name "Fire Storm".</description>
+<ratings>
+<permanent count="73">1.86</permanent>
+<temporary count="76">4.41</temporary>
+</ratings>
+<picture>2347.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2546</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2382</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1201</identifier>
+<identifier>arlosz</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Firestorm_(anime)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>FIRESTORM_(アニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>46</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>241175</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="36" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>military</name>
+<description>The military, also known as the armed forces, are forces authorized and legally entitled to use deadly force so as to support the interests of the state and its citizens. The task of the military is usually defined as defence of the state and its citizens and the prosecution of war against foreign powers. The military may also have additional functions within a society, including construction, emergency services, social ceremonies, and guarding critical areas.
+Source: Wikipedia</description>
+<picurl>212184.jpg</picurl>
+</tag>
+<tag id="635" parentid="36" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-30">
+<name>navy</name>
+</tag>
+<tag id="760" parentid="2274" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>robot helper</name>
+<description>In a http://anidb.net/t2846 [science fiction] setting, the robot helper is, in a comedic sense, pretty much equivalent to what the "cute comic relief http://anidb.net/t1835 [animal sidekick]" is in a fantasy setting. The usually small machine has artificial intelligence, enabling it to support their owner / master with advice or help with menial tasks.
+http://anidb.net/t1278 [Androids] should not be considered robot helpers since these are far more complex; use the android tag instead.</description>
+</tag>
+<tag id="2202" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2775" parentid="2202" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-15">
+<name>humanoid alien</name>
+<description>Humanoids are aliens, intelligent beings who do not originate from Earth, but have a striking similarity to humans or at least show the basic body layout, i.e. two arms and legs, head with two eyes and ears, one nose and mouth. Though the latter - head-related features - may vary. As "DearS" shows some aliens actually exhibit super-human beauty, or as in the case of "Onegai Teacher" they are genetically compatible to humans for some strange reason.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="1852" type="secondary cast in" update="2009-01-04">
+<rating votes="1">10.00</rating>
+<name>POP</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<description>A popcorn robot which drives around in the SF9 base and supplies the crew with fresh popcorn.</description>
+<picture>16482.jpg</picture>
+</character>
+<character id="36254" type="main character in" update="2011-09-03">
+<name>Nagisa Kisaragi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>51277.jpg</picture>
+<seiyuu id="3890" picture="186170.jpg">Takamori Yoshino</seiyuu>
+</character>
+<character id="36255" type="secondary cast in" update="2011-09-03">
+<name>Sam Scott</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>51278.jpg</picture>
+<seiyuu id="3396" picture="24705.jpg">Takatsuka Masaya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="7519" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2003-04-06</airdate>
+<rating votes="1">4.36</rating>
+<title xml:lang="ja">SF9</title>
+<title xml:lang="en">Storm Force 9</title>
+<title xml:lang="x-jat">SF9</title>
+</episode>
+<episode id="7692" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2003-04-13</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">カウントダウン</title>
+<title xml:lang="en">Time Bomb</title>
+<title xml:lang="x-jat">Countdown</title>
+</episode>
+<episode id="9673" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2003-04-20</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">ブラック・オーキッド</title>
+<title xml:lang="en">Black Orchid</title>
+<title xml:lang="x-jat">Black Orchid</title>
+</episode>
+<episode id="10064" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2003-04-27</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">カルロ・モレーリ</title>
+<title xml:lang="en">Morelli speaks</title>
+<title xml:lang="x-jat">Carlo Morelli</title>
+</episode>
+<episode id="10181" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2003-05-04</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">バラクーダ</title>
+<title xml:lang="en">Barracuda</title>
+<title xml:lang="x-jat">Barracuda</title>
+</episode>
+<episode id="10568" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2003-05-11</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">サーベルフィッシュ</title>
+<title xml:lang="en">Destroy Arizona</title>
+<title xml:lang="x-jat">Saber Fish</title>
+</episode>
+<episode id="14711" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2003-05-18</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">オーシャン・ダイナー</title>
+<title xml:lang="en">Ocean Diner</title>
+<title xml:lang="x-jat">Ocean Diner</title>
+</episode>
+<episode id="15137" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2003-05-25</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">ディープ・シー</title>
+<title xml:lang="en">Antarctica</title>
+<title xml:lang="x-jat">Deep Sea</title>
+</episode>
+<episode id="61941" update="2006-08-25">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2003-06-01</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">ウィングズ</title>
+<title xml:lang="en">Wings</title>
+<title xml:lang="x-jat">Wings</title>
+</episode>
+<episode id="61942" update="2006-08-25">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2003-06-08</airdate>
+<rating votes="1">2.92</rating>
+<title xml:lang="ja">パイロット</title>
+<title xml:lang="en">The Airline Pilot</title>
+<title xml:lang="x-jat">Pilot</title>
+</episode>
+<episode id="61943" update="2006-08-25">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2003-06-15</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">レーザー・キャノン</title>
+<title xml:lang="en">Laser</title>
+<title xml:lang="x-jat">Laser Cannon</title>
+</episode>
+<episode id="61944" update="2006-08-25">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2003-06-22</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ライトニング</title>
+<title xml:lang="en">Lightning</title>
+<title xml:lang="x-jat">Lightning</title>
+</episode>
+<episode id="61945" update="2006-08-25">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2003-06-29</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ペトロス・サロI</title>
+<title xml:lang="en">Emergency Red (Part 1)</title>
+<title xml:lang="x-jat">Petros Salo I</title>
+</episode>
+<episode id="61946" update="2006-08-25">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2003-07-06</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ペトロス・サロII</title>
+<title xml:lang="en">Emergency Red (Part 2)</title>
+<title xml:lang="x-jat">Petros Salo II</title>
+</episode>
+<episode id="61947" update="2006-08-25">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2003-07-13</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">エスケープ</title>
+<title xml:lang="en">Spider in the Bath</title>
+<title xml:lang="x-jat">Escape</title>
+</episode>
+<episode id="61948" update="2006-08-25">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2003-07-20</airdate>
+<rating votes="1">1.62</rating>
+<title xml:lang="ja">モンスター</title>
+<title xml:lang="en">Monsters</title>
+<title xml:lang="x-jat">Monster</title>
+</episode>
+<episode id="61949" update="2006-08-25">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2003-07-27</airdate>
+<rating votes="1">1.62</rating>
+<title xml:lang="ja">ブレイン・ストーム</title>
+<title xml:lang="en">Brain Storm</title>
+<title xml:lang="x-jat">Brain Storm</title>
+</episode>
+<episode id="61950" update="2006-08-25">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2003-08-03</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">オアシス</title>
+<title xml:lang="en">Oasis</title>
+<title xml:lang="x-jat">Oasis</title>
+</episode>
+<episode id="61951" update="2006-08-25">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2003-08-10</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ロボットバード</title>
+<title xml:lang="en">The Girl who fell to Earth</title>
+<title xml:lang="x-jat">Robot Bird</title>
+</episode>
+<episode id="61952" update="2006-08-25">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2003-08-17</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ヴォルテックス</title>
+<title xml:lang="en">Vortex</title>
+<title xml:lang="x-jat">Vortex</title>
+</episode>
+<episode id="61953" update="2006-08-25">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2003-08-24</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">プラネット・ゾリオン</title>
+<title xml:lang="en">Alien Attack</title>
+<title xml:lang="x-jat">Planet Zorion</title>
+</episode>
+<episode id="61954" update="2006-08-25">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2003-08-31</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">トラップ</title>
+<title xml:lang="en">Get Morelli!</title>
+<title xml:lang="x-jat">Trap</title>
+</episode>
+<episode id="61955" update="2006-08-25">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2003-09-07</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">サイコパワー</title>
+<title xml:lang="en">The Great Escape</title>
+<title xml:lang="x-jat">Saiko Power</title>
+</episode>
+<episode id="61956" update="2006-08-25">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2003-09-14</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ピラミッド</title>
+<title xml:lang="en">Pyramid</title>
+<title xml:lang="x-jat">Pyramid</title>
+</episode>
+<episode id="61957" update="2006-08-25">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2003-09-21</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">インベージョン</title>
+<title xml:lang="en">Invasion</title>
+<title xml:lang="x-jat">Invasion</title>
+</episode>
+<episode id="61958" update="2006-08-25">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2003-09-28</airdate>
+<rating votes="1">1.94</rating>
+<title xml:lang="ja">ファイナル・シグナル</title>
+<title xml:lang="en">We will fight to the Death!</title>
+<title xml:lang="x-jat">Final Signal</title>
+</episode>
+</episodes>
+</anime>

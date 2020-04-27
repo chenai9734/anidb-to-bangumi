@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14744" restricted="false">
+<type>TV Series</type>
+<episodecount>25</episodecount>
+<startdate>2019-10-07</startdate>
+<enddate>2020-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Phantasy Star Online 2: Episode Oracle</title>
+<title xml:lang="ja" type="synonym">ファンタシースターオンライン2 エピソード・オラクル</title>
+<title xml:lang="ja" type="official">PHANTASY STAR ONLINE 2 EPISODE ORACLE</title>
+<title xml:lang="en" type="official">Phantasy Star Online 2: Episode Oracle</title>
+</titles>
+<relatedanime>
+<anime id="11365" type="Side Story">Phantasy Star Online 2 the Animation</anime>
+<anime id="14539" type="Other">Anime Puso Ni Comi</anime>
+</relatedanime>
+<url>https://pso2.jp/anime_eporacle/</url>
+<creators>
+<name id="735" type="Animation Work">Gonzo</name>
+<name id="19203" type="Character Design">Koikawa Shinpei</name>
+<name id="2711" type="Series Composition">Oonogi Hiroshi</name>
+<name id="46266" type="Original Work">Sega Games</name>
+<name id="5612" type="Direction">Tachibana Masaki</name>
+</creators>
+<description>* Based on a RPG video game published by http://anidb.net/cr1178 [Sega]. It covers the first three episodes of the original game and an original story.
+With the advent of Photon technology, the spacefaring Oracle fleet searches for new planets to explore. They combat the Falspawn, abominations that consume all life in their path, with the fearless heroes of the ARKS organization. When his graduation ceremony is crashed by a Falspawn attack, young cadet http://anidb.net/ch105973 [Ash] realizes that he`s just been thrust in the middle of a universal-scale conflict.
+Source: Funimation</description>
+<ratings>
+<permanent count="69">2.80</permanent>
+<temporary count="71">5.53</temporary>
+</ratings>
+<picture>231171.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22344</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>39506</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://pso2.jp/anime_eporacle/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Phantasy_Star_Online_2</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ファンタシースターオンライン2</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>5454</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>369183</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>22260</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>anime_pso2</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-12-04">
+<name>fetishes</name>
+<description>Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. </description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2637" parentid="7050" infobox="true" weight="400" localspoiler="true" globalspoiler="false" verified="true" update="2017-12-01">
+<name>time travel</name>
+<description>In time travel anime characters are transported through time either figuratively or literally to find themselves either in the past or the future</description>
+<picurl>210068.jpg</picurl>
+</tag>
+<tag id="2639" parentid="2846" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space travel</name>
+<description>Space Travel usually refers going to space or travelling there with or without a spacecraft. There are different forms of space travel like Interplanetary travel, Interstellar travel or Intergalactic travel. Since it isn`t possible to travel faster than light, most anime series involve some sort "sub-space travel mechanism" as a way to travel faster than light.</description>
+<picurl>242375.jpg</picurl>
+</tag>
+<tag id="2660" parentid="2627" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>other planet</name>
+<description>The anime will fit this category if some or all of the action takes place on another planet which is supposedly in the same universe as Earth, not a complete fantasy world; usually there has to be some concept of space travel. The Latin name for Earth - Terra, would also pass the condition of being in the same universe as Earth. Basically, even mentioning of Earth existing or having existed would be enough. Although Moon is a moon, it also qualifies as Other Planet.</description>
+</tag>
+<tag id="2741" parentid="2891" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2015-12-14">
+<name>large breasts</name>
+<description>Large breasts are breasts a fair notch larger than average, as found in some adolescent girls or fully grown women; however, as anime has no upper limit to breast size, the definition applies somewhat differently. To be considered large, breasts in anime must be bigger than real-life natural ones or natural-seeming fake ones, to the point they`d appear weirdly or even abnormally large in real-life females. On the high end of the spectrum, breasts that are as big as the character`s head or possibly a bit bigger are still considered large; however, breasts that take at least as much space as the rest of the chest or the abdomen, or that are almost as big but have an absurdly unnatural shape, are the less common http://anidb.net/t1774 [gigantic breasts] instead.</description>
+<picurl>161014.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2764" parentid="2627" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-06">
+<name>space colony</name>
+<description>The human race (or possibly some alien race) has mastered space travel and founded at least one colony either in space, on a moon or another planet. This usually also includes colony-life episodes that not only show the technical staff of professionals (astronauts, scientists, etc.), but also their families (i.e. children).</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2801" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-07">
+<name>RPG</name>
+<description>Any anime that is based on a role-playing game aka RPG. A role-playing video game is a video game which includes elements of non-electronic role-playing games. The player assumes control of one or several fictional characters (a party) who have joined forces in order to perform quests and overcome a great number of challenges and enemies, usually monsters inspired by fantasy, and, to a lesser extent, science fiction and classic mythology. During the course of the game the characters, or avatars, which are generally defined by quantized characteristics, evolve and improve in that their various attributes increase, as well as by gaining more powerful artefacts.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2850" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often, but not always, set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+<picurl>178879.jpg</picurl>
+</tag>
+<tag id="2891" parentid="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-12-31">
+<name>breasts</name>
+<description>The female bust size matters! Or does it? The three subcategories spell out the sizes that relate to fetishes, be they gigantic, large or small. Normal sized breasts are not a fetish, it seems. The tag is not only used for ecchi anime, but also for hentai shows as well.</description>
+<picurl>161015.jpg</picurl>
+</tag>
+<tag id="4096" parentid="2750" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-23">
+<name>gore</name>
+<description>A Splatter film or Gore film is a sub-genre of horror film that deliberately focuses on graphic portrayals of gore and graphic violence. These films, through the use of special effects and excessive blood and guts, tend to display an overt interest in the vulnerability of the human body and the theatricality of its mutilation. Due to their willingness to portray images society might consider shocking, splatter films share some ideological grounds with the transgressive art movement. The term "splatter cinema" was coined by George A. Romero to describe his film Dawn of the Dead, though Dawn of the Dead is generally considered by critics to have higher aspirations, such as social commentary, than to be simply exploitative for its own sake.
+[Source: wiki]</description>
+<picurl>32491.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="105973" type="main character in" update="2019-10-07">
+<rating votes="1">9.63</rating>
+<name>Ash</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239340.jpg</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+<character id="105974" type="secondary cast in" update="2019-10-07">
+<rating votes="1">6.73</rating>
+<name>Afin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239341.jpg</picture>
+<seiyuu id="175" picture="167565.jpg">Shimono Hiro</seiyuu>
+</character>
+<character id="105975" type="secondary cast in" update="2019-10-07">
+<rating votes="4">6.79</rating>
+<name>Echo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239347.jpg</picture>
+<seiyuu id="1799" picture="156027.jpg">Hikasa Youko</seiyuu>
+</character>
+<character id="105976" type="secondary cast in" update="2019-10-07">
+<rating votes="3">5.15</rating>
+<name>Klariskrays</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239358.jpg</picture>
+<seiyuu id="1625" picture="226033.jpg">Yuuki Aoi</seiyuu>
+</character>
+<character id="105977" type="secondary cast in" update="2019-10-07">
+<rating votes="2">3.27</rating>
+<name>Quna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239355.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+<character id="105978" type="secondary cast in" update="2019-10-07">
+<rating votes="1">6.73</rating>
+<name>Gettemhult</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239349.jpg</picture>
+<seiyuu id="190" picture="186145.jpg">Tobita Nobuo</seiyuu>
+</character>
+<character id="105979" type="secondary cast in" update="2019-10-07">
+<rating votes="3">6.36</rating>
+<name>Sarah</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239354.jpg</picture>
+<seiyuu id="210" picture="71057.jpg">Ueda Kana</seiyuu>
+</character>
+<character id="105980" type="secondary cast in" update="2019-10-07">
+<rating votes="4">5.70</rating>
+<name>Xion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239344.jpg</picture>
+<seiyuu id="187" picture="17002.jpg">Ogata Megumi</seiyuu>
+</character>
+<character id="105981" type="secondary cast in" update="2019-10-07">
+<rating votes="1">6.73</rating>
+<name>Zeno</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239346.jpg</picture>
+<seiyuu id="2225" picture="192115.jpg">Kimura Ryouhei</seiyuu>
+</character>
+<character id="105982" type="secondary cast in" update="2019-10-07">
+<rating votes="3">6.36</rating>
+<name>Tiea</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239352.jpg</picture>
+<seiyuu id="516" picture="34813.jpg">Iguchi Yuka</seiyuu>
+</character>
+<character id="105983" type="secondary cast in" update="2019-10-07">
+<rating votes="3">5.15</rating>
+<name>Patty</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239351.jpg</picture>
+<seiyuu id="479" picture="222800.jpg">Asumi Kana</seiyuu>
+</character>
+<character id="105984" type="main character in" update="2019-10-07">
+<rating votes="4">7.66</rating>
+<name>Matoi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239342.jpg</picture>
+<seiyuu id="162" picture="23208.jpg">Satou Satomi</seiyuu>
+</character>
+<character id="105985" type="secondary cast in" update="2019-10-07">
+<rating votes="3">6.36</rating>
+<name>Maria</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239357.jpg</picture>
+<seiyuu id="407" picture="17254.jpg">Koyama Mami</seiyuu>
+</character>
+<character id="105986" type="secondary cast in" update="2019-10-07">
+<rating votes="3">4.02</rating>
+<name>Melfonseana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239350.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="105987" type="secondary cast in" update="2019-10-07">
+<rating votes="3">5.15</rating>
+<name>Risa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239353.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="105988" type="secondary cast in" update="2019-10-07">
+<rating votes="1">6.73</rating>
+<name>Luther</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239345.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="105989" type="secondary cast in" update="2019-10-07">
+<rating votes="1">6.73</rating>
+<name>Regius</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>239356.jpg</picture>
+<seiyuu id="420" picture="186676.jpg">Akimoto Yousuke</seiyuu>
+</character>
+<character id="107524" type="appears in" update="2019-12-16">
+<rating votes="2">4.47</rating>
+<name>Io</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>242187.jpg</picture>
+<seiyuu id="590" picture="242467.jpg">Taketatsu Ayana</seiyuu>
+</character>
+<character id="108054" type="secondary cast in" update="2020-01-19">
+<rating votes="3">6.55</rating>
+<name>Quna (Assassin)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>243859.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="221581" update="2019-10-10">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-10-07</airdate>
+<rating votes="4">3.70</rating>
+<title xml:lang="ja">ずっとこの日を待っていた</title>
+<title xml:lang="en">I`ve Been Waiting for This Day</title>
+<title xml:lang="x-jat">Zutto Kono Hi o Matte Ita</title>
+</episode>
+<episode id="221582" update="2019-10-10">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2019-10-14</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">不気味なナベリウス</title>
+<title xml:lang="en">The Unsettling Planet Naverius</title>
+<title xml:lang="x-jat">Bukimi na Naverius</title>
+</episode>
+<episode id="221583" update="2019-09-23">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2019-10-21</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">完全なるアークス</title>
+<title xml:lang="en">Perfect Arks</title>
+<title xml:lang="x-jat">Kanzen naru Arcs</title>
+</episode>
+<episode id="221584" update="2019-09-23">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2019-10-28</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">始まりの器</title>
+<title xml:lang="en">The Starting Weapon</title>
+<title xml:lang="x-jat">Hajimari no Utsuwa</title>
+</episode>
+<episode id="223465" update="2019-10-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2019-11-04</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">ダーカー強襲</title>
+<title xml:lang="en">Falspawn Full Assault</title>
+<title xml:lang="x-jat">Darkar Kyoushuu</title>
+</episode>
+<episode id="223466" update="2019-10-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2019-11-11</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">終わりの始まり</title>
+<title xml:lang="en">The Beginning of the End</title>
+<title xml:lang="x-jat">Owari no Hajimari</title>
+</episode>
+<episode id="223467" update="2019-10-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2019-11-18</airdate>
+<rating votes="1">6.73</rating>
+<title xml:lang="ja">ダークファルス</title>
+<title xml:lang="en">Dark Falz</title>
+<title xml:lang="x-jat">Dark Falz</title>
+</episode>
+<episode id="223468" update="2019-10-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2019-11-25</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">もうそこにいないわたし</title>
+<title xml:lang="en">I`m No Longer There</title>
+<title xml:lang="x-jat">Mou Soko ni Inai Watashi</title>
+</episode>
+<episode id="224463" update="2019-11-19">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2019-12-02</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">アサシンと暴走龍</title>
+<title xml:lang="en">Assassin and Rampaging Dragon</title>
+<title xml:lang="x-jat">Assassin to Bousou Ryuu</title>
+</episode>
+<episode id="224464" update="2019-11-19">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2019-12-09</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">最後のさようなら</title>
+<title xml:lang="en">A Final Goodbye</title>
+<title xml:lang="x-jat">Saigo no Sayounara</title>
+</episode>
+<episode id="224465" update="2019-12-22">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2019-12-16</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">改変</title>
+<title xml:lang="en">Change</title>
+<title xml:lang="x-jat">Kaihen</title>
+<summary>Ash and Afin are sent on a mission to investigate Planet Wopal. There they reunite with Echo, who has been throwing herself into battle with newfound determination.
+Source: Funimation</summary>
+</episode>
+<episode id="224466" update="2019-11-19">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2019-12-23</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">過去と未来</title>
+<title xml:lang="en">The Past and Future</title>
+<title xml:lang="x-jat">Kako to Mirai</title>
+</episode>
+<episode id="225486" update="2019-12-25">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2020-01-06</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">絶対令[アビス]</title>
+<title xml:lang="en">Code Abyss</title>
+<title xml:lang="x-jat">Abyss</title>
+</episode>
+<episode id="225542" recap="true" update="2019-12-25">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2019-12-30</airdate>
+<rating votes="1">3.33</rating>
+<title xml:lang="ja">シャオ`sリポート</title>
+<title xml:lang="en">Xiao`s Report</title>
+<title xml:lang="x-jat">Xiao`s Report</title>
+</episode>
+<episode id="225762" update="2019-12-31">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2020-01-13</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">六芒均衡</title>
+<title xml:lang="en">Council of Six</title>
+<title xml:lang="x-jat">Rokubou Kinkou</title>
+</episode>
+<episode id="225763" update="2019-12-31">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2020-01-20</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">再誕の日</title>
+<title xml:lang="en">Day of Resurrection</title>
+<title xml:lang="x-jat">Saitan no Hi</title>
+</episode>
+<episode id="225764" update="2019-12-31">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2020-01-27</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">果てしなき跋扈の終わり</title>
+<title xml:lang="en">The End of Eternal Domination</title>
+<title xml:lang="x-jat">Hateshinaki Bakko no Owari</title>
+</episode>
+<episode id="226188" update="2020-01-21">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2020-02-03</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">十年前の, わたし</title>
+<title xml:lang="en">Me 10 Years Ago</title>
+<title xml:lang="x-jat">Juunen Mae no, Watashi</title>
+</episode>
+<episode id="226189" update="2020-01-21">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2020-02-10</airdate>
+<rating votes="2">9.97</rating>
+<title xml:lang="ja">わたしが生まれた その理由</title>
+<title xml:lang="en">The Reason for My Birth</title>
+<title xml:lang="x-jat">Watashi ga Umareta Sono Riyuu</title>
+</episode>
+<episode id="226190" update="2020-01-21">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2020-02-17</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">消された記録, 残された記憶</title>
+<title xml:lang="en">Deleted Records, Remaining Memories</title>
+<title xml:lang="x-jat">Kesareta Kiroku, Nokosareta Kioku</title>
+</episode>
+<episode id="226191" update="2020-01-21">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2020-02-24</airdate>
+<rating votes="2">7.39</rating>
+<title xml:lang="ja">歴史を騙し, 現在を喰らう</title>
+<title xml:lang="en">Rewrite History, Devour the Present</title>
+<title xml:lang="x-jat">Rekishi o Damashi, Genzai o Kurau</title>
+</episode>
+<episode id="226961" update="2020-02-18">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2020-03-02</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">サラとクラリスクレイス</title>
+<title xml:lang="en">Sarah and Klariskrays</title>
+<title xml:lang="x-jat">Sarah to Klariskrays</title>
+</episode>
+<episode id="226962" update="2020-02-18">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2020-03-09</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">フォトナーが生み出したもの</title>
+<title xml:lang="en">What the Photoners Created</title>
+<title xml:lang="x-jat">Photoner ga Umidashita Mono</title>
+</episode>
+<episode id="226963" update="2020-02-18">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2020-03-16</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">出来損ないの最高傑作</title>
+<title xml:lang="en">Failure`s Greatest Masterpiece</title>
+<title xml:lang="x-jat">Dekisokonai no Saikou Kessaku</title>
+</episode>
+<episode id="226964" update="2020-02-18">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2020-03-23</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">【深遠なる闇】</title>
+<title xml:lang="en">[Profound Darkness]</title>
+<title xml:lang="x-jat">[Shin`en naru Yami]</title>
+</episode>
+<episode id="226965" update="2020-02-18">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2020-03-30</airdate>
+<rating votes="2">8.92</rating>
+<title xml:lang="ja">あなたが生まれたその理由</title>
+<title xml:lang="en">The Reason for Your Birth</title>
+<title xml:lang="x-jat">Anata ga Umareta Sono Riyuu</title>
+</episode>
+</episodes>
+</anime>

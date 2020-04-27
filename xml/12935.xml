@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12935" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-04-06</startdate>
+<enddate>2017-04-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Osomatsu-san: Sentou Quiz 2</title>
+<title xml:lang="ja" type="official">おそ松さん 銭湯クイズ2</title>
+</titles>
+<relatedanime>
+<anime id="11347" type="Other">Osomatsu-san</anime>
+</relatedanime>
+<url>http://osomatsusan.com/senbatsu/</url>
+<creators>
+<name id="724" type="Animation Work">Studio Pierrot</name>
+<name id="977" type="Original Work">Akatsuka Fujio</name>
+<name id="24337" type="Direction">Fujita Youichi</name>
+</creators>
+<description>Note: An all-new anime short episode included in a selection theatrical screening of the anime series together with main episodes for each of the six Matsuno brothers from the http://anidb.net/a11347 [television anime series] and the http://anidb.net/a12472 [Osomatsu-san: Ouma de Kobanashi] special.</description>
+<picture>199299.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35018</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://osomatsusan.com/senbatsu/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360015</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="185370" update="2017-04-10">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2017-04-06</airdate>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

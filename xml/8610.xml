@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8610" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002-08-17</startdate>
+<enddate>2002-08-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Gekijouban Geisters Hikari no Shou</title>
+<title xml:lang="ja" type="official">劇場版 ガイスターズ 光の章</title>
+<title xml:lang="ko" type="official">극장판 가이스터즈 빛의장</title>
+</titles>
+<relatedanime>
+<anime id="8612" type="Sequel">Gekijouban Geisters Inochi no Shou</anime>
+<anime id="2125" type="Parent Story">Geisters: Fractions of the Earth</anime>
+</relatedanime>
+<creators>
+<name id="2196" type="Character Design">Imaizumi Ken`ichi</name>
+<name id="1650" type="Direction">Itou Kouji</name>
+<name id="1946" type="Music">Kawai Kenji</name>
+<name id="28320" type="Series Composition">Adachi Naruhiko</name>
+</creators>
+<picture>51371.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35520</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ガイスターズ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>239595</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="132804" update="2011-09-03">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2002-08-17</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

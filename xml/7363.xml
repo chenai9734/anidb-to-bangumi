@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7363" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1986-03-31</startdate>
+<enddate>1986-03-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mr. Pen Pen</title>
+<title xml:lang="ja" type="official">Mr.ペンペン</title>
+</titles>
+<relatedanime>
+<anime id="7362" type="Sequel">Mr. Pen Pen II</anime>
+</relatedanime>
+<url>http://web.archive.org/web/20120113034146/http://www.tv-asahi.co.jp/channel/contents/anime/0221/</url>
+<creators>
+<name id="11229" type="Original Work">Muroyama Mayumi</name>
+</creators>
+<description>* Based on a manga by http://anidb.net/cr11229 [Muroyama Mayumi], serialised in http://anidb.net/cr31436 [Shougaku Ninensei].
+Pen-Pen, the hat-and-tie-wearing prince of Penguin Land, turns up unexpectedly on little Mika`s doorstep. and invites himself and his zany friends to stay.
+Source: The Anime Encyclopedia</description>
+<ratings>
+<permanent count="7">5.06</permanent>
+<temporary count="7">5.00</temporary>
+</ratings>
+<picture>80963.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>4466</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17603</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://web.archive.org/web/20120113034146/http://www.tv-asahi.co.jp/channel/contents/anime/0221/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Mr.ペンペン#.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235565</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>8511</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="41038" type="main character in" update="2012-02-03">
+<name>Penpen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80965.jpg</picture>
+<seiyuu id="3270" picture="30153.jpg">Mitsuya Yuuji</seiyuu>
+</character>
+<character id="41039" type="main character in" update="2012-02-03">
+<name>Mika-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>80966.jpg</picture>
+<seiyuu id="3697" picture="78864.jpg">Asagami Youko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="116136" update="2010-02-01">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1986-03-31</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9101" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2012</startdate>
+<enddate>2012</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shinken Semi Koukou Kouza</title>
+<title xml:lang="ja" type="official">進研ゼミ高校講座</title>
+</titles>
+<creators>
+<name id="17389" type="Character Design">Matsui Yuuko</name>
+<name id="17389" type="Chief Animation Direction">Matsui Yuuko</name>
+<name id="986" type="Animation Work">Manglobe</name>
+</creators>
+<description>The story follow a middle school boy named Shouta as he strives to get in the right high school, despite the appearance of a rival.
+Source: ANN</description>
+<ratings>
+<permanent count="5">3.13</permanent>
+<temporary count="5">5.60</temporary>
+</ratings>
+<picture>84486.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14186</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>26159</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="45095" type="main character in" update="2012-05-23">
+<name>Hina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>88310.jpg</picture>
+<seiyuu id="4" picture="177060.jpg">Hirano Aya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="138133" update="2012-03-24">
+<epno type="1">1</epno>
+<length>35</length>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

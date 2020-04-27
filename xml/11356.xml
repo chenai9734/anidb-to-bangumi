@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11356" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2008</startdate>
+<enddate>2008</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chirico</title>
+<title xml:lang="ja" type="official">キリコ</title>
+</titles>
+<ratings>
+<permanent count="43">2.24</permanent>
+<temporary count="44">3.54</temporary>
+</ratings>
+<picture>175302.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22165</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="169828" update="2015-07-16">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

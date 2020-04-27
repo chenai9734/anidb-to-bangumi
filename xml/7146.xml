@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7146" restricted="false">
+<type>TV Special</type>
+<episodecount>2</episodecount>
+<startdate>2001</startdate>
+<enddate>2001</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekai Meisaku Gekijou Kanketsu Ban: Alps Monogatari Watashi no Annette</title>
+<title xml:lang="en" type="synonym">World Masterpiece Theater Complete Edition: The Alps Story - My Annette</title>
+<title xml:lang="ja" type="official">世界名作劇場・完結版 アルプス物語 わたしのアンネット</title>
+<title xml:lang="nl" type="official">Die Kinder vom Berghof</title>
+</titles>
+<relatedanime>
+<anime id="2300" type="Full Story">Alps Monogatari: Watashi no Annette</anime>
+</relatedanime>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/annette.php</url>
+<creators>
+<name id="728" type="Work">Nippon Animation</name>
+<name id="1102" type="Work">BS Fuji</name>
+</creators>
+<description>Annette was born into a poor family in Switzerland.
+She is a sweet girl and takes good care of her little brother Dannie. Lucien is her best friend.
+One day Dannie gets injured and develops a limp. The accident was Lucien`s fault.
+The happy days turn into a long period of suffering, but little by little Annette and Lucien regain their lost friendship.</description>
+<ratings>
+<permanent count="7">4.93</permanent>
+<temporary count="7">5.21</temporary>
+</ratings>
+<picture>37996.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24647</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://dbeat.bandaivisual.co.jp/meisaku/annette.php</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<characters>
+<character id="63534" type="appears in" update="2014-01-29">
+<rating votes="1">10.00</rating>
+<name>Pegin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149290.jpg</picture>
+<seiyuu id="4660">Iwao Kinshirou</seiyuu>
+</character>
+<character id="63541" type="appears in" update="2014-01-29">
+<rating votes="1">10.00</rating>
+<name>Elisabeth Morel</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149283.jpg</picture>
+<seiyuu id="2276" picture="187770.jpg">Kataoka Tomie</seiyuu>
+</character>
+<character id="63542" type="main character in" update="2014-01-29">
+<name>Lucien Morel</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149282.jpg</picture>
+<seiyuu id="1811" picture="222844.jpg">Yamada Eiko</seiyuu>
+</character>
+<character id="63543" type="appears in" update="2014-01-29">
+<rating votes="1">10.00</rating>
+<name>Claude Marta</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149281.jpg</picture>
+<seiyuu id="24890">Nunami Terue</seiyuu>
+</character>
+<character id="63544" type="secondary cast in" update="2014-01-29">
+<rating votes="1">10.00</rating>
+<name>Daniel Burnier</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149280.jpg</picture>
+<seiyuu id="6820" picture="151692.jpg">Miyuki Sanae</seiyuu>
+</character>
+<character id="63546" type="appears in" update="2014-01-29">
+<rating votes="1">10.00</rating>
+<name>Pierre Burnier</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149278.jpg</picture>
+<seiyuu id="1658" picture="203223.jpg">Kobayashi Osamu</seiyuu>
+</character>
+<character id="63547" type="main character in" update="2014-01-29">
+<rating votes="1">10.00</rating>
+<name>Annette Burnier</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>149277.jpg</picture>
+<seiyuu id="364" picture="202614.jpg">Han Keiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="111016" update="2009-10-30">
+<epno type="1">1</epno>
+<length>45</length>
+<title xml:lang="en">Part 1</title>
+</episode>
+<episode id="111017" update="2009-10-30">
+<epno type="1">2</epno>
+<length>45</length>
+<title xml:lang="en">Part 2</title>
+</episode>
+</episodes>
+</anime>

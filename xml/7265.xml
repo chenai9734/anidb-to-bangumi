@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7265" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002</startdate>
+<enddate>2002</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kuusou no Sora Tobu Kikai-tachi</title>
+<title xml:lang="ja" type="official">空想の空とぶ機械達</title>
+</titles>
+<creators>
+<name id="40" type="Original Work">Miyazaki Hayao</name>
+<name id="40" type="Direction">Miyazaki Hayao</name>
+<name id="1947" type="Music">Hisaishi Joe</name>
+</creators>
+<description>Animated 2002 short film produced by Studio Ghibli for their near exclusive use in the Ghibli Museum. It features famous director Miyazaki Hayao himself as narrator (in the form of a humanoid pig, reminiscent of Porco from Porco Rosso), telling the story of flight and the many machines imagined to achieve it.
+Note: The film could also be seen on the in-flight entertainment system used by Japan Airlines.</description>
+<ratings>
+<permanent count="5">3.91</permanent>
+<temporary count="5">5.20</temporary>
+</ratings>
+<picture>40334.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1816</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>19401</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>335801</identifier>
+</externalentity>
+<externalentity>
+<identifier>358709</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="112163" update="2009-12-18">
+<epno type="1">1</epno>
+<length>6</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

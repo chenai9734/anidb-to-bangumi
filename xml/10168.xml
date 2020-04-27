@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10168" restricted="false">
+<type>OVA</type>
+<episodecount>6</episodecount>
+<startdate>2003</startdate>
+<enddate>2004</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Anime Koten Bungaku Kan</title>
+<title xml:lang="ja" type="official">アニメ古典文学館</title>
+</titles>
+<url>http://www.sun-edu.co.jp/anime_koten/anime_0_koten.htm</url>
+<creators>
+<name id="2866" type="Character Design">Maeda Minoru</name>
+<name id="19712" type="Direction">Fukushima Kazumi</name>
+<name id="753" type="Animation Work">Gallop</name>
+<name id="5434" type="Direction">Iijima Masakatsu</name>
+<name id="5361" type="Character Design">Iriyoshi Satoru</name>
+<name id="728" type="Animation Work">Nippon Animation</name>
+<name id="15593" type="Character Design">Ogata Mieko</name>
+<name id="6222" type="Direction">Takagi Jun</name>
+<name id="773" type="Animation Work">Vega Entertainment</name>
+<name id="16297" type="Direction">Teramoto Yukiyo</name>
+<name id="10642" type="Music">Shimazu Hideo</name>
+</creators>
+<ratings>
+<permanent count="1">2.33</permanent>
+<temporary count="1">2.00</temporary>
+</ratings>
+<picture>143636.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24859</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.sun-edu.co.jp/anime_koten/anime_0_koten.htm</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アニメ古典文学館</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="154654" update="2013-10-20">
+<epno type="1">6</epno>
+<length>20</length>
+<title xml:lang="ja">万葉集</title>
+<title xml:lang="en">Man`youshuu - Collection of Ten Thousand Leaves</title>
+<title xml:lang="x-jat">Manyoushuu</title>
+</episode>
+<episode id="154655" update="2013-10-20">
+<epno type="1">5</epno>
+<length>20</length>
+<title xml:lang="ja">おくのほそ道</title>
+<title xml:lang="en">The Narrow Road to the Deep North</title>
+<title xml:lang="x-jat">Oku no Hosodou</title>
+</episode>
+<episode id="154656" update="2013-10-20">
+<epno type="1">4</epno>
+<length>20</length>
+<title xml:lang="ja">徒然草</title>
+<title xml:lang="en">Tsurezuregusa</title>
+<title xml:lang="x-jat">Tsurezuregusa</title>
+</episode>
+<episode id="154657" update="2013-10-20">
+<epno type="1">3</epno>
+<length>15</length>
+<title xml:lang="ja">平家物語</title>
+<title xml:lang="en">The Tale of the Heike</title>
+<title xml:lang="x-jat">Hiraka Monogatari</title>
+</episode>
+<episode id="154658" update="2013-10-20">
+<epno type="1">2</epno>
+<length>15</length>
+<title xml:lang="ja">枕草子</title>
+<title xml:lang="en">The Pillow Book</title>
+<title xml:lang="x-jat">Makuranosoushi</title>
+</episode>
+<episode id="154659" update="2013-10-20">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="ja">竹取物語</title>
+<title xml:lang="en">The Tale of the Bamboo Cutter</title>
+<title xml:lang="x-jat">Taketori Monogatari</title>
+</episode>
+</episodes>
+</anime>

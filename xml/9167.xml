@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9167" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1994-05-21</startdate>
+<enddate>1994-05-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dosukoi! Wanpaku Dohyou</title>
+<title xml:lang="ja" type="official">どすこい! わんぱく土俵</title>
+</titles>
+<creators>
+<name id="6250" type="Chief Direction">Kouyama Seijirou</name>
+<name id="35597" type="Original Work">Katou Nobuyo</name>
+</creators>
+<description>Shown as a double feature with http://anidb.net/a7493 [Dohyou no Oni-tachi].</description>
+<picture>86198.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>25299</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2488</identifier>
+<identifier>wifffl</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>152225</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3138</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1482" parentid="2751" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-08">
+<name>wrestling</name>
+<description>Wrestling is a fight between two people without weapons, in which each person tries to beat their opponent. Wrestlers use clinching, holding, locking, and leverage. It resembles ritual fighting as it avoids things that will likely lead to serious injury. It is similar to military hand-to-hand combat or self-defence systems.</description>
+</tag>
+<tag id="1543" parentid="1482" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-08-25">
+<name>sumo wrestling</name>
+<description>Sumo wrestling is a competitive full-contact wrestling sport where a rikishi (wrestler) attempts to force another wrestler out of a circular ring (dohyou) or into touching the ground with anything other than the soles of his feet.
+Source: Wikipedia</description>
+<picurl>206585.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2751" parentid="2881" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-27">
+<name>combat</name>
+<description>Combat involves a violent conflict with the goal to establish dominance over an opponent.</description>
+</tag>
+<tag id="2881" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="139067" update="2012-04-22">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1994-05-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

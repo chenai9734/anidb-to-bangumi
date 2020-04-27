@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10719" restricted="false">
+<type>Web</type>
+<episodecount>20</episodecount>
+<startdate>2014-06-06</startdate>
+<enddate>2015-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Agukaru: Agriculture Angel Baraki - Play with Ibaraki Hen</title>
+<title xml:lang="ja" type="official">あぐかる Agriculture Angel BARAKI PLAY WITH IBARAKI編</title>
+</titles>
+<relatedanime>
+<anime id="7944" type="Prequel">Agukaru: Agriculture Angel Baraki</anime>
+</relatedanime>
+<url>http://playwith.ibaraki.jp/</url>
+<ratings>
+<permanent count="5">3.21</permanent>
+<temporary count="5">3.40</temporary>
+</ratings>
+<picture>157388.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24989</identifier>
+</externalentity>
+<externalentity>
+<identifier>30732</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://playwith.ibaraki.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>あぐかる</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="21367" type="main character in" update="2011-03-12">
+<name>Inaho</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3947.gif</picture>
+<seiyuu id="5878" picture="45926.jpg">Harada Hitomi</seiyuu>
+</character>
+<character id="21368" type="secondary cast in" update="2015-02-24">
+<name>Deegorou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169394.jpg</picture>
+<seiyuu id="28505" picture="58972.jpg">Baron Yamazaki</seiyuu>
+</character>
+<character id="21369" type="secondary cast in" update="2011-03-12">
+<name>Pojirin</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3949.gif</picture>
+<seiyuu id="4041" picture="26004.jpg">Miyasaka Shunzou</seiyuu>
+</character>
+<character id="21370" type="secondary cast in" update="2011-03-12">
+<name>Mujirou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>3948.gif</picture>
+<seiyuu id="2226" picture="23215.jpg">Suganuma Hisayoshi</seiyuu>
+</character>
+<character id="21371" type="main character in" update="2015-02-24">
+<name>Baraki Sanae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169356.jpg</picture>
+<seiyuu id="23871" picture="81716.jpg">Yamamoto Sayuri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="160835" update="2014-08-20">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>2014-06-06</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="160836" update="2014-06-29">
+<epno type="1">2</epno>
+<length>7</length>
+<airdate>2014-06-20</airdate>
+<title xml:lang="ja">潮来市水郷潮来あやめ園</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Itakoshi Suigou Itako Ayame-en</title>
+</episode>
+<episode id="160837" update="2014-08-20">
+<epno type="1">1</epno>
+<length>7</length>
+<airdate>2014-06-06</airdate>
+<title xml:lang="ja">つくば市筑波山</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Tsukubashi Tsukubasan</title>
+</episode>
+<episode id="162295" update="2016-01-02">
+<epno type="1">6</epno>
+<length>7</length>
+<airdate>2014-08-15</airdate>
+<title xml:lang="ja">かすみがうら市霞ヶ浦</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Kasumigaurashi Kasumigaura</title>
+</episode>
+<episode id="162296" update="2016-01-02">
+<epno type="1">5</epno>
+<length>7</length>
+<airdate>2014-08-01</airdate>
+<title xml:lang="ja">常陸大宮市久慈川</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Hitachioomiyashi Kujigawa</title>
+</episode>
+<episode id="162297" update="2016-01-02">
+<epno type="1">4</epno>
+<length>7</length>
+<airdate>2014-07-18</airdate>
+<title xml:lang="ja">鉾田市大竹海岸</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Hokotashi Ootake Kaigan</title>
+</episode>
+<episode id="162298" update="2016-01-02">
+<epno type="1">3</epno>
+<length>7</length>
+<airdate>2014-07-04</airdate>
+<title xml:lang="ja">筑西市真岡鐵道</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Chikuseishi Mooka Tetsudou</title>
+</episode>
+<episode id="164593" update="2016-01-02">
+<epno type="1">11</epno>
+<length>7</length>
+<airdate>2014-11-08</airdate>
+<title xml:lang="ja">石岡市常陸風土記の丘</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Ishiokashi Hitachi Fudoki no Oka</title>
+</episode>
+<episode id="164594" update="2016-01-02">
+<epno type="1">10</epno>
+<length>7</length>
+<airdate>2014-10-17</airdate>
+<title xml:lang="ja">笠間市流鏑馬</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Kasamashi Yabusame</title>
+</episode>
+<episode id="164595" update="2016-01-02">
+<epno type="1">9</epno>
+<length>7</length>
+<airdate>2014-10-03</airdate>
+<title xml:lang="ja">ひたちなか市国営ひたち</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Hitachinakashi Kokueihi-tachi</title>
+</episode>
+<episode id="164596" update="2016-01-02">
+<epno type="1">8</epno>
+<length>7</length>
+<airdate>2014-09-19</airdate>
+<title xml:lang="ja">常陸太田市竜神大吊橋</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Hitachioutashi Ryuujindai Tsuribashi</title>
+</episode>
+<episode id="164597" update="2016-01-02">
+<epno type="1">7</epno>
+<length>7</length>
+<airdate>2014-09-05</airdate>
+<title xml:lang="ja">龍ケ崎市牛久沼</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Ryuugasakishi Ushikunuma</title>
+</episode>
+<episode id="164723" update="2014-12-13">
+<epno type="1">12</epno>
+<length>7</length>
+<airdate>2014-11-21</airdate>
+<title xml:lang="ja">八千代町八千代グリーン</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Yachiyo Machi Yachiyo Green</title>
+</episode>
+<episode id="169175" update="2015-12-25">
+<epno type="2">S1</epno>
+<length>15</length>
+<airdate>2015-03-28</airdate>
+<title xml:lang="ja">プロローグ</title>
+<title xml:lang="en">Prologue</title>
+<title xml:lang="x-jat">Prologue</title>
+</episode>
+<episode id="169176" update="2016-01-02">
+<epno type="1">20</epno>
+<length>7</length>
+<airdate>2015-03-21</airdate>
+<title xml:lang="ja">古河市古河総合公園</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Furukawashi Furukawa Sougou Kouen</title>
+</episode>
+<episode id="169177" update="2016-01-02">
+<epno type="1">19</epno>
+<length>7</length>
+<airdate>2015-03-07</airdate>
+<title xml:lang="ja">北茨城市五浦六角堂</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Kita Ibarakishi Go Ura Rokkaku Dou</title>
+</episode>
+<episode id="169178" update="2016-01-02">
+<epno type="1">18</epno>
+<length>7</length>
+<airdate>2015-02-21</airdate>
+<title xml:lang="ja">水戸市偕楽園</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Mitoshi Kairakuen</title>
+</episode>
+<episode id="169179" update="2016-01-02">
+<epno type="1">17</epno>
+<length>7</length>
+<airdate>2015-02-07</airdate>
+<title xml:lang="ja">大洗町アクアワールド茨</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Ooarai Machi Aku World Ibara</title>
+</episode>
+<episode id="169180" update="2016-01-02">
+<epno type="1">16</epno>
+<length>7</length>
+<airdate>2015-01-24</airdate>
+<title xml:lang="ja">大子町袋田の滝</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Daigo Machi Fukurodanotaki</title>
+</episode>
+<episode id="169181" update="2016-01-02">
+<epno type="1">15</epno>
+<length>7</length>
+<airdate>2015-01-10</airdate>
+<title xml:lang="ja">鹿嶋市鹿島神宮</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Kashimashi Kashima Jinguu</title>
+</episode>
+<episode id="169182" update="2016-01-02">
+<epno type="1">14</epno>
+<length>7</length>
+<airdate>2014-12-20</airdate>
+<title xml:lang="ja">小美玉市茨城空港</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Oitamashi Ibaraki Kuukou</title>
+</episode>
+<episode id="169183" update="2016-01-02">
+<epno type="1">13</epno>
+<length>7</length>
+<airdate>2014-12-06</airdate>
+<title xml:lang="ja">坂東市ミュージアムパー</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Bandoushi Museum Par</title>
+</episode>
+</episodes>
+</anime>

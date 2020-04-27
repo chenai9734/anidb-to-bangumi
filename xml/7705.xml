@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7705" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1991-10-21</startdate>
+<enddate>1992-05-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ore no Sora: Keiji Hen</title>
+<title xml:lang="ja" type="official">俺の空 刑事篇</title>
+</titles>
+<creators>
+<name id="8298" type="Original Work">Motomiya Hiroshi</name>
+<name id="5269" type="Direction">Shirato Takeshi</name>
+<name id="811" type="Work">A.P.P.P.</name>
+</creators>
+<ratings>
+<permanent count="5">5.74</permanent>
+<temporary count="5">5.40</temporary>
+</ratings>
+<picture>238035.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7316</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9338</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2922</identifier>
+<identifier>gbkkpz</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>俺の空#.E3.82.AA.E3.83.AA.E3.82.B8.E3.83.8A.E3.83.AB.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235650</identifier>
+</externalentity>
+<externalentity>
+<identifier>88533</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>243</identifier>
+</externalentity>
+<externalentity>
+<identifier>1668</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2840" parentid="2872" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>mafia</name>
+<description>A mafia is a type of organized crime syndicate whose primary activities are protection racketeering, the arbitration of disputes between criminals, and the organizing and oversight of illegal agreements and transactions. Secondary activities may be practiced such as gambling, drug trafficking, loan sharking, and fraud. The term was originally applied to the Sicilian mafia, but has since expanded to encompass other organizations of similar methods and purpose, such as in "the Russian mafia" or "the Japanese mafia", and is applied informally by the press and public, but the criminal organizations themselves have their own terms; for example, the original Sicilian and Italian-American mafia call themselves "cosa nostra", while the Japanese mafia calls itself "yakuza".
+Source: Wikipedia</description>
+<picurl>211289.jpg</picurl>
+</tag>
+<tag id="2872" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120129" update="2010-07-22">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1991-10-21</airdate>
+<title xml:lang="en">Volume 1</title>
+</episode>
+<episode id="120130" update="2010-07-22">
+<epno type="1">2</epno>
+<length>50</length>
+<airdate>1992-05-21</airdate>
+<title xml:lang="en">Volume 2</title>
+</episode>
+</episodes>
+</anime>

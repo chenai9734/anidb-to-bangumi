@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14674" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2018-05-25</startdate>
+<enddate>2018-05-25</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Wo Shi Jiang Xiaobai: Shijie Shang de Ling Yige Wo</title>
+<title xml:lang="en" type="synonym">I`m Joybo OVA</title>
+<title xml:lang="zh-Hans" type="synonym">我是江小白 剧场版</title>
+<title xml:lang="x-zht" type="synonym">Wo Shi Jiang Xiaobai Juchang Ban</title>
+<title xml:lang="zh-Hans" type="official">我是江小白 世界上的另一个我</title>
+</titles>
+<relatedanime>
+<anime id="14673" type="Sequel">Wo Shi Jiang Xiaobai Di Er Ji</anime>
+<anime id="13737" type="Prequel">Wo Shi Jiang Xiaobai</anime>
+</relatedanime>
+<ratings>
+<permanent count="3">4.42</permanent>
+<temporary count="4">6.00</temporary>
+</ratings>
+<picture>230000.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37886</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="204360" update="2019-06-07">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>2018-05-25</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

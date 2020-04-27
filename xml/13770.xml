@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13770" restricted="false">
+<type>Web</type>
+<episodecount>7</episodecount>
+<startdate>2018-01-31</startdate>
+<enddate>2018-07-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hentatsu</title>
+<title xml:lang="ko" type="synonym">헨타츠 (2018)</title>
+<title xml:lang="ja" type="official">へんたつ</title>
+</titles>
+<relatedanime>
+<anime id="15371" type="Sequel">Hentatsu (2019)</anime>
+</relatedanime>
+<creators>
+<name id="47452" type="Direction">Tatsuki</name>
+</creators>
+<ratings>
+<permanent count="24">3.03</permanent>
+<temporary count="24">5.16</temporary>
+</ratings>
+<picture>212513.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22973</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37948</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>371137</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>irodori7</identifier>
+</externalentity>
+<externalentity>
+<identifier>irodori7/status/990962771045924865</identifier>
+</externalentity>
+<externalentity>
+<identifier>irodori7/status/1002198833990848513</identifier>
+</externalentity>
+<externalentity>
+<identifier>irodori7/status/1013069965933535233</identifier>
+</externalentity>
+<externalentity>
+<identifier>irodori7/status/1024303801606397956</identifier>
+</externalentity>
+<externalentity>
+<identifier>irodori7/status/958714435043958785</identifier>
+</externalentity>
+<externalentity>
+<identifier>irodori7/status/968835036911824897</identifier>
+</externalentity>
+<externalentity>
+<identifier>irodori7/status/980090020496269312</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=VEe7tIET-W8</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=9hCRCXn0Cwc</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=HBwbgqyUSlU</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=aDxkBrDk-ZI</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="107827" type="main character in" update="2020-01-05">
+<name>Neko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>242779.jpg</picture>
+<seiyuu id="15655" picture="44791.jpg">Kadowaki Mai</seiyuu>
+</character>
+<character id="107828" type="main character in" update="2020-01-05">
+<rating votes="3">5.68</rating>
+<name>Oni</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>242778.jpg</picture>
+<seiyuu id="59681" picture="242780.jpg">Takasugi Kaoru</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="195716" update="2020-01-26">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2018-01-31</airdate>
+<rating votes="2">1.73</rating>
+<title xml:lang="ja">はじまり</title>
+<title xml:lang="en">The Beginning</title>
+<title xml:lang="x-jat">Hajimari</title>
+</episode>
+<episode id="196739" update="2020-01-26">
+<epno type="1">2</epno>
+<length>3</length>
+<airdate>2018-02-28</airdate>
+<rating votes="3">4.55</rating>
+<title xml:lang="ja">つづく?</title>
+<title xml:lang="en">To Be Continued?</title>
+<title xml:lang="x-jat">Tsuzuku?</title>
+</episode>
+<episode id="197631" update="2020-01-26">
+<epno type="1">3</epno>
+<length>3</length>
+<airdate>2018-03-31</airdate>
+<rating votes="3">3.61</rating>
+<title xml:lang="ja">おわり?</title>
+<title xml:lang="en">The End?</title>
+<title xml:lang="x-jat">Owari?</title>
+</episode>
+<episode id="201848" update="2020-01-26">
+<epno type="1">5</epno>
+<length>2</length>
+<airdate>2018-05-31</airdate>
+<rating votes="2">4.36</rating>
+<title xml:lang="en">Episode S5</title>
+</episode>
+<episode id="201849" update="2020-01-26">
+<epno type="1">4</epno>
+<length>1</length>
+<airdate>2018-04-30</airdate>
+<rating votes="1">2.60</rating>
+<title xml:lang="en">Episode S4</title>
+</episode>
+<episode id="202527" update="2020-01-26">
+<epno type="1">6</epno>
+<length>2</length>
+<airdate>2018-06-30</airdate>
+<rating votes="2">5.43</rating>
+<title xml:lang="en">Episode S6</title>
+</episode>
+<episode id="203652" update="2020-01-26">
+<epno type="1">7</epno>
+<length>3</length>
+<airdate>2018-07-31</airdate>
+<rating votes="2">7.74</rating>
+<title xml:lang="en">Episode S7</title>
+</episode>
+<episode id="203807" update="2020-01-26">
+<epno type="2">S1</epno>
+<length>15</length>
+<airdate>2018-08-07</airdate>
+<rating votes="1">3.96</rating>
+<title xml:lang="ja">へんたつweb版・全話フル</title>
+<title xml:lang="en">Hentatsu Web Version Full Story</title>
+<title xml:lang="x-jat">Hentatsu Web-ban Zenwa Full</title>
+</episode>
+</episodes>
+</anime>

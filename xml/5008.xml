@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5008" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1985-09-21</startdate>
+<enddate>1985-09-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Chocolate Panic Picture Show</title>
+<title xml:lang="ja" type="official">ザ・チョコレートパニック・ピクチャーショー</title>
+</titles>
+<recommendations total="1">
+<recommendation type="Recommended" uid="37313">A good chaotic and absurde piece of entertainement as only 80`s could offer. Recommended!</recommendation>
+</recommendations>
+<creators>
+<name id="8551" type="Original Work">Fujiwara Kamui</name>
+<name id="8551" type="Series Composition">Fujiwara Kamui</name>
+</creators>
+<description>* Based on a manga by http://anidb.net/cr8551 [Fujiwara Kamui], serialised in Monthly Super Action and partly inspired by Jamie Uys`s The Gods Must Be Crazy (1980).
+Jaw-droppingly racist musical in which grossly caricatured Africans Manbo, Chinbo, and Chonbo causes chaos in civilisation despite the efforts of their pretty tour guide/bedmate to tame their zany, grass-skirted cannibal ways.
+Source: The Anime Encyclopedia</description>
+<ratings>
+<permanent count="109">3.36</permanent>
+<temporary count="110">4.55</temporary>
+</ratings>
+<picture>11862.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7074</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5622</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3286</identifier>
+<identifier>yclvyp</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88828</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4589</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4499" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2014-07-28">
+<name>some weird shit goin` on</name>
+<description>Scenes of this show point to insanely strange events which seem to be taking place; throughout its episodes, the show may or may not explain what is going on. Either way, many viewers will find that a succinct and accurate way to describe the show is "WTF?", and the show`s explanations (or lack thereof) to the events will often be subject of heated debate.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="71748" update="2010-04-18">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1985-09-21</airdate>
+<rating votes="1">3.39</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

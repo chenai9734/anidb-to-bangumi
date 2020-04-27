@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8025" restricted="false">
+<type>TV Series</type>
+<episodecount>50</episodecount>
+<startdate>2008-04-02</startdate>
+<enddate>2009-03-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Little Charo</title>
+<title xml:lang="ja" type="official">リトル・チャロ</title>
+</titles>
+<relatedanime>
+<anime id="8026" type="Sequel">Little Charo 2</anime>
+<anime id="11019" type="Character">Hana wa Saku: Touhoku ni Saku</anime>
+</relatedanime>
+<creators>
+<name id="22398" type="Original Work">Wakagi Efu</name>
+<name id="22399" type="Animation Work">Spooky Graphic</name>
+</creators>
+<description>NHK`s English education programme featured the adventures of a puppy named Charo in New York.</description>
+<ratings>
+<permanent count="13">5.06</permanent>
+<temporary count="13">4.92</temporary>
+</ratings>
+<picture>57040.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23093</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>13177</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>リトル・チャロ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>331757</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>12718</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="3968" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>animal protagonist</name>
+<description>The anime revolves around an animal, usually only communicating with typical onomatopoeia. The animal mostly lives in a human family and has adventures on a regular base. This can be the discovery of a new room, or being lost by having taken a wrong turn in the outside world.
+Typical example: http://anidb.net/a5801 [Chii`s Sweet Home].
+Not to be confused with http://anidb.net/t4259 [animal world], where the whole world is composed of animals.</description>
+<picurl>10255.jpeg</picurl>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6075" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-01-12">
+<name>educational</name>
+<description>The entire series (at least a major part of it) is centred on a particular subject. Information is fed to the audience in a sublime manner. Most of the time an on-screen written comment by the narrator (or translator) can be seen, e.g. biological specimen, medicine, process, etc. Sometimes at the end of every episode’s closing song, a 20 seconds educational clip is presented.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<characters>
+<character id="74198" type="main character in" update="2015-03-29">
+<name>Charo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>171055.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="136411" update="2012-01-17">
+<epno type="1">50</epno>
+<length>20</length>
+<title xml:lang="ja">きずな</title>
+<title xml:lang="en">Far Away Yet Close Enough</title>
+</episode>
+<episode id="136412" update="2012-01-17">
+<epno type="1">49</epno>
+<length>20</length>
+<title xml:lang="ja">奇跡</title>
+<title xml:lang="en">Miracle</title>
+</episode>
+<episode id="136413" update="2012-01-17">
+<epno type="1">48</epno>
+<length>20</length>
+<title xml:lang="ja">タイムアップ</title>
+<title xml:lang="en">The Decision</title>
+</episode>
+<episode id="136414" update="2012-01-17">
+<epno type="1">47</epno>
+<length>20</length>
+<title xml:lang="ja">夢に向かって</title>
+<title xml:lang="en">Big Surprise</title>
+</episode>
+<episode id="136415" update="2012-01-17">
+<epno type="1">46</epno>
+<length>20</length>
+<title xml:lang="ja">ビッグニュース</title>
+<title xml:lang="en">Shota`s Father!</title>
+</episode>
+<episode id="136416" update="2012-01-17">
+<epno type="1">45</epno>
+<length>20</length>
+<title xml:lang="ja">一枚の切符</title>
+<title xml:lang="en">One Last Ticket</title>
+</episode>
+<episode id="136417" update="2012-01-17">
+<epno type="1">44</epno>
+<length>20</length>
+<title xml:lang="ja">人生のパートナー</title>
+<title xml:lang="en">Partners</title>
+</episode>
+<episode id="136418" update="2012-01-17">
+<epno type="1">43</epno>
+<length>20</length>
+<title xml:lang="ja">ブロードウェイ</title>
+<title xml:lang="en">Broadway</title>
+</episode>
+<episode id="136419" update="2012-01-17">
+<epno type="1">42</epno>
+<length>20</length>
+<title xml:lang="ja">ふたりの夢</title>
+<title xml:lang="en">The Two Dreams</title>
+</episode>
+<episode id="136420" update="2012-01-17">
+<epno type="1">41</epno>
+<length>20</length>
+<title xml:lang="ja">10年目のバースデー</title>
+<title xml:lang="en">Ten Years After</title>
+</episode>
+<episode id="136421" update="2012-01-17">
+<epno type="1">40</epno>
+<length>20</length>
+<title xml:lang="ja">ハッピー・ルイ</title>
+<title xml:lang="en">Louis</title>
+</episode>
+<episode id="136422" update="2012-01-17">
+<epno type="1">39</epno>
+<length>20</length>
+<title xml:lang="ja">めぐりあい</title>
+<title xml:lang="en">Alone Again</title>
+</episode>
+<episode id="136423" update="2012-01-17">
+<epno type="1">38</epno>
+<length>20</length>
+<title xml:lang="ja">ドレッドの魂</title>
+<title xml:lang="en">Dread Forever</title>
+</episode>
+<episode id="136424" update="2012-01-17">
+<epno type="1">37</epno>
+<length>20</length>
+<title xml:lang="ja">ほのかな気持ち</title>
+<title xml:lang="en">Puppy Love</title>
+</episode>
+<episode id="136425" update="2012-01-17">
+<epno type="1">36</epno>
+<length>20</length>
+<title xml:lang="ja">樹の下の祈り</title>
+<title xml:lang="en">Making a Wish</title>
+</episode>
+<episode id="136426" update="2012-01-17">
+<epno type="1">35</epno>
+<length>20</length>
+<title xml:lang="ja">シリウスの失敗</title>
+<title xml:lang="en">False Move</title>
+</episode>
+<episode id="136427" update="2012-01-17">
+<epno type="1">34</epno>
+<length>20</length>
+<title xml:lang="ja">ドレッドの過去</title>
+<title xml:lang="en">Dread`s Past</title>
+</episode>
+<episode id="136428" update="2012-01-17">
+<epno type="1">33</epno>
+<length>20</length>
+<title xml:lang="ja">火事</title>
+<title xml:lang="en">Fire</title>
+</episode>
+<episode id="136429" update="2012-01-17">
+<epno type="1">32</epno>
+<length>20</length>
+<title xml:lang="ja">サクラの国の春</title>
+<title xml:lang="en">SAKURA</title>
+</episode>
+<episode id="136430" update="2012-01-17">
+<epno type="1">31</epno>
+<length>20</length>
+<title xml:lang="ja">ゆずりあい</title>
+<title xml:lang="en">Sharing</title>
+</episode>
+<episode id="136431" update="2012-01-17">
+<epno type="1">30</epno>
+<length>20</length>
+<title xml:lang="ja">友情の証</title>
+<title xml:lang="en">Back in New York</title>
+</episode>
+<episode id="136432" update="2012-01-17">
+<epno type="1">29</epno>
+<length>20</length>
+<title xml:lang="ja">アンドーラとの再会</title>
+<title xml:lang="en">Andorra Again</title>
+</episode>
+<episode id="136433" update="2012-01-17">
+<epno type="1">28</epno>
+<length>20</length>
+<title xml:lang="ja">カードのお告げ</title>
+<title xml:lang="en">CAST</title>
+</episode>
+<episode id="136434" update="2012-01-17">
+<epno type="1">27</epno>
+<length>20</length>
+<title xml:lang="ja">1ドルの奇跡</title>
+<title xml:lang="en">The One-Dollar Miracle</title>
+</episode>
+<episode id="136435" update="2012-01-17">
+<epno type="1">26</epno>
+<length>20</length>
+<title xml:lang="ja">正式なお招き</title>
+<title xml:lang="en">Formal Invitation</title>
+</episode>
+<episode id="136436" update="2012-01-17">
+<epno type="1">25</epno>
+<length>20</length>
+<title xml:lang="ja">ルイーザの正体</title>
+<title xml:lang="en">The Party</title>
+</episode>
+<episode id="136437" update="2012-01-17">
+<epno type="1">24</epno>
+<length>20</length>
+<title xml:lang="ja">帝王ジョゼフ</title>
+<title xml:lang="en">Sir Joseph</title>
+</episode>
+<episode id="136438" update="2012-01-17">
+<epno type="1">23</epno>
+<length>20</length>
+<title xml:lang="ja">闇夜の出会い</title>
+<title xml:lang="en">The Mysterious Cat</title>
+</episode>
+<episode id="136439" update="2012-01-17">
+<epno type="1">22</epno>
+<length>20</length>
+<title xml:lang="ja">チャイナタウンの夜</title>
+<title xml:lang="en">Chinatown</title>
+</episode>
+<episode id="136440" update="2012-01-17">
+<epno type="1">21</epno>
+<length>20</length>
+<title xml:lang="ja">大富豪の世界へ</title>
+<title xml:lang="en">Another World</title>
+</episode>
+<episode id="136441" update="2012-01-17">
+<epno type="1">20</epno>
+<length>20</length>
+<title xml:lang="ja">いざシカゴへ</title>
+<title xml:lang="en">To Chicago</title>
+</episode>
+<episode id="136442" update="2012-01-17">
+<epno type="1">19</epno>
+<length>20</length>
+<title xml:lang="ja">旅の準備</title>
+<title xml:lang="en">Stepping Forward</title>
+</episode>
+<episode id="136443" update="2012-01-17">
+<epno type="1">18</epno>
+<length>20</length>
+<title xml:lang="ja">通じ合う心</title>
+<title xml:lang="en">Tomoko</title>
+</episode>
+<episode id="136444" update="2012-01-17">
+<epno type="1">17</epno>
+<length>20</length>
+<title xml:lang="ja">思い出のリボン</title>
+<title xml:lang="en">Candy`s Ribbon</title>
+</episode>
+<episode id="136445" update="2012-01-17">
+<epno type="1">16</epno>
+<length>20</length>
+<title xml:lang="ja">キャンディの憂うつ</title>
+<title xml:lang="en">Hospital</title>
+</episode>
+<episode id="136446" update="2012-01-17">
+<epno type="1">15</epno>
+<length>20</length>
+<title xml:lang="ja">陽気な渡り鳥サリー</title>
+<title xml:lang="en">Sally</title>
+</episode>
+<episode id="136447" update="2012-01-17">
+<epno type="1">14</epno>
+<length>20</length>
+<title xml:lang="ja">赤い星のウソ</title>
+<title xml:lang="en">The Red Star</title>
+</episode>
+<episode id="136448" update="2012-01-17">
+<epno type="1">13</epno>
+<length>20</length>
+<title xml:lang="ja">プライド</title>
+<title xml:lang="en">Pride</title>
+</episode>
+<episode id="136449" update="2012-01-17">
+<epno type="1">12</epno>
+<length>20</length>
+<title xml:lang="ja">英雄シリウス</title>
+<title xml:lang="en">Sirius</title>
+</episode>
+<episode id="136450" update="2012-01-17">
+<epno type="1">11</epno>
+<length>20</length>
+<title xml:lang="ja">夢のアンドーラ</title>
+<title xml:lang="en">The Dream Woman</title>
+</episode>
+<episode id="136451" update="2012-01-17">
+<epno type="1">10</epno>
+<length>20</length>
+<title xml:lang="ja">本当の誕生日</title>
+<title xml:lang="en">True Birthday</title>
+</episode>
+<episode id="136452" update="2012-01-17">
+<epno type="1">9</epno>
+<length>20</length>
+<title xml:lang="ja">不思議な夢</title>
+<title xml:lang="en">The Strange Dream</title>
+</episode>
+<episode id="136453" update="2012-01-17">
+<epno type="1">8</epno>
+<length>20</length>
+<title xml:lang="ja">船中の悲劇</title>
+<title xml:lang="en">The Tragic Boat Ride</title>
+</episode>
+<episode id="136454" update="2012-01-17">
+<epno type="1">7</epno>
+<length>20</length>
+<title xml:lang="ja">跳べ! チャロ</title>
+<title xml:lang="en">Charo, Jump!</title>
+</episode>
+<episode id="136455" update="2012-01-17">
+<epno type="1">6</epno>
+<length>20</length>
+<title xml:lang="ja">初雪の夢</title>
+<title xml:lang="en">Snow Dream</title>
+</episode>
+<episode id="136456" update="2012-01-17">
+<epno type="1">5</epno>
+<length>20</length>
+<title xml:lang="ja">友達</title>
+<title xml:lang="en">Friends</title>
+</episode>
+<episode id="136457" update="2012-01-17">
+<epno type="1">4</epno>
+<length>20</length>
+<title xml:lang="ja">陽気なマルゲリータ</title>
+<title xml:lang="en">Merry Margherita</title>
+</episode>
+<episode id="136458" update="2012-01-17">
+<epno type="1">3</epno>
+<length>20</length>
+<title xml:lang="ja">ソーセージの思い出</title>
+<title xml:lang="en">Sweet Sausage Blues</title>
+</episode>
+<episode id="136459" update="2012-01-17">
+<epno type="1">2</epno>
+<length>20</length>
+<title xml:lang="ja">遠い日本</title>
+<title xml:lang="en">Far from Japan</title>
+</episode>
+<episode id="136460" update="2012-01-17">
+<epno type="1">1</epno>
+<length>20</length>
+<title xml:lang="ja">空港の迷い犬</title>
+<title xml:lang="en">Lost in the Airport</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13381" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2017-08-07</startdate>
+<enddate>2017-12-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dragon Quest X: Boukensha-tachi no Kiseki</title>
+<title xml:lang="ja" type="official">ラゴンクエストX 冒険者たちのきせき</title>
+</titles>
+<url>http://hiroba.dqx.jp/sc/topics/detail/b132ecc1609bfcf302615847c1caa69a/</url>
+<description>Note: Episode 2 is live-action, so not included here.</description>
+<ratings>
+<permanent count="2">6.24</permanent>
+<temporary count="2">6.50</temporary>
+</ratings>
+<picture>205959.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20013</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36112</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://hiroba.dqx.jp/sc/topics/detail/b132ecc1609bfcf302615847c1caa69a/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>user/squareenix/search?query=冒険者たちのきせき</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="198584" update="2018-04-27">
+<epno type="1">2</epno>
+<length>7</length>
+<airdate>2017-12-11</airdate>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="198585" update="2018-04-27">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2017-08-07</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12232" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2016-06-17</startdate>
+<enddate>2016-06-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Curious Kitty &amp; Friends</title>
+<title xml:lang="ja" type="synonym">ワクワクこまちゃん</title>
+<title xml:lang="x-jat" type="synonym">Wakuwaku Koma-chan</title>
+<title xml:lang="ja" type="official">THE CURIOUS KITTY &amp; FRIENDS</title>
+</titles>
+<url>http://www.dw-f.jp/CUKI/</url>
+<creators>
+<name id="12315" type="Character Design">Gouda Tsuneo</name>
+<name id="42088" type="Work">Dwarf</name>
+<name id="12315" type="Original Work">Gouda Tsuneo</name>
+<name id="12315" type="Direction">Gouda Tsuneo</name>
+</creators>
+<ratings>
+<permanent count="1">2.05</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>187783.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33480</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.dw-f.jp/CUKI/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.dw-f.jp/CUKI/eng/index.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>357083</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="202877" update="2018-07-17">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2016-06-17</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

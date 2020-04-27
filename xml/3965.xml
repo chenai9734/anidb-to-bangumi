@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3965" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2005-05-01</startdate>
+<enddate>2005-05-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Space Station No. 9</title>
+<title xml:lang="ja" type="official">space station No.9</title>
+</titles>
+<relatedanime>
+<anime id="3966" type="Sequel">Soratobu Toshi Keikaku</anime>
+<anime id="3958" type="Prequel">Portable Kuukou</anime>
+</relatedanime>
+<url>http://www.contemode.com/</url>
+<creators>
+<name id="58540" type="Work">Studio Kajino</name>
+</creators>
+<description>Second animated music video for music by capsule based around their NEXUS-2060 concept - a space station resort in the year 2060. Produced by Ghibli offshoot Studio Kajino, with MOMOSE Yoshiyuki (百瀬ヨシユキ) directing. The single was released on 2005.02.02, the video debuting some time in May, and released on DVD on 2005.11.16 as part of the Ghibli ga Ippai Special: Short Short disc.</description>
+<ratings>
+<permanent count="288">4.10</permanent>
+<temporary count="290">5.62</temporary>
+</ratings>
+<picture>5503.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>5977</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3820</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.contemode.com/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4951" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2018-03-22">
+<name>age change</name>
+<description>Because who wouldn`t like to be young/old again.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="44807" update="2008-07-08">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2005-05-01</airdate>
+<rating votes="6">4.72</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

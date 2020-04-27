@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12556" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1981</startdate>
+<enddate>1981</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Houzi Lao Yue</title>
+<title xml:lang="en" type="official">Monkeys Fish the Moon</title>
+<title xml:lang="zh-Hant" type="official">猴子撈月</title>
+<title xml:lang="zh-Hans" type="official">猴子捞月</title>
+</titles>
+<description>On a fine summer, a group of monkeys decide to try and grab the moon.
+Source: IMDB</description>
+<ratings>
+<permanent count="2">3.75</permanent>
+<temporary count="2">2.00</temporary>
+</ratings>
+<picture>231452.jpg</picture>
+<resources>
+<resource type="20">
+<externalentity>
+<identifier>猴子捞月</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=SdApDJ7sNq4</identifier>
+</externalentity>
+</resource>
+<resource type="33">
+<externalentity>
+<identifier>猴子捞月/5732289#viewPageContent</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="184794" update="2017-02-20">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

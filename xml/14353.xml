@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14353" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1964</startdate>
+<enddate>1964</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sensuikan Cassiopeia</title>
+<title xml:lang="ja" type="official">潜水艦カシオペア</title>
+</titles>
+<creators>
+<name id="56072" type="Work">Manabe Hiroshi</name>
+</creators>
+<description>A short experimental film by http://anidb.net/cr56072 [Manabe Hiroshi].</description>
+<ratings>
+<permanent count="9">1.95</permanent>
+<temporary count="9">3.00</temporary>
+</ratings>
+<picture>223037.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29647</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>14142</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205901" update="2018-09-01">
+<epno type="1">1</epno>
+<length>6</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9416" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1980-08-25</startdate>
+<enddate>1980-08-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ikkyuu-san Wide-ban: Ooabare Yancha Hime</title>
+<title xml:lang="ja" type="official">一休さん ワイド版 大暴れやんちゃ姫</title>
+</titles>
+<relatedanime>
+<anime id="1678" type="Parent Story">Ikkyuu-san</anime>
+</relatedanime>
+<description>The rampant adventures of the mischievous Tsuyu take the lead here: "Ikkyuu-dono! Let`s Play!!"</description>
+<ratings>
+<permanent count="2">3.37</permanent>
+<temporary count="2">6.00</temporary>
+</ratings>
+<picture>93821.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23575</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>一休さん_(テレビアニメ)</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="143809" update="2012-09-11">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1980-08-25</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

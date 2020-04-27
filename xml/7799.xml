@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7799" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1991-07-20</startdate>
+<enddate>1991-07-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kero Kero Keroppi no Sanjuushi</title>
+<title xml:lang="ja" type="official">けろけろけろっぴの三銃士</title>
+</titles>
+<creators>
+<name id="60172" type="Music">Kojima Toyomi</name>
+<name id="4880" type="Direction">Hata Masami</name>
+<name id="4880" type="Chief Direction">Hata Masami</name>
+</creators>
+<picture>163998.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23148</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22649</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151443</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2678</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="41768" type="main character in" update="2012-02-26">
+<name>Keroppi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82267.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="120599" update="2010-08-01">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1991-07-20</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

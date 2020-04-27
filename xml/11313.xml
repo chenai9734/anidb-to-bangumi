@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11313" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1971</startdate>
+<enddate>1971</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Good-by Marilyn</title>
+<title xml:lang="en" type="synonym">Good Bye Marilyn</title>
+<title xml:lang="ja" type="official">サョナラリリもソロー</title>
+</titles>
+<relatedanime>
+<anime id="11314" type="Other">Good-bye Elvis and USA</anime>
+</relatedanime>
+<description>Music video created by Keniichi Tanaami in 1971 inspired by Marilyn Monroe.</description>
+<ratings>
+<permanent count="64">1.68</permanent>
+<temporary count="64">2.83</temporary>
+</ratings>
+<picture>174755.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29619</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://keiichitanaami.com/en/works1970.html#animation</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2749" parentid="2604" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="169090" update="2015-06-19">
+<epno type="1">1</epno>
+<length>5</length>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

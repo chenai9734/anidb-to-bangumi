@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7694" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1991-12-04</startdate>
+<enddate>1992-04-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Jingi</title>
+<title xml:lang="ja" type="synonym">仁義</title>
+<title xml:lang="ja" type="official">JINGI</title>
+</titles>
+<creators>
+<name id="3328" type="Character Design">Kawamura Toshie</name>
+<name id="5440" type="Direction">Murayama Yasushi</name>
+<name id="3729" type="Character Design">Abe Hisashi</name>
+<name id="7224" type="Direction">Yoshida Kenjirou</name>
+<name id="20157" type="Original Work">Tachihara Ayumi</name>
+</creators>
+<ratings>
+<permanent count="7">3.56</permanent>
+<temporary count="7">4.42</temporary>
+</ratings>
+<picture>238267.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7287</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10741</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2821</identifier>
+<identifier>kjctyk</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>JINGI_仁義</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235748</identifier>
+</externalentity>
+<externalentity>
+<identifier>88546</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2900</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120065" update="2010-07-21">
+<epno type="1">2</epno>
+<length>50</length>
+<airdate>1992-04-08</airdate>
+<title xml:lang="ja">隅田川頂上作戦</title>
+<title xml:lang="en">Volume 2</title>
+<title xml:lang="x-jat">Sumida-gawa Choujou Sakusen</title>
+</episode>
+<episode id="120066" update="2010-07-21">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1991-12-04</airdate>
+<title xml:lang="en">Volume 1</title>
+</episode>
+</episodes>
+</anime>

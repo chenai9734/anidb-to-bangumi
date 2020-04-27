@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12220" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-07-19</startdate>
+<enddate>2019-07-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Walking Meat</title>
+<title xml:lang="ja" type="synonym">Force of Will the Movie</title>
+<title xml:lang="ja" type="synonym">ウォーキング・ミート</title>
+<title xml:lang="ja" type="official">Walking Meat</title>
+</titles>
+<url>http://walking-meat.com/</url>
+<creators>
+<name id="17380" type="Direction">Sugai Shin`ya</name>
+<name id="37026" type="Animation Work">Sublimation</name>
+<name id="37026" type="Original Work">Sublimation</name>
+<name id="56700" type="Character Design">Kanda Mitsukasa</name>
+</creators>
+<description>Humanity has grown a taste for zombies. Stewed, sautéed or squeezed.
+In an alternate world, the Japanese corporation Flesh Inc. has managed to create zombies on domestic soil during the roaring Sixties (the years of the economic boom) using voodoo techniques imported from Africa, and it has built a fortune thereafter by selling zombie products of all kind: instant noodles, soft drinks, hamburgers, pet food, and cosmetics. But when a trio of self-centered millennials on their first workday get trapped inside a fully automated zombie farm with their old-school technotard supervisor and a horde of undead running amok, overcoming generation gaps becomes a matter of survival.
+Source: Production I.G
+[i]Note: The omnibus film "Force of Will the Movie" was canceled, some of the planned six anime shorts may be released independently by their respective studios. The "Walking Meat" marks the directorial debut of CG creator http://anidb.net/cr17380 [Sugai Shin`ya].
+It was first screened at Bucheon International Fantastic Film Festival on 13.07.2018 and later received screenings at various festivals and events before its nationwide release in Japan in 2019.[/i]</description>
+<ratings>
+<permanent count="3">3.74</permanent>
+<temporary count="3">4.66</temporary>
+</ratings>
+<picture>220608.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21212</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33438</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://walking-meat.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>366192</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<characters>
+<character id="99283" type="main character in" update="2018-11-17">
+<name>Kaori</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="21823" picture="131326.jpg">Tsuda Minami</seiyuu>
+</character>
+<character id="99284" type="main character in" update="2018-11-17">
+<name>Hasegawa</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="592" picture="170729.jpg">Tsuda Kenjirou</seiyuu>
+</character>
+<character id="99285" type="main character in" update="2018-11-17">
+<name>Babu</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="81" picture="41282.jpg">Sanpei Yuuko</seiyuu>
+</character>
+<character id="99286" type="main character in" update="2018-11-17">
+<name>Masaru</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="44099" picture="225101.jpg">Ochiai Fukushi</seiyuu>
+</character>
+<character id="99287" type="main character in" update="2018-11-17">
+<name>Marin</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="178058" update="2019-05-23">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2019-07-19</airdate>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

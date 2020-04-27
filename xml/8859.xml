@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8859" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1999-02-12</startdate>
+<enddate>1999-02-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Time Ranger Cesar Boy no Bouken: Roma Teikoku Hen</title>
+<title xml:lang="x-jat" type="synonym">Time Ranger Ceasar Boy no Bouken: Roman Teikoku Hen</title>
+<title xml:lang="ja" type="official">タイムレンジャー セザールボーイの冒険 ローマ帝国編</title>
+</titles>
+<creators>
+<name id="7920" type="Original Work">Yasumura Ryou</name>
+<name id="7920" type="Direction">Yasumura Ryou</name>
+<name id="5465" type="Music">Yamanaka Norimasa</name>
+</creators>
+<ratings>
+<permanent count="2">1.99</permanent>
+<temporary count="2">3.00</temporary>
+</ratings>
+<picture>242861.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>20111</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235774</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7609</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="135498" update="2011-12-27">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>1999-02-12</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

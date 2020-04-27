@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3459" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2001-03-03</startdate>
+<enddate>2001-03-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kizuna: Koi no Karasawagi</title>
+<title xml:lang="ja" type="official">KIZUNA ~恋のから騒ぎ~</title>
+<title xml:lang="en" type="official">Kizuna: Much Ado About Nothing</title>
+<title xml:lang="de" type="official">Kizuna - Liebe und viel Lärm um nichts</title>
+</titles>
+<relatedanime>
+<anime id="794" type="Prequel">Kizuna</anime>
+</relatedanime>
+<creators>
+<name id="1640" type="Direction">Yamazaki Kazuo</name>
+<name id="5516" type="Character Design">Yamamoto Sawako</name>
+<name id="8193" type="Music">Nobuta Kazuo</name>
+<name id="8321" type="Original Work">Kodaka Kazuma</name>
+<name id="788" type="Animation Work">Zexcs</name>
+</creators>
+<description>http://anidb.net/ch31366 [Enjouji] and http://anidb.net/ch31367 [Ranmaru] are a mostly-happy couple, but when Ranmaru finds lipstick on Enjouji, he becomes suspicious and leaves in a huff. Enjouji follows Ranmaru throughout the day. As they do so, the two men think about their past and their uncertain future.
+Source: ANN</description>
+<ratings>
+<permanent count="174">4.79</permanent>
+<temporary count="175">6.44</temporary>
+</ratings>
+<picture>4943.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2986</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>734</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Kizuna:_Bonds_of_Love</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>KIZUNA</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>162689</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6991</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2783" parentid="2858" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-04">
+<name>shounen ai</name>
+<description>Shounen Ai means boys love, and thus explores what happens when two boys (or men) fall in love. This is not to be mistaken for http://anidb.net/t2723 [Yaoi] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphical sex.
+The female version is http://anidb.net/t2782 [Shoujo Ai].</description>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="5804" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2010-01-19">
+<name>piledriver</name>
+<description>As you can see, the characters shirts were torn from a fight as they were previously wrestling. They seem to wrestle a lot in the show and most of the time you just see them doing the choke hold wrong and giving each other piledrivers.</description>
+</tag>
+</tags>
+<characters>
+<character id="31366" type="main character in" update="2011-04-20">
+<name>Enjouji Kei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70231.jpg</picture>
+<seiyuu id="2062" picture="188714.jpg">Ichijou Kazuya</seiyuu>
+</character>
+<character id="31367" type="main character in" update="2011-04-20">
+<name>Samejima Ranmaru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70230.jpg</picture>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="38505" update="2005-12-30">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>2001-03-03</airdate>
+<rating votes="1">2.05</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

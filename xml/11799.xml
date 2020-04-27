@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11799" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-11-27</startdate>
+<enddate>2015-11-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Omoi no Kakera</title>
+<title xml:lang="ja" type="official">想いのかけら</title>
+</titles>
+<url>http://www.nhk.or.jp/daisuki-tohoku/kakera/</url>
+<creators>
+<name id="59327" type="Original Plan">Ikoma</name>
+<name id="36675" type="Character Design">Umeshita Manami</name>
+<name id="45690" type="Animation Work">Fukushima Gainax</name>
+<name id="3592" type="Direction">Saeki Shouji</name>
+<name id="45816" type="Music">Okazaki Taiiku</name>
+<name id="44263" type="Chief Direction">Asao Yoshinori</name>
+<name id="1050" type="Work">NHK</name>
+<name id="1234" type="Work">NHK Enterprises</name>
+</creators>
+<description>Junior high student http://anidb.net/ch78718 [Satou Hina] is an energetic girl living in a seaport town in Tohoku. Her mother passed away during the 2011 Tohoku earthquake and tsunami and now she lives with her father in temporary housing. Hina remembers her mother and the effects of the earthquake.
+Source: ANN
+Note: Three different length versions have been aired, 2 minutes, 5 minutes and 25 minutes.</description>
+<ratings>
+<permanent count="92">5.16</permanent>
+<temporary count="93">6.33</temporary>
+</ratings>
+<picture>180045.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>18199</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32190</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nhk.or.jp/daisuki-tohoku/kakera/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>想いのかけら</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4272</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354892</identifier>
+</externalentity>
+<externalentity>
+<identifier>356303</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="78718" type="main character in" update="2015-12-01">
+<rating votes="2">5.81</rating>
+<name>Satou Hina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180047.jpg</picture>
+<seiyuu id="27357" picture="75009.jpg">Yasuno Kiyono</seiyuu>
+</character>
+<character id="78719" type="secondary cast in" update="2016-05-06">
+<rating votes="1">2.34</rating>
+<name>Hahaoya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>186499.jpg</picture>
+<seiyuu id="27221" picture="131964.jpg">Arakawa Miho</seiyuu>
+</character>
+<character id="84576" type="appears in" update="2016-09-06">
+<name>Chisaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="43185" picture="173148.jpg">Itou Haruka</seiyuu>
+</character>
+<character id="84577" type="appears in" update="2016-09-06">
+<name>Rena</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34880" picture="130561.jpg">Fuku Sanae</seiyuu>
+</character>
+<character id="84578" type="appears in" update="2016-09-06">
+<name>Coach</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="18698" picture="49321.jpg">Nakane Kumiko</seiyuu>
+</character>
+<character id="84579" type="secondary cast in" update="2016-09-06">
+<name>Michiru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="45198" picture="219576.jpg">Sasaki Riko</seiyuu>
+</character>
+<character id="84580" type="appears in" update="2016-09-06">
+<name>Anzu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="46830" picture="191018.jpg">Onodera Runa</seiyuu>
+</character>
+<character id="84581" type="secondary cast in" update="2016-09-06">
+<name>Hina no Chichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2067" picture="186243.jpg">Hoshino Mitsuaki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="173588" update="2016-11-01">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-11-27</airdate>
+<rating votes="2">8.03</rating>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="181648" update="2016-11-01">
+<epno type="2">S1</epno>
+<length>5</length>
+<title xml:lang="en">5 Minutes Version</title>
+</episode>
+</episodes>
+</anime>

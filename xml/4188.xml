@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4188" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2006-01-18</startdate>
+<enddate>2006-01-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tetsuro no Kanata</title>
+<title xml:lang="en" type="synonym">Beyond the Train Tracks</title>
+<title xml:lang="ja" type="official">鉄路の彼方</title>
+</titles>
+<url>http://www.directions.jp/tayuta/</url>
+<description>A boy encounters a trace of his lost father on tracks where time comes and goes, at a station where time stops. With the help of a mysterious projectionist, the boy and station master search for the truth of the father`s image.
+----
+Director/Script/Production: Tayuta Mikage
+Producer: Tom Nagae
+Music Producer: Tohru Okada
+Sound Producer: Kazuhiko Arakawa
+Sound Effects: Sinnosuke Sato
+Co-production: Directions, Inc.
+http://www.daf-tokyo.jp/test4/prg-animation-en.html
+http://www.dep.sme.co.jp/tayutau/</description>
+<ratings>
+<permanent count="14">5.28</permanent>
+<temporary count="14">5.85</temporary>
+</ratings>
+<picture>10607.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7156</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7982</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4254</identifier>
+<identifier>taxhks</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.directions.jp/tayuta/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>323998</identifier>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/1928</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="45096" update="2011-10-20">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2006-01-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="47175" update="2006-02-28">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

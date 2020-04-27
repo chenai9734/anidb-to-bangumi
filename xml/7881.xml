@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7881" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2010-09-03</startdate>
+<enddate>2010-09-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mecha Afro-kun</title>
+<title xml:lang="ja" type="official">メカ☆アフロくん</title>
+</titles>
+<url>http://www.happinet-p.com/m-afro/</url>
+<creators>
+<name id="58798" type="Music">Scat Gotou</name>
+<name id="20285" type="Original Work">Hanakuma Yuusaku</name>
+<name id="20285" type="Direction">Hanakuma Yuusaku</name>
+</creators>
+<description>* Based on Cyborg Salaryman Mecha Afro-kun gag comedy manga by http://anidb.net/cr20285 [Hanakuma Yuusaku]
+It happened in Japan in the near future. The term "Company" has been joined in the latest salary cyborg, the Afro-kun ☆ mechanism.</description>
+<ratings>
+<permanent count="1">5.31</permanent>
+<temporary count="1">6.00</temporary>
+</ratings>
+<picture>52820.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>13671</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9334</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.happinet-p.com/m-afro/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>337454</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120962" update="2010-08-08">
+<epno type="1">1</epno>
+<length>35</length>
+<airdate>2010-09-03</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

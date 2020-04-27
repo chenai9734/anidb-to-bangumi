@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13390" restricted="false">
+<type>TV Series</type>
+<episodecount>24</episodecount>
+<startdate>2017-10-07</startdate>
+<enddate>2018-03-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Garo: Vanishing Line</title>
+<title xml:lang="en" type="synonym">Garo - Vanishing Line</title>
+<title xml:lang="ru" type="synonym">Гаро: Линия схода</title>
+<title xml:lang="bg" type="synonym">Гаро: Чезнеща диря</title>
+<title xml:lang="x-jat" type="short">garovl</title>
+<title xml:lang="ja" type="official">牙狼[GARO] -VANISHING LINE-</title>
+<title xml:lang="en" type="official">Garo: Vanishing Line</title>
+<title xml:lang="zh-Hans" type="official">牙狼 VANISHING LINE</title>
+</titles>
+<relatedanime>
+<anime id="10278" type="Same Setting">Garo: Honoo no Kokuin</anime>
+<anime id="11459" type="Same Setting">Garo: Guren no Tsuki</anime>
+</relatedanime>
+<similaranime>
+<anime id="4776" approval="6" total="7">Devil May Cry</anime>
+</similaranime>
+<url>http://vanishing-line.jp/</url>
+<creators>
+<name id="8256" type="Chief Animation Direction">Nishizawa Chie</name>
+<name id="15675" type="Character Design">Kishi Tomohiro</name>
+<name id="8477" type="Series Composition">Yoshimura Kiyoko</name>
+<name id="3020" type="Music">Monaca</name>
+<name id="31375" type="Work">MAPPA</name>
+<name id="22703" type="Direction">Park Seong-Hu</name>
+<name id="8462" type="Original Work">Amemiya Keita</name>
+<name id="13539" type="Music">Takada Ryuuichi</name>
+<name id="40798" type="Music">Hirokawa Keiichi</name>
+<name id="8609" type="Chief Animation Direction">Komino Masahiko</name>
+<name id="24755" type="Chief Animation Direction">Akai Masanao</name>
+<name id="4212" type="Chief Animation Direction">Sai Fumihide</name>
+<name id="15675" type="Chief Animation Direction">Kishi Tomohiro</name>
+</creators>
+<description>Highly advanced town - Russel City. While people enjoy its prosperity in the town, there is a huge conspiracy secretly going on which will shake the world. Sword, a man who notices its movement determines to throw himself into battles and reveal the conspiracy, but only to find a clue - "Eldorado". At that time, Sword happens to meet a girl Sophie who has been looking for the meaning of "Eldorado", a message left by her missing brother. These two, attracted by the word "Eldorado", somehow feel invisible ties each other and start to act together. Their journey with mixed feelings now begins.
+Source: crunchyroll</description>
+<ratings>
+<permanent count="378">5.01</permanent>
+<temporary count="379">6.37</temporary>
+</ratings>
+<picture>206136.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20043</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36144</identifier>
+</externalentity>
+<externalentity>
+<identifier>37032</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://vanishing-line.jp/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Garo:_Vanishing_Line</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>牙狼-GARO-_-VANISHING_LINE-</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4695</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>361539</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>anime_garo</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B07K58TLVB</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1244" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-06-01">
+<name>summoning</name>
+<description>Ability to call/materialize some kind of creature.</description>
+</tag>
+<tag id="2094" parentid="2849" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>magic</name>
+<description>Magic is the art of purportedly manipulating aspects of reality either by supernatural means or through knowledge of unknown occult laws.</description>
+<picurl>178878.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2608" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-12-04">
+<name>fetishes</name>
+<description>Everything under fetishes (except for Bishounen and Juujin) is strictly only meant for hentai (18 Restricted) and ecchi anime. In case of ecchi, it must be the main element of the show and not when there`s only some of it, for example, there`s some ecchi in Shinseiki Evangelion, but the fact you get to see Asuka`s pantsu doesn`t warrant it the schoolgirl fetish category. So be careful to which ecchi show you add fetishes; it`s fairly straightforward with hentai, though. Overall, this category tree is to satisfy the needs of people with different fetishes, so they can search for what tingles their tangle; hence why this is restricted to hentai and full ecchi shows. </description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2618" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>collateral damage</name>
+<description>The usually action orientated anime does not only show large amounts of combat and weapon use, but also the incidental massive destruction of property, often due to the inability of the protagonists to aim properly.
+Example: Mecha duking it out in a densely populated urban area.</description>
+</tag>
+<tag id="2622" parentid="2841" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+<picurl>211286.jpg</picurl>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2646" parentid="2849" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>demon</name>
+<description>In Western lore, demons are often described as minions from Hell, generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls. In Eastern lore, on the other hand, they are generally supernatural, often but not always malevolent beings who can be more mischievous than actually evil, or simply supernatural spirits of no specific alignment.</description>
+</tag>
+<tag id="2648" parentid="2849" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-11-04">
+<name>contemporary fantasy</name>
+<description>Contemporary fantasy, also known as modern fantasy or indigenous fantasy, is a sub-genre of fantasy, set in the present day. It is perhaps most popular for its sub-genre, urban fantasy.
+These terms are used to describe stories set in the putative real world (often referred to as consensus reality) in contemporary times, in which magic and magical creatures exist, either living in the interstices of our world or leaking over from alternate worlds. It thus has much in common with, and sometimes overlaps with secret history; a work of fantasy in which the magic could not remain secret or does not have any known relationship to known history would not fit into this subgenre. Occasionally certain contemporary fantasy novels will make reference to pop culture.
+Novels in which modern characters travel into alternate worlds, and all the magical action takes place there (except for the portal required to transport them), are not considered contemporary fantasy. Thus, C.S. Lewis`s The Lion, the Witch and the Wardrobe, where all fantasy events take place in the land of Narnia which is reached via a magic wardrobe, would not count as contemporary fantasy; on the other hand, the part of The Magician`s Nephew, where the Empress Jadis gets to London, tries to take over the Earth and clashes with police and a crowd of cockneys, would qualify as such.
+Contemporary fantasy is also to be distinguished from horror fiction, which also often has contemporary settings. When encountering magical events and creatures, the protagonist of a horror novel is horrified, while the protagonist of a fantasy novel (contemporary or otherwise) is filled with a sense of joy and wonder. Horrifying events may happen, but the fundamental distinction is vital.
+In his preface to That Hideous Strength, one of the earlier works falling within this sub-genre, C.S. Lewis explained why, when writing a tale about "magicians, devils, pantomime animals and planetary angels", he chose to start it with a detailed depiction of narrow-minded academic politics at a provincial English university and the schemes of crooked real estate developers: "I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters and petty kings with which a fairy tale opens have become for us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who first made and enjoyed the tales". The same is true for many of the later works in the genre, which often begin with a seemingly normal scene of modern daily life to then disclose supernatural and magical beings and events hidden behind the scenes.
+Source: wiki</description>
+</tag>
+<tag id="2649" parentid="2849" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-03">
+<name>dark fantasy</name>
+<description>Focus set on darker themes in a fantasy setting, sometimes leaning towards horror elements. Bleak and pessimistic tones often dominate. Dark supernatural beings like vampires may play a significant role.</description>
+</tag>
+<tag id="2684" parentid="2812" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>New York</name>
+<description>The City of New York, often called New York City or simply New York, is the most populous city in the United States. New York City is also the most densely populated major city in the United States. Located at the southern tip of the state of New York, the city is the center of the New York metropolitan area, one of the most populous urban agglomerations in the world.
+Source: Wikipedia</description>
+<picurl>214276.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2773" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-01-18">
+<name>magic circles</name>
+<description>A magic circle is circle or sphere of space marked out by practitioners of many branches of ritual magic. It may be marked physically, drawn in salt or chalk, for example, or merely visualised.
+Traditionally, circles have been used by ritual magicians to form a protective barrier between themselves and what they summoned. Nowadays, circles often have the more benign function of containing and concentrating the energy raised during a ritual. Circles can also be used as barriers for non-magical work such as meditation.
+Generally, as with most magical practices, an incantation is recited stating the purpose and nature of the circle, often repeating an assortment of divine and angelic names.
+Source: wiki</description>
+<picurl>32800.jpg</picurl>
+</tag>
+<tag id="2790" parentid="2605" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-17">
+<name>plot continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.
+A single linear focused plot is highly continuous.
+A truly random plot is highly discontinuous.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2812" parentid="2832" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-15">
+<name>United States</name>
+<description>The United States of America (commonly referred to as the United States, the U.S., the USA, or America) is a federal constitutional republic comprising fifty states and a federal district. The country is situated mostly in central North America, where its forty-eight contiguous states and Washington, D.C., the capital district, lie between the Pacific and Atlantic Oceans, bordered by Canada to the north and Mexico to the south. The state of Alaska is in the north-west of the continent, with Canada to the east and Russia to the west across the Bering Strait. The state of Hawaii is an archipelago in the mid-Pacific. The country also possesses several territories in the Caribbean and Pacific.
+Source: wiki</description>
+<picurl>45504.jpg</picurl>
+</tag>
+<tag id="2832" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Americas</name>
+<description>The Americas, also collectively called America, encompass the totality of the continents of North America and South America. Together they make up most of Earth`s western hemisphere and comprise the New World.
+Source: Wikipedia</description>
+<picurl>192247.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2876" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>religion</name>
+<description>Religion is a collection of belief systems, cultural systems, and worldviews that relate humanity to spirituality and, sometimes, to moral values. Many religions have narratives, symbols, traditions and sacred histories that are intended to give meaning to life or to explain the origin of life or the universe. They tend to derive morality, ethics, religious laws or a preferred lifestyle from their ideas about the cosmos and human nature.</description>
+</tag>
+<tag id="2895" parentid="2608" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>dark-skinned girl</name>
+<description>The anime features a girl with dark skin. A fetish of sorts, since the other protagonists are usually as white-skinned as porcelain dolls.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3040" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>male protagonist</name>
+<description>This anime has a male protagonist.</description>
+</tag>
+<tag id="3339" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2013-02-11">
+<name>demon hunt</name>
+<description>Demons are tracked down and probably killed in this anime.</description>
+</tag>
+<tag id="3411" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>fighting</name>
+<description>For some reason or other one faction has to take it out on some opponent via fight or battle. Typical examples of this are all the anime with "endless pointless fighting" tag.</description>
+<picurl>211266.jpg</picurl>
+</tag>
+<tag id="3589" parentid="4251" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-04">
+<name>multiple protagonists - TO BE MOVED TO PARENT OR DELETED</name>
+<description>This tag is to be moved into its parent tag http://anidb.net/t4251 [ensemble cast], or removed entirely. If the tagged entry meets the updated definition of ensemble cast, tag ensemble cast and delete multiple protagonist. If it does not meet the ensemble cast definition, delete this tag and take no further action.</description>
+</tag>
+<tag id="3822" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-15">
+<name>strong male lead</name>
+<description>The lead male protagonist in this anime shows backbone, is competent, and does not shy away from seemingly insurmountable objectives.</description>
+</tag>
+<tag id="3898" parentid="2849" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-11-11">
+<name>science and magic coexist</name>
+<description>In this anime science and magic do not exclude each other. Magic here is actually very advanced, artefact- and/or ritual-based science.</description>
+</tag>
+<tag id="3953" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-06">
+<name>in medias res</name>
+<description>In medias res, also medias in res (Latin for "into the midst of affairs (lit. into mid-affairs)"), refers to a literary and artistic technique where the narrative starts in the middle of the story instead of from its beginning. It is generally a plot-driven concept rather than a character-driven one; though characters are commonly used to provide the backstory. The characters, setting, and conflict are often introduced through a series of flashbacks or through characters relating past events to each other.
+Probably originating from an oral tradition, the technique is a convention of epic poetry, one of the earliest and most prominent examples in Western literature being Homer`s Odyssey and Iliad. Virgil`s Aeneid began the tradition in literature of imitating Homer, continued in Torquato Tasso`s Jerusalem Delivered, John Milton`s Paradise Lost and "Inferno" from Dante`s Divine Comedy. George Lucas`s Star Wars saga was told using in medias res.</description>
+</tag>
+<tag id="4064" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-13">
+<name>CGI</name>
+<description>Computer-generated imagery (CGI) or computer animation is the art of creating moving images via the use of computers. It is a subfield of computer graphics and animation. Increasingly it is created by means of 3D computer graphics, though 2D computer graphics are still widely used for stylistic, low bandwidth, and faster real-time rendering needs. Sometimes the target of the animation is the computer itself, but sometimes the target is another medium, such as film.</description>
+<picurl>222249.jpg</picurl>
+</tag>
+<tag id="4251" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-20">
+<name>ensemble cast</name>
+<description>A show with an ensemble cast focuses on a larger group of main characters in a single plot narrative; anime containing several segmented plot narratives (such as episodic or arc-based plots) are excluded. As such, it doesn`t really have a "main" or "lead" character; instead, every member of the central main character group plays an important part in the show`s grander scheme; no single character is more important or prominent than the others (equality of importance). Further, subplots (if any) lead by each character in the ensemble have equal weighting in importance (or lack of weight).
+
+* In a show where no single main character is more important or prominent than the others, 4+ main characters is almost always an ensemble cast.
+* A show with 3 main characters of equal importance is likely also an ensemble cast; equality of importance must be considered carefully.
+* A show with 2 main characters of equal importance is generally not an ensemble cast situation; however, on an exception basis where neither main character is considered an antagonist, a 2-main-character anime may be considered an ensemble (e.g. http://anidb.net/a11829 [Kimi no Na wa.]).
+
+Pictured: http://anidb.net/a9043 [K (anime)]</description>
+<picurl>94914.jpg</picurl>
+</tag>
+<tag id="5781" parentid="2849" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-08-01">
+<name>exorcism</name>
+<description>Eviction of demons or other spiritual entities from a person or place which they are believed to have possessed.</description>
+</tag>
+<tag id="5851" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>female protagonist</name>
+<description>The anime has a female protagonist.</description>
+</tag>
+<tag id="5889" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-05">
+<name>magic weapons</name>
+<description>The characters in this anime wield magic weapons.</description>
+</tag>
+<tag id="6068" parentid="6242" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-20">
+<name>human sacrifice</name>
+<description>Human sacrifice is the act of killing one or more human beings as part of a ritual. Throughout the majority of human history, primitive societies have engaged in human sacrifice, generally as a religious act, such as an offering to please or appease deities, spirits, or the deceased. Other uses that have been seen include magic rituals, usually related to black magic or the summoning of demons.</description>
+</tag>
+<tag id="6097" parentid="4064" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-19">
+<name>3D CG animation</name>
+<description>Abbreviation for "three-dimensional computer generated animation" or "computer graphics" (CGI). The traditional 2D art is enhanced by 3D imagery developed through computer modeling software. Done in the right way, this union of 3D in a 2D animated world can be a very beautiful relationship.
+The difference lies in what lacks the traditional 2D animation all together and may give term to something produced entirely with 3D graphics (such as the 2006 remake of "Appleseed" , 2007`s "Vexille", the 2008 addition to the "Biohazard" series and the more well known "Final Fantasy: The Spirits Within" and "Advent Children").</description>
+<picurl>208569.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6242" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-24">
+<name>death</name>
+<description>Death is the state of no longer being alive or the process of ceasing to be alive.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="69924" type="secondary cast in" update="2015-10-24">
+<rating votes="1">2.16</rating>
+<name>Zaruba</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178827.jpg</picture>
+</character>
+<character id="92350" type="main character in" update="2019-05-03">
+<rating votes="2">2.08</rating>
+<name>Sword</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212310.jpg</picture>
+<seiyuu id="236" picture="132757.jpg">Seki Tomokazu</seiyuu>
+</character>
+<character id="92351" type="main character in" update="2019-05-03">
+<rating votes="3">2.18</rating>
+<name>Sophie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212315.jpg</picture>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="92352" type="main character in" update="2019-05-03">
+<rating votes="1">5.95</rating>
+<name>Rook</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212316.jpg</picture>
+<seiyuu id="10776" picture="77627.jpg">Shimazaki Nobunaga</seiyuu>
+</character>
+<character id="92353" type="main character in" update="2019-05-03">
+<rating votes="7">7.44</rating>
+<name>Gina</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212323.jpg</picture>
+<seiyuu id="51" picture="39247.jpg">Koshimizu Ami</seiyuu>
+</character>
+<character id="92354" type="secondary cast in" update="2018-01-25">
+<rating votes="1">2.16</rating>
+<name>Mia</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212320.jpg</picture>
+<seiyuu id="55126" picture="217949.jpg">Misaki Yuuka</seiyuu>
+</character>
+<character id="92355" type="main character in" update="2019-05-03">
+<rating votes="1">3.73</rating>
+<name>Knight</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212318.jpg</picture>
+<seiyuu id="265" picture="25730.jpg">Namikawa Daisuke</seiyuu>
+</character>
+<character id="92356" type="appears in" update="2018-01-08">
+<rating votes="2">6.08</rating>
+<name>Queen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>211739.jpg</picture>
+<seiyuu id="566" picture="25408.jpg">Paku Romi</seiyuu>
+</character>
+<character id="92357" type="appears in" update="2018-08-12">
+<name>Bishop</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2037" picture="244859.jpg">Horiuchi Ken`yuu</seiyuu>
+</character>
+<character id="92358" type="secondary cast in" update="2018-01-25">
+<rating votes="4">7.03</rating>
+<name>Chiaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212322.jpg</picture>
+<seiyuu id="1665" picture="19756.jpg">Takahashi Chiaki</seiyuu>
+</character>
+<character id="92359" type="secondary cast in" update="2018-01-07">
+<rating votes="2">4.85</rating>
+<name>Sister</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>65669.png</picture>
+<seiyuu id="222" picture="19786.jpg">Tanaka Atsuko</seiyuu>
+</character>
+<character id="92360" type="appears in" update="2017-11-19">
+<name>Anne</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="38678" picture="145132.jpg">Horii Chisa</seiyuu>
+</character>
+<character id="92361" type="secondary cast in" update="2018-01-25">
+<rating votes="1">2.16</rating>
+<name>Fei Long</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>212321.jpg</picture>
+<seiyuu id="614" picture="18136.jpg">Hashi Takaya</seiyuu>
+</character>
+<character id="92362" type="appears in" update="2018-07-26">
+<rating votes="1">6.11</rating>
+<name>Mei Fan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>220813.jpg</picture>
+<seiyuu id="411" picture="17475.jpg">Takagaki Ayahi</seiyuu>
+</character>
+<character id="107186" type="appears in" update="2019-11-29">
+<name>Stella</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>241605.jpg</picture>
+<seiyuu id="30257" picture="166714.jpg">Udono Mayu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="191138" update="2017-10-27">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2017-10-28</airdate>
+<rating votes="2">3.69</rating>
+<title xml:lang="ja">BROTHER</title>
+<title xml:lang="en">Brother</title>
+<title xml:lang="x-jat">Brother</title>
+<summary>Sophie continues the search for any clues that may lead her to her brother, Martin. Since the word "El Dorado" was the only thing her brother left behind, she desperately tries to hunt down the elusive Sword in order to gather more information.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>750629</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191139" update="2017-10-22">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2017-10-21</airdate>
+<rating votes="2">5.82</rating>
+<title xml:lang="ja">GINA</title>
+<title xml:lang="en">Gina</title>
+<title xml:lang="x-jat">Gina</title>
+<summary>The beautiful Gina tries to infiltrate her way to the top floor of a building owned by a big-time gang boss, but finds out it`s a bit more than she can handle. She meets up and asks Sword for help, sweetening the deal with a little bait of El Dorado.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>750627</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191140" update="2017-11-07">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2017-10-14</airdate>
+<rating votes="5">4.78</rating>
+<title xml:lang="ja">LUKE</title>
+<title xml:lang="en">Luke</title>
+<title xml:lang="x-jat">Luke</title>
+<summary>The morning after a crazy night, a strange rain begins to fall upon the bewildered construction men, washing away their memories of the entire. A single man stands watch with an umbrella overhead. His name is Luke, a Makai Alchemist.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>750625</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191141" update="2017-11-07">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-10-07</airdate>
+<rating votes="5">7.96</rating>
+<title xml:lang="ja">SWORD</title>
+<title xml:lang="en">Sword</title>
+<title xml:lang="x-jat">Sword</title>
+<summary>Like any huge city, there is darkness beneath the blinding lights and towering buildings of Russel City. Makai Horrors dwell within that darkness and hunt humans. Tonight as well, a girl that is searching for something late at night is being hunted.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>749617</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="191157" update="2017-09-23">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2017-09-30</airdate>
+<title xml:lang="ja">牙狼&amp;lt;GARO&amp;gt;-VANISHING LINE- 放送直前SP</title>
+<title xml:lang="en">Episode S1</title>
+<title xml:lang="x-jat">Garo: Vanishing Line - Housou Chokuzen SP</title>
+</episode>
+<episode id="192118" update="2017-11-24">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2017-11-25</airdate>
+<rating votes="2">3.19</rating>
+<title xml:lang="ja">KNIGHT</title>
+<title xml:lang="en">Knight</title>
+<title xml:lang="x-jat">Knight</title>
+<summary>Sword and Luke chase after the knight of darkness, who was once the powerful Silver Makai Knight. Fei Long and Meifang support them and protect Sophie from Knight`s grasp as Sword and Knight battle it out and the city falls to shambles.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753949</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192119" update="2017-11-18">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2017-11-18</airdate>
+<rating votes="2">7.72</rating>
+<title xml:lang="ja">SCOUT</title>
+<title xml:lang="en">Scout</title>
+<title xml:lang="x-jat">Scout</title>
+<summary>A sudden increase of missing persons cases are plaguing Russel City. All of the victims are young adults heavily involved with the internet. A message about El Dorado is left behind by one of the victims and the crew begins their frantic search.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753947</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192120" update="2017-11-10">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2017-11-11</airdate>
+<rating votes="1">3.60</rating>
+<title xml:lang="ja">INTRICACY</title>
+<title xml:lang="en">Intricacy</title>
+<title xml:lang="x-jat">Intricacy</title>
+<summary>Sophie sticks with Sword, hoping for some new leads on El Dorado. Luke finds out about her and voices his disapproval to Sword. All the while, it seems there is a movie theater where couples go and sometimes one of them disappears by the end credits.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753945</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="192121" update="2017-11-03">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2017-11-04</airdate>
+<rating votes="1">7.91</rating>
+<title xml:lang="ja">RING</title>
+<title xml:lang="en">Ring</title>
+<title xml:lang="x-jat">Ring</title>
+<summary>What is El Dorado? Sophie pesters Sword for an answer and meets Gina for the first time. Perfect timing, as it seems Gina needs both a husband and a child for her next treasure hunt. Gina takes Sophie along to show her just what it is that they do.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>750631</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193155" update="2017-12-22">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2017-12-23</airdate>
+<rating votes="1">5.71</rating>
+<title xml:lang="ja">FAMILY</title>
+<title xml:lang="en">Family</title>
+<title xml:lang="x-jat">Family</title>
+<summary>As the trio continues to travel west, they stumble upon a motel that seems to be set up in the middle of nowhere. Sophie is just happy that she can finally take a shower and have a bed to sleep in, but the other two are much more wary.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753957</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193156" update="2017-12-15">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2017-12-16</airdate>
+<rating votes="1">7.91</rating>
+<title xml:lang="ja">KIDNAP</title>
+<title xml:lang="en">Kidnap</title>
+<title xml:lang="x-jat">Kidnap</title>
+<summary>Sword and Sophie finally make it to San Dell Diós, a small town at the outskirts of the lawless zone. They explore as they wait for their escort to make contact. Unfortunately for them, the town has a plan in place to split the two of them apart.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753955</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193157" update="2017-12-08">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2017-12-09</airdate>
+<rating votes="1">9.57</rating>
+<title xml:lang="ja">REBIRTH</title>
+<title xml:lang="en">Rebirth</title>
+<title xml:lang="x-jat">Rebirth</title>
+<summary>Sword and Sophie have already left. Luke wanders around the ruined townscape, monitoring the barriers surrounding the city and taking care of Horrors that find their way in. As he recovers from his injuries, he contemplates what it is that he must do.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753953</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="193158" update="2017-12-02">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2017-12-02</airdate>
+<rating votes="1">3.60</rating>
+<title xml:lang="ja">SETTING OFF</title>
+<title xml:lang="en">Setting Off</title>
+<title xml:lang="x-jat">Setting Off</title>
+<summary>Russel City works on recovering from the mysterious disaster that hit their city. The diner sends Sword and Sophie out west, to find El Dorado and take down Knight before he has a chance to make a second attack. Sophie travels with Sword in a daze.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753951</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194141" update="2018-03-22">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2018-02-03</airdate>
+<rating votes="1">7.91</rating>
+<title xml:lang="ja">CHANCE MEETING</title>
+<title xml:lang="en">Chance Meeting</title>
+<title xml:lang="x-jat">Chance Meeting</title>
+<summary>The group makes a stop by a seaside town, probably the last city before El Dorado. Everyone`s exhaustion is building up and Sophie gets into a fight with Sword. Separated, Sword happens to meet someone who reminds him a little of himself.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760935</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194142" update="2018-01-27">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2018-01-27</airdate>
+<rating votes="1">9.57</rating>
+<title xml:lang="ja">EL DORADO</title>
+<title xml:lang="en">El Dorado</title>
+<title xml:lang="x-jat">El Dorado</title>
+<summary>While Sword and the others are traveling to El Dorado, the city is busy with its own plans. A lone Horror infiltrates the city in search of greatness and power. However, El Dorado has a tendency to swallow up those who move about carelessly at night.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760933</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194143" update="2018-01-20">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2018-01-20</airdate>
+<rating votes="1">3.60</rating>
+<title xml:lang="ja">RELIC</title>
+<title xml:lang="en">Relic</title>
+<title xml:lang="x-jat">Relic</title>
+<summary>Luke finishes his trial at the Land of Guidance, but goes on a detour to a remote settlement at the elder`s request. There he meets a girl named Stella, who is sure that he is the Demon Sealer that has been foretold in legend. Here, he confirms his will.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760931</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194144" update="2018-01-12">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2018-01-13</airdate>
+<rating votes="1">7.91</rating>
+<title xml:lang="ja">GOD`S WILL</title>
+<title xml:lang="en">God`s Will</title>
+<title xml:lang="x-jat">God`s Will</title>
+<summary>Unsure of the next steps to take, Gina suggests going to the Land of Guidance. The crew heads toward Ferre Salé Dessimo, the Makai Alchemist village of trials. Gina must show the strength of her resolve in order to open the path to the Land of Guidance.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>753959</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194145" update="2017-12-29">
+<epno type="2">S2</epno>
+<length>25</length>
+<airdate>2018-01-06</airdate>
+<title xml:lang="ja">PAUSE</title>
+<title xml:lang="en">Pause</title>
+<title xml:lang="x-jat">Pause</title>
+</episode>
+<episode id="195502" update="2018-03-22">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2018-03-03</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">UTOPIA</title>
+<title xml:lang="en">Utopia</title>
+<title xml:lang="x-jat">Utopia</title>
+<summary>Sophie finally reunites with her brother, but something is wrong. In his mind, she`s still a 10 year old girl and the things he says doesn`t match what she knows. At the same time, Sword also meets someone from the past. An illusion? Or something else?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760943</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195503" update="2018-03-22">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2018-02-24</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">FAREWELL</title>
+<title xml:lang="en">Farewell</title>
+<title xml:lang="x-jat">Farewell</title>
+<summary>Sword, Luke, and Sophie prepare to raid the GarEden Corporation only to find out they are too late, the true El Dorado has reached completion. They rush in, knowing full well that their enemies are waiting for them within. Waiting for Sophie.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760941</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195504" update="2018-03-22">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2018-02-17</airdate>
+<rating votes="1">5.71</rating>
+<title xml:lang="ja">ILLUSION</title>
+<title xml:lang="en">Illusion</title>
+<title xml:lang="x-jat">Illusion</title>
+<summary>Gina separates from the crew to restock her wares, but the remaining members finally enter El Dorado. Sophie wants to find her brother as soon as possible and thinks finding King may be the fastest way. In her search on ELDO NET, she meets a clown...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760939</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195505" update="2018-03-22">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2018-02-10</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">THE SLANT LINED</title>
+<title xml:lang="en">The Slant Lined</title>
+<title xml:lang="x-jat">The Slant Lined</title>
+<summary>The crew is a mountain range away from El Sanvados, but a battalion of Horrors stand in their path. Sword branches off to do some major clean-up, leaving Sophie in Gina`s care. When things get rough against Bishop,  an ally arrives just in time.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760937</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196665" update="2018-03-30">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2018-03-31</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">FUTURE</title>
+<title xml:lang="en">Future</title>
+<title xml:lang="x-jat">Future</title>
+<summary>King has been destroyed, but a few loose ends still need tying up. Per Sword`s request, Luke erases Sophie`s memory so that she can return to her normal life. Her days are peaceful, but in the back of her mind, Sophie knows she has lost something.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760951</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196666" update="2018-03-24">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2018-03-24</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">MY SISTER</title>
+<title xml:lang="en">My Sister</title>
+<title xml:lang="x-jat">My Sister</title>
+<summary>Sword and Sophie go back into ELDO NET, determined to destroy the storage container that holds all the souls abducted by the system. Lizzy helps them on the inside, while Luke and Gina protect the duo from the forces on the outside.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760949</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196667" update="2018-03-22">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2018-03-17</airdate>
+<rating votes="1">5.71</rating>
+<title xml:lang="ja">YU LIGHT</title>
+<title xml:lang="en">Yu Light</title>
+<title xml:lang="x-jat">Yu Light</title>
+<summary>Sophie discovers that she was the trigger that King had prepared for her brother Martin, who carried no inner darkness within him. Now that King has taken over Martin`s body, he moves forward and releases ELDO NET into the world.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760947</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196668" update="2018-03-22">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2018-03-10</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">CAUSE AND EFFECT</title>
+<title xml:lang="en">Cause and Effect</title>
+<title xml:lang="x-jat">Cause and Effect</title>
+<summary>Sophie is heartbroken her brother is already a Horror. Martin finds out the truth about all the work he has been doing for Sophie. While Sword and the others rush to Sophie`s side, Sophie searches for her unstable brother to finish things herself.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>760945</identifier>
+<identifier>garo-vanishing-line-</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

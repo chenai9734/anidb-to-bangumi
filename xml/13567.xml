@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13567" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-12-31</startdate>
+<enddate>2014-12-31</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Shi Wan Ge Leng Xiaohua</title>
+<title xml:lang="en" type="official">One Hundred Thousand Bad Jokes</title>
+<title xml:lang="zh-Hans" type="official">十万个冷笑话</title>
+</titles>
+<relatedanime>
+<anime id="13642" type="Sequel">Shi Wan Ge Leng Xiaohua 2</anime>
+<anime id="14311" type="Other">Shi Wan Ge Leng Xiaohua Di Yi Ji</anime>
+</relatedanime>
+<ratings>
+<permanent count="4">5.98</permanent>
+<temporary count="4">4.75</temporary>
+</ratings>
+<picture>210428.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33195</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>One_Hundred_Thousand_Bad_Jokes_(film)</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>十萬個冷笑話_(電影)</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="193697" update="2017-12-08">
+<epno type="1">1</epno>
+<length>100</length>
+<airdate>2014-12-31</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

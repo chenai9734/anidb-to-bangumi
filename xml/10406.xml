@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10406" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2014-07-06</startdate>
+<enddate>2014-09-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sengoku Basara: Judge End</title>
+<title xml:lang="ja" type="official">戦国BASARA Judge End</title>
+<title xml:lang="en" type="official">Sengoku Basara: End of Judgement</title>
+<title xml:lang="zh-Hant" type="official">战国BASARA Judge End</title>
+</titles>
+<relatedanime>
+<anime id="8203" type="Other">Gekijouban Sengoku Basara: The Last Party</anime>
+</relatedanime>
+<url>http://www.ntv.co.jp/basara_je/</url>
+<creators>
+<name id="900" type="Work">Telecom Animation Film</name>
+<name id="1283" type="Original Work">Capcom</name>
+<name id="105" type="Character Design">Chiba Michinori</name>
+<name id="1465" type="Series Composition">Takahashi Natsuko</name>
+<name id="8892" type="Direction">Sano Takashi</name>
+<name id="1417" type="Chief Animation Direction">Kobayashi Toshimitsu</name>
+<name id="9730" type="Chief Animation Direction">Tokuda Yumenosuke</name>
+</creators>
+<description>Based on the events that unfold in Sengoku BASARA 3 and will also depict the Battle of Sekigahara.
+Source: ANN</description>
+<ratings>
+<permanent count="241">4.25</permanent>
+<temporary count="243">6.17</temporary>
+</ratings>
+<picture>157964.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16105</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23201</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.ntv.co.jp/basara_je/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3456</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348660</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>17382</identifier>
+</externalentity>
+</resource>
+<resource type="32">
+<externalentity>
+<identifier>B00Q1GFXAY</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="2687" parentid="2641" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2011-02-05">
+<name>Sengoku period</name>
+<description>The Sengoku period (戦国時代, Sengoku jidai) or Warring States period in Japanese history was a time of social upheaval, political intrigue, and nearly constant military conflict that lasted roughly from the middle of the 15th century to the beginning of the 17th century. The name "Sengoku" was adopted by Japanese historians in reference to the Warring States period in Chinese history (Sengoku jidai (戦国時代) in Japanese) which preceded the unification of China. Likewise, the Sengoku period in Japan would eventually lead to the unification of political power under the Tokugawa shogunate.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="3327" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-08">
+<name>manly</name>
+<description>Masculinity is possessing qualities or characteristics considered typical of or appropriate to a man.
+Typical characteristics associated with masculinity are: courage, a strong physique, competitive, strong willed, and a sense of honor.
+Very important for being considered masculine however is the ability to inspire respect from your fellow brethren and/or being perceived as a virile man by the opposite sex.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+</tags>
+<characters>
+<character id="5949" type="main character in" update="2017-11-14">
+<rating votes="127">8.63</rating>
+<name>Date Masamune</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Date Masamune (September 5, 1567 - June 27, 1636) was a Japanese samurai of the Azuchi-Momoyama period through early Edo period. Heir to a long line of powerful daimyo in the Tohoku region, he went on to found the modern-day city of Sendai. An outstanding tactician, he was made all the more iconic for his missing eye, for which he was often called dokuganryuu (独眼竜), or the "one-eyed dragon."</description>
+<picture>93620.jpg</picture>
+<seiyuu id="259" picture="17082.jpg">Nakai Kazuya</seiyuu>
+</character>
+<character id="5950" type="main character in" update="2017-11-12">
+<rating votes="82">7.56</rating>
+<name>Sanada Yukimura</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Sanada Saemon-no-Suke Yukimura (真田 左衛門佐 幸村 ,Sanada Yukimura?, 1567 - June 3, 1615) was a Japanese samurai, second son of the Sengoku period daimyo Sanada Masayuki (1544-1611). His proper name was Sanada Nobushige (真田信繁), named after Takeda Shingen`s younger brother Takeda Nobushige (武田信繁), who was a brave and respected warrior. Sanada Yukimura was called "A Hero who may appear once in hundred years" and "crimson demon of war", and Shimazu Tadatsune (島津忠恒, arguably the best performer in the invasion of Korea) called him the "number one warrior in Japan." ("日本一の兵", 兵 means soldier originally, but here it is read as "tsuwamono" which means samurai or warrior, so it is not appropriate to translate it as soldier.)</description>
+<picture>93619.jpg</picture>
+<seiyuu id="381" picture="186189.jpg">Hoshi Souichirou</seiyuu>
+</character>
+<character id="5951" type="secondary cast in" update="2017-11-13">
+<rating votes="29">7.10</rating>
+<name>Takeda Shingen</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Takeda Shingen (武田信玄) (December 1, 1521 - May 13, 1573) of Shinano and Kai Provinces, was a preeminent daimyo or feudal lord with military prestige who sought for the control of Japan in the late stage of Sengoku or "warring states" period.</description>
+<picture>93616.jpg</picture>
+<seiyuu id="343" picture="140430.jpg">Genda Tesshou</seiyuu>
+</character>
+<character id="5952" type="secondary cast in" update="2017-11-13">
+<rating votes="31">6.46</rating>
+<name>Sarutobi Sasuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Sarutobi Sasuke (猿飛佐助) was a famous ninja featured in many Japanese children`s stories from 1911 to 1925. The character was immortalized in contemporary Japanese culture by the 1962 Sampei Shirato comic of the same name. Thereafter the name Sasuke became something of a default ninja moniker.</description>
+<picture>93615.jpg</picture>
+<seiyuu id="139" picture="29283.jpg">Koyasu Takehito</seiyuu>
+</character>
+<character id="5953" type="appears in" update="2017-11-13">
+<rating votes="22">8.10</rating>
+<name>Oda Nobunaga</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93617.jpg</picture>
+</character>
+<character id="5956" type="appears in" update="2017-11-14">
+<rating votes="13">4.54</rating>
+<name>Akechi Mitsuhide</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93613.jpg</picture>
+</character>
+<character id="5957" type="secondary cast in" update="2017-11-13">
+<rating votes="14">6.39</rating>
+<name>Uesugi Kenshin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Uesugi Kenshin (上杉謙信, February 18, 1530-April 19, 1578) was a daimyo who ruled Echigo province in the Sengoku period of Japan.
+He was one of the many powerful lords of the Sengoku period. He is famed for his prowess on the battlefield, the legendary rivalry with Takeda Shingen, his military expertise, strategy and his belief in the god of war — Bishamonten. In fact, many of his followers and others believed him to be the avatar of Bishamonten, and called Kenshin god of war.</description>
+<picture>93610.jpg</picture>
+<seiyuu id="566" picture="25408.jpg">Paku Romi</seiyuu>
+</character>
+<character id="5958" type="secondary cast in" update="2012-09-06">
+<rating votes="52">7.61</rating>
+<name>Kasuga</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93612.jpg</picture>
+<seiyuu id="328" picture="17164.jpg">Kuwatani Natsuko</seiyuu>
+</character>
+<character id="5959" type="secondary cast in" update="2017-11-14">
+<rating votes="18">5.32</rating>
+<name>Maeda Keiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Keiji Maeda, also known as Maeda Toshimasu, is Maeda Toshiie`s and Matsu`s adopted nephew, and occasionally fights with them. He has a mysterious past with Toyotomi Hideyoshi and Takenaka Hanbei. Keiji is what people call a happy-go-lucky man. He enjoys festivals, as well as pulling pranks on Toshiie and others. Despite his demeanor towards his adopted family, he loves them, though sometimes shows resentment towards them due to their objection to his lifestyle. Accompanying him is a small monkey named Yumekichi.</description>
+<picture>93590.jpg</picture>
+<seiyuu id="138" picture="23200.jpg">Morita Masakazu</seiyuu>
+</character>
+<character id="5960" type="appears in" update="2017-11-12">
+<rating votes="12">4.56</rating>
+<name>Maeda Toshiie</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93588.jpg</picture>
+</character>
+<character id="5961" type="secondary cast in" update="2017-11-14">
+<rating votes="57">5.11</rating>
+<name>Oichi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>O-Ichi (1547 - 1583) lived during the Sengoku Period of Japanese history. She was the sister-in-law of Nouhime (daughter of Saitou Dousan) and the younger sister of Oda Nobunaga. Oichi was renowned for her beauty. She was descended from the Taira clan and Fujiwara clan.</description>
+<picture>93614.jpg</picture>
+<seiyuu id="10" picture="226529.jpg">Noto Mamiko</seiyuu>
+</character>
+<character id="18081" type="secondary cast in" update="2012-09-06">
+<rating votes="21">6.12</rating>
+<name>Matsu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93587.jpg</picture>
+<seiyuu id="160" picture="30490.jpg">Kaida Yuuko</seiyuu>
+</character>
+<character id="18082" type="secondary cast in" update="2012-09-06">
+<rating votes="3">9.81</rating>
+<name>Takenaka Hanbee</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Takenaka Hanbee is Hideyoshi Toyotomi`s strategist. He is intelligent and extremely loyal to Hideyoshi. Around his enemies, he is narcissistic, cold and very cruel. Given the chance, he can wipe them all out by swinging his weapon. His favorite methods of assassination are back-stabbing his opponents at his weapon`s reach and snaring his opponents when they are not looking. Despite his physique, he suffers from tuberculosis. He is somewhat similar to Zorro in style and look (the face mask). His weapon is a whipsword.</description>
+<picture>93597.jpg</picture>
+<seiyuu id="194" picture="130580.jpg">Ishida Akira</seiyuu>
+</character>
+<character id="18083" type="secondary cast in" update="2017-11-12">
+<rating votes="2">6.57</rating>
+<name>Toyotomi Hideyoshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93594.jpg</picture>
+<seiyuu id="351" picture="132760.jpg">Okiayu Ryoutarou</seiyuu>
+</character>
+<character id="30976" type="main character in" update="2017-11-12">
+<rating votes="11">6.29</rating>
+<name>Tokugawa Ieyasu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93593.jpg</picture>
+<seiyuu id="382" picture="228600.jpg">Ookawa Tooru</seiyuu>
+</character>
+<character id="30977" type="main character in" update="2017-11-16">
+<rating votes="7">7.64</rating>
+<name>Ishida Mitsunari</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93596.jpg</picture>
+<seiyuu id="236" picture="132757.jpg">Seki Tomokazu</seiyuu>
+</character>
+<character id="40265" type="appears in" update="2012-09-06">
+<rating votes="5">5.53</rating>
+<name>Yumekichi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93589.jpg</picture>
+</character>
+<character id="40266" type="secondary cast in" update="2012-09-06">
+<rating votes="2">1.47</rating>
+<name>Ootani Yoshitsugu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93598.jpg</picture>
+<seiyuu id="32" picture="16618.jpg">Tachiki Fumihiko</seiyuu>
+</character>
+<character id="40267" type="secondary cast in" update="2012-09-06">
+<rating votes="3">7.72</rating>
+<name>Tenkai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93601.jpg</picture>
+<seiyuu id="27" picture="26123.jpg">Hayami Shou</seiyuu>
+</character>
+<character id="40269" type="secondary cast in" update="2012-09-06">
+<rating votes="5">1.21</rating>
+<name>Kobayakawa Hideaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93600.jpg</picture>
+<seiyuu id="14" picture="75503.jpg">Fukuyama Jun</seiyuu>
+</character>
+<character id="40273" type="secondary cast in" update="2017-11-12">
+<rating votes="7">3.77</rating>
+<name>Mouri Motonari</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93591.jpg</picture>
+<seiyuu id="2218" picture="226178.jpg">Nakahara Shigeru</seiyuu>
+</character>
+<character id="40274" type="secondary cast in" update="2017-11-13">
+<rating votes="37">7.50</rating>
+<name>Katakura Kojuurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93586.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+<character id="40276" type="secondary cast in" update="2017-11-13">
+<rating votes="10">7.77</rating>
+<name>Chousokabe Motochika</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93595.jpg</picture>
+<seiyuu id="2219" picture="23794.jpg">Ishino Ryuuzou</seiyuu>
+</character>
+<character id="48525" type="secondary cast in" update="2012-09-06">
+<rating votes="9">2.79</rating>
+<name>Honda Tadakatsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93602.jpg</picture>
+</character>
+<character id="48528" type="secondary cast in" update="2012-09-06">
+<name>Hojo Ujimasa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93605.jpg</picture>
+<seiyuu id="11009" picture="39517.jpg">Miyazawa Tadashi</seiyuu>
+</character>
+<character id="48529" type="secondary cast in" update="2012-09-06">
+<name>Shimazu Yoshihiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93606.jpg</picture>
+<seiyuu id="604" picture="154161.jpg">Ogata Ken`ichi</seiyuu>
+</character>
+<character id="48531" type="secondary cast in" update="2012-09-06">
+<name>Fuma Kotaro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>93608.jpg</picture>
+</character>
+<character id="68184" type="secondary cast in" update="2014-06-30">
+<rating votes="1">3.86</rating>
+<name>Sakai Tadatsugu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>157429.jpg</picture>
+<seiyuu id="4926" picture="25983.jpg">Nishikawa Takanori</seiyuu>
+</character>
+<character id="68185" type="secondary cast in" update="2014-07-15">
+<rating votes="2">10.00</rating>
+<name>Saika Magoichi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>158136.jpg</picture>
+<seiyuu id="74" picture="84835.jpg">Oohara Sayaka</seiyuu>
+</character>
+<character id="68186" type="secondary cast in" update="2014-07-15">
+<rating votes="2">6.43</rating>
+<name>Tsuruhime</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>158137.jpg</picture>
+<seiyuu id="51" picture="39247.jpg">Koshimizu Ami</seiyuu>
+</character>
+<character id="68187" type="secondary cast in" update="2014-07-15">
+<rating votes="1">3.86</rating>
+<name>Kuroda Kanbee</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>158135.jpg</picture>
+<seiyuu id="244" picture="23860.jpg">Koyama Rikiya</seiyuu>
+</character>
+<character id="69872" type="appears in" update="2015-06-20">
+<name>Otomo Sorin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174770.jpg</picture>
+<seiyuu id="221" picture="17039.jpg">Sugiyama Noriaki</seiyuu>
+</character>
+<character id="69873" type="appears in" update="2015-06-20">
+<name>Tachibana Muneshige</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>174771.jpg</picture>
+<seiyuu id="1616" picture="23191.jpg">Inada Tetsu</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="161014" update="2017-12-15">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2014-07-27</airdate>
+<title xml:lang="ja">迷走</title>
+<title xml:lang="en">Astray</title>
+<title xml:lang="x-jat">Meisou</title>
+<summary>Striving to be the best commander of the Takeda that he can be, Sanada Yukimura goes on the warpath to confront Uesugi Kenshin, his lord`s archrival. And Mori Motonari and Otani Yoshitsugu`s plotting takes an interesting turn.
+Source: crunchyroll</summary>
+</episode>
+<episode id="161015" update="2017-12-15">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2014-07-20</airdate>
+<title xml:lang="ja">同盟</title>
+<title xml:lang="en">Alliances</title>
+<title xml:lang="x-jat">Doumei</title>
+<summary>Tokugawa Ieyasu sets out to forge new bonds and alliances, which enrages Ishida Mitsunari and spurs him to take action. And one of the key players that everyone wants on their side is Saika Magoichi and her band of mercenaries.
+Source: crunchyroll</summary>
+</episode>
+<episode id="161016" update="2017-12-15">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2014-07-13</airdate>
+<title xml:lang="ja">乱世</title>
+<title xml:lang="en">Chaos</title>
+<title xml:lang="x-jat">Ransei</title>
+<summary>Ishida Mitsunari mourns Toyotomi Hideyoshi`s death. Tokugawa Ieyasu, now free to seek to rule the country on his own terms, faces off against Takeda Shingen. Meanwhile, Katakura Kojuro desperately seeks to return to Oshu.
+Source: crunchyroll</summary>
+</episode>
+<episode id="161017" update="2017-12-15">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2014-07-06</airdate>
+<title xml:lang="ja">決別</title>
+<title xml:lang="en">Rift</title>
+<title xml:lang="x-jat">Ketsubetsu</title>
+<summary>As Toyotomi Hideyoshi prepares to take Odawara Castle, Date Masamune rides to stop him from taking over the country. And Tokugawa Ieyasu takes matters into his own hands when his plans are thwarted.
+Source: crunchyroll</summary>
+</episode>
+<episode id="161597" update="2017-12-15">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2014-08-24</airdate>
+<title xml:lang="ja">約束</title>
+<title xml:lang="en">Promise</title>
+<title xml:lang="x-jat">Yakusoku</title>
+<summary>The Eastern and Western forces gear up for an epic showdown at Sekigahara. Date Masamune and Sanada Yukimura reaffirm their rivalry. Ishida Mitsunari struggles with his responsibilities and the news of Tenkai`s betrayal.
+Source: crunchyroll</summary>
+</episode>
+<episode id="161598" update="2017-12-15">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2014-08-17</airdate>
+<title xml:lang="ja">闇黒</title>
+<title xml:lang="en">Darkness</title>
+<title xml:lang="x-jat">Ankoku</title>
+<summary>Sanada Yukimura is asked to aid Tenkai and the Oda to rescue O-Ichi from Tokugawa Ieyasu`s clutches. Meanwhile, Ishida Mitsunari begins to get a hint of Otani Yoshitsugu`s duplicitous scheming.
+Source: crunchyroll</summary>
+</episode>
+<episode id="161599" update="2017-12-15">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2014-08-10</airdate>
+<title xml:lang="ja">宣言</title>
+<title xml:lang="en">Declarations</title>
+<title xml:lang="x-jat">Sengen</title>
+<summary>Sanada Yukimura and Date Masamune both do some soul-searching and consider the alliances they are respectively about to join. Chosokabe Motochika and Maeda Keiji find their assumptions about Tokugawa Ieyasu challenged.
+Source: crunchyroll</summary>
+</episode>
+<episode id="161600" update="2017-12-15">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2014-08-03</airdate>
+<title xml:lang="ja">敗北</title>
+<title xml:lang="en">Defeat</title>
+<title xml:lang="x-jat">Haiboku</title>
+<summary>The confrontation over Ishida Mitsunari send Sanada Yukimura and Date Masamune in different directions. Meanwhile, Otani Yoshitsugu sends Chosokabe Motochika south on a recruiting mission.
+Source: crunchyroll</summary>
+</episode>
+<episode id="162089" update="2017-12-15">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2014-09-28</airdate>
+<title xml:lang="ja">標[しるべ]</title>
+<title xml:lang="en">Guide</title>
+<title xml:lang="x-jat">Shirube</title>
+<summary>The long-brewing showdown between Tokugawa Ieyasu and Ishida Mitsunari finally takes place. And when it ends, everyone must work out where to go from there.
+Source: crunchyroll</summary>
+</episode>
+<episode id="162090" update="2017-12-15">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2014-09-21</airdate>
+<title xml:lang="ja">審判</title>
+<title xml:lang="en">Verdict</title>
+<title xml:lang="x-jat">Shinban</title>
+<summary>The preliminary duels play out at Sekigahara: Otani Yoshitsugu vs Katakura Kojuro, Date Masamune vs Ishida Mitsunari, Shimazu Yoshihiro vs Honda Tadakatsu, and Mori Motonari vs Chosokabe Motochika.
+Source: crunchyroll</summary>
+</episode>
+<episode id="162091" update="2017-12-15">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2014-09-14</airdate>
+<title xml:lang="ja">死闘</title>
+<title xml:lang="en">Life-and-Death</title>
+<title xml:lang="x-jat">Shitou</title>
+<summary>With a third party on the field of Sekigahara, East and West both turn their attentions to eliminating this distraction first.
+Source: crunchyroll</summary>
+</episode>
+<episode id="162092" update="2017-12-15">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2014-09-07</airdate>
+<title xml:lang="ja">関ヶ原</title>
+<title xml:lang="en">Sekigahara</title>
+<title xml:lang="x-jat">Sekigahara</title>
+<summary>The battle at Sekigahara gets underway as two seemingly monolithic armies collide, but things get complicated as the diverging interests of the individual generals begin to show.
+Source: crunchyroll</summary>
+</episode>
+<episode id="162879" update="2014-09-25">
+<epno type="3">C2</epno>
+<length>1</length>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="162880" update="2014-09-25">
+<epno type="3">C1</epno>
+<length>1</length>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

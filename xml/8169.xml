@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8169" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2010-05-26</startdate>
+<enddate>2010-05-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Everlasting Note</title>
+<title xml:lang="ja" type="official">everlasting note</title>
+</titles>
+<relatedanime>
+<anime id="7311" type="Other">Goulart Knights: Evoked the Beginning Black</anime>
+</relatedanime>
+<url>http://www.goulart.jp/cd.html</url>
+<ratings>
+<permanent count="20">2.63</permanent>
+<temporary count="20">4.45</temporary>
+</ratings>
+<picture>61313.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://www.goulart.jp/cd.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Everlasting_note</identifier>
+</externalentity>
+<externalentity>
+<identifier>グラール騎士団#.E3.82.B7.E3.83.B3.E3.82.B0.E3.83.AB</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=aBUEtZYnqFo</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="25670" type="main character in" update="2010-12-12">
+<rating votes="1">8.00</rating>
+<name>Regulus</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60660.jpg</picture>
+</character>
+<character id="25671" type="main character in" update="2010-12-12">
+<rating votes="2">7.42</rating>
+<name>Albireo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60655.jpg</picture>
+</character>
+<character id="25672" type="main character in" update="2010-12-12">
+<rating votes="2">3.56</rating>
+<name>Nile</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60659.jpg</picture>
+</character>
+<character id="25673" type="main character in" update="2010-12-12">
+<rating votes="1">8.00</rating>
+<name>Hokuto</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60657.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="126355" update="2010-12-24">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2010-05-26</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

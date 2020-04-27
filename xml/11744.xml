@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11744" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2016-02-24</startdate>
+<enddate>2016-02-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Too Many Cooks Spoil the Broth.</title>
+<title xml:lang="en" type="synonym">Too Many Captains Will Steer the Ship Up A Mountain</title>
+<title xml:lang="ja" type="official">Too many cooks spoil the broth.(船頭多くして船山に上る)</title>
+</titles>
+<relatedanime>
+<anime id="8101" type="Other">Tiger &amp; Bunny</anime>
+</relatedanime>
+<url>http://www.tigerandbunny.net/event/sotb_goods.html</url>
+<ratings>
+<permanent count="19">3.30</permanent>
+<temporary count="19">5.36</temporary>
+</ratings>
+<picture>179035.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30537</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tigerandbunny.net/event/sotb_goods.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="172951" update="2015-10-30">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>2016-02-24</airdate>
+<title xml:lang="en">Special</title>
+</episode>
+</episodes>
+</anime>

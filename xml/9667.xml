@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9667" restricted="false">
+<type>TV Series</type>
+<episodecount>151</episodecount>
+<startdate>2013-04-06</startdate>
+<enddate>2016-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tetsujin 28 Gou Gao!</title>
+<title xml:lang="ja" type="official">鉄人28号ガオ!</title>
+<title xml:lang="zh-Hans" type="official">铁人28号GAO</title>
+</titles>
+<relatedanime>
+<anime id="1670" type="Alternative Setting">Tetsujin 28-gou</anime>
+<anime id="1674" type="Alternative Setting">Tetsujin 28-gou (2004)</anime>
+</relatedanime>
+<url>http://www.fujitv.co.jp/b_hp/gao/</url>
+<creators>
+<name id="54589" type="Character Design">Negishi Machiko</name>
+<name id="7370" type="Series Composition">Hirota Mitsutaka</name>
+<name id="741" type="Work">Fuji TV</name>
+<name id="775" type="Work">Eiken</name>
+<name id="3633" type="Original Work">Yokoyama Mitsuteru</name>
+<name id="4390" type="Direction">Yamazaki Tatsuji</name>
+<name id="54592" type="Music">Satou Futoshi</name>
+</creators>
+<ratings>
+<permanent count="1">1.75</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>131167.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15108</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>19445</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.fujitv.co.jp/b_hp/gao/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>鉄人28号ガオ!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2989</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>345274</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>16020</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="35805" type="main character in" update="2011-08-21">
+<name>Kaneda Shoutarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1248.gif</picture>
+<seiyuu id="40820" picture="160965.jpg">Saitou Tomomi</seiyuu>
+</character>
+<character id="35806" type="secondary cast in" update="2011-08-21">
+<name>Shikishima Hakase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1260.gif</picture>
+<seiyuu id="17523" picture="223264.jpg">Yamamoto Kanehira</seiyuu>
+</character>
+<character id="35807" type="secondary cast in" update="2011-08-21">
+<name>Ootsuka Shochou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1252.gif</picture>
+<seiyuu id="293" picture="185431.jpg">Matsuyama Takashi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="153458" update="2016-01-20">
+<epno type="1">1</epno>
+<length>8</length>
+<airdate>2013-04-06</airdate>
+<title xml:lang="ja">金田正太郎危機一髪!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Kaneda Shoutarou Kikiippatsu!</title>
+</episode>
+<episode id="153459" update="2016-01-20">
+<epno type="1">3</epno>
+<length>8</length>
+<airdate>2013-04-20</airdate>
+<title xml:lang="ja">新作ゲーム危機一髪!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Shinsaku Game Kikiippatsu!</title>
+</episode>
+<episode id="153460" update="2016-01-20">
+<epno type="1">4</epno>
+<length>8</length>
+<airdate>2013-04-27</airdate>
+<title xml:lang="ja">マグロ危機一髪!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Maguro Kikiippatsu!</title>
+</episode>
+<episode id="153461" update="2016-01-20">
+<epno type="1">5</epno>
+<length>8</length>
+<airdate>2013-05-04</airdate>
+<title xml:lang="ja">こどもの日危機一髪!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Kodomo no Hi Kikiippatsu!</title>
+</episode>
+<episode id="153462" update="2016-01-20">
+<epno type="1">26</epno>
+<length>8</length>
+<airdate>2013-10-05</airdate>
+<title xml:lang="ja">新鉄人危機一髪!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Shin Tetsujin Kikiippatsu!</title>
+</episode>
+<episode id="153463" update="2016-01-20">
+<epno type="1">6</epno>
+<length>8</length>
+<airdate>2013-05-11</airdate>
+<title xml:lang="ja">ドッジボール危機一髪!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Dodge Ball Kikiippatsu!</title>
+</episode>
+<episode id="153464" update="2016-01-20">
+<epno type="1">8</epno>
+<length>8</length>
+<airdate>2013-05-25</airdate>
+<title xml:lang="ja">敷島家危機一髪!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Shikishima-ke Kikiippatsu!</title>
+</episode>
+<episode id="153465" update="2016-01-20">
+<epno type="1">9</epno>
+<length>8</length>
+<airdate>2013-06-01</airdate>
+<title xml:lang="ja">行列ラーメン危機一髪!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Gyouretsu Ramen Kikiippatsu!</title>
+</episode>
+<episode id="153466" update="2016-01-20">
+<epno type="1">7</epno>
+<length>8</length>
+<airdate>2013-05-18</airdate>
+<title xml:lang="ja">鉄人レース危機一髪!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Tetsujin Race Kikiippatsu!</title>
+</episode>
+<episode id="153467" update="2016-01-20">
+<epno type="1">11</epno>
+<length>8</length>
+<airdate>2013-06-15</airdate>
+<title xml:lang="ja">雨の日も危機一髪!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Ame no Hi mo Kikiippatsu!</title>
+</episode>
+<episode id="153468" update="2016-01-20">
+<epno type="1">10</epno>
+<length>8</length>
+<airdate>2013-06-08</airdate>
+<title xml:lang="ja">ご近所危機一髪!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Gokinjo Kikiippatsu!</title>
+</episode>
+<episode id="153469" update="2016-01-20">
+<epno type="1">2</epno>
+<length>8</length>
+<airdate>2013-04-13</airdate>
+<title xml:lang="ja">続・金田正太郎危機一髪!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Zoku Kaneda Shoutarou Kikiippatsu!</title>
+</episode>
+<episode id="153470" update="2016-01-20">
+<epno type="1">12</epno>
+<length>8</length>
+<airdate>2013-06-22</airdate>
+<title xml:lang="ja">鳥が出奔危機一髪!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Tori ga Shuppon Kikiippatsu!</title>
+</episode>
+<episode id="153471" update="2016-01-20">
+<epno type="1">13</epno>
+<length>8</length>
+<airdate>2013-06-29</airdate>
+<title xml:lang="ja">プール開き危機一髪!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Pool-biraki Kikiippatsu!</title>
+</episode>
+<episode id="153472" update="2016-01-20">
+<epno type="1">14</epno>
+<length>8</length>
+<airdate>2013-07-06</airdate>
+<title xml:lang="ja">七夕危機一髪!</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Tanabata Kikiippatsu!</title>
+</episode>
+<episode id="153473" update="2016-01-20">
+<epno type="1">15</epno>
+<length>8</length>
+<airdate>2013-07-13</airdate>
+<title xml:lang="ja">事件ばっかり危機一髪!</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Jiken Bakkari Kikiippatsu!</title>
+</episode>
+<episode id="153474" update="2016-01-20">
+<epno type="1">16</epno>
+<length>8</length>
+<airdate>2013-07-20</airdate>
+<title xml:lang="ja">通信簿危機一髪!</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Tsuushinbo Kikiippatsu!</title>
+</episode>
+<episode id="153475" update="2016-01-20">
+<epno type="1">18</epno>
+<length>8</length>
+<airdate>2013-08-03</airdate>
+<title xml:lang="ja">別荘危機一髪!</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Bessou Kikiippatsu!</title>
+</episode>
+<episode id="153476" update="2016-01-20">
+<epno type="1">20</epno>
+<length>8</length>
+<airdate>2013-08-17</airdate>
+<title xml:lang="ja">スイカ危機一髪!</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Suika Kikiippatsu!</title>
+</episode>
+<episode id="153477" update="2016-01-20">
+<epno type="1">21</epno>
+<length>8</length>
+<airdate>2013-08-24</airdate>
+<title xml:lang="ja">夏休み最終日危機一髪!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Natsuyasumi Saishuubi Kikiippatsu!</title>
+</episode>
+<episode id="153478" update="2016-01-20">
+<epno type="1">22</epno>
+<length>8</length>
+<airdate>2013-09-07</airdate>
+<title xml:lang="ja">新学期危機一髪!</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Shingakki Kikiippatsu!</title>
+</episode>
+<episode id="153479" update="2016-01-20">
+<epno type="1">23</epno>
+<length>8</length>
+<airdate>2013-09-14</airdate>
+<title xml:lang="ja">秋祭り危機一髪!</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Akimatsuri Kikiippatsu!</title>
+</episode>
+<episode id="153480" update="2016-01-20">
+<epno type="1">24</epno>
+<length>8</length>
+<airdate>2013-09-21</airdate>
+<title xml:lang="ja">遠足危機一髪!</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Ensoku Kikiippatsu!</title>
+</episode>
+<episode id="153481" update="2016-01-20">
+<epno type="1">25</epno>
+<length>8</length>
+<airdate>2013-09-28</airdate>
+<title xml:lang="ja">さらば鉄人危機一髪!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Saraba Tetsujin Kikiippatsu!</title>
+</episode>
+<episode id="153482" update="2016-01-20">
+<epno type="1">17</epno>
+<length>8</length>
+<airdate>2013-07-27</airdate>
+<title xml:lang="ja">臨海学校危機一髪!</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Rinkai Gakkou Kikiippatsu!</title>
+</episode>
+<episode id="153483" update="2016-01-20">
+<epno type="1">19</epno>
+<length>8</length>
+<airdate>2013-08-10</airdate>
+<title xml:lang="ja">ベビーシッター危機一髪!</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Babysitter Kikiippatsu!</title>
+</episode>
+<episode id="156864" update="2016-01-20">
+<epno type="1">38</epno>
+<length>8</length>
+<airdate>2014-01-04</airdate>
+<title xml:lang="ja">鉄人28号賀正! 危機一髪!</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Tetsujin 28 Gou Gashou! Kikiippatsu!</title>
+</episode>
+<episode id="156865" update="2016-01-20">
+<epno type="1">37</epno>
+<length>8</length>
+<airdate>2013-12-21</airdate>
+<title xml:lang="ja">クリスマス危機一髪!</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Christmas Kikiippatsu!</title>
+</episode>
+<episode id="156866" update="2016-01-20">
+<epno type="1">36</epno>
+<length>8</length>
+<airdate>2013-12-14</airdate>
+<title xml:lang="ja">リモコン危機一髪!</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="156867" update="2016-01-20">
+<epno type="1">35</epno>
+<length>8</length>
+<airdate>2013-12-07</airdate>
+<title xml:lang="ja">猫ちゃん危機一髪!</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Neko-chan Kikiippatsu!</title>
+</episode>
+<episode id="156868" update="2016-01-20">
+<epno type="1">34</epno>
+<length>8</length>
+<airdate>2013-11-30</airdate>
+<title xml:lang="ja">敷島研究所危機一髪!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Shikishima Kenkyuusho Kikiippatsu!</title>
+</episode>
+<episode id="156869" update="2016-01-20">
+<epno type="1">33</epno>
+<length>8</length>
+<airdate>2013-11-23</airdate>
+<title xml:lang="ja">ピッカピカ鉄人危機一髪!</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Pikkapika Tetsujin Kikiippatsu!</title>
+</episode>
+<episode id="156870" update="2016-01-20">
+<epno type="1">32</epno>
+<length>8</length>
+<airdate>2013-11-16</airdate>
+<title xml:lang="ja">秋の俳句危機一髪!</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Aki no Haiku Kikiippatsu!</title>
+</episode>
+<episode id="156871" update="2016-01-20">
+<epno type="1">31</epno>
+<length>8</length>
+<airdate>2013-11-09</airdate>
+<title xml:lang="ja">秋のスイーツ危機一髪!</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Aki no Sweets Kikiippatsu!</title>
+</episode>
+<episode id="156872" update="2016-01-20">
+<epno type="1">30</epno>
+<length>8</length>
+<airdate>2013-11-02</airdate>
+<title xml:lang="ja">ログハウス危機一髪!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Log House Kikiippatsu!</title>
+</episode>
+<episode id="156873" update="2016-01-20">
+<epno type="1">29</epno>
+<length>8</length>
+<airdate>2013-10-26</airdate>
+<title xml:lang="ja">再会危機一髪!</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Saikai Kikiippatsu!</title>
+</episode>
+<episode id="156874" update="2016-01-20">
+<epno type="1">28</epno>
+<length>8</length>
+<airdate>2013-10-19</airdate>
+<title xml:lang="ja">友情危機一髪!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Yuujou Kikiippatsu!</title>
+</episode>
+<episode id="156875" update="2016-01-20">
+<epno type="1">27</epno>
+<length>8</length>
+<airdate>2013-10-12</airdate>
+<title xml:lang="ja">走れ正太郎危機一髪!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Hashire Shoutarou Kikiippatsu!</title>
+</episode>
+<episode id="162437" update="2016-01-20">
+<epno type="1">75</epno>
+<length>8</length>
+<airdate>2014-09-20</airdate>
+<title xml:lang="ja">続・授業危機一髪!</title>
+<title xml:lang="en">Episode 75</title>
+<title xml:lang="x-jat">Zoku Jugyou Kikiippatsu!</title>
+</episode>
+<episode id="162438" update="2016-01-20">
+<epno type="1">74</epno>
+<length>8</length>
+<airdate>2014-09-13</airdate>
+<title xml:lang="ja">お月見危機一髪!</title>
+<title xml:lang="en">Episode 74</title>
+<title xml:lang="x-jat">Otsukimi Kikiippatsu!</title>
+</episode>
+<episode id="162439" update="2016-01-20">
+<epno type="1">73</epno>
+<length>8</length>
+<airdate>2014-09-06</airdate>
+<title xml:lang="ja">商店街危機一髪!</title>
+<title xml:lang="en">Episode 73</title>
+<title xml:lang="x-jat">Shoutengai Kikiippatsu!</title>
+</episode>
+<episode id="162440" update="2016-01-20">
+<epno type="1">72</epno>
+<length>8</length>
+<airdate>2014-08-30</airdate>
+<title xml:lang="ja">ブロードウェイ危機一髪!</title>
+<title xml:lang="en">Episode 72</title>
+<title xml:lang="x-jat">Broadway Kikiippatsu!</title>
+</episode>
+<episode id="162441" update="2016-01-20">
+<epno type="1">71</epno>
+<length>8</length>
+<airdate>2014-08-23</airdate>
+<title xml:lang="ja">夏のスイーツ危機一髪!</title>
+<title xml:lang="en">Episode 71</title>
+<title xml:lang="x-jat">Natsu no Sweets Kikiippatsu!</title>
+</episode>
+<episode id="162442" update="2016-01-20">
+<epno type="1">70</epno>
+<length>8</length>
+<airdate>2014-08-16</airdate>
+<title xml:lang="ja">古本市危機一髪!</title>
+<title xml:lang="en">Episode 70</title>
+<title xml:lang="x-jat">Furuhon Ichi Kikiippatsu!</title>
+</episode>
+<episode id="162443" update="2016-01-20">
+<epno type="1">69</epno>
+<length>8</length>
+<airdate>2014-08-19</airdate>
+<title xml:lang="ja">ファイア2世危機一髪!</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="x-jat">Fire 2-sei Kikiippatsu!</title>
+</episode>
+<episode id="162444" update="2016-01-20">
+<epno type="1">68</epno>
+<length>8</length>
+<airdate>2014-08-02</airdate>
+<title xml:lang="ja">こども夏祭り危機一髪!</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Kodomo Natsumatsuri Kikiippatsu!</title>
+</episode>
+<episode id="162445" update="2016-01-20">
+<epno type="1">67</epno>
+<length>8</length>
+<airdate>2014-07-26</airdate>
+<title xml:lang="ja">新ログハウス危機一髪!</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">Shin Log House Kikiippatsu!</title>
+</episode>
+<episode id="162446" update="2016-01-20">
+<epno type="1">66</epno>
+<length>8</length>
+<airdate>2014-07-19</airdate>
+<title xml:lang="ja">今年も通信簿で危機一髪!</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Konnen mo Tsuushinbo de Kikiippatsu!</title>
+</episode>
+<episode id="162447" update="2016-01-20">
+<epno type="1">65</epno>
+<length>8</length>
+<airdate>2014-07-12</airdate>
+<title xml:lang="ja">また再会危機一髪!</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">Mata Saikai Kikiippatsu!</title>
+</episode>
+<episode id="162448" update="2016-01-20">
+<epno type="1">64</epno>
+<length>8</length>
+<airdate>2014-07-05</airdate>
+<title xml:lang="ja">プロポーズ危機一髪!</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Propose Kikiippatsu!</title>
+</episode>
+<episode id="162449" update="2016-01-20">
+<epno type="1">63</epno>
+<length>8</length>
+<airdate>2014-06-28</airdate>
+<title xml:lang="ja">正太郎はどこだ危機一髪!</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">Shoutarou wa Doko Da Kikiippatsu!</title>
+</episode>
+<episode id="162450" update="2016-01-20">
+<epno type="1">62</epno>
+<length>8</length>
+<airdate>2014-06-21</airdate>
+<title xml:lang="ja">敷島鉄男危機一髪!</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Shikishima Tetsuo Kikiippatsu!</title>
+</episode>
+<episode id="162451" update="2016-01-20">
+<epno type="1">61</epno>
+<length>8</length>
+<airdate>2014-06-14</airdate>
+<title xml:lang="ja">理科の授業危機一髪!</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Rika no Jugyou Kikiippatsu!</title>
+</episode>
+<episode id="162452" update="2016-01-20">
+<epno type="1">60</epno>
+<length>8</length>
+<airdate>2014-06-07</airdate>
+<title xml:lang="ja">あこがれ危機一髪!</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Akogare Kikiippatsu!</title>
+</episode>
+<episode id="162453" update="2016-01-20">
+<epno type="1">59</epno>
+<length>8</length>
+<airdate>2014-05-31</airdate>
+<title xml:lang="ja">朝礼危機一髪!</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Chourei Kikiippatsu!</title>
+</episode>
+<episode id="162454" update="2016-01-20">
+<epno type="1">58</epno>
+<length>8</length>
+<airdate>2014-05-24</airdate>
+<title xml:lang="ja">クラスメイト危機一髪!</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Classmate Kikiippatsu!</title>
+</episode>
+<episode id="162455" update="2016-01-20">
+<epno type="1">57</epno>
+<length>8</length>
+<airdate>2014-05-17</airdate>
+<title xml:lang="ja">またもやリモコン危機一髪!</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Matamoya RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="162456" update="2016-01-20">
+<epno type="1">56</epno>
+<length>8</length>
+<airdate>2014-05-10</airdate>
+<title xml:lang="ja">通りすがりの危機一髪!</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Toorisugari no Kikiippatsu!</title>
+</episode>
+<episode id="162457" update="2016-01-20">
+<epno type="1">55</epno>
+<length>8</length>
+<airdate>2014-05-03</airdate>
+<title xml:lang="ja">ワールドワイド危機一髪!</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Worldwide Kikiippatsu!</title>
+</episode>
+<episode id="162458" update="2016-01-20">
+<epno type="1">54</epno>
+<length>8</length>
+<airdate>2014-04-26</airdate>
+<title xml:lang="ja">カッコいい金田正太郎危機一髪!</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Kakkoii Kaneda Shoutarou Kikiippatsu!</title>
+</episode>
+<episode id="162459" update="2016-01-20">
+<epno type="1">53</epno>
+<length>8</length>
+<airdate>2014-04-19</airdate>
+<title xml:lang="ja">跳べ! 正太郎危機一髪!</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Tobe! Shoutarou Kikiippatsu!</title>
+</episode>
+<episode id="162460" update="2016-01-20">
+<epno type="1">52</epno>
+<length>8</length>
+<airdate>2014-04-12</airdate>
+<title xml:lang="ja">掃除当番危機一髪!</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Soujitouban Kikiippatsu!</title>
+</episode>
+<episode id="162461" update="2016-01-20">
+<epno type="1">51</epno>
+<length>8</length>
+<airdate>2014-04-05</airdate>
+<title xml:lang="ja">頑張れ金田正太郎危機一髪!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Ganbare Kaneda Shoutarou Kikiippatsu!</title>
+</episode>
+<episode id="162462" update="2016-01-20">
+<epno type="1">50</epno>
+<length>8</length>
+<airdate>2014-03-29</airdate>
+<title xml:lang="ja">鉄人28号超・危機一髪!</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Tetsujin 28 Gou Chou Kikiippatsu!</title>
+</episode>
+<episode id="162463" update="2016-01-20">
+<epno type="1">49</epno>
+<length>8</length>
+<airdate>2014-03-22</airdate>
+<title xml:lang="ja">事件ぎっしり危機一髪!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Jiken Gisshiri Kikiippatsu!</title>
+</episode>
+<episode id="162464" update="2016-01-20">
+<epno type="1">48</epno>
+<length>8</length>
+<airdate>2014-03-15</airdate>
+<title xml:lang="ja">算数テスト危機一髪!</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Sansuu Test Kikiippatsu!</title>
+</episode>
+<episode id="162465" update="2016-01-20">
+<epno type="1">47</epno>
+<length>8</length>
+<airdate>2014-03-08</airdate>
+<title xml:lang="ja">授業の質問危機一髪!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Jugyou no Shitsumon Kikiippatsu!</title>
+</episode>
+<episode id="162466" update="2016-01-20">
+<epno type="1">46</epno>
+<length>8</length>
+<airdate>2014-03-01</airdate>
+<title xml:lang="ja">またまたリモコン危機一髪!</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Matamata RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="162467" update="2016-01-20">
+<epno type="1">45</epno>
+<length>8</length>
+<airdate>2014-02-22</airdate>
+<title xml:lang="ja">市民マラソン危機一髪!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Shimin Marathon Kikiippatsu!</title>
+</episode>
+<episode id="162468" update="2016-01-20">
+<epno type="1">44</epno>
+<length>8</length>
+<airdate>2014-02-15</airdate>
+<title xml:lang="ja">初恋危機一髪!</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Hatsukoi Kikiippatsu!</title>
+</episode>
+<episode id="162469" update="2016-01-20">
+<epno type="1">43</epno>
+<length>8</length>
+<airdate>2014-02-08</airdate>
+<title xml:lang="ja">ニセリモコン危機一髪!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Nise RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="162470" update="2016-01-20">
+<epno type="1">42</epno>
+<length>8</length>
+<airdate>2014-02-01</airdate>
+<title xml:lang="ja">節分危機一髪!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Setsubun Kikiippatsu!</title>
+</episode>
+<episode id="162471" update="2016-01-20">
+<epno type="1">41</epno>
+<length>8</length>
+<airdate>2014-01-25</airdate>
+<title xml:lang="ja">風邪ひき正太郎危機一髪!</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Kazehiki Shoutarou Kikiippatsu!</title>
+</episode>
+<episode id="162472" update="2016-01-20">
+<epno type="1">40</epno>
+<length>8</length>
+<airdate>2014-01-18</airdate>
+<title xml:lang="ja">またリモコン危機一髪!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Mata RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="162473" update="2016-01-20">
+<epno type="1">39</epno>
+<length>8</length>
+<airdate>2014-01-11</airdate>
+<title xml:lang="ja">いい夫婦危機一髪!</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Ii Fuufu Kikiippatsu!</title>
+</episode>
+<episode id="164132" update="2016-01-20">
+<epno type="1">76</epno>
+<length>8</length>
+<airdate>2014-09-27</airdate>
+<title xml:lang="ja">さらばファイア二世危機一髪!</title>
+<title xml:lang="en">Episode 76</title>
+<title xml:lang="x-jat">Saraba Fire Nisei Kikiippatsu!</title>
+</episode>
+<episode id="164133" update="2016-01-20">
+<epno type="1">82</epno>
+<length>8</length>
+<airdate>2014-11-08</airdate>
+<title xml:lang="ja">泥んこ鉄人危機一髪!</title>
+<title xml:lang="en">Episode 82</title>
+<title xml:lang="x-jat">Doronko Tetsujin Kikiippatsu!</title>
+</episode>
+<episode id="164134" update="2016-01-20">
+<epno type="1">81</epno>
+<length>8</length>
+<airdate>2014-11-01</airdate>
+<title xml:lang="ja">またしてもリモコン危機一髪!</title>
+<title xml:lang="en">Episode 81</title>
+<title xml:lang="x-jat">Mata Shite mo RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="164135" update="2016-01-20">
+<epno type="1">80</epno>
+<length>8</length>
+<airdate>2014-10-25</airdate>
+<title xml:lang="ja">ハロウィン危機一髪!</title>
+<title xml:lang="en">Episode 80</title>
+<title xml:lang="x-jat">Halloween Kikiippatsu!</title>
+</episode>
+<episode id="164136" update="2016-01-20">
+<epno type="1">79</epno>
+<length>8</length>
+<airdate>2014-10-18</airdate>
+<title xml:lang="ja">シェイプアップ危機一髪!</title>
+<title xml:lang="en">Episode 79</title>
+<title xml:lang="x-jat">Shape Up Kikiippatsu!</title>
+</episode>
+<episode id="164137" update="2016-01-20">
+<epno type="1">78</epno>
+<length>8</length>
+<airdate>2014-10-11</airdate>
+<title xml:lang="ja">グルメいっぱい危機一髪!</title>
+<title xml:lang="en">Episode 78</title>
+<title xml:lang="x-jat">Gourmet Ippai Kikiippatsu!</title>
+</episode>
+<episode id="164138" update="2016-01-20">
+<epno type="1">77</epno>
+<length>8</length>
+<airdate>2014-10-04</airdate>
+<title xml:lang="ja">秋の遠足危機一髪!</title>
+<title xml:lang="en">Episode 77</title>
+<title xml:lang="x-jat">Aki no Ensoku Kikiippatsu!</title>
+</episode>
+<episode id="164691" update="2016-01-20">
+<epno type="1">86</epno>
+<length>8</length>
+<airdate>2014-12-06</airdate>
+<title xml:lang="ja">大掃除危機一髪!</title>
+<title xml:lang="en">Episode 86</title>
+<title xml:lang="x-jat">Oosouji Kikiippatsu!</title>
+</episode>
+<episode id="164692" update="2016-01-20">
+<epno type="1">85</epno>
+<length>8</length>
+<airdate>2014-11-29</airdate>
+<title xml:lang="ja">続・別荘危機一髪!</title>
+<title xml:lang="en">Episode 85</title>
+<title xml:lang="x-jat">Zoku Bessou Kikiippatsu!</title>
+</episode>
+<episode id="164693" update="2016-01-20">
+<epno type="1">84</epno>
+<length>8</length>
+<airdate>2014-11-22</airdate>
+<title xml:lang="ja">ウェディングケーキ危機一髪!</title>
+<title xml:lang="en">Episode 84</title>
+<title xml:lang="x-jat">Wedding Cake Kikiippatsu!</title>
+</episode>
+<episode id="164694" update="2016-01-20">
+<epno type="1">83</epno>
+<length>8</length>
+<airdate>2014-11-15</airdate>
+<title xml:lang="ja">写生大会危機一髪!</title>
+<title xml:lang="en">Episode 83</title>
+<title xml:lang="x-jat">Shasei Taikai Kikiippatsu!</title>
+</episode>
+<episode id="164953" update="2016-01-20">
+<epno type="1">90</epno>
+<length>8</length>
+<airdate>2015-01-10</airdate>
+<title xml:lang="ja">今年も鉄人28号賀正! 危機一髪!</title>
+<title xml:lang="en">Episode 90</title>
+<title xml:lang="x-jat">Konnen mo Tetsujin 28 Gou Gashou! Kikiippatsu!</title>
+</episode>
+<episode id="164954" update="2016-01-20">
+<epno type="1">89</epno>
+<length>8</length>
+<airdate>2014-12-27</airdate>
+<title xml:lang="ja">行列つけ麺危機一髪!</title>
+<title xml:lang="en">Episode 89</title>
+<title xml:lang="x-jat">Gyouretsu Tsukemen Kikiippatsu!</title>
+</episode>
+<episode id="164955" update="2016-01-20">
+<epno type="1">88</epno>
+<length>8</length>
+<airdate>2014-12-20</airdate>
+<title xml:lang="ja">サンタクロース危機一髪!</title>
+<title xml:lang="en">Episode 88</title>
+<title xml:lang="x-jat">Santa Claus Kikiippatsu!</title>
+</episode>
+<episode id="164956" update="2016-01-20">
+<epno type="1">87</epno>
+<length>8</length>
+<airdate>2014-12-13</airdate>
+<title xml:lang="ja">かけもちバイト危機一髪!</title>
+<title xml:lang="en">Episode 87</title>
+<title xml:lang="x-jat">Kakemochi Baito Kikiippatsu!</title>
+</episode>
+<episode id="171183" update="2016-01-20">
+<epno type="1">93</epno>
+<length>8</length>
+<airdate>2015-01-31</airdate>
+<title xml:lang="ja">続・朝礼危機一髪!</title>
+<title xml:lang="en">Episode 93</title>
+<title xml:lang="x-jat">Zoku Chourei Kikiippatsu!</title>
+</episode>
+<episode id="171184" update="2016-01-20">
+<epno type="1">92</epno>
+<length>8</length>
+<airdate>2015-01-24</airdate>
+<title xml:lang="ja">ファーブル危機一髪!</title>
+<title xml:lang="en">Episode 92</title>
+</episode>
+<episode id="171185" update="2016-01-20">
+<epno type="1">91</epno>
+<length>8</length>
+<airdate>2015-02-17</airdate>
+<title xml:lang="ja">みんな風邪ひき危機一髪!</title>
+<title xml:lang="en">Episode 91</title>
+<title xml:lang="x-jat">Minna Kaze Hiki Kikiippatsu!</title>
+</episode>
+<episode id="171186" update="2016-01-20">
+<epno type="1">98</epno>
+<length>8</length>
+<airdate>2015-03-07</airdate>
+<title xml:lang="ja">新・ドッジボール危機一髪!</title>
+<title xml:lang="en">Episode 98</title>
+<title xml:lang="x-jat">Shin Dodgeball Kikiippatsu!</title>
+</episode>
+<episode id="171187" update="2016-01-20">
+<epno type="1">97</epno>
+<length>8</length>
+<airdate>2015-02-28</airdate>
+<title xml:lang="ja">夫婦旅行危機一髪!</title>
+<title xml:lang="en">Episode 97</title>
+<title xml:lang="x-jat">Fuufu Ryokou Kikiippatsu!</title>
+</episode>
+<episode id="171188" update="2016-01-20">
+<epno type="1">96</epno>
+<length>8</length>
+<airdate>2015-02-21</airdate>
+<title xml:lang="ja">スキー教室危機一髪!</title>
+<title xml:lang="en">Episode 96</title>
+<title xml:lang="x-jat">Ski Kyoushitsu Kikiippatsu!</title>
+</episode>
+<episode id="171189" update="2016-01-20">
+<epno type="1">95</epno>
+<length>8</length>
+<airdate>2015-02-14</airdate>
+<title xml:lang="ja">失恋危機一髪!</title>
+<title xml:lang="en">Episode 95</title>
+<title xml:lang="x-jat">Shitsuren Kikiippatsu!</title>
+</episode>
+<episode id="171190" update="2016-01-20">
+<epno type="1">94</epno>
+<length>8</length>
+<airdate>2015-02-07</airdate>
+<title xml:lang="ja">砂嵐危機一髪!</title>
+<title xml:lang="en">Episode 94</title>
+<title xml:lang="x-jat">Sunaarashi Kikiippatsu!</title>
+</episode>
+<episode id="171191" update="2016-01-20">
+<epno type="1">101</epno>
+<length>8</length>
+<airdate>2015-03-28</airdate>
+<title xml:lang="ja">帰宅後危機一髪!</title>
+<title xml:lang="en">Episode 101</title>
+<title xml:lang="x-jat">Kitakugo Kikiippatsu!</title>
+</episode>
+<episode id="171192" update="2016-01-20">
+<epno type="1">100</epno>
+<length>8</length>
+<airdate>2015-03-21</airdate>
+<title xml:lang="ja">小学校危機一髪!</title>
+<title xml:lang="en">Episode 100</title>
+<title xml:lang="x-jat">Shougakkou Kikiippatsu!</title>
+</episode>
+<episode id="171193" update="2016-01-20">
+<epno type="1">99</epno>
+<length>8</length>
+<airdate>2015-03-14</airdate>
+<title xml:lang="ja">PX団をたおせ危機一髪!</title>
+<title xml:lang="en">Episode 99</title>
+<title xml:lang="x-jat">PX-dan o Taose Kikiippatsu!</title>
+</episode>
+<episode id="171235" update="2016-01-20">
+<epno type="1">111</epno>
+<length>8</length>
+<airdate>2015-06-06</airdate>
+<title xml:lang="ja">人気新作ゲーム危機一髪!</title>
+<title xml:lang="en">Episode 111</title>
+<title xml:lang="x-jat">Ninki Shinsaku Game Kikiippatsu!</title>
+</episode>
+<episode id="171236" update="2016-01-20">
+<epno type="1">110</epno>
+<length>8</length>
+<airdate>2015-05-30</airdate>
+<title xml:lang="ja">初ガツオ危機一髪!</title>
+<title xml:lang="en">Episode 110</title>
+<title xml:lang="x-jat">Hatsugatsuo Kikiippatsu!</title>
+</episode>
+<episode id="171237" update="2016-01-20">
+<epno type="1">109</epno>
+<length>8</length>
+<airdate>2015-05-23</airdate>
+<title xml:lang="ja">給食メインディッシュ危機一髪!</title>
+<title xml:lang="en">Episode 109</title>
+<title xml:lang="x-jat">Kyuushoku Main Dish Kikiippatsu!</title>
+</episode>
+<episode id="171238" update="2016-01-20">
+<epno type="1">108</epno>
+<length>8</length>
+<airdate>2015-05-16</airdate>
+<title xml:lang="ja">交通渋滞危機一髪!</title>
+<title xml:lang="en">Episode 108</title>
+<title xml:lang="x-jat">Koutsuujuutai Kikiippatsu!</title>
+</episode>
+<episode id="171239" update="2016-01-20">
+<epno type="1">107</epno>
+<length>8</length>
+<airdate>2015-05-09</airdate>
+<title xml:lang="ja">球技大会危機一髪!</title>
+<title xml:lang="en">Episode 107</title>
+<title xml:lang="x-jat">Kyuugi Taikai Kikiippatsu!</title>
+</episode>
+<episode id="171240" update="2016-01-20">
+<epno type="1">106</epno>
+<length>8</length>
+<airdate>2015-05-02</airdate>
+<title xml:lang="ja">図書館危機一髪!</title>
+<title xml:lang="en">Episode 106</title>
+<title xml:lang="x-jat">Toshokan Kikiippatsu!</title>
+</episode>
+<episode id="171241" update="2016-01-20">
+<epno type="1">105</epno>
+<length>8</length>
+<airdate>2015-04-25</airdate>
+<title xml:lang="ja">給食デザート危機一髪!</title>
+<title xml:lang="en">Episode 105</title>
+<title xml:lang="x-jat">Kyuushoku Dessert Kikiippatsu!</title>
+</episode>
+<episode id="171242" update="2016-01-20">
+<epno type="1">104</epno>
+<length>8</length>
+<airdate>2015-04-18</airdate>
+<title xml:lang="ja">日記危機一髪!</title>
+<title xml:lang="en">Episode 104</title>
+<title xml:lang="x-jat">Nikki Kikiippatsu!</title>
+</episode>
+<episode id="171243" update="2016-01-20">
+<epno type="1">103</epno>
+<length>8</length>
+<airdate>2015-04-11</airdate>
+<title xml:lang="ja">黒いロボット危機一髪!</title>
+<title xml:lang="en">Episode 103</title>
+<title xml:lang="x-jat">Kuroi Robot Kikiippatsu!</title>
+</episode>
+<episode id="171244" update="2016-01-20">
+<epno type="1">102</epno>
+<length>8</length>
+<airdate>2015-04-04</airdate>
+<title xml:lang="ja">鉄人大ピンチ危機一髪!</title>
+<title xml:lang="en">Episode 102</title>
+<title xml:lang="x-jat">Tetsujin Dai Pinch Kikiippatsu!</title>
+</episode>
+<episode id="171246" update="2016-01-20">
+<epno type="1">123</epno>
+<length>8</length>
+<airdate>2015-08-29</airdate>
+<title xml:lang="ja">研究所脱出危機一髪!</title>
+<title xml:lang="en">Episode 123</title>
+<title xml:lang="x-jat">Kenkyuusho Dasshutsu Kikiippatsu!</title>
+</episode>
+<episode id="171247" update="2016-01-20">
+<epno type="1">122</epno>
+<length>8</length>
+<airdate>2015-08-22</airdate>
+<title xml:lang="ja">研究所居座り危機一髪!</title>
+<title xml:lang="en">Episode 122</title>
+<title xml:lang="x-jat">Kenkyuusho Isuwari Kikiippatsu!</title>
+</episode>
+<episode id="171248" update="2016-01-20">
+<epno type="1">121</epno>
+<length>8</length>
+<airdate>2015-08-15</airdate>
+<title xml:lang="ja">研究所乗っ取り危機一髪!</title>
+<title xml:lang="en">Episode 121</title>
+<title xml:lang="x-jat">Kenkyuusho Nottori Kikiippatsu!</title>
+</episode>
+<episode id="171249" update="2016-01-20">
+<epno type="1">120</epno>
+<length>8</length>
+<airdate>2015-08-08</airdate>
+<title xml:lang="ja">虫歯危機一髪!</title>
+<title xml:lang="en">Episode 120</title>
+<title xml:lang="x-jat">Kouchou-sensei Kikiippatsu!</title>
+</episode>
+<episode id="171250" update="2016-01-20">
+<epno type="1">119</epno>
+<length>8</length>
+<airdate>2015-08-01</airdate>
+<title xml:lang="ja">虫歯危機一髪!</title>
+<title xml:lang="en">Episode 119</title>
+<title xml:lang="x-jat">Mushiba Kikiippatsu!</title>
+</episode>
+<episode id="171251" update="2016-01-20">
+<epno type="1">118</epno>
+<length>8</length>
+<airdate>2015-07-25</airdate>
+<title xml:lang="ja">続・敷島博士危機一髪!</title>
+<title xml:lang="en">Episode 118</title>
+<title xml:lang="x-jat">Zoku Shikishima-hakase Kikiippatsu!</title>
+</episode>
+<episode id="171252" update="2016-01-20">
+<epno type="1">117</epno>
+<length>8</length>
+<airdate>2015-07-18</airdate>
+<title xml:lang="ja">敷島博士危機一髪!</title>
+<title xml:lang="en">Episode 117</title>
+<title xml:lang="x-jat">Shikishima-hakase Kikiippatsu!</title>
+</episode>
+<episode id="171253" update="2016-01-20">
+<epno type="1">116</epno>
+<length>8</length>
+<airdate>2015-07-11</airdate>
+<title xml:lang="ja">金田家で危機一髪!</title>
+<title xml:lang="en">Episode 116</title>
+<title xml:lang="x-jat">Kaneda-ke de Kikiippatsu!</title>
+</episode>
+<episode id="171254" update="2016-01-20">
+<epno type="1">115</epno>
+<length>8</length>
+<airdate>2015-07-04</airdate>
+<title xml:lang="ja">秘密基地危機一髪!</title>
+<title xml:lang="en">Episode 115</title>
+<title xml:lang="x-jat">Himitsu Kichi Kikiippatsu!</title>
+</episode>
+<episode id="171255" update="2016-01-20">
+<epno type="1">114</epno>
+<length>8</length>
+<airdate>2015-06-27</airdate>
+<title xml:lang="ja">秘密基地鉄人危機一髪!</title>
+<title xml:lang="en">Episode 114</title>
+<title xml:lang="x-jat">Himitsu Kichi Tetsujin Kikiippatsu!</title>
+</episode>
+<episode id="171256" update="2016-01-20">
+<epno type="1">113</epno>
+<length>8</length>
+<airdate>2015-06-20</airdate>
+<title xml:lang="ja">秘密基地リモコン危機一髪!</title>
+<title xml:lang="en">Episode 113</title>
+<title xml:lang="x-jat">Himitsu Kichi RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="171257" update="2016-01-20">
+<epno type="1">112</epno>
+<length>8</length>
+<airdate>2015-06-13</airdate>
+<title xml:lang="ja">秘密基地潜入危機一髪!</title>
+<title xml:lang="en">Episode 112</title>
+<title xml:lang="x-jat">Himitsu Kichi Sennyuu Kikiippatsu!</title>
+</episode>
+<episode id="172796" update="2016-01-20">
+<epno type="1">128</epno>
+<length>8</length>
+<airdate>2015-10-03</airdate>
+<title xml:lang="ja">夢のログハウス危機一髪!</title>
+<title xml:lang="en">Episode 128</title>
+<title xml:lang="x-jat">Yume no Log House Kikiippatsu!</title>
+</episode>
+<episode id="172797" update="2016-01-20">
+<epno type="1">127</epno>
+<length>8</length>
+<airdate>2015-09-26</airdate>
+<title xml:lang="ja">鉄人26号危機一髪!</title>
+<title xml:lang="en">Episode 127</title>
+<title xml:lang="x-jat">Tetsujin 26 Gou Kikiippatsu!</title>
+</episode>
+<episode id="172798" update="2016-01-20">
+<epno type="1">126</epno>
+<length>8</length>
+<airdate>2015-09-19</airdate>
+<title xml:lang="ja">地下DE危機一髪!</title>
+<title xml:lang="en">Episode 126</title>
+<title xml:lang="x-jat">Chika de Kikiippatsu!</title>
+</episode>
+<episode id="172799" update="2016-01-20">
+<epno type="1">125</epno>
+<length>8</length>
+<airdate>2015-09-12</airdate>
+<title xml:lang="ja">ボクらの街危機一髪!</title>
+<title xml:lang="en">Episode 125</title>
+<title xml:lang="x-jat">Bokura no Machi Kikiippatsu!</title>
+</episode>
+<episode id="172800" update="2016-01-20">
+<epno type="1">124</epno>
+<length>8</length>
+<airdate>2015-09-05</airdate>
+<title xml:lang="ja">正太郎一人ぼっち危機一髪!</title>
+<title xml:lang="en">Episode 124</title>
+<title xml:lang="x-jat">Shoutarou Hitoribocchi Kikiippatsu!</title>
+</episode>
+<episode id="172801" update="2016-01-20">
+<epno type="1">131</epno>
+<length>8</length>
+<airdate>2015-10-24</airdate>
+<title xml:lang="ja">秘密基地奪還危機一髪!</title>
+<title xml:lang="en">Episode 131</title>
+<title xml:lang="x-jat">Himitsu Kichi Dakkan Kikiippatsu!</title>
+</episode>
+<episode id="172802" update="2016-01-20">
+<epno type="1">130</epno>
+<length>8</length>
+<airdate>2015-10-17</airdate>
+<title xml:lang="ja">野球勝負危機一髪!</title>
+<title xml:lang="en">Episode 130</title>
+<title xml:lang="x-jat">Yakyuu Shoubu Kikiippatsu!</title>
+</episode>
+<episode id="172803" update="2016-01-20">
+<epno type="1">129</epno>
+<length>8</length>
+<airdate>2015-10-10</airdate>
+<title xml:lang="ja">悪人サミット危機一髪!</title>
+<title xml:lang="en">Episode 129</title>
+<title xml:lang="x-jat">Akunin Summit Kikiippatsu!</title>
+</episode>
+<episode id="173712" update="2016-01-20">
+<epno type="1">136</epno>
+<length>8</length>
+<airdate>2015-12-05</airdate>
+<title xml:lang="ja">僕らの明日危機一髪!</title>
+<title xml:lang="en">Episode 136</title>
+<title xml:lang="x-jat">Bokura no Ashita Kikiippatsu!</title>
+</episode>
+<episode id="173713" update="2016-01-20">
+<epno type="1">135</epno>
+<length>8</length>
+<airdate>2015-11-28</airdate>
+<title xml:lang="ja">僕らの友達危機一髪!</title>
+<title xml:lang="en">Episode 135</title>
+<title xml:lang="x-jat">Bokura no Tomodachi Kikiippatsu!</title>
+</episode>
+<episode id="173714" update="2016-01-20">
+<epno type="1">134</epno>
+<length>8</length>
+<airdate>2015-11-21</airdate>
+<title xml:lang="ja">僕らの校長先生危機一髪!</title>
+<title xml:lang="en">Episode 134</title>
+<title xml:lang="x-jat">Bokura no Kouchou-sensei Kikiippatsu!</title>
+</episode>
+<episode id="173715" update="2016-01-20">
+<epno type="1">133</epno>
+<length>8</length>
+<airdate>2015-11-14</airdate>
+<title xml:lang="ja">僕らの学校危機一髪!</title>
+<title xml:lang="en">Episode 133</title>
+<title xml:lang="x-jat">Bokura no Gakkou Kikiippatsu!</title>
+</episode>
+<episode id="173716" update="2016-01-20">
+<epno type="1">132</epno>
+<length>8</length>
+<airdate>2015-11-07</airdate>
+<title xml:lang="ja">謎の事件どっさり危機一髪!</title>
+<title xml:lang="en">Episode 132</title>
+<title xml:lang="x-jat">Nazo no Jiken Dossari Kikiippatsu!</title>
+</episode>
+<episode id="174561" update="2016-01-20">
+<epno type="1">141</epno>
+<length>8</length>
+<airdate>2016-01-16</airdate>
+<title xml:lang="ja">一夜漬け危機一髪!</title>
+<title xml:lang="en">Episode 141</title>
+<title xml:lang="x-jat">Ichiyazuke Kikiippatsu!</title>
+</episode>
+<episode id="174562" update="2016-01-20">
+<epno type="1">140</epno>
+<length>8</length>
+<airdate>2016-01-09</airdate>
+<title xml:lang="ja">賀正初夢危機一髪!</title>
+<title xml:lang="en">Episode 140</title>
+<title xml:lang="x-jat">Gashou Hatsuyume Kikiippatsu!</title>
+</episode>
+<episode id="174563" update="2016-01-20">
+<epno type="1">139</epno>
+<length>8</length>
+<airdate>2015-12-26</airdate>
+<title xml:lang="ja">ウエスタン危機一髪!</title>
+<title xml:lang="en">Episode 139</title>
+<title xml:lang="x-jat">Western Kikiippatsu!</title>
+</episode>
+<episode id="174564" update="2016-01-20">
+<epno type="1">138</epno>
+<length>8</length>
+<airdate>2015-12-19</airdate>
+<title xml:lang="ja">メリーブラック団危機一髪!</title>
+<title xml:lang="en">Episode 138</title>
+<title xml:lang="x-jat">Merry Black Dan Kikiippatsu!</title>
+</episode>
+<episode id="174565" update="2016-01-20">
+<epno type="1">137</epno>
+<length>8</length>
+<airdate>2015-12-12</airdate>
+<title xml:lang="ja">オックスはどこだ危機一髪!</title>
+<title xml:lang="en">Episode 137</title>
+<title xml:lang="x-jat">Ox wa Doko Da Kikiippatsu!</title>
+</episode>
+<episode id="174584" update="2016-01-20">
+<epno type="1">145</epno>
+<length>8</length>
+<airdate>2016-02-13</airdate>
+<title xml:lang="ja">なぞの転校生危機一髪!</title>
+<title xml:lang="en">Episode 145</title>
+<title xml:lang="x-jat">Nazo no Tenkousei Kikiippatsu!</title>
+</episode>
+<episode id="174585" update="2016-01-20">
+<epno type="1">144</epno>
+<length>8</length>
+<airdate>2016-02-06</airdate>
+<title xml:lang="ja">さらばブラックオックス危機一髪!</title>
+<title xml:lang="en">Episode 144</title>
+<title xml:lang="x-jat">Saraba Black Ox Kikiippatsu!</title>
+</episode>
+<episode id="174586" update="2016-01-20">
+<epno type="1">143</epno>
+<length>8</length>
+<airdate>2016-01-30</airdate>
+<title xml:lang="ja">ブラック団本部危機一髪!</title>
+<title xml:lang="en">Episode 143</title>
+<title xml:lang="x-jat">Black Dan Honbu Kikiippatsu!</title>
+</episode>
+<episode id="174587" update="2016-01-20">
+<epno type="1">142</epno>
+<length>8</length>
+<airdate>2016-01-23</airdate>
+<title xml:lang="ja">まさかのリモコン危機一髪!</title>
+<title xml:lang="en">Episode 142</title>
+<title xml:lang="x-jat">Masaka no RemoCon Kikiippatsu!</title>
+</episode>
+<episode id="175016" update="2016-02-14">
+<epno type="1">146</epno>
+<length>8</length>
+<airdate>2016-02-20</airdate>
+<title xml:lang="ja">ロボット軍団計画危機一髪!</title>
+<title xml:lang="en">Episode 146</title>
+<title xml:lang="x-jat">Robot Gundan Keikaku Kikiippatsu!</title>
+</episode>
+<episode id="175422" update="2016-02-20">
+<epno type="1">150</epno>
+<length>8</length>
+<airdate>2016-03-19</airdate>
+<title xml:lang="ja">ロビー危機一髪!</title>
+<title xml:lang="en">Episode 150</title>
+<title xml:lang="x-jat">Lobby Kikiippatsu!</title>
+</episode>
+<episode id="175423" update="2016-02-20">
+<epno type="1">149</epno>
+<length>8</length>
+<airdate>2016-03-12</airdate>
+<title xml:lang="ja">地球帰還危機一髪!</title>
+<title xml:lang="en">Episode 149</title>
+<title xml:lang="x-jat">Chikyuu Kikan Kikiippatsu!</title>
+</episode>
+<episode id="175424" update="2016-02-20">
+<epno type="1">148</epno>
+<length>8</length>
+<airdate>2016-03-05</airdate>
+<title xml:lang="ja">人類滅亡危機一髪!</title>
+<title xml:lang="en">Episode 148</title>
+<title xml:lang="x-jat">Jinrui Metsubou Kikiippatsu!</title>
+</episode>
+<episode id="175425" update="2016-02-20">
+<epno type="1">147</epno>
+<length>8</length>
+<airdate>2016-02-27</airdate>
+<title xml:lang="ja">鉄人対鉄人! 危機一髪!</title>
+<title xml:lang="en">Episode 147</title>
+<title xml:lang="x-jat">Tetsujin tai Tetsujin! Kikiippatsu!</title>
+</episode>
+<episode id="175719" update="2016-02-26">
+<epno type="1">151</epno>
+<length>8</length>
+<airdate>2016-03-26</airdate>
+<title xml:lang="ja">通常発進危機一髪!</title>
+<title xml:lang="en">Episode 151</title>
+<title xml:lang="x-jat">Tsuujou Hasshin Kikiippatsu!</title>
+</episode>
+</episodes>
+</anime>

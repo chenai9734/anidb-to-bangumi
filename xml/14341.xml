@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14341" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1956-07</startdate>
+<enddate>1956-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Beer Mukashi Mukashi</title>
+<title xml:lang="ja" type="official">ビールむかしむかし</title>
+</titles>
+<description>A promotional short puppet animation movie about the history of beer and Asahi Breweries.</description>
+<ratings>
+<permanent count="8">4.59</permanent>
+<temporary count="8">4.75</temporary>
+</ratings>
+<picture>222997.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29897</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>12152</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205866" update="2018-08-31">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

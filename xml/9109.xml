@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9109" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2011-09</startdate>
+<enddate>2011-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">663114</title>
+<title xml:lang="en" type="official">663114</title>
+</titles>
+<creators>
+<name id="31433" type="Direction">Hirabayashi Isamu</name>
+</creators>
+<description>http://anidb.net/cr31433 [Hirabayashi Isamu]`s 663114 is a short but hard-hitting monologue of a 66-year-old cicada. The insect draws parallels between the catastrophes of Hiroshima and Fukushima and poses a fundamental question about the future of our planet. 663114 won the Noburou Oofuji Award at the Mainichi Film Awards in February 2012.</description>
+<ratings>
+<permanent count="160">4.39</permanent>
+<temporary count="161">5.26</temporary>
+</ratings>
+<picture>84631.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>13971</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="55" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-08-11">
+<name>awards</name>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3683" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>storytelling</name>
+</tag>
+<tag id="4522" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-03">
+<name>social commentary</name>
+<description>Social commentary is the act of rebelling against an individual, or a group of people by rhetorical means. This is most often done with the idea of implementing or promoting change by informing the general populace about a given problem and appealing to people’s sense of justice. (Source: Wikipedia)&#13;
+&#13;
+Since this is anime, usually, the mores of Japan and the Japanese society are scrutinised, but not restricted to that.</description>
+</tag>
+<tag id="4614" parentid="3683" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>narration</name>
+<description>The most common example is that of a voice, either that of one of the characters or entirely unrelated, that appears at the beginning of an episode to offer a summary or introduction, and at the end of an episode for closure or for a preview to hint upon what to expect next.
+Another use of narration comes in the form of a dominant voice belonging to one of the protagonists, intended only for the viewer and revealing the intimate thoughts to whom it belongs. This type of narration occurs frequently throughout the duration of the episode or movie.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="4804" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2012-11-15">
+<name>poetry</name>
+<description>The anime is based upon, around or contains significant references to poetry</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6350" parentid="55" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-21">
+<name>Oofuji Noburou Award</name>
+<description>The Oofuji Noburou Award is an animation award given to a group or individual at the Mainichi Film Awards to recognise animation excellence. It is named after Japanese animator http://anidb.net/cr5602 [Oofuji Noburou].
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="138182" update="2012-03-26">
+<epno type="1">1</epno>
+<length>10</length>
+<rating votes="1">3.64</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

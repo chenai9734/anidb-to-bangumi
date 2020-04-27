@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6983" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1979-03-03</startdate>
+<enddate>1979-03-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kurumiwari Ningyou</title>
+<title xml:lang="ja" type="official">くるみ割り人形</title>
+<title xml:lang="en" type="official">Nutcracker Fantasy</title>
+</titles>
+<creators>
+<name id="10264" type="Original Work">E.T.A. Hoffmann</name>
+<name id="8979" type="Original Work">Pyotr Ilyich Tchaikovsky</name>
+<name id="35092" type="Direction">Nakamura Takeo</name>
+</creators>
+<description>* An adaptation of the original Nutcracker story by http://anidb.net/cr10264 [E.T.A. Hoffmann]. The film uses many elements of the original story and is not based on the popular ballet.</description>
+<ratings>
+<permanent count="23">4.64</permanent>
+<temporary count="23">5.15</temporary>
+</ratings>
+<picture>34709.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7376</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Nutcracker_Fantasy</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>くるみ割り人形_(1979年の映画)</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>146628</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4427</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m085</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="3206" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-06">
+<name>stop motion</name>
+<description>Stop motion (also known as stop-action or frame-by-frame) is an animation technique to make a physically manipulated object appear to move on its own. The object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played as a continuous sequence.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="4349" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>puppetmation</name>
+<description>A puppet is an inanimate object or representational figure animated or manipulated by a puppeteer. It is usually (but by no means always) a depiction of a human character, and is used in puppetry, a play or a presentation that is a very ancient form of theatre. The puppet undergoes a process of transformation through being animated, and is normally manipulated by at least one puppeteer.
+There are many different varieties of puppets, and they are made of a wide range of materials, depending on their form and intended use. They can be extremely complex or very simple in their construction. They may even be found objects. As Oscar Wilde wrote, "There are many advantages in puppets. They never argue. They have no crude views about art. They have no private lives".</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="108275" update="2009-09-05">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>1979-03-03</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

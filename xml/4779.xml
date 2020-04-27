@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4779" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1986-05-10</startdate>
+<enddate>1986-12-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Baribari Densetsu</title>
+<title xml:lang="ja" type="synonym">Bari Bari Densetsu</title>
+<title xml:lang="en" type="synonym">Baribari Legend</title>
+<title xml:lang="en" type="synonym">Legend of Rolling Wheels</title>
+<title xml:lang="ja" type="short">バリ伝</title>
+<title xml:lang="x-jat" type="short">bariden</title>
+<title xml:lang="ja" type="official">バリバリ伝説</title>
+</titles>
+<relatedanime>
+<anime id="4786" type="Summary">Baribari Densetsu (1987)</anime>
+</relatedanime>
+<similaranime>
+<anime id="135" approval="4" total="5">Initial D</anime>
+<anime id="3463" approval="1" total="2">Capeta</anime>
+<anime id="3489" approval="1" total="1">Futaridaka</anime>
+</similaranime>
+<url>http://pierrot.jp/title/images/title_pic/prof/089.jpg</url>
+<creators>
+<name id="4886" type="Direction">Kamimura Osamu</name>
+<name id="724" type="Animation Work">Studio Pierrot</name>
+<name id="6396" type="Original Work">Shigeno Shuuichi</name>
+<name id="19572" type="Direction">Ikegami Takahiro</name>
+</creators>
+<description>* Based on a shounen manga by http://anidb.net/cr6396 [Shigeno Shuuichi], serialised in Shounen Magazine.
+Miyuki Ichenose sees something remarkable - a kid on a 50cc moped outracing a man on a 750cc bike. Since she is the daughter of a motorcycle racing team chief, she wastes no time in inviting the kid, Gun, onto the team.</description>
+<ratings>
+<permanent count="22">5.37</permanent>
+<temporary count="24">6.25</temporary>
+</ratings>
+<picture>6911.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3292</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5002</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2680</identifier>
+<identifier>xycnss</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://pierrot.jp/title/images/title_pic/prof/093.jpg</url>
+</externalentity>
+<externalentity>
+<url>http://pierrot.jp/title/images/title_pic/prof/089.jpg</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Bari_Bari_Densetsu</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>バリバリ伝説</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235840</identifier>
+</externalentity>
+<externalentity>
+<identifier>88790</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2162</identifier>
+</externalentity>
+<externalentity>
+<identifier>2183</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="66817" update="2007-01-14">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1986-05-10</airdate>
+<rating votes="1">6.09</rating>
+<title xml:lang="ja">筑波篇</title>
+<title xml:lang="en">Tsukuba Chapter</title>
+<title xml:lang="x-jat">Tsukuba Hen</title>
+</episode>
+<episode id="78565" update="2007-07-01">
+<epno type="1">2</epno>
+<length>50</length>
+<airdate>1986-12-16</airdate>
+<rating votes="1">6.09</rating>
+<title xml:lang="ja">鈴鹿篇</title>
+<title xml:lang="en">Suzuka Chapter</title>
+<title xml:lang="x-jat">Suzuka Hen</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13112" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1967</startdate>
+<enddate>1967</enddate>
+<titles>
+<title xml:lang="x-kot" type="main">Heungbuwa Nolbu</title>
+<title xml:lang="en" type="synonym">The Brothers of Hungboo and Nolboo</title>
+<title xml:lang="en" type="synonym">Heungbu and Nolbu</title>
+<title xml:lang="ko" type="official">흥부와 놀부</title>
+</titles>
+<description>Early south korean stop-motion colour pupped animation based on a folktale of the same name.</description>
+<picture>201056.jpg</picture>
+<resources>
+<resource type="19">
+<externalentity>
+<identifier>흥부와_놀부</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6166" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-23">
+<name>South Korean production</name>
+<description>See also: http://anidb.net/t6762 [North Korean production]</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="187108" update="2017-04-17">
+<epno type="1">1</epno>
+<length>70</length>
+<title xml:lang="en">Movie</title>
+</episode>
+</episodes>
+</anime>

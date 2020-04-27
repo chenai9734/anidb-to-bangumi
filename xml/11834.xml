@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11834" restricted="false">
+<type>TV Series</type>
+<episodecount>59</episodecount>
+<startdate>2016-02-06</startdate>
+<enddate>2017-03-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Rilu Rilu Fairilu: Yousei no Door</title>
+<title xml:lang="ja" type="official">リルリルフェアリル ~妖精のドア~</title>
+<title xml:lang="zh-Hans" type="official">莉露莉露妖精莉露～妖精之门～</title>
+</titles>
+<relatedanime>
+<anime id="12825" type="Sequel">Rilu Rilu Fairilu: Mahou no Kagami</anime>
+</relatedanime>
+<similaranime>
+<anime id="13362" approval="2" total="2">Hakumei to Mikochi</anime>
+</similaranime>
+<url>http://fairilu.jp/</url>
+<creators>
+<name id="730" type="Animation Work">Studio Deen</name>
+<name id="5374" type="Series Composition">Matsui Aya</name>
+<name id="1288" type="Original Work">Sanrio</name>
+<name id="10175" type="Original Work">Sega Toys</name>
+<name id="44904" type="Character Design">Yamaguchi Jinshichi</name>
+<name id="49456" type="Direction">Gojou Sakura</name>
+</creators>
+<ratings>
+<permanent count="14">5.33</permanent>
+<temporary count="14">5.42</temporary>
+</ratings>
+<picture>180777.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17961</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>34754</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://fairilu.jp/</url>
+</externalentity>
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/rilurilufairilu2016/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Rilu_Rilu_Fairilu</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>リルリルフェアリル</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4071</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355111</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18924</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="79089" type="secondary cast in" update="2015-12-24">
+<name>Kirara</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180741.jpg</picture>
+</character>
+<character id="79090" type="main character in" update="2015-12-24">
+<name>Sumire</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180747.jpg</picture>
+<seiyuu id="430" picture="246278.jpg">Hidaka Rina</seiyuu>
+</character>
+<character id="79091" type="main character in" update="2015-12-24">
+<name>Himawari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180745.jpg</picture>
+<seiyuu id="1614" picture="148394.jpg">Uchida Aya</seiyuu>
+</character>
+<character id="79092" type="secondary cast in" update="2015-12-24">
+<name>Yurara</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180740.jpg</picture>
+</character>
+<character id="79093" type="main character in" update="2015-12-24">
+<rating votes="2">8.19</rating>
+<name>Lip</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180746.jpg</picture>
+<seiyuu id="38634" picture="144425.jpg">Hanamori Yumiri</seiyuu>
+</character>
+<character id="79094" type="secondary cast in" update="2015-12-24">
+<name>Fairilu Gol</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180742.jpg</picture>
+</character>
+<character id="79095" type="secondary cast in" update="2015-12-24">
+<name>Fairilu Maji</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180739.jpg</picture>
+</character>
+<character id="79096" type="main character in" update="2015-12-24">
+<name>Rose</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180744.jpg</picture>
+<seiyuu id="22169" picture="58225.jpg">Kusuda Aina</seiyuu>
+</character>
+<character id="79812" type="secondary cast in" update="2016-02-06">
+<name>Hanamura Nozomi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182295.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="174856" update="2016-01-31">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2016-02-27</airdate>
+<rating votes="1">3.53</rating>
+<title xml:lang="ja">美しすぎるアタシたち / きらら&amp;ゆらら, お仕事がんばるよ~</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Utsukushi Sugiru Atashi-tachi / Kirara &amp; Yurara, Oshigoto Ganbaru yo</title>
+</episode>
+<episode id="174857" update="2016-01-31">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2016-02-20</airdate>
+<rating votes="1">3.53</rating>
+<title xml:lang="ja">ローズ, スランプですわ! / ひまわりはみんなの人気者</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Rose, Slump Desu wa! / Himawari wa Minna no Ninkimono</title>
+</episode>
+<episode id="174858" update="2016-01-31">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2016-02-13</airdate>
+<rating votes="1">5.25</rating>
+<title xml:lang="ja">花束のおうち! フラワーフェアリルの村 / ひまわり&amp;すみれ 最初のフェアリルマジック</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Hanataba no Ouchi! Flower Fairilu no Mura / Himawari &amp; Sumire: Saisho no Fairilu Magic</title>
+</episode>
+<episode id="174859" update="2016-01-31">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2016-02-06</airdate>
+<rating votes="1">7.13</rating>
+<title xml:lang="ja">誕生! チューリップのフェアリル / 聖フェアリルスクール最初の授業</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Tanjou! Tulip no Fairilu / Sei Fairilu School Saisho no Jugyou</title>
+</episode>
+<episode id="174926" update="2016-02-06">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2016-02-06</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+<episode id="174927" update="2016-02-06">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2016-02-06</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="175513" update="2016-02-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2016-03-26</airdate>
+<title xml:lang="ja">フェアリルフェスティバル! / 咲け咲け, さくら!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Fairilu Festival! / Sake Sake, Sakura!</title>
+</episode>
+<episode id="175514" update="2016-02-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2016-03-19</airdate>
+<title xml:lang="ja">魔法のテスト! / ドアはどこにある?</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Mahou no Test! / Door wa Doko ni Aru?</title>
+</episode>
+<episode id="175515" update="2016-02-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2016-03-12</airdate>
+<title xml:lang="ja">すずらん&amp;りっぷ禁じられた冒険! / またまたライバル!? マーメイドフェアリル</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Suzuran &amp; Lip Kinjirareta Bouken! / Matamata Rival!? Mermaid Fairilu</title>
+</episode>
+<episode id="175516" update="2016-02-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2016-03-05</airdate>
+<rating votes="1">3.53</rating>
+<title xml:lang="ja">すみれと雨と古い手紙 / マッシュシスターズは恥ずかしがりや</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Sumire to Ame to Furui Tegami / Mash Sisters wa Hazukashigariya</title>
+</episode>
+<episode id="176286" update="2016-03-26">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2016-04-23</airdate>
+<title xml:lang="ja">このドキドキって何!? / 美しすぎるボクたちさ~</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Kono Dokidokitte Nani!? / Utsukushisugiru Bokutachi sa</title>
+</episode>
+<episode id="176287" update="2016-03-26">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2016-04-16</airdate>
+<title xml:lang="ja">リルリルシャボリル! / レオン先生の変身学講座</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Rilu Rilu Shaborilu! Leon-sensei no Henshingaku Kouza</title>
+</episode>
+<episode id="176288" update="2016-03-26">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2016-04-09</airdate>
+<title xml:lang="ja">羽を失くしたフェアリル / 開店! ツリーカットハウス</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Hane o Nakushita Fairilu / Kaiten! Tree Cut House</title>
+</episode>
+<episode id="176289" update="2016-03-26">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2016-04-02</airdate>
+<title xml:lang="ja">ローズが大好き! / フェアリルイースター</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Rose ga Daisuki! / Fairilu Easter</title>
+</episode>
+<episode id="177252" update="2016-04-23">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2016-04-30</airdate>
+<title xml:lang="ja">特ダネ! ベニヤコ新聞 / フェアリルドアのこちら側</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Toku Dane! Beniyako Shinbun / Fairilu Door no Kochiragawa</title>
+</episode>
+<episode id="177374" update="2016-04-30">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2016-05-21</airdate>
+<title xml:lang="ja">不思議なかすみ / フェアリルキャンディ騒動</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Fushigi na Kasumi / Fairilu Candy Soudou</title>
+</episode>
+<episode id="177375" update="2016-04-30">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2016-05-14</airdate>
+<title xml:lang="ja">謎のイケメンコーチ登場! シャボリルの戦い</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Nazo no Ikemen Coach Tanjou! Shaborilu no Tatakai</title>
+</episode>
+<episode id="177376" update="2016-04-30">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2016-05-07</airdate>
+<title xml:lang="ja">きんぎょ先生の恋愛学 / おばあちゃんの思い出</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Sangyo-sensei no Renaigaku</title>
+</episode>
+<episode id="177595" update="2016-05-14">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2016-06-18</airdate>
+<title xml:lang="ja">自慢のペット! なかよしフェスティバル / アザミとローズ姐さん!?</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Jiman no Pet! Nakayoshi Festival / Azami to Rose Nee-san</title>
+</episode>
+<episode id="177596" update="2016-05-14">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2016-06-11</airdate>
+<title xml:lang="ja">あじさいカラフルマジック! / 熱闘! ベジクッキング!</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Ajisai Colorful Magic! / Nettou! Basic Cooking!</title>
+</episode>
+<episode id="177597" update="2016-05-14">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2016-06-04</airdate>
+<title xml:lang="ja">今日からレインデー! / イケメンジョダンスでビュ~チフォ~!</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Kyou kara Rain Day! / Ikemen Jo Dance de Beautiful!</title>
+</episode>
+<episode id="177598" update="2016-05-14">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2016-05-28</airdate>
+<title xml:lang="ja">恋とはどういうものかしら / ダンテVSアキアカネ ユニコーンレース対決</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Koi to wa Dou Iu Mono Kashira / Dante vs Aki Akane: Unicorn Race Taiketsu</title>
+</episode>
+<episode id="178128" update="2016-06-18">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2016-07-16</airdate>
+<title xml:lang="ja">すてきなお洋服屋さん / 望に会いたい...</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Suteki na Oyoufukuya-san / Bou ni Aitai...</title>
+</episode>
+<episode id="178129" update="2016-06-18">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2016-07-09</airdate>
+<title xml:lang="ja">ビッグヒューマルは危険がいっぱい?</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Big Hyuumaru wa Kiken ga Ippai?</title>
+</episode>
+<episode id="178130" update="2016-06-18">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2016-07-02</airdate>
+<title xml:lang="ja">ようこそ, ビッグヒューマルへ</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Youkoso, Big Hyuumaru e</title>
+</episode>
+<episode id="178131" update="2016-06-18">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2016-06-25</airdate>
+<title xml:lang="ja">課外授業! 行先はビッグヒューマル!? / フェアリルチェンジでヒューマルに変身!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Kagaijugyou! Ikisaki wa Big Hyuumaru!? / Fairilu Change de Hyuumaru ni Henshin!</title>
+</episode>
+<episode id="178880" update="2016-07-16">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2016-07-23</airdate>
+<title xml:lang="ja">カブトとクワの夢 / スター☆星空ステージ</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Kabuto to Kuwa no Yume / Star Hoshizora Stage</title>
+</episode>
+<episode id="179134" update="2016-07-23">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2016-07-30</airdate>
+<title xml:lang="ja">きんしのお悩み相談室 / シーキャンドル城からの招待状</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Kinshi no Onayami Soudanshitsu / Sea Candle Jou kara no Shoutaijou</title>
+</episode>
+<episode id="179243" update="2016-07-30">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2016-08-06</airdate>
+<title xml:lang="ja">清く正しく美しくですわっ! / 古代遺跡で大冒険だ~!</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Kiyoku Tadashiku Utsukushiku Dasu wa! / Kodai Iseki de Daibouken Da!</title>
+</episode>
+<episode id="179310" update="2016-07-31">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2016-05-21</airdate>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="179388" update="2016-08-06">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2016-08-13</airdate>
+<title xml:lang="ja">ドリアン帰る! 作ろう美味しい料理 / 夏だ! ビュ~チフォ~! イケメンジョランド!</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Dorian Kaeru! Tsukurou Oishii Ryouri / Natsu Da! Beautiful! Ikemen Jo Land!</title>
+</episode>
+<episode id="179630" update="2016-08-13">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2016-08-20</airdate>
+<title xml:lang="ja">ぽわぽわサマーキャンプ! / オリーブの涙</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Powapowa Summer Camp! / Olive no Namida</title>
+</episode>
+<episode id="179819" update="2016-08-20">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>2016-08-27</airdate>
+<title xml:lang="ja">運命のフェアリルドア / 私, アイドルになるリル!</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Unmei no Fairilu Door / Watashi, Idol ni Naru Rilu!</title>
+</episode>
+<episode id="179912" update="2016-08-27">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>2016-09-03</airdate>
+<title xml:lang="ja">聖フェアリルスクールの職員会議</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Sei Fairilu School no Shokuinkaigi</title>
+</episode>
+<episode id="180014" update="2016-09-03">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>2016-09-10</airdate>
+<title xml:lang="ja">スパイダーの黒魔術! / あばけ! ビジューの秘密!?</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Spider no Kuromajutsu! / Obake! Bijuu no Himitsu!?</title>
+</episode>
+<episode id="180087" update="2016-09-10">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>2016-09-17</airdate>
+<title xml:lang="ja">マッシュシスターズの姉妹ゲンカだに / トマトにキャロット, どうぞ召し上がれ</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Mash Sisters no Shimai Kenka Da ni / Tomato ni Carrot, Douzo Meshiagare</title>
+</episode>
+<episode id="180218" update="2016-09-17">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>2016-09-24</airdate>
+<title xml:lang="ja">すみれのファッションショー!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Sumire no Fashion Show!</title>
+</episode>
+<episode id="180484" update="2016-09-24">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>2016-10-01</airdate>
+<title xml:lang="ja">決戦! 大ユニコーンレース! / オリーブ &amp; ひがん 二人きりの冒険</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Kessen! Dai Unicorn Race! Olive &amp; Higan: Futarikiri no Bouken</title>
+</episode>
+<episode id="180648" update="2016-10-01">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>2016-10-08</airdate>
+<title xml:lang="ja">ヒューマルとフェアリルは恋ができないの?</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Hyuumaru to Fairilu wa Koi ga Dekinai no?</title>
+</episode>
+<episode id="180879" update="2016-10-08">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>2016-10-15</airdate>
+<title xml:lang="ja">みんなで歌おう♪カナリア先生の合唱学 / 校歌をつくろう♪</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Minna de Utaou: Canary-sensei no Gasshougaku / Kouka o Tsukurou</title>
+</episode>
+<episode id="181083" update="2016-10-15">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>2016-10-22</airdate>
+<title xml:lang="ja">ふたりはベジタブルン! / レアビジューの守り手☆おふくさん</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Futari wa Vegetablen! / Rare Bijuu no Mamori Te Ofuku-san</title>
+</episode>
+<episode id="181399" update="2016-10-22">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>2016-10-29</airdate>
+<title xml:lang="ja">リトルフェアリルのハロウィンナイト / ビッグヒューマルのハッピーハロウィン</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Little Fairilu no Halloween Night / Big Hyuumaru no Happy Halloween</title>
+</episode>
+<episode id="182994" update="2017-01-11">
+<epno type="1">47</epno>
+<length>25</length>
+<airdate>2016-12-24</airdate>
+<title xml:lang="ja">ジュエルペット! 魔法の国から来たお客様!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Jewel Pet! Mahou no Kuni kara Kita Okyaku-sama!</title>
+</episode>
+<episode id="182995" update="2017-01-09">
+<epno type="1">46</epno>
+<length>25</length>
+<airdate>2016-12-17</airdate>
+<title xml:lang="ja">がんばれ! サンタの弟子さん / イブの奇跡! りっぷからのプレゼント</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Ganbare! Santa no Deshi-san / Eve no Kiseki! Lip kara no Present</title>
+</episode>
+<episode id="182996" update="2017-01-09">
+<epno type="1">45</epno>
+<length>25</length>
+<airdate>2016-12-10</airdate>
+<title xml:lang="ja">クリスマススターをつくろう!</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Christmas Star o Tsukurou!</title>
+</episode>
+<episode id="182997" update="2017-01-09">
+<epno type="1">44</epno>
+<length>25</length>
+<airdate>2016-12-03</airdate>
+<title xml:lang="ja">オーロラ, 夢のカーテン / 燃えろホッパー! プロポーズ大作戦!?</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Aurora, Yume no Curtain / Moero Hopper! Propose Daisakusen!?</title>
+</episode>
+<episode id="182998" update="2017-01-09">
+<epno type="1">43</epno>
+<length>25</length>
+<airdate>2016-11-26</airdate>
+<title xml:lang="ja">フェアリルとあそべる!? まほうのパッド / あこや, モデルデビュー!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Fairilu to Asoberu!? Mahou no Pad / Akoya, Model Debut!</title>
+</episode>
+<episode id="182999" update="2017-01-09">
+<epno type="1">42</epno>
+<length>25</length>
+<airdate>2016-11-19</airdate>
+<title xml:lang="ja">ひまわり &amp; ダンテ ビッグヒューマルへ!</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Himawari &amp; Dante: Big Hyuumaru e!</title>
+</episode>
+<episode id="183000" update="2017-01-09">
+<epno type="1">41</epno>
+<length>25</length>
+<airdate>2016-11-12</airdate>
+<title xml:lang="ja">カマキリよ, 大志を抱け! / フェアリル感謝祭</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Kamikiri yo, Taishi o Idake! / Fairilu Kanshasai</title>
+</episode>
+<episode id="183001" update="2017-01-09">
+<epno type="1">40</epno>
+<length>25</length>
+<airdate>2016-11-05</airdate>
+<title xml:lang="ja">フェアリルハウスへようこそ / 愛のヒーロー! イケメンジョファイブ!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Fairilu House e Youkoso / Ai no Hero! Ikemen Jo Five!</title>
+</episode>
+<episode id="183575" update="2017-02-04">
+<epno type="1">51</epno>
+<length>25</length>
+<airdate>2017-01-28</airdate>
+<title xml:lang="ja">オリーブの決意 / ひまわり&amp;ダンテ 新たな絆</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Olive no Ketsui / Himawari &amp; Dante: Arata na Kizuna</title>
+</episode>
+<episode id="183576" update="2017-01-09">
+<epno type="1">50</epno>
+<length>25</length>
+<airdate>2017-01-21</airdate>
+<title xml:lang="ja">夢のフェアリルドア / はじめてのバディ誕生</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Yume no Fairilu Door / Hajimete no Buddy Tanjou</title>
+</episode>
+<episode id="183577" update="2017-02-04">
+<epno type="1">49</epno>
+<length>25</length>
+<airdate>2017-01-14</airdate>
+<title xml:lang="ja">大ピンチ! みんな赤ちゃんになっちゃった!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">Dai Pinch! Minna Akachan ni Nacchatta!</title>
+</episode>
+<episode id="183578" update="2017-01-09">
+<epno type="1">48</epno>
+<length>25</length>
+<airdate>2017-01-07</airdate>
+<title xml:lang="ja">セロリ &amp; ノーム 銀盤の出会い! / おゆきのともだち</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Celery &amp; Gnome: Ginban no Deai! / Oyuki no Tomodachi</title>
+</episode>
+<episode id="184325" update="2017-02-04">
+<epno type="1">55</epno>
+<length>25</length>
+<airdate>2017-02-25</airdate>
+<title xml:lang="ja">守りたい! つながる二人の想い</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Mamoritai! Tsunagaru Futari no Omoi</title>
+</episode>
+<episode id="184326" update="2017-02-04">
+<epno type="1">54</epno>
+<length>25</length>
+<airdate>2017-02-18</airdate>
+<title xml:lang="ja">あきらめない! りっぷ, 夢へのチャレンジ!</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Akiramenai! Lip, Yume e no Challenge!</title>
+</episode>
+<episode id="184327" update="2017-02-04">
+<epno type="1">53</epno>
+<length>25</length>
+<airdate>2017-02-11</airdate>
+<title xml:lang="ja">リトルフェアリルのバレンタインデー / 最初で最後!? りっぷのバレンタイン</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Little Fairilu no Valentine Day / Saisho de Saigo!? Lip no Valentine</title>
+</episode>
+<episode id="184328" update="2017-02-04">
+<epno type="1">52</epno>
+<length>25</length>
+<airdate>2017-02-04</airdate>
+<title xml:lang="ja">たとえ結ばれない恋だとしても...</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Tatoe Musubarenai Koi Dato Shite mo</title>
+</episode>
+<episode id="184977" update="2017-02-23">
+<epno type="1">56</epno>
+<length>25</length>
+<airdate>2017-03-04</airdate>
+<title xml:lang="ja">別れる世界と運命の二人!</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Wakare Sekai to Unmei no Futari!</title>
+</episode>
+<episode id="185022" update="2017-02-25">
+<epno type="1">59</epno>
+<length>25</length>
+<airdate>2017-03-25</airdate>
+<title xml:lang="ja">みんなでフェアリルアワード!</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Minna de Fairilu Award!</title>
+</episode>
+<episode id="185023" update="2017-02-25">
+<epno type="1">58</epno>
+<length>25</length>
+<airdate>2017-03-18</airdate>
+<title xml:lang="ja">リルリルフェアリル! アンチューサの花言葉!</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Rilu Rilu Fairilu! Anchusa no Hanakotoba!</title>
+</episode>
+<episode id="185024" update="2017-02-25">
+<epno type="1">57</epno>
+<length>25</length>
+<airdate>2017-03-11</airdate>
+<title xml:lang="ja">ビッグヒューマルの危機, フェアリルなんていない!</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Big Hyuumaru no Kiki, Fairilu nante Inai!</title>
+</episode>
+<episode id="186477" update="2017-03-27">
+<epno type="3">C4</epno>
+<length>2</length>
+<airdate>2016-09-24</airdate>
+<title xml:lang="en">Ending 3</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9688" restricted="false">
+<type>TV Series</type>
+<episodecount>5</episodecount>
+<startdate>2013-02-28</startdate>
+<enddate>2013-03-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tenpou Suikoden Neo</title>
+<title xml:lang="ja" type="official">天保水滸伝NEO</title>
+<title xml:lang="zh-Hans" type="official">天保水浒传NEO</title>
+</titles>
+<url>http://tenposuikoden.tohnosho-kanko.jp/</url>
+<creators>
+<name id="33855" type="Animation Work">Kachidoki Studio</name>
+</creators>
+<description>The anime is based off an old Japanese story, which in turn was inspired by the classic Chinese novel Suikoden (Water Margin).
+In the original story, a large band of outlaws are given amnesty by the government to fight foreign forces and rebels. The Tenpou Suidoken version relocates the story to the Chiba Prefecture town of Tonosho, and it revolves around the chivalrous battles of Sasagawa no Shigezou and Iioka Sukegorou.
+Source: ANN</description>
+<ratings>
+<permanent count="23">1.87</permanent>
+<temporary count="23">3.58</temporary>
+</ratings>
+<picture>134364.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>16273</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>17353</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tenposuikoden.tohnosho-kanko.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>天保水滸伝NEO</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="52999" type="main character in" update="2013-02-18">
+<name>Azuma Shouko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132337.jpg</picture>
+<seiyuu id="40635" picture="10189.jpeg">Makino Momoka</seiyuu>
+</character>
+<character id="53000" type="main character in" update="2013-02-18">
+<name>Sasagawano Shigezou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132338.jpg</picture>
+<seiyuu id="29318" picture="10176.jpeg">Sagawa Naoki</seiyuu>
+</character>
+<character id="53001" type="main character in" update="2013-02-18">
+<name>Hirate Miki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>132339.jpg</picture>
+<seiyuu id="56176" picture="223757.jpg">Satou Shinki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="148125" update="2013-03-19">
+<epno type="1">2</epno>
+<length>2</length>
+<airdate>2013-03-07</airdate>
+<title xml:lang="ja">笹川繁蔵との出逢い編</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Sasagawano Shigezou to no Deai Hen</title>
+</episode>
+<episode id="148126" update="2013-03-19">
+<epno type="1">1</epno>
+<length>2</length>
+<airdate>2013-02-28</airdate>
+<title xml:lang="ja">庄子タイムスリップ編</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Shouko Time Slip Hen</title>
+</episode>
+<episode id="148216" update="2013-03-19">
+<epno type="1">5</epno>
+<length>2</length>
+<airdate>2013-03-28</airdate>
+<title xml:lang="ja">別れ, そして出逢い編</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Wakare, Soshite Deai Hen</title>
+</episode>
+<episode id="148217" update="2013-03-19">
+<epno type="1">4</epno>
+<length>2</length>
+<airdate>2013-03-21</airdate>
+<title xml:lang="ja">飯岡助五郎との出逢い編</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Iioka Sukegorou to no Deai Hen</title>
+</episode>
+<episode id="148218" update="2013-03-19">
+<epno type="1">3</epno>
+<length>2</length>
+<airdate>2013-03-14</airdate>
+<title xml:lang="ja">平手造酒との出逢い編</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Hirate Miki to no Deai Hen</title>
+</episode>
+</episodes>
+</anime>

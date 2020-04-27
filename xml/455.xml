@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="455" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>1998-04-07</startdate>
+<enddate>1998-09-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Silent Mobius</title>
+<title xml:lang="en" type="synonym">Silent Mebius</title>
+<title xml:lang="x-jat" type="synonym">Silent Moebius</title>
+<title xml:lang="ja" type="official">サイレントメビウス</title>
+<title xml:lang="de" type="official">Silent Möbius</title>
+<title xml:lang="fr" type="official">Silent Möbius</title>
+<title xml:lang="pt-BR" type="official">Silent Mobius</title>
+<title xml:lang="es-LA" type="official">Silent Möbius</title>
+</titles>
+<relatedanime>
+<anime id="2334" type="Alternative Setting">Silent Mobius: The Motion Picture</anime>
+</relatedanime>
+<similaranime>
+<anime id="22" approval="6" total="12">Shinseiki Evangelion</anime>
+<anime id="749" approval="5" total="5">Devilman Lady</anime>
+</similaranime>
+<recommendations total="3">
+<recommendation type="Recommended" uid="334324">Good Anime, High Tech, Magic, and Demons at the same time. Complex Story and a little confusing sometimes. Story Ends a little short. Animation is much like YuYu Hakusho and PatLabor, lots of details and low CG. So pretty good for a late `90s anime, but not for everyone. Recommend watching the first few Episodes first.</recommendation>
+<recommendation type="Recommended" uid="73514">A classic "mad scientists conspiracy ruined the world" scenario, with mature romance instead of Evangelion`s whiny kids (thus closer to Rahxephon), plus a strong plead for friendship and "all is not lost".
+Average art (for its time), mediocre signature episodes for the characters and an horribly incomplete ending are fully compensated by a hyper-complex plot (where every detail is essential so that all pieces fall into their place in the end), a 19 year old female lead wrestling with her doubts and despair in a fantasy scenario (think Juuni Kokuki) and a bombastic-orchestral soundtrack (with the powerful OP song as shining highlight).
+Be prepared to read the manga (or the "organizations" part of the character database here) in order to get every last question answered though.</recommendation>
+</recommendations>
+<creators>
+<name id="2835" type="Chief Animation Direction">Takeuchi Nobuyuki</name>
+<name id="3718" type="Series Composition">Kawasaki Hiroyuki</name>
+<name id="5418" type="Series Composition">Tonokatsu Hideki</name>
+<name id="1021" type="Original Work">Asamiya Kia</name>
+<name id="5418" type="Chief Direction">Tonokatsu Hideki</name>
+<name id="6047" type="Music">Sudou Ken`ichi</name>
+<name id="7264" type="Character Design">Tanaka Masaki</name>
+<name id="29702" type="Music">Suzie Katayama</name>
+<name id="31555" type="Music">Furukawa Takashi</name>
+<name id="54339" type="Music">Jimmie Haskell</name>
+</creators>
+<description>* Based on the manga by http://anidb.net/cr1021 [Asamiya Kia] serialised in Comic Comp and later Comic Dragon.
+2023. Beings known as "Lucifer Hawk" have begun invading earth from another dimension. All that stands between them and the enslavement of the human race is the Attacked Mystification Police Department - a special division of the Tokyo Police staffed by women with amazing paranormal abilities. Will the abilities of http://anidb.net/ch13443 [Katsumi] and the AMP be enough to defeat these forces of darkness?</description>
+<ratings>
+<permanent count="737">4.63</permanent>
+<temporary count="744">6.67</temporary>
+<review count="1">9.16</review>
+</ratings>
+<picture>154139.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>349</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1517</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>444</identifier>
+<identifier>jxempi</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Silent_Möbius</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>サイレントメビウス</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88871</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1646</identifier>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/492</identifier>
+</externalentity>
+</resource>
+<resource type="15">
+<externalentity>
+<identifier>1998/silentmobius</identifier>
+</externalentity>
+</resource>
+<resource type="17">
+<externalentity>
+<identifier>silent</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="760" parentid="2274" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>robot helper</name>
+<description>In a http://anidb.net/t2846 [science fiction] setting, the robot helper is, in a comedic sense, pretty much equivalent to what the "cute comic relief http://anidb.net/t1835 [animal sidekick]" is in a fantasy setting. The usually small machine has artificial intelligence, enabling it to support their owner / master with advice or help with menial tasks.
+http://anidb.net/t1278 [Androids] should not be considered robot helpers since these are far more complex; use the android tag instead.</description>
+</tag>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="1278" parentid="2274" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>android</name>
+<description>An android is a robot or synthetic organism designed to look and act like a human.</description>
+<picurl>223943.jpg</picurl>
+</tag>
+<tag id="1864" parentid="2623" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-12-14">
+<name>extrasensory perception</name>
+<description>Extrasensory perception (ESP), involves reception of information not gained through the recognized physical senses but sensed with the mind. The term was coined by Sir Richard Burton, and adopted by Duke University psychologist J. B. Rhine to denote psychic abilities such as telepathy and clairvoyance, and their trans-temporal operation as precognition or retrocognition. ESP is also sometimes casually referred to as a sixth sense, gut instinct or hunch, which are historical English idioms. The term implies acquisition of information by means external to the basic limiting assumptions of science, such as that organisms can only receive information from the past to the present.
+In Japanese usage the term is often misappropriated to refer to any supernatural, non-magical, super power. Users of such powers are called `esper` in Japanese. The term `esper` is not normally in use outside of Japan but is slowly being introduced due to its usage in anime and manga.
+In anime/manga the following powers, among others, are described as ESP:
+- telepathy
+- precognition
+- clairvoyance
+- retrocognition
+- remote viewing
+- aura reading
+- out-of-body experiences (OBE)
+- psychokinesis</description>
+</tag>
+<tag id="1903" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-09-05">
+<name>gossip</name>
+<description>Gossip is idle talk or rumor, especially about the personal or private affairs of others.
+Source: Wikipedia</description>
+</tag>
+<tag id="1973" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-22">
+<name>cooking</name>
+<description>Cooking is the process of preparing food by using heat.</description>
+</tag>
+<tag id="2094" parentid="2849" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2015-10-25">
+<name>magic</name>
+<description>Magic is the art of purportedly manipulating aspects of reality either by supernatural means or through knowledge of unknown occult laws.</description>
+<picurl>178878.jpg</picurl>
+</tag>
+<tag id="2180" parentid="2636" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-02-24">
+<name>cyborg</name>
+<description>A cyborg is a cybernetic organism (i.e. an organism that has both artificial and natural systems). The term was coined in 1960 when Manfred Clynes and Nathan Kline used it in an article about the advantages of self-regulating human-machine systems in outer space. D. S. Halacy`s Cyborg: Evolution of the Superman in 1965 featured an introduction which spoke of a "new frontier" that was "not merely space, but more profoundly the relationship between `inner space` to `outer space` -a bridge...between mind and matter." The cyborg is often seen today merely as an organism that has enhanced abilities due to technology, but this perhaps oversimplifies the category of feedback.
+Fictional cyborgs are portrayed as a synthesis of organic and synthetic parts, and frequently pose the question of difference between human and machine as one concerned with morality, free will, and empathy. Fictional cyborgs may be represented as visibly mechanical (e.g. the Cybermen in the Doctor Who franchise or The Borg from Star Trek); or as almost indistinguishable from humans (e.g. the "Human" Cylons from the re-imagining of Battlestar Galactica). The 1970s television series The Six Million Dollar Man featured one of the most famous fictional cyborgs. Cyborgs in fiction often play up a human contempt for over-dependence on technology, particularly when used for war, and when used in ways that seem to threaten free will. Cyborgs are also often portrayed with physical or mental abilities far exceeding a human counterpart (military forms may have inbuilt weapons, among other things).
+Real (as opposed to fictional) cyborgs are more frequently people who use cybernetic technology to repair or overcome the physical and mental constraints of their bodies. While cyborgs are commonly thought of as mammals, they can be any kind of organism.
+[Source: wiki]</description>
+<picurl>42022.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2467" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-22">
+<name>sword</name>
+<description>A sword is a long, edged piece of metal, used as a cutting, thrusting, and clubbing weapon in many civilizations throughout the world. Before firearms became commonplace, and fast enough to render other weapons pointless in the battlefield, they were the main kind of weapon for war and duels alike. A sword fundamentally consists of a blade and a hilt, typically with one or two edges for striking and cutting, and a point for thrusting. That aside, however, they may come in all sorts of designs: the medieval European swords used to be big, heavy weapons that did not actually cut but instead broke the enemy`s bones under their armor; conversely, the Chinese jian sword (called "ken" in Japanese) attempted to exploit the armor`s joints and perforate the enemy`s flesh in those places, but was useless against the armor itself, and did not take the strikes, preferring to redirect them, to this day being considered a highly "circular" weapon and associated to taijiquan; on the other hand, the Japanese katana was a balanced all-purposes weapon that could be used even in an axe-like way, but which a master swordsman could use in many other, more elaborate manners.</description>
+<picurl>127113.jpg</picurl>
+</tag>
+<tag id="2481" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-08">
+<name>teleportation</name>
+<description>Teleportation is the transfer of matter from one point to another, possibly a distant one, without application of force, and generally instantly. This contradicts scientific law as we know it, and is therefore nowadays impossible. Sometimes it appears as a paranormal or supernatural ability, and sometimes it is shown in science fiction through technological devices backed up by scientific laws yet to be discovered.</description>
+</tag>
+<tag id="2555" parentid="2607" weight="0" localspoiler="true" globalspoiler="false" verified="true" update="2010-07-14">
+<name>amnesia</name>
+<description>The character suffers from some kind of amnesia (memory disturbance or loss). This may mean inability to memorize new information, or inability to recollect old memories. Since there are many types of memory, the person may e.g. forget who they are but still retain learned skills.
+Amnesia is fairly common in fiction as a plot device. In fact, because it allows for major plot changes while requiring little creativity from the author, it may be subject to heavy overuse.</description>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2618" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>collateral damage</name>
+<description>The usually action orientated anime does not only show large amounts of combat and weapon use, but also the incidental massive destruction of property, often due to the inability of the protagonists to aim properly.
+Example: Mecha duking it out in a densely populated urban area.</description>
+</tag>
+<tag id="2619" parentid="2841" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>gunfights</name>
+<description>Fights where two or more parties are firing guns at one another.</description>
+<picurl>211280.jpg</picurl>
+</tag>
+<tag id="2622" parentid="2841" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+<picurl>211286.jpg</picurl>
+</tag>
+<tag id="2623" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>super power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+<picurl>212182.jpg</picurl>
+</tag>
+<tag id="2626" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2628" parentid="2613" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-31">
+<name>fictional location</name>
+<description>A fictional location is a place or world which is run by different set of rules than our common and ordinary world. This may include completely fictional worlds with no semblance of Earth, computer-generated worlds, fantasy worlds, magical worlds, parallel worlds accessible through portals, and so on. Or it may be fictional places like floating islands, dungeons or planets, which can co-exist with ordinary Earth, but are otherwise separate from it.
+A world that generally shares the characteristics of, and/or is generally indistinguishable from the real world (bar research on a "more than cursory" level), would NOT be considered a fictional world. A good example is http://anidb.net/a4521 [Code Geass]. It contains several real world nationalities, such as http://anidb.net/a4521 [China], http://anidb.net/t2672 [Japan] (now Area 11), http://anidb.net/t5091 [India], etc, along with fictional nationalities such as http://anidb.net/t2361 [Britannia]. China, Japan, and India are easily identified with a cursory look. The location is unmistakably the planet Earth, even though national borders have been redrawn.
+The fictional world should only be tagged if it plays a materially important role in the plot and setting; generally, an episodic occurrence of a fictional world should not be tagged.
+A fantasy world is a type of fictional world, part of a fictional universe. Typical worlds involve, but are not limited to: magic or magical abilities, and/or a medieval theme. Some examples include: a parallel world tenuously connected to Earth via magical portals or items; a fictional Earth-like planet in the remote past or future; or an entirely independent world set in another universe. Many fantasy worlds draw heavily on real world history, geography, and sociology, and also on folklore.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2636" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>human enhancement</name>
+<description>Human enhancement can take various forms: It can be something comparatively non-intrusive as a power-up drug, a form of machine implantation or cyberization (http://anidb.net/a4414 [SAC Solid State Society]), or outright - possibly atrocious - genetic manipulation (http://anidb.net/a361 [Ao no 6 Gou]). Plot-wise enhanced protagonists in anime usually have to pay a price for their enhancements, be it physical or mental.</description>
+<picurl>223945.jpg</picurl>
+</tag>
+<tag id="2637" parentid="7050" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>time travel</name>
+<description>In time travel anime characters are transported through time either figuratively or literally to find themselves either in the past or the future</description>
+<picurl>210068.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2643" parentid="2638" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>power suit</name>
+<description>Power Suits are similar to Piloted Robots which are controlled from inside the robot except that Power Suits tend to be more directly tied to how the character moves and they are usually not as big as Piloted Robots can be. They are still mechanical and shouldn`t be confused with plug suits.</description>
+<picurl>222235.jpg</picurl>
+</tag>
+<tag id="2645" parentid="2274" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>piloted robot</name>
+<description>Piloted Robots are, as the name suggests, robots that cannot control themselves; they need to be steered from somewhere, this can be from a human sitting inside or a remote controlled option.</description>
+<picurl>222199.jpg</picurl>
+</tag>
+<tag id="2646" parentid="2849" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>demon</name>
+<description>In Western lore, demons are often described as minions from Hell, generally known to attack humans and feast on their flesh or possess the bodies of those with weak souls. In Eastern lore, on the other hand, they are generally supernatural, often but not always malevolent beings who can be more mischievous than actually evil, or simply supernatural spirits of no specific alignment.</description>
+</tag>
+<tag id="2648" parentid="2849" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-11-04">
+<name>contemporary fantasy</name>
+<description>Contemporary fantasy, also known as modern fantasy or indigenous fantasy, is a sub-genre of fantasy, set in the present day. It is perhaps most popular for its sub-genre, urban fantasy.
+These terms are used to describe stories set in the putative real world (often referred to as consensus reality) in contemporary times, in which magic and magical creatures exist, either living in the interstices of our world or leaking over from alternate worlds. It thus has much in common with, and sometimes overlaps with secret history; a work of fantasy in which the magic could not remain secret or does not have any known relationship to known history would not fit into this subgenre. Occasionally certain contemporary fantasy novels will make reference to pop culture.
+Novels in which modern characters travel into alternate worlds, and all the magical action takes place there (except for the portal required to transport them), are not considered contemporary fantasy. Thus, C.S. Lewis`s The Lion, the Witch and the Wardrobe, where all fantasy events take place in the land of Narnia which is reached via a magic wardrobe, would not count as contemporary fantasy; on the other hand, the part of The Magician`s Nephew, where the Empress Jadis gets to London, tries to take over the Earth and clashes with police and a crowd of cockneys, would qualify as such.
+Contemporary fantasy is also to be distinguished from horror fiction, which also often has contemporary settings. When encountering magical events and creatures, the protagonist of a horror novel is horrified, while the protagonist of a fantasy novel (contemporary or otherwise) is filled with a sense of joy and wonder. Horrifying events may happen, but the fundamental distinction is vital.
+In his preface to That Hideous Strength, one of the earlier works falling within this sub-genre, C.S. Lewis explained why, when writing a tale about "magicians, devils, pantomime animals and planetary angels", he chose to start it with a detailed depiction of narrow-minded academic politics at a provincial English university and the schemes of crooked real estate developers: "I am following the traditional fairy-tale. We do not always notice its method, because the cottages, castles, woodcutters and petty kings with which a fairy tale opens have become for us as remote as the witches and ogres to which it proceeds. But they were not remote at all to the men who first made and enjoyed the tales". The same is true for many of the later works in the genre, which often begin with a seemingly normal scene of modern daily life to then disclose supernatural and magical beings and events hidden behind the scenes.
+Source: wiki</description>
+</tag>
+<tag id="2672" parentid="2834" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2674" parentid="2834" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>China</name>
+<description>China, officially the People`s Republic of China (PRC), is a unitary sovereign state in East Asia and the world`s most populous country. It is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
+Source: Wikipedia</description>
+<picurl>214277.jpg</picurl>
+</tag>
+<tag id="2676" parentid="2672" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Tokyo</name>
+<description>Tokyo, officially Tokyo Metropolis, is the capital city of Japan and one of its 47 prefectures. The Greater Tokyo Area is the most populous metropolitan area in the world. It is the seat of the Emperor of Japan and the Japanese government. Tokyo is in the Kantou region on the southeastern side of the main island Honshu and includes the Izu Islands and Ogasawara Islands.
+Source: Wikipedia</description>
+<picurl>214311.jpg</picurl>
+</tag>
+<tag id="2748" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>sex</name>
+<description>Sexual intercourse, the ultimate bond of love and the "Origin of the World" (just think of Gustave Courbet`s painting: http://en.wikipedia.org/wiki/L%27Origine_du_monde).
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+<picurl>161190.jpg</picurl>
+</tag>
+<tag id="2749" parentid="2604" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2773" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-01-18">
+<name>magic circles</name>
+<description>A magic circle is circle or sphere of space marked out by practitioners of many branches of ritual magic. It may be marked physically, drawn in salt or chalk, for example, or merely visualised.
+Traditionally, circles have been used by ritual magicians to form a protective barrier between themselves and what they summoned. Nowadays, circles often have the more benign function of containing and concentrating the energy raised during a ritual. Circles can also be used as barriers for non-magical work such as meditation.
+Generally, as with most magical practices, an incantation is recited stating the purpose and nature of the circle, often repeating an assortment of divine and angelic names.
+Source: wiki</description>
+<picurl>32800.jpg</picurl>
+</tag>
+<tag id="2782" parentid="2858" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-03">
+<name>shoujo ai</name>
+<description>Shoujo Ai means girls love, and thus explores what happens when two girls (or women) fall in love. This is not to be mistaken for http://anidb.net/t2695 [Yuri] which is (or, at least, how this term is often used by the western audience) used in adult works. This is not; that means there is no graphic sex.
+The male version is http://anidb.net/t2783 [Shounen Ai].
+http://anidb.net/t7146 [Cute girls doing cute things (CGDCT)] is often mistaken as low level Yuri or Shoujo Ai. If there is no Yuri or Shoujo Ai subtext, i.e. if there is no romantic subtext, only tag CGDCT. Please note: CGDCT and yuri/shoujo ai are not mutually exclusive; it is possible to have an anime tagged both.</description>
+<picurl>210060.jpg</picurl>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2812" parentid="2832" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2013-03-15">
+<name>United States</name>
+<description>The United States of America (commonly referred to as the United States, the U.S., the USA, or America) is a federal constitutional republic comprising fifty states and a federal district. The country is situated mostly in central North America, where its forty-eight contiguous states and Washington, D.C., the capital district, lie between the Pacific and Atlantic Oceans, bordered by Canada to the north and Mexico to the south. The state of Alaska is in the north-west of the continent, with Canada to the east and Russia to the west across the Bering Strait. The state of Hawaii is an archipelago in the mid-Pacific. The country also possesses several territories in the Caribbean and Pacific.
+Source: wiki</description>
+<picurl>45504.jpg</picurl>
+</tag>
+<tag id="2829" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-10-21">
+<name>shower scene</name>
+<description>The anime contains a shower scene, obligatory for ecchi anime. The person under the shower will most likely be female — providing "fanservice".</description>
+<picurl>208635.jpg</picurl>
+</tag>
+<tag id="2832" parentid="2630" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Americas</name>
+<description>The Americas, also collectively called America, encompass the totality of the continents of North America and South America. Together they make up most of Earth`s western hemisphere and comprise the New World.
+Source: Wikipedia</description>
+<picurl>192247.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2838" parentid="2628" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-31">
+<name>parallel world</name>
+<description>A parallel world, parallel universe, or alternative reality is a self-contained separate reality coexisting with our own. Because "alternative reality" sometimes implies that the reality is a variant of our own, like for example a mirror world, we use the term "parallel world/universe" which is more general, without any connotations implying a relationship (or lack thereof) with our own world/universe (meaning a fictional world can just as well have an alternative reality, it doesn`t need to be our reality). To put it more simply, this category is to show if more than 1 world/universe/reality is present in the anime.
+Multiple timelines of the same world/universe/reality are NOT considered parallel worlds. For example, in http://anidb.net/a7729 [Steins;Gate] the cast travels through multiple "World Lines", which are defined as parallel timelines of the same universe had various events occurred with differing outcomes.</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2844" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>angst</name>
+<description>A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.
+Warning: may contain copious amounts of brooding and sighing.
+Etymology: "Angst" is a German word meaning fear or anxiety.</description>
+<picurl>212183.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2851" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-11">
+<name>horror</name>
+<description>The horror cinematic genre is characterized by the attempt to make the viewer experience dread, fear, terror, or horror. Often their plots involve the intrusion of an evil force, event or personage, sometimes of supernatural origin, on the mundane world and the consequences thereof.</description>
+<picurl>214682.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2861" parentid="2846" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>cyberpunk</name>
+<description>Cyberpunk focuses on computers or information technology, usually coupled with some degree of breakdown in social order. The plot often centres on a conflict among hackers, artificial intelligences, and mega corporations, tending to be set within a near-future dystopian Earth.</description>
+<picurl>211264.jpg</picurl>
+</tag>
+<tag id="2862" parentid="2607" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>friendship</name>
+<description>The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.</description>
+<picurl>65691.png</picurl>
+</tag>
+<tag id="2874" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-05-07">
+<name>disaster</name>
+<description>A disaster is a large-scale situation that causes great loss of or damage or threat to life, health, property, society, or the environment, irrespective of its source or cause. Disasters have substantial, long-lasting negative repercussions, and great effort must be spent in order to undo or mitigate their effects.</description>
+</tag>
+<tag id="2875" parentid="2607" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>ecology</name>
+<description>Nature and ecology are a central theme of this anime.</description>
+</tag>
+<tag id="2877" parentid="2607" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>revenge</name>
+<description>A primary factor that drives the plot forward, is the almost obsessive desire of one of the characters to get back at someone else.</description>
+</tag>
+<tag id="2878" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>conspiracy</name>
+<description>The conspiracy thriller (or paranoid thriller) is a sub-genre of the thriller which flourished in the 1970s in the US (and was echoed in other parts of the world) in the wake of a number of high-profile scandals and controversies (most notably Vietnam, the assassination of President Kennedy, Chappaquiddick and Watergate), and which exposed what many people regarded as the clandestine machinations and conspiracies beneath the orderly fabric of political life.
+The protagonists of conspiracy thrillers are often journalists or amateur investigators who find themselves (often inadvertently) pulling on a small thread which unravels a vast conspiracy that ultimately goes "all the way to the top".</description>
+</tag>
+<tag id="2885" parentid="2607" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-21">
+<name>law and order</name>
+<description>Where there is "wealth", there are criminals. It is up to the civil law enforcement, i.e. detectives, Police or Special Squads, to keep the lawless activities in the real world or in cyberspace under control.
+Note: Do not confuse this with Military presence.</description>
+<picurl>238616.jpg</picurl>
+</tag>
+<tag id="2897" parentid="2885" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-21">
+<name>police</name>
+<description>The police (civil servants) are the good guys in the battle against crime. Though they try hard, they are usually outclassed by super-criminals or criminal organizations in anime, requiring the help of special units or some lone hero.</description>
+<picurl>238615.jpg</picurl>
+</tag>
+<tag id="2898" parentid="2885" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-21">
+<name>special squads</name>
+<description>The Special Squads are called in when the police is completely outclassed, e.g. fighting criminal syndicates. These special forces are trained to combat specific forms of crime, e.g. the anti-cyber-crime division.
+There are several such squads: Whereas Section 9 of Ghost in the Shell is an official government organisation, there are also "benevolent" vigilante groups like the Knight Sabers (Bubblegum Crisis).
+Criminal syndicates also have their special forces e.g. "death squads".</description>
+<picurl>238613.jpg</picurl>
+</tag>
+<tag id="2907" parentid="2636" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-16">
+<name>genetic modification</name>
+<description>Story-wise, genetic modification is usually centred on humans, probably the most subtle and creepy way of messing with mankind. Playing with the fear of the unknown, genetically altered humans are technically a new species, that may not only surpass but actually replace unaltered humans. The level of modification will vary from subtle changes in "look" (e.g. super-human beauty), to mental enhancements (PSI powers), to more or less atrocious adaptations to extreme environments (breath under water, radiation resistance). Note that changes in Aliens would be difficult to pinpoint, after all they are alien.</description>
+<picurl>223941.jpg</picurl>
+</tag>
+<tag id="2923" parentid="2874" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2014-06-25">
+<name>post-apocalyptic</name>
+<description>An anime that takes place on future Earth (or it could be an alternative universe) after a major cataclysm has occurred. World War III, an alien invasion, plague, global warming or some other general disaster are common themes to build a post-apocalyptic world upon, where the effects were severe enough that mankind barely survived.
+The time frame may be immediately after the catastrophe, focusing on the travails or psychology of survivors, or considerably later, often including the theme that the existence of pre-catastrophe civilization has been forgotten (or mythologised). Post-apocalyptic stories often take place in an agrarian, non-technological future world, or a world where only scattered elements of technology remain. There is a considerable degree of blurring between post-apocalyptic fiction and that which deals with false utopias or dystopian societies.</description>
+<picurl>42081.jpg</picurl>
+</tag>
+<tag id="2925" parentid="2874" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>war</name>
+<description>War is a phenomenon of organized violent conflict, typified by extreme aggression, societal disruption and adaptation, and high mortality. The objective of warfare differs in accord with a group`s role in a conflict: The goals of offensive warfare are typically the submission, assimilation or destruction of another group, while the goals of defensive warfare are simply the repulsion of the offensive force and, often, survival itself. Relative to each other, combatants in warfare are called enemies. The terms military, militant, and militarism each refer to fundamental aspects of war, i.e. the organized group, the combative individual, and the supportive ethos (respectively).
+Source: wiki</description>
+<picurl>56441.jpg</picurl>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3028" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-17">
+<name>real-world location</name>
+<description>Places seen in the show exist in reality.
+Note: This could be sometime in the future, though names and certain places will still be recognizable.</description>
+</tag>
+<tag id="3075" parentid="2931" weight="0" localspoiler="true" globalspoiler="false" verified="false" update="2013-02-27">
+<name>nervous breakdown</name>
+<description>A character sees his entire world being destroyed around him, and his brain can`t take it anymore.</description>
+</tag>
+<tag id="3092" parentid="6233" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-03-02">
+<name>important haircut</name>
+<description>When a character cuts off his or her hair, it often symbolizes a rite of passage or bout of character growth. A princess striking out on an adventure, or a new recruit at boot camp, for instance. Hair is something that takes time and effort to grow, so parting with it voluntarily can be a powerful act.
+This is particularly a big deal when women get haircuts. Yet in fiction, even an accidental hair slicing can leave a character with a surprisingly even cut.
+In many religions (Western Christianity, Ancient Egyptian religion, and others) priests and/or monks cut/shave their hair. Roman Catholic nuns also tend to cut and mantain their hair short under their veils when they enter the nunneries. The cutting of one`s own hair is also a part of Buddhist mythology, specifically something done by Siddhartha himself early on in his path to enlightenment, so anime examples might draw from this as an allusion. There are also some cultures, including Native American and many Asians, where a person would cut his or her hair as an act of grief, disgrace, or even rebellion. In the Confucian tradition, hair (like the rest of your body) is considered a gift from your parents and may not be damaged without a very good reason. Furthermore, prisoners and psychiatric patients commonly have their heads shaved, often to prevent the spread of lice, but sometimes also as a demeaning measure.
+Source: TVTRope</description>
+<picurl>169641.jpg</picurl>
+</tag>
+<tag id="3167" parentid="2874" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-16">
+<name>Tokyo destroyed</name>
+<description>Tokyo is depicted as being or having been destroyed, either partially or completely, by some sort of disaster, such as a nuclear blast, a very large-scale fire, or rising sea levels. Should the situation be dire enough, Tokyo may be destroyed again after a recovery, or a new Tokyo may be built and subsequently destroyed, by a new disaster.</description>
+</tag>
+<tag id="3227" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-06-24">
+<name>introspection</name>
+<description>The characters in this anime do not walk through life simply accepting how they are, but quite on the contrary constantly try to understand their own motives, feelings and reactions to the other protagonists. 
+This self-searching included the questions: "Who am I?", "What makes me tick?", "What do I want?", "What do others expect of me?", etc.</description>
+</tag>
+<tag id="3316" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-08-10">
+<name>despair</name>
+<description>Involves characters that may be lost in negatively emotional atmospheres created through feelings of hopelessness and suffering.</description>
+</tag>
+<tag id="3411" parentid="2841" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>fighting</name>
+<description>For some reason or other one faction has to take it out on some opponent via fight or battle. Typical examples of this are all the anime with "endless pointless fighting" tag.</description>
+<picurl>211266.jpg</picurl>
+</tag>
+<tag id="3435" parentid="2851" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-17">
+<name>eating of humans</name>
+<description>The eating of humans, also called man-eating, is the practice of some species to prey on human beings for nourishment. Examples of possible hunters may include Earth animals, alien species, zombies or other undead, and so forth. Eating of humans is not to be confused with http://anidb.net/t3815 [human cannibalism]; the former is about other species eating people, while the latter is about humans eating fellow humans.</description>
+</tag>
+<tag id="3436" parentid="2846" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-23">
+<name>human experimentation</name>
+<description>Genetic, biological, chemical or psychological experimentation on human beings are portrayed or their aftermath is shown.</description>
+</tag>
+<tag id="3663" parentid="6347" weight="0" localspoiler="true" globalspoiler="false" verified="true" update="2014-11-14">
+<name>body takeover</name>
+<description>A person`s body is taken over by some foreign intelligence. It`s not brainwashing, because they still have control of their own mind — but that`s all they have. Either they`ve been reduced to a spectator in their own body, or their soul has been booted out of their body entirely. Either way, the rest of the cast will soon find he`s not himself.</description>
+</tag>
+<tag id="3667" parentid="2676" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Tokyo Tower</name>
+<description>Tokyo Tower is a communications and observation tower in the Shiba-koen district of Minato, Tokyo, Japan. At 332.9 metres, it is the second-tallest structure in Japan. The structure is an Eiffel Tower-inspired lattice tower that is painted white and international orange to comply with air safety regulations.
+Source: Wikipedia
+Note: Not to be confused with the very much younger http://anidb.net/t3037 [Tokyo Skytree].</description>
+<picurl>161123.jpg</picurl>
+</tag>
+<tag id="3759" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-04-11">
+<name>teamwork</name>
+<description>A cooperative effort by the members of a group or team to achieve a common goal.</description>
+</tag>
+<tag id="3809" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-05-24">
+<name>character driven</name>
+<description>The main appeal of the show is the way the characters are portrayed and interact, focusing on dialogue, spending time together or getting to know each other. These anime are not "story-less" but story is secondary to character development and the characters themselves and what they experience.</description>
+</tag>
+<tag id="3826" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-26">
+<name>evil laugh</name>
+<description>The thing all great evil villains do after saying/doing something evil.
+Some notable examples of great evil villains with evil laughs: Dr. Evil, Dr. Horrible, The Joker, Lelouche, Light, and Mickey Mouse.</description>
+</tag>
+<tag id="3898" parentid="2849" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-11-11">
+<name>science and magic coexist</name>
+<description>In this anime science and magic do not exclude each other. Magic here is actually very advanced, artefact- and/or ritual-based science.</description>
+</tag>
+<tag id="4096" parentid="2750" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-03-23">
+<name>gore</name>
+<description>A Splatter film or Gore film is a sub-genre of horror film that deliberately focuses on graphic portrayals of gore and graphic violence. These films, through the use of special effects and excessive blood and guts, tend to display an overt interest in the vulnerability of the human body and the theatricality of its mutilation. Due to their willingness to portray images society might consider shocking, splatter films share some ideological grounds with the transgressive art movement. The term "splatter cinema" was coined by George A. Romero to describe his film Dawn of the Dead, though Dawn of the Dead is generally considered by critics to have higher aspirations, such as social commentary, than to be simply exploitative for its own sake.
+[Source: wiki]</description>
+<picurl>32491.jpg</picurl>
+</tag>
+<tag id="4153" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2010-03-15">
+<name>dark</name>
+<description>Describes the overall mood in this anime. Dark colours, a non-happy, often tragic story, dark lighting, many night scenes or constantly dark skies, and continuous rain all contribute to setting this mood.
+The anime will often be quite depressing to watch.</description>
+</tag>
+<tag id="4217" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2012-02-11">
+<name>nightmares</name>
+<description>One or more characters in the anime are plagued by bad dreams.
+Possible causes: A traumatic experience in the past or induced by an external "presence".</description>
+</tag>
+<tag id="4228" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-11-09">
+<name>subtle OP ED sequence change</name>
+<description>A (small) part of the opening or ending sequence changes after a certain episode, usually to reflect a plot milestone.</description>
+</tag>
+<tag id="4299" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-04-29">
+<name>flashback</name>
+<description>A flashback is a moment in which someone remembers events from their past. In fiction, flashbacks are used primarily to give insight into a character`s mind or to reveal information which had been previously kept from the audience. They normally consist essentially of new content; in some cases, they may also consist of short snippets of already displayed content, as in http://anidb.net/ch23266 [Okabe Rintarou]`s flashbacks in http://anidb.net/a7729 [Steins;Gate], but even in these cases the flashbacks are used to look into what the character is thinking. As such, they are different from and should not be confused with recaps, which are old content being shown again for no particular purpose other than padding or reminding the audience of the events up to that point. As a rule of thumb, to qualify as a flashback, the scene must advance the show`s content in some way or form; anything else is just a recap.</description>
+</tag>
+<tag id="4333" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-07-06">
+<name>predominantly female cast</name>
+<description>A show with a predominantly female cast has mostly females as main and secondary cast members while few if any male characters have major roles. This also applies when a male lead is surrounded by females of lesser individual plot relevance, such as in a harem setting.</description>
+<picurl>70752.jpg</picurl>
+</tag>
+<tag id="4340" parentid="6242" weight="0" localspoiler="true" globalspoiler="false" verified="true" update="2011-09-26">
+<name>suicide</name>
+<description>One or several characters in this anime commit suicide.</description>
+</tag>
+<tag id="4520" parentid="2607" weight="0" localspoiler="true" globalspoiler="false" verified="true" update="2009-04-20">
+<name>betrayal</name>
+<description>Friends become enemies.
+Strong bonds of trust receive violations of confidence while friendships are faithlessly given up or revealed to have been false from the start.</description>
+</tag>
+<tag id="4537" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-15">
+<name>time skip</name>
+<description>The plot features at least one skip or jump in time.
+Example: A skip from the present into the past, or time skips in increments, e.g. every hour there is a time skip by a day.</description>
+</tag>
+<tag id="5821" parentid="5826" weight="0" localspoiler="false" globalspoiler="false" verified="true">
+<name>sibling rivalry</name>
+</tag>
+<tag id="5826" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-04-12">
+<name>rivalry</name>
+<description>Quite broadly used term describing a conflict, contest, struggle, or opposition of some sort.
+Typical examples: The mostly comedic rivalry for the love of a protagonist in a harem anime (love polygon), the more "mindless" battles between wannabe delinquents in a school fighting anime, or the struggle between good &amp; evil in an epic conflict for world domination.</description>
+</tag>
+<tag id="5846" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-12-26">
+<name>beach visit</name>
+<description>Every anime has to have them, episodes in which the characters for whatever reason end up going to the sea, ocean, random island or the local pond.
+Usually used for fanservice purpose as it gives the staff the opportunity to draw the characters in swimsuits and raise the DVD sales.
+The cheap version is the http://anidb.net/t6046 [pool episode].
+Other marginally less used variants of this are the http://anidb.net/t3444 [onsen episode] and the http://anidb.net/t2830 [furo scene], used when it is too cold for a beach/pool episode.
+See also http://anidb.net/t2830 [furo scene].</description>
+<picurl>160805.jpg</picurl>
+</tag>
+<tag id="5851" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>female protagonist</name>
+<description>The anime has a female protagonist.</description>
+</tag>
+<tag id="5889" parentid="2094" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-03-05">
+<name>magic weapons</name>
+<description>The characters in this anime wield magic weapons.</description>
+</tag>
+<tag id="5935" parentid="6233" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-07-06">
+<name>ass-kicking girls</name>
+<description>The female characters in the anime are very proficient in some form of martial arts, swordplay, or gunfights. They may also have super powers.</description>
+<picurl>71307.jpg</picurl>
+</tag>
+<tag id="5954" parentid="6233" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-02-17">
+<name>call my name</name>
+<description>"TETSUOOOOOO!!" "KANEDAAAAAA!!"
+"TAMAHOMEEEE!!" "MIAKAAAA!!"
+Feelings of any kind towards other characters are best shown by calling each other`s name, loud, REALLY LOUD. For better effect at least twice or thrice. For lover`s couples and mortal enemies it is a requirement to run towards each other while calling each other`s name, unaware of the surroundings.</description>
+</tag>
+<tag id="5965" parentid="6247" weight="0" localspoiler="false" globalspoiler="true" verified="false" update="2015-02-10">
+<name>incomplete story</name>
+<description>The show does not cover all of the original work (if present) or was cancelled prematurely, leaving plot lines unresolved or aborting character development. Sometimes the show runs through all its initially slotted episodes and adapts all of the original work (if applicable) but fails to present a proper ending, leaving viewers wondering whether they`re missing the final episodes.
+In some cases, this may overlap with the studio forging an anime-original ending. Such an ending normally manages to allow the show to "finish", but may still suffer from incomplete story issues.
+An incomplete storyline is not to be confused with the sequel bait, which is when the story presented by the show is finished but leaves enough room for a sequel to be produced. Sometimes this goes as far as to present a new potential problem in the last few minutes; that is usual for after-credits footage in movies.</description>
+</tag>
+<tag id="6006" parentid="6233" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-22">
+<name>Tokyo is the centre of the universe</name>
+<description>Whether it`s the big bad evil aiming for world domination, demons bringing the hell over to this site or aliens attacking the Earth, their centre of attention is always Tokyo, as if the rest of the world did not even exist!
+But worry not if you happen to live there, because your neighbour could just be the leader of a senshi team or the pilot of a giant mecha and they are surely going to save the day again.</description>
+</tag>
+<tag id="6018" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-11-27">
+<name>predominantly adult cast</name>
+<description>This show features mostly adults. That means children and teenagers are relatively rare and unlikely to hold significance to the plot.
+That is a rare trait in anime, as most shows spin around children or teenagers.</description>
+</tag>
+<tag id="6086" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-17">
+<name>the power of love</name>
+<description>The power of love is not only the strongest power known to mankind, it is the strongest power in the universe. The power of love conquers all things. It makes people cry, it makes people laugh, it can make them sing and occasionally it even brings dead people back to life, just so.
+More so than the power of friendship, the power of true love gives boundless strength and resolution; by the power of love every hardship can be overcome, every issue can be resolved and it does make people resistant to food poisoning (caused by the bad cooking of their loved ones). Even the big bad evil doesn`t stand a chance against the power of true love and often ends up redeemed.
+Even when the power of love is not literally and directly responsible, the scene is often set so that the audience is left with the impression that it was "really responsible".</description>
+</tag>
+<tag id="6148" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO EPISODE</name>
+<description>Tags under this parent tag are going to be moved to episode tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what episodes they should be assigned to.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6233" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-11">
+<name>tropes</name>
+<description>A trope is a commonly recurring literary and rhetorical devices, motifs or clichés in creative works. This use is a broader redefining of a literary trope, the use of figurative language, via word, phrase, or even an image, for artistic effect, such as using a figure of speech.
+Source: Wikipedia</description>
+</tag>
+<tag id="6242" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-24">
+<name>death</name>
+<description>Death is the state of no longer being alive or the process of ceasing to be alive.</description>
+</tag>
+<tag id="6247" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2019-06-02">
+<name>ending tags that need merging</name>
+<description>See also: http://anidb.net/post426253 [http://anidb.net/post426253] and http://anidb.net/c6774745 [http://anidb.net/c6774745]</description>
+</tag>
+<tag id="6347" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-17">
+<name>body and host</name>
+<description>When a foreign entity like that of a symbiote, body snatcher, puppeteer parasite, or even a hacker (when regarding machines like robots and computers) enters/outright hijacks a body, the possessed subject becomes what is usually called: the host.
+The basic purpose of the host varies on what the point was for it to have been hijacked in the first place. Sometimes it`s used as a disguise, other times it`s used as a decoy and destraction, even simply being used as a weapon and piece of armor that the possessor uses to cause sheer chaos and destruction, but sometimes... a host can be used for fetish fuel.</description>
+</tag>
+<tag id="6480" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-02-26">
+<name>gun - TO BE SPLIT AND DELETED</name>
+<description>This character uses at least one type of gun, or this anime has one character that uses at least one type of gun. Please tag the characters with the appropriate gun type tags (e.g. pistol, revolver, assault rifle, etc) and remove this tag from them or their corresponding anime afterwards. Thank you.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="9851" type="cameo appearance in" update="2009-06-24">
+<rating votes="7">5.15</rating>
+<name>Assembler</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>29885.jpg</picture>
+<seiyuu id="1870" picture="186893.jpg">Mizutani Yuuko</seiyuu>
+</character>
+<character id="13443" type="main character in" update="2010-12-27">
+<rating votes="8">7.54</rating>
+<name>Katsumi Liqueur</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Born on August 1st, 2006 as daughter of Fuyuka and http://anidb.net/ch25713 [Gigelf Liqueur] in Hawaii (USA). Being the child of the most powerful sorcerer of his time, Katsumi Liqueur has outstanding magical abilities as well (that http://anidb.net/ch13444 [Kiddy Phenyl] envies her for) but learns about these abilities only late and has a hard time to cope with her new responsibility.
+She joins the http://anidb.net/ch25714 [AMP] during the first episodes of this story and gets real close to her police work instructor http://anidb.net/ch25723 [Robert DeVice]. Her nationality changes from American (she came from Hawaii to Tokyo) to Japanese during the events of the movies.
+Her powers can be linked back to some http://anidb.net/ch25718 [Lucifer Hawk] blood in her veins, making her stand between the two warring parties of this story`s main conflict, ultimately leading to a fateful decision of hers.</description>
+<picture>40950.jpg</picture>
+<seiyuu id="291" picture="17122.jpg">Matsui Naoko</seiyuu>
+</character>
+<character id="13444" type="secondary cast in" update="2010-12-19">
+<rating votes="4">6.29</rating>
+<name>Kiddy Phenil</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Born in Australia on October 4th, 2005, she was a normal policewoman before she joined the AMP. She uses to pick on and fight with police officer http://anidb.net/ch25721 [Ralph Bowmers] but these two are getting closer over time.
+Her police unit has been slaughtered by a Megadyne (cyborg) named "http://anidb.net/ch25825 [Wire]"; originally a normal human, she got 70% of her body cybercoated in order to take revenge on him, lending her superhuman speed and power.</description>
+<picture>40951.jpg</picture>
+<seiyuu id="3058" picture="23960.jpg">Tsuru Hiromi</seiyuu>
+</character>
+<character id="13445" type="secondary cast in" update="2011-04-09">
+<rating votes="7">4.91</rating>
+<name>Yamigumo Nami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Heir to a long line of Shinto priests and exorcists, Nami is the most tranquil member of the AMP. She is also the tidiest, often shown cleaning up after http://anidb.net/ch13444 [Katsumi] and http://anidb.net/ch13443 [Kiddy].
+Nami typically wears a kimono instead of the AMP uniform. She uses holy water and ofuda (paper charms with kanji written on them) with varying degrees of effect on http://anidb.net/ch25718 [Lucifer Hawks]. She wields the Kirin Dagger and White Tiger Sword, two of the five sacred relics of the Yamigumo family. Nami also has the ability to detect Lucifer Hawks nearby.
+Source: wiki
+Her http://anidb.net/ch25788 [father] and http://anidb.net/ch25775 [grandfather] have both been involved in the events of the http://anidb.net/ch25784 [Project Gaia]; her sister http://anidb.net/ch25770 [Nana] failed to succeed her grandfather as the next head of the Yamigumo clan, thus the responsibility for setting things right has been imposed on Nami instead.</description>
+<picture>40954.jpg</picture>
+<seiyuu id="1742" picture="20193.jpg">Honda Chieko</seiyuu>
+</character>
+<character id="13446" type="secondary cast in" update="2010-12-25">
+<rating votes="9">6.36</rating>
+<name>Saiko Yuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Saiko Yuki (inspired by manga author http://anidb.net/cr1021 [Asamiya Kia]`s favourite actress http://anidb.net/cr13769 [Saitou Yuki], and also a play on "Psycho Yuki") is the http://anidb.net/ch25714 [AMP]`s mascot, dispatch officer and http://anidb.net/ch13447 [Lebia]`s data processing assistant. Although Yuki sometimes acts a little air-headed (she`s only a teenager), she can show a great deal of courage when needed.
+Yuki runs a small coffee shop called http://anidb.net/e12405 [Labyrinth], but it is more a hobby than a business since she is a full-time police officer. However, the lease stipulates that as long as she runs it, she doesn`t have to pay rent.
+As child, she was found by http://anidb.net/ch13449 [Rally Cheyenne] in the street crying and was later recruited for her enormous psychic powers. Her ability of precognition qualifies her for being a tactical advisor for other team members in battle. For Yuki`s origin see her childhood version http://anidb.net/ch25799 [Yuki-chan]; her character background in the http://anidb.net/a2638 [second movie] differs from the TV version as in the movie she`s not an AMP member yet when http://anidb.net/ch13443 [Katsumi] meets the AMP for the first time.
+She met her love interest, http://anidb.net/ch25803 [Washio Tooru] in 1997 as a result of an encounter with a http://anidb.net/ch25718 [Lucifer Hawk] and a magical coffee mill. Both were 17 at the time and she was 16. They met again after Yuki returned to her own time, 2027; http://anidb.net/ch25804 [Tooru] has waited over thirty years for her, and he turns out to be the landlord for her cafe.</description>
+<picture>40956.jpg</picture>
+<seiyuu id="489" picture="43165.jpg">Okamoto Maya</seiyuu>
+</character>
+<character id="13447" type="secondary cast in" update="2010-12-26">
+<rating votes="6">4.93</rating>
+<name>Lebia Maverick</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Born on January 1st, 2001; granddaughter of http://anidb.net/ch25760 [Stefan L. Maverick], one of the leaders of the "http://anidb.net/ch25784 [Project Gaia]". Squad leader of http://anidb.net/ch25714 [AMP] field work operations, third in command in the AMP hierarchy, pilot of the Simurgh aircraft.
+She is a http://anidb.net/ch25999 [visioneer], able to dive into computer networks and use all her senses there; she has "external body parts" including her "assistants" Huey (intelligent motorcycle), Dewey (vaguely humanoid robot) and Louie (AMP central computer) plus Donald (a military satellite in earth orbit holding her "external memory").</description>
+<picture>40952.jpg</picture>
+<seiyuu id="11016" picture="39570.jpg">Nagahori Miho</seiyuu>
+</character>
+<character id="13448" type="secondary cast in" update="2010-12-20">
+<rating votes="5">6.56</rating>
+<name>Isozaki Mana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>40953.jpg</picture>
+<seiyuu id="407" picture="17254.jpg">Koyama Mami</seiyuu>
+</character>
+<character id="13449" type="secondary cast in" update="2011-03-23">
+<rating votes="6">7.46</rating>
+<name>Rally Cheyenne</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>As founder and commander of the http://anidb.net/ch25714 [AMP], Rally is highly concerned with the well being of the officers under her command. She is very business-like in all her dealings, both with her own officers and with other police officials.
+Her private life is a total mystery. Rally seems to have significant financial resources.
+Rally has a younger sister by the name of http://anidb.net/ch25720 [Rosa]. Both siblings are half-http://anidb.net/ch25718 [Lucifer Hawk] which gives them great magical powers, though they are rarely shown. During their childhood they experienced persecution of the `devil`s children`; as a result, the older sibling is often reluctant to use her powers whereas Rosa decided to belong to http://anidb.net/ch25784 [Nemesis], siding with the Lucifer Hawks.
+Their parents are most likely dead. http://anidb.net/ch25787 [Lufa Cheyenne] may well have been her mother; in the manga she tells her fellow AMP people that her father (who is never visible in the anime) was from the Lucifer Hawk.</description>
+<picture>40955.jpg</picture>
+<seiyuu id="3250" picture="24693.jpg">Fujita Toshiko</seiyuu>
+</character>
+<character id="25712" type="secondary cast in" update="2010-12-23">
+<rating votes="2">6.02</rating>
+<name>Ganossa Maximilian</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Powerful wizard; former assistant of http://anidb.net/ch25713 [Gigelf Liqueur].
+Has sold his soul (and part of this body) to the king of Nemesis in order to gain power. He is at least 50 years old but his body ages backwards, i. e. grows younger over time.
+Ganossa was responsible for the failure of the "http://anidb.net/ch25784 [Project Gaia]", thus causing the "Silent Crisis".</description>
+<picture>60819.jpg</picture>
+<seiyuu id="1819" picture="20694.jpg">Shiozawa Kaneto</seiyuu>
+</character>
+<character id="25713" type="appears in" update="2010-12-25">
+<rating votes="2">6.05</rating>
+<name>Gigelf Liqueur</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Leader of the "http://anidb.net/ch25784 [Project Gaia]"; father of http://anidb.net/ch13443 [Katsumi Liqueur] (died when his daughter wasn`t even born, back in the days of the "Silent Crisis").</description>
+<picture>60820.jpg</picture>
+<seiyuu id="710" picture="228657.jpg">Hori Katsunosuke</seiyuu>
+</character>
+<character id="25714" type="appears in" update="2010-12-22">
+<rating votes="1">10.00</rating>
+<name>Tai Youmayou Tokushu Keisatsu</name>
+<gender>none/does not apply</gender>
+<charactertype id="3">Organization</charactertype>
+<description>To counter the frequent incidents known as "case of Third Attraction" caused by mystic creatures known as http://anidb.net/ch25718 [Lucifer Hawks], http://anidb.net/ch13449 [Rally Cheyenne] founded the Attacked Mystification Police Department (AMP) in 2023. "Fighting is destructive but women have the power to give birth, thus handing over fate to the next generation", is the core idea of all AMP members being women. "Normal humans can`t become AMP members" - each AMP member has some distinct super-human skill, be that magic or technical enhancements of their bodies.</description>
+<picture>60822.jpg</picture>
+</character>
+<character id="25715" type="secondary cast in" update="2015-02-11">
+<rating votes="5">4.97</rating>
+<name>Lum Cheng</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Young and impetuous, and also a little arrogant at times, but an aspiring Feng Shui mistress from Hong Kong. As granddaughter of the powerful magician http://anidb.net/ch25802 [Avalanche Wong], and probably related to guild magician http://anidb.net/ch25782 [Genvara Cheng] (whose intelligent sword Jesso she wields as his successor) she can apply elemental magic (fire and water).</description>
+<picture>60823.jpg</picture>
+<seiyuu id="692" picture="188445.jpg">Hiramatsu Akiko</seiyuu>
+</character>
+<character id="25716" type="appears in" update="2010-12-19">
+<rating votes="3">5.41</rating>
+<name>Annie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Childhood friend of http://anidb.net/ch13446 [Yuki Saiko].
+And as such participant in the http://anidb.net/ch25796 [YLEM project] to create the "perfect human weapon"; for this purpose she killed two other project members, http://anidb.net/ch25792 [Lisa Emelpha] and http://anidb.net/ch25791 [Hiroko Yamashita].</description>
+<picture>60824.jpg</picture>
+<seiyuu id="692" picture="188445.jpg">Hiramatsu Akiko</seiyuu>
+</character>
+<character id="25717" type="appears in" update="2010-12-15">
+<rating votes="1">3.07</rating>
+<name>Shokuin</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="10897" picture="39110.jpg">Yoshida Takashi</seiyuu>
+</character>
+<character id="25718" type="appears in" update="2010-12-17">
+<rating votes="1">1.78</rating>
+<name>Lucifer Hawks</name>
+<gender>none/does not apply</gender>
+<charactertype id="3">Organization</charactertype>
+<description>Lucifer Hawks are demons from another dimension (named "Nemesis" whereas our earth`s dimension is named "Gaia"). They appear in various shapes and sizes, and many of them are shape shifters.
+The http://anidb.net/ch25714 [AMP] classifies them in the following categories:
+* Category I: Usually humanoid, with abilities similar to those of the most powerful human magicians and at least as intelligent as these. They tend to be talkative and toy with humans.
+
+* Category II: Almost as intelligent as humans, capable of lower magic (such as summoning category III LHs) and fast regeneration. Their appearance is unforeseeable.
+
+* Category III: Lower ranked creatures, hardly more dangerous than animals, often looking like flying snakes or mantas. Normal firearms are fully effective against these beings, and their intelligence is low (they`re compared to insects at one point in the show).
+
+The more powerful Lucifer Hawks are able to take human shape; masses of lower LH can form larger beings and merge with existing objects. Both these facts aren`t known until late in the series and then become important for the course of events.
+Lucifer Hawks are genetically compatible to humans, and hybrids of both races do in fact exist, most notably the sisters http://anidb.net/ch13449 [Rally Cheyenne] and http://anidb.net/ch25720 [Rosa Cheyenne]. According to http://anidb.net/ch25762 [Grospoliner]`s statement, http://anidb.net/ch13443 [Katsumi Liqueur] (and probably other sorcerers as well) is distantly blood related to the LH from earlier generations. Thus there exists another
+* Category IV: Half-breeds between Lucifer Hawks and humans (no official AMP classification; Rally, Rosa and Katsumi plus perhaps her both parents http://anidb.net/ch25713 [Gigelf Liqueur] and http://anidb.net/ch25730 [Fuyuka Liqueur] are the only known beings of this type, http://anidb.net/ch25712 [Ganossa Maximilian] is human despite his abilities).
+Being a massive story spoiler, these hybrid LH intentionally haven`t been added to the "Lucifer Hawks" organization entry here (as the data model doesn`t support "hidden members").</description>
+<picture>60843.jpg</picture>
+</character>
+<character id="25719" type="appears in" update="2010-12-27">
+<rating votes="1">3.07</rating>
+<name>Zairim</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>An antiquarian. In his shop http://anidb.net/ch13446 [Saiko Yuki] spots a coffee-mill she wants to have at any price.
+
+Actually he is a http://anidb.net/ch26031 [Lucifer Hawk] who received orders by http://anidb.net/ch25720 [Rosa Cheyenne] to get rid of Yuki.</description>
+<picture>60847.jpg</picture>
+<seiyuu id="2201" picture="34284.jpg">Matsuo Ginzou</seiyuu>
+</character>
+<character id="25720" type="secondary cast in" update="2010-12-25">
+<rating votes="4">4.03</rating>
+<name>Rosa Cheyenne</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch13449 [Rally Cheyenne]`s sister, apparently 2-4 years younger than Rally (judging by their appearance when they were kids).
+Like Rally she`s a half-breed human / http://anidb.net/ch25718 [Lucifer Hawk]. She suffers from an inferiority complex, urging her to get rid of her eternal "younger sister" image at any cost - even by killing Rally if necessary.</description>
+<picture>60849.jpg</picture>
+<seiyuu id="404" picture="151682.jpg">Takashima Gara</seiyuu>
+</character>
+<character id="25721" type="secondary cast in" update="2010-12-15">
+<rating votes="3">5.48</rating>
+<name>Ralph Bowmers</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Police inspector in Tokyo. Often quarrels with http://anidb.net/ch13444 [Kiddy Phenyl] but they get close over time.</description>
+<picture>60850.jpg</picture>
+<seiyuu id="455" picture="17356.jpg">Matsumoto Yasunori</seiyuu>
+</character>
+<character id="25722" type="appears in" update="2010-12-25">
+<rating votes="2">7.92</rating>
+<name>Rally (Kodomo Jidai)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Rally Cheyenne as child, back in the days of the http://anidb.net/ch25784 [Project Gaia].</description>
+<picture>60851.jpg</picture>
+<seiyuu id="2051" picture="224288.jpg">Tsuruno Kyouko</seiyuu>
+</character>
+<character id="25723" type="secondary cast in" update="2010-12-23">
+<rating votes="3">3.59</rating>
+<name>Robert DeVice</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nicknamed "Roy", Robert DeVice is a member of the http://anidb.net/ch25724 [mobile police squad "Thunderbolt"] in Tokyo, and police instructor of http://anidb.net/ch13443 [Katsumi Liqueur].
+He and Katsumi become lovers over time; Roy`s death is the trigger of Katsumi`s biggest emotional crisis.</description>
+<picture>60852.jpg</picture>
+<seiyuu id="3277" picture="192234.jpg">Hashimoto Kouichi</seiyuu>
+</character>
+<character id="25724" type="appears in" update="2010-12-23">
+<rating votes="1">3.07</rating>
+<name>Keisatsu Kankeisha</name>
+<gender>none/does not apply</gender>
+<charactertype id="3">Organization</charactertype>
+<description>The Mobile Police Squad known as "Thunderbold" is a highly equipped special team, unlike the http://anidb.net/ch25721 [normal inspectors of the Tokyo Police] but not on par with the http://anidb.net/ch25714 [AMP] and their superhuman abilities.</description>
+<picture>61256.jpg</picture>
+</character>
+<character id="25725" type="appears in" update="2010-12-21">
+<rating votes="1">3.07</rating>
+<name>Aida Nachi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Member of the mobile police squad "Thunderbolt" of Tokyo; best friend of http://anidb.net/ch25723 [Robert DeVice]. His full name (from the manga and the second movie where he has only a cameo appearance) is Aida Nachi.
+Turns into a monster in the TV series, after an (illegal) experiment of his police office with the drug "http://anidb.net/ch25824 [Domull]".</description>
+<picture>60854.jpg</picture>
+<seiyuu id="52" picture="19811.jpg">Takahashi Hiroki</seiyuu>
+</character>
+<character id="25726" type="appears in" update="2010-12-25">
+<rating votes="1">3.07</rating>
+<name>Diros</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Member of the http://anidb.net/ch25724 [mobile police squad "Thunderbolt"] of Tokyo. His full name (from the manga) is Diros Cone.</description>
+<picture>60856.jpg</picture>
+<seiyuu id="23044" picture="60858.jpg">Ogata Masahiro</seiyuu>
+</character>
+<character id="25727" type="appears in" update="2010-12-25">
+<rating votes="1">3.07</rating>
+<name>Jose</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Member of the http://anidb.net/ch25724 [mobile police squad "Thunderbolt"] of Tokyo. His full name (from the manga) is José Gilliam.</description>
+<picture>60859.jpg</picture>
+<seiyuu id="10897" picture="39110.jpg">Yoshida Takashi</seiyuu>
+</character>
+<character id="25728" type="appears in" update="2010-12-25">
+<rating votes="1">3.07</rating>
+<name>Izawa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Member of the http://anidb.net/ch25724 [mobile police squad "Thunderbolt"] of Tokyo. His full name (from the manga) is Izawa Nozomu.</description>
+<picture>60860.jpg</picture>
+<seiyuu id="9687" picture="46695.jpg">Matsuda Yuuki</seiyuu>
+</character>
+<character id="25729" type="appears in" update="2010-12-25">
+<rating votes="2">3.43</rating>
+<name>Rosa (Kodomo Jidai)</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Rosa Cheyenne as child, back in the days of the http://anidb.net/ch25784 [Project Gaia].</description>
+<picture>60861.jpg</picture>
+<seiyuu id="433" picture="17312.jpg">Nagata Ryouko</seiyuu>
+</character>
+<character id="25730" type="appears in" update="2011-04-07">
+<rating votes="1">10.00</rating>
+<name>Fuyuka Liqueur</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Fuyuka Liqueur (formerly known as http://anidb.net/ch25731 [Hazuki Fuyuka]), at the age of about 45 years, during the events of http://anidb.net/a2334 [Silent Mobius: The Motion Picture].
+She has magic abilities (not relevant in http://anidb.net/a455 [the TV series] but shown in more depth during http://anidb.net/a2334 [the first movie]).
+She died during the flashback part of this first movie which takes place in the year 2024.</description>
+<picture>60862.jpg</picture>
+<seiyuu id="3703" picture="151656.jpg">Ikeda Masako</seiyuu>
+</character>
+<character id="25731" type="appears in" update="2010-12-17">
+<rating votes="3">4.59</rating>
+<name>Hazuki Fuyuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Long before the events of this series began, Hazuki Fuyuka (later to be come http://anidb.net/ch25730 [Fuyuka Liqueur]) took lessons of paranormal exercises by the famous sorcerer http://anidb.net/ch25713 [Gigelf Liqueur].
+Years later she worked as news anchor for the TV station "TV Kanto" where she became close with Gigelf whom she married later, and eventually gave birth to their daughter http://anidb.net/ch13443 [Katsumi Liqueur].</description>
+<picture>60863.jpg</picture>
+<seiyuu id="3703" picture="151656.jpg">Ikeda Masako</seiyuu>
+</character>
+<character id="25760" type="appears in" update="2010-12-25">
+<rating votes="1">5.14</rating>
+<name>Stefan L. Maverick</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Stefan L. Maverick, grandfather of http://anidb.net/ch13447 [Lebia Maverick], was one of the leading scientists in Tokyo. He discovered the http://anidb.net/ch25999 [visioneers]; he`s also the builder of the Cyclotron, and as such participant in the "http://anidb.net/ch25784 [Project Gaia]".</description>
+<picture>60910.jpg</picture>
+<seiyuu id="39" picture="16629.jpg">Mugihito</seiyuu>
+</character>
+<character id="25761" type="appears in" update="2010-12-25">
+<rating votes="1">1.78</rating>
+<name>Du Levon</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>Attempts to persuade http://anidb.net/ch13443 [Katsumi Liqueur] to accompany him to http://anidb.net/ch25784 [Nemesis]. As she is "the key" the http://anidb.net/ch25718 [Lucifer Hawks] are looking for.</description>
+<picture>60911.jpg</picture>
+<seiyuu id="242" picture="238968.jpg">Nakata Kazuhiro</seiyuu>
+</character>
+<character id="25762" type="secondary cast in" update="2010-12-17">
+<rating votes="2">8.29</rating>
+<name>Grospoliner</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<description>Intelligent magical sword, can talk and use some magic; shrinks to its passive form where it looks like the head of an animal but forms a blade of about four yards length when used in battle.
+Originally wielded by http://anidb.net/ch25713 [Gigelf Liqueur] (both fought together in the days of the "Silent Crisis").
+Grospoliner was "sealed" after the war. A generation later http://anidb.net/ch13443 [Katsumi Liqueur] breaks this seal, and they form a pack of blood during episode 8. Occasionally Grospoliner acts as Katsumi`s tactical adviser (rather in the Silent Möbius movies than in the TV series).</description>
+<picture>60913.jpg</picture>
+<seiyuu id="480" picture="232940.jpg">Kawakubo Kiyoshi</seiyuu>
+</character>
+<character id="25763" type="appears in" update="2010-12-17">
+<rating votes="1">1.78</rating>
+<name>Carua Se</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch25718 [Lucifer Hawk], probably of Category I. Intelligent, polite, and cooperative; not interested in any fight, communicates peacefully with http://anidb.net/ch25714 [AMP] members.
+Informs http://anidb.net/ch13443 [Katsumi Liqueur] about the role her father http://anidb.net/ch25713 [Gigelf Liqueur] had played in terms of the Lucifer Hawks` presence in this dimension.</description>
+<picture>60914.jpg</picture>
+<seiyuu id="293" picture="185431.jpg">Matsuyama Takashi</seiyuu>
+</character>
+<character id="25764" type="appears in" update="2010-12-25">
+<rating votes="1">1.78</rating>
+<name>Sivrovitz</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>A high-level http://anidb.net/ch25718 [Lucifer Hawk].
+He lures http://anidb.net/ch13443 [Katsumi Liqueur] away from the rest of the http://anidb.net/ch25714 [AMP] in order to attack her alone.</description>
+<picture>60915.jpg</picture>
+<seiyuu id="611" picture="18094.jpg">Nomura Kenji</seiyuu>
+</character>
+<character id="25765" type="appears in" update="2010-12-17">
+<rating votes="1">1.78</rating>
+<name>Rave Savedeath</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>Sacrifices his existence for http://anidb.net/ch13443 [Katsumi Liqueur] in order to protect her against an attack by humans at her, as she is suspected to be one of these "Category IV http://anidb.net/ch25718 [Lucifer Hawks]" who are hated the most by the human population.
+Later the scene turns out to be an illusion created by http://anidb.net/ch25712 [Ganossa Maximilian] to make Katsumi (who is in fact half-breed human/LH) side with the Lucifer Hawks.</description>
+<picture>60916.jpg</picture>
+<seiyuu id="226" picture="17045.jpg">Nakata Jouji</seiyuu>
+</character>
+<character id="25766" type="appears in" update="2011-04-09">
+<rating votes="1">1.78</rating>
+<name>Varex Manavidan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>A http://anidb.net/ch25718 [Lucifer Hawk] as leader of the "ghouls", a criminal organization in "Heaven`s Hole" (a lower district of Tokyo).
+He orders the ghouls to attack the http://anidb.net/ch25724 [Mobile Police Squad] of Tokyo until the http://anidb.net/ch25714 [AMP] intervenes.</description>
+<picture>60917.jpg</picture>
+<seiyuu id="23048">Masago Katsumi</seiyuu>
+</character>
+<character id="25767" type="appears in" update="2010-12-25">
+<rating votes="1">1.78</rating>
+<name>Nexus no Master</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Owner of the restaurant "Nexus" (and "Master" is the "Japanese" term for this).
+The original credit (even in Wikipedia) reads "UEXUSのマスター" but during http://anidb.net/e11965 [the episode] the sign of his restaurant is clearly visible, with a baroque "NEXUS" lettering so this is most likely a reading error by the anime staff who wrote the credits.</description>
+<picture>60918.jpg</picture>
+<seiyuu id="23049">Okita Souju</seiyuu>
+</character>
+<character id="25768" type="appears in" update="2010-12-17">
+<rating votes="1">1.22</rating>
+<name>Nexus no Master</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>His true nature is being a http://anidb.net/ch25718 [Lucifer Hawk] in disguise.</description>
+<picture>60919.jpg</picture>
+</character>
+<character id="25769" type="appears in" update="2010-12-18">
+<rating votes="1">5.14</rating>
+<name>Teres</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A kind of "gatekeeper between the worlds"; her exact status is unknown. She appears human but might be a supernatural being.
+Her name is taken from the manga but never mentioned in the anime.
+She informs http://anidb.net/ch25713 [Gigelf Liqueur] that http://anidb.net/ch25712 [Ganossa Maximilian] is about to sabotage the http://anidb.net/ch25784 [Project Gaia].</description>
+<picture>60930.jpg</picture>
+<seiyuu id="3304" picture="186561.jpg">Hirano Fumi</seiyuu>
+</character>
+<character id="25770" type="appears in" update="2011-04-09">
+<rating votes="1">3.07</rating>
+<name>Yamigumo Nana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch13445 [Yamigumo Nami]`s older sister.
+She was supposed to become to head of the Yamigumo clan but failed the corresponding test years ago, thus putting the burden on Nami`s shoulders instead.</description>
+<picture>60931.jpg</picture>
+<seiyuu id="508" picture="140061.jpg">Shimamoto Sumi</seiyuu>
+</character>
+<character id="25771" type="appears in" update="2010-12-25">
+<rating votes="1">7.49</rating>
+<name>Chrome</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Undercover police agent in "Heaven`s Hole", a part of Tokyo that normal police has little access to. Apparently on very good terms with http://anidb.net/ch25723 [Robert DeVice] though details are never disclosed.
+Provides http://anidb.net/ch13443 [Katsumi Liqueur] and http://anidb.net/ch25723 [Robert DeVice] with new equipment after they crashed into "Heaven`s Hole" with their "Spinner" police aircraft (that has been sabotaged by http://anidb.net/ch25772 [Roy`s police superiors]).</description>
+<picture>60932.jpg</picture>
+<seiyuu id="404" picture="151682.jpg">Takashima Gara</seiyuu>
+</character>
+<character id="25772" type="appears in" update="2010-12-25">
+<rating votes="1">1.04</rating>
+<name>Boss</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Leader of Tokyo`s http://anidb.net/ch25724 [mobile police squad].
+Opposes all efforts of the http://anidb.net/ch25714 [AMP] to get a special status as independent police unit; for this purpose he goes as far as supporting an http://anidb.net/ch25771 [assault against an AMP member]. Also jointly responsible for the http://anidb.net/ch25725 ["Domull" project].
+</description>
+<picture>60934.jpg</picture>
+<seiyuu id="2279" picture="23207.jpg">Satou Masaharu</seiyuu>
+</character>
+<character id="25774" type="appears in" update="2010-12-25">
+<rating votes="1">3.07</rating>
+<name>Onna Tomodachi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch13443 [Katsumi Liqueur]`s female friend, a colleague at her office in Hawaii, Katsumi`s hometown. (No picture as her only appearance is as voice during a phone call of Katsumi from Tokyo.)</description>
+<seiyuu id="4962" picture="60945.jpg">Toyoshima Masami</seiyuu>
+</character>
+<character id="25775" type="appears in" update="2010-12-25">
+<rating votes="1">5.14</rating>
+<name>Yamigumo Kouhou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Shinto priest with magic abilities; head of the Yamigumo clan. Lives at the Shinto shrine three hundred meters underground owned by his family; his granddaughter http://anidb.net/ch13445 [Nami] visits this location in episode 7.
+He had a leading position in the "http://anidb.net/ch25784 [Project Gaia]" many years ago, thus puts Nami (as http://anidb.net/ch25714 [AMP] member) in charge of correcting the mistakes that he and his son http://anidb.net/ch25788 [Razan] made back then; details about this are disclosed only in the manga.</description>
+<picture>60949.jpg</picture>
+<seiyuu id="3325">Yamanouchi Masato</seiyuu>
+</character>
+<character id="25776" type="appears in" update="2010-12-17">
+<rating votes="1">3.07</rating>
+<name>Naitou Director</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Director Naitou is http://anidb.net/ch25731 [Hadzuki Fuyuka]`s superior at the TV news station where she worked before she met http://anidb.net/ch25713 [Gigelf Liqueur]. He likes to tease Fuyuka with the way Gigelf worships her.</description>
+<picture>60950.jpg</picture>
+<seiyuu id="23086" picture="60946.jpg">Seta Ikkei</seiyuu>
+</character>
+<character id="25777" type="appears in" update="2010-12-19">
+<rating votes="1">1.00</rating>
+<name>Tajima Hakase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Manager of a scientific laboratory named after him, responsible for the http://anidb.net/ch25796 [YLEM project]. (His given name is mentioned in one dialog line by http://anidb.net/ch25716 [Annie].)</description>
+<picture>60951.jpg</picture>
+<seiyuu id="2279" picture="23207.jpg">Satou Masaharu</seiyuu>
+</character>
+<character id="25778" type="appears in" update="2010-12-25">
+<rating votes="1">5.14</rating>
+<name>Grover</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch25999 [Visioneer] in "Junk Castle", long-time friend of http://anidb.net/ch13447 [Lebia Maverick]
+Makes the girl aware that work isn`t everything during http://anidb.net/e10684 [her signature episode].</description>
+<picture>60954.jpg</picture>
+<seiyuu id="541" picture="26117.jpg">Chiba Shigeru</seiyuu>
+</character>
+<character id="25779" type="appears in" update="2010-12-18">
+<rating votes="1">3.07</rating>
+<name>Kyuu-Kyuu announce</name>
+<gender>unknown</gender>
+<charactertype id="4">Vessel</charactertype>
+<description>A flying first-aid medical vehicle making a tannoy announcement during a blackout of Tokyo`s energy supply.</description>
+<picture>60955.jpg</picture>
+<seiyuu id="23044" picture="60858.jpg">Ogata Masahiro</seiyuu>
+</character>
+<character id="25780" type="appears in" update="2010-12-25">
+<rating votes="1">1.04</rating>
+<name>Shiobara</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch25712 [Ganossa Maximilian]`s assistant at the time of the "http://anidb.net/ch25784 [Project Gaia]". His full name Shiobara Souichirou is mentioned only in the manga.
+During his attack against http://anidb.net/ch25713 [Gigelf Liqueur] he apparently transforms into a http://anidb.net/ch25718 [Lucifer Hawk].</description>
+<picture>60956.jpg</picture>
+<seiyuu id="293" picture="185431.jpg">Matsuyama Takashi</seiyuu>
+</character>
+<character id="25781" type="appears in" update="2010-12-25">
+<rating votes="1">1.78</rating>
+<name>Flecks</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch25713 [Gigelf Liqueur]`s assistant back in the days of the http://anidb.net/ch25784 [Project Gaia].</description>
+<picture>60957.jpg</picture>
+<seiyuu id="254" picture="17073.jpg">Yamaguchi Kappei</seiyuu>
+</character>
+<character id="25782" type="appears in" update="2015-02-11">
+<rating votes="1">3.07</rating>
+<name>Genvara</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Genvara Cheng (his family name is mentioned only in the manga) is a member of the http://anidb.net/ch25784 [Magician`s Guild] and the original wielder of the Imperial Sword Jesso. His successor for this weapon later became http://anidb.net/ch25715 [Lum Cheng] (so apparently they`re family but the exact relation is never disclosed). He was very close with http://anidb.net/ch13448 [Isozaki Mana] (but again the details are never fully disclosed).
+Genvara was killed by Mana while she was under control of the Demon Sword Medium.</description>
+<picture>60960.jpg</picture>
+<seiyuu id="384" picture="17230.jpg">Seki Toshihiko</seiyuu>
+</character>
+<character id="25784" type="appears in" update="2011-03-24">
+<rating votes="1">5.14</rating>
+<name>Magicians Guild</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<description>For centuries the Magicians Guild was operating in disguise in order to protect Earth from evil. In the light of the rapid decay of human society, in the year 1999 they started a last attempt to give humankind a new hope - the "Project Gaia", joining the their magical forces (under the lead of http://anidb.net/ch25713 [Gigelf Liqueur]) with the technical abilities of the famous scientist http://anidb.net/ch25760 [Stefan L. Maverick], the creator of the Cyclotron.
+Project Gaia was an attempt to make the two dimensions Gaia (our Earth/universe) and Nemesis (the parallel world of the http://anidb.net/ch25718 [Lucifer Hawks]) have limited contact to "exchange impure molecules" and thus "healing" both worlds. Nemesis agreed to these plans and put http://anidb.net/ch25712 [Ganossa Maximilian] in charge of their side of operations. But the project failed, causing the "Silent Crisis" (with millions of casualties on Earth, including nearly all members of the Magicians Guild).
+Ganossa sabotaged the project (the dimension gate was opened only for a small gap but then the Cyclotron as opening mechanism got out of control), and many Lucifer Hawks began wandering around freely on earth, killing and eating humans.
+So while attempting to heal the world, Gigelf (by accident) had opened the door for the Lucifer Hawks to our dimension, and only his daughter http://anidb.net/ch13443 [Katsumi Liqueur] (having inherited Gigelf`s magical power) will be able to either fully open or completely close the dimension gate - she`s "the key". But Ganossa is still alive and has his own agenda, concealed even from the King of Nemesis.
+24 years later, http://anidb.net/ch13449 [Rally Cheyenne] (being the daughter of a Guild Magician but only a child in the days of the Silent Crisis) formed the http://anidb.net/ch25714 [AMP] with the intention of making up for this failure and continuing the work of the Magicians Guild to protect humankind; nearly all other AMP members (Katsumi as Gigelf`s daughter, http://anidb.net/ch13447 [Lebia] as Stefan L. Maverick`s granddaughter, http://anidb.net/ch13445 [Nami] as http://anidb.net/ch25788 [Razan]`s daughter, http://anidb.net/ch13448 [Mana] as http://anidb.net/ch25782 [Genvara]`s financé, http://anidb.net/ch25715 [Lum Cheng] as http://anidb.net/ch25802 [Avalanche Wong]`s granddaughter) are also closely related to key figures of the project, thus carrying the responsibility for the deeds of their ancestors on their shoulders.</description>
+<picture>60962.jpg</picture>
+</character>
+<character id="25786" type="appears in" update="2010-12-25">
+<rating votes="1">3.07</rating>
+<name>Brighton</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A http://anidb.net/ch25784 [Magicians Guild] member, nicknamed "Fighting Machine". (According to the manga his ability is to manipulate the force of gravity.)</description>
+<picture>60963.jpg</picture>
+<seiyuu id="339" picture="79312.jpg">Ishizuka Unshou</seiyuu>
+</character>
+<character id="25787" type="appears in" update="2010-12-25">
+<rating votes="1">7.49</rating>
+<name>Lufa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A member of the http://anidb.net/ch25784 [Magicians Guild]; expert for teleportation.
+The manga has her name as "Lufa Cheyenne", implying she is http://anidb.net/ch13449 [Rally]`s and http://anidb.net/ch25720 [Rosa]`s mother.
+We can see Rally teleport herself in http://anidb.net/e18204 [episode 24] so she might have inherited this ability.</description>
+<picture>60964.jpg</picture>
+<seiyuu id="494" picture="17485.jpg">Ichijou Miyuki</seiyuu>
+</character>
+<character id="25788" type="appears in" update="2010-12-25">
+<rating votes="1">1.78</rating>
+<name>Yamigumo Razan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Shinto priest and sword fighter; son of http://anidb.net/ch25775 [Yamigumo Kouhou], father of http://anidb.net/ch13445 [Yamigumo Nami] and http://anidb.net/ch25770 [Yamigumo Nana]. Has a high sense of honor but is prone to imprudent actions.
+Tried to foil the "http://anidb.net/ch25784 [Project Gaia]" (that he considered too dangerous) by attempting to kill http://anidb.net/ch25713 [Gigelf Liqueur] but aborted his sword attack when http://anidb.net/ch25731 [Hazuki Fuyuka] protected Gigelf with her body. Later he joined forces with Gigelf and fought at his side; in the manga his role is more substantial than in the anime.</description>
+<picture>60965.jpg</picture>
+<seiyuu id="286" picture="17117.jpg">Ootsuka Akio</seiyuu>
+</character>
+<character id="25791" type="appears in" update="2011-03-23">
+<rating votes="2">4.45</rating>
+<name>Hiroko Yamashita</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hiroko Yamashita is a childhood friend of http://anidb.net/ch13446 [Yuki Saiko].
+She appears only as photograph (with her name in roumaji, no kanji) on a screen of the http://anidb.net/ch25714 [AMP] office when her death is reported in the TV news.
+She was part of the http://anidb.net/ch25796 [YLEM project] and escaped from the laboratory together with her friends Yuki and http://anidb.net/ch25792 [Lisa].</description>
+<picture>60975.jpg</picture>
+</character>
+<character id="25792" type="appears in" update="2012-09-13">
+<rating votes="2">4.45</rating>
+<name>Lisa Emelpha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Lisa Emelpha is a childhood friend of http://anidb.net/ch13446 [Yuki Saiko].
+She appears only as photograph (with her name in roumaji, no kanji) on a screen of the http://anidb.net/ch25714 [AMP] office when her death is reported in the TV news.
+She was part of the http://anidb.net/ch25796 [YLEM project] and escaped from the laboratory together with her friends Yuki and http://anidb.net/ch25791 [Hiroko].</description>
+<picture>60976.jpg</picture>
+</character>
+<character id="25793" type="appears in" update="2010-12-19">
+<rating votes="2">4.45</rating>
+<name>Lisa-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Lisa Emelpha as child, back in the days of the http://anidb.net/ch25796 [YLEM project].
+Lisa`s special ability is never mentioned; it might possibly have been throwing fireballs as shown by http://anidb.net/ch25716 [Annie] who must have acquired whatever ability Lisa had by killing her.</description>
+<picture>60977.jpg</picture>
+</character>
+<character id="25794" type="appears in" update="2011-03-24">
+<rating votes="2">4.45</rating>
+<name>Hiroko-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hiroko Yamashita as child, back in the days of the http://anidb.net/ch25796 [YLEM project].
+Hiroko`s special ability was teleporting objects, as mentioned by http://anidb.net/ch13446 [Saiko Yuki] during episode 10. http://anidb.net/ch25716 [Annie] acquired this ability by killing http://anidb.net/ch25791 [Hiroko] during the events of episode 10; Yuki acquired this ability by defeating Annie at the end of episode 10. Yuki being able to teleport all http://anidb.net/ch25714 [AMP] members out of the destruction area of their office during the battle in episode 25 allowed the whole AMP team to survive the "F mission" strike.</description>
+<picture>60978.jpg</picture>
+</character>
+<character id="25796" type="appears in" update="2011-03-24">
+<rating votes="1">7.49</rating>
+<name>YLEM project</name>
+<gender>none/does not apply</gender>
+<charactertype id="3">Organization</charactertype>
+<description>A scientific project of the http://anidb.net/ch25777 [Tajima] Laboratory, performing generic manipulation of children in order to increase their YLPER (YLEM perception, see http://en.wikipedia.org/wiki/Ylem) abilities.
+The ultimate goal of the project was to creating the "perfect human weapon". Each child specialized in one ability; ultimately these abilities were meant to be transferred to another person by killing its owner. Amongst these children were http://anidb.net/ch25798 [Annie-chan], http://anidb.net/ch25794 [Hiroko-chan] (code name: XRP-8), http://anidb.net/ch25793 [Lisa-chan] (code name: XRP-12), and http://anidb.net/ch25799 [Yuki-chan] (code name: XRP-77) who, being the most talented one, was decided to become the final result of the project. But with Yuki, Lisa and Hiroko having escaped from the laboratory the project was never completed.
+12 years later, http://anidb.net/ch25792 [Lisa Emelpha] (Lisa-chan) and http://anidb.net/ch25791 [Yamashita Hiroko] (Hiroko-chan) were both killed by http://anidb.net/ch25716 [Annie] during the events of episode 10, thus Annie gained the abilties of both victims; Annie was then defeated by Yuki at the end of episode 10, causing all of Annie`s abilities to be transferred to http://anidb.net/ch13446 [Saiko Yuki], exactly as Tajima-hakase had intended.
+The project was funded by http://anidb.net/ch25804 [Washio Tooru] with the intention of giving humankind an effective weapon against the http://anidb.net/ch25718 [Lucifer Hawks]. By effectively `creating` Saiko Yuki of the http://anidb.net/ch25714 [AMP] this way and putting her into a position where she traveled through time back to the days of http://anidb.net/ch25803 [Washio`s youth] (1997, i. e. 13 years before Yuki-chan was even born), thus making him want to support humankind against the LH in the first place, he created a time travel paradox. But with Yuki being able to teleport the AMP members out of the destruction area during the battle in episode 25, Tooru actually got the result he had planned.
+(The Bandai U.S. release for Silent Möbius - as well as the official German sub - mistranslated "YLEM" to "IREM" (going by the audio pattern) during the episode 25 dialog, making the connection quite difficult to understand.)</description>
+<picture>61048.jpg</picture>
+</character>
+<character id="25798" type="appears in" update="2010-12-19">
+<rating votes="2">4.45</rating>
+<name>Annie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Annie as child, back in the days of the http://anidb.net/ch25796 [YLEM project].
+Annie`s special ability apparently was throwing fireballs as this was the attack she used in episode 10.</description>
+<picture>60981.jpg</picture>
+</character>
+<character id="25799" type="appears in" update="2010-12-19">
+<rating votes="2">6.80</rating>
+<name>Yuki-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Saiko Yuki as child, back in the days of the http://anidb.net/ch25796 [YLEM project].
+Yuki`s code name "XRP-77" became the name of episode 10 of the TV series.
+Yuki`s special ability was precognition and clairvoyance, thus she was able to foresee her own future when staying in the laboratory and decided to run away together with her friends http://anidb.net/ch25793 [Lisa-chan] and http://anidb.net/ch25794 [Hiroko-chan].</description>
+<picture>60986.jpg</picture>
+<seiyuu id="489" picture="43165.jpg">Okamoto Maya</seiyuu>
+</character>
+<character id="25800" type="appears in" update="2011-03-24">
+<rating votes="1">3.07</rating>
+<name>Kramer</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Elder, i. e. leader of the http://anidb.net/ch25784 [Magicans Guild] in the year 1999. His full name Kramer Hagenbach is mentioned only in the manga.
+(No text lines in the anime; his role is more substantial in the manga volume "Möbius Klein".)</description>
+<picture>60997.jpg</picture>
+</character>
+<character id="25801" type="appears in" update="2010-12-18">
+<rating votes="1">3.07</rating>
+<name>Shutoro Zekku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Ice mage. No voice role in the anime.
+In manga volume "Möbius Klein" he has an important role during a battle where http://anidb.net/ch25713 [Gigelf Liqueur] is involved.</description>
+<picture>60998.jpg</picture>
+</character>
+<character id="25802" type="secondary cast in" update="2010-12-22">
+<rating votes="2">3.78</rating>
+<name>Avalanche Wong</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Avalanche Wong is the only surviving member of the http://anidb.net/ch25784 [Magicians Guild]. He lives in Neo Hong Hong (Kaulun). http://anidb.net/ch25715 [Lum Cheng] is his granddaughter, thus he is probably also somehow related to http://anidb.net/ch25782 [Genvara Cheng]. He is very old and of short stature; his eyes are never visible.</description>
+<picture>60999.jpg</picture>
+<seiyuu id="173" picture="150067.jpg">Chafuurin</seiyuu>
+</character>
+<character id="25803" type="secondary cast in" update="2010-12-18">
+<rating votes="3">5.03</rating>
+<name>Washio Tooru (young)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Lives in Tokyo in the year 1997 (i. e. two years before the events of the http://anidb.net/ch25784 [Silent Crisis]), and meets http://anidb.net/ch13446 [Saiko Yuki] there (who came to this time by travelling 30 years backwards in time).</description>
+<picture>61001.jpg</picture>
+<seiyuu id="10365" picture="228523.jpg">Hiromori Shingo</seiyuu>
+</character>
+<character id="25804" type="secondary cast in" update="2010-12-28">
+<rating votes="3">5.65</rating>
+<name>Washio Tooru (old)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>President of the EG company (EG社会長); as such, founder and funder of the http://anidb.net/ch25796 [YLEM project]. His age must be around 48 as he was 17 back in 1997 and the TV series timeline ends in 2028.
+He is also the owner of the house where http://anidb.net/ch13446 [Saiko Yuki] runs her cafe free of rent, thus he has secretly taken care of his beloved one for many years. The scar on his nose is the result of the http://anidb.net/ch26031 [Lucifer Hawk]`s attack back then.</description>
+<picture>61002.jpg</picture>
+<seiyuu id="10365" picture="228523.jpg">Hiromori Shingo</seiyuu>
+</character>
+<character id="25810" type="appears in" update="2010-12-18">
+<name>Itabashi Queen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A character in an anime (!) that is running on an video screen in the background of a scene in Silent Möbius TV. She has only few dialog lines but these happen to match the current situation of the episode.</description>
+<picture>61009.jpg</picture>
+<seiyuu id="3058" picture="23960.jpg">Tsuru Hiromi</seiyuu>
+</character>
+<character id="25811" type="appears in" update="2010-12-18">
+<rating votes="1">1.78</rating>
+<name>Nagata Juukou no Shachou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nagata Shinjirou (his given name appears only in the manga) is president of the Nagata Heavy Industries Corporation, producer of Megadyne cyborgs.
+His company also develops the K-worms on behalf of http://anidb.net/ch25712 [Ganossa Maximilian].</description>
+<picture>61010.jpg</picture>
+<seiyuu id="34600">Yamamoto Taihei</seiyuu>
+</character>
+<character id="25812" type="appears in" update="2010-12-18">
+<rating votes="1">1.78</rating>
+<name>Stoskeros</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>A Lucifer Hawk demon.
+He takes control over a Megadyne cyborg produced by http://anidb.net/ch25811 [Nagata Heavy Industries] in order to get http://anidb.net/ch13444 [Kiddy Phenyl] falsely accused of killing a civilian, critically injuring http://anidb.net/ch25721 [Ralph Bowmers] in the process.</description>
+<picture>61011.jpg</picture>
+<seiyuu id="23048">Masago Katsumi</seiyuu>
+</character>
+<character id="25823" type="appears in" update="2010-12-18">
+<rating votes="1">5.14</rating>
+<name>Kaibou-i Meller</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Forensic Pathologist in the police records department of Tokyo.
+In the know about the http://anidb.net/ch25725 ["Domull" project]; warns http://anidb.net/ch25723 [Robert DeVice] not to stick his nose into this affair.</description>
+<picture>61031.jpg</picture>
+<seiyuu id="23086" picture="60946.jpg">Seta Ikkei</seiyuu>
+</character>
+<character id="25824" type="appears in" update="2010-12-25">
+<rating votes="1">7.49</rating>
+<name>Otome</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>The only survivor of a massacre in a tower building of Tokyo. (Her name isn`t mentioned in the anime; Wikipedia suggests it might be "Alice".)
+Actually she`s no human but a http://anidb.net/ch25718 [Lucifer Hawk] who has taken over the girl`s body (in order to free her comrades whose body fluids the Tokyo police intends to extract a drug named "Domull" from, giving them powers equal to those of a LH, with http://anidb.net/ch25725 [Aida] being one of the guinea pigs).</description>
+<picture>61039.jpg</picture>
+<seiyuu id="2205" picture="186188.jpg">Hanba Tomoe</seiyuu>
+</character>
+<character id="25825" type="appears in" update="2011-04-09">
+<rating votes="1">5.14</rating>
+<name>Wire</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>A Megadyne (cyborg) of http://anidb.net/ch25811 [Nagata Heayy Industries]. Never speaks a word in the anime. His name stems from his weapon, a thin long wire he uses to slice his victims into pieces.
+He is http://anidb.net/ch13444 [Kiddy Phenyl]`s archenemy: Wire was responsible for killing almost her complete police squad, and her driving force for living (and having turned into a Megadyne herself) is her longing for revenge.</description>
+<picture>61041.jpg</picture>
+</character>
+<character id="25826" type="appears in" update="2010-12-25">
+<rating votes="1">5.14</rating>
+<name>Damia</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>http://anidb.net/ch25718 [Lucifer Hawk] of (the highest) Category I; http://anidb.net/ch25712 [Ganossa Maximilian]`s companion.
+Ganossa orders him to kill http://anidb.net/ch25723 [Robert DeVice] in order to find out how strong a mere human can be against a mighty LH when his powers are increased by... http://anidb.net/e18200 [love].</description>
+<picture>61043.jpg</picture>
+<seiyuu id="23169" picture="61046.jpg">Tashiro Takahide</seiyuu>
+</character>
+<character id="25827" type="appears in" update="2011-03-24">
+<rating votes="1">3.07</rating>
+<name>Lloyd</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Police superintendent, and (probably the direct) superior of http://anidb.net/ch25721 [Ralph Bowmers]. His full name Lloyd Vota is mentioned only in the manga.</description>
+<picture>61044.jpg</picture>
+<seiyuu id="1756" picture="53985.jpg">Nakajima Toshihiko</seiyuu>
+</character>
+<character id="25885" type="appears in" update="2010-12-25">
+<rating votes="1">3.07</rating>
+<name>Lucifer</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>Lucifer himself.
+Surveillant of the pact between http://anidb.net/ch25712 [Ganossa Maximilian] and Nemesis; reports to the King of Nemesis.
+In the manga part going beyond the TV series (the "final battle" that is only announced at the series` end), Ganossa betrays Nemesis, and Lucifer sides with the http://anidb.net/ch25714 [AMP] to stop him.</description>
+<picture>61203.jpg</picture>
+</character>
+<character id="25907" type="appears in" update="2015-02-11">
+<rating votes="1">3.07</rating>
+<name>Taiin</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<description>Taiin (literally "Group Members") is a swarm of 1500 http://anidb.net/ch25718 [Lucifer Hawks] forming one huge monster.
+This swarm is controlled by one particular Lucifer Hawk whom Ma-ken Medium addresses as Bratieze.
+(Dialog lines only in episode 24, thus only credited there in the ED section.)
+This super-being directly attacks the http://anidb.net/ch25714 [AMP]`s headquarter, merging with the building`s walls.</description>
+<picture>61255.jpg</picture>
+</character>
+<character id="25999" type="appears in" update="2010-12-25">
+<rating votes="1">3.07</rating>
+<name>Visioneers</name>
+<gender>unknown</gender>
+<charactertype id="3">Organization</charactertype>
+<description>Visioneers are humans who developed a special relation to machines. Living in a sort of symbiosis, they are connected with all of her five senses to them.
+Most of them live in Junk Castle, a district of Old Tokyo; only a small part of them, including http://anidb.net/ch13447 [Lebia Maverick], are integrated into human society.
+Their existence was detected by http://anidb.net/ch25760 [Stefan L. Maverick].</description>
+<picture>61412.jpg</picture>
+</character>
+<character id="26031" type="appears in" update="2010-12-26">
+<rating votes="1">3.07</rating>
+<name>Zairim</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>The appearance of the antiquary as http://anidb.net/ch25718 [Lucifer Hawk].</description>
+<picture>61456.jpg</picture>
+<seiyuu id="2201" picture="34284.jpg">Matsuo Ginzou</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="5282" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1998-04-07</airdate>
+<rating votes="5">7.98</rating>
+<title xml:lang="ja">覚醒</title>
+<title xml:lang="en">Awake</title>
+<title xml:lang="de">Das Erwachen</title>
+<title xml:lang="fr">L`éveil</title>
+<title xml:lang="x-jat">Kakusei</title>
+</episode>
+<episode id="5311" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1998-04-14</airdate>
+<rating votes="4">7.31</rating>
+<title xml:lang="ja">決断</title>
+<title xml:lang="en">Decide</title>
+<title xml:lang="de">Die Entscheidung</title>
+<title xml:lang="fr">La décision</title>
+<title xml:lang="x-jat">Ketsudan</title>
+</episode>
+<episode id="5744" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1998-04-21</airdate>
+<rating votes="3">5.10</rating>
+<title xml:lang="ja">東京の底</title>
+<title xml:lang="en">Tokyo Underground</title>
+<title xml:lang="de">Die Stadt unter der Stadt</title>
+<title xml:lang="fr">Les bas-fonds de Tokyo</title>
+<title xml:lang="x-jat">Tokyo no Soko</title>
+</episode>
+<episode id="5746" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1998-04-28</airdate>
+<rating votes="3">3.06</rating>
+<title xml:lang="ja">ブレイク·イン</title>
+<title xml:lang="en">Brake-In</title>
+<title xml:lang="de">Lähmungen von innen</title>
+<title xml:lang="fr">Le rodage</title>
+<title xml:lang="x-jat">Brake In</title>
+</episode>
+<episode id="6425" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1998-05-05</airdate>
+<rating votes="2">2.22</rating>
+<title xml:lang="ja">パーティの夜</title>
+<title xml:lang="en">Let`s Have A Party</title>
+<title xml:lang="de">Die Party</title>
+<title xml:lang="fr">Une soirée entre collègues</title>
+<title xml:lang="x-jat">Party no Yoru</title>
+</episode>
+<episode id="8018" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1998-05-12</airdate>
+<rating votes="2">6.00</rating>
+<title xml:lang="ja">終わりなき戦い</title>
+<title xml:lang="en">Megadyne</title>
+<title xml:lang="de">Kampf ohne Ende</title>
+<title xml:lang="fr">Une lutte interminable</title>
+<title xml:lang="x-jat">Owari Naki Tatakai</title>
+</episode>
+<episode id="8732" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1998-05-19</airdate>
+<rating votes="2">6.73</rating>
+<title xml:lang="ja">うしろの正面</title>
+<title xml:lang="en">Kagome Kagome</title>
+<title xml:lang="de">Innen und Außen</title>
+<title xml:lang="fr">Derrière le masque</title>
+<title xml:lang="x-jat">Ushiro no Shoumen</title>
+</episode>
+<episode id="9351" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1998-05-26</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">継承</title>
+<title xml:lang="en">Yes, My Master!</title>
+<title xml:lang="de">Die Nachfolge</title>
+<title xml:lang="fr">L`héritage</title>
+<title xml:lang="x-jat">Keishou</title>
+</episode>
+<episode id="9849" update="2011-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1998-06-02</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">かつて愛した街角</title>
+<title xml:lang="en">Tokyo Antique</title>
+<title xml:lang="de">Tokyo, wie ich es kannte</title>
+<title xml:lang="fr">Le quartier que j`aimais autrefois</title>
+<title xml:lang="x-jat">Katsute Ai Shita Machikado</title>
+</episode>
+<episode id="10584" update="2011-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1998-06-09</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">迷宮の記憶</title>
+<title xml:lang="en">XRP-77</title>
+<title xml:lang="de">Erinnerung an ein Labyrinth</title>
+<title xml:lang="fr">Le labyrinthe des souvenirs</title>
+<title xml:lang="x-jat">Meikyuu no Kioku</title>
+</episode>
+<episode id="10684" update="2011-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1998-06-16</airdate>
+<rating votes="2">2.63</rating>
+<title xml:lang="ja">機械仕掛けのアリス</title>
+<title xml:lang="en">Alice in Logic-space</title>
+<title xml:lang="de">Maschinen-Alice im Wunderland</title>
+<title xml:lang="fr">Alice l`automate</title>
+<title xml:lang="x-jat">Kikai Shikake no Arisu</title>
+</episode>
+<episode id="11329" update="2011-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1998-06-23</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">呪われた絆</title>
+<title xml:lang="en">Sister</title>
+<title xml:lang="de">Verwandtschaft unter einem Fluch</title>
+<title xml:lang="fr">Les liens maudits</title>
+<title xml:lang="x-jat">Norowareta Kizuna</title>
+</episode>
+<episode id="11381" update="2011-10-20">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1998-06-30</airdate>
+<rating votes="2">6.73</rating>
+<title xml:lang="ja">第四の妖魔</title>
+<title xml:lang="en">Category IV</title>
+<title xml:lang="de">Ein Dämon der Kategorie 4</title>
+<title xml:lang="fr">Une créature de type 4</title>
+<title xml:lang="x-jat">Daiyon no Youma</title>
+</episode>
+<episode id="11695" update="2011-10-20">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1998-07-07</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">序曲</title>
+<title xml:lang="en">Möbius Klein</title>
+<title xml:lang="de">Das Präludium</title>
+<title xml:lang="fr">Prélude</title>
+<title xml:lang="x-jat">Jokyoku</title>
+</episode>
+<episode id="11965" update="2011-10-20">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1998-07-14</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">九竜の少女</title>
+<title xml:lang="en">Lum Cheng</title>
+<title xml:lang="de">Lum Cheng: Das Mädchen aus Jiu Long</title>
+<title xml:lang="fr">Une jeune fille de Kowloon</title>
+<title xml:lang="x-jat">Kaorun no Shoujo</title>
+</episode>
+<episode id="12405" update="2011-10-20">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1998-07-21</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">刻の迷宮</title>
+<title xml:lang="en">Labyrinth</title>
+<title xml:lang="de">Im Labyrinth der Zeit</title>
+<title xml:lang="fr">Le labyrinthe du temps</title>
+<title xml:lang="x-jat">Koku no Meikyuu</title>
+</episode>
+<episode id="13010" update="2011-10-20">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1998-07-28</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">結びあう夕べ</title>
+<title xml:lang="en">Destiny</title>
+<title xml:lang="de">Abend der Vereinigung</title>
+<title xml:lang="fr">Une soirée fatidique</title>
+<title xml:lang="x-jat">Musubiau Yuube</title>
+</episode>
+<episode id="13767" update="2011-10-20">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1998-08-04</airdate>
+<rating votes="2">4.45</rating>
+<title xml:lang="ja">別れゆく夜</title>
+<title xml:lang="en">DOMULL</title>
+<title xml:lang="de">Die Nacht des Abschieds</title>
+<title xml:lang="fr">La nuit de la séparation</title>
+<title xml:lang="x-jat">Wakare Yuku Yoru</title>
+</episode>
+<episode id="14250" update="2011-10-20">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1998-08-11</airdate>
+<rating votes="1">3.23</rating>
+<title xml:lang="ja">さすらいの果て</title>
+<title xml:lang="en">Back of a coin</title>
+<title xml:lang="de">Das Ende der Wanderschaft</title>
+<title xml:lang="fr">Au bout de l`errance</title>
+<title xml:lang="x-jat">Sasurai no Hate</title>
+</episode>
+<episode id="18200" update="2011-10-20">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1998-08-18</airdate>
+<rating votes="1">3.23</rating>
+<title xml:lang="ja">愛</title>
+<title xml:lang="en">LOVE</title>
+<title xml:lang="de">Liebe</title>
+<title xml:lang="fr">L`amour</title>
+<title xml:lang="x-jat">Ai</title>
+</episode>
+<episode id="18201" update="2011-10-20">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1998-08-25</airdate>
+<rating votes="1">3.23</rating>
+<title xml:lang="ja">月の生まれた夜</title>
+<title xml:lang="en">Dark Side of the MOON</title>
+<title xml:lang="de">Die Nacht, in der der Mond neu erstand</title>
+<title xml:lang="fr">Nuit de nouvelle lune</title>
+<title xml:lang="x-jat">Tsuki no Umareta Yoru</title>
+</episode>
+<episode id="18202" update="2011-10-20">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1998-09-01</airdate>
+<rating votes="1">1.59</rating>
+<title xml:lang="ja">暗転</title>
+<title xml:lang="en">CRYING</title>
+<title xml:lang="de">Szenenwechsel</title>
+<title xml:lang="fr">Désespoir</title>
+<title xml:lang="x-jat">Anten</title>
+</episode>
+<episode id="18203" update="2011-10-20">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1998-09-08</airdate>
+<rating votes="1">1.59</rating>
+<title xml:lang="ja">再生せしもの</title>
+<title xml:lang="en">Life again</title>
+<title xml:lang="de">Die Reaktivierung</title>
+<title xml:lang="fr">Régénération</title>
+<title xml:lang="x-jat">Saisen Seshimono</title>
+</episode>
+<episode id="18204" update="2011-10-20">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1998-09-15</airdate>
+<rating votes="1">1.09</rating>
+<title xml:lang="ja">地獄への途</title>
+<title xml:lang="en">HELL ROAD</title>
+<title xml:lang="de">Der Weg zur Hölle</title>
+<title xml:lang="fr">Sur la route de l`enfer</title>
+<title xml:lang="x-jat">Jigoku e no Michi</title>
+</episode>
+<episode id="18205" update="2011-10-20">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1998-09-22</airdate>
+<rating votes="1">1.59</rating>
+<title xml:lang="ja">死闘</title>
+<title xml:lang="en">Count Down</title>
+<title xml:lang="de">Kampf um Leben und Tod</title>
+<title xml:lang="fr">Compte à rebours</title>
+<title xml:lang="x-jat">Shitou</title>
+</episode>
+<episode id="18206" update="2011-10-20">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1998-09-29</airdate>
+<rating votes="1">1.09</rating>
+<title xml:lang="ja">希望</title>
+<title xml:lang="en">TOMORROW</title>
+<title xml:lang="de">Hoffnung</title>
+<title xml:lang="fr">L`espoir</title>
+<title xml:lang="x-jat">Kibou</title>
+</episode>
+<episode id="18873" update="2004-05-04">
+<epno type="2">S1</epno>
+<length>3</length>
+<title xml:lang="en">Karaoke</title>
+</episode>
+<episode id="18874" update="2005-08-23">
+<epno type="3">C1</epno>
+<length>2</length>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="18875" update="2005-08-23">
+<epno type="3">C2</epno>
+<length>2</length>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

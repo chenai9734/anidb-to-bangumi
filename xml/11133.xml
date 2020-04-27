@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11133" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2015-09-12</startdate>
+<enddate>2015-09-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Kaiketsu Zorori: Uchuu no Yuusha-tachi</title>
+<title xml:lang="ja" type="official">映画かいけつゾロリ うちゅうの勇者たち</title>
+</titles>
+<relatedanime>
+<anime id="3584" type="Other">Majime ni Fumajime Kaiketsu Zorori</anime>
+</relatedanime>
+<url>http://www.zorori-movie.jp/uchunoyushatachi/</url>
+<creators>
+<name id="960" type="Animation Work">Ajia-dou</name>
+<name id="7815" type="Original Work">Hara Yutaka</name>
+<name id="19603" type="Direction">Iwasaki Tomoko</name>
+<name id="42824" type="Animation Work">BN Pictures</name>
+</creators>
+<ratings>
+<permanent count="2">6.45</permanent>
+<temporary count="2">6.50</temporary>
+</ratings>
+<picture>228830.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17221</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>30313</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.zorori-movie.jp/uchunoyushatachi/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>まじめにふまじめ_かいけつゾロリ#うちゅうの勇者たち（アニメオリジナル）</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>352292</identifier>
+</externalentity>
+</resource>
+<resource type="22">
+<externalentity>
+<identifier>zorori.movie/</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>zorori_movie</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>19423</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="56374" type="main character in" update="2013-05-30">
+<rating votes="1">8.21</rating>
+<name>Zorori</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137353.jpg</picture>
+<seiyuu id="380" picture="158572.jpg">Yamadera Kouichi</seiyuu>
+</character>
+<character id="56414" type="main character in" update="2013-05-30">
+<name>Noshishi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137411.jpg</picture>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+<character id="56415" type="main character in" update="2013-05-30">
+<name>Ishishi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>137412.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="166923" update="2015-12-25">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2015-09-12</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

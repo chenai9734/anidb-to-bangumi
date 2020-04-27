@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7851" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>2001-10-26</startdate>
+<enddate>2001-10-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hello Kitty no Momotarou</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 8</title>
+<title xml:lang="ja" type="official">ハローキティの桃太郎</title>
+<title xml:lang="en" type="official">Hello Kitty in Momotaro</title>
+</titles>
+<ratings>
+<permanent count="11">4.77</permanent>
+<temporary count="11">4.72</temporary>
+</ratings>
+<picture>60035.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22447</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120810" update="2011-04-25">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2001-10-26</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

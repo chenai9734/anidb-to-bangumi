@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14240" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2020-02-21</startdate>
+<enddate>2020-02-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Digimon Adventure: Last Evolution Kizuna</title>
+<title xml:lang="ja" type="official">デジモンアドベンチャー LAST EVOLUTION 絆</title>
+</titles>
+<relatedanime>
+<anime id="10764" type="Prequel">Digimon Adventure Tri.</anime>
+</relatedanime>
+<url>http://digimon-adventure.net/</url>
+<creators>
+<name id="44298" type="Music">Fuuki Harumi</name>
+<name id="5659" type="Original Plan">Hongou Akiyoshi</name>
+<name id="9706" type="Animation Character Design">Sekizaki Takaaki</name>
+<name id="4538" type="Animation Character Design">Nishino Rie</name>
+<name id="4536" type="Animation Character Design">Kumagai Tetsuya</name>
+<name id="3164" type="Character Design">Nakatsuru Katsuyoshi</name>
+<name id="24350" type="Direction">Taguchi Tomohisa</name>
+<name id="14230" type="Chief Animation Direction">Tachikawa Seiji</name>
+<name id="52830" type="Animation Work">Yumeta Company</name>
+</creators>
+<ratings>
+<permanent count="1">2.45</permanent>
+<temporary count="1">6.00</temporary>
+</ratings>
+<picture>242225.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22613</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38088</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://digimon-adventure.net/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Digimon_Adventure:_Last_Evolution_Kizuna</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365066</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>22548</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>Digi_advntr15th</identifier>
+</externalentity>
+</resource>
+<resource type="38">
+<externalentity>
+<identifier>255547</identifier>
+</externalentity>
+</resource>
+<resource type="39">
+<externalentity>
+<identifier>30482645</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="44587" type="secondary cast in" update="2012-05-11">
+<rating votes="13">7.02</rating>
+<name>Agumon (Yagami Taichi)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21524.jpg</picture>
+<seiyuu id="548" picture="186185.jpg">Sakamoto Chika</seiyuu>
+</character>
+<character id="44592" type="secondary cast in" update="2012-05-11">
+<rating votes="10">7.27</rating>
+<name>Gabumon (Ishida Yamato)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21523.jpg</picture>
+<seiyuu id="2069" picture="170535.jpg">Yamaguchi Mayumi</seiyuu>
+</character>
+<character id="44595" type="secondary cast in" update="2012-05-11">
+<rating votes="10">8.25</rating>
+<name>Gomamon (Kido Jou)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21522.jpg</picture>
+<seiyuu id="302" picture="17134.jpg">Takeuchi Junko</seiyuu>
+</character>
+<character id="44604" type="secondary cast in" update="2012-05-11">
+<rating votes="10">4.83</rating>
+<name>Palmon (Tachikawa Mimi)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21518.jpg</picture>
+<seiyuu id="11252" picture="40616.jpg">Yamada Kinoko</seiyuu>
+</character>
+<character id="44605" type="secondary cast in" update="2012-05-11">
+<rating votes="14">6.78</rating>
+<name>Patamon (Takaishi Takeru)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21517.jpg</picture>
+<seiyuu id="6928" picture="211675.jpg">Matsumoto Miwa</seiyuu>
+</character>
+<character id="44606" type="secondary cast in" update="2012-05-11">
+<rating votes="10">4.78</rating>
+<name>Piyomon (Takenouchi Sora)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21530.jpg</picture>
+<seiyuu id="8412" picture="32870.jpg">Shigematsu Atori</seiyuu>
+</character>
+<character id="44609" type="secondary cast in" update="2012-05-11">
+<rating votes="15">8.39</rating>
+<name>Tailmon (Yagami Hikari)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21651.jpg</picture>
+<seiyuu id="1912" picture="21099.jpg">Tokumitsu Yuka</seiyuu>
+</character>
+<character id="44611" type="secondary cast in" update="2012-05-11">
+<rating votes="12">6.99</rating>
+<name>Tentomon (Izumi Koushiro)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>21527.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="45082" type="secondary cast in" update="2012-05-22">
+<name>Armadimon (Hida Iori)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87367.jpg</picture>
+<seiyuu id="5342" picture="224845.jpg">Urawa Megumi</seiyuu>
+</character>
+<character id="45083" type="secondary cast in" update="2012-05-22">
+<rating votes="3">8.28</rating>
+<name>Hawkmon (Inoue Miyako)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87359.jpg</picture>
+<seiyuu id="2090" picture="151718.jpg">Toochika Kouichi</seiyuu>
+</character>
+<character id="45085" type="secondary cast in" update="2012-05-22">
+<rating votes="2">9.60</rating>
+<name>V-Mon (Motomiya Daisuke)</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87350.jpg</picture>
+<seiyuu id="140" picture="170306.jpg">Noda Junko</seiyuu>
+</character>
+<character id="77310" type="secondary cast in" update="2015-09-09">
+<rating votes="1">8.90</rating>
+<name>Wormmon (Ichijouji Ken)</name>
+<gender>none/does not apply</gender>
+<charactertype id="1">Character</charactertype>
+<picture>87392.jpg</picture>
+<seiyuu id="4665" picture="27220.jpg">Takahashi Naozumi</seiyuu>
+</character>
+<character id="101263" type="main character in" update="2019-03-05">
+<name>Yagami Taichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67256.png</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="101264" type="main character in" update="2019-03-05">
+<name>Ishida Yamato</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67257.png</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="101273" type="secondary cast in" update="2019-03-06">
+<name>Yagami Hikari</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67264.png</picture>
+<seiyuu id="36368" picture="224755.jpg">Mao</seiyuu>
+</character>
+<character id="101274" type="secondary cast in" update="2019-03-06">
+<name>Kido Jou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67260.png</picture>
+<seiyuu id="35756" picture="131623.jpg">Ikeda Jun`ya</seiyuu>
+</character>
+<character id="101275" type="secondary cast in" update="2019-03-06">
+<rating votes="1">4.08</rating>
+<name>Tachikawa Mimi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67261.png</picture>
+<seiyuu id="3199" picture="170734.jpg">Yoshida Hitomi</seiyuu>
+</character>
+<character id="101276" type="secondary cast in" update="2019-03-06">
+<rating votes="1">6.08</rating>
+<name>Takenouchi Sora</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67263.png</picture>
+<seiyuu id="20025" picture="132938.jpg">Mimori Suzuko</seiyuu>
+</character>
+<character id="101277" type="secondary cast in" update="2019-03-06">
+<name>Izumi Koushirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67259.png</picture>
+<seiyuu id="3712" picture="240126.jpg">Tamura Mutsumi</seiyuu>
+</character>
+<character id="101278" type="secondary cast in" update="2019-03-06">
+<name>Takaishi Takeru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67262.png</picture>
+<seiyuu id="33512" picture="225800.jpg">Enoki Jun`ya</seiyuu>
+</character>
+<character id="104673" type="secondary cast in" update="2019-07-28">
+<name>Motomiya Daisuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67766.png</picture>
+<seiyuu id="39689" picture="152335.jpg">Katayama Fukujuurou</seiyuu>
+</character>
+<character id="104674" type="secondary cast in" update="2019-07-28">
+<name>Ichijouji Ken</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67767.png</picture>
+<seiyuu id="32533" picture="236058.jpg">Lounsbery Arthur</seiyuu>
+</character>
+<character id="104675" type="secondary cast in" update="2019-07-28">
+<name>Inoue Miyako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67768.png</picture>
+<seiyuu id="38232" picture="140073.jpg">Asai Ayaka</seiyuu>
+</character>
+<character id="104676" type="secondary cast in" update="2019-07-28">
+<name>Hida Iori</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>67769.png</picture>
+<seiyuu id="36495" picture="176250.jpg">Yamaya Yoshitaka</seiyuu>
+</character>
+<character id="107485" type="secondary cast in" update="2019-12-14">
+<name>Menoa Bellucci</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68273.png</picture>
+<seiyuu id="46759" picture="190628.jpg">Matsuoka Mayu</seiyuu>
+</character>
+<character id="107486" type="secondary cast in" update="2019-12-14">
+<name>Imura Kyoutarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68274.png</picture>
+<seiyuu id="250" picture="157976.jpg">Ono Daisuke</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="218565" update="2020-02-18">
+<epno type="1">1</epno>
+<length>95</length>
+<airdate>2020-02-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

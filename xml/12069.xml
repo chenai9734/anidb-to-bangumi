@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12069" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-05-10</startdate>
+<enddate>2014-05-10</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Panpaka Pants: Bananan Oukoku no Hihou</title>
+<title xml:lang="ja" type="official">えいがパンパカパンツ バナナン王国の秘宝</title>
+</titles>
+<url>http://www.panpaka.com/eiga/</url>
+<creators>
+<name id="21566" type="Direction">Benpineko</name>
+<name id="45888" type="Direction">Yatate Kyou</name>
+</creators>
+<ratings>
+<permanent count="2">2.26</permanent>
+<temporary count="2">3.50</temporary>
+</ratings>
+<picture>185208.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29832</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.panpaka.com/eiga/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>パンパカパンツ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>348661</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="177074" update="2016-05-14">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>2014-05-10</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

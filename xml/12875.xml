@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12875" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1935</startdate>
+<enddate>1935</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Rhythm</title>
+<title xml:lang="ja" type="synonym">リズム</title>
+<title xml:lang="ja" type="official">RHYTHM</title>
+</titles>
+<creators>
+<name id="50343" type="Direction">Ogino Shigeji</name>
+</creators>
+<ratings>
+<permanent count="28">1.81</permanent>
+<temporary count="29">3.55</temporary>
+</ratings>
+<picture>198729.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35407</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184952" update="2017-02-22">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

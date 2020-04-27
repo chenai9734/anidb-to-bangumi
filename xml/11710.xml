@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11710" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1983</startdate>
+<enddate>1983</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Yu Bang Xiang Zheng</title>
+<title xml:lang="en" type="synonym">Snipe Clam Grapple</title>
+<title xml:lang="en" type="synonym">The Fight Between the Snipe and the Clam</title>
+<title xml:lang="en" type="synonym">The Egret and the Oyster</title>
+<title xml:lang="zh-Hans" type="official">鹬蚌相争</title>
+</titles>
+<description>* A short film using the Chinese ink wash painting technique, based on the Chinese proverb "When the snipe and the clam grapple, it`s the fisherman who stands to benefit".
+A fisherman was attracted by a snipe and a clam while fishing. He tried to capture both but to no avail. A kingfisher caught a worm, but the clam took the worm away. When the clam tried to eat the worm, the snipe snatched the worm and ate it. The clam was very angry, and a grapple occurred between the snipe and the clam. The fisherman was delighted to observe the grapple. The idiom warns against fighting each other because a third party may be taking advantage of the two involved in the fighting.
+Source: douban
+Note: This short has won several international awards, including the Jury Prize Silver Bear (Short Film) in the 34th Berlin International Film Festival (1984).</description>
+<ratings>
+<permanent count="44">5.26</permanent>
+<temporary count="44">5.65</temporary>
+</ratings>
+<picture>178916.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>21081</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>The_Fight_Between_the_Snipe_and_the_Clam</identifier>
+</externalentity>
+</resource>
+<resource type="20">
+<externalentity>
+<identifier>鹬蚌相争</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1032" parentid="2881" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2011-08-10">
+<name>fishing</name>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3968" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>animal protagonist</name>
+<description>The anime revolves around an animal, usually only communicating with typical onomatopoeia. The animal mostly lives in a human family and has adventures on a regular base. This can be the discovery of a new room, or being lost by having taken a wrong turn in the outside world.
+Typical example: http://anidb.net/a5801 [Chii`s Sweet Home].
+Not to be confused with http://anidb.net/t4259 [animal world], where the whole world is composed of animals.</description>
+<picurl>10255.jpeg</picurl>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="172939" update="2015-10-28">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

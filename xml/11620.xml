@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11620" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2006-03</startdate>
+<enddate>2006-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Aoki Seimei Hoken</title>
+<title xml:lang="ja" type="official">青木生命保険</title>
+</titles>
+<url>http://www.aokijun.net/movie.html</url>
+<ratings>
+<permanent count="37">2.60</permanent>
+<temporary count="37">4.00</temporary>
+</ratings>
+<picture>177646.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31513</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.aokijun.net/movie.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="171958" update="2015-09-26">
+<epno type="1">1</epno>
+<length>1</length>
+<rating votes="1">1.35</rating>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

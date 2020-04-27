@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5756" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1993-03-13</startdate>
+<enddate>1993-03-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kappa no Sanpei</title>
+<title xml:lang="ja" type="official">カッパの三平</title>
+</titles>
+<creators>
+<name id="3308" type="Direction">Hirata Toshio</name>
+<name id="4341" type="Original Work">Mizuki Shigeru</name>
+<name id="13676" type="Music">Kuriyama Kazuki</name>
+</creators>
+<description>Sanpei is a lazy little 7 year old boy who rarely concentrates on anything beside eating his school dinners. Despite being constantly jeered at by his classmates for looking like a Kappa, Sanpei is a relatively happy go lucky boy that is quite content with living alone with his grandfather in the mountains.
+One day, Sanpei`s school announces that it will hold a swimming gala with the top prize being an all expenses paid trip to the big city of Tokyo. Sanpei resolves to enter the contest so that he can have the chance to visit Tokyo and meet with his Mother who seems to have been working there for as long as he can remember.
+Unfortunately, Sanpei is not a very able swimmer and so decides to sneak off to a nearby lake to practice in secret. Sanpei quickly finds himself dragged under the water by a strong undercurrent and drowns only to find himself regain consciousness within the magical realm of the Kappa.
+Thus begins Sanpei`s journey as he befriends one of the Kappa children, Gartaro, and begins to learn the real whereabouts of his Mother and the reason behind his Fathers disappearance...</description>
+<ratings>
+<permanent count="4">3.92</permanent>
+<temporary count="4">5.00</temporary>
+</ratings>
+<picture>182206.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22334</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9584</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3126</identifier>
+<identifier>wlelch</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151908</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2963</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1754" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-30">
+<name>kappa</name>
+<description>They are legendary creatures, a type of water sprite found in Japanese folklore.
+Kappas are typically depicted as roughly humanoid in form, and about the size of a child.
+Their scaly, reptilian skin ranges in color from green to yellow or blue.
+Kappas supposedly inhabit the ponds and rivers of Japan and have various features to aid them in this environment, such as webbed hands and feet.
+They are sometimes said to smell like fish, and they can certainly swim like them.</description>
+</tag>
+<tag id="4278" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-15">
+<name>stand-alone movie</name>
+<description>You can watch this movie without having to watch something else first. This tag should not used for sequels, side stories, or summary movies, but may be used if the movie is either the first anime in a franchise or a remake.
+The movie must be feature-length. For shorts, use the `short movie` tag. In general, a "show-in-show" would not qualify as standalone. For example, an anime has a cartoon show within it. If the show within was released as an OVA or movie, it would not be considered standalone.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="102515" update="2009-05-18">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1993-03-13</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3137" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1990-02-24</startdate>
+<enddate>1990-02-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ojisan Kaizou Kouza</title>
+<title xml:lang="en" type="synonym">The Old Man`s Survival Guide</title>
+<title xml:lang="x-jat" type="synonym">Oji-san Kaizou Kouza</title>
+<title xml:lang="ja" type="official">おじさん改造講座</title>
+</titles>
+<creators>
+<name id="5313" type="Music">Kazz Toyama</name>
+<name id="4229" type="Direction">Shibayama Tsutomu</name>
+<name id="23909" type="Original Work">Shimizu Chinami</name>
+<name id="4229" type="Character Design">Shibayama Tsutomu</name>
+</creators>
+<description>* Adapted from http://anidb.net/cr23909 [Shimizu Chinami] and Furuya Yoshi`s popular manga in Weekly Bunshun.</description>
+<ratings>
+<permanent count="4">2.23</permanent>
+<temporary count="4">3.00</temporary>
+</ratings>
+<picture>139133.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15461</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23865</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3121</identifier>
+<identifier>obsdqe</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151003</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2494</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="53605" update="2010-04-18">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>1990-02-24</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

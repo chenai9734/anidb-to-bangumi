@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8151" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1985-07-21</startdate>
+<enddate>1985-07-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tongari Boushi no Memole: Mariel no Housekibako</title>
+<title xml:lang="ja" type="official">とんがり帽子のメモル マリエルの宝石箱</title>
+</titles>
+<relatedanime>
+<anime id="1933" type="Parent Story">Tongari Boushi no Memole</anime>
+</relatedanime>
+<description>Marielle is a young girl currently living in a remote house deep in the mountains between Switzerland and France to recover her health. The story is told through the memories of her adventures with Memoru, a tiny alien girl who lives on a nearby island. Her people are gnome-like beings who are stuck on Earth after their spaceship crashed here.</description>
+<ratings>
+<permanent count="14">5.97</permanent>
+<temporary count="14">5.92</temporary>
+</ratings>
+<picture>241871.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1703</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>とんがり帽子のメモル#OVA</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="126265" update="2011-12-14">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1985-07-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+<episode id="126318" update="2011-01-19">
+<epno type="2">S1</epno>
+<length>5</length>
+<airdate>1985-07-21</airdate>
+<title xml:lang="ja">土田勇のマイメモル とんがり帽子のメモル 光と風の詩[うた]</title>
+<title xml:lang="en">Tsuchida Isamu`s My Memole: Memole in the Pointed Hat Song of the Light and Wind</title>
+<title xml:lang="x-jat">Tsuchida Isamu no My Memole: Tongari Boushi no Memole Hikari to Kaze no Uta</title>
+</episode>
+</episodes>
+</anime>

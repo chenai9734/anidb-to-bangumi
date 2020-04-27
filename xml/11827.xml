@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11827" restricted="false">
+<type>Web</type>
+<episodecount>12</episodecount>
+<startdate>2016-01-09</startdate>
+<enddate>2016-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Koyomimonogatari</title>
+<title xml:lang="ja" type="synonym">コヨミモノガタリ</title>
+<title xml:lang="en" type="synonym">Calendar Story</title>
+<title xml:lang="ja" type="official">暦物語</title>
+<title xml:lang="en" type="official">Koyomimonogatari</title>
+<title xml:lang="zh-Hant" type="official">曆物語</title>
+</titles>
+<relatedanime>
+<anime id="13033" type="Sequel">Owarimonogatari (2017)</anime>
+<anime id="6327" type="Parent Story">Bakemonogatari</anime>
+<anime id="8658" type="Parent Story">Nisemonogatari</anime>
+<anime id="9183" type="Parent Story">Monogatari Series: Second Season</anime>
+<anime id="9453" type="Parent Story">Nekomonogatari (Kuro): Tsubasa Family</anime>
+<anime id="10891" type="Parent Story">Tsukimonogatari: Yotsugi Doll</anime>
+</relatedanime>
+<url>http://www.monogatari-series.com/koyomimonogatari/</url>
+<creators>
+<name id="792" type="Animation Work">Shaft</name>
+<name id="3529" type="Character Design">Watanabe Akio</name>
+<name id="9789" type="Series Composition">Tou Fuyashi</name>
+<name id="59" type="Series Composition">Shinbou Akiyuki</name>
+<name id="5970" type="Original Work">Nishio Ishin</name>
+<name id="11721" type="Direction">Itamura Tomoyuki</name>
+<name id="7169" type="Chief Animation Direction">Iwasaki Taisuke</name>
+<name id="3529" type="Chief Animation Direction">Watanabe Akio</name>
+<name id="14204" type="Chief Animation Direction">Nishizawa Shin`ya</name>
+<name id="59" type="Chief Direction">Shinbou Akiyuki</name>
+<name id="530" type="Music">Kousaki Satoru</name>
+</creators>
+<description>* Based on a series of light novels written by http://anidb.net/cr5970 [Nishio Ishin] and illustrated by http://anidb.net/cr6436 [Vofan].
+Every month starting from April, one of the heroines of the Monogatari series encounters some kind of mystery in their life and solves it with the help of http://anidb.net/ch8962 [Araragi Koyomi].
+— adapted from ANN
+Note: Released via an exclusive app on iOS and Android devices.</description>
+<ratings>
+<permanent count="1103">6.66</permanent>
+<temporary count="1112">7.28</temporary>
+</ratings>
+<picture>236036.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17938</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>32268</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.monogatari-series.com/koyomimonogatari/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Monogatari_(series)</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>暦物語_(西尾維新)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4997</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>355063</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18841</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>20230</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6494" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>half-length episodes</name>
+<description>Half-length episodes are regular episodes that are somewhat shorter than the standard length. This includes episodes that are 11 to 20 minutes in length; shows with episodes up to and including 10 minutes are http://anidb.net/t5852 [short episodes] instead.</description>
+</tag>
+</tags>
+<characters>
+<character id="8962" type="main character in" update="2020-04-06">
+<rating votes="1150">7.98</rating>
+<name>Araragi Koyomi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Araragi Koyomi, the main character of the story, is a third year high school student who is close to failing every class except maths.
+Shortly before the story begins, he was attacked by vampire during spring break, and became a vampire himself. Although http://anidb.net/ch8967 [Oshino Meme] helped him become human again, there are a few lingering side effects; he can see in the dark, and he heals faster than the average human. He is still scared of morning sunlight even though it no longer has any effect on him.</description>
+<picture>28404.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="8963" type="secondary cast in" update="2011-04-09">
+<rating votes="1976">8.57</rating>
+<name>Senjougahara Hitagi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Hitagi, the main character of Hitagi Crab, is a weak-looking girl with an "incurable disease". She is in the same class as http://anidb.net/ch8962 [Koyomi], but he has almost never heard her speak.
+When she was in the first year of high school, she encountered a mysterious crab, after which she became weightless. Ever since, she has avoided contact with everyone else, threatening everyone who discovers her secret. She called herself a tsundere and always speaks in an abusive style.</description>
+<picture>31036.jpg</picture>
+<seiyuu id="305" picture="37148.jpg">Saitou Chiwa</seiyuu>
+</character>
+<character id="8964" type="secondary cast in" update="2013-08-27">
+<rating votes="480">7.88</rating>
+<name>Hachikuji Mayoi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mayoi, is a fifth-grade elementary school girl. She always carry a big backpack, wears a hairband and ponytails.</description>
+<picture>28405.jpg</picture>
+<seiyuu id="641" picture="31202.jpg">Katou Emiri</seiyuu>
+</character>
+<character id="8965" type="secondary cast in" update="2013-01-08">
+<rating votes="799">6.94</rating>
+<name>Hanekawa Tsubasa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tsubasa, is http://anidb.net/ch8962 [Koyomi]`s classmate and the class president. Koyomi describes her as "the class president of all class presidents".</description>
+<picture>27221.jpg</picture>
+<seiyuu id="61" picture="58663.jpg">Horie Yui</seiyuu>
+</character>
+<character id="8966" type="secondary cast in" update="2011-04-09">
+<rating votes="571">7.13</rating>
+<name>Kanbaru Suruga</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Suruga is http://anidb.net/ch8962 [Koyomi]`s underclassman, ace of the school`s basketball team and one of http://anidb.net/ch8963 [Hitagi]`s acquaintances from back in junior high school.
+Immediately after she entered senior high school, she became aware of Hitagi`s secret and was threatened by her, just like Koyomi was.</description>
+<picture>17576.jpg</picture>
+<seiyuu id="38" picture="171532.jpg">Sawashiro Miyuki</seiyuu>
+</character>
+<character id="8967" type="secondary cast in" update="2012-12-08">
+<rating votes="202">8.15</rating>
+<name>Oshino Meme</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Meme is a middle-aged man who lives in an abandoned building. Being an expert in the apparitions field, he solves http://anidb.net/ch8962 [Koyomi]`s and others` problems, albeit with compensation.</description>
+<picture>129235.jpg</picture>
+<seiyuu id="225" picture="17044.jpg">Sakurai Takahiro</seiyuu>
+</character>
+<character id="8968" type="secondary cast in" update="2013-09-22">
+<rating votes="473">7.07</rating>
+<name>Sengoku Nadeko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Nadeko is http://anidb.net/ch8962 [Koyomi]`s sister`s friend back in elementary school. She always wears a waist pouch; always cast her eyes downward, have her bangs covering her eyes, not talk much and can be easily amused.</description>
+<picture>28407.jpg</picture>
+<seiyuu id="176" picture="192484.jpg">Hanazawa Kana</seiyuu>
+</character>
+<character id="10291" type="secondary cast in" update="2010-07-31">
+<rating votes="1069">8.75</rating>
+<name>Oshino Shinobu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>A girl who lives with Meme in the abolished building. She appears to be an eight year old girl, but she was originally a beautiful vampire who had lived for more than 500 years. After the events at the end of Koyomi Vamp, she was left in a weakened condition with no powers or traces of her original personality and therefore have to abandon her "Kiss-shot Acerola-orion Heart-under-blade" name. She was named Shinobu by Meme at the beginning of Hitagi Crab, suggesting her kanji name Shinobu (忍), having "heart" (心) under "blade" (刃), matches with her original personality.</description>
+<picture>46747.jpg</picture>
+<seiyuu id="227" picture="205854.jpg">Sakamoto Maaya</seiyuu>
+</character>
+<character id="10342" type="secondary cast in" update="2020-04-06">
+<rating votes="458">6.98</rating>
+<name>Araragi Karen</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Karen, the main character of Karen Bee, is one of Koyomi`s sisters. She`s older than Tsukihi and always doing outdoor activities.</description>
+<picture>61484.jpg</picture>
+<seiyuu id="401" picture="223216.jpg">Kitamura Eri</seiyuu>
+</character>
+<character id="10343" type="secondary cast in" update="2020-04-06">
+<rating votes="330">6.51</rating>
+<name>Araragi Tsukihi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tsukihi, the main character of Tsukihi Phoenix, is one of Koyomi`s sisters. She`s the youngest of Araragi family. Unlike her sister, Karen, she is always doing indoor activities.</description>
+<picture>61485.jpg</picture>
+<seiyuu id="516" picture="34813.jpg">Iguchi Yuka</seiyuu>
+</character>
+<character id="11973" type="appears in" update="2009-09-26">
+<rating votes="13">3.45</rating>
+<name>Senjougahara Chichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>36246.jpg</picture>
+</character>
+<character id="39695" type="secondary cast in" update="2012-03-04">
+<rating votes="59">4.52</rating>
+<name>Kagenui Yozuru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82886.jpg</picture>
+<seiyuu id="208" picture="20458.jpg">Shiraishi Ryouko</seiyuu>
+</character>
+<character id="39696" type="secondary cast in" update="2012-03-04">
+<rating votes="166">7.12</rating>
+<name>Ononoki Yotsugi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82887.jpg</picture>
+<seiyuu id="2296" picture="189623.jpg">Hayami Saori</seiyuu>
+</character>
+<character id="39697" type="secondary cast in" update="2011-12-29">
+<rating votes="282">6.80</rating>
+<name>Kaiki Deishuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>79082.jpg</picture>
+<seiyuu id="233" picture="228661.jpg">Miki Shin`ichirou</seiyuu>
+</character>
+<character id="58162" type="appears in" update="2013-07-27">
+<rating votes="5">5.50</rating>
+<name>Araragi Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140477.jpg</picture>
+</character>
+<character id="58165" type="appears in" update="2019-08-25">
+<rating votes="21">2.57</rating>
+<name>Episode</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140476.jpg</picture>
+</character>
+<character id="58166" type="secondary cast in" update="2013-07-27">
+<rating votes="30">6.00</rating>
+<name>Gaen Izuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>140478.jpg</picture>
+<seiyuu id="43275" picture="171555.jpg">Yukino Satsuki</seiyuu>
+</character>
+<character id="58986" type="secondary cast in" update="2017-03-04">
+<rating votes="149">7.53</rating>
+<name>Oshino Ougi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>199133.jpg</picture>
+<seiyuu id="591" picture="226209.jpg">Mizuhashi Kaori</seiyuu>
+</character>
+<character id="69621" type="appears in" update="2017-03-04">
+<rating votes="3">4.82</rating>
+<name>Higasa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>199131.jpg</picture>
+</character>
+<character id="77401" type="appears in" update="2015-11-11">
+<rating votes="16">5.33</rating>
+<name>Oikura Sodachi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179326.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="174165" update="2016-01-18">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2016-01-09</airdate>
+<rating votes="8">4.85</rating>
+<title xml:lang="ja">こよみストーン</title>
+<title xml:lang="en">Koyomi Stone</title>
+<title xml:lang="x-jat">Koyomi Stone</title>
+</episode>
+<episode id="174524" update="2016-01-16">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2016-01-16</airdate>
+<rating votes="8">4.66</rating>
+<title xml:lang="ja">こよみフラワー</title>
+<title xml:lang="en">Koyomi Flower</title>
+<title xml:lang="x-jat">Koyomi Flower</title>
+</episode>
+<episode id="174713" update="2016-01-24">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2016-01-23</airdate>
+<rating votes="7">3.45</rating>
+<title xml:lang="ja">こよみサンド</title>
+<title xml:lang="en">Koyomi Sand</title>
+<title xml:lang="x-jat">Koyomi Sand</title>
+</episode>
+<episode id="174840" update="2016-01-29">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2016-01-30</airdate>
+<rating votes="7">5.73</rating>
+<title xml:lang="ja">こよみウォーター</title>
+<title xml:lang="en">Koyomi Water</title>
+<title xml:lang="x-jat">Koyomi Water</title>
+</episode>
+<episode id="174945" update="2016-02-07">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2016-02-06</airdate>
+<rating votes="6">5.75</rating>
+<title xml:lang="ja">こよみウインド</title>
+<title xml:lang="en">Koyomi Wind</title>
+<title xml:lang="x-jat">Koyomi Wind</title>
+</episode>
+<episode id="175011" update="2016-02-14">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2016-02-13</airdate>
+<rating votes="6">5.10</rating>
+<title xml:lang="ja">こよみツリー</title>
+<title xml:lang="en">Koyomi Tree</title>
+<title xml:lang="x-jat">Koyomi Tree</title>
+</episode>
+<episode id="175556" update="2016-02-22">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2016-02-20</airdate>
+<rating votes="6">5.71</rating>
+<title xml:lang="ja">こよみティー</title>
+<title xml:lang="en">Koyomi Tea</title>
+<title xml:lang="x-jat">Koyomi Tea</title>
+</episode>
+<episode id="175813" update="2016-02-27">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2016-02-27</airdate>
+<rating votes="6">4.07</rating>
+<title xml:lang="ja">こよみマウンテン</title>
+<title xml:lang="en">Koyomi Mountain</title>
+<title xml:lang="x-jat">Koyomi Mountain</title>
+</episode>
+<episode id="175957" update="2016-03-05">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>2016-03-05</airdate>
+<rating votes="6">5.21</rating>
+<title xml:lang="ja">こよみトーラス</title>
+<title xml:lang="en">Koyomi Torus</title>
+<title xml:lang="x-jat">Koyomi Torus</title>
+</episode>
+<episode id="176044" update="2016-03-13">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>2016-03-12</airdate>
+<rating votes="6">4.85</rating>
+<title xml:lang="ja">こよみシード</title>
+<title xml:lang="en">Koyomi Seed</title>
+<title xml:lang="x-jat">Koyomi Seed</title>
+</episode>
+<episode id="176064" update="2016-03-15">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>2016-03-26</airdate>
+<rating votes="6">9.73</rating>
+<title xml:lang="ja">こよみデッド</title>
+<title xml:lang="en">Koyomi Dead</title>
+<title xml:lang="x-jat">Koyomi Dead</title>
+</episode>
+<episode id="176065" update="2016-03-15">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>2016-03-19</airdate>
+<rating votes="6">6.00</rating>
+<title xml:lang="ja">こよみナッシング</title>
+<title xml:lang="en">Koyomi Nothing</title>
+<title xml:lang="x-jat">Koyomi Nothing</title>
+</episode>
+<episode id="184538" update="2018-12-20">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2016-01-09</airdate>
+<rating votes="2">3.27</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14070" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2018-11-30</startdate>
+<enddate>2018-11-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Neko Kikaku</title>
+<title xml:lang="ja" type="official">猫企画</title>
+</titles>
+<url>http://nekokikaku.net/</url>
+<creators>
+<name id="11201" type="Direction">Awazu Jun</name>
+<name id="11201" type="Original Work">Awazu Jun</name>
+</creators>
+<picture>226456.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37827</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://nekokikaku.net/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364923</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>nekokikaku_jp</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="209984" update="2018-11-23">
+<epno type="1">1</epno>
+<length>40</length>
+<airdate>2018-11-30</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

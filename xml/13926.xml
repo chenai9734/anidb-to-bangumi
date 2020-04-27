@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13926" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2018-10-27</startdate>
+<enddate>2018-10-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Hugtto! Precure x Futari wa Precure: All Stars Memories</title>
+<title xml:lang="ja" type="official">映画HUGっと! プリキュア♡ふたりはプリキュア オールスターズメモリーズ</title>
+</titles>
+<relatedanime>
+<anime id="2765" type="Parent Story">Futari wa Precure Max Heart</anime>
+<anime id="13526" type="Parent Story">Hugtto! Precure</anime>
+</relatedanime>
+<url>http://precure-movie.com/</url>
+<creators>
+<name id="2808" type="Original Work">Toudou Izumi</name>
+<name id="26322" type="Direction">Miyamoto Hiroshi</name>
+<name id="5778" type="Chief Animation Direction">Inagami Akira</name>
+<name id="27786" type="Music">Hayashi Yuuki</name>
+<name id="5778" type="Character Design">Inagami Akira</name>
+</creators>
+<description>A monster with the ability to steal memories, Miden, confronts the http://anidb.net/a [Futari wa] and http://anidb.net/a13526 [Hugtto!] Precure groups using other Precure attacks. Having stolen the memories of all Precure members, save http://anidb.net/ch93195 [Nono Hana] and http://anidb.net/ch6157 [Misumi Nagisa], it`s up to these two girls to rescue everyone`s memories from Miden.</description>
+<ratings>
+<permanent count="25">6.92</permanent>
+<temporary count="25">6.90</temporary>
+</ratings>
+<picture>221171.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21748</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37501</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://precure-movie.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>363719</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="197051" update="2018-10-23">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>2018-10-27</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="216051" update="2019-04-24">
+<epno type="2">S1</epno>
+<length>20</length>
+<title xml:lang="en">Premiere Event</title>
+</episode>
+<episode id="216052" update="2019-04-24">
+<epno type="2">S2</epno>
+<length>20</length>
+<title xml:lang="en">Opening Night Event</title>
+</episode>
+<episode id="216053" update="2019-04-24">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2018-10-27</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="216054" update="2019-04-24">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2018-10-27</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+</episodes>
+</anime>

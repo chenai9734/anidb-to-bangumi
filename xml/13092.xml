@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13092" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1975-02-11</startdate>
+<enddate>1975-02-11</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Feng Shen Bang</title>
+<title xml:lang="en" type="synonym">Bruce Lee in Animation: Chinese Gods</title>
+<title xml:lang="en" type="synonym">The Story of Chinese Gods</title>
+<title xml:lang="de" type="synonym">Tarzerix der Rächer</title>
+<title xml:lang="ja" type="official">ドラゴン水滸伝</title>
+<title xml:lang="zh" type="official">封神榜</title>
+<title xml:lang="de" type="official">Die Elefantenpolizei</title>
+</titles>
+<ratings>
+<permanent count="10">2.07</permanent>
+<temporary count="10">2.50</temporary>
+</ratings>
+<picture>200755.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35379</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ドラゴン水滸伝</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>16159</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="6152" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>Chinese production</name>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="186923" update="2018-01-23">
+<epno type="1">1</epno>
+<length>80</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7957" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2007-11-23</startdate>
+<enddate>2007-11-23</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ukkari Penelope (2007)</title>
+<title xml:lang="ja" type="official">うっかりペネロペ (2007)</title>
+</titles>
+<relatedanime>
+<anime id="7035" type="Sequel">Ukkari Penelope (2009)</anime>
+<anime id="7027" type="Prequel">Ukkari Penelope</anime>
+</relatedanime>
+<url>http://www.penelope.tv/</url>
+<description>In 2007 two newly made episodes following the http://anidb.net/a7027 [Ukkari Penelope] television series were released as part of a Gift Box to commemorate the approaching Christmas. Both episodes were shown later on TV on http://anidb.net/cr1050 [NHK] shortly prior to Christmas on December, 22.</description>
+<ratings>
+<permanent count="6">4.19</permanent>
+<temporary count="6">4.16</temporary>
+</ratings>
+<picture>54772.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>8346</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.penelope.tv/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ペネロペ_(絵本)</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1697</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="122066" update="2010-09-10">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2007-11-23</airdate>
+<title xml:lang="ja">ペネロペのクリスマスパーティー</title>
+<title xml:lang="en">Christmas Party</title>
+<title xml:lang="x-jat">Penelope no Christmas Party</title>
+</episode>
+<episode id="122067" update="2010-09-10">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2007-11-23</airdate>
+<title xml:lang="ja">メリークリスマス, ペネロペ</title>
+<title xml:lang="en">Merry Christmas Penelope</title>
+<title xml:lang="x-jat">Merry Christmas, Penelope</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4719" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1995-03-21</startdate>
+<enddate>1995-06-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Atashi Tenshi Anata Akuma</title>
+<title xml:lang="ja" type="official">あたし天使あなた悪魔</title>
+</titles>
+<creators>
+<name id="5433" type="Direction">Shibuichi Setsuko</name>
+<name id="33943" type="Original Work">Tajima Miruku</name>
+</creators>
+<ratings>
+<permanent count="3">1.56</permanent>
+<temporary count="3">1.66</temporary>
+</ratings>
+<picture>205258.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35721</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2976</identifier>
+<identifier>rgtunu</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>あたし天使あなた悪魔</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88250</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7553</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="73392" update="2007-05-15">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1995-03-21</airdate>
+<title xml:lang="ja">焼き肉 大騒動</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Yakiniku Daisoudou</title>
+</episode>
+<episode id="73393" update="2007-05-15">
+<epno type="1">2</epno>
+<length>0</length>
+<airdate>1995-06-21</airdate>
+<title xml:lang="ja">だってヒナコが!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Datte Hinako ga!</title>
+</episode>
+</episodes>
+</anime>

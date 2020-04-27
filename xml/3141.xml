@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3141" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1980-06-13</startdate>
+<enddate>1980-06-13</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bocchan</title>
+<title xml:lang="en" type="synonym">Botchan</title>
+<title xml:lang="ja" type="official">坊っちゃん</title>
+</titles>
+<url>http://www.tms-e.com/library/tokushu/bocchan/</url>
+<creators>
+<name id="782" type="Unknown Relation">Tokyo Movie</name>
+<name id="4109" type="Character Design">Sugino Akio</name>
+<name id="3637" type="Music">Watanabe Takeo</name>
+<name id="10172" type="Original Work">Natsume Souseki</name>
+</creators>
+<description>Released as a TV special.
+Based on http://anidb.net/cr10172 [Natsume Souseki]’s 1906 novel, which was one of Japan`s best-selling books. The novel included autobiographical elements: Natsume once taught in Matsuyama, where Uranari comes to teach.
+Animator Akio Sugino "cleaned up" Monkey Punch`s designs.
+Some sources credit Osamu Dezaki as the director`s "assistant".
+A shorter version of "Botchan" was produced in 1986 as part of a series, "Animated Classics of Japanese Literature".
+Alternate title: "The Young Master."</description>
+<ratings>
+<permanent count="11">4.84</permanent>
+<temporary count="11">5.95</temporary>
+</ratings>
+<picture>4425.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17326</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4680</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tms-e.com/library/tokushu/bocchan/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>162335</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="53725" update="2016-12-05">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>1980-06-13</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

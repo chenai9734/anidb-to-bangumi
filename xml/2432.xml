@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2432" restricted="false">
+<type>TV Series</type>
+<episodecount>25</episodecount>
+<startdate>2004-07-04</startdate>
+<enddate>2004-12-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Monkey Turn V</title>
+<title xml:lang="ja" type="synonym">モンキーターンV</title>
+<title xml:lang="ja" type="official">モンキー ターン V</title>
+</titles>
+<relatedanime>
+<anime id="1274" type="Prequel">Monkey Turn</anime>
+</relatedanime>
+<recommendations total="1">
+<recommendation type="For Fans" uid="262593">Exactly the same as its predecessor, some slightly improved animation, as it adds more dawn and night races.</recommendation>
+</recommendations>
+<url>http://www.vap.co.jp/monkey/v/index.html</url>
+<creators>
+<name id="727" type="Unknown Relation">OLM</name>
+<name id="732" type="Animation Co-Production">AIC</name>
+<name id="8956" type="Original Work">Kawai Katsutoshi</name>
+<name id="3985" type="Character Design">Okuda Atsushi</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="3987" type="Direction">Akiyama Katsuhito</name>
+</creators>
+<ratings>
+<permanent count="11">5.76</permanent>
+<temporary count="12">6.75</temporary>
+</ratings>
+<picture>238215.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9976</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>2741</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1505</identifier>
+<identifier>kleajd</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.vap.co.jp/monkey/v/index.html</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Monkey_Turn</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>モンキーターンV#.E3.82.A2.E3.83.8B.E3.83.A1</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>433</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>321046</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>6853</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2881" parentid="2607" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="29275" type="secondary cast in" update="2011-02-26">
+<name>Douguchi Takeo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>66551.jpg</picture>
+<seiyuu id="28" picture="23184.jpg">Aono Takeshi</seiyuu>
+</character>
+<character id="41472" type="secondary cast in" update="2012-02-19">
+<name>Jougasaki Arisa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2380.gif</picture>
+<seiyuu id="158" picture="38198.jpg">Neya Michiko</seiyuu>
+</character>
+<character id="41478" type="appears in" update="2012-02-19">
+<name>Kobayashi Mizuki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2384.gif</picture>
+<seiyuu id="3834" picture="25805.jpg">Toyoshima Machiko</seiyuu>
+</character>
+<character id="41479" type="main character in" update="2012-02-19">
+<name>Hatano Kenji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2390.gif</picture>
+<seiyuu id="2248" picture="170362.jpg">Kawashima Tokuyoshi</seiyuu>
+</character>
+<character id="41480" type="secondary cast in" update="2015-02-24">
+<name>Douguchi Takehiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169426.jpg</picture>
+<seiyuu id="400" picture="171989.jpg">Majima Junji</seiyuu>
+</character>
+<character id="41481" type="main character in" update="2012-02-19">
+<rating votes="2">6.08</rating>
+<name>Ubukata Sumi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2414.gif</picture>
+<seiyuu id="140" picture="170306.jpg">Noda Junko</seiyuu>
+</character>
+<character id="41482" type="appears in" update="2012-02-19">
+<name>Hagiwara Makoto</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2416.gif</picture>
+<seiyuu id="319" picture="228606.jpg">Okamura Akemi</seiyuu>
+</character>
+<character id="41483" type="secondary cast in" update="2015-02-24">
+<name>Aoshima Yuuko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169329.jpg</picture>
+<seiyuu id="488" picture="138714.jpg">Takano Naoko</seiyuu>
+</character>
+<character id="41484" type="secondary cast in" update="2012-02-19">
+<name>Kishimoto Hiroshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2419.gif</picture>
+<seiyuu id="484" picture="17476.jpg">Kisaichi Atsushi</seiyuu>
+</character>
+<character id="41485" type="secondary cast in" update="2012-02-19">
+<name>Koike Kan`ichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2427.gif</picture>
+<seiyuu id="39" picture="16629.jpg">Mugihito</seiyuu>
+</character>
+<character id="41486" type="appears in" update="2012-02-19">
+<name>Pedro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2437.gif</picture>
+<seiyuu id="173" picture="150067.jpg">Chafuurin</seiyuu>
+</character>
+<character id="41487" type="secondary cast in" update="2012-02-19">
+<name>Mitsuse Akira</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81802.jpg</picture>
+<seiyuu id="186" picture="16999.jpg">Minami Omi</seiyuu>
+</character>
+<character id="41488" type="secondary cast in" update="2012-02-19">
+<name>Yamaguchi Takashi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2434.gif</picture>
+<seiyuu id="5074" picture="156840.jpg">Kitagawa Takurou</seiyuu>
+</character>
+<character id="41489" type="appears in" update="2012-02-19">
+<name>Inukai Gunji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2439.gif</picture>
+<seiyuu id="2067" picture="186243.jpg">Hoshino Mitsuaki</seiyuu>
+</character>
+<character id="41493" type="appears in" update="2015-02-24">
+<name>Douguchi Yoshiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169425.jpg</picture>
+<seiyuu id="2015" picture="224313.jpg">Kouda Kaho</seiyuu>
+</character>
+<character id="41494" type="appears in" update="2015-02-24">
+<name>Egami Shuuji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169423.jpg</picture>
+<seiyuu id="260" picture="17083.jpg">Aizawa Masaki</seiyuu>
+</character>
+<character id="41495" type="secondary cast in" update="2015-02-24">
+<name>Enoki Yuusuke</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169420.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+<character id="41499" type="secondary cast in" update="2012-02-19">
+<name>Wakui Jouji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2454.gif</picture>
+<seiyuu id="374" picture="17220.jpg">Yamazaki Takumi</seiyuu>
+</character>
+<character id="41501" type="appears in" update="2015-02-24">
+<name>Ayukawa Kiichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169358.jpg</picture>
+<seiyuu id="478" picture="17453.jpg">Nakamura Daiki</seiyuu>
+</character>
+<character id="41502" type="appears in" update="2012-02-19">
+<name>Shiozaki Toshiya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2456.gif</picture>
+<seiyuu id="2090" picture="151718.jpg">Toochika Kouichi</seiyuu>
+</character>
+<character id="41503" type="secondary cast in" update="2012-02-19">
+<name>Okaizumi Seiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2459.gif</picture>
+<seiyuu id="1913" picture="186187.jpg">Chiba Isshin</seiyuu>
+</character>
+<character id="41504" type="appears in" update="2012-02-19">
+<name>Tao Tsutomu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2461.gif</picture>
+<seiyuu id="373" picture="191382.jpg">Hamada Kenji</seiyuu>
+</character>
+<character id="41506" type="appears in" update="2012-02-19">
+<rating votes="2">6.08</rating>
+<name>Koike Aki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2464.gif</picture>
+<seiyuu id="1446" picture="19314.jpg">Touma Yumi</seiyuu>
+</character>
+<character id="41507" type="secondary cast in" update="2012-02-19">
+<name>Hamaoka Takeshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2465.gif</picture>
+<seiyuu id="13050" picture="171761.jpg">Shibuya Shigeru</seiyuu>
+</character>
+<character id="41510" type="appears in" update="2012-02-19">
+<name>Takahashi Kako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2473.gif</picture>
+<seiyuu id="349" picture="79057.jpg">Kanda Akemi</seiyuu>
+</character>
+<character id="41513" type="appears in" update="2012-02-19">
+<name>Hatano Noriko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2477.gif</picture>
+<seiyuu id="2028" picture="224309.jpg">Kikuchi Izumi</seiyuu>
+</character>
+<character id="41515" type="appears in" update="2012-02-19">
+<name>Hatano Gentarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2476.gif</picture>
+<seiyuu id="282" picture="223615.jpg">Houki Katsuhisa</seiyuu>
+</character>
+<character id="41516" type="appears in" update="2012-02-19">
+<name>Hatano Hazuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2479.gif</picture>
+<seiyuu id="1983" picture="151694.jpg">Murai Kazusa</seiyuu>
+</character>
+<character id="41519" type="appears in" update="2012-02-19">
+<name>Hatano Kanna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2486.gif</picture>
+<seiyuu id="18300" picture="48477.jpg">Tomisaka Akira</seiyuu>
+</character>
+<character id="41520" type="appears in" update="2012-02-19">
+<name>Kouno Kazumi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2488.gif</picture>
+<seiyuu id="181" picture="171560.jpg">Taniyama Kishou</seiyuu>
+</character>
+<character id="41521" type="secondary cast in" update="2012-02-19">
+<name>Mifune Masayoshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>2490.gif</picture>
+<seiyuu id="301" picture="186193.jpg">Oonishi Takeharu</seiyuu>
+</character>
+<character id="41523" type="secondary cast in" update="2012-02-19">
+<name>Okita Ryuuichirou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81816.jpg</picture>
+<seiyuu id="224" picture="79056.jpg">Kamiya Hiroshi</seiyuu>
+</character>
+<character id="41524" type="appears in" update="2012-02-19">
+<name>Koizumi Ishi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81817.jpg</picture>
+<seiyuu id="78" picture="16686.jpg">Shimura Tomoyuki</seiyuu>
+</character>
+<character id="41529" type="appears in" update="2012-02-19">
+<name>Katsuki Kagetora</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81822.jpg</picture>
+<seiyuu id="2192" picture="196332.jpg">Kashii Shouto</seiyuu>
+</character>
+<character id="41536" type="appears in" update="2012-02-19">
+<name>Isa Tetsuo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81833.jpg</picture>
+<seiyuu id="2936" picture="75539.jpg">Sasanuma Akira</seiyuu>
+</character>
+<character id="41537" type="appears in" update="2012-02-19">
+<name>Maejima Osamu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81838.jpg</picture>
+<seiyuu id="3064" picture="24692.jpg">Asou Tomohisa</seiyuu>
+</character>
+<character id="41538" type="appears in" update="2012-02-19">
+<name>Oohashi Ana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81840.jpg</picture>
+<seiyuu id="43215" picture="10288.jpeg">Oohashi Miho</seiyuu>
+</character>
+<character id="41547" type="secondary cast in" update="2012-02-19">
+<name>Gamou Hidetaka</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81856.jpg</picture>
+<seiyuu id="455" picture="17356.jpg">Matsumoto Yasunori</seiyuu>
+</character>
+<character id="41548" type="appears in" update="2012-02-19">
+<name>Kushida Chiaki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81861.jpg</picture>
+<seiyuu id="3398" picture="224826.jpg">Kingetsu Mami</seiyuu>
+</character>
+<character id="41556" type="appears in" update="2012-02-19">
+<name>Shouta-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81866.jpg</picture>
+<seiyuu id="1983" picture="151694.jpg">Murai Kazusa</seiyuu>
+</character>
+<character id="41557" type="appears in" update="2012-02-19">
+<name>Tadou Mitsuru</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81870.jpg</picture>
+<seiyuu id="29" picture="202917.jpg">Hatano Wataru</seiyuu>
+</character>
+<character id="41558" type="appears in" update="2012-02-19">
+<name>Matsunaga Hideaki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81871.jpg</picture>
+<seiyuu id="214" picture="238138.jpg">Nojima Hirofumi</seiyuu>
+</character>
+<character id="41559" type="appears in" update="2012-02-19">
+<name>Nagao Shigekazu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>81872.jpg</picture>
+<seiyuu id="387" picture="17233.jpg">Narita Ken</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="22908" update="2006-08-04">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2004-07-04</airdate>
+<title xml:lang="ja">いつオレが, 女子のおしりを...!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Itsu Ore ga, Joshi no Oshiri o...!</title>
+</episode>
+<episode id="22909" update="2006-08-04">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2004-07-18</airdate>
+<title xml:lang="ja">レースをしてえっ!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Race o Shite e!</title>
+</episode>
+<episode id="22910" update="2006-08-04">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2004-08-01</airdate>
+<title xml:lang="ja">いよいよ復帰戦!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Iyoi yo Fukkisen!</title>
+</episode>
+<episode id="22911" update="2006-08-04">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2004-08-08</airdate>
+<title xml:lang="ja">うねりを越えろ!</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="22912" update="2006-08-04">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2004-07-11</airdate>
+<title xml:lang="ja">競艇なんか...</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kyoutei Nanka...</title>
+</episode>
+<episode id="22913" update="2006-08-04">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2004-07-25</airdate>
+<title xml:lang="ja">ボートってこんなに!?</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Boat tte Konna ni!?</title>
+</episode>
+<episode id="22914" update="2006-08-04">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2004-08-15</airdate>
+<title xml:lang="ja">これでアイツと並んだ!</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="28870" update="2006-08-04">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2004-08-22</airdate>
+<title xml:lang="ja">本気(マジ)にさせてやる!</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="28871" update="2006-08-04">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2004-12-05</airdate>
+<title xml:lang="ja">今回はムリですか?</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Konkai wa Muri Desuka?</title>
+</episode>
+<episode id="28872" update="2006-08-04">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2004-09-26</airdate>
+<title xml:lang="ja">おまえだけには勝たせねえ!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Omae Dake ni wa Katase nee!</title>
+</episode>
+<episode id="28873" update="2006-08-04">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2004-11-21</airdate>
+<title xml:lang="ja">あなたに勝つ!!</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Anata ni Katsu!!</title>
+</episode>
+<episode id="28874" update="2006-08-04">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2004-08-29</airdate>
+<title xml:lang="ja">ぜんぜん, うれしくないんや</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="28875" update="2006-08-04">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2004-12-12</airdate>
+<title xml:lang="ja">プレッシャー...!?</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">Pressure...!?</title>
+</episode>
+<episode id="28876" update="2006-08-04">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2004-10-17</airdate>
+<title xml:lang="ja">山は高いほうが登りがいがあるぜ!</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="28877" update="2006-08-04">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2004-11-28</airdate>
+<title xml:lang="ja">燃えてきましたよ</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Moeteki Mashita yo</title>
+</episode>
+<episode id="28878" update="2006-08-04">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2004-12-19</airdate>
+<title xml:lang="ja">これが賞金王!</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Kore ga Shoukinou!</title>
+</episode>
+<episode id="28879" update="2006-08-04">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2004-11-14</airdate>
+<title xml:lang="ja">100%じゃないけれど</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">100% ja Nai Keredo</title>
+</episode>
+<episode id="28880" update="2006-08-04">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2004-10-03</airdate>
+<title xml:lang="ja">約束は守らないとな!</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="28881" update="2006-08-04">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2004-10-10</airdate>
+<title xml:lang="ja">おまえがガンバるからだ.</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="28882" update="2006-08-04">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2004-09-19</airdate>
+<title xml:lang="ja">今からやる!</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="28883" update="2006-08-04">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2004-09-12</airdate>
+<title xml:lang="ja">女子でこんなに強い人いたんだ!</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="28884" update="2006-08-04">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2004-09-05</airdate>
+<title xml:lang="ja">いよいよオーシャンカップだぜ</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="28885" update="2006-08-04">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2004-10-31</airdate>
+<title xml:lang="ja">左手の傷が...!</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="28886" update="2006-08-04">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2004-11-07</airdate>
+<title xml:lang="ja">まだこれからさ</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="28887" update="2006-08-04">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2004-10-24</airdate>
+<title xml:lang="ja">いっしょに優勝戦乗ろうぜ!</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="125086" update="2010-11-09">
+<epno type="3">C3</epno>
+<length>2</length>
+<airdate>2004-10-03</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="125087" update="2010-11-09">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2004-07-04</airdate>
+<title xml:lang="en">Opening 2</title>
+</episode>
+<episode id="125088" update="2010-11-09">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2004-07-04</airdate>
+<title xml:lang="en">Opening 1</title>
+</episode>
+</episodes>
+</anime>

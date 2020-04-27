@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="818" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1992-04-25</startdate>
+<enddate>1992-04-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Candy Candy (1992)</title>
+<title xml:lang="fr" type="synonym">Au pays de Candy : Le film</title>
+<title xml:lang="ru" type="synonym">Кенди-Кенди (1992)</title>
+<title xml:lang="tr" type="synonym">Şeker Kız Candy Film</title>
+<title xml:lang="x-jat" type="short">CC1992</title>
+<title xml:lang="ja" type="official">キャンディ・キャンディ (1992)</title>
+</titles>
+<relatedanime>
+<anime id="1913" type="Full Story">Candy Candy</anime>
+</relatedanime>
+<creators>
+<name id="737" type="Financial Production">Toei</name>
+<name id="1094" type="Original Work">Igarashi Yumiko</name>
+<name id="4282" type="Direction">Imazawa Tetsuo</name>
+<name id="3637" type="Music">Watanabe Takeo</name>
+<name id="8831" type="Original Work">Mizuki Kyouko</name>
+</creators>
+<description>* Based on a shojo manga by http://anidb.net/cr8831 [Mizuki Kyouko] and http://anidb.net/cr1094 [Igarashi Yumiko] published in 1974.
+Candy Candy movie summarized the classical TV series but with different ending and conclusion (happy ending). There are many important scenes and moments from TV series that got deleted. Also a very sloppy and quick characters introduction were used in this movie, which will confuse a lot of people who have not watch the TV series nor read the manga yet.
+Source: AnimeNfo</description>
+<ratings>
+<permanent count="142">3.69</permanent>
+<temporary count="146">5.83</temporary>
+</ratings>
+<picture>238075.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2104</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>723</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1048</identifier>
+<identifier>otthux</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>151663</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1077" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shoujo</name>
+<description>In the context of manga and associated media, shoujo, literally meaning "girl", refers to a female audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2798" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-02-14">
+<name>manga</name>
+<description>Manga is the lifeblood that drives the anime industry. Everything and its mother is based on manga. However! There are exceptions where the manga was not the basis for the anime.
+It`s common practice to make manga adaptations of many popular anime, there`s a manga based on Evangelion, and two (one shounen and one shoujo) based on each of Escaflowne and Mahou Tsukai Tai. Also it`s quite common to release manga and anime versions of a story in parallel, for instance Nadesico and Shoujo Kakumei Utena. There are also cases where an anime continues in a manga, as in the case of Angel Beats! and Angel Beats: Heaven`s Door, or reverse.
+See also http://anidb.net/t6493 [manhua] and http://anidb.net/t5010 [manhwa].</description>
+<picurl>215593.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="25162" type="main character in" update="2019-09-07">
+<rating votes="27">7.69</rating>
+<name>Candice White Adley</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Candy is an orphan grown up in the orphanage "Pony`s Home". She has got golden blond hair, green eyes and freckles in her funny face. Candy is very kind-hearted, helpful, optimistic, cheerful and vivid and doesn`t have any inferiority complex because of being an orphan at all. So many people like her or love her very much. While being a teenager, she is adopted by the clan Adley, the biggest, very rich, influential and highly respected clan in the United States of America. From then on Candy must go through many troubles in her life. However, she never becomes dejected, but stays cheerful, diligent and optimistic.</description>
+<picture>238080.jpg</picture>
+<seiyuu id="3286" picture="24711.jpg">Matsushima Minori</seiyuu>
+</character>
+<character id="35313" type="main character in" update="2019-09-07">
+<rating votes="4">8.39</rating>
+<name>Anthony Brown</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>238084.jpg</picture>
+<seiyuu id="4932" picture="16806.jpg">Horikawa Ryou</seiyuu>
+</character>
+<character id="35316" type="secondary cast in" update="2019-09-08">
+<rating votes="1">6.92</rating>
+<name>Archibald Cornwell</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>238118.jpg</picture>
+<seiyuu id="353" picture="17192.jpg">Midorikawa Hikaru</seiyuu>
+</character>
+<character id="35317" type="secondary cast in" update="2019-09-08">
+<rating votes="1">6.92</rating>
+<name>Alistair Cornwell</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>238116.jpg</picture>
+<seiyuu id="183" picture="16992.jpg">Onosaka Masaya</seiyuu>
+</character>
+<character id="35319" type="secondary cast in" update="2019-09-08">
+<rating votes="2">6.08</rating>
+<name>Eliza Leagan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>238119.jpg</picture>
+<seiyuu id="1811" picture="222844.jpg">Yamada Eiko</seiyuu>
+</character>
+<character id="35320" type="secondary cast in" update="2019-09-08">
+<rating votes="2">10.00</rating>
+<name>Neil Leagan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>238120.jpg</picture>
+<seiyuu id="3149" picture="132209.jpg">Nakao Ryuusei</seiyuu>
+</character>
+<character id="35322" type="secondary cast in" update="2019-09-08">
+<rating votes="1">6.92</rating>
+<name>Annie Brighton</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>238117.jpg</picture>
+<seiyuu id="1446" picture="19314.jpg">Touma Yumi</seiyuu>
+</character>
+<character id="35327" type="appears in" update="2019-09-02">
+<name>Pony-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>237944.jpg</picture>
+</character>
+<character id="35328" type="appears in" update="2019-09-02">
+<name>Lane-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>237943.jpg</picture>
+<seiyuu id="4105" picture="39793.jpg">Kawashima Chiyoko</seiyuu>
+</character>
+<character id="35331" type="appears in" update="2019-09-02">
+<name>Mrs Leagan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>237949.jpg</picture>
+<seiyuu id="9679" picture="203641.jpg">Komiya Kazue</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="8520" update="2011-10-20">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1992-04-25</airdate>
+<rating votes="1">3.81</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="201392" update="2018-06-12">
+<epno type="2">S1</epno>
+<length>3</length>
+<title xml:lang="en">Disc End Special</title>
+</episode>
+</episodes>
+</anime>

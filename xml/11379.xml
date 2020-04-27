@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11379" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2010</startdate>
+<enddate>2010</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Haru no Shikumi</title>
+<title xml:lang="ja" type="official">春のしくみ</title>
+<title xml:lang="en" type="official">The Mechanism of Spring</title>
+</titles>
+<description>Short film by Atsushi Wada about Spring.</description>
+<ratings>
+<permanent count="66">2.42</permanent>
+<temporary count="68">3.78</temporary>
+</ratings>
+<picture>175488.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>28645</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170096" update="2015-07-19">
+<epno type="1">1</epno>
+<length>5</length>
+<rating votes="1">1.35</rating>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="195978" update="2018-02-11">
+<epno type="2">S1</epno>
+<length>7</length>
+<title xml:lang="ja">和田淳作品ができるまで</title>
+<title xml:lang="en">Making of Atsushi Wada</title>
+<title xml:lang="x-jat">Wada Atsushi Sakuhin ga Dekiru Made</title>
+</episode>
+</episodes>
+</anime>

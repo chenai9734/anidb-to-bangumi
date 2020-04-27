@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9165" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1981-12-22</startdate>
+<enddate>1981-12-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi</title>
+<title xml:lang="ja" type="official">小さなラブレター まり子とねむの木の子供たち</title>
+</titles>
+<creators>
+<name id="4808" type="Music">Aoki Nozomi</name>
+<name id="21072" type="Original Work">Miyagi Mariko</name>
+</creators>
+<description>* Based on a story by http://anidb.net/cr21072 [Miyagi Mariko], a popular actress and singer.
+Note: This TV special was shown as part of a charity event.</description>
+<picture>86133.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19177</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235459</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3427</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="43549" type="secondary cast in" update="2012-04-19">
+<name>Hitomi</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="364" picture="202614.jpg">Han Keiko</seiyuu>
+</character>
+<character id="43550" type="main character in" update="2012-04-19">
+<name>Mariko</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="4735" picture="29144.jpg">Masuyama Eiko</seiyuu>
+</character>
+<character id="43551" type="secondary cast in" update="2012-04-19">
+<name>Yutaka</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="24137" picture="186214.jpg">Miura Masako</seiyuu>
+</character>
+<character id="43552" type="secondary cast in" update="2012-04-19">
+<name>Tower</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2890" picture="23182.jpg">Sugiyama Kazuko</seiyuu>
+</character>
+<character id="43553" type="secondary cast in" update="2012-04-19">
+<name>Oohara</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="2583" picture="23188.jpg">Furukawa Toshio</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="138993" update="2012-04-19">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1981-12-22</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

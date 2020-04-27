@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7901" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2010-06-01</startdate>
+<enddate>2010-06-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bokura no Hero</title>
+<title xml:lang="ja" type="official">僕らのヒーロー</title>
+</titles>
+<relatedanime>
+<anime id="7892" type="Other">Egao no Hana</anime>
+</relatedanime>
+<url>http://www.nhk.or.jp/minna/backnumber/bk10_06_07.html</url>
+<ratings>
+<permanent count="47">3.14</permanent>
+<temporary count="47">4.54</temporary>
+</ratings>
+<picture>1509.jpeg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>15525</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://cgi2.nhk.or.jp/minna/search/index.cgi?id=MIN201006_03</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="124325" update="2010-11-16">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2010-06-01</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

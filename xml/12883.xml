@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12883" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1934</startdate>
+<enddate>1934</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Manga Kamishibai Kintarou no Maki</title>
+<title xml:lang="x-jat" type="synonym">Kamishibai Kintaro</title>
+<title xml:lang="ja" type="official">漫画 紙芝居 金太郎の卷</title>
+</titles>
+<ratings>
+<permanent count="17">2.77</permanent>
+<temporary count="17">3.61</temporary>
+</ratings>
+<picture>198737.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35400</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184960" update="2017-02-22">
+<epno type="1">1</epno>
+<length>7</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

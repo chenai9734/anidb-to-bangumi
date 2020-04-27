@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5539" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2001-10-06</startdate>
+<enddate>2001-10-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">The Siamese: First Mission</title>
+<title xml:lang="x-jat" type="synonym">Siam Neko - First Mission</title>
+<title xml:lang="ja" type="official">シャム猫 / ファーストミッション</title>
+</titles>
+<recommendations total="1"/>
+<creators>
+<name id="4116" type="Main Character Design">Araki Shingo</name>
+<name id="4248" type="Main Character Design">Himeno Michi</name>
+<name id="1267" type="Original Work">Monkey Punch</name>
+<name id="6392" type="Direction">Hosoda Masahiro</name>
+<name id="13890" type="Music">Yoshino Fujimaru</name>
+</creators>
+<description>June and Naomi are a pair of two attractive women who both work as radio station DJs by day, but when night falls they are elite counter-terrorism agents under the code name The Siamese Cats.
+Source: ANN</description>
+<ratings>
+<permanent count="7">3.29</permanent>
+<temporary count="7">4.71</temporary>
+</ratings>
+<picture>50442.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8944</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>15399</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3817</identifier>
+<identifier>tlfqdm</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234365</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>5110</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2885" parentid="2607" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2019-09-21">
+<name>law and order</name>
+<description>Where there is "wealth", there are criminals. It is up to the civil law enforcement, i.e. detectives, Police or Special Squads, to keep the lawless activities in the real world or in cyberspace under control.
+Note: Do not confuse this with Military presence.</description>
+<picurl>238616.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="104794" update="2009-06-28">
+<epno type="1">1</epno>
+<length>90</length>
+<airdate>2001-10-06</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

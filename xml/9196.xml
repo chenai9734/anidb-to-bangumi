@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9196" restricted="false">
+<type>TV Series</type>
+<episodecount>1</episodecount>
+<startdate>1995-06-27</startdate>
+<enddate>1995-07-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kiki to Lala no Mamatte Suteki!</title>
+<title xml:lang="ja" type="official">キキとララのママってすてき!</title>
+</titles>
+<creators>
+<name id="6046" type="Direction">Tamano Harumi</name>
+<name id="4880" type="Direction">Hata Masami</name>
+</creators>
+<ratings>
+<permanent count="5">3.57</permanent>
+<temporary count="5">5.20</temporary>
+</ratings>
+<picture>86714.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>21975</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>29249</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235369</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3570</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="43683" type="main character in" update="2013-04-21">
+<name>Kiki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135637.jpg</picture>
+<seiyuu id="1734" picture="38029.jpg">Toda Keiko</seiyuu>
+</character>
+<character id="43685" type="main character in" update="2013-04-21">
+<name>Lala</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>135639.jpg</picture>
+<seiyuu id="437" picture="173174.jpg">Shiratori Yuri</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="141671" update="2012-08-18">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1995-06-27</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

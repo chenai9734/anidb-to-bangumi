@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12650" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2016-03-05</startdate>
+<enddate>2016-03-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Munen</title>
+<title xml:lang="ja" type="official">無念</title>
+</titles>
+<url>http://matimonogatari.iinaa.net/</url>
+<picture>195874.jpg</picture>
+<resources>
+<resource type="4">
+<externalentity>
+<url>http://matimonogatari.iinaa.net/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359106</identifier>
+</externalentity>
+</resource>
+<resource type="22">
+<externalentity>
+<identifier>namiemunen/</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="182926" update="2016-12-15">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>2016-03-05</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="200604" update="2018-06-01">
+<epno type="4">T1</epno>
+<length>1</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

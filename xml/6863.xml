@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6863" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1940-09-19</startdate>
+<enddate>1940-09-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kintarou Taiiku Nikki</title>
+<title xml:lang="en" type="synonym">Kintaro`s Physical Education Diary</title>
+<title xml:lang="ja" type="official">キンタロー体育日記</title>
+</titles>
+<description>A young man in a leotard leads a group of animals in a sumo wrestling match. The bear is the final victor of all the animals, but then loses when he must face Kintaro.</description>
+<ratings>
+<permanent count="29">1.84</permanent>
+<temporary count="29">3.13</temporary>
+</ratings>
+<picture>33821.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>7501</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1482" parentid="2751" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-08">
+<name>wrestling</name>
+<description>Wrestling is a fight between two people without weapons, in which each person tries to beat their opponent. Wrestlers use clinching, holding, locking, and leverage. It resembles ritual fighting as it avoids things that will likely lead to serious injury. It is similar to military hand-to-hand combat or self-defence systems.</description>
+</tag>
+<tag id="1543" parentid="1482" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-08-25">
+<name>sumo wrestling</name>
+<description>Sumo wrestling is a competitive full-contact wrestling sport where a rikishi (wrestler) attempts to force another wrestler out of a circular ring (dohyou) or into touching the ground with anything other than the soles of his feet.
+Source: Wikipedia</description>
+<picurl>206585.jpg</picurl>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2751" parentid="2881" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-27">
+<name>combat</name>
+<description>Combat involves a violent conflict with the goal to establish dominance over an opponent.</description>
+</tag>
+<tag id="2881" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>sports</name>
+<description>Sports anime revolves around a recreational physical activity or skill. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competition, characters desire for self improvement, and pursuit of a specific goal.</description>
+<picurl>212185.jpg</picurl>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106640" update="2010-06-28">
+<epno type="1">1</epno>
+<length>9</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

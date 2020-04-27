@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7054" restricted="false">
+<type>TV Series</type>
+<episodecount>1565</episodecount>
+<startdate>1975-01-01</startdate>
+<enddate>1979-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kirin no Monoshiri Yakata</title>
+<title xml:lang="ja" type="synonym">Kirin Monoshiri Kan</title>
+<title xml:lang="ja" type="synonym">キリンものしり館</title>
+<title xml:lang="en" type="synonym">The School of Knowledge</title>
+<title xml:lang="x-jat" type="synonym">Kirin Monoshiri Yakata</title>
+<title xml:lang="ja" type="official">キリンのものしり館</title>
+</titles>
+<creators>
+<name id="41617" type="Direction">Nakasawa Makoto</name>
+</creators>
+<ratings>
+<permanent count="2">5.01</permanent>
+<temporary count="2">3.50</temporary>
+</ratings>
+<picture>174900.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2631</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23349</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>キリンのものしり館</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>323136</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>169</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>757</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="169238" update="2015-06-26">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>1975-01-01</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

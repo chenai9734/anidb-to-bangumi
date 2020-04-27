@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7079" restricted="false">
+<type>TV Series</type>
+<episodecount>29</episodecount>
+<startdate>2009-10-13</startdate>
+<enddate>2010-06-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Stitch! Itazura Alien no Daibouken</title>
+<title xml:lang="ja" type="official">スティッチ! いたずらエイリアンの大冒険</title>
+<title xml:lang="en" type="official">Stitch! The Mischievous Alien`s Great Adventure</title>
+</titles>
+<relatedanime>
+<anime id="7570" type="Sequel">Stitch! Zutto Saikou no Tomodachi</anime>
+<anime id="6055" type="Prequel">Stitch!</anime>
+</relatedanime>
+<url>http://www.tv-asahi.co.jp/stitch/</url>
+<creators>
+<name id="731" type="Animation Work">Madhouse</name>
+<name id="4245" type="Series Composition">Yonemura Shouji</name>
+<name id="5071" type="Series Composition">Kakihara Yuuko</name>
+<name id="4880" type="Direction">Hata Masami</name>
+</creators>
+<ratings>
+<permanent count="35">4.21</permanent>
+<temporary count="36">5.06</temporary>
+</ratings>
+<picture>36431.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>11486</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>25889</identifier>
+</externalentity>
+<externalentity>
+<identifier>6899</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>4597</identifier>
+<identifier>ofiimo</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-asahi.co.jp/stitch/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>1781</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>335114</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11966</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2796" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>movie</name>
+<description>Based on a live action film, Japanese or otherwise.</description>
+</tag>
+<tag id="3714" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-10-21">
+<name>Western animated cartoon</name>
+<description>An anime series which originally started as a Western/American cartoon series or movie, but was later changed/adapted and remade specifically for the Japanese audience, and done through local anime studios within Japan.
+See also: http://anidb.net/t4424 [American derived]</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="18272" type="main character in" update="2010-06-01">
+<name>Stitch</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<description>Stitch, an alien from outer space, one day ends up falling to an island located on Earth, called Izayoi. He discovers "The Spiritual Stone" on Okinawa and learns it can grant his wish of becoming the strongest in the universe...provided he does enough good deeds.</description>
+<picture>36431.jpg</picture>
+<seiyuu id="380" picture="158572.jpg">Yamadera Kouichi</seiyuu>
+</character>
+<character id="18273" type="main character in" update="2015-05-22">
+<name>Uehara Yuuna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Yuuna is a young 9-year old 4th grader, elementary-school student who lives on a fictional island off the shore of Okinawa called Izayoi. Living on Izayoi, she learned and studies karate, living a rather normal life, but having to deal with minor problems living with her grandmother, Obaa. However, one day she meets a strange creature that has come from the depths of space, Stitch.</description>
+<picture>173710.jpg</picture>
+<seiyuu id="3794" picture="38865.jpg">Kumai Motoko</seiyuu>
+</character>
+<character id="75344" type="main character in" update="2015-05-21">
+<name>Sae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>173715.jpg</picture>
+<seiyuu id="157" picture="42784.jpg">Orikasa Fumiko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="110884" update="2009-10-25">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2009-10-20</airdate>
+<title xml:lang="ja">かわいい... けどクサい! ステンチー</title>
+<title xml:lang="en">Cute... But Stinky! Stenchy</title>
+</episode>
+<episode id="110885" update="2009-10-25">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2009-10-13</airdate>
+<title xml:lang="ja">宇宙一の迷惑キャラ, 登場!</title>
+<title xml:lang="en">The #1 Annoying Character in the Universe appears</title>
+</episode>
+<episode id="110954" update="2009-10-27">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2009-10-27</airdate>
+<title xml:lang="ja">ハロウィーンはスティッチVS.バンパイア</title>
+<title xml:lang="en">Halloween! Stitch vs. the Vampire</title>
+</episode>
+<episode id="110955" update="2009-10-27">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2009-11-10</airdate>
+<title xml:lang="ja">オシャレ転校生, サエちゃん</title>
+<title xml:lang="en">The Stylish Transfer Student, Sae-chan</title>
+</episode>
+<episode id="111352" update="2009-11-11">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2009-11-17</airdate>
+<title xml:lang="ja">幽霊船を引き上げろ!!</title>
+<title xml:lang="en">A Ghost Ship!</title>
+</episode>
+<episode id="111513" update="2009-11-19">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2009-11-24</airdate>
+<title xml:lang="ja">エイリアン・パワーでお姫さま!</title>
+<title xml:lang="en">Alien Power in Princess!</title>
+</episode>
+<episode id="111686" update="2009-11-25">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2009-12-01</airdate>
+<title xml:lang="ja">ライバルがくっついた!</title>
+<title xml:lang="en">Rivals Stuck Together</title>
+</episode>
+<episode id="111799" update="2009-12-01">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2009-12-08</airdate>
+<title xml:lang="ja">ふくらみ過ぎた小さなウソ</title>
+<title xml:lang="en">The Small Lie That Expanded Too Much</title>
+</episode>
+<episode id="111899" update="2009-12-09">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2009-12-15</airdate>
+<title xml:lang="ja">スティッチのクリスマスプレゼント</title>
+<title xml:lang="en">Stitch`s Christmas Present</title>
+</episode>
+<episode id="111900" update="2009-12-09">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2009-12-15</airdate>
+<title xml:lang="ja">草食系スティッチに変身!</title>
+<title xml:lang="en">Stitch Transforms into a Natural Food-Eater</title>
+</episode>
+<episode id="113190" update="2010-01-23">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2010-01-26</airdate>
+<title xml:lang="ja">ユウナの夢に潜入せよ</title>
+<title xml:lang="en">Infiltrating Yuuna`s dreams!</title>
+</episode>
+<episode id="113191" update="2010-01-23">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2010-01-19</airdate>
+<title xml:lang="ja">授業参観, パパも嵐もやってくる!</title>
+<title xml:lang="en">School Work Inspection, Papa and a Storm Appears!</title>
+</episode>
+<episode id="113323" update="2010-01-28">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2010-02-02</airdate>
+<title xml:lang="ja">記憶をうばわれたスティッチ</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="116197" update="2010-02-04">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2010-02-09</airdate>
+<title xml:lang="ja">エンジェル大好き! ハッピー バレンタイン</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="116198" update="2010-02-04">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2010-02-09</airdate>
+<title xml:lang="ja">スティッチ危うし! 恋の最強ライバル</title>
+<title xml:lang="en">Stitch Does it Dangerously! The Strongest Rival</title>
+</episode>
+<episode id="116393" update="2010-02-11">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2010-02-16</airdate>
+<title xml:lang="ja">名探偵スティッチ, 消えた名画を探せ!</title>
+<title xml:lang="en">Detective Stitch, The Search for the Masterpiece!</title>
+</episode>
+<episode id="116553" update="2010-02-22">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2010-02-23</airdate>
+<title xml:lang="ja">ウソ!?パパが突然イケメンに!</title>
+<title xml:lang="en">Is it a Lie!? Papa Has Become a Cool Guy!</title>
+</episode>
+<episode id="116707" update="2010-03-01">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2010-03-02</airdate>
+<title xml:lang="ja">悪役だって愛されたい! / さよなら, プリークリー</title>
+<title xml:lang="en">Even the Villains Want to Love! / Goodbye, Pleakley</title>
+</episode>
+<episode id="116809" update="2015-07-10">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2010-03-09</airdate>
+<title xml:lang="ja">スティッチ, 宇宙一の力を手に入れる!?</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="116813" update="2015-07-10">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2010-04-13</airdate>
+<title xml:lang="ja">地球最強のズルい美女, 登場!</title>
+<title xml:lang="en">The Most Beautiful Cheater on Earth Appears!</title>
+</episode>
+<episode id="117902" update="2015-07-10">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2010-04-20</airdate>
+<title xml:lang="ja">逆襲! ズル子の秘密をバラせ!</title>
+<title xml:lang="en">Counterattack! Zuruko`s Secrets are Revealed!</title>
+</episode>
+<episode id="117903" update="2015-07-10">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2010-04-27</airdate>
+<title xml:lang="ja">探せ! 世界の終わりを招く"アレ"</title>
+<title xml:lang="en">Find It! Invite That to the End of the World</title>
+</episode>
+<episode id="118097" update="2015-07-10">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2010-05-04</airdate>
+<title xml:lang="ja">小さな, 小さなスティッチの大冒険</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="118154" update="2015-07-10">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2010-05-11</airdate>
+<title xml:lang="ja">裏切られても, トモダチ</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="118341" update="2015-07-10">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>2010-06-08</airdate>
+<title xml:lang="ja">スティッチ, 電池になる!?</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Stitch, Denchi ni Naru!?</title>
+</episode>
+<episode id="118342" update="2015-07-10">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2010-06-01</airdate>
+<title xml:lang="ja">スティッチ, 東京ディズニーランドに行く!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Stitch, Tokyo Disneyland ni Iku!</title>
+</episode>
+<episode id="118343" update="2015-07-10">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2010-05-25</airdate>
+<title xml:lang="ja">スティッチ vs. もうひとりのスティッチ</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Stitch vs Mou Hitori no Stitch</title>
+</episode>
+<episode id="118741" update="2015-07-10">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>2010-06-29</airdate>
+<title xml:lang="ja">イザヨイ島を救え!</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="118742" update="2015-07-10">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>2010-06-29</airdate>
+<title xml:lang="ja">さよなら, スティッチ</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Sayonara, Stitch</title>
+</episode>
+<episode id="168729" update="2015-07-10">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2010-08-08</airdate>
+<title xml:lang="ja">宇宙一のお兄ちゃん</title>
+<title xml:lang="en">Son of Sprout</title>
+<title xml:lang="x-jat">Uchu Ichi no Onii-chan</title>
+</episode>
+</episodes>
+</anime>

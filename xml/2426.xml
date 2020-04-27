@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2426" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1987-12-19</startdate>
+<enddate>1987-12-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Genji Monogatari</title>
+<title xml:lang="fr" type="synonym">Le Dit du Genji</title>
+<title xml:lang="ru" type="synonym">Повесть о Гэндзи</title>
+<title xml:lang="pl" type="synonym">Opowieść o księciu Genjim</title>
+<title xml:lang="pl" type="synonym">Opowieść o Księciu Promienistym</title>
+<title xml:lang="pl" type="synonym">Opowieść o Genjim</title>
+<title xml:lang="bg" type="synonym">Приказката за Генджи</title>
+<title xml:lang="ja" type="official">源氏物語</title>
+<title xml:lang="en" type="official">The Tale of Genji</title>
+<title xml:lang="bg" type="official">Повест за Генджи</title>
+</titles>
+<relatedanime>
+<anime id="6130" type="Alternative Setting">Genji Monogatari Sennenki</anime>
+</relatedanime>
+<similaranime>
+<anime id="9515" approval="1" total="6">Kaguya-hime no Monogatari</anime>
+<anime id="6193" approval="1" total="4">Shisha no Sho</anime>
+</similaranime>
+<recommendations total="1"/>
+<creators>
+<name id="687" type="Original Work">Murasaki Shikibu</name>
+<name id="3665" type="Direction">Sugii Gisaburou</name>
+<name id="11890" type="Music">Hosono Haruomi</name>
+<name id="3306" type="Character Design">Nakura Yasuhiro</name>
+<name id="857" type="Chief Animation Direction">Maeda Tsuneo</name>
+</creators>
+<description>* Based on the novel by http://anidb.net/cr687 [Murasaki Shikibu], written over 1000 years ago.
+Genji, the son of the emperor, is the talk of the Kyoto nobility for his charm and good looks, yet he cannot stop himself from pursuing an unobtainable object of desire: his father`s young and beautiful bride. Following the tragic consequences of his obsession, Genji wanders from one affair to another, always seeking some sort of completion to his life.</description>
+<ratings>
+<permanent count="137">5.06</permanent>
+<temporary count="138">6.11</temporary>
+</ratings>
+<picture>36791.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3270</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3488</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2555</identifier>
+<identifier>wbqati</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150322</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2272</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="1903" parentid="6149" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-09-05">
+<name>gossip</name>
+<description>Gossip is idle talk or rumor, especially about the personal or private affairs of others.
+Source: Wikipedia</description>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2685" parentid="2641" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-30">
+<name>Heian period</name>
+<description>Last division of classical Japanese history, covering the time period from 794 to 1185.</description>
+</tag>
+<tag id="2716" parentid="4656" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-30">
+<name>netori</name>
+<description>Netori is what happens when the protagonist steals the lover or wife/husband of someone else.
+The intent or reason causing the scenario does not have any bearing as to whether the scenario is netorare or netori; perspective is the only differentiating factor.
+Netori might be caused by, but is not limited to: a result of true love, or of unhappiness with the original relationship. With netori, there is often (but not always) no malicious intent from the protagonist.
+Not to be confused with http://anidb.net/t2709 [Netorare].</description>
+</tag>
+<tag id="2748" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>sex</name>
+<description>Sexual intercourse, the ultimate bond of love and the "Origin of the World" (just think of Gustave Courbet`s painting: http://en.wikipedia.org/wiki/L%27Origine_du_monde).
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+<picurl>161190.jpg</picurl>
+</tag>
+<tag id="2749" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>nudity</name>
+<description>Nudity is the state of wearing no clothing. The wearing of clothing is exclusively a human characteristic. The amount of clothing worn depends on functional considerations (such as a need for warmth or protection from the elements) and social considerations. In some situations the minimum amount of clothing (i.e. covering of a person`s genitals) may be socially acceptable, while in others much more clothing is expected.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.
+People, as individuals and in groups, have varying attitudes towards their own nudity. Some people are relaxed about appearing less than fully clothed in front of others, while others are uncomfortable or inhibited in that regard. People are nude in a variety of situations, and whether they are prepared to disrobe in front of others depends on the social context in which the issue arises. For example, people need to bathe without clothing, some people also sleep in the nude, some prefer to sunbathe in the nude or at least topless, while others are nude in other situations. Some people adopt naturism as a lifestyle.
+Though the wearing of clothes is the social norm in most cultures, some cultures, groups and individuals are more relaxed about nudity, though attitudes often depend on context. On the other hand, some people feel uncomfortable in the presence of any nudity, and the presence of a nude person in a public place can give rise to controversy, irrespective of the attitude of the person who is nude. Besides meeting social disapproval, in some places public nudity may constitute a crime of indecent exposure. Many people have strong views on nudity, which to them can involve issues and standards of modesty, decency and morality. Some people have an psychological aversion to nudity, called gymnophobia. Many people regard nudity to be inherently sexual and erotic.
+Nudity is to be found in a multitude of media, including art, photography, film and on the Internet. It is a factor in adult entertainment of various types.
+Especially gratuitous fanservice anime shows tend to show their (usually female) characters frequently without any clothes, though often hiding genitals through the means of additions like steam.
+Source: wiki</description>
+<picurl>60576.jpg</picurl>
+</tag>
+<tag id="2794" parentid="2883" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>music</name>
+<description>Music anime generally revolves around people concerned with music in their everyday lives. In addition they often adhere to certain genre conventions, the emphasis on training and practice in preparation for competitions, characters desire for self improvement, and pursuit of a specific goal. This is not unlike the Sports category.</description>
+<picurl>169131.jpg</picurl>
+</tag>
+<tag id="2799" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-13">
+<name>novel</name>
+<description>A novel is a relatively long work of narrative fiction, normally written in prose form, and which is typically published as a book. Manga, comics, or visual novels do not fit this description and are not considered novels; including a small number of illustrations, however, is still permissible, which means that light novels are considered novels.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2844" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-21">
+<name>angst</name>
+<description>A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.
+Warning: may contain copious amounts of brooding and sighing.
+Etymology: "Angst" is a German word meaning fear or anxiety.</description>
+<picurl>212183.jpg</picurl>
+</tag>
+<tag id="2858" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-01">
+<name>romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+<picurl>210061.jpg</picurl>
+</tag>
+<tag id="2859" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>harem</name>
+<description>Harem is an entertainment-related trope which is characterized by three or more characters, normally female, who for some reason are in the presence and under the influence of one character, generally male, according to a few genre-defining guidelines; here it will be assumed, for simplicity of language, that the harem lead is a male character and the members are female characters. Though that is the rule, there are exceptions; a story in which there is one female character and several male characters is normally called a "http://anidb.net/t2792 [reverse harem]", or sometimes also "male harem". Aside from the swapping of the characters` genders, the trope`s details are mostly the same, with the majority of the changes relating to the differences in behavior between men and women of the characters` age range. It is also possible to create harems with homosexual relationships, again with very few changes to the main antics themselves. The harem may not have more than only one lead, as that would be a love polygon, or less than three members, as one would form a couple and two would make a love triangle.
+As a defining rule of harem, the interactions between the lead and each of the individual members are filled with romantically or sexually loaded content, either implicitly, through innuendo or subtext, or explicitly, through text or actions, and those actions are a key plot element. Generally, the female characters` looks and personalities will vary a lot among the ones present in one single series, but quite rarely will they actually differ from the common stock archetypes, which are known, well-defined, and easy to copy; for this reason, the genre as a whole is often considered repetitive. Usually, the characters involved directly in this trope are in the late teenager to young adult age range, but that is not mandatory. Sexually charged behavior on the lead`s part pretty much can`t be avoided, and it`s typical to see him stamped as a pervert by some or all of the members, regardless of whether he is one; the sexual tones also applies to the depiction of the harem members, often leading the genre to labeled sexist. The lead will often suffer very violent retribution for his behavior, which has attracted criticism of gratuitous violence as well.
+Most of the harem members will be romantically or sometimes sexually interested in the one male character, and in him alone; that, however, is not an absolute rule, and indeed sometimes none of the female characters are really interested at first, so the protagonist has to build relationships with them from scratch. That idea comes in large part from visual novels; it is quite common for visual novels to revolve around controlling the male lead and have him build relationships with either as many female characters as possible or with one of them, the latter being more common for visual novels with branched story paths; a large portion of those visual novels also feature erotic content, which may be hard to adapt to TV series. It may be also possible that the harem is only a support to the existing or predictable relationship between the lead and the most important member; additionally, the lead may end up in relationships with most or all of the harem members, with the agreement of all, in a setting normally called "harem ending".</description>
+<picurl>94602.jpg</picurl>
+</tag>
+<tag id="2883" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>the arts</name>
+<description>The arts represent an outlet of human expression, usually influenced by culture, and driven by human creative impulse. Major constituents of the arts include literature – including poetry, novels and short stories, and epics; performing arts – among them music, dance, and theatre; culinary arts such as baking, chocolatiering, and winemaking; media arts like photography and film, and visual arts – including drawing, painting, and sculpting. Some art forms combine a visual element with performance (e.g. film) and the written word (e.g. comics).
+From prehistoric cave paintings to modern day films, art serves as a vessel for storytelling and conveying mankind`s relationship with its environment.
+Source: Wiki</description>
+</tag>
+<tag id="2887" parentid="2611" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-16">
+<name>tragedy</name>
+<description>Tragedy is a form of drama characterized by seriousness and dignity, usually involving a conflict between a character and some higher power, such as the law, the gods, fate, or society.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3148" parentid="6246" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>open-ended</name>
+<description>The ending of this anime is left to the viewer`s imagination. There are no clear hints at a definite story outcome, several possibilities are presented without closure, or the story ends suddenly without explanation. There may also be room for a sequel.</description>
+</tag>
+<tag id="4278" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-01-15">
+<name>stand-alone movie</name>
+<description>You can watch this movie without having to watch something else first. This tag should not used for sequels, side stories, or summary movies, but may be used if the movie is either the first anime in a franchise or a remake.
+The movie must be feature-length. For shorts, use the `short movie` tag. In general, a "show-in-show" would not qualify as standalone. For example, an anime has a cartoon show within it. If the show within was released as an OVA or movie, it would not be considered standalone.</description>
+</tag>
+<tag id="4537" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-15">
+<name>time skip</name>
+<description>The plot features at least one skip or jump in time.
+Example: A skip from the present into the past, or time skips in increments, e.g. every hour there is a time skip by a day.</description>
+</tag>
+<tag id="4656" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-06">
+<name>infidelity</name>
+<description>Infidelity is a violation of a couple`s assumed or stated contract regarding emotional and/or sexual exclusivity, sometimes according to the subjective feeling that one`s partner has violated a set of rules or relationship norms; this violation results in feelings of sexual jealousy and rivalry. What constitutes an act of infidelity is dependent upon the exclusivity expectations within the relationship. In marital relationships, exclusivity expectations are commonly assumed although they are not always met. When they are not met, research has found that psychological damage can occur, including feelings of rage and betrayal, lowering of sexual and personal confidence, and damage to self-image.
+Source: Wikipedia</description>
+<picurl>191139.jpg</picurl>
+</tag>
+<tag id="5794" parentid="2858" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-04-01">
+<name>forbidden love</name>
+<description>This anime contains characters pursuing a romantic interest that their parents, grandparents, the police, the fire department, the neighbourhood watch association and local politicians do not approve of.
+Potential relationships defined as such may be ones that are incestuous, violations of caste systems, or socially unsanctioned.</description>
+</tag>
+<tag id="5965" parentid="6247" weight="0" localspoiler="false" globalspoiler="true" verified="false" update="2015-02-10">
+<name>incomplete story</name>
+<description>The show does not cover all of the original work (if present) or was cancelled prematurely, leaving plot lines unresolved or aborting character development. Sometimes the show runs through all its initially slotted episodes and adapts all of the original work (if applicable) but fails to present a proper ending, leaving viewers wondering whether they`re missing the final episodes.
+In some cases, this may overlap with the studio forging an anime-original ending. Such an ending normally manages to allow the show to "finish", but may still suffer from incomplete story issues.
+An incomplete storyline is not to be confused with the sequel bait, which is when the story presented by the show is finished but leaves enough room for a sequel to be produced. Sometimes this goes as far as to present a new potential problem in the last few minutes; that is usual for after-credits footage in movies.</description>
+</tag>
+<tag id="6149" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO CHARACTER</name>
+<description>Tags under this parent tag are going to be moved to character tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what characters they should be assigned to.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6246" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-06">
+<name>ending</name>
+<description>This is a container tag to house meta-like tags relating to how endings of anime play out.</description>
+</tag>
+<tag id="6247" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2019-06-02">
+<name>ending tags that need merging</name>
+<description>See also: http://anidb.net/post426253 [http://anidb.net/post426253] and http://anidb.net/c6774745 [http://anidb.net/c6774745]</description>
+</tag>
+<tag id="7075" parentid="7242" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-05-07">
+<name>adapted into Japanese movie</name>
+<description>This anime is a http://anidb.net/t2797 [new original work], and it has been adapted into a Japanese movie.
+In exceedingly rare instances, a specific episode of a new original work anime can also be adapted.</description>
+</tag>
+<tag id="7242" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-03-03">
+<name>adapted into other media</name>
+<description>This anime is a http://anidb.net/t2797 [new original work], and it has been adapted into other media formats.
+In exceedingly rare instances, a specific episode of a new original work anime can also be adapted.</description>
+</tag>
+</tags>
+<characters>
+<character id="8021" type="main character in" update="2009-06-03">
+<rating votes="1">8.19</rating>
+<name>Hikaru Genji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27136.jpg</picture>
+</character>
+<character id="8022" type="main character in" update="2009-06-02">
+<rating votes="1">8.19</rating>
+<name>Fujitsubo no Nyougo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27140.jpg</picture>
+</character>
+<character id="8023" type="secondary cast in" update="2009-06-02">
+<name>Tou no Chuujou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27139.jpg</picture>
+<seiyuu id="2080" picture="43095.jpg">Tsukayama Masane</seiyuu>
+</character>
+<character id="8024" type="main character in" update="2009-06-02">
+<rating votes="2">6.08</rating>
+<name>Aoi no Ue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27142.jpg</picture>
+</character>
+<character id="8025" type="main character in" update="2009-06-02">
+<name>Rokujou no Miyasudokoro</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27137.jpg</picture>
+</character>
+<character id="8026" type="appears in" update="2009-06-02">
+<name>Sadaijin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27144.jpg</picture>
+</character>
+<character id="8029" type="secondary cast in" update="2009-06-02">
+<name>Koremitsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27146.jpg</picture>
+</character>
+<character id="8030" type="main character in" update="2009-06-02">
+<rating votes="2">10.00</rating>
+<name>Murasaki no Ue</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27147.jpg</picture>
+</character>
+<character id="8089" type="secondary cast in" update="2009-06-02">
+<name>Oborozukiyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27190.jpg</picture>
+</character>
+<character id="8093" type="secondary cast in" update="2009-06-02">
+<rating votes="2">9.29</rating>
+<name>Yuugao</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>27192.jpg</picture>
+</character>
+<character id="8094" type="appears in" update="2009-06-02">
+<name>Udaijin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="456" picture="17358.jpg">Ootsuka Chikao</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="22590" update="2011-10-20">
+<epno type="1">2</epno>
+<length>55</length>
+<airdate>1987-12-19</airdate>
+<title xml:lang="en">Part 1 of 2</title>
+</episode>
+<episode id="22591" update="2011-10-20">
+<epno type="1">3</epno>
+<length>55</length>
+<airdate>1987-12-19</airdate>
+<title xml:lang="en">Part 2 of 2</title>
+</episode>
+<episode id="25436" update="2011-10-20">
+<epno type="1">1</epno>
+<length>110</length>
+<airdate>1987-12-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

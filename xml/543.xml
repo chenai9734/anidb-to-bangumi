@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="543" restricted="false">
+<type>TV Series</type>
+<episodecount>14</episodecount>
+<startdate>1998-06-18</startdate>
+<enddate>1998-09-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Super Milk-chan</title>
+<title xml:lang="ja" type="synonym">スーパーミルクチャン</title>
+<title xml:lang="en" type="synonym">Vintage Super Milk Chan</title>
+<title xml:lang="ja" type="official">スーパーミルクちゃん</title>
+<title xml:lang="en" type="official">Super Milk-chan</title>
+</titles>
+<relatedanime>
+<anime id="544" type="Sequel">Oh! Super Milk-chan</anime>
+</relatedanime>
+<creators>
+<name id="724" type="Unknown Relation">Studio Pierrot</name>
+<name id="739" type="Animation Production">Genco</name>
+<name id="822" type="Animation Work">Tokyo Kids</name>
+<name id="23946" type="Original Plan">Tanaka Hideyuki</name>
+<name id="23946" type="Direction">Tanaka Hideyuki</name>
+</creators>
+<description>Milk-chan is a girl who lives in a house stuck on the side of a building with her two sidekicks: Tetsu-ko, a paranoid robot that looks like a bottle and Hanage, a green blob with a mustache.
+Milk is poor and she can`t pay the rent, especially after her attempt to extort a local ant family fails. However, she is saved because the president himself offers her a job (some sort of a secret mission). Milk-chan answers the phone to receive missions from The President by saying something like "Hello, Bank of Hokkaido. Just kidding!".
+After getting her mission, Milk-chan and her sidekicks take off aboard the "Milk-6" helicopter to go on her mission. Did I tell you this is a spoof of 1970s spy thrillers or some sort of Bond movies? :)</description>
+<ratings>
+<permanent count="113">1.67</permanent>
+<temporary count="120">4.22</temporary>
+</ratings>
+<picture>202111.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1019</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1743</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1117</identifier>
+<identifier>wrzpve</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Super_Milk_Chan</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>OH!スーパーミルクチャン</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>90317</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>5446</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>6426</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="760" parentid="2274" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>robot helper</name>
+<description>In a http://anidb.net/t2846 [science fiction] setting, the robot helper is, in a comedic sense, pretty much equivalent to what the "cute comic relief http://anidb.net/t1835 [animal sidekick]" is in a fantasy setting. The usually small machine has artificial intelligence, enabling it to support their owner / master with advice or help with menial tasks.
+http://anidb.net/t1278 [Androids] should not be considered robot helpers since these are far more complex; use the android tag instead.</description>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2638" parentid="2846" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2642" parentid="2624" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-28">
+<name>alternative present</name>
+<description>Anime that fit in the alternative present category usually have technology and society that is very similar to ours, but with differences in both, history and culture, which sometimes are blatantly obvious, but sometimes harder to place; this one can at times be very subjective.</description>
+</tag>
+<tag id="2651" parentid="2853" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-01-15">
+<name>absurdist humour</name>
+<description>Surreal humour, also known as absurdist humour, is a form of humour predicated on deliberate violations of causal reasoning, producing events and behaviours that are obviously illogical. Constructions of surreal humour tend to involve bizarre juxtapositions, non-sequiturs, irrational or absurd situations, and expressions of nonsense.
+The humour arises from a subversion of audience`s expectations, so that amusement is founded on unpredictability, separate from a logical analysis of the situation. Its appeal stems from the fact that the situation described is exceedingly ridiculous or unlikely.
+On an analytical level, all jokes contain a certain amount of incongruity, but while regular jokes carry an incongruity that the audience accepts as compatible with expectations, absurd jokes are characterized by a disproportionate amount of it, with the punch line delivering a situation incompatible with the world as we know it and failing to resolve the matter in the audience`s eyes.
+Source: Wikipedia</description>
+</tag>
+<tag id="2653" parentid="2853" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-04">
+<name>slapstick</name>
+<description>Slapstick humour is generally recognized by lots of physical abuse, horseplay and practical jokes. Also often seen are impossible situations, using sounds to illustrate impossible stunts that aren`t shown on-screen and to create tension for audience anticipation.</description>
+</tag>
+<tag id="2655" parentid="2853" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-09">
+<name>parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+<picurl>150811.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+<tag id="2857" parentid="2611" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="4199" parentid="6148" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2020-02-20">
+<name>live-action closing -- TO BE MOVED AND DELETED</name>
+<description>This tag is set to be removed. For each tagged anime, please tag the corresponding ending/credits episodes with the http://anidb.net/t6679 [live-action episode] tag (adding them and their relation to the ending songs if necessary) and then remove this tag from it. Please do not apply this credit to the main episode that has the live-action ending, only to the corresponding credits episode. For example, if episode 22 has a live-action ending, and that ending is also credits episode C7, tag episode C7, not episode 22.</description>
+</tag>
+<tag id="5417" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2009-05-22">
+<name>mind fuck</name>
+<description>A `mind fuck` is a slang term which describes a work that uses literary devices such as nonlinear storytelling and plot twists in order to present convoluted, yet not conflicting, themes.
+A creation is usually considered a mind fuck when a casual observer is not able to discern the true meaning of a work without making a serious attempt to unravel the themes presented or when the plot is incredibly difficult to follow.
+Special examples of mind fucks involve a single plot twist which completely changes the viewer`s understanding of the events in a film or novel as well as the ideas it presents.</description>
+</tag>
+<tag id="6148" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>TO BE MOVED TO EPISODE</name>
+<description>Tags under this parent tag are going to be moved to episode tags and removed from the anime they`re currently assigned to. They will be blocked from the anime system once that move is complete. Please help with that job if you know what episodes they should be assigned to.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="29961" update="2006-03-23">
+<epno type="1">1</epno>
+<length>8</length>
+<airdate>1998-06-18</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">ミルクちゃん登場 の巻</title>
+<title xml:lang="en">Milk-Chan Has Arrived</title>
+<title xml:lang="x-jat">Milk-chan Toujou no Maki</title>
+</episode>
+<episode id="29962" update="2006-03-23">
+<epno type="1">2</epno>
+<length>8</length>
+<airdate>1998-06-25</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">トカレフの, ようなもの の巻</title>
+<title xml:lang="en">Something like a Tokarev</title>
+<title xml:lang="x-jat">Tokarev no, You na Mono no Maki</title>
+</episode>
+<episode id="29963" update="2006-03-23">
+<epno type="1">11</epno>
+<length>8</length>
+<airdate>1998-08-27</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">時をかける大統領 の巻</title>
+<title xml:lang="en">The President That Dashes Through Time</title>
+<title xml:lang="x-jat">Toki o Kakeru Daitouryou no Maki</title>
+</episode>
+<episode id="29964" update="2006-03-23">
+<epno type="1">12</epno>
+<length>8</length>
+<airdate>1998-09-03</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">テツコのブッとび初デート の巻</title>
+<title xml:lang="en">Tetsuko`s Blast of a First Date</title>
+<title xml:lang="x-jat">Tetsuko no Buttobi Hatsu Date no Maki</title>
+</episode>
+<episode id="29965" update="2006-03-23">
+<epno type="1">6</epno>
+<length>8</length>
+<airdate>1998-07-23</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">ミルクのなんでも鑑定隊 の巻</title>
+<title xml:lang="en">Milk`s Appraise Anything Team</title>
+<title xml:lang="x-jat">Milk no Nande mo Kante-tai no Maki</title>
+</episode>
+<episode id="29966" update="2006-03-23">
+<epno type="1">4</epno>
+<length>8</length>
+<airdate>1998-07-09</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">アニマル奇想天外 の巻</title>
+<title xml:lang="en">Totally Unexpected Animal Event</title>
+<title xml:lang="x-jat">Animal Kisoutengai no Maki</title>
+</episode>
+<episode id="29967" update="2006-03-23">
+<epno type="1">7</epno>
+<length>8</length>
+<airdate>1998-07-30</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">ミルクの少年ナイフ の巻</title>
+<title xml:lang="en">Super Milk-Chans Boy Knife</title>
+<title xml:lang="x-jat">Milk-chan no Shounen Knife no Maki</title>
+</episode>
+<episode id="29968" update="2006-03-23">
+<epno type="1">9</epno>
+<length>8</length>
+<airdate>1998-08-13</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">トムヤムクン・イリュージョン の巻</title>
+<title xml:lang="en">Tom Yum Goong Illusion</title>
+<title xml:lang="x-jat">Tom Yum Goong Illusion no Maki</title>
+</episode>
+<episode id="29969" update="2006-03-23">
+<epno type="1">5</epno>
+<length>8</length>
+<airdate>1998-07-16</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">ミルクの炎のチャレンジャー の巻</title>
+<title xml:lang="en">Milk`s Challenger of Fire</title>
+<title xml:lang="x-jat">Milk no Honoo no Challenger no Maki</title>
+</episode>
+<episode id="29970" update="2006-03-23">
+<epno type="1">3</epno>
+<length>8</length>
+<airdate>1998-07-02</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">エコロジーだよミルクちゃん の巻</title>
+<title xml:lang="en">It`s Ecology Milk-Chan</title>
+<title xml:lang="x-jat">Ecology Da yo Milk-chan no Maki</title>
+</episode>
+<episode id="29971" update="2018-12-31">
+<epno type="1">14</epno>
+<length>8</length>
+<airdate>1998-09-24</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">さよならミルクちゃん の巻</title>
+<title xml:lang="en">Farewell Milk-Chan</title>
+<title xml:lang="x-jat">Sayonara Milk-chan no Maki</title>
+</episode>
+<episode id="29972" update="2006-03-23">
+<epno type="1">13</epno>
+<length>8</length>
+<airdate>1998-09-10</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">天に代わっておやじがり の巻</title>
+<title xml:lang="en">Hunting Middle Aged Men in the Name of Heaven</title>
+<title xml:lang="x-jat">Ten ni Kawatte Oyajigari no Maki</title>
+</episode>
+<episode id="29973" update="2006-03-23">
+<epno type="1">10</epno>
+<length>8</length>
+<airdate>1998-08-20</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">ねずみは2度死ぬ の巻</title>
+<title xml:lang="en">Mice Die Twice</title>
+<title xml:lang="x-jat">Nezumi wa 2-do Shinu no Maki</title>
+</episode>
+<episode id="29974" update="2006-03-23">
+<epno type="1">8</epno>
+<length>8</length>
+<airdate>1998-08-06</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">盗まれた闘魂 の巻</title>
+<title xml:lang="en">The Stolen Fighting Spirit</title>
+<title xml:lang="x-jat">Nusumareta Toukon no Maki</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3117" restricted="false">
+<type>TV Series</type>
+<episodecount>39</episodecount>
+<startdate>1981-10-06</startdate>
+<enddate>1982-06-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ginga Senpuu Braiger</title>
+<title xml:lang="en" type="synonym">Galactic Cyclone Bryger</title>
+<title xml:lang="en" type="synonym">Galaxy Cyclone Braiger</title>
+<title xml:lang="en" type="synonym">Galaxy Cyclone Bryger</title>
+<title xml:lang="x-jat" type="synonym">Cosmo Ranger J9</title>
+<title xml:lang="ja" type="official">銀河旋風ブライガー</title>
+<title xml:lang="it" type="official">Bryger</title>
+</titles>
+<relatedanime>
+<anime id="3116" type="Sequel">Ginga Reppuu Baxinger</anime>
+<anime id="10786" type="Other">Ginga Jinpuu Jinraiger</anime>
+</relatedanime>
+<recommendations total="1">
+<recommendation type="Recommended" uid="3734">old school anime but oh so refreshing and a billion light year from nowadays politically correct:
+in which series have you ever seen kids shooting a bad guy in cold blood!
+of course full of clichés but surprisingly free of flashback (if you expect the usual robot transformation of course) and with interesting characters development and history. maybe not your best series but excellent as a bowl of fresh air.</recommendation>
+</recommendations>
+<creators>
+<name id="3184" type="Character Design">Komatsubara Kazuo</name>
+<name id="4794" type="Series Composition">Yamamoto Yuu</name>
+<name id="6393" type="Music">Yamamoto Masayuki</name>
+<name id="6398" type="Work">Tsubota Juuzou</name>
+<name id="6554" type="Chief Direction">Yotsuji Takao</name>
+<name id="7838" type="Chief Designer">Makino Mitsunari</name>
+<name id="18659" type="Work">Kokusai Eigasha</name>
+</creators>
+<description>In the year 2111, the solar system has been colonized. King Carmen wants to destroy the planet Jupiter in order to create a new star and change the solar system. Team J9 is assembled with Isaac Godonov, Blaster Kid, Stephen Bowie, and Angel Omachi. With the robot Braiger, they are a team that will handle any missions the police will not in the asteroid belt. Meanwhile, Earth has been divided into four power blocs: Omega, Red Dragon, Volga and Nubia. Nubia hatches a plan to rule the solar system in which Jupiter is destroyed, leading to the creation of over 30 smaller planets that could sustain life. However, such a plan would lead to the destruction of Earth.</description>
+<ratings>
+<permanent count="46">5.80</permanent>
+<temporary count="46">6.35</temporary>
+</ratings>
+<picture>4418.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2226</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4240</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1961</identifier>
+<identifier>irbrua</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Galaxy_Cyclone_Braiger</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>銀河旋風ブライガー</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2797</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89394</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>429</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2202" parentid="2846" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2619" parentid="2841" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>gunfights</name>
+<description>Fights where two or more parties are firing guns at one another.</description>
+<picurl>211280.jpg</picurl>
+</tag>
+<tag id="2626" parentid="2612" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2644" parentid="2274" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-14">
+<name>transforming craft</name>
+<description>A transforming craft is an object built by humans or other intelligent lifeforms, usually a robot but sometimes also a vehicle of some sort, that can rearrange its parts in order to switch between a minimum of two forms.</description>
+<picurl>224142.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2764" parentid="2627" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-06">
+<name>space colony</name>
+<description>The human race (or possibly some alien race) has mastered space travel and founded at least one colony either in space, on a moon or another planet. This usually also includes colony-life episodes that not only show the technical staff of professionals (astronauts, scientists, etc.), but also their families (i.e. children).</description>
+</tag>
+<tag id="2840" parentid="2872" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>mafia</name>
+<description>A mafia is a type of organized crime syndicate whose primary activities are protection racketeering, the arbitration of disputes between criminals, and the organizing and oversight of illegal agreements and transactions. Secondary activities may be practiced such as gambling, drug trafficking, loan sharking, and fraud. The term was originally applied to the Sicilian mafia, but has since expanded to encompass other organizations of similar methods and purpose, such as in "the Russian mafia" or "the Japanese mafia", and is applied informally by the press and public, but the criminal organizations themselves have their own terms; for example, the original Sicilian and Italian-American mafia call themselves "cosa nostra", while the Japanese mafia calls itself "yakuza".
+Source: Wikipedia</description>
+<picurl>211289.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="2872" parentid="2607" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="2877" parentid="2607" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-27">
+<name>revenge</name>
+<description>A primary factor that drives the plot forward, is the almost obsessive desire of one of the characters to get back at someone else.</description>
+</tag>
+<tag id="2884" parentid="2607" weight="100" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-24">
+<name>psychoactive drugs</name>
+<description>Psychoactive drugs are chemical substances that affect the function of the central nervous system, altering perception, mood or consciousness.
+Source: Wikipedia</description>
+</tag>
+<tag id="3086" parentid="4316" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-08-12">
+<name>parricide</name>
+<description>Parricide, or the murder of family members, is the act of taking the life of of one or more of one`s own close family members, or even one`s entire family; that may include spouses, parents, grandparents, children, grandchildren, siblings, cousins, uncles, aunts, nephews, and nieces, among others.</description>
+</tag>
+<tag id="3087" parentid="2274" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>super robot</name>
+<description>These robots tend to have almost semi-magical attacks, which seem impossible or non-realistic, and/or perform non-realistic transformation sequences where they seem to gain/lose mass and utterly change their form, even if it means making their super-hard armour bend like plastic sheets.</description>
+<picurl>222137.jpg</picurl>
+</tag>
+<tag id="4081" parentid="2841" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space battles</name>
+<description>There are space battles in this anime. Usually between Earth forces and some alien invader, but ship to ship skirmishes in deep space are just as common.</description>
+<picurl>242377.jpg</picurl>
+</tag>
+<tag id="4170" parentid="5626" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-08-08">
+<name>police are useless</name>
+<description>The civilian law enforcement representatives do not seem to be of much use, when trying to take on the usually vastly superior foes.
+The "helpless" and often clumsy antics of the police can be used as a comedy element.</description>
+</tag>
+<tag id="4316" parentid="6242" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-11">
+<name>murder</name>
+<description>To murder means to bring about someone else`s death, by a voluntary act. Whether it comes from the killer`s own hand or by exposing the victim to life-threatening circumstances, the result is foreseeable and sought by the perpetrator. Someone who murders as their profession/job is an http://anidb.net/t2399 [assassin or hitman].</description>
+</tag>
+<tag id="4383" parentid="2872" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-02-23">
+<name>hostage situation</name>
+<description>One or more characters in this anime are taken hostage, to pressure or blackmail other involved parties.
+A person given as a pledge or security for the performance of the conditions of a treaty or stipulations of any kind, on the performance of which the person is to be released.
+(Source: Wiktionary)</description>
+</tag>
+<tag id="5626" parentid="6233" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-22">
+<name>adults are useless</name>
+<description>For when adults can`t do anything right.</description>
+</tag>
+<tag id="5816" parentid="4316" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-10-03">
+<name>massacre</name>
+<description>Mass murder.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+<tag id="6233" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-11">
+<name>tropes</name>
+<description>A trope is a commonly recurring literary and rhetorical devices, motifs or clichés in creative works. This use is a broader redefining of a literary trope, the use of figurative language, via word, phrase, or even an image, for artistic effect, such as using a figure of speech.
+Source: Wikipedia</description>
+</tag>
+<tag id="6242" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-07-24">
+<name>death</name>
+<description>Death is the state of no longer being alive or the process of ceasing to be alive.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+<tag id="7119" parentid="6153" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-06">
+<name>Super Robot Wars</name>
+<description>Super Robot Wars is a series of tactical role-playing video games produced by Banpresto. The main feature of the franchise is having a story that crosses over several popular mecha anime, manga and video games, allowing characters and mecha from different titles to team up or battle one another. Due to the nature of crossover games and licensing involved, only a few games have been released outside Japan, and in English; early English-language games only feature Banpresto`s original characters and mecha, and a flagship installment were to never be released until 2016, with the English release of Super Robot Wars V in Southeast Asian countries. The franchise celebrated its 25th anniversary in 2016.
+Source: Wikipedia</description>
+<picurl>221614.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="64519" update="2006-11-02">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1981-10-06</airdate>
+<title xml:lang="ja">情無用のJ9</title>
+<title xml:lang="en">Merciless J9</title>
+<title xml:lang="x-jat">Nasake Muyou no J9</title>
+</episode>
+<episode id="64520" update="2006-11-02">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>1981-10-13</airdate>
+<title xml:lang="ja">爆走アステロイド</title>
+<title xml:lang="en">Roaring Asteroids</title>
+<title xml:lang="x-jat">Bakusou Asteroid</title>
+</episode>
+<episode id="64521" update="2006-11-02">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>1981-10-20</airdate>
+<title xml:lang="ja">地獄のビーナス</title>
+<title xml:lang="en">Venus of Hell</title>
+<title xml:lang="x-jat">Jigoku no Venus</title>
+</episode>
+<episode id="64522" update="2006-11-02">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>1981-10-27</airdate>
+<title xml:lang="ja">無法のウエストJ区</title>
+<title xml:lang="en">Lawless West J District</title>
+<title xml:lang="x-jat">Muhou no West J Ku</title>
+</episode>
+<episode id="64523" update="2006-11-02">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>1981-11-03</airdate>
+<title xml:lang="ja">墓場からの依頼人</title>
+<title xml:lang="en">A Client From The Grave</title>
+<title xml:lang="x-jat">Hakaba kara no Iraijin</title>
+</episode>
+<episode id="64524" update="2006-11-02">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>1981-11-10</airdate>
+<title xml:lang="ja">復讐の紅いバラ</title>
+<title xml:lang="en">The Red Rose Of Revenge</title>
+<title xml:lang="x-jat">Fukushuu no Akai Bara</title>
+</episode>
+<episode id="64525" update="2006-11-02">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>1981-11-17</airdate>
+<title xml:lang="ja">金星監獄大突破</title>
+<title xml:lang="en">The Great Escape From Venus Prison</title>
+<title xml:lang="x-jat">Kanaboshi Kangoku Daitoppa</title>
+</episode>
+<episode id="64526" update="2006-11-02">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>1981-11-24</airdate>
+<title xml:lang="ja">月に涙の後始末</title>
+<title xml:lang="en">Wiping Tears On The Moon</title>
+<title xml:lang="x-jat">Tsuki ni Namida no Atoshimatsu</title>
+</episode>
+<episode id="64527" update="2006-11-02">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>1981-12-01</airdate>
+<title xml:lang="ja">激走・土星ラリー</title>
+<title xml:lang="en">Saturn Rally, The Rampaging Race</title>
+<title xml:lang="x-jat">Gekisou Dosei Rally</title>
+</episode>
+<episode id="64528" update="2006-11-02">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>1981-12-08</airdate>
+<title xml:lang="ja">霧に消えた愛</title>
+<title xml:lang="en">Love Vanished In The Mist</title>
+<title xml:lang="x-jat">Kiri ni Kieta Ai</title>
+</episode>
+<episode id="64529" update="2006-11-02">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>1981-12-15</airdate>
+<title xml:lang="ja">燃える大草原</title>
+<title xml:lang="en">A Snowfield In Flames</title>
+<title xml:lang="x-jat">Moeru Daisougen</title>
+</episode>
+<episode id="64530" update="2006-11-02">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>1981-12-22</airdate>
+<title xml:lang="ja">バルカンの双生児</title>
+<title xml:lang="en">The Vulcan Twins</title>
+<title xml:lang="x-jat">Barukan no Souseiji</title>
+</episode>
+<episode id="64531" update="2006-11-02">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>1981-12-29</airdate>
+<title xml:lang="ja">黄金大作戦</title>
+<title xml:lang="en">Mission: Gold</title>
+<title xml:lang="x-jat">Ougon Daisakusen</title>
+</episode>
+<episode id="64532" update="2006-11-02">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>1982-01-05</airdate>
+<title xml:lang="ja">木星ベムの襲来!</title>
+<title xml:lang="en">The Rescue Of The Jovian Bems</title>
+<title xml:lang="x-jat">Mokusei Bem no Shuurai!</title>
+</episode>
+<episode id="64533" update="2006-11-02">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>1982-01-12</airdate>
+<title xml:lang="ja">シンクロン凶惑星</title>
+<title xml:lang="en">The Evil Synchron Planet</title>
+<title xml:lang="x-jat">Shinkuron Kyou Wakusei</title>
+</episode>
+<episode id="64534" update="2006-11-02">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>1982-01-19</airdate>
+<title xml:lang="ja">銀河の死美人</title>
+<title xml:lang="en">Dead Galactic Beauties</title>
+<title xml:lang="x-jat">Ginga no Shibijin</title>
+</episode>
+<episode id="64535" update="2006-11-02">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>1982-01-26</airdate>
+<title xml:lang="ja">怒りのクーガ</title>
+<title xml:lang="en">Angry Cougar</title>
+<title xml:lang="x-jat">Ikari no Cougar</title>
+</episode>
+<episode id="64536" update="2006-11-02">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>1982-02-02</airdate>
+<title xml:lang="ja">星影の子守歌</title>
+<title xml:lang="en">Starlight Lullaby</title>
+<title xml:lang="x-jat">Hoshikage no Komoriuta</title>
+</episode>
+<episode id="64537" update="2006-11-02">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>1982-02-09</airdate>
+<title xml:lang="ja">襲撃のメロディー</title>
+<title xml:lang="en">Raid Melody</title>
+<title xml:lang="x-jat">Shuugeki no Melody</title>
+</episode>
+<episode id="64538" update="2006-11-02">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>1982-02-16</airdate>
+<title xml:lang="ja">蘇った復讐鬼</title>
+<title xml:lang="en">The Demon of Vengeance, Reborn</title>
+<title xml:lang="x-jat">Yomigaetta Fukushuu Oni</title>
+</episode>
+<episode id="64539" update="2006-11-02">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>1982-02-23</airdate>
+<title xml:lang="ja">誓いのWネック</title>
+<title xml:lang="en">Double Neck Vow</title>
+<title xml:lang="x-jat">Chikai no W Neck</title>
+</episode>
+<episode id="64540" update="2006-11-02">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>1982-03-02</airdate>
+<title xml:lang="ja">暗殺指令ヌビア</title>
+<title xml:lang="en">Assassination Order: Nubia</title>
+<title xml:lang="x-jat">Ansatsu Shirei Nubia</title>
+</episode>
+<episode id="64541" update="2006-11-02">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>1982-03-09</airdate>
+<title xml:lang="ja">ヌビアは笑う</title>
+<title xml:lang="en">Nubia Laughs</title>
+<title xml:lang="x-jat">Nubia wa Warau</title>
+</episode>
+<episode id="64542" update="2006-11-02">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>1982-03-16</airdate>
+<title xml:lang="ja">勝手にしやがれ</title>
+<title xml:lang="en">Back Off</title>
+<title xml:lang="x-jat">Katte ni Shiyagare</title>
+</episode>
+<episode id="64543" update="2006-11-02">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>1982-03-23</airdate>
+<title xml:lang="ja">天王星は死の匂い</title>
+<title xml:lang="en">Uranus Smells Of Death</title>
+<title xml:lang="x-jat">Tenousei wa Shi no Nioi</title>
+</episode>
+<episode id="64544" update="2006-11-02">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>1982-03-30</airdate>
+<title xml:lang="ja">もいちどブルース</title>
+<title xml:lang="en">Blues Again</title>
+<title xml:lang="x-jat">Mo Ichido Blues</title>
+</episode>
+<episode id="64545" update="2006-11-02">
+<epno type="1">27</epno>
+<length>25</length>
+<airdate>1982-04-06</airdate>
+<title xml:lang="ja">カルナバルの嵐 (前編)</title>
+<title xml:lang="en">Storm Of The Carnival (Part 1)</title>
+<title xml:lang="x-jat">Carnival no Arashi (Zenpen)</title>
+</episode>
+<episode id="64546" update="2006-11-02">
+<epno type="1">28</epno>
+<length>25</length>
+<airdate>1982-04-13</airdate>
+<title xml:lang="ja">カルナバルの嵐 (後編)</title>
+<title xml:lang="en">Storm Of The Carnival (Part 2)</title>
+<title xml:lang="x-jat">Carnival no Arashi (Kouhen)</title>
+</episode>
+<episode id="64547" update="2006-11-02">
+<epno type="1">29</epno>
+<length>25</length>
+<airdate>1982-04-20</airdate>
+<title xml:lang="ja">たそがれの挑戦者</title>
+<title xml:lang="en">Twilight Challenger</title>
+<title xml:lang="x-jat">Tasogare no Chousensha</title>
+</episode>
+<episode id="64548" update="2006-11-02">
+<epno type="1">30</epno>
+<length>25</length>
+<airdate>1982-04-27</airdate>
+<title xml:lang="ja">殺るのは奴らだ (前編)</title>
+<title xml:lang="en">They Are To Die (Part 1)</title>
+<title xml:lang="x-jat">Yaru no wa Yatsura Da (Zenpen)</title>
+</episode>
+<episode id="64549" update="2006-11-02">
+<epno type="1">31</epno>
+<length>25</length>
+<airdate>1982-05-04</airdate>
+<title xml:lang="ja">殺るのは奴らだ (後編)</title>
+<title xml:lang="en">They Are To Die (Part 2)</title>
+<title xml:lang="x-jat">Yaru no wa Yatsura Da (Kouhen)</title>
+</episode>
+<episode id="64550" update="2006-11-02">
+<epno type="1">33</epno>
+<length>25</length>
+<airdate>1982-05-18</airdate>
+<title xml:lang="ja">金環食に別れ歌</title>
+<title xml:lang="en">A Parting Song Under The Eclipse</title>
+<title xml:lang="it">Addio amici miei</title>
+<title xml:lang="x-jat">Kinkanshoku ni Wakare Uta</title>
+</episode>
+<episode id="64551" update="2006-11-02">
+<epno type="1">32</epno>
+<length>25</length>
+<airdate>1982-05-11</airdate>
+<title xml:lang="ja">祈りの銀河</title>
+<title xml:lang="en">Galaxy of Prayer</title>
+<title xml:lang="x-jat">Inori no Ginga</title>
+</episode>
+<episode id="64552" update="2006-11-02">
+<epno type="1">34</epno>
+<length>25</length>
+<airdate>1982-05-25</airdate>
+<title xml:lang="ja">その名はカーメン</title>
+<title xml:lang="en">The Name Is Khamen</title>
+<title xml:lang="x-jat">Sono Na wa Khamen</title>
+</episode>
+<episode id="64553" update="2006-11-02">
+<epno type="1">35</epno>
+<length>25</length>
+<airdate>1982-06-01</airdate>
+<title xml:lang="ja">水星大抗争 (前編)</title>
+<title xml:lang="en">The Battle of Mercury (Part 1)</title>
+<title xml:lang="x-jat">Suisei Daikousou (Zenpen)</title>
+</episode>
+<episode id="64554" update="2006-11-02">
+<epno type="1">36</epno>
+<length>25</length>
+<airdate>1982-06-08</airdate>
+<title xml:lang="ja">水星大抗争 (後編)</title>
+<title xml:lang="en">The Battle of Mercury (Part 2)</title>
+<title xml:lang="it">La fine di Omega</title>
+<title xml:lang="x-jat">Suisei Daikousou (Kouhen)</title>
+</episode>
+<episode id="64555" update="2006-11-02">
+<epno type="1">37</epno>
+<length>25</length>
+<airdate>1982-06-15</airdate>
+<title xml:lang="ja">木星破壊宣告</title>
+<title xml:lang="en">The Sentence Of Death For Jupiter</title>
+<title xml:lang="x-jat">Mokusei Hakai Senkoku</title>
+</episode>
+<episode id="64556" update="2006-11-02">
+<epno type="1">38</epno>
+<length>25</length>
+<airdate>1982-06-22</airdate>
+<title xml:lang="ja">アステロイドの攻防</title>
+<title xml:lang="en">Battle Of The Asteroids</title>
+<title xml:lang="x-jat">Asteroid no Koubou</title>
+</episode>
+<episode id="64557" update="2006-10-28">
+<epno type="1">39</epno>
+<length>25</length>
+<airdate>1982-06-29</airdate>
+<title xml:lang="ja">ABAYO</title>
+<title xml:lang="en">Abayo</title>
+<title xml:lang="x-jat">Abayo</title>
+</episode>
+<episode id="124679" update="2010-10-26">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>1981-10-06</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="129021" update="2011-03-26">
+<epno type="3">C3</epno>
+<length>2</length>
+<title xml:lang="en">Ending 2</title>
+</episode>
+<episode id="129022" update="2011-03-26">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>1981-10-06</airdate>
+<title xml:lang="en">Ending 1</title>
+</episode>
+</episodes>
+</anime>

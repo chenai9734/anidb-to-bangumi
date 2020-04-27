@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13166" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2017-12-25</startdate>
+<enddate>2017-12-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kako Pad: Nagaoka Hanabi Monogatari</title>
+<title xml:lang="ja" type="official">かこパッド -長岡花火物語-</title>
+</titles>
+<url>http://nagaokamatsuri.com/anime.html</url>
+<creators>
+<name id="7154" type="Direction">Kimiya Shigeru</name>
+<name id="50163" type="Work">NCT</name>
+<name id="50164" type="Work">Muku.</name>
+</creators>
+<ratings>
+<permanent count="6">5.15</permanent>
+<temporary count="6">4.66</temporary>
+</ratings>
+<picture>202276.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>37875</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://nagaokamatsuri.com/anime.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>360618</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=wVm9UfXy6b4</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="4164" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2012-07-28">
+<name>promotional</name>
+</tag>
+<tag id="5111" parentid="2672" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-06">
+<name>Hiroshima</name>
+<description>Hiroshima Prefecture is a prefecture of Japan located in the Chuugoku region on Honshu island. The capital is the city of Hiroshima.
+Source: Wikipedia</description>
+<picurl>214291.jpg</picurl>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="187568" update="2018-05-21">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2017-12-25</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+<episode id="199034" update="2018-05-13">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">PV</title>
+</episode>
+</episodes>
+</anime>

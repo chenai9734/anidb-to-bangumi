@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3180" restricted="false">
+<type>TV Series</type>
+<episodecount>105</episodecount>
+<startdate>1965-05-31</startdate>
+<enddate>1965-11-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaitou Pride</title>
+<title xml:lang="ja" type="official">怪盗プライド</title>
+<title xml:lang="en" type="official">Pride the Master Thief</title>
+</titles>
+<creators>
+<name id="4382" type="Music">Uno Seiichirou</name>
+<name id="15002" type="Original Work">Okabe Kazuhiko</name>
+</creators>
+<description>Each episode features a part of the story in which a detective tries to hunt down and capture a notorious and narcissistic thief. This series aired daily, Monday to Friday, in 8 minutes segments to complete a single story by the end of the week.</description>
+<ratings>
+<permanent count="6">2.75</permanent>
+<temporary count="6">3.33</temporary>
+</ratings>
+<picture>5121.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>171</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>19987</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>1755</identifier>
+<identifier>elbjbr</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>怪盗プライド</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>89662</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>269</identifier>
+</externalentity>
+</resource>
+<resource type="11">
+<externalentity>
+<identifier>mediadb/media/2269</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>18</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>307</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2872" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6248" parentid="2872" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-31">
+<name>thievery</name>
+</tag>
+</tags>
+<episodes>
+<episode id="102756" update="2010-04-16">
+<epno type="1">1</epno>
+<length>8</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

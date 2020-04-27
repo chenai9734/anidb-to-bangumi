@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6544" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2009-05-21</startdate>
+<enddate>2009-05-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bokura no Saiban`in Monogatari</title>
+<title xml:lang="en" type="synonym">Our Jury Story</title>
+<title xml:lang="x-jat" type="synonym">Bokura no Saibanin Monogatari</title>
+<title xml:lang="ja" type="official">ぼくらの裁判員物語</title>
+</titles>
+<url>http://www.saibanin.courts.go.jp/news/video5.html</url>
+<description>The Japanese government has commissioned a 22-minute anime video called Bokura no Saibanin Monogatari (Our Jury Story) to teach its citizens about the re-introduced jury system. In July, Japan will implement jury trials for the first time in six decades, so most Japanese have never experienced jury duty. The anime uses a high school boy`s one-sided infatuation for a classmate as an unusual segue to discuss the jury system.
+Source: ANN</description>
+<ratings>
+<permanent count="14">2.65</permanent>
+<temporary count="14">3.92</temporary>
+</ratings>
+<picture>243897.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>6568</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.saibanin.courts.go.jp/news/video5.html</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="102678" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2009-05-21</airdate>
+<title xml:lang="en">ONA</title>
+</episode>
+</episodes>
+</anime>

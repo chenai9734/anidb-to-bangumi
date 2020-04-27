@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3178" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1981-05-05</startdate>
+<enddate>1981-05-05</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Lupin Tai Holmes</title>
+<title xml:lang="en" type="synonym">Lupin vs. Holmes</title>
+<title xml:lang="ja" type="official">ルパン対ホームズ</title>
+<title xml:lang="en" type="official">Lupin Against Holmes</title>
+<title xml:lang="es" type="official">Arsenio Lupin contra Sherlock Holmes</title>
+<title xml:lang="el" type="official">Σέρλοκ Χόλμς εναντίον Αρσέν Λουπέν</title>
+</titles>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="1009" type="Animation Work">Toei Douga</name>
+<name id="5136" type="Character Design">Kishi Yoshiyuki</name>
+<name id="4398" type="Direction">Akehi Masayuki</name>
+<name id="6799" type="Music">Tamaki Hiroki</name>
+<name id="8439" type="Original Work">Maurice Leblanc</name>
+</creators>
+<ratings>
+<permanent count="20">2.69</permanent>
+<temporary count="20">4.72</temporary>
+</ratings>
+<picture>219329.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>8997</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>10755</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235589</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>10241</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2872" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-16">
+<name>crime</name>
+<description>The underworld we talk about here is not to be confused with the place where people are believed to go after they die, but the general term for organized crime. It is a shady world, unknown to most people, where illegal things like murder, smuggling, drug dealing and similar are happening daily. Groups known to be acting in this world are for example the mafia or the yakuza.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="6248" parentid="2872" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-31">
+<name>thievery</name>
+</tag>
+</tags>
+<episodes>
+<episode id="52341" update="2011-12-28">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>1981-05-05</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

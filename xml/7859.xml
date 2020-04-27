@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7859" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1991</startdate>
+<enddate>1991</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kitty no Fushigi na Mizuumi</title>
+<title xml:lang="ja" type="synonym">ハローキティのふしぎなみずうみ</title>
+<title xml:lang="x-jat" type="synonym">Hello Kitty no Fushigi na Mizuumi</title>
+<title xml:lang="ja" type="official">キティのふしぎなみずうみ</title>
+</titles>
+<ratings>
+<permanent count="5">2.97</permanent>
+<temporary count="5">4.60</temporary>
+</ratings>
+<picture>52720.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22457</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235673</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120817" update="2012-11-16">
+<epno type="1">1</epno>
+<length>20</length>
+<airdate>1992-06-21</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

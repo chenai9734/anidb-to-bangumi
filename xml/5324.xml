@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5324" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1990-10-01</startdate>
+<enddate>1990-10-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Aries: Shinwa no Seizakyuu</title>
+<title xml:lang="ja" type="official">アリーズ -神話の星座宮-</title>
+</titles>
+<creators>
+<name id="60288" type="Work">Akita Sadami</name>
+<name id="6811" type="Music">Yoshikawa Youichirou</name>
+<name id="6959" type="Direction">Kusakabe Mitsuo</name>
+<name id="20211" type="Original Work">Fuyuki Rurika</name>
+</creators>
+<ratings>
+<permanent count="4">3.30</permanent>
+<temporary count="4">4.50</temporary>
+</ratings>
+<picture>12693.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19002</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22271</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3246</identifier>
+<identifier>cvgxyx</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>アリーズ</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88608</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2537</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="78345" update="2007-06-29">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>1990-10-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

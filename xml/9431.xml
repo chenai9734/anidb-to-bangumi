@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9431" restricted="false">
+<type>TV Series</type>
+<episodecount>8</episodecount>
+<startdate>2012-10-11</startdate>
+<enddate>2012-11-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Backstage Idol Story</title>
+<title xml:lang="ja" type="synonym">バックステージ・アイドル・ストーリー</title>
+<title xml:lang="x-jat" type="short">BiS</title>
+<title xml:lang="ja" type="official">BackstageIdolStory</title>
+</titles>
+<url>http://www.spaceshowertv.com/bis/</url>
+<creators>
+<name id="29709" type="Series Composition">Ishidate Koutarou</name>
+<name id="44270" type="Animation Work">Kichijoji Tron</name>
+</creators>
+<ratings>
+<permanent count="4">1.78</permanent>
+<temporary count="4">3.75</temporary>
+</ratings>
+<picture>94244.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>15787</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.spaceshowertv.com/bis/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>バックステージ・アイドル・ストーリー</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>2737</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="57378" type="main character in" update="2013-06-22">
+<rating votes="1">6.08</rating>
+<name>Pour Lui 13-sei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60665.png</picture>
+<seiyuu id="35866" picture="131968.jpg">Pour Lui</seiyuu>
+</character>
+<character id="57379" type="main character in" update="2013-06-22">
+<name>Terashima Yufu 9-sei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60666.png</picture>
+</character>
+<character id="57380" type="main character in" update="2013-06-22">
+<name>Hirano Nozomi III-gata</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60667.png</picture>
+</character>
+<character id="57381" type="main character in" update="2013-06-22">
+<name>Michibaya Shirio 5-Sei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60668.png</picture>
+</character>
+<character id="57382" type="main character in" update="2013-06-22">
+<name>Wakisaka Yurika 11-sei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>60669.png</picture>
+</character>
+</characters>
+<episodes>
+<episode id="144063" update="2014-06-30">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>2012-11-29</airdate>
+<title xml:lang="ja">PPCC</title>
+<title xml:lang="en">PPCC</title>
+<title xml:lang="x-jat">PPCC</title>
+</episode>
+<episode id="144064" update="2014-06-30">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>2012-11-22</airdate>
+<title xml:lang="ja">ヘビーローテーション</title>
+<title xml:lang="en">Heavy Rotation</title>
+<title xml:lang="x-jat">Heavy Rotation</title>
+</episode>
+<episode id="144065" update="2014-06-30">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>2012-11-15</airdate>
+<title xml:lang="ja">乙女 パスタに感動</title>
+<title xml:lang="en">The Girl Excited By Pasta</title>
+<title xml:lang="x-jat">Otome Pasta ni Kandou</title>
+</episode>
+<episode id="144066" update="2014-06-30">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>2012-11-08</airdate>
+<title xml:lang="ja">はんぶん不思議</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Hanbun Fushigi</title>
+</episode>
+<episode id="144067" update="2014-06-30">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>2012-11-01</airdate>
+<title xml:lang="ja">愛が止まらない</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Ai ga Tomaranai</title>
+</episode>
+<episode id="144068" update="2014-06-30">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>2012-10-25</airdate>
+<title xml:lang="ja">赤いスイートピー</title>
+<title xml:lang="en">Red Sweet Pea</title>
+<title xml:lang="x-jat">Akai Sweet Pea</title>
+</episode>
+<episode id="144069" update="2014-06-30">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2012-10-18</airdate>
+<title xml:lang="ja">サウスポー</title>
+<title xml:lang="en">Southpaw</title>
+<title xml:lang="x-jat">Southpaw</title>
+</episode>
+<episode id="144070" update="2014-06-30">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2012-10-11</airdate>
+<title xml:lang="ja">暑中お見舞い申し上げます</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Shochuu Omimai Moushiagemasu</title>
+</episode>
+</episodes>
+</anime>

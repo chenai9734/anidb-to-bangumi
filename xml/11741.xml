@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11741" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Tsukushi no Iwai</title>
+<title xml:lang="ja" type="official">筑紫の磐井</title>
+</titles>
+<url>http://www.kagakueizo.org/create/other/4074/</url>
+<creators>
+<name id="5072" type="Character Design">Honda Toshiyuki</name>
+<name id="10360" type="Direction">Hagiwara Kouji</name>
+</creators>
+<description>documentary about Japan history, around the Iwai Rebellion period (527 AD)</description>
+<picture>178999.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32598</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.kagakueizo.org/create/other/4074/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="6075" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-01-12">
+<name>educational</name>
+<description>The entire series (at least a major part of it) is centred on a particular subject. Information is fed to the audience in a sublime manner. Most of the time an on-screen written comment by the narrator (or translator) can be seen, e.g. biological specimen, medicine, process, etc. Sometimes at the end of every episode’s closing song, a 20 seconds educational clip is presented.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="174260" update="2016-01-03">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

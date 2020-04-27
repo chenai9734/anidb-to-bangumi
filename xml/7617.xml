@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7617" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1987-03-21</startdate>
+<enddate>1987-03-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Bunna yo Ki kara Oritekoi</title>
+<title xml:lang="ja" type="synonym">ブンナよ, 木からおりてこい</title>
+<title xml:lang="en" type="synonym">Bunna Comes Down from the Tree</title>
+<title xml:lang="ja" type="official">ブンナよ木からおりてこい</title>
+</titles>
+<creators>
+<name id="59378" type="Original Work">Minakami Tsutomu</name>
+<name id="8536" type="Direction">Tanno Yuuji</name>
+<name id="7024" type="Music">Ikebe Shin`ichirou</name>
+</creators>
+<description>Animated children`s story about a nonconformist but brave frog. Bunna wants to challenge his community`s status quo by learning about the world outside.</description>
+<ratings>
+<permanent count="3">2.36</permanent>
+<temporary count="3">5.16</temporary>
+</ratings>
+<picture>241739.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>23611</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150069</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="119085" update="2011-10-20">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1987-03-21</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

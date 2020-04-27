@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3495" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1991-03-08</startdate>
+<enddate>1991-06-07</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kumo ni Noru</title>
+<title xml:lang="en" type="synonym">Climbing on a Cloud</title>
+<title xml:lang="ja" type="official">雲にのる</title>
+</titles>
+<creators>
+<name id="8298" type="Original Work">Motomiya Hiroshi</name>
+<name id="1868" type="Direction">Sekita Osamu</name>
+<name id="9754" type="Character Design">Endou Eiichi</name>
+<name id="720" type="Animation Work">J.C.Staff</name>
+</creators>
+<description>* Based on the six volume manga by http://anidb.net/cr8298 [Motomiya Hiroshi], serialised in Morning.
+In a Buddhist heaven where saints fight over turf in the clouds, Niomaru searches for the younger sister torn from him in an aircraft accident back in the human world.
+Source: The Anime Encyclopedia</description>
+<ratings>
+<permanent count="7">4.38</permanent>
+<temporary count="7">4.42</temporary>
+</ratings>
+<picture>238772.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>7294</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>23699</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3042</identifier>
+<identifier>wrppwr</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88503</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="105904" update="2010-04-17">
+<epno type="1">2</epno>
+<length>105</length>
+<airdate>1991-06-07</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="105905" update="2017-07-12">
+<epno type="1">1</epno>
+<length>55</length>
+<airdate>1991-03-08</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6669" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1986-04</startdate>
+<enddate>1986-04</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tatakae! Chou Robot Seimeitai Transformers: Scramble City Hatsudou Hen</title>
+<title xml:lang="en" type="synonym">Scramble City: Mobilization</title>
+<title xml:lang="ja" type="official">戦え!超ロボット生命体トランスフォーマー スクランブルシティ発動編</title>
+</titles>
+<relatedanime>
+<anime id="2077" type="Parent Story">Transformers: The Headmasters</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Work">Toei Douga</name>
+<name id="1187" type="Work">Takara</name>
+</creators>
+<description>Scramble City is the name of a Transformers OVA (Original Video Animation) created and released in Japan in April 1986. It was created as a promotional video for the new line of `Scramble City` toys released only in Japan. Despite strong belief (such as that voiced on the 20th Anniversary DVD bonus commentary for the episode), it was not meant to introduce Japanese audiences to the new characters from Transformers: The Movie (considering Ultra Magnus is the only one from the film that appears in it.) or to fill in the 20 years between seasons two and three of the show. It actually takes place years before TF: TM during the early stages of construction on Autobot City.</description>
+<ratings>
+<permanent count="54">3.77</permanent>
+<temporary count="54">5.18</temporary>
+</ratings>
+<picture>75008.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>2593</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6800</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Transformers:_Scramble_City</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>戦え!超ロボット生命体トランスフォーマー_スクランブルシティ発動編</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="922" parentid="2606" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-04">
+<name>shounen</name>
+<description>In the context of manga and associated media, shounen, literally meaning "youth" and often also specifically "boy", refers to a male audience roughly between the ages of 10 and 18.
+Source: Wikipedia</description>
+</tag>
+<tag id="2202" parentid="2846" infobox="true" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2018-08-12">
+<name>alien</name>
+<description>This entity or creature was born on another world than the main characters.</description>
+<picurl>222176.jpg</picurl>
+</tag>
+<tag id="2274" parentid="2638" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-30">
+<name>robot</name>
+<description>A robot is an automatically guided machine, able to do tasks on its own. Another common characteristic is that by its appearance or movements, a robot often conveys a sense that it has intent or agency of its own.
+Not to be confused with android (human-like robot).</description>
+<picurl>215586.jpg</picurl>
+</tag>
+<tag id="2606" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-05">
+<name>target audience</name>
+<description>Anime, like everything else in the modern world, is targeted towards specific audiences, both implicitly by the creators and overtly by the marketing. While categories are associated with specific sex and age groups, this is not a bar on the anime being enjoyed by people who don`t fit into that band; not only do crossover titles exist, but the categories also have a considerable following outside their main demographic, and a person might as well enjoy anime from all categories. Still, does not invalidate the usefulness of marking a title as one of the categories; the same themes will likely be treated differently in anime geared for different audiences. Only one should not jump the gun and assume that a title will be more or less serious or present content in this or that way due to its target audience, or conversely assume the target audience on the content and its presentation alone. As such, the audience categories help form a broad impression of how a title might work with the announced themes, but offer little to no in-depth information about specific content or its treatment.
+The audience categories originate from manga magazines, which group titles of a same intended audience into a magazine that is advertised as belonging to that category, and so manga-based anime will have the category from their parent work. As for anime based on other works, the audience is often debatable, but comparing information such as time slot to the manga-based anime generally helps figure out the most likely possibility.
+If the parent material was classified under multiple audiences over time (for example, it was originally shounen, but then as the plot changed and became more mature, it was reclassified as seinen), and the anime adapts parent material time periods covering multiple audiences, we tag all audiences covered by the anime adaptation.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="500" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2638" parentid="2846" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>mecha</name>
+<description>Mecha in Japanese basically means mechanical things; everything from an electric whisk or a car to a spaceship or a robot. Here however we limit it to the more exotic things usually referred to as mecha anime: robots, whether controlled by a human or not, and their ilk. See Androids, Piloted Robots, Power Suits, Robot Helpers, Transforming Robots for a more specific classification.</description>
+<picurl>42077.jpg</picurl>
+</tag>
+<tag id="2644" parentid="2274" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-14">
+<name>transforming craft</name>
+<description>A transforming craft is an object built by humans or other intelligent lifeforms, usually a robot but sometimes also a vehicle of some sort, that can rearrange its parts in order to switch between a minimum of two forms.</description>
+<picurl>224142.jpg</picurl>
+</tag>
+<tag id="2841" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2017-12-26">
+<name>action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting.</description>
+<picurl>211261.jpg</picurl>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="31756" type="main character in" update="2011-05-03">
+<rating votes="37">7.28</rating>
+<name>Convoy</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>70821.jpg</picture>
+<seiyuu id="343" picture="140430.jpg">Genda Tesshou</seiyuu>
+</character>
+<character id="36813" type="main character in" update="2011-09-18">
+<rating votes="2">6.73</rating>
+<name>Ultra Magnus</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>56600.jpg</picture>
+<seiyuu id="2782" picture="23189.jpg">Ginga Banjou</seiyuu>
+</character>
+<character id="37315" type="secondary cast in" update="2011-10-03">
+<rating votes="2">6.73</rating>
+<name>Meister</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63359.jpg</picture>
+<seiyuu id="32411" picture="86710.jpg">Ishii Toshirou</seiyuu>
+</character>
+<character id="37339" type="secondary cast in" update="2011-10-03">
+<rating votes="1">3.33</rating>
+<name>Bumble</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63615.jpg</picture>
+<seiyuu id="107" picture="172060.jpg">Shioya Yoku</seiyuu>
+</character>
+<character id="37340" type="secondary cast in" update="2011-10-03">
+<rating votes="1">3.33</rating>
+<name>Broadcast</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63616.jpg</picture>
+<seiyuu id="3282" picture="24710.jpg">Nanba Keiichi</seiyuu>
+</character>
+<character id="37341" type="secondary cast in" update="2011-10-03">
+<rating votes="1">3.33</rating>
+<name>Silverbolt</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63626.jpg</picture>
+<seiyuu id="289" picture="186204.jpg">Nishimura Tomomichi</seiyuu>
+</character>
+<character id="37342" type="secondary cast in" update="2011-10-03">
+<rating votes="2">6.25</rating>
+<name>Starscream</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63627.jpg</picture>
+<seiyuu id="3136" picture="24121.jpg">Suzuoki Hirotaka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="105903" update="2011-10-07">
+<epno type="1">1</epno>
+<length>15</length>
+<rating votes="2">3.98</rating>
+<title xml:lang="en">OVA</title>
+<summary>In a secret subterranean factory, the Autobots and their human allies work diligently on their "Scramble City" project, constructing a giant mobile fortress under the direction of Ultra Magnus. When the Decepticons detect magnetic fluctuations emanating from the concealed base, however, Soundwave`s cassettes investigate; despite resistance from Blaster and his tapes, Ratbat manages to penetrate the cavern and discovers the construction work.
+Megatron dispatches Starscream, Thundercracker, Skywarp and the Constructicons to attack the factory, but their way is barred by an Autobot contingent led by Optimus Prime. When Ultra Magnus, monitoring the battle from the base, sees the Constructicons merge into Devastator, he sends the Aerialbots to join the fight. Their added firepower fells Devastator and sends the Decepticons retreating, and in retaliation, Megatron deploys the Stunticons. The Autobots roll out to confront them, and the battle soon escalates as the two combiner teams form Superion and Menasor. Using Scramble Power, the two super robots shift their limbs for optimum power, but after a few reconfigurations, Fireflight gets confused and attempts to connect as the wrong limb, crashing into his team-mates and falling off. Menasor seizes the opportunity and disengages Dead End, who attaches as Superion`s leg, with painful results for the air warrior. Optimus Prime takes action, blasting Dead End off and allowing Fireflight to recombine with his team, at which point the Combaticons arrive to tip the battle in the Decepticons` favor as Bruticus.
+Back in the Autobots` factory, Scramble City has finally been completed, and Ultra Magnus has it transform to mobile fortress mode and sends it to join in the battle along with the Protectobots. Menasor and Bruticus have already defeated Superion as the team arrives, but as Defensor, they protect the other Autobots as Scramble City transforms into its robot mode - Metroplex! A single blast from Metroplex`s cannon defeats the two Decepticons, but as the Autobots celebrate their victory, the nearby ocean parts, and from its depths arises Trypticon!</summary>
+</episode>
+</episodes>
+</anime>

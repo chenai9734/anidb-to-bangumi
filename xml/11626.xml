@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11626" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-08-28</startdate>
+<enddate>2015-08-28</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tomato ni Natta Otokonoko</title>
+<title xml:lang="ja" type="official">トマトになった男の子</title>
+</titles>
+<url>http://www.miyagi.coop/products/megumino/lp/</url>
+<description>A small story about a boy who doesn`t want to eat his tomatoes.</description>
+<ratings>
+<permanent count="27">2.61</permanent>
+<temporary count="27">4.14</temporary>
+</ratings>
+<picture>177669.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31624</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.miyagi.coop/products/megumino/lp/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="171896" update="2015-09-26">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-08-28</airdate>
+<rating votes="1">1.09</rating>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

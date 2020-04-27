@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12153" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-03-11</startdate>
+<enddate>2017-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Charanpo Land no Bouken</title>
+<title xml:lang="ja" type="official">ちゃらんぽ島[ランド]の冒険</title>
+</titles>
+<url>http://animetamago.jp/title.php?id=1</url>
+<creators>
+<name id="839" type="Animation Work">Studio Comet</name>
+<name id="6052" type="Direction">Misawa Shin</name>
+<name id="17612" type="Character Design">Shimoji Narumi</name>
+</creators>
+<description>At the far end of the Southern Seas, where none had dared to go, there exists an island called Charanpo Land. At the center of that island is a giant baobab tree, which produces many eggs each day. Inside the eggs are food, clothing, and other daily necessities. The inhabitants of the island live carefree lives, dependent upon the eggs.
+But lately, more and more of the eggs have been turning up empty, which makes the inhabitants uneasy. Then one day, with a thunderous crash, and an explosion of rainbow-colored light, the baobab tree produces an egg of curious appearance. The next morning, the village chief http://anidb.net/ch87565 [Poncho] tells the inhabitants that they must find that egg. Now the tiger http://anidb.net/ch87567 [Kometora] and a group of children must find the egg within the forest.
+Source: ANN</description>
+<ratings>
+<permanent count="1">2.07</permanent>
+<temporary count="1">5.50</temporary>
+</ratings>
+<picture>194885.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19634</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33388</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://animetamago.jp/2017/title.php?id=1</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4575</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358545</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4859" parentid="6153" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-06-09">
+<name>Wakate Animator Ikusei Project</name>
+<description>The Young Animator Training Project is an annual project launched in 2010 and funded by the Japanese government`s Agency for Cultural Affairs. The project, which culminates in a series of shorts produced by various animation studios each year, means to address the concern that more of the Japanese animation process is being outsourced overseas, thus leading to a decline in opportunities to teach animation techniques within Japan. As such, the animation production for each short is required to be based in Japan, and professionals must impart their know-how to the young animators through on-the-job training.
+Source: Wikipedia</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+</tags>
+<characters>
+<character id="87563" type="main character in" update="2017-02-19">
+<name>Gunma</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198458.jpg</picture>
+<seiyuu id="44099" picture="225101.jpg">Ochiai Fukushi</seiyuu>
+</character>
+<character id="87564" type="main character in" update="2017-02-19">
+<name>Pyon</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198457.jpg</picture>
+<seiyuu id="37977" picture="226053.jpg">Oowada Hitomi</seiyuu>
+</character>
+<character id="87565" type="secondary cast in" update="2017-02-19">
+<name>Poncho</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198460.jpg</picture>
+<seiyuu id="2339" picture="151715.jpg">Taketora</seiyuu>
+</character>
+<character id="87566" type="secondary cast in" update="2017-02-19">
+<name>Akan-hakase</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198459.jpg</picture>
+<seiyuu id="36770" picture="151722.jpg">Nose Ikuji</seiyuu>
+</character>
+<character id="87567" type="main character in" update="2017-02-19">
+<name>Kometora</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198456.jpg</picture>
+<seiyuu id="548" picture="186185.jpg">Sakamoto Chika</seiyuu>
+</character>
+<character id="87568" type="secondary cast in" update="2017-02-19">
+<name>Baobab no Ki no Sei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198461.jpg</picture>
+<seiyuu id="74" picture="84835.jpg">Oohara Sayaka</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="184479" update="2017-02-11">
+<epno type="1">1</epno>
+<length>0</length>
+<airdate>2017-03-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

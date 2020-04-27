@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11438" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1979</startdate>
+<enddate>1979</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Comics</title>
+<title xml:lang="en" type="synonym">Cosmic Wave</title>
+<title xml:lang="x-jat" type="synonym">Comix</title>
+<title xml:lang="ja" type="official">コミックス</title>
+</titles>
+<ratings>
+<permanent count="50">1.92</permanent>
+<temporary count="50">3.32</temporary>
+</ratings>
+<picture>175685.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30332</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="170268" update="2015-07-27">
+<epno type="1">1</epno>
+<length>3</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

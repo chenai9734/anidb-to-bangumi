@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10776" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2014-11-29</startdate>
+<enddate>2014-11-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kurumiwari Ningyou (2014)</title>
+<title xml:lang="en" type="synonym">Nutcracker (2014)</title>
+<title xml:lang="ja" type="official">くるみ割り人形 (2014)</title>
+</titles>
+<url>http://kurumiwari-movie.com/</url>
+<description>* An adaptation of the classic Russian ballet The Nutcracker, written by Marius Petipa and Lev Ivanov, primarily in stop-motion animation.</description>
+<ratings>
+<permanent count="1">2.84</permanent>
+<temporary count="1">1.00</temporary>
+</ratings>
+<picture>159238.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>26043</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kurumiwari-movie.com/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>349897</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="161800" update="2015-01-11">
+<epno type="1">1</epno>
+<length>80</length>
+<airdate>2014-11-29</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+<episode id="164600" update="2014-12-01">
+<epno type="4">T1</epno>
+<length>2</length>
+<airdate>2014-08-19</airdate>
+<title xml:lang="ja">映画『くるみ割り人形』予告編</title>
+<title xml:lang="en">Nutcracker Movie Trailer 01 (1 min 57 sec)</title>
+<title xml:lang="x-jat">Eiga "Kurumiwari Ningyou" Yokokuhen</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8773" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1997-06-06</startdate>
+<enddate>1997-06-06</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Game Tengoku</title>
+<title xml:lang="ja" type="official">ゲーム天国 THE GAME PARADISE!</title>
+</titles>
+<relatedanime>
+<anime id="10661" type="Sequel">Gunbare! Game Tengoku 2</anime>
+</relatedanime>
+<description>Note: Sold with the limited edition of the Sega Saturn release of the Game Tengoku game.</description>
+<ratings>
+<permanent count="7">2.65</permanent>
+<temporary count="7">3.42</temporary>
+</ratings>
+<picture>75591.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>10852</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゲーム天国</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="134515" update="2012-08-02">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>1997-06-06</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12507" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>2016-03-26</startdate>
+<enddate>2016-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Mobile Suit Gundam UC: A Phantom World</title>
+<title xml:lang="ja" type="official">機動戦士ガンダムUC A Phantom World</title>
+</titles>
+<relatedanime>
+<anime id="6517" type="Other">Kidou Senshi Gundam Unicorn</anime>
+</relatedanime>
+<url>http://www.gundam.info/topic/15140</url>
+<description>The short begins when an Anaheim Electronics-manufacture Sinanju Stein unit, stolen and now affiliated with the Neo Zeon unit Sleeves, bursts through the Earth`s stratosphere. The Unicorn takes off from the Nahel Argama and moves to intercept. While it engages with the Sinanju Stein, the Banshee Norn and Phenex are moving to assist.
+[i]
+Source: ANN[/i]</description>
+<ratings>
+<permanent count="34">2.63</permanent>
+<temporary count="34">4.39</temporary>
+</ratings>
+<picture>193668.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32927</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.gundam.info/topic/15140</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="3216" parentid="2626" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2008-06-25">
+<name>Universal Century</name>
+<description>Refers to the Universal Century timeline in Gundam anime. Gundam anime with this tag all belong in the same universe.</description>
+</tag>
+<tag id="4542" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2017-04-25">
+<name>no dialogue</name>
+<description>The anime either has no spoken dialogue or no dialogue at all.</description>
+</tag>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="181787" update="2017-09-01">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2016-03-26</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

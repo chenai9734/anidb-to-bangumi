@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="2227" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1978-03-18</startdate>
+<enddate>1978-03-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sekai Meisaku Douwa: Oyayubi Hime</title>
+<title xml:lang="en" type="synonym">World`s Famous Stories for Children: Thumb Princess</title>
+<title xml:lang="fr" type="synonym">Poucelina</title>
+<title xml:lang="pt" type="synonym">Polegarzinha</title>
+<title xml:lang="ja" type="official">世界名作童話 おやゆび姫</title>
+<title xml:lang="en" type="official">Thumbelina (1978)</title>
+<title xml:lang="de" type="official">Däumelinchen</title>
+<title xml:lang="fr" type="official">Mam`zelle Tom Pouce</title>
+<title xml:lang="ru" type="official">Дюймовочка</title>
+<title xml:lang="pl" type="official">Przygody Calineczki</title>
+<title xml:lang="el" type="official">Η Τοσοδούλα</title>
+<title xml:lang="hu" type="official">Hüvelyk Panna</title>
+</titles>
+<relatedanime>
+<anime id="3672" type="Other">Oyayubi Hime Monogatari</anime>
+</relatedanime>
+<url>http://tezukaosamu.net/jp/anime/11.html</url>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+<name id="1195" type="Character Design">Tezuka Osamu</name>
+<name id="3962" type="Music">Kikuchi Shunsuke</name>
+<name id="6294" type="Original Work">Hans Christian Andersen</name>
+</creators>
+<description>A tiny girl, only as long as a man`s thumb, is born to a childless woman, abducted by frogs who want her to marry their son, but escaping instead (with the help of a bumblebee) to find a real prince without having to kiss the frog first.</description>
+<ratings>
+<permanent count="45">4.07</permanent>
+<temporary count="46">5.57</temporary>
+</ratings>
+<picture>131627.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3343</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>3755</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3022</identifier>
+<identifier>mpuula</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://tezukaosamu.net/jp/anime/11.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://tezukaosamu.net/en/anime/11.html</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>146250</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>4422</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>m076</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="3055" parentid="3876" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>fairy tale</name>
+<description>This anime is either based on or contains parts of fairy tales. Usually those parts are highly modified or twisted when compared with the original source.</description>
+</tag>
+<tag id="3597" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-02-26">
+<name>mythology</name>
+<description>The anime gets inspirations from many forms of mythologies (either Greek, Egyptian, Nord, etc.) to form its story and setting.</description>
+</tag>
+<tag id="3876" parentid="3597" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-21">
+<name>folklore</name>
+<description>Folklore, or simply Lore, are the traditions of a culture, subculture, or group, in the form of legends, music, proverbs, jokes, popular beliefs, fairy tales, stories, tall tales and customs. In usage, there is a continuum between folklore and mythology.
+Folklore is generally divided into four areas of study: physical artifacts, transmissible entities and stories, culture and technologies, and behaviors and rituals.
+[From Wikipedia]</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="21673" update="2011-10-20">
+<epno type="1">1</epno>
+<length>65</length>
+<airdate>1978-03-18</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

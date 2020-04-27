@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13082" restricted="false">
+<type>OVA</type>
+<episodecount>4</episodecount>
+<startdate>1994</startdate>
+<enddate>1996</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Susume! Godzilland</title>
+<title xml:lang="en" type="synonym">Recommend! Godzilland</title>
+<title xml:lang="x-jat" type="synonym">Susume! Gojiraland</title>
+<title xml:lang="ja" type="official">すすめ! ゴジランド</title>
+</titles>
+<relatedanime>
+<anime id="12315" type="Other">Godzilla</anime>
+</relatedanime>
+<description>Recommend! Godzilland is a series of four educational OVAs released to VHS in 1994 and 1996 by Gakken. They use Godzilla and other kaiju to teach children about the hiragana alphabet, counting, addition, and subtraction.
+Source: MAL</description>
+<ratings>
+<permanent count="6">1.75</permanent>
+<temporary count="6">1.66</temporary>
+</ratings>
+<picture>200701.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34813</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ゴジラ</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="6075" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-01-12">
+<name>educational</name>
+<description>The entire series (at least a major part of it) is centred on a particular subject. Information is fed to the audience in a sublime manner. Most of the time an on-screen written comment by the narrator (or translator) can be seen, e.g. biological specimen, medicine, process, etc. Sometimes at the end of every episode’s closing song, a 20 seconds educational clip is presented.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="187685" update="2017-05-14">
+<epno type="1">4</epno>
+<length>30</length>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="187686" update="2017-05-14">
+<epno type="1">3</epno>
+<length>30</length>
+<title xml:lang="en">Episode 3</title>
+</episode>
+<episode id="187687" update="2017-05-14">
+<epno type="1">2</epno>
+<length>30</length>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="187688" update="2017-05-14">
+<epno type="1">1</epno>
+<length>30</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

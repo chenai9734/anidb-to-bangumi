@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7842" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Bad Badtz-maru no Ari to Kirigirisu</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 5b</title>
+<title xml:lang="ja" type="official">バッドばつ丸のアリとキリギリス</title>
+<title xml:lang="en" type="official">Bad Badtz-maru`s The Ants and the Grasshopper</title>
+</titles>
+<ratings>
+<permanent count="8">4.91</permanent>
+<temporary count="8">5.37</temporary>
+</ratings>
+<picture>52637.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>22565</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="120694" update="2015-07-19">
+<epno type="1">1</epno>
+<length>10</length>
+<rating votes="1">7.06</rating>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

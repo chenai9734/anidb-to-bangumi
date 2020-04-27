@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6233" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1989-08-27</startdate>
+<enddate>1989-08-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tezuka Osamu Monogatari: Boku wa Son Gokuu</title>
+<title xml:lang="en" type="synonym">Tezuka Osamu Story: I am Son-Goku</title>
+<title xml:lang="ja" type="official">手塚治虫物語 ぼくは孫悟空</title>
+</titles>
+<relatedanime>
+<anime id="7340" type="Alternative Setting">Boku no Son Gokuu</anime>
+</relatedanime>
+<creators>
+<name id="1195" type="Character Design">Tezuka Osamu</name>
+<name id="4414" type="Character Design">Momose Yoshiyuki</name>
+<name id="5573" type="Character Design">Matsubara Norihiro</name>
+<name id="1195" type="Original Plan">Tezuka Osamu</name>
+<name id="148" type="Direction">Rintarou</name>
+<name id="4880" type="Direction">Hata Masami</name>
+<name id="29741" type="Music">Marutani Haruhiko</name>
+</creators>
+<description>A semi autobiography of http://anidb.net/cr1195 [Tezuka Osamu].</description>
+<ratings>
+<permanent count="48">6.72</permanent>
+<temporary count="48">6.39</temporary>
+</ratings>
+<picture>136660.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3322</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>9531</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2847</identifier>
+<identifier>ccdhnl</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234412</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>1226</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2604" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>content indicators</name>
+<description>The content indicators branch is intended to be a less geographically specific tool than the `age rating` used by convention, for warning about things that might cause offence. Obviously there is still a degree of subjectivity involved, but hopefully it will prove useful for parents with delicate children, or children with delicate parents.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2624" parentid="2612" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-20">
+<name>present</name>
+<description>Somewhere between past and future.</description>
+</tag>
+<tag id="2625" parentid="2612" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>past</name>
+<description>Anime that takes place in the past or clearly seems to take place in the past in case of an alternative universe. This category should almost always go together with one of its sub-categories, because the past can either be a depiction of a historical event(s) or not, in which case it would be alternative past.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2627" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-12-27">
+<name>space</name>
+<description>The final frontier.</description>
+<picurl>242357.jpg</picurl>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2641" parentid="2625" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>historical</name>
+<description>Historical anime have clear ties to our history and usually occur in a particular epoch.</description>
+</tag>
+<tag id="2672" parentid="2834" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>Japan</name>
+<description>Japan is a sovereign island nation in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian mainland and stretches from the Sea of Okhotsk in the north to the East China Sea and China in the southwest.
+Source: Wikipedia</description>
+<picurl>65689.png</picurl>
+</tag>
+<tag id="2674" parentid="2834" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-03-05">
+<name>China</name>
+<description>China, officially the People`s Republic of China (PRC), is a unitary sovereign state in East Asia and the world`s most populous country. It is the third- or fourth-largest country by total area, depending on the source consulted. China also has the most neighbor countries in the world. Governed by the Communist Party of China, it exercises jurisdiction over 22 provinces, five autonomous regions, four direct-controlled municipalities (Beijing, Tianjin, Shanghai, and Chongqing), and the special administrative regions of Hong Kong and Macau.
+Source: Wikipedia</description>
+<picurl>214277.jpg</picurl>
+</tag>
+<tag id="2691" parentid="2641" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2009-12-21">
+<name>World War II</name>
+<description>World War II, or the Second World War (often abbreviated WWII or WW2), was a global military conflict which involved most of the world`s nations, including all great powers, organised into two opposing military alliances: the Allies and the Axis. The war involved the mobilisation of over 100 million military personnel, making it the most widespread war in history. In a state of "total war," the major participants placed their entire economic, industrial, and scientific capabilities at the service of the war effort, erasing the distinction between civilian and military resources. Over seventy million people, the majority civilians, were killed, making it the deadliest conflict in human history.
+The start of the war is generally held to be September 1, 1939, with the invasion of Poland by Nazi Germany and subsequent declarations of war on Germany by most of the countries in the British Empire and Commonwealth, and by France. Many countries were already at war before this date, such as Ethiopia and Italy in the Second Italo-Abyssinian War and China and Japan in the Second Sino-Japanese War. Many who were not initially involved joined the war later, as a result of events such as the German invasion of the Soviet Union, the attacks on Pearl Harbor and British colonies, and subsequent declarations of war on Japan by the United States, the Netherlands, and British Commonwealth.
+In 1945, the war ended in a victory for the Allies. The Soviet Union and the United States subsequently emerged as the world`s superpowers, setting the stage for the Cold War which continued for the next 46 years. The United Nations was formed in the hope of preventing another world conflict. The acceptance of the principle of self-determination accelerated decolonization movements in Asia and Africa, while Western Europe itself began moving toward integration.
+------
+About the picture
+Top left: Battle of Wuhan
+Top right: Second Battle of El Alamein
+Middle left: Battle of Stalingrad
+Middle right: German dive bombers over Eastern Front winter 1943-1944
+Bottom left: Wilhelm Keitel signing German Instrument of Surrender
+Bottom right: Invasion of Lingayen Gulf</description>
+<picurl>40430.jpg</picurl>
+</tag>
+<tag id="2750" parentid="2604" weight="200" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-08">
+<name>violence</name>
+<description>Violence is the use of physical force against oneself or another entity, compelling action against one`s will on pain of being hurt.
+Note: Refer to further guidance on http://wiki.anidb.net/w/Categories:Content_Indicators [the Wiki page] for how to apply tag weights for content indicators.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+<tag id="2849" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2005-05-07">
+<name>fantasy</name>
+<description>Fantasy is a genre of fiction that uses magic and other supernatural phenomena as a primary element of plot, theme, or setting. Many works within the genre take place in fictional worlds where magic is common. Fantasy is generally distinguished from science fiction and horror by the expectation that it steers clear of (pseudo-)scientific and macabre themes, respectively, though there is a great deal of overlap between the three (which are subgenres of speculative fiction).
+In popular culture, the genre of fantasy is dominated by its medievalist form, especially since the worldwide success of The Lord of the Rings books by J. R. R. Tolkien. In its broadest sense however, fantasy comprises works by many writers, artists, filmmakers, and musicians, from ancient myths and legends to many recent works embraced by a wide audience today.
+Fantasy is a vibrant area of academic study in a number of disciplines (English, cultural studies, comparative literature, history, medieval studies). Work in this area ranges widely, from the structuralist theory of Tzvetan Todorov, which emphasizes the fantastic as a liminal space, to work on the connections (political, historical, literary) between medievalism and popular culture
+Source: Wiki</description>
+<picurl>68768.jpg</picurl>
+</tag>
+<tag id="2857" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="2887" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-16">
+<name>tragedy</name>
+<description>Tragedy is a form of drama characterized by seriousness and dignity, usually involving a conflict between a character and some higher power, such as the law, the gods, fate, or society.</description>
+</tag>
+<tag id="3040" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-01">
+<name>male protagonist</name>
+<description>This anime has a male protagonist.</description>
+</tag>
+<tag id="3589" parentid="4251" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-04">
+<name>multiple protagonists - TO BE MOVED TO PARENT OR DELETED</name>
+<description>This tag is to be moved into its parent tag http://anidb.net/t4251 [ensemble cast], or removed entirely. If the tagged entry meets the updated definition of ensemble cast, tag ensemble cast and delete multiple protagonist. If it does not meet the ensemble cast definition, delete this tag and take no further action.</description>
+</tag>
+<tag id="3683" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>storytelling</name>
+</tag>
+<tag id="3752" parentid="6397" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-10">
+<name>Journey to the West</name>
+<description>Journey to the West is a classic Chinese mythological novel. It was written during the Ming Dynasty based on traditional folk tales. Consisting of 100 chapters, this fantasy relates the adventures of a Tang Dynasty priest Sanzang and his three disciples, Monkey, Pig and Friar Sand, as they travel west in search of Buddhist Sutra. Several anime are loosely based on its story, most famously Dragon Ball.</description>
+</tag>
+<tag id="4251" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-11-20">
+<name>ensemble cast</name>
+<description>A show with an ensemble cast focuses on a larger group of main characters in a single plot narrative; anime containing several segmented plot narratives (such as episodic or arc-based plots) are excluded. As such, it doesn`t really have a "main" or "lead" character; instead, every member of the central main character group plays an important part in the show`s grander scheme; no single character is more important or prominent than the others (equality of importance). Further, subplots (if any) lead by each character in the ensemble have equal weighting in importance (or lack of weight).
+
+* In a show where no single main character is more important or prominent than the others, 4+ main characters is almost always an ensemble cast.
+* A show with 3 main characters of equal importance is likely also an ensemble cast; equality of importance must be considered carefully.
+* A show with 2 main characters of equal importance is generally not an ensemble cast situation; however, on an exception basis where neither main character is considered an antagonist, a 2-main-character anime may be considered an ensemble (e.g. http://anidb.net/a11829 [Kimi no Na wa.]).
+
+Pictured: http://anidb.net/a9043 [K (anime)]</description>
+<picurl>94914.jpg</picurl>
+</tag>
+<tag id="4537" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-02-15">
+<name>time skip</name>
+<description>The plot features at least one skip or jump in time.
+Example: A skip from the present into the past, or time skips in increments, e.g. every hour there is a time skip by a day.</description>
+</tag>
+<tag id="4611" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-22">
+<name>nearly almighty protagonist</name>
+<description>Man 1: "Hey man, did you see me take down that guy over there, there`s no way he could have survived that!"
+Man 2: "Yeah I know what you mean, it would take the strength of 1 million men to be able to ..... HE`S GETTING BACK UP!!?!?"
+*synonymous jaws dropping*
+This anime`s main character is comparable to the gods themselves in terms of resistibility, strength and/or downright bad-assery. Whenever they seem as if the fire inside has burnt out, they rise from the ashes with enough tenacity and ferocity to vanquish any foe that dare stand against them.</description>
+</tag>
+<tag id="4614" parentid="3683" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>narration</name>
+<description>The most common example is that of a voice, either that of one of the characters or entirely unrelated, that appears at the beginning of an episode to offer a summary or introduction, and at the end of an episode for closure or for a preview to hint upon what to expect next.
+Another use of narration comes in the form of a dominant voice belonging to one of the protagonists, intended only for the viewer and revealing the intimate thoughts to whom it belongs. This type of narration occurs frequently throughout the duration of the episode or movie.</description>
+</tag>
+<tag id="4616" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-05">
+<name>based on real events</name>
+<description>Contains content based on real-life events.
+Depending on the creators` wishes those events may have been altered. In the most substantial cases, expect many things to have been changed from the original events.</description>
+</tag>
+<tag id="4814" parentid="4616" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>biographical film</name>
+<description>A biographical film, or biopic, is a film that dramatizes the life of an actual person or people. Such films show the life of a historical person and the central character’s real name is used. They differ from films "based on a true story" or "historical films" in that they attempt to comprehensively tell a person’s life story or at least the most historically important years of their lives.
+(Source: en.wiki)</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+<tag id="6397" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-02">
+<name>tales</name>
+<description>Tales are stories told time and again and passed down from generation to generation, and some of those show up in anime not just once or twice, but several times.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<characters>
+<character id="35816" type="secondary cast in" update="2011-08-21">
+<rating votes="5">1.63</rating>
+<name>Hige Oyaji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>1264.gif</picture>
+<seiyuu id="3301" picture="24327.jpg">Tomita Kousei</seiyuu>
+</character>
+<character id="79398" type="main character in" update="2016-01-05">
+<rating votes="14">5.43</rating>
+<name>Tezuka Osamu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Osamu Tezuka`s anime/manga version of himself</description>
+<picture>181241.jpg</picture>
+<seiyuu id="198" picture="202893.jpg">Kusao Takeshi</seiyuu>
+<seiyuu id="3287" picture="24301.jpg">Kobayashi Kyouji</seiyuu>
+</character>
+<character id="84491" type="appears in" update="2016-09-03">
+<name>Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190823.jpg</picture>
+<seiyuu id="25083" picture="70125.jpg">Shimizu Mari</seiyuu>
+</character>
+<character id="84492" type="appears in" update="2016-09-03">
+<name>Okamoto Kyouko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190824.jpg</picture>
+<seiyuu id="407" picture="17254.jpg">Koyama Mami</seiyuu>
+</character>
+<character id="84493" type="appears in" update="2016-09-03">
+<name>Wan-Raimin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190825.jpg</picture>
+<seiyuu id="480" picture="232940.jpg">Kawakubo Kiyoshi</seiyuu>
+</character>
+<character id="84500" type="main character in" update="2016-09-03">
+<name>Son Gokuu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190828.jpg</picture>
+<seiyuu id="322" picture="17159.jpg">Tanaka Mayumi</seiyuu>
+</character>
+<character id="84501" type="appears in" update="2016-09-03">
+<name>Rular</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190829.jpg</picture>
+<seiyuu id="407" picture="17254.jpg">Koyama Mami</seiyuu>
+</character>
+<character id="84502" type="appears in" update="2016-09-03">
+<name>Sanzou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190830.jpg</picture>
+<seiyuu id="1819" picture="20694.jpg">Shiozawa Kaneto</seiyuu>
+</character>
+<character id="84503" type="appears in" update="2016-09-03">
+<name>Hakkai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190831.jpg</picture>
+<seiyuu id="9290">Nishio Toku</seiyuu>
+</character>
+<character id="84504" type="appears in" update="2017-11-12">
+<name>Sagojou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190832.jpg</picture>
+<seiyuu id="3228" picture="151725.jpg">Masuoka Hiroshi</seiyuu>
+</character>
+<character id="84505" type="appears in" update="2016-09-03">
+<name>Rasetsu Onna</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190833.jpg</picture>
+<seiyuu id="3250" picture="24693.jpg">Fujita Toshiko</seiyuu>
+</character>
+<character id="84506" type="appears in" update="2016-09-03">
+<name>Gyuu-maou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>190834.jpg</picture>
+<seiyuu id="23" picture="188505.jpg">Utsumi Kenji</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="95265" update="2008-11-21">
+<epno type="1">1</epno>
+<length>70</length>
+<airdate>1989-08-27</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

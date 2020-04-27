@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13786" restricted="false">
+<type>Web</type>
+<episodecount>0</episodecount>
+<startdate>2018</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">God Eater Rezo Nantoka Gekijou</title>
+<title xml:lang="ja" type="synonym">ゴッドイーター レゾなんとか劇場</title>
+<title xml:lang="ja" type="official">GOD EATER レゾなんとか劇場</title>
+</titles>
+<relatedanime>
+<anime id="10842" type="Alternative Setting">God Eater</anime>
+</relatedanime>
+<creators>
+<name id="3067" type="Animation Character Design">Hirata Katsuzou</name>
+<name id="42346" type="Animation Work">Creators in Pack</name>
+<name id="35245" type="Animation Work">Passione</name>
+<name id="47141" type="Series Composition">Shinohara Parako</name>
+<name id="47141" type="Direction">Shinohara Parako</name>
+</creators>
+<description>Note: It was streamed within God Eater Resonant Ops game app.</description>
+<ratings>
+<permanent count="1">3.10</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>215703.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23110</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37663</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>364417</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-22">
+<name>setting</name>
+<description>The setting describes in what time and place an anime takes place. To a certain extent it describes what you can expect from the world in the anime.</description>
+</tag>
+<tag id="2612" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>time</name>
+<description>This placeholder lists different epochs in human history and more vague but important timelines such as the future, the present and the past.</description>
+</tag>
+<tag id="2613" parentid="2610" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-09-04">
+<name>place</name>
+<description>The places the anime can take place in. Includes more specific places such as a country on Earth, as well as more general places such as a dystopia or a mirror world.</description>
+</tag>
+<tag id="2626" parentid="2612" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-15">
+<name>future</name>
+<description>Anime that fall under the future category are the ones that have a society that could have originated from ours. In most cases it should go hand to hand with sci-fi since we expect the future to consist of advanced technology, however, in the case where it`s explicitly stated in the story that the anime takes place "x years into the future", the state of technology doesn`t matter as long as it`s long into the future. The anime can be set in an alternative universe not tied with our own, as long as it has a futuristic feel to it.
+This category sports quite a lot of anime, mostly stemming from SciFi, but not necessarily only from there.</description>
+</tag>
+<tag id="2630" parentid="2613" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-13">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun, and the densest and fifth-largest of the eight planets in the Solar System. It is in effect a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). It is circa 4.5 billion years old, and, unless we humans succeed in destroying it over the next couple of centuries, it is expected to last for quite another while, though the changes in the Sun`s emissions due to its aging will likely cause the extinction of everything; the species of earthlings are guaranteed to die, even if we fail to kill them -- unless, of course, we find ourselves another planet and figure out a way to take everything there. Our little planet on a corner of this galaxy may mean nothing in the grand scheme of things, but to its inhabitants it is their home, so, as a species, we cherish it dearly, to the point many cultures even to this day deify it. Being the home to the human civilizations, the Earth is the main setting of most fiction, be it anime or otherwise, but not only are many titles set in other places, such as unrelated fantasy worlds, in a considerable number of fictional titles the Earth is actually destroyed by aggressive alien invaders.</description>
+<picurl>126792.jpg</picurl>
+</tag>
+<tag id="2834" parentid="2630" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2016-10-04">
+<name>Asia</name>
+<description>Asia is Earth`s largest and most populous continent, located primarily in the eastern and northern hemispheres and sharing the continental landmass of Eurasia with the continent of Europe. Asia covers an area of 44,579,000 square kilometers, about 30% of Earth`s total land area and 8.7% of the Earth`s total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Asia is notable for not only its overall large size and population, but also dense and large settlements as well as vast barely populated regions within the continent of 4.4 billion people.
+Source: Wikipedia</description>
+<picurl>192245.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="99032" type="main character in" update="2018-11-04">
+<name>Kamiki Leo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226297.jpg</picture>
+<seiyuu id="175" picture="167565.jpg">Shimono Hiro</seiyuu>
+</character>
+<character id="99033" type="main character in" update="2018-11-04">
+<name>Kamiki Rio</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226298.jpg</picture>
+<seiyuu id="37280" picture="136935.jpg">Oozora Naomi</seiyuu>
+</character>
+<character id="99034" type="main character in" update="2018-11-04">
+<name>Alek Martin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226299.jpg</picture>
+<seiyuu id="34784" picture="129957.jpg">Yamashita Daiki</seiyuu>
+</character>
+<character id="99035" type="main character in" update="2018-11-04">
+<name>Sera Kisaragi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226300.jpg</picture>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+<character id="99036" type="main character in" update="2018-11-04">
+<name>Erina der Vogelweid</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226301.jpg</picture>
+<seiyuu id="479" picture="222800.jpg">Asumi Kana</seiyuu>
+</character>
+<character id="99037" type="main character in" update="2018-11-04">
+<name>Tiona Vita Lin Toe</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>226302.jpg</picture>
+<seiyuu id="22366" picture="217303.jpg">Uchida Maaya</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="197664" update="2018-04-01">
+<epno type="2">S1</epno>
+<length>8</length>
+<airdate>2018-03-30</airdate>
+<title xml:lang="ja">投げられた食パン</title>
+<title xml:lang="en">Episode #00</title>
+<title xml:lang="x-jat">Nagerareta Shokupan</title>
+</episode>
+</episodes>
+</anime>

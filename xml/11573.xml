@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11573" restricted="false">
+<type>TV Series</type>
+<episodecount>22</episodecount>
+<startdate>2015-10-11</startdate>
+<enddate>2016-03-27</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Brave Beats</title>
+<title xml:lang="x-unk" type="official">怪物弹珠</title>
+<title xml:lang="ja" type="official">ブレイブビーツ</title>
+<title xml:lang="en" type="official">Brave Beats</title>
+</titles>
+<url>http://bravebeats.net/</url>
+<creators>
+<name id="14251" type="Music">A-bee</name>
+<name id="42824" type="Animation Work">BN Pictures</name>
+<name id="28960" type="Character Design">Aono Yuka</name>
+<name id="3688" type="Series Composition">Tomioka Atsuhiro</name>
+<name id="42824" type="Original Work">BN Pictures</name>
+<name id="43961" type="Direction">Murano Yuuta</name>
+</creators>
+<description>The story follows Kazaguruma Hibiki, a sixth grader who meets an amusing little robot named Bureikin while coming home from school one day. Bureikin, a dancer from an alternate-dimension dance world, challenged the dance king for the throne and lost. He has been deprived of Dance Stones (the stones of dance power) and sent to the human world. To restore his power, Bureikin must collect all the Dance Stones scattered around Earth.
+Source: ANN</description>
+<ratings>
+<permanent count="72">3.46</permanent>
+<temporary count="72">5.12</temporary>
+</ratings>
+<picture>177243.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>17643</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>31573</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.nagoyatv.com/bravebeats/</url>
+</externalentity>
+<externalentity>
+<url>http://bravebeats.net/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Brave_Beats</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ブレイブビーツ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3950</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354238</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>18573</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="77320" type="main character in" update="2015-10-11">
+<name>Adeline</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178411.jpg</picture>
+<seiyuu id="38546" picture="228695.jpg">Yoshida Yuuri</seiyuu>
+</character>
+<character id="77321" type="main character in" update="2015-10-11">
+<name>Breakin</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178412.jpg</picture>
+<seiyuu id="28881" picture="66208.jpg">Sakurai Tooru</seiyuu>
+</character>
+<character id="77322" type="main character in" update="2015-10-13">
+<name>Kazaguruma Hibiki</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178409.jpg</picture>
+<seiyuu id="29635" picture="186171.jpg">Takahashi Meguru</seiyuu>
+</character>
+<character id="77323" type="main character in" update="2016-03-05">
+<name>Amamiya Kotone</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178410.jpg</picture>
+<seiyuu id="38593" picture="223625.jpg">Kokido Shiho</seiyuu>
+</character>
+<character id="77770" type="secondary cast in" update="2015-10-11">
+<name>Flash Beat</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178413.jpg</picture>
+<seiyuu id="36679" picture="223319.jpg">Sakai Koudai</seiyuu>
+</character>
+<character id="77771" type="secondary cast in" update="2015-10-11">
+<name>Wing Beat</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>178414.jpg</picture>
+<seiyuu id="38593" picture="223625.jpg">Kokido Shiho</seiyuu>
+</character>
+<character id="78066" type="secondary cast in" update="2015-10-29">
+<name>Mink</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179009.jpg</picture>
+<seiyuu id="42340" picture="170970.jpg">Mikutsu Yuuko</seiyuu>
+</character>
+<character id="78067" type="secondary cast in" update="2015-10-29">
+<name>Tank</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179010.jpg</picture>
+<seiyuu id="28872" picture="66014.jpg">Kitamura Kenji</seiyuu>
+</character>
+<character id="78410" type="secondary cast in" update="2015-11-19">
+<name>Choreo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179529.jpg</picture>
+<seiyuu id="42006" picture="232274.jpg">Mizunaka Masaaki</seiyuu>
+</character>
+<character id="78615" type="secondary cast in" update="2015-11-25">
+<name>Kamiya Maito</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179834.jpg</picture>
+<seiyuu id="11102" picture="151678.jpg">Sugaya Yayoi</seiyuu>
+</character>
+<character id="79010" type="secondary cast in" update="2015-12-21">
+<name>Kanayama Charlie Tsubasa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180591.jpg</picture>
+<seiyuu id="9405" picture="228517.jpg">Yamaoka Yuri</seiyuu>
+</character>
+<character id="79011" type="secondary cast in" update="2015-12-21">
+<name>Owl</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180592.jpg</picture>
+<seiyuu id="36576" picture="134934.jpg">Yokojima Wataru</seiyuu>
+</character>
+<character id="79012" type="secondary cast in" update="2016-03-05">
+<name>Airbeat</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>180593.jpg</picture>
+<seiyuu id="315" picture="70740.jpg">Hino Satoshi</seiyuu>
+</character>
+<character id="79764" type="secondary cast in" update="2016-02-04">
+<name>Kouchou-sensei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182208.jpg</picture>
+<seiyuu id="32216" picture="223331.jpg">Sasa Kenta</seiyuu>
+</character>
+<character id="79765" type="secondary cast in" update="2016-02-04">
+<name>Shirai-sensei</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182207.jpg</picture>
+<seiyuu id="32675" picture="149044.jpg">Ozaki Mami</seiyuu>
+</character>
+<character id="79767" type="secondary cast in" update="2016-02-04">
+<name>Honkan-san</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182209.jpg</picture>
+<seiyuu id="44788" picture="182220.jpg">Shiomi Souma</seiyuu>
+</character>
+<character id="79768" type="secondary cast in" update="2016-02-04">
+<name>Nora Wani</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>182210.jpg</picture>
+<seiyuu id="32614" picture="87675.jpg">Fujita Nao</seiyuu>
+</character>
+<character id="79769" type="secondary cast in" update="2016-03-05">
+<name>Kaketsu Kouta</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183717.jpg</picture>
+<seiyuu id="32950" picture="171948.jpg">Kurokawa Mayumi</seiyuu>
+</character>
+<character id="79770" type="secondary cast in" update="2016-03-05">
+<name>Watanabe Haruhiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183718.jpg</picture>
+<seiyuu id="32614" picture="87675.jpg">Fujita Nao</seiyuu>
+</character>
+<character id="79771" type="secondary cast in" update="2016-03-05">
+<name>Tanaka Eiji</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183716.jpg</picture>
+<seiyuu id="33959" picture="203633.jpg">Toda Megumi</seiyuu>
+</character>
+<character id="79772" type="secondary cast in" update="2016-03-05">
+<name>Okano Madoka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183721.jpg</picture>
+<seiyuu id="11102" picture="151678.jpg">Sugaya Yayoi</seiyuu>
+</character>
+<character id="79773" type="secondary cast in" update="2016-03-05">
+<name>Harashima Miki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183719.jpg</picture>
+<seiyuu id="37025" picture="136096.jpg">Mikami Yurie</seiyuu>
+</character>
+<character id="79774" type="secondary cast in" update="2016-03-05">
+<name>Ichikawa Aya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183720.jpg</picture>
+<seiyuu id="42340" picture="170970.jpg">Mikutsu Yuuko</seiyuu>
+</character>
+<character id="79775" type="secondary cast in" update="2016-03-05">
+<name>Hoshino Akemi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183715.jpg</picture>
+<seiyuu id="32675" picture="149044.jpg">Ozaki Mami</seiyuu>
+</character>
+<character id="80701" type="appears in" update="2016-03-05">
+<name>Kazaguruma Tsuruo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183727.jpg</picture>
+<seiyuu id="44788" picture="182220.jpg">Shiomi Souma</seiyuu>
+</character>
+<character id="80702" type="appears in" update="2016-03-05">
+<rating votes="1">10.00</rating>
+<name>Kazaguruma Fuuka</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183728.jpg</picture>
+<seiyuu id="37025" picture="136096.jpg">Mikami Yurie</seiyuu>
+</character>
+<character id="80703" type="appears in" update="2016-03-05">
+<name>Amamiya Takamasa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183726.jpg</picture>
+<seiyuu id="40504" picture="158574.jpg">Watanuki Ryuunosuke</seiyuu>
+</character>
+<character id="80704" type="appears in" update="2016-03-05">
+<name>Amamiya Mai</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183725.jpg</picture>
+<seiyuu id="32614" picture="87675.jpg">Fujita Nao</seiyuu>
+</character>
+<character id="80705" type="appears in" update="2016-03-05">
+<name>Amamiya Utako</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183733.jpg</picture>
+<seiyuu id="38551" picture="143534.jpg">Inoue Yuuko</seiyuu>
+</character>
+<character id="80706" type="appears in" update="2016-03-05">
+<name>Tsubasa no Chichioya</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183734.jpg</picture>
+</character>
+<character id="80707" type="appears in" update="2016-03-05">
+<name>Tsubasa no Hahaoya</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183735.jpg</picture>
+</character>
+<character id="80708" type="appears in" update="2016-03-05">
+<name>Kankurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183729.jpg</picture>
+<seiyuu id="6126" picture="37816.jpg">Hamazoe Shin`ya</seiyuu>
+</character>
+<character id="80709" type="appears in" update="2016-03-05">
+<name>Jigoku no Odoriko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183736.jpg</picture>
+<seiyuu id="40914" picture="161859.jpg">Furukawa Yutaka</seiyuu>
+</character>
+<character id="80710" type="appears in" update="2016-03-05">
+<name>Yahata</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183730.jpg</picture>
+<seiyuu id="28872" picture="66014.jpg">Kitamura Kenji</seiyuu>
+</character>
+<character id="80711" type="appears in" update="2016-03-05">
+<name>Breakin (Dance World Jidai)</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183724.jpg</picture>
+<seiyuu id="28881" picture="66208.jpg">Sakurai Tooru</seiyuu>
+</character>
+<character id="80712" type="appears in" update="2016-03-05">
+<name>Murasaki Zukking</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>183737.jpg</picture>
+<seiyuu id="45114" picture="183738.jpg">Genking</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="172314" update="2016-11-21">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2015-11-08</airdate>
+<title xml:lang="ja">イジイジ踊れ!? 指先ダンス</title>
+<title xml:lang="en">Fidgety Dancing?! The Fingertip Dance!</title>
+<title xml:lang="x-jat">Ijiiji Odore!? Yubisaki Dance</title>
+<summary>Hibiki`s classmate Akemi is a gloomy girl who likes collecting rocks. When she`s possessed by a Dance Stone she finds in a shrine, the fidgety movements of her fingers cause her negativity to overtake the entire town. It`s up to Hibiki and Kotone to combine their dance skills and purge her of the Dance Stone`s influence.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687085</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172315" update="2016-11-21">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2015-10-25</airdate>
+<title xml:lang="ja">踊るヒロイン!! 超モフる~♪</title>
+<title xml:lang="en">The Dancing Heroine!! Super Fluff-a-roo!</title>
+<title xml:lang="x-jat">Odoru Heroine! Chou Mofuru</title>
+<summary>A Dancerian that looks like a rabbit falls into Kotone`s house. Her name is Adeline, and she offers to help Kotone find and thank the mysterious man who saved her, even though she doesn`t know who he is or where to find him. Their search goes on, until one day, Mink and Tank attack the town bazaar, and Flash Beat arrives to stop them. But when he messes up his finishing move, Kotone and Adoline must transform into Wink Beat to save the day!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687083</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172316" update="2016-11-21">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2015-10-18</airdate>
+<title xml:lang="ja">踊る恐竜大進撃!!</title>
+<title xml:lang="en">Attack on, Dancing Dinosaur!!</title>
+<title xml:lang="x-jat">Odoru Kyouryuu Dai Shingeki</title>
+<summary>Breakin asks for Hibiki`s continued help in gathering the Dance Stones, but Hibiki refuses, insisting that dancing is too embarrassing. The two get in a fight, and Breakin storms out. Meanwhile, professional thieves Mink and Tank break into a museum where a Dance Stone is on display. When they`re cornered by police, they use the Dance Stone to bring a dinosaur model to life! Hibiki and Breakin realize what`s happened, and transform into Flash Beat once more to stop the dinosaur`s rampage.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687081</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172317" update="2016-11-21">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2015-10-11</airdate>
+<rating votes="1">1.49</rating>
+<title xml:lang="ja">踊るヒーロー!? 俺のダンスに惚れてみな!!</title>
+<title xml:lang="en">The Dancing Hero?! Fall in Love with My Dance!!</title>
+<title xml:lang="x-jat">Odoru Hero!? Ore no Dance ni Horete Mina!!</title>
+<summary>The Dancerian, Breakin, challenges the King of Dance and loses, getting his Dance Stones scattered across Earth. He must collect them all in order to fight the King again, but he needs the help of an Earthling, Hibiki, to do so.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687079</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172549" update="2015-10-13">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2015-10-11</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="172656" update="2015-10-18">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2015-10-18</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="172867" update="2016-11-21">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2015-11-22</airdate>
+<title xml:lang="ja">恐怖!! 地獄の踊り子</title>
+<title xml:lang="en">Terror! Hell`s Dancer!</title>
+<title xml:lang="x-jat">Kyoufu!! Jigoku no Odoriko</title>
+<summary>A comet called Hell`s Dancer is approaching Earth, drawn by the Dancerians` power. While Breakin and Adeline return to Dance World to implore the King of Dance for help, Hibiki and Kotone try to warn people back home of the planet`s impending destruction.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687089</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="172868" update="2016-11-21">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2015-11-15</airdate>
+<title xml:lang="ja">強敵現る! ダンスブレイブ!!</title>
+<title xml:lang="en">A Rival Appears! Dance Brave!</title>
+<title xml:lang="x-jat">Kyouteki Arawaru! Dance Brave!!</title>
+<summary>A transfer student named Maito comes to Hibiki and Kotone`s class. He`s handsome, smart, good at sports, and generally perfect all around. But when Maito joins them for a trip to a local museum, they run into trouble from Mink and Tank... and the powerful dancer, Choreo, who challenges them to a "Dance Brave"!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687087</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173090" update="2016-11-21">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2015-12-06</airdate>
+<title xml:lang="ja">踊る社長は小学生!!</title>
+<title xml:lang="en">The Dancing President Is in Elementary School!</title>
+<title xml:lang="x-jat">Odoru Shachou wa Shougakusei!!</title>
+<summary>Hibiki wants to track him down the new hero Air Beat and get him to join their team. It turns out that Air Beat`s true identity is Kaneyama Charlie Tsubasa, a fourth grader who runs his own company! Although Tsubasa initially refuses Hibiki`s offer, when Mink and Tank steal his precious rocking horse, he might just have to rethink it...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687093</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173091" update="2016-11-21">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2015-11-29</airdate>
+<title xml:lang="ja">ピタッと踊れ! 響と舞人</title>
+<title xml:lang="en">Precision Dancing! Hibiki and Maito!</title>
+<title xml:lang="x-jat">Pitatto Odore! Hibiki to Maito</title>
+<summary>Hibiki and his friends go to visit an old clock tower scheduled for demolition, but it turns out the tower is possessed by a Dance Stone! When Choreo, Mink, and Tank show up to steal the Brave Stone, Flash Beat and Wink Beat appear to be out of their league... until they`re saved by a mysterious new hero: Air Beat!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687091</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173573" update="2016-11-21">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2016-01-17</airdate>
+<title xml:lang="ja">踊る恋心!? ミンク・タンクの休日</title>
+<title xml:lang="en">Dancing Love?! Mink and Tank`s Day Off!</title>
+<title xml:lang="x-jat">Odoru Koigokoro!? Mink Tank no Kyuujitsu</title>
+<summary>Mink and Tank take a break from the thief business to go on vacation, but end up quarreling over Tank`s repeated blunders. When the depressed Tank runs off and gets possessed by a Dance Stone, can the power of Mink`s love snap him out of it?!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687101</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173574" update="2016-11-21">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2015-12-27</airdate>
+<title xml:lang="ja">激闘!? はじめてのおつかい</title>
+<title xml:lang="en">Fierce Battle?! A First-Time Errand!</title>
+<title xml:lang="x-jat">Gekitou!? Hajimete no Otsukai</title>
+<summary>Hibiki has cooking class, but he forgets to take the onions with him. He calls home, only to find that Breakin`s the only one there. And so Hibiki asks Breakin to bring him the onions.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687099</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173575" update="2016-11-21">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2015-12-20</airdate>
+<title xml:lang="ja">サンタクロースは慌てんぼう?</title>
+<title xml:lang="en">Santa Claus Is in a Hurry?!</title>
+<title xml:lang="x-jat">Santa Claus wa Awatenbou?</title>
+<summary>While out shopping, Hibiki and Breakin pursue a falling light they assume is a Dance Stone, but turns out to be... Santa Claus! They bring the super-macho Santa to their school Christmas party, but it`s interrupted by Mink and Tank trying to steal their Christmas tree.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687097</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173576" update="2016-11-21">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2015-12-13</airdate>
+<title xml:lang="ja">オドる大交差点!!!!</title>
+<title xml:lang="en">The Dancing Intersection!!</title>
+<title xml:lang="x-jat">Odoru Daikousaten!!!!</title>
+<summary>Tsubasa takes Hibiki, Kotone, and the Dancerians out for a barbecue to strengthen the bonds of their friendship, but a series of selfish actions just leads to everyone fighting! Can the team get back together in time to stop chaos at a local intersection?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687095</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="173939" update="2016-11-21">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2016-01-24</airdate>
+<title xml:lang="ja">レッツチキン! 琴音の弱点!</title>
+<title xml:lang="en">Let`s Chicken! Kotone`s Weak Point!</title>
+<title xml:lang="x-jat">Let`s Chicken! Kotone no Jakuten!</title>
+<summary>Hibiki is tired of being bossed down by honor student Kotone, and decides to try and find her weak point. But just when the search appears hopeless, the school`s pet chicken escapes from its cage...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>687103</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="174551" update="2016-11-21">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2016-02-21</airdate>
+<title xml:lang="ja">ハッスル翼! 踊る誕生日会!!</title>
+<title xml:lang="en">Hustle, Tsubasa! The Dancing Birthday Party!</title>
+<title xml:lang="x-jat">Hustle Tsubasa! Odoru Tanjoubikai!</title>
+<summary>For the first time in his busy life, Tsubasa is invited to a classmate`s birthday party. Owl is worried that Tsubasa will embarrass himself, and his fears quickly turn out to be justified. When Tsubasa destroys the birthday girl`s cake, he scrambles to find ingredients to make a new one, only to find the town suffering from a curious chocolate shortage...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692079</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="174552" update="2016-11-21">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2016-02-14</airdate>
+<title xml:lang="ja">踊るくの一! 母さんのヒミツ!?</title>
+<title xml:lang="en">The Dancing Lady Ninja! Mom`s Secret?!</title>
+<title xml:lang="x-jat">Odoru Kunoichi! Kaasan no Himitsu!</title>
+<summary>Hibiki`s mother, Fuuka, knows everything about her son, to the point where Breakin and Adeline decide she must be a ninja! Then, when Hibiki`s class takes a field trip to a ninja castle, Fuuka is possessed by a Dance Stone. It will take Flash Beat everything he has to restore his mother to her old self!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692077</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="174553" update="2016-11-21">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2016-02-07</airdate>
+<title xml:lang="ja">踊る王子はそっくりさん!?</title>
+<title xml:lang="en">The Dancing Prince Looks Just Like Me?!</title>
+<title xml:lang="x-jat">Odoru Ouji wa Sokkuri-san!?</title>
+<summary>On his way to dance practice, Hibiki runs into a young prince... who looks exactly like him! The two decide to switch places for a day, but when it`s time to switch back, they`re interrupted by Mink and Tank looking for a dance stone.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692075</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="174554" update="2016-11-21">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2016-01-31</airdate>
+<title xml:lang="ja">タイムスリップ! きっかけはパンツストーン?</title>
+<title xml:lang="en">Time Travel! The Cause Was a Pants Stone?!</title>
+<title xml:lang="x-jat">Time Slip! Kikkake wa Pantsu Stone?</title>
+<summary>A misguided attempt to fix a crick in Breakin`s neck sends Hibiki and the gang back to the past. There, they meet a much younger Hibiki, who is preparing to dance at a festival competition. But will a terrible moment of embarrassment crush his dancing dreams?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692073</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="174712" update="2016-11-21">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2016-02-28</airdate>
+<title xml:lang="ja">とびちる汗!!! 踊るダンス王</title>
+<title xml:lang="en">Scattering Sweat! The Dancing King of Dance!</title>
+<title xml:lang="x-jat">Tobichiru Ase!!! Odoru Dance Ou</title>
+<summary>Adeline is stuck with an illness that leaves her upside-down and spinning! To cure her, they need to petition the King of Dance himself... which leads to an all-out dance battle between him and Flash Beat!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692081</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="175504" update="2016-11-21">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2016-03-27</airdate>
+<title xml:lang="ja">ステップオン! 俺達のダンスに惚れてみな!!</title>
+<title xml:lang="en">Step On! Fall in Love with Our Dance!!</title>
+<title xml:lang="x-jat">Step On! Oretachi no Dance ni Horete Mina!!</title>
+<summary>The final Dance Brave with Choreo begins! The Brave Beats will put their souls on the line to dance, to save Maito and triumph over the dance of evil!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692089</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="175505" update="2016-11-21">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2016-03-20</airdate>
+<title xml:lang="ja">立ち上がれ響! 決戦ダンスワールド!!</title>
+<title xml:lang="en">Stand Up, Hibiki! The Decisive Battle in Danceworld!</title>
+<title xml:lang="x-jat">Tachiagare Hibiki! Kessen Dance World!!</title>
+<summary>After plunging Hibiki into the depths of despair, Choreo has stolen the throne of Danceworld and begun unleashing havoc upon the universe. Can the power of dance bring Flash Beat back? And what is the secret behind Maito`s terrible resentment?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692087</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="175506" update="2016-11-21">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2016-03-13</airdate>
+<title xml:lang="ja">響と舞人</title>
+<title xml:lang="en">Hibiki and Maito</title>
+<title xml:lang="x-jat">Hibiki to Maito</title>
+<summary>Hibiki and Breakin find the final Dance Stone while on a class trip to Niki Niki Ninja Village. But Maito shows up to interrupt, and reveals that his true identity is nothing less than the Brave Beats` nemesis, Choreo!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692085</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="175507" update="2016-11-21">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2016-03-06</airdate>
+<title xml:lang="ja">俺は見た! 舞人の心はミステリー</title>
+<title xml:lang="en">I Saw It! Maito`s Heart Is a Mystery!</title>
+<title xml:lang="x-jat">Ore wa Mita! Maito no Kokoro wa Mystery</title>
+<summary>A Dance Stone mishap leads to the whole team switching bodies! The classmates are in a panic trying to get Hibiki and Maito to switch back, but while inside Maito`s body, Hibiki witnesses a curious sight...
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>692083</identifier>
+<identifier>brave-beats</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

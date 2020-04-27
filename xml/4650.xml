@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4650" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2000-07-15</startdate>
+<enddate>2000-07-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Eiga Ojarumaru: Yakusoku no Natsu Ojaru to Semira</title>
+<title xml:lang="ja" type="official">映画 おじゃる丸 約束の夏 おじゃるとせみら</title>
+</titles>
+<relatedanime>
+<anime id="4649" type="Parent Story">Ojarumaru</anime>
+</relatedanime>
+<creators>
+<name id="753" type="Animation Work">Gallop</name>
+<name id="10179" type="Original Plan">Inumaru Rin</name>
+<name id="115" type="Character Design">Watanabe Hajime</name>
+<name id="1423" type="Direction">Daichi Akitarou</name>
+<name id="5147" type="Music">Yamamoto Harukichi</name>
+</creators>
+<description>A short film introduces Semira, a strange boy who comes to play with Ojaru and his chums and bears a marked resemblance to a boy of the same name who spent a summer with the village elders when they were boys, long ago.
+Source: AnimeVice</description>
+<ratings>
+<permanent count="2">1.52</permanent>
+<temporary count="2">2.00</temporary>
+</ratings>
+<picture>11202.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14739</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>16480</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2979</identifier>
+<identifier>biwsst</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>234070</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>3948</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="57885" update="2017-11-02">
+<epno type="1">1</epno>
+<length>50</length>
+<airdate>2000-07-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

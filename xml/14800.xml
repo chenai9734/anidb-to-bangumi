@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14800" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1978-03-11</startdate>
+<enddate>1978-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Oyako Nezumi no Fushigi na Tabi</title>
+<title xml:lang="ja" type="official">親子ねずみの不思議な旅</title>
+</titles>
+<description>Japanese-American co-production. Screened at least in some US-cinemas in 1977.</description>
+<ratings>
+<permanent count="4">8.68</permanent>
+<temporary count="4">7.00</temporary>
+</ratings>
+<picture>231739.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>4112</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>146240</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="214741" update="2019-05-12">
+<epno type="1">1</epno>
+<length>85</length>
+<airdate>1978-03-11</airdate>
+<title xml:lang="en">Movie</title>
+</episode>
+</episodes>
+</anime>

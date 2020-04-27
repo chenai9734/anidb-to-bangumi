@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11558" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2014-09-18</startdate>
+<enddate>2014-09-18</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Majin Sentai Death Ranger: Ubawareta Pudding!</title>
+<title xml:lang="en" type="synonym">YouTube Space Tokyo</title>
+<title xml:lang="ja" type="official">魔人戦隊 デスレンジャー「奪われたプリン!」</title>
+</titles>
+<relatedanime>
+<anime id="11557" type="Other">Ball yo Doko e Yuku</anime>
+</relatedanime>
+<description>Stop-motion animation about a pudding.</description>
+<ratings>
+<permanent count="16">2.99</permanent>
+<temporary count="16">4.18</temporary>
+</ratings>
+<picture>177161.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30094</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=ArdQsoWgjnU</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="3206" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-09-06">
+<name>stop motion</name>
+<description>Stop motion (also known as stop-action or frame-by-frame) is an animation technique to make a physically manipulated object appear to move on its own. The object is moved in small increments between individually photographed frames, creating the illusion of movement when the series of frames is played as a continuous sequence.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="172052" update="2015-09-27">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2014-11-18</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+</episodes>
+</anime>

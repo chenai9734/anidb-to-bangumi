@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7471" restricted="false">
+<type>TV Special</type>
+<episodecount>1</episodecount>
+<startdate>1981-04-12</startdate>
+<enddate>1981-04-12</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Toshishun</title>
+<title xml:lang="ja" type="official">杜子春</title>
+</titles>
+<creators>
+<name id="4979" type="Character Design">Kabashima Yoshio</name>
+<name id="10173" type="Original Work">Akutagawa Ryuunosuke</name>
+<name id="7393" type="Music">Yamamoto Naozumi</name>
+</creators>
+<description>The Chinese tale of the poor young man. His mother married with cruel king of the state and he want to take his mother back. One old man come from the heaven and make his three wishes come true.
+Source: ANN</description>
+<ratings>
+<permanent count="6">3.88</permanent>
+<temporary count="6">4.00</temporary>
+</ratings>
+<picture>10012.jpeg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>6848</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>6124</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235479</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="117290" update="2015-11-09">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>1981-04-12</airdate>
+<title xml:lang="en">TV Special</title>
+</episode>
+</episodes>
+</anime>

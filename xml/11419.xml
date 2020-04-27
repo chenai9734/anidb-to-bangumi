@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11419" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2013-09-25</startdate>
+<enddate>2013-09-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kikyuu</title>
+<title xml:lang="en" type="synonym">Balloon</title>
+<title xml:lang="ja" type="official">気球</title>
+</titles>
+<url>http://ryukato.net/images/works/worksfile/kikyu_jpg/kikyu.html</url>
+<description>Music Video for `Balloon` by http://anidb.net/cr40069 [People in the Box], animated by http://anidb.net/cr47027 [Ryu Kato].</description>
+<ratings>
+<permanent count="51">5.04</permanent>
+<temporary count="51">5.29</temporary>
+</ratings>
+<picture>175624.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29770</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://ryukato.net/images/works/worksfile/kikyu_jpg/kikyu.html</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=6W8aw90ulhU</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2931" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2016-12-04">
+<name>unsorted</name>
+<description>a bunch of tags that still need to be either deleted or moved into proper places.</description>
+</tag>
+<tag id="3546" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-01-08">
+<name>experimental animation</name>
+<description>This anime uses distinct, alternative animation — much unlike other contemporary anime — either throughout or in individual episodes/sequences.</description>
+</tag>
+<tag id="4280" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false" update="2008-06-02">
+<name>surreal</name>
+<description>Refers to things or occurrences that are generally bizarre or dreamlike, with the relentless capability of replacing reality through the eyes of the beholder. Surrealism is boundless, limited only by thought itself.</description>
+</tag>
+<tag id="5257" parentid="2931" weight="0" localspoiler="false" globalspoiler="false" verified="false">
+<name>psychedelic</name>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="170098" update="2015-07-19">
+<epno type="1">1</epno>
+<length>6</length>
+<airdate>2013-09-25</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

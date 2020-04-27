@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9936" restricted="false">
+<type>Web</type>
+<episodecount>78</episodecount>
+<startdate>2013-07-02</startdate>
+<enddate>2013-12-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Go! Go! Kadendanshi</title>
+<title xml:lang="ja" type="official">Go!Go!家電男子</title>
+</titles>
+<relatedanime>
+<anime id="10732" type="Sequel">Go! Go! Kadendanshi (2014)</anime>
+</relatedanime>
+<url>http://kadendanshi.com/</url>
+<creators>
+<name id="12416" type="Animation Work">DLE</name>
+</creators>
+<ratings>
+<permanent count="13">2.42</permanent>
+<temporary count="13">3.84</temporary>
+</ratings>
+<picture>138837.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19169</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kadendanshi.com/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>Go!Go!家電男子</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3584</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>346261</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="151757" update="2013-07-09">
+<epno type="1">1</epno>
+<length>1</length>
+<title xml:lang="ja">自己紹介</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Jikoshoukai</title>
+</episode>
+<episode id="151758" update="2013-07-09">
+<epno type="1">3</epno>
+<length>1</length>
+<title xml:lang="ja">モテる仕草</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Moteru Shigusa</title>
+</episode>
+<episode id="151759" update="2013-07-09">
+<epno type="1">2</epno>
+<length>1</length>
+<title xml:lang="ja">就活</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Shuukatsu</title>
+</episode>
+<episode id="152343" update="2013-08-04">
+<epno type="1">13</epno>
+<length>1</length>
+<title xml:lang="ja">いいね</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Ii ne</title>
+</episode>
+<episode id="152344" update="2013-08-04">
+<epno type="1">12</epno>
+<length>1</length>
+<title xml:lang="ja">終電論</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Shuudenron</title>
+</episode>
+<episode id="152345" update="2013-08-04">
+<epno type="1">11</epno>
+<length>1</length>
+<title xml:lang="ja">新会長</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Shin Kaichou</title>
+</episode>
+<episode id="152346" update="2013-08-04">
+<epno type="1">10</epno>
+<length>1</length>
+<title xml:lang="ja">お釣り</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Otsuri</title>
+</episode>
+<episode id="152347" update="2013-08-04">
+<epno type="1">9</epno>
+<length>1</length>
+<title xml:lang="ja">温泉の計画</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Onsen no Keikaku</title>
+</episode>
+<episode id="152348" update="2013-08-04">
+<epno type="1">8</epno>
+<length>1</length>
+<title xml:lang="ja">サカナクション</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Sakanaction</title>
+</episode>
+<episode id="152349" update="2013-08-04">
+<epno type="1">7</epno>
+<length>1</length>
+<title xml:lang="ja">立ち読み</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Tachiyomi</title>
+</episode>
+<episode id="152350" update="2013-08-04">
+<epno type="1">6</epno>
+<length>1</length>
+<title xml:lang="ja">出逢い③</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Deai 3</title>
+</episode>
+<episode id="152351" update="2013-08-04">
+<epno type="1">5</epno>
+<length>1</length>
+<title xml:lang="ja">出逢い②</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Deai 2</title>
+</episode>
+<episode id="152352" update="2013-08-04">
+<epno type="1">4</epno>
+<length>1</length>
+<title xml:lang="ja">出逢い</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Deai</title>
+</episode>
+<episode id="152461" update="2013-08-11">
+<epno type="1">16</epno>
+<length>1</length>
+<title xml:lang="ja">水着論</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Mizugiron</title>
+</episode>
+<episode id="152462" update="2013-08-11">
+<epno type="1">15</epno>
+<length>1</length>
+<title xml:lang="ja">ポットンの才能</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Potton no Sainou</title>
+</episode>
+<episode id="152463" update="2013-08-11">
+<epno type="1">14</epno>
+<length>1</length>
+<title xml:lang="ja">褒め上手</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Home Jouzu</title>
+</episode>
+<episode id="152926" update="2013-08-29">
+<epno type="1">25</epno>
+<length>1</length>
+<title xml:lang="ja">犬を飼おう</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="x-jat">Inu o Kaou</title>
+</episode>
+<episode id="152927" update="2013-08-29">
+<epno type="1">24</epno>
+<length>1</length>
+<title xml:lang="ja">○○っぽい</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="x-jat">OOppoi</title>
+</episode>
+<episode id="152928" update="2013-08-29">
+<epno type="1">23</epno>
+<length>1</length>
+<title xml:lang="ja">ニコニコマート</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="x-jat">Nikonikomaato</title>
+</episode>
+<episode id="152929" update="2013-08-29">
+<epno type="1">22</epno>
+<length>1</length>
+<title xml:lang="ja">日常</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="x-jat">Nichijou</title>
+</episode>
+<episode id="152930" update="2013-08-29">
+<epno type="1">21</epno>
+<length>1</length>
+<title xml:lang="ja">せんぷう子登場</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="x-jat">Senpuu Ko Toujou</title>
+</episode>
+<episode id="152931" update="2013-08-29">
+<epno type="1">20</epno>
+<length>1</length>
+<title xml:lang="ja">悪自慢</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="x-jat">Aku Jiman</title>
+</episode>
+<episode id="152932" update="2013-08-29">
+<epno type="1">19</epno>
+<length>1</length>
+<title xml:lang="ja">ガッキー</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="x-jat">Gakkii</title>
+</episode>
+<episode id="152933" update="2013-08-29">
+<epno type="1">18</epno>
+<length>1</length>
+<title xml:lang="ja">謝罪</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="x-jat">Shazai</title>
+</episode>
+<episode id="152934" update="2013-08-29">
+<epno type="1">17</epno>
+<length>1</length>
+<title xml:lang="ja">聞き間違い</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="x-jat">Kiki Machigai</title>
+</episode>
+<episode id="154191" update="2013-09-17">
+<epno type="1">32</epno>
+<length>1</length>
+<title xml:lang="ja">デートの誘い方</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="x-jat">Date no Sasoi Kata</title>
+</episode>
+<episode id="154192" update="2013-09-17">
+<epno type="1">31</epno>
+<length>1</length>
+<title xml:lang="ja">ドラムのTwitter</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="x-jat">Drum no Twitter</title>
+</episode>
+<episode id="154193" update="2013-09-17">
+<epno type="1">30</epno>
+<length>1</length>
+<title xml:lang="ja">女子の髪型</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="x-jat">Joshi no Kamigata</title>
+</episode>
+<episode id="154194" update="2013-09-17">
+<epno type="1">29</epno>
+<length>1</length>
+<title xml:lang="ja">ソウジッキー</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="x-jat">Soujikkii</title>
+</episode>
+<episode id="154195" update="2013-09-17">
+<epno type="1">28</epno>
+<length>1</length>
+<title xml:lang="ja">悟り</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="x-jat">Satori</title>
+</episode>
+<episode id="154196" update="2013-09-17">
+<epno type="1">27</epno>
+<length>1</length>
+<title xml:lang="ja">ゆるキャラ</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="x-jat">Yuru Chara</title>
+</episode>
+<episode id="154197" update="2013-09-17">
+<epno type="1">26</epno>
+<length>1</length>
+<title xml:lang="ja">愛犬</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="x-jat">Aiken</title>
+</episode>
+<episode id="156313" update="2013-11-24">
+<epno type="1">62</epno>
+<length>1</length>
+<title xml:lang="ja">スマートテレビ</title>
+<title xml:lang="en">Episode 62</title>
+<title xml:lang="x-jat">Smart TV</title>
+</episode>
+<episode id="156314" update="2013-11-24">
+<epno type="1">61</epno>
+<length>1</length>
+<title xml:lang="ja">メガネと女子</title>
+<title xml:lang="en">Episode 61</title>
+<title xml:lang="x-jat">Megane to Joshi</title>
+</episode>
+<episode id="156315" update="2013-11-24">
+<epno type="1">60</epno>
+<length>1</length>
+<title xml:lang="ja">グッズ展開</title>
+<title xml:lang="en">Episode 60</title>
+<title xml:lang="x-jat">Guzzu Tenkai</title>
+</episode>
+<episode id="156316" update="2013-11-24">
+<epno type="1">59</epno>
+<length>1</length>
+<title xml:lang="ja">花澤さんもの</title>
+<title xml:lang="en">Episode 59</title>
+<title xml:lang="x-jat">Hanazawa-san Mono</title>
+</episode>
+<episode id="156317" update="2013-11-24">
+<epno type="1">58</epno>
+<length>1</length>
+<title xml:lang="ja">無人島に持っていくもの</title>
+<title xml:lang="en">Episode 58</title>
+<title xml:lang="x-jat">Mujintou ni Motte Iku Mono</title>
+</episode>
+<episode id="156318" update="2013-11-24">
+<epno type="1">57</epno>
+<length>1</length>
+<title xml:lang="ja">ナンバー1くじ</title>
+<title xml:lang="en">Episode 57</title>
+<title xml:lang="x-jat">Number 1 Kuji</title>
+</episode>
+<episode id="156319" update="2013-11-24">
+<epno type="1">56</epno>
+<length>1</length>
+<title xml:lang="ja">ミラクルバナナ</title>
+<title xml:lang="en">Episode 56</title>
+<title xml:lang="x-jat">Miracle Banana</title>
+</episode>
+<episode id="156320" update="2013-11-24">
+<epno type="1">55</epno>
+<length>1</length>
+<title xml:lang="ja">関西からの刺客</title>
+<title xml:lang="en">Episode 55</title>
+<title xml:lang="x-jat">Kansai kara no Shikaku</title>
+</episode>
+<episode id="156321" update="2013-11-24">
+<epno type="1">54</epno>
+<length>1</length>
+<title xml:lang="ja">新レギュラー③</title>
+<title xml:lang="en">Episode 54</title>
+<title xml:lang="x-jat">Shin Regular 3</title>
+</episode>
+<episode id="156322" update="2013-11-24">
+<epno type="1">53</epno>
+<length>1</length>
+<title xml:lang="ja">新レギュラー②</title>
+<title xml:lang="en">Episode 53</title>
+<title xml:lang="x-jat">Shin Regular 2</title>
+</episode>
+<episode id="156323" update="2013-11-24">
+<epno type="1">52</epno>
+<length>1</length>
+<title xml:lang="ja">新レギュラー①</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="x-jat">Shin Regular 1</title>
+</episode>
+<episode id="156324" update="2013-11-24">
+<epno type="1">51</epno>
+<length>1</length>
+<title xml:lang="ja">アフレコ!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="x-jat">Afureko!</title>
+</episode>
+<episode id="156325" update="2013-11-24">
+<epno type="1">50</epno>
+<length>1</length>
+<title xml:lang="ja">回転寿司</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="x-jat">Kaiten Sushi</title>
+</episode>
+<episode id="156326" update="2013-11-24">
+<epno type="1">49</epno>
+<length>1</length>
+<title xml:lang="ja">2045年問題</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="x-jat">2045-nen Mondai</title>
+</episode>
+<episode id="156327" update="2013-11-24">
+<epno type="1">48</epno>
+<length>1</length>
+<title xml:lang="ja">腕まくら</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="x-jat">Ude Makura</title>
+</episode>
+<episode id="156328" update="2013-11-24">
+<epno type="1">47</epno>
+<length>1</length>
+<title xml:lang="ja">反省会</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="x-jat">Hanseikai</title>
+</episode>
+<episode id="156329" update="2013-11-24">
+<epno type="1">46</epno>
+<length>1</length>
+<title xml:lang="ja">未来からの警告</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="x-jat">Mirai kara no Keikoku</title>
+</episode>
+<episode id="156330" update="2013-11-24">
+<epno type="1">45</epno>
+<length>1</length>
+<title xml:lang="ja">ビデオテープさん</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="x-jat">Videotape-san</title>
+</episode>
+<episode id="156331" update="2013-11-24">
+<epno type="1">44</epno>
+<length>1</length>
+<title xml:lang="ja">運動会</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="x-jat">Undoukai</title>
+</episode>
+<episode id="156332" update="2013-11-24">
+<epno type="1">43</epno>
+<length>1</length>
+<title xml:lang="ja">鷹の爪団登場!</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="x-jat">Tako no Tsumedan Toujou!</title>
+</episode>
+<episode id="156333" update="2013-11-24">
+<epno type="1">42</epno>
+<length>1</length>
+<title xml:lang="ja">それが大事</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="x-jat">Sore ga Daiji</title>
+</episode>
+<episode id="156334" update="2013-11-24">
+<epno type="1">41</epno>
+<length>1</length>
+<title xml:lang="ja">浮気</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="x-jat">Uwaki</title>
+</episode>
+<episode id="156335" update="2013-11-24">
+<epno type="1">40</epno>
+<length>1</length>
+<title xml:lang="ja">予測</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="x-jat">Yosoku</title>
+</episode>
+<episode id="156336" update="2013-11-24">
+<epno type="1">39</epno>
+<length>1</length>
+<title xml:lang="ja">ギターさん</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="x-jat">Guitar-san</title>
+</episode>
+<episode id="156337" update="2013-11-24">
+<epno type="1">38</epno>
+<length>1</length>
+<title xml:lang="ja">お泊まりの誘い方</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="x-jat">Otomari no Sasoi Kata</title>
+</episode>
+<episode id="156338" update="2013-11-24">
+<epno type="1">37</epno>
+<length>1</length>
+<title xml:lang="ja">結婚</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="x-jat">Kekkon</title>
+</episode>
+<episode id="156339" update="2013-11-24">
+<epno type="1">36</epno>
+<length>1</length>
+<title xml:lang="ja">おっぱいスカウター</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="x-jat">Oppai Scouter</title>
+</episode>
+<episode id="156340" update="2013-11-24">
+<epno type="1">35</epno>
+<length>1</length>
+<title xml:lang="ja">胸パッド</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="x-jat">Mune Pad</title>
+</episode>
+<episode id="156341" update="2013-11-24">
+<epno type="1">34</epno>
+<length>1</length>
+<title xml:lang="ja">サインプレー</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="x-jat">Sign Puree</title>
+</episode>
+<episode id="156342" update="2013-11-24">
+<epno type="1">33</epno>
+<length>1</length>
+<title xml:lang="ja">修羅場回避法</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="x-jat">Shuraba Kaihi Hou</title>
+</episode>
+<episode id="156488" update="2013-12-04">
+<epno type="1">66</epno>
+<length>1</length>
+<title xml:lang="ja">ビデオカメラくん</title>
+<title xml:lang="en">Episode 66</title>
+<title xml:lang="x-jat">Videocamera-kun</title>
+</episode>
+<episode id="156489" update="2013-12-04">
+<epno type="1">65</epno>
+<length>1</length>
+<title xml:lang="ja">HERO TV</title>
+<title xml:lang="en">Episode 65</title>
+<title xml:lang="x-jat">Hero TV</title>
+</episode>
+<episode id="156490" update="2013-12-04">
+<epno type="1">64</epno>
+<length>1</length>
+<title xml:lang="ja">女子のかわいい仕草・冬編</title>
+<title xml:lang="en">Episode 64</title>
+<title xml:lang="x-jat">Joshi no Kawaii Shigusa: Fuyu Hen</title>
+</episode>
+<episode id="156491" update="2013-12-04">
+<epno type="1">63</epno>
+<length>1</length>
+<title xml:lang="ja">75%</title>
+<title xml:lang="en">Episode 63</title>
+<title xml:lang="x-jat">75%</title>
+</episode>
+<episode id="161164" update="2014-07-08">
+<epno type="1">78</epno>
+<length>1</length>
+<title xml:lang="ja">映画化決定</title>
+<title xml:lang="en">Episode 78</title>
+<title xml:lang="x-jat">Eigaka Kettei</title>
+</episode>
+<episode id="161165" update="2014-07-08">
+<epno type="1">77</epno>
+<length>1</length>
+<title xml:lang="ja">アブノーマル度チェック</title>
+<title xml:lang="en">Episode 77</title>
+<title xml:lang="x-jat">Abnormal Do Check</title>
+</episode>
+<episode id="161166" update="2014-07-08">
+<epno type="1">76</epno>
+<length>1</length>
+<title xml:lang="ja">暖蜜先生VSビデオカメラ</title>
+<title xml:lang="en">Episode 76</title>
+<title xml:lang="x-jat">Danmitsu-sensei vs Videocamera</title>
+</episode>
+<episode id="161167" update="2014-07-08">
+<epno type="1">75</epno>
+<length>1</length>
+<title xml:lang="ja">クリスマス</title>
+<title xml:lang="en">Episode 75</title>
+<title xml:lang="x-jat">Christmas</title>
+</episode>
+<episode id="161168" update="2014-07-08">
+<epno type="1">74</epno>
+<length>1</length>
+<title xml:lang="ja">万葉倶楽部</title>
+<title xml:lang="en">Episode 74</title>
+<title xml:lang="x-jat">Manyou Club</title>
+</episode>
+<episode id="161169" update="2014-07-08">
+<epno type="1">73</epno>
+<length>1</length>
+<title xml:lang="ja">美女大国ウクライナ</title>
+<title xml:lang="en">Episode 73</title>
+<title xml:lang="x-jat">Bijo Taikoku Ukraine</title>
+</episode>
+<episode id="161170" update="2014-07-08">
+<epno type="1">72</epno>
+<length>1</length>
+<title xml:lang="ja">暖蜜先生の感じる仕草</title>
+<title xml:lang="en">Episode 72</title>
+<title xml:lang="x-jat">Danmitsu-sensei no Kanjiru Shigusa</title>
+</episode>
+<episode id="161171" update="2014-07-08">
+<epno type="1">71</epno>
+<length>1</length>
+<title xml:lang="ja">暖蜜先生とジェンガ</title>
+<title xml:lang="en">Episode 71</title>
+<title xml:lang="x-jat">Danmitsu-sensei to Jenga</title>
+</episode>
+<episode id="161172" update="2014-07-08">
+<epno type="1">70</epno>
+<length>1</length>
+<title xml:lang="ja">暖蜜先生 登場</title>
+<title xml:lang="en">Episode 70</title>
+<title xml:lang="x-jat">Danmitsu-sensei Toujou</title>
+</episode>
+<episode id="161173" update="2014-07-08">
+<epno type="1">69</epno>
+<length>1</length>
+<title xml:lang="ja">ポットンの告白大作戦~決戦は日曜日~</title>
+<title xml:lang="en">Episode 69</title>
+<title xml:lang="x-jat">Potton no Kokuhaku Daisakusen: Kessen wa Nichiyoubi</title>
+</episode>
+<episode id="161174" update="2014-07-08">
+<epno type="1">68</epno>
+<length>1</length>
+<title xml:lang="ja">ポットンの告白大作戦~作戦会議~</title>
+<title xml:lang="en">Episode 68</title>
+<title xml:lang="x-jat">Potton no Kokuhaku Daisakusen: Sakusen Kaigi</title>
+</episode>
+<episode id="161175" update="2014-07-08">
+<epno type="1">67</epno>
+<length>1</length>
+<title xml:lang="ja">ポットンの告白大作戦~出逢い~</title>
+<title xml:lang="en">Episode 67</title>
+<title xml:lang="x-jat">Potton no Kokuhaku Daisakusen: Deai</title>
+</episode>
+</episodes>
+</anime>

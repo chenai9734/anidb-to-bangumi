@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14342" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1961</startdate>
+<enddate>1961</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Plus 50000-nen</title>
+<title xml:lang="ja" type="official">プラス50000年</title>
+</titles>
+<creators>
+<name id="4559" type="Direction">Suzuki Shin`ichi</name>
+<name id="4995" type="Direction">Yokoyama Ryouichi</name>
+</creators>
+<ratings>
+<permanent count="7">2.61</permanent>
+<temporary count="7">3.42</temporary>
+</ratings>
+<picture>222998.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29898</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>17101</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="205867" update="2018-08-31">
+<epno type="1">1</epno>
+<length>9</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

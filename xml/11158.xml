@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11158" restricted="false">
+<type>unknown</type>
+<episodecount>0</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Mirai Arise</title>
+<title xml:lang="ja" type="official">ミライアライズ</title>
+</titles>
+<picture>170592.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30448</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+</anime>

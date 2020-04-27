@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9248" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>2012-12-17</startdate>
+<enddate>2013-03-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kindaichi Shounen no Jikenbo (2012)</title>
+<title xml:lang="ja" type="synonym">金田一少年の事件簿 黒魔術殺人事件</title>
+<title xml:lang="en" type="synonym">Kindaichi Case Files: Black Magic Murder Case</title>
+<title xml:lang="x-jat" type="synonym">Kindaichi Shounen no Jikenbo: Kuro Majutsu Satsujin Jiken</title>
+<title xml:lang="ja" type="official">金田一少年の事件簿 (2012)</title>
+</titles>
+<relatedanime>
+<anime id="1240" type="Other">Kindaichi Shounen no Jikenbo (1997)</anime>
+<anime id="10442" type="Other">Kindaichi Shounen no Jikenbo Returns</anime>
+</relatedanime>
+<url>http://www.kindaichi20.com/dvd_campaign.html</url>
+<creators>
+<name id="1834" type="Animation Work">Toei Animation</name>
+<name id="18282" type="Character Design">Asanuma Akihiro</name>
+<name id="6233" type="Direction">Komura Toshiaki</name>
+<name id="27327" type="Work">Hattori Tooru</name>
+<name id="9130" type="Original Work">Amagi Seimaru</name>
+<name id="18282" type="Chief Animation Direction">Asanuma Akihiro</name>
+<name id="2703" type="Music">Wada Kaoru</name>
+</creators>
+<description>The 20th-anniversary reprint of Kindaichi Shounen no Jikenbo detective manga bundled two original anime DVDs. The limited edition of the third and fourth volumes included the two-part anime adaptation of the manga`s Kuromajutsu Satsujin Jiken (Black Magic Murder Case) story arc.
+Source: ANN</description>
+<ratings>
+<permanent count="38">6.93</permanent>
+<temporary count="39">7.20</temporary>
+</ratings>
+<picture>93160.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>14724</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>15819</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>15669</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>kindaichi20</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="45815" type="main character in" update="2014-03-31">
+<rating votes="17">8.07</rating>
+<name>Kindaichi Hajime</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152543.jpg</picture>
+</character>
+<character id="45816" type="main character in" update="2014-03-31">
+<rating votes="34">7.21</rating>
+<name>Nanase Miyuki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152544.jpg</picture>
+</character>
+<character id="45818" type="secondary cast in" update="2014-03-31">
+<rating votes="12">7.28</rating>
+<name>Kenmochi Isamu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152545.jpg</picture>
+<seiyuu id="220" picture="17038.jpg">Kosugi Juurouta</seiyuu>
+</character>
+<character id="45819" type="cameo appearance in" update="2014-03-31">
+<rating votes="9">6.43</rating>
+<name>Akechi Kengo</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>152546.jpg</picture>
+<seiyuu id="341" picture="52370.jpg">Morikawa Toshiyuki</seiyuu>
+</character>
+<character id="67952" type="main character in" update="2014-06-15">
+<rating votes="25">7.04</rating>
+<name>Takatoo Youichi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>61898.png</picture>
+<seiyuu id="338" picture="17174.jpg">Ono Ken`ichi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="140034" update="2013-03-29">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>2012-12-17</airdate>
+<rating votes="1">9.94</rating>
+<title xml:lang="ja">黒魔術殺人事件 前編</title>
+<title xml:lang="en">Volume 1</title>
+<title xml:lang="x-jat">Kokumajutsu Satsujin Jiken Zenpen</title>
+</episode>
+<episode id="140035" update="2013-12-12">
+<epno type="1">2</epno>
+<length>30</length>
+<airdate>2013-03-15</airdate>
+<rating votes="1">10.00</rating>
+<title xml:lang="ja">黒魔術殺人事件 後編</title>
+<title xml:lang="en">Volume 2</title>
+<title xml:lang="x-jat">Kokumajutsu Satsujin Jiken Kouhen</title>
+</episode>
+<episode id="145259" update="2012-11-03">
+<epno type="4">T1</epno>
+<length>2</length>
+<title xml:lang="en">Trailer</title>
+</episode>
+</episodes>
+</anime>

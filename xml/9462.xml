@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9462" restricted="false">
+<type>TV Series</type>
+<episodecount>98</episodecount>
+<startdate>2006-04-05</startdate>
+<enddate>2008-03-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Tottoko Hamtarou Hai!</title>
+<title xml:lang="x-jat" type="synonym">Hamtarou: Norisuta Haai</title>
+<title xml:lang="ja" type="official">とっとこハム太郎は~い!</title>
+</titles>
+<relatedanime>
+<anime id="557" type="Prequel">Tottoko Hamtarou</anime>
+</relatedanime>
+<url>http://www.tv-tokyo.co.jp/anime/ham_hi/index.html</url>
+<creators>
+<name id="5771" type="Original Work">Kawai Ritsuko</name>
+</creators>
+<description>Tottoko Hamutaro Hai! is the sequel to Tottoko Hamutaro, or in English, Hamtaro. The series revolves around the 15 original Ham-Hams in short 5-minute episodes. The Hai! series is animated differently from the original series, most notably, the head-to-body ratio is off, and it is also computer-generated in 3-D.
+Source: Wikipedia</description>
+<ratings>
+<permanent count="15">3.53</permanent>
+<temporary count="15">4.46</temporary>
+</ratings>
+<picture>126459.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22534</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>13679</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tv-tokyo.co.jp/anime/ham_hi/index.html</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>とっとこハム太郎_(アニメ)</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>327011</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>8648</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="27023" type="main character in" update="2011-01-16">
+<name>Koushi-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>63520.jpg</picture>
+<seiyuu id="1937" picture="92109.jpg">Aikawa Rikako</seiyuu>
+</character>
+<character id="30724" type="main character in" update="2011-04-03">
+<name>Chibimaru-chan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68996.jpg</picture>
+<seiyuu id="8395" picture="32864.jpg">Matoi Kaori</seiyuu>
+</character>
+<character id="30726" type="main character in" update="2011-04-03">
+<name>Noppo-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68985.jpg</picture>
+<seiyuu id="442" picture="187043.jpg">Honda Takako</seiyuu>
+</character>
+<character id="30728" type="main character in" update="2011-04-03">
+<name>Taishou-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68979.jpg</picture>
+<seiyuu id="493" picture="65381.jpg">Itou Kentarou</seiyuu>
+</character>
+<character id="30731" type="main character in" update="2011-04-03">
+<name>Tongari-kun</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68986.jpg</picture>
+<seiyuu id="82" picture="216596.jpg">Asakawa Yuu</seiyuu>
+</character>
+<character id="30732" type="main character in" update="2011-04-03">
+<rating votes="22">8.82</rating>
+<name>Hamtarou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Owned by Haruna, Hamtarou is a courageous Ham-Ham who`s always ready to help out his friends and his owner Haruna. However, he cannot stand being ignored by Haruna. He is clueless about many things being that he is of an innocent nature, especially love (much to Bijou`s dismay). Hamtarou makes the most of his life as a small hamster and lives each day in happiness hoping to make more friends and have fun. In the original anime, Hamtarou ends his sentences with `na no da`, a phrase often used by playful characters.</description>
+<picture>68976.jpg</picture>
+<seiyuu id="2766" picture="181834.jpg">Mamiya Kurumi</seiyuu>
+</character>
+<character id="30734" type="main character in" update="2011-04-25">
+<name>Muffler-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68983.jpg</picture>
+<seiyuu id="555" picture="23759.jpg">Sakuma Rei</seiyuu>
+</character>
+<character id="30735" type="main character in" update="2011-04-03">
+<name>Ribon-chan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>68977.jpg</picture>
+<seiyuu id="1983" picture="151694.jpg">Murai Kazusa</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="144492" update="2014-07-11">
+<epno type="1">98</epno>
+<length>5</length>
+<airdate>2008-03-26</airdate>
+<title xml:lang="ja">みんなでお花見なのだ</title>
+<title xml:lang="en">Episode 98</title>
+<title xml:lang="x-jat">Minna de Ohanami na no Da</title>
+</episode>
+<episode id="144493" update="2014-07-11">
+<epno type="1">97</epno>
+<length>5</length>
+<airdate>2008-03-19</airdate>
+<title xml:lang="ja">名探偵ハム太郎なのだ</title>
+<title xml:lang="en">Episode 97</title>
+</episode>
+<episode id="144494" update="2014-07-11">
+<epno type="1">96</epno>
+<length>5</length>
+<airdate>2008-03-12</airdate>
+<title xml:lang="ja">花かざりをわたすのだ</title>
+<title xml:lang="en">Episode 96</title>
+</episode>
+<episode id="144495" update="2014-07-11">
+<epno type="1">95</epno>
+<length>5</length>
+<airdate>2008-03-05</airdate>
+<title xml:lang="ja">カラスはこわいのだ</title>
+<title xml:lang="en">Episode 95</title>
+</episode>
+<episode id="144496" update="2014-07-11">
+<epno type="1">94</epno>
+<length>5</length>
+<airdate>2008-02-27</airdate>
+<title xml:lang="ja">ねてるくん夢の旅なのだ</title>
+<title xml:lang="en">Episode 94</title>
+</episode>
+<episode id="144497" update="2014-07-11">
+<epno type="1">93</epno>
+<length>5</length>
+<airdate>2008-02-20</airdate>
+<title xml:lang="ja">こうしくん大ピンチなのだ</title>
+<title xml:lang="en">Episode 93</title>
+</episode>
+<episode id="144498" update="2014-07-11">
+<epno type="1">92</epno>
+<length>5</length>
+<airdate>2008-02-13</airdate>
+<title xml:lang="ja">そわそわバレンタインなのだ</title>
+<title xml:lang="en">Episode 92</title>
+</episode>
+<episode id="144499" update="2014-07-11">
+<epno type="1">91</epno>
+<length>5</length>
+<airdate>2008-02-06</airdate>
+<title xml:lang="ja">タイショーくんの秘密なのだ</title>
+<title xml:lang="en">Episode 91</title>
+</episode>
+<episode id="144500" update="2014-07-11">
+<epno type="1">90</epno>
+<length>5</length>
+<airdate>2008-01-30</airdate>
+<title xml:lang="ja">ハム太郎の鬼たいじなのだ</title>
+<title xml:lang="en">Episode 90</title>
+</episode>
+<episode id="144501" update="2014-07-11">
+<epno type="1">89</epno>
+<length>5</length>
+<airdate>2008-01-23</airdate>
+<title xml:lang="ja">ゆけ! タイショーロボなのだ (後編)</title>
+<title xml:lang="en">Episode 89</title>
+</episode>
+<episode id="144502" update="2014-07-11">
+<epno type="1">88</epno>
+<length>5</length>
+<airdate>2008-01-16</airdate>
+<title xml:lang="ja">ゆけ! タイショーロボなのだ (前編)</title>
+<title xml:lang="en">Episode 88</title>
+</episode>
+<episode id="144503" update="2014-07-11">
+<epno type="1">87</epno>
+<length>5</length>
+<airdate>2008-01-09</airdate>
+<title xml:lang="ja">ロコちゃんのおとしものなのだ</title>
+<title xml:lang="en">Episode 87</title>
+</episode>
+<episode id="144504" update="2014-07-11">
+<epno type="1">86</epno>
+<length>5</length>
+<airdate>2007-12-26</airdate>
+<title xml:lang="ja">雪であそぶのだ</title>
+<title xml:lang="en">Episode 86</title>
+</episode>
+<episode id="144505" update="2014-07-11">
+<epno type="1">85</epno>
+<length>5</length>
+<airdate>2007-12-19</airdate>
+<title xml:lang="ja">ハム太郎サンタなのだ</title>
+<title xml:lang="en">Episode 85</title>
+</episode>
+<episode id="144506" update="2014-07-11">
+<epno type="1">84</epno>
+<length>5</length>
+<airdate>2007-12-12</airdate>
+<title xml:lang="ja">ちび丸ちゃんのお手伝いなのだ</title>
+<title xml:lang="en">Episode 84</title>
+</episode>
+<episode id="144507" update="2014-07-11">
+<epno type="1">83</epno>
+<length>5</length>
+<airdate>2007-12-05</airdate>
+<title xml:lang="ja">タイショーくんがポ~なのだ</title>
+<title xml:lang="en">Episode 83</title>
+</episode>
+<episode id="144508" update="2014-07-11">
+<epno type="1">82</epno>
+<length>5</length>
+<airdate>2007-11-28</airdate>
+<title xml:lang="ja">夢ほりハムのもぐるくんなのだ</title>
+<title xml:lang="en">Episode 82</title>
+</episode>
+<episode id="144509" update="2014-07-11">
+<epno type="1">81</epno>
+<length>5</length>
+<airdate>2007-11-21</airdate>
+<title xml:lang="ja">おしゃれがとまらないのだ</title>
+<title xml:lang="en">Episode 81</title>
+</episode>
+<episode id="144510" update="2014-07-11">
+<epno type="1">80</epno>
+<length>5</length>
+<airdate>2007-11-14</airdate>
+<title xml:lang="ja">ケンカはやめるのだ</title>
+<title xml:lang="en">Episode 80</title>
+</episode>
+<episode id="144511" update="2014-07-11">
+<epno type="1">79</epno>
+<length>5</length>
+<airdate>2007-11-07</airdate>
+<title xml:lang="ja">大変身だ! まいどくんなのだ</title>
+<title xml:lang="en">Episode 79</title>
+</episode>
+<episode id="144512" update="2014-07-11">
+<epno type="1">78</epno>
+<length>5</length>
+<airdate>2007-10-31</airdate>
+<title xml:lang="ja">パンダカーなのだ</title>
+<title xml:lang="en">Episode 78</title>
+</episode>
+<episode id="144513" update="2014-07-11">
+<epno type="1">77</epno>
+<length>5</length>
+<airdate>2007-10-24</airdate>
+<title xml:lang="ja">犯人はだれなのだ?</title>
+<title xml:lang="en">Episode 77</title>
+</episode>
+<episode id="144514" update="2014-07-11">
+<epno type="1">76</epno>
+<length>5</length>
+<airdate>2007-10-17</airdate>
+<title xml:lang="ja">食べすぎちゃったのだ</title>
+<title xml:lang="en">Episode 76</title>
+</episode>
+<episode id="144515" update="2014-07-11">
+<epno type="1">75</epno>
+<length>5</length>
+<airdate>2007-10-10</airdate>
+<title xml:lang="ja">どんぐりで遊ぶのだ</title>
+<title xml:lang="en">Episode 75</title>
+</episode>
+<episode id="144516" update="2014-07-11">
+<epno type="1">74</epno>
+<length>5</length>
+<airdate>2007-10-03</airdate>
+<title xml:lang="ja">恋のライバルなのだ</title>
+<title xml:lang="en">Episode 74</title>
+</episode>
+<episode id="144517" update="2014-07-11">
+<epno type="1">73</epno>
+<length>5</length>
+<airdate>2007-09-26</airdate>
+<title xml:lang="ja">リボンちゃんと遊べないのだ</title>
+<title xml:lang="en">Episode 73</title>
+</episode>
+<episode id="144518" update="2014-07-11">
+<epno type="1">72</epno>
+<length>5</length>
+<airdate>2007-09-19</airdate>
+<title xml:lang="ja">入れかわっちゃったのだ (後編)</title>
+<title xml:lang="en">Episode 72</title>
+</episode>
+<episode id="144519" update="2014-07-11">
+<epno type="1">71</epno>
+<length>5</length>
+<airdate>2007-09-12</airdate>
+<title xml:lang="ja">入れかわっちゃったのだ (前編)</title>
+<title xml:lang="en">Episode 71</title>
+</episode>
+<episode id="144520" update="2014-07-11">
+<epno type="1">70</epno>
+<length>5</length>
+<airdate>2007-09-05</airdate>
+<title xml:lang="ja">ロコちゃんとひまわり畑なのだ</title>
+<title xml:lang="en">Episode 70</title>
+</episode>
+<episode id="144521" update="2014-07-11">
+<epno type="1">69</epno>
+<length>5</length>
+<airdate>2007-08-29</airdate>
+<title xml:lang="ja">サーファーくんなのだ</title>
+<title xml:lang="en">Episode 69</title>
+</episode>
+<episode id="144522" update="2014-07-11">
+<epno type="1">68</epno>
+<length>5</length>
+<airdate>2007-07-25</airdate>
+<title xml:lang="ja">ホタルをさがすのだ</title>
+<title xml:lang="en">Episode 68</title>
+</episode>
+<episode id="144523" update="2014-07-11">
+<epno type="1">67</epno>
+<length>5</length>
+<airdate>2007-07-18</airdate>
+<title xml:lang="ja">どんちゃんとお昼寝なのだ</title>
+<title xml:lang="en">Episode 67</title>
+</episode>
+<episode id="144524" update="2014-07-11">
+<epno type="1">66</epno>
+<length>5</length>
+<airdate>2007-07-11</airdate>
+<title xml:lang="ja">さすらいのトンガリくんなのだ</title>
+<title xml:lang="en">Episode 66</title>
+</episode>
+<episode id="144525" update="2014-07-11">
+<epno type="1">65</epno>
+<length>5</length>
+<airdate>2007-07-04</airdate>
+<title xml:lang="ja">ねてるくんの冒険なのだ</title>
+<title xml:lang="en">Episode 65</title>
+</episode>
+<episode id="144526" update="2014-07-11">
+<epno type="1">64</epno>
+<length>5</length>
+<airdate>2007-06-27</airdate>
+<title xml:lang="ja">くるりんちゃんとデートなのだ</title>
+<title xml:lang="en">Episode 64</title>
+</episode>
+<episode id="144527" update="2014-07-11">
+<epno type="1">63</epno>
+<length>5</length>
+<airdate>2007-06-20</airdate>
+<title xml:lang="ja">うるさいお兄ちゃんなのだ</title>
+<title xml:lang="en">Episode 63</title>
+</episode>
+<episode id="144528" update="2014-07-11">
+<epno type="1">62</epno>
+<length>5</length>
+<airdate>2007-06-13</airdate>
+<title xml:lang="ja">お家で冒険なのだ (後編)</title>
+<title xml:lang="en">Episode 62</title>
+</episode>
+<episode id="144529" update="2014-07-11">
+<epno type="1">61</epno>
+<length>5</length>
+<airdate>2007-06-06</airdate>
+<title xml:lang="ja">お家で冒険なのだ (前編)</title>
+<title xml:lang="en">Episode 61</title>
+</episode>
+<episode id="144530" update="2014-07-11">
+<epno type="1">60</epno>
+<length>5</length>
+<airdate>2007-05-30</airdate>
+<title xml:lang="ja">雨の日は楽しいのだ</title>
+<title xml:lang="en">Episode 60</title>
+</episode>
+<episode id="144531" update="2014-07-11">
+<epno type="1">59</epno>
+<length>5</length>
+<airdate>2007-05-23</airdate>
+<title xml:lang="ja">かぶるくんとかくれんぼなのだ</title>
+<title xml:lang="en">Episode 59</title>
+</episode>
+<episode id="144532" update="2014-07-11">
+<epno type="1">58</epno>
+<length>5</length>
+<airdate>2007-05-16</airdate>
+<title xml:lang="ja">なんでもつくるよパンダくんなのだ</title>
+<title xml:lang="en">Episode 58</title>
+</episode>
+<episode id="144533" update="2014-07-11">
+<epno type="1">57</epno>
+<length>5</length>
+<airdate>2007-05-09</airdate>
+<title xml:lang="ja">こまったお兄ちゃんなのだ</title>
+<title xml:lang="en">Episode 57</title>
+</episode>
+<episode id="144534" update="2014-07-11">
+<epno type="1">56</epno>
+<length>5</length>
+<airdate>2007-05-02</airdate>
+<title xml:lang="ja">マフラーちゃんとちび丸ちゃんなのだ</title>
+<title xml:lang="en">Episode 56</title>
+</episode>
+<episode id="144535" update="2014-07-11">
+<epno type="1">55</epno>
+<length>5</length>
+<airdate>2007-04-25</airdate>
+<title xml:lang="ja">まいどくんを追いかけるのだ</title>
+<title xml:lang="en">Episode 55</title>
+</episode>
+<episode id="144536" update="2014-07-11">
+<epno type="1">54</epno>
+<length>5</length>
+<airdate>2007-04-18</airdate>
+<title xml:lang="ja">赤いリボンをプレゼントなのだ</title>
+<title xml:lang="en">Episode 54</title>
+</episode>
+<episode id="144537" update="2014-07-11">
+<epno type="1">53</epno>
+<length>5</length>
+<airdate>2007-04-11</airdate>
+<title xml:lang="ja">運動するのだ</title>
+<title xml:lang="en">Episode 53</title>
+</episode>
+<episode id="144538" update="2014-07-11">
+<epno type="1">52</epno>
+<length>5</length>
+<airdate>2007-04-04</airdate>
+<title xml:lang="ja">虹をさがすのだ</title>
+<title xml:lang="en">Episode 52</title>
+</episode>
+<episode id="144539" update="2014-07-11">
+<epno type="1">51</epno>
+<length>5</length>
+<airdate>2007-03-28</airdate>
+<title xml:lang="ja">春をみつけるのだ</title>
+<title xml:lang="en">Episode 51</title>
+</episode>
+<episode id="144540" update="2014-07-11">
+<epno type="1">50</epno>
+<length>5</length>
+<airdate>2007-03-21</airdate>
+<title xml:lang="ja">ブランコにのるのだ</title>
+<title xml:lang="en">Episode 50</title>
+</episode>
+<episode id="144541" update="2014-07-11">
+<epno type="1">49</epno>
+<length>5</length>
+<airdate>2007-03-14</airdate>
+<title xml:lang="ja">こうしくん大ピンチなのだ</title>
+<title xml:lang="en">Episode 49</title>
+</episode>
+<episode id="144542" update="2014-07-11">
+<epno type="1">48</epno>
+<length>5</length>
+<airdate>2007-03-07</airdate>
+<title xml:lang="ja">ターショーくんを喜ばせるのだ</title>
+<title xml:lang="en">Episode 48</title>
+</episode>
+<episode id="144543" update="2014-07-11">
+<epno type="1">47</epno>
+<length>5</length>
+<airdate>2007-02-28</airdate>
+<title xml:lang="ja">ちび丸ちゃん大工さんなのだ</title>
+<title xml:lang="en">Episode 47</title>
+</episode>
+<episode id="144544" update="2014-07-11">
+<epno type="1">46</epno>
+<length>5</length>
+<airdate>2007-02-21</airdate>
+<title xml:lang="ja">ねてるくん夢の旅なのだ</title>
+<title xml:lang="en">Episode 46</title>
+</episode>
+<episode id="144545" update="2014-07-11">
+<epno type="1">45</epno>
+<length>5</length>
+<airdate>2007-02-14</airdate>
+<title xml:lang="ja">そわそわバレンタインなのだ</title>
+<title xml:lang="en">Episode 45</title>
+</episode>
+<episode id="144546" update="2014-07-11">
+<epno type="1">44</epno>
+<length>5</length>
+<airdate>2007-02-07</airdate>
+<title xml:lang="ja">マフラーちゃんを元気にするのだ</title>
+<title xml:lang="en">Episode 44</title>
+</episode>
+<episode id="144547" update="2014-07-11">
+<epno type="1">43</epno>
+<length>5</length>
+<airdate>2007-01-31</airdate>
+<title xml:lang="ja">トン吉くん大かつやくなのだ</title>
+<title xml:lang="en">Episode 43</title>
+</episode>
+<episode id="144548" update="2014-07-11">
+<epno type="1">42</epno>
+<length>5</length>
+<airdate>2007-01-24</airdate>
+<title xml:lang="ja">足あとをおうのだ</title>
+<title xml:lang="en">Episode 42</title>
+</episode>
+<episode id="144549" update="2014-07-11">
+<epno type="1">41</epno>
+<length>5</length>
+<airdate>2007-01-17</airdate>
+<title xml:lang="ja">タイショーくんがポ~なのだ</title>
+<title xml:lang="en">Episode 41</title>
+</episode>
+<episode id="144550" update="2014-07-11">
+<epno type="1">40</epno>
+<length>5</length>
+<airdate>2007-01-10</airdate>
+<title xml:lang="ja">凧で遊ぶのだ</title>
+<title xml:lang="en">Episode 40</title>
+</episode>
+<episode id="144551" update="2014-07-11">
+<epno type="1">39</epno>
+<length>5</length>
+<airdate>2006-12-27</airdate>
+<title xml:lang="ja">雪で遊ぶのだ</title>
+<title xml:lang="en">Episode 39</title>
+</episode>
+<episode id="144552" update="2014-07-11">
+<epno type="1">38</epno>
+<length>5</length>
+<airdate>2006-12-20</airdate>
+<title xml:lang="ja">サンタさんに会いたいのだ</title>
+<title xml:lang="en">Episode 38</title>
+</episode>
+<episode id="144553" update="2014-07-11">
+<epno type="1">37</epno>
+<length>5</length>
+<airdate>2006-12-13</airdate>
+<title xml:lang="ja">タイショーくんの秘密なのだ</title>
+<title xml:lang="en">Episode 37</title>
+</episode>
+<episode id="144554" update="2014-07-11">
+<epno type="1">36</epno>
+<length>5</length>
+<airdate>2006-12-06</airdate>
+<title xml:lang="ja">みんなでスケートなのだ</title>
+<title xml:lang="en">Episode 36</title>
+</episode>
+<episode id="144555" update="2014-07-11">
+<epno type="1">35</epno>
+<length>5</length>
+<airdate>2006-11-29</airdate>
+<title xml:lang="ja">あみもの大好きマフラーちゃんなのだ</title>
+<title xml:lang="en">Episode 35</title>
+</episode>
+<episode id="144556" update="2014-07-11">
+<epno type="1">34</epno>
+<length>5</length>
+<airdate>2006-11-22</airdate>
+<title xml:lang="ja">パンダカーなのだ</title>
+<title xml:lang="en">Episode 34</title>
+</episode>
+<episode id="144557" update="2014-07-11">
+<epno type="1">33</epno>
+<length>5</length>
+<airdate>2006-11-15</airdate>
+<title xml:lang="ja">リボンちゃんに会いたいのだ</title>
+<title xml:lang="en">Episode 33</title>
+</episode>
+<episode id="144558" update="2014-07-11">
+<epno type="1">32</epno>
+<length>5</length>
+<airdate>2006-11-08</airdate>
+<title xml:lang="ja">ファッションショーなのだ</title>
+<title xml:lang="en">Episode 32</title>
+</episode>
+<episode id="144559" update="2014-07-11">
+<epno type="1">31</epno>
+<length>5</length>
+<airdate>2006-11-01</airdate>
+<title xml:lang="ja">ちび丸ちゃんのお手伝いなのだ</title>
+<title xml:lang="en">Episode 31</title>
+</episode>
+<episode id="144560" update="2014-07-11">
+<epno type="1">30</epno>
+<length>5</length>
+<airdate>2006-10-25</airdate>
+<title xml:lang="ja">ねてるくんの冒険なのだ</title>
+<title xml:lang="en">Episode 30</title>
+</episode>
+<episode id="144561" update="2014-07-11">
+<epno type="1">29</epno>
+<length>5</length>
+<airdate>2006-10-18</airdate>
+<title xml:lang="ja">どんぐりで遊ぶのだ</title>
+<title xml:lang="en">Episode 29</title>
+</episode>
+<episode id="144562" update="2014-07-11">
+<epno type="1">28</epno>
+<length>5</length>
+<airdate>2006-10-11</airdate>
+<title xml:lang="ja">食べすぎちゃったのだ</title>
+<title xml:lang="en">Episode 28</title>
+</episode>
+<episode id="144563" update="2014-07-11">
+<epno type="1">27</epno>
+<length>5</length>
+<airdate>2006-10-04</airdate>
+<title xml:lang="ja">毛糸でおおさわぎなのだ</title>
+<title xml:lang="en">Episode 27</title>
+</episode>
+<episode id="144564" update="2014-07-11">
+<epno type="1">26</epno>
+<length>5</length>
+<airdate>2006-09-27</airdate>
+<title xml:lang="ja">犯人はだれなのだ?</title>
+<title xml:lang="en">Episode 26</title>
+</episode>
+<episode id="144565" update="2014-07-11">
+<epno type="1">25</epno>
+<length>5</length>
+<airdate>2006-09-20</airdate>
+<title xml:lang="ja">恋のライバルなのだ</title>
+<title xml:lang="en">Episode 25</title>
+</episode>
+<episode id="144566" update="2014-07-11">
+<epno type="1">24</epno>
+<length>5</length>
+<airdate>2006-09-13</airdate>
+<title xml:lang="ja">こまったお兄ちゃんなのだ</title>
+<title xml:lang="en">Episode 24</title>
+</episode>
+<episode id="144567" update="2014-07-11">
+<epno type="1">23</epno>
+<length>5</length>
+<airdate>2006-09-06</airdate>
+<title xml:lang="ja">山にのぼるのだ</title>
+<title xml:lang="en">Episode 23</title>
+</episode>
+<episode id="144568" update="2014-07-11">
+<epno type="1">22</epno>
+<length>5</length>
+<airdate>2006-08-30</airdate>
+<title xml:lang="ja">みんなでお祭りなのだ</title>
+<title xml:lang="en">Episode 22</title>
+</episode>
+<episode id="144569" update="2014-07-11">
+<epno type="1">21</epno>
+<length>5</length>
+<airdate>2006-08-23</airdate>
+<title xml:lang="ja">あつくて, さむいのだ</title>
+<title xml:lang="en">Episode 21</title>
+</episode>
+<episode id="144570" update="2014-07-11">
+<epno type="1">20</epno>
+<length>5</length>
+<airdate>2006-08-16</airdate>
+<title xml:lang="ja">オバケが出たのだ</title>
+<title xml:lang="en">Episode 20</title>
+</episode>
+<episode id="144571" update="2014-07-11">
+<epno type="1">19</epno>
+<length>5</length>
+<airdate>2006-08-09</airdate>
+<title xml:lang="ja">どんちゃんとお昼寝なのだ</title>
+<title xml:lang="en">Episode 19</title>
+</episode>
+<episode id="144572" update="2014-07-11">
+<epno type="1">18</epno>
+<length>5</length>
+<airdate>2006-08-02</airdate>
+<title xml:lang="ja">おたんじょうびなのだ</title>
+<title xml:lang="en">Episode 18</title>
+</episode>
+<episode id="144573" update="2014-07-11">
+<epno type="1">17</epno>
+<length>5</length>
+<airdate>2006-07-26</airdate>
+<title xml:lang="ja">こうしくんはくいしんぼうなのだ</title>
+<title xml:lang="en">Episode 17</title>
+</episode>
+<episode id="144574" update="2014-07-11">
+<epno type="1">16</epno>
+<length>5</length>
+<airdate>2006-07-19</airdate>
+<title xml:lang="ja">海で遊ぶのだ</title>
+<title xml:lang="en">Episode 16</title>
+</episode>
+<episode id="144575" update="2014-07-11">
+<epno type="1">15</epno>
+<length>5</length>
+<airdate>2006-07-12</airdate>
+<title xml:lang="ja">ホタルをさがすのだ</title>
+<title xml:lang="en">Episode 15</title>
+</episode>
+<episode id="144576" update="2014-07-11">
+<epno type="1">14</epno>
+<length>5</length>
+<airdate>2006-07-05</airdate>
+<title xml:lang="ja">七夕のおねがいなのだ</title>
+<title xml:lang="en">Episode 14</title>
+</episode>
+<episode id="144577" update="2014-07-11">
+<epno type="1">13</epno>
+<length>5</length>
+<airdate>2006-06-28</airdate>
+<title xml:lang="ja">みんなで空を飛ぶのだ</title>
+<title xml:lang="en">Episode 13</title>
+</episode>
+<episode id="144578" update="2014-07-11">
+<epno type="1">12</epno>
+<length>5</length>
+<airdate>2006-06-21</airdate>
+<title xml:lang="ja">雨の日は楽しいのだ</title>
+<title xml:lang="en">Episode 12</title>
+</episode>
+<episode id="144579" update="2014-07-11">
+<epno type="1">11</epno>
+<length>5</length>
+<airdate>2006-06-14</airdate>
+<title xml:lang="ja">ずっとねてるよねてるくんなのだ</title>
+<title xml:lang="en">Episode 11</title>
+</episode>
+<episode id="144580" update="2014-07-11">
+<epno type="1">10</epno>
+<length>5</length>
+<airdate>2006-06-07</airdate>
+<title xml:lang="ja">さすらいのたびびとトンガリくんなのだ</title>
+<title xml:lang="en">Episode 10</title>
+</episode>
+<episode id="144581" update="2014-07-11">
+<epno type="1">9</epno>
+<length>5</length>
+<airdate>2006-05-31</airdate>
+<title xml:lang="ja">なんでもつくるよパンダくんなのだ</title>
+<title xml:lang="en">Episode 9</title>
+</episode>
+<episode id="144582" update="2014-07-11">
+<epno type="1">8</epno>
+<length>5</length>
+<airdate>2006-05-24</airdate>
+<title xml:lang="ja">かぶるくんとかくれんぼなのだ</title>
+<title xml:lang="en">Episode 8</title>
+</episode>
+<episode id="144583" update="2014-07-11">
+<epno type="1">7</epno>
+<length>5</length>
+<airdate>2006-05-17</airdate>
+<title xml:lang="ja">トラハムくんとトラハムちゃんなのだ</title>
+<title xml:lang="en">Episode 7</title>
+</episode>
+<episode id="144584" update="2014-07-11">
+<epno type="1">6</epno>
+<length>5</length>
+<airdate>2006-05-10</airdate>
+<title xml:lang="ja">本が大好きのっぽくんなのだ</title>
+<title xml:lang="en">Episode 6</title>
+</episode>
+<episode id="144585" update="2014-07-11">
+<epno type="1">5</epno>
+<length>5</length>
+<airdate>2006-05-03</airdate>
+<title xml:lang="ja">マフラーちゃんとちび丸ちゃんなのだ</title>
+<title xml:lang="en">Episode 5</title>
+</episode>
+<episode id="144586" update="2014-07-11">
+<epno type="1">4</epno>
+<length>5</length>
+<airdate>2006-04-26</airdate>
+<title xml:lang="ja">まいどくんとめがねくんなのだ</title>
+<title xml:lang="en">Episode 4</title>
+</episode>
+<episode id="144587" update="2014-07-11">
+<epno type="1">3</epno>
+<length>5</length>
+<airdate>2006-04-19</airdate>
+<title xml:lang="ja">タイショーくんと勝負なのだ</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Taishou-kun to Shoubu na no Da</title>
+</episode>
+<episode id="144588" update="2014-07-11">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2006-04-12</airdate>
+<title xml:lang="ja">リボンちゃんと遊ぶのだ</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Ribbon-chan to Asobu no Da</title>
+</episode>
+<episode id="144589" update="2014-07-11">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2006-04-05</airdate>
+<title xml:lang="ja">ぼくハム太郎なのだ</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Boku Hamtarou na no Da</title>
+</episode>
+<episode id="216252" update="2019-04-28">
+<epno type="2">S1</epno>
+<length>5</length>
+<airdate>2007-06-08</airdate>
+<title xml:lang="en">Hamtaro`s Birthday Special!</title>
+</episode>
+</episodes>
+</anime>

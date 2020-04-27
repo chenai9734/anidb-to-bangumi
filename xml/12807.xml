@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12807" restricted="false">
+<type>Web</type>
+<episodecount>2</episodecount>
+<startdate>2017-03-10</startdate>
+<enddate>2017-03-17</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ancien to Mahou no Tablet: Mou Hitotsu no Hirune-hime</title>
+<title xml:lang="en" type="synonym">Ancien and the Magic Tablet: Another Story</title>
+<title xml:lang="ja" type="official">エンシェンと魔法のタブレット ~もうひとつのひるね姫~</title>
+</titles>
+<relatedanime>
+<anime id="12089" type="Other">Hirune-hime: Shiranai Watashi no Monogatari</anime>
+</relatedanime>
+<url>http://hulu-japan.jp/aamt/?cmp=5749</url>
+<creators>
+<name id="43312" type="Animation Work">Signal MD</name>
+<name id="41053" type="Animation Work">Imagica Imageworks</name>
+<name id="205" type="Original Work">Kamiyama Kenji</name>
+<name id="205" type="Direction">Kamiyama Kenji</name>
+<name id="16092" type="Music">Shimomura Youko</name>
+</creators>
+<description>The story will center on the adventure of http://anidb.net/ch87558 [Ancien], a girl that keeps appearing in http://anidb.net/ch82079 [Kokone]`s dreams. The story of the dream is one that Kokone`s http://anidb.net/ch86053 [father] told her as a mysterious fairy tale when she was little.
+Source: ANN</description>
+<ratings>
+<permanent count="32">3.31</permanent>
+<temporary count="32">5.10</temporary>
+</ratings>
+<picture>197944.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>34893</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://hulu-japan.jp/aamt/?cmp=5749</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>359674</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+</tags>
+<characters>
+<character id="87558" type="main character in" update="2017-02-09">
+<name>Ancien</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="42087" picture="167234.jpg">Takahata Mitsuki</seiyuu>
+</character>
+<character id="87559" type="secondary cast in" update="2017-02-09">
+<rating votes="1">9.12</rating>
+<name>Joy</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3" picture="44969.jpg">Kugimiya Rie</seiyuu>
+</character>
+<character id="87560" type="secondary cast in" update="2017-02-09">
+<name>Heartland-ou</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="48834" picture="197891.jpg">Takahashi Hideki</seiyuu>
+</character>
+<character id="87561" type="secondary cast in" update="2017-02-09">
+<name>Peach</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="21327">Eguchi Yousuke</seiyuu>
+</character>
+<character id="87562" type="secondary cast in" update="2017-02-09">
+<name>Bewan</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="36066" picture="220265.jpg">Furuta Arata</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="185371" update="2017-09-18">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>2017-03-17</airdate>
+<title xml:lang="en">Episode 2</title>
+</episode>
+<episode id="185372" update="2017-09-18">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2017-03-10</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

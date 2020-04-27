@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14628" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>1970-01-01</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Tales of the Rays: Everlasting Destiny</title>
+<title xml:lang="ja" type="synonym">テイルズ オブ ザ レイズ エバーラスティング デスティニー</title>
+<title xml:lang="ja" type="official">TALES OF THE RAYS Everlasting Destiny</title>
+</titles>
+<relatedanime>
+<anime id="13661" type="Other">Tales of the Rays Gekijou</anime>
+</relatedanime>
+<description>A story behind the rescue of Ickx from the second chapter of the game and will connect to the game`s new story.</description>
+<ratings>
+<permanent count="1">3.67</permanent>
+<temporary count="1">5.00</temporary>
+</ratings>
+<picture>229562.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39067</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="219390" update="2019-08-16">
+<epno type="1">1</epno>
+<length>15</length>
+<title xml:lang="en">Short Movie</title>
+</episode>
+</episodes>
+</anime>

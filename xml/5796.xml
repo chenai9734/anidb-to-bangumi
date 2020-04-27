@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="5796" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1989-07-22</startdate>
+<enddate>1989-07-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">My Melody no Akazukin</title>
+<title xml:lang="en" type="synonym">Hello Kitty`s Animation Theater 3b</title>
+<title xml:lang="en" type="synonym">My Melody`s Little Red Riding Hood</title>
+<title xml:lang="ja" type="official">マイメロディの赤ずきん</title>
+</titles>
+<relatedanime>
+<anime id="2966" type="Alternative Setting">Onegai My Melody</anime>
+<anime id="10930" type="Alternative Setting">My Melody no Ookami-san ni Ki o Tsukete</anime>
+</relatedanime>
+<creators>
+<name id="4880" type="Chief Direction">Hata Masami</name>
+<name id="5504" type="Direction">Kubo Hidemi</name>
+<name id="20625" type="Music">Kitayama Ryou</name>
+</creators>
+<ratings>
+<permanent count="14">4.00</permanent>
+<temporary count="14">4.64</temporary>
+</ratings>
+<picture>164001.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>9240</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>14253</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>2551</identifier>
+<identifier>qwjpyu</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>150840</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="88762" update="2008-03-13">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1989-07-22</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11674" restricted="false">
+<type>TV Series</type>
+<episodecount>16</episodecount>
+<startdate>2015-10-05</startdate>
+<enddate>2016-02-22</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dochamon Junior</title>
+<title xml:lang="ja" type="official">どちゃもん じゅにあ</title>
+</titles>
+<relatedanime>
+<anime id="12459" type="Sequel">Dochamon Junior 2</anime>
+</relatedanime>
+<url>http://www9.nhk.or.jp/anime/dochamon/</url>
+<creators>
+<name id="37779" type="Direction">Ooyama Kei</name>
+<name id="41463" type="Music">Okamura Midori</name>
+<name id="43963" type="Animation Work">Calf</name>
+</creators>
+<ratings>
+<permanent count="6">2.40</permanent>
+<temporary count="6">2.83</temporary>
+</ratings>
+<picture>178087.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31746</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www9.nhk.or.jp/anime/dochamon/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>どちゃもん_じゅにあ</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>3942</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>354315</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="78184" type="secondary cast in" update="2015-11-08">
+<name>Okutowing</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179230.jpg</picture>
+<seiyuu id="2226" picture="23215.jpg">Suganuma Hisayoshi</seiyuu>
+</character>
+<character id="78185" type="main character in" update="2015-11-08">
+<name>Shiro</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179227.jpg</picture>
+<seiyuu id="18131" picture="223909.jpg">Shimowada Hiroki</seiyuu>
+</character>
+<character id="78186" type="secondary cast in" update="2015-11-08">
+<name>Chuchuri</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179228.jpg</picture>
+<seiyuu id="253" picture="222833.jpg">Yuzuki Ryouka</seiyuu>
+</character>
+<character id="78187" type="secondary cast in" update="2015-11-08">
+<name>Denira</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179226.jpg</picture>
+<seiyuu id="4742" picture="54426.jpg">Fukumatsu Shin`ya</seiyuu>
+</character>
+<character id="78188" type="secondary cast in" update="2015-11-08">
+<name>Papippuru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179229.jpg</picture>
+<seiyuu id="1927" picture="21136.jpg">Narita Sayaka</seiyuu>
+</character>
+<character id="78189" type="secondary cast in" update="2015-11-08">
+<name>Yaeko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179225.jpg</picture>
+<seiyuu id="10854" picture="38961.jpg">Sasaki Hinako</seiyuu>
+</character>
+<character id="78190" type="secondary cast in" update="2015-11-08">
+<name>Gangurou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179223.jpg</picture>
+</character>
+<character id="78191" type="secondary cast in" update="2015-11-08">
+<name>Sansansan</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179222.jpg</picture>
+</character>
+<character id="78192" type="secondary cast in" update="2015-11-08">
+<name>Jekutan</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179224.jpg</picture>
+</character>
+<character id="78193" type="secondary cast in" update="2015-11-08">
+<name>Pote Butter Hokuhoku</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>179221.jpg</picture>
+</character>
+</characters>
+<episodes>
+<episode id="172735" update="2015-12-01">
+<epno type="1">8</epno>
+<length>10</length>
+<airdate>2015-12-07</airdate>
+<title xml:lang="ja">みんなでぺこぺこ</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Minna de Pekopeko</title>
+</episode>
+<episode id="172736" update="2015-11-02">
+<epno type="1">7</epno>
+<length>10</length>
+<airdate>2015-11-23</airdate>
+<title xml:lang="ja">おそるべきライバル!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Osorubeki Rival!</title>
+</episode>
+<episode id="172737" update="2015-11-02">
+<epno type="1">6</epno>
+<length>10</length>
+<airdate>2015-11-16</airdate>
+<title xml:lang="ja">もりのまもの</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Mori no Mamono</title>
+</episode>
+<episode id="172738" update="2015-11-02">
+<epno type="1">5</epno>
+<length>10</length>
+<airdate>2015-11-09</airdate>
+<title xml:lang="ja">ぬいでもぬいでも</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Nui Demo Nui Demo</title>
+</episode>
+<episode id="172739" update="2015-10-20">
+<epno type="1">4</epno>
+<length>10</length>
+<airdate>2015-10-26</airdate>
+<title xml:lang="ja">ひかるたまをおいかけろ!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Hikaru Tama o Oikakero!</title>
+</episode>
+<episode id="172740" update="2015-10-20">
+<epno type="1">3</epno>
+<length>10</length>
+<airdate>2015-10-19</airdate>
+<title xml:lang="ja">ないしょのはっぱ</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Naisho no Happa</title>
+</episode>
+<episode id="172741" update="2015-10-20">
+<epno type="1">2</epno>
+<length>10</length>
+<airdate>2015-10-12</airdate>
+<title xml:lang="ja">かんばん かきたい</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Kanban Kakitai</title>
+</episode>
+<episode id="172742" update="2015-10-20">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>2015-10-05</airdate>
+<title xml:lang="ja">ぼくはしろ</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Boku wa Shiro</title>
+</episode>
+<episode id="173586" update="2015-12-01">
+<epno type="1">10</epno>
+<length>10</length>
+<airdate>2015-12-21</airdate>
+<title xml:lang="ja">うわさのうわさ</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Uwasa no Uwasa</title>
+</episode>
+<episode id="173587" update="2015-12-01">
+<epno type="1">9</epno>
+<length>10</length>
+<airdate>2015-12-14</airdate>
+<title xml:lang="ja">たからのちず</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Takara no Chizu</title>
+</episode>
+<episode id="174295" update="2016-02-01">
+<epno type="1">14</epno>
+<length>10</length>
+<airdate>2016-02-08</airdate>
+<title xml:lang="ja">さよなら おくとうぃんぐ</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="x-jat">Sayonara Oku to Wing</title>
+</episode>
+<episode id="174296" update="2016-02-01">
+<epno type="1">13</epno>
+<length>10</length>
+<airdate>2016-02-01</airdate>
+<title xml:lang="ja">みんなでぱらぱら</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Minna de Parapara</title>
+</episode>
+<episode id="174297" update="2016-01-06">
+<epno type="1">12</epno>
+<length>10</length>
+<airdate>2016-01-18</airdate>
+<title xml:lang="ja">スーパーじぇくたん</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Super Jeku-tan</title>
+</episode>
+<episode id="174298" update="2016-01-06">
+<epno type="1">11</epno>
+<length>10</length>
+<airdate>2016-01-11</airdate>
+<title xml:lang="ja">ぼくはぽてばたほくほく</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Boku wa Potebata Hokuhoku</title>
+</episode>
+<episode id="175213" update="2016-02-15">
+<epno type="1">16</epno>
+<length>10</length>
+<airdate>2016-02-22</airdate>
+<title xml:lang="ja">ニッポン</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="x-jat">Nippon</title>
+</episode>
+<episode id="175214" update="2016-02-15">
+<epno type="1">15</epno>
+<length>10</length>
+<airdate>2016-02-15</airdate>
+<title xml:lang="ja">はしのむこう</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="x-jat">Hashi no Mukou</title>
+</episode>
+</episodes>
+</anime>

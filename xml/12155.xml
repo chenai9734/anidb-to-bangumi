@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12155" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2017-03-11</startdate>
+<enddate>2017-03-11</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Genbanojou</title>
+<title xml:lang="ja" type="official">げんばのじょう-玄蕃之丞狐-</title>
+</titles>
+<url>http://animetamago.jp/title.php?id=3</url>
+<creators>
+<name id="728" type="Animation Work">Nippon Animation</name>
+<name id="22920" type="Direction">Douyama Takumi</name>
+<name id="47043" type="Character Design">Takemoto Shin</name>
+</creators>
+<description>In a cone-shaped land named Kikyougahara in Shin Province, there lives a girl named http://anidb.net/ch87576 [Hana]. She is a gentle girl, who always thinks of her family, in particular her great-grandmother http://anidb.net/ch87577 [Chiyo], whom she affectionately calls "Granny." One day, a traveling entertainment troupe named the Natsugawa Genzaemon Troupe happens by, and the villagers welcome them warmly. Upon finishing their performance and receiving their acclaim, the troupe`s leader spots Hana with some "oyaki," his favorite food, and transforms into a fox in his excitement.
+It turns out that the leader http://anidb.net/ch87579 [Genbanojou], and his companions http://anidb.net/ch87575 [Onatsu] and http://anidb.net/ch87578 [Shinzaemon], are all foxes who have taken on human forms. Genbanojou hastily negotiates with Hana, telling her that in exchange for keeping their secret, he will grant her one wish. She answers, "I want to let my Granny see the cherry blossoms."
+Source: ANN</description>
+<ratings>
+<permanent count="2">5.28</permanent>
+<temporary count="2">6.00</temporary>
+</ratings>
+<picture>192027.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19636</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33389</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://animetamago.jp/2017/title.php?id=3</url>
+</externalentity>
+<externalentity>
+<url>http://www.nippon-animation.co.jp/work/5884/</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4577</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>358547</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4859" parentid="6153" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-06-09">
+<name>Wakate Animator Ikusei Project</name>
+<description>The Young Animator Training Project is an annual project launched in 2010 and funded by the Japanese government`s Agency for Cultural Affairs. The project, which culminates in a series of shorts produced by various animation studios each year, means to address the concern that more of the Japanese animation process is being outsourced overseas, thus leading to a decline in opportunities to teach animation techniques within Japan. As such, the animation production for each short is required to be based in Japan, and professionals must impart their know-how to the young animators through on-the-job training.
+Source: Wikipedia</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6153" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>multi-anime projects</name>
+<description>Many anime are created as part of larger projects encompassing many shows without direct relation to one another. Normally, there is a specific idea in mind: for example, the http://anidb.net/t4859 [Young Animator Training Project] aims to stimulate the on-the-job training of next-generation professionals of the anime industry, whereas the http://anidb.net/t3763 [World Masterpiece Theatre] aims to animate classical stories from all over the world.</description>
+</tag>
+</tags>
+<characters>
+<character id="87575" type="secondary cast in" update="2017-02-19">
+<name>Onatsu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198469.jpg</picture>
+<seiyuu id="97" picture="222166.jpg">Satou Rina</seiyuu>
+</character>
+<character id="87576" type="main character in" update="2017-02-19">
+<name>Hana</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198471.jpg</picture>
+<seiyuu id="48848" picture="197947.jpg">Tamano Runa</seiyuu>
+</character>
+<character id="87577" type="secondary cast in" update="2017-02-19">
+<name>Chiyo</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198472.jpg</picture>
+<seiyuu id="2040" picture="186173.jpg">Suzuki Reiko</seiyuu>
+</character>
+<character id="87578" type="secondary cast in" update="2017-02-19">
+<name>Shinzaemon</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198470.jpg</picture>
+<seiyuu id="31313" picture="84218.jpg">Hanae Natsuki</seiyuu>
+</character>
+<character id="87579" type="main character in" update="2017-02-19">
+<name>Genbanojou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>198468.jpg</picture>
+<seiyuu id="179" picture="188456.jpg">Konishi Katsuyuki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="184476" update="2018-06-02">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2017-03-11</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13365" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2002</startdate>
+<enddate>2002</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Fue</title>
+<title xml:lang="ja" type="official">笛</title>
+<title xml:lang="en" type="official">A whistle</title>
+</titles>
+<url>http://kankaku.jp/independent-en/whistle.html</url>
+<creators>
+<name id="25815" type="Direction">Wada Atsushi</name>
+</creators>
+<description>Based on a poem by Sakutaro Hagiwara. A child and an adult have different troubles.
+Source: Official website</description>
+<ratings>
+<permanent count="29">1.82</permanent>
+<temporary count="29">3.06</temporary>
+</ratings>
+<picture>205881.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29907</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://kankaku.jp/independent-jp/whistle.html</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://kankaku.jp/independent-en/whistle.html</url>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="192472" update="2017-11-03">
+<epno type="1">1</epno>
+<length>6</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

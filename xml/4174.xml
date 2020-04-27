@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4174" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2005-11-16</startdate>
+<enddate>2005-11-16</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dore Dore no Uta</title>
+<title xml:lang="ja" type="synonym">金曜ロードショー オープニング映像</title>
+<title xml:lang="ja" type="official">どれどれの唄</title>
+</titles>
+<description>A girl gently strolls through a bug town while singing and playing her acoustic guitar.
+Source: ANN
+Note: Was included on the Ghibli ga Ippai Special Short Short DVD.</description>
+<ratings>
+<permanent count="242">4.29</permanent>
+<temporary count="243">5.67</temporary>
+</ratings>
+<picture>13254.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>10078</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4158</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="45042" update="2007-06-24">
+<epno type="1">1</epno>
+<length>3</length>
+<airdate>2005-11-16</airdate>
+<rating votes="3">5.57</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+<episode id="128179" update="2011-02-11">
+<epno type="2">S1</epno>
+<length>1</length>
+<title xml:lang="en">Yomiuri Shinbun CM Dore Dore Hikkoshi</title>
+</episode>
+</episodes>
+</anime>

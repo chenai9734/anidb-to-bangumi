@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12896" restricted="false">
+<type>unknown</type>
+<episodecount>1</episodecount>
+<startdate>2012</startdate>
+<enddate>2012</enddate>
+<titles>
+<title xml:lang="x-zht" type="main">Fojiao Donghua: Dashi Zhi Pusa Nianfo Yuantong Zhang</title>
+<title xml:lang="en" type="synonym">Maha-Stamaprapta Bodhisattva`s Preachment on Being Mindful of the Buddha</title>
+<title xml:lang="en" type="synonym">Buddhist Animation: Other Bodhisattva Buddha Tact Chapter</title>
+<title xml:lang="zh" type="official">佛教動畫-大勢至菩薩念佛圓通章</title>
+</titles>
+<description>Short Chinese animation about Buddha.</description>
+<ratings>
+<permanent count="11">2.53</permanent>
+<temporary count="11">3.13</temporary>
+</ratings>
+<picture>198870.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29857</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2876" parentid="2607" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-08">
+<name>religion</name>
+<description>Religion is a collection of belief systems, cultural systems, and worldviews that relate humanity to spirituality and, sometimes, to moral values. Many religions have narratives, symbols, traditions and sacred histories that are intended to give meaning to life or to explain the origin of life or the universe. They tend to derive morality, ethics, religious laws or a preferred lifestyle from their ideas about the cosmos and human nature.</description>
+</tag>
+<tag id="3363" parentid="2876" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2015-05-04">
+<name>Buddhism</name>
+<description>Buddhism is a nontheistic religion or dharma, "right way of living", that encompasses a variety of traditions, beliefs and practices largely based on teachings attributed to Siddhartha Gautama, commonly known as the Buddha ("the awakened one").
+Source: Wikipedia</description>
+<picurl>169453.jpg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="186584" update="2017-03-31">
+<epno type="1">1</epno>
+<length>6</length>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

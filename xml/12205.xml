@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12205" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2009-08-30</startdate>
+<enddate>2009-08-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Yanesenondo</title>
+<title xml:lang="ja" type="official">やねせんおんど</title>
+</titles>
+<creators>
+<name id="48141" type="Direction">Ike Asami</name>
+<name id="48141" type="Music">Ike Asami</name>
+</creators>
+<description>A cat drums while a group of cats dance to a marching song.</description>
+<ratings>
+<permanent count="23">2.63</permanent>
+<temporary count="23">3.65</temporary>
+</ratings>
+<picture>187531.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>32642</identifier>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://asamiike.sakura.ne.jp/liltasm/works.php</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=lj7dwGSlX_g</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="362" parentid="2793" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-09-24">
+<name>dancing</name>
+<description>Dance is when people move their body to music. There are many kinds of dance, like ballet or waltz. Dancing can be done for fun but can be also an art.</description>
+</tag>
+<tag id="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-28">
+<name>dynamic</name>
+<description>Some of the central structural elements in anime are: 
+Plot Continuity 
+How does the plot or several plots unfold. Are they a strictly linear retelling of one big continuing story, a serial, possibly with several side stories, or is the content chopped into a set of unconnected episodes, only sharing the same setting and characters?
+Stereotype Characters
+Then there is the question of the character set presentation. Is it completely original, or is it your usual stereotypical character cast. Both choices have their merit, for example it would not really make much sense to reinvent the wheel for a harem anime. Fans of that genre come to expect their favourite stereotype protagonists.
+Plot Twists
+Finally there is the question of how complex the plot / the story unfolds. Are there side-plots that merge into the main plot leading to unexpected plot twists, or is the anime quite predictable? The latter would not be appropriate for detective stories. In harem anime on the other hand a foreseeable outcome is actually something the fans will come to expect.</description>
+</tag>
+<tag id="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-29">
+<name>themes</name>
+<description>Themes describe the very central elements important to the anime stories. They set the backdrop against which the protagonists must face their challenges. Be it School Life, present Daily Life, Military action, Cyberpunk, Law and Order detective work, Sports, or the Underworld. These are only but a few of the more typical backgrounds for anime plots. Add to that a Conspiracy setting with a possible tragic outcome, the Themes span most of the imaginable subject matter relevant to anime.</description>
+</tag>
+<tag id="2793" parentid="2883" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>performance</name>
+<description>The song performance on stage or acting in a theatre is a central part of the character`s life in this anime type.</description>
+</tag>
+<tag id="2883" parentid="2607" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-07">
+<name>the arts</name>
+<description>The arts represent an outlet of human expression, usually influenced by culture, and driven by human creative impulse. Major constituents of the arts include literature – including poetry, novels and short stories, and epics; performing arts – among them music, dance, and theatre; culinary arts such as baking, chocolatiering, and winemaking; media arts like photography and film, and visual arts – including drawing, painting, and sculpting. Some art forms combine a visual element with performance (e.g. film) and the written word (e.g. comics).
+From prehistoric cave paintings to modern day films, art serves as a vessel for storytelling and conveying mankind`s relationship with its environment.
+Source: Wiki</description>
+</tag>
+<tag id="3968" parentid="6230" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-26">
+<name>animal protagonist</name>
+<description>The anime revolves around an animal, usually only communicating with typical onomatopoeia. The animal mostly lives in a human family and has adventures on a regular base. This can be the discovery of a new room, or being lost by having taken a wrong turn in the outside world.
+Typical example: http://anidb.net/a5801 [Chii`s Sweet Home].
+Not to be confused with http://anidb.net/t4259 [animal world], where the whole world is composed of animals.</description>
+<picurl>10255.jpeg</picurl>
+</tag>
+<tag id="5980" parentid="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-01-24">
+<name>live-action imagery</name>
+<description>This anime incorporates still images and/or video footage of real-world objects and locations into the animation.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+<tag id="6230" parentid="2605" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-10-20">
+<name>cast</name>
+</tag>
+</tags>
+<episodes>
+<episode id="178034" update="2016-06-11">
+<epno type="1">1</epno>
+<length>1</length>
+<airdate>2009-08-30</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="8267" restricted="false">
+<type>OVA</type>
+<episodecount>2</episodecount>
+<startdate>1989-10-05</startdate>
+<enddate>1989-12-21</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kangetsu Ittou: Akuryou Kiri</title>
+<title xml:lang="ja" type="official">寒月一凍 悪霊斬り</title>
+</titles>
+<relatedanime>
+<anime id="6542" type="Other">Shinshuu Sudama Hen</anime>
+</relatedanime>
+<creators>
+<name id="893" type="Animation Work">Magic Bus</name>
+<name id="146" type="Direction">Dezaki Satoshi</name>
+<name id="5465" type="Music">Yamanaka Norimasa</name>
+<name id="23672" type="Original Work">Tani Kousei</name>
+<name id="4506" type="Character Design">Shimizu Keizou</name>
+</creators>
+<ratings>
+<permanent count="6">4.98</permanent>
+<temporary count="6">5.16</temporary>
+</ratings>
+<picture>209379.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22332</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>18583</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235665</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>2320</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="128181" update="2012-11-19">
+<epno type="1">1</epno>
+<length>45</length>
+<airdate>1989-10-05</airdate>
+<title xml:lang="en">Volume 1</title>
+</episode>
+<episode id="128182" update="2012-11-19">
+<epno type="1">2</epno>
+<length>45</length>
+<airdate>1989-12-21</airdate>
+<title xml:lang="en">Volume 2</title>
+</episode>
+</episodes>
+</anime>

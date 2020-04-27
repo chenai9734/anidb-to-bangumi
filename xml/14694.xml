@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14694" restricted="false">
+<type>Web</type>
+<episodecount>3</episodecount>
+<startdate>2019-03-06</startdate>
+<enddate>2019-03-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Otona no Bouguya-san (Rimen)</title>
+<title xml:lang="ja" type="official">おとなの防具屋さん(裏面)</title>
+</titles>
+<relatedanime>
+<anime id="14412" type="Other">Otona no Bouguya-san</anime>
+</relatedanime>
+<url>http://ganma.jp/g/anime/otonabouguuramen/</url>
+<creators>
+<name id="56321" type="Original Work">Ayamiya Fumi</name>
+<name id="34182" type="Direction">Yamamoto Jun`ichi</name>
+</creators>
+<ratings>
+<permanent count="62">2.10</permanent>
+<temporary count="64">4.96</temporary>
+</ratings>
+<picture>230401.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>39325</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://ganma.jp/g/anime/otonabouguuramen/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>367274</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>otonabougu</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="212829" update="2019-03-06">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2019-03-06</airdate>
+<rating votes="2">2.61</rating>
+<title xml:lang="ja">裸のめがねを持つ男</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Hadaka no Megane o Motsu Otoko</title>
+</episode>
+<episode id="212830" update="2019-03-13">
+<epno type="1">2</epno>
+<length>5</length>
+<airdate>2019-03-13</airdate>
+<rating votes="2">1.22</rating>
+<title xml:lang="ja">風と防具と共に去りぬ</title>
+<title xml:lang="en">Gone with the Wind and the Armor</title>
+<title xml:lang="x-jat">Kaze to Bougu to Tomo ni Sarinu</title>
+</episode>
+<episode id="212831" update="2019-03-26">
+<epno type="1">3</epno>
+<length>7</length>
+<airdate>2019-03-20</airdate>
+<rating votes="2">1.66</rating>
+<title xml:lang="ja">防具狂の詩</title>
+<title xml:lang="en">Poetry of Armor Enthusiasts</title>
+<title xml:lang="x-jat">Bougukyou no Uta</title>
+</episode>
+</episodes>
+</anime>

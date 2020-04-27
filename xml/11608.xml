@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11608" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2015-10-24</startdate>
+<enddate>2015-10-24</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Ponkotsuland Saga</title>
+<title xml:lang="ja" type="synonym">PONKOTSULAND SAGA -ポンコツランド・サガ-</title>
+<title xml:lang="ja" type="official">ポンコツランド・サガ</title>
+</titles>
+<creators>
+<name id="4014" type="Original Work">Yukimura Makoto</name>
+<name id="42836" type="Original Work">Matsumoto Keisuke</name>
+<name id="42836" type="Direction">Matsumoto Keisuke</name>
+</creators>
+<ratings>
+<permanent count="17">2.11</permanent>
+<temporary count="17">3.35</temporary>
+</ratings>
+<picture>177890.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>31647</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>ポンコツクエスト〜魔王と派遣の魔物たち〜</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>369085</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=fGtUf7E9p1Y</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="4664" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2011-05-18">
+<name>short movie</name>
+<description>Typically used when an OVA only has one part and is less than the usual 20 to 25 minutes in length.
+So instead of calling it a `short episode`, the `short movie` tag is more appropriate.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="171820" update="2015-10-24">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2015-10-24</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+<episode id="213426" update="2019-03-09">
+<epno type="2">S1</epno>
+<length>3</length>
+<airdate>2017-06-07</airdate>
+<title xml:lang="en">NoisyCell x Ponkotsu Quest</title>
+</episode>
+</episodes>
+</anime>

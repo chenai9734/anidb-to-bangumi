@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4751" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1980-07-19</startdate>
+<enddate>1980-07-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Haha o Tazunete Sanzenri (1980)</title>
+<title xml:lang="es" type="synonym">Marco de los Apeninos a los andes</title>
+<title xml:lang="ja" type="official">母をたずねて三千里 (1980)</title>
+<title xml:lang="en" type="official">From the Apennines to the Andes: The Movie</title>
+<title xml:lang="pt" type="official">Marco - O Filme</title>
+</titles>
+<relatedanime>
+<anime id="1383" type="Other">Haha o Tazunete Sanzenri</anime>
+</relatedanime>
+<creators>
+<name id="5390" type="Music">Sakata Kouichi</name>
+<name id="8581" type="Original Work">Edmondo de Amicis</name>
+</creators>
+<ratings>
+<permanent count="8">5.54</permanent>
+<temporary count="8">5.62</temporary>
+</ratings>
+<picture>53487.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>22397</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>33474</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3162</identifier>
+<identifier>jozsxr</identifier>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>3000_Leagues_in_Search_of_Mother</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>母をたずねて三千里</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>147262</identifier>
+</externalentity>
+</resource>
+<resource type="31">
+<externalentity>
+<identifier>1183</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="64412" update="2007-06-24">
+<epno type="1">1</epno>
+<length>110</length>
+<airdate>1980-07-19</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

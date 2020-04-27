@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9192" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1967-07-20</startdate>
+<enddate>1967-07-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Topo Gigio no Botan Sensou</title>
+<title xml:lang="ja" type="official">トッポ・ジージョのボタン戦争</title>
+</titles>
+<relatedanime>
+<anime id="5054" type="Character">Topo Gigio</anime>
+</relatedanime>
+<creators>
+<name id="9605" type="Direction">Ichikawa Kon</name>
+<name id="33670" type="Music">Nakamura Hachidai</name>
+</creators>
+<ratings>
+<permanent count="4">2.66</permanent>
+<temporary count="4">4.50</temporary>
+</ratings>
+<picture>86669.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>30135</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>142138</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="139283" update="2012-08-02">
+<epno type="1">1</epno>
+<length>90</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

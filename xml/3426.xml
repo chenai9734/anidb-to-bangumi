@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="3426" restricted="false">
+<type>TV Series</type>
+<episodecount>12</episodecount>
+<startdate>2005-01-07</startdate>
+<enddate>2005-03-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Akuei to Gacchinpo - Tenkomori</title>
+<title xml:lang="ja" type="official">アークエとガッチンポー てんこもり</title>
+<title xml:lang="hu" type="official">Akuei és Gacchinpo 2</title>
+</titles>
+<relatedanime>
+<anime id="2688" type="Prequel">Akuei to Gacchinpo</anime>
+</relatedanime>
+<url>http://www.aniplex.co.jp/unco/unco.html</url>
+<creators>
+<name id="2822" type="Music">Tada Akifumi</name>
+<name id="4243" type="Story Composition">Urasawa Yoshio</name>
+<name id="27881" type="Original Work">Spring House Entertainment</name>
+<name id="23494" type="Direction">Makiya Tsutomu</name>
+</creators>
+<ratings>
+<permanent count="8">1.57</permanent>
+<temporary count="8">3.00</temporary>
+</ratings>
+<picture>5857.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29843</identifier>
+</externalentity>
+<externalentity>
+<identifier>29889</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.aniplex.co.jp/unco/unco.html</url>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>581</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>322367</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>7175</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2658" parentid="2853" weight="300" localspoiler="false" globalspoiler="false" verified="true" update="2012-10-07">
+<name>toilet humour</name>
+<description>Everything leads back to poo.</description>
+</tag>
+<tag id="2853" parentid="2611" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2017-02-13">
+<name>comedy</name>
+<description>Anime whose central struggle causes hilarious results. These stories are built upon funny characters, situations and events. A comedy anime is laced with humour and sets out to provoke laughter from the audience.
+Japanese humour can be a bit strange to westerners, so if you`re new to this type of humour, just bear with it; it`ll most likely grow on you if you`re a fan of other kinds of comedy.</description>
+<picurl>198104.jpg</picurl>
+</tag>
+</tags>
+<characters>
+<character id="48894" type="main character in" update="2012-09-15">
+<name>Takeshi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="79" picture="228519.jpg">Kobayashi Yuu</seiyuu>
+</character>
+<character id="48895" type="main character in" update="2012-09-15">
+<name>Jasmine</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>94146.jpg</picture>
+<seiyuu id="600" picture="148972.jpg">Arai Satomi</seiyuu>
+</character>
+<character id="48896" type="main character in" update="2012-09-15">
+<name>Akuei</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="3833" picture="25459.jpg">Shibahara Chiyako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="56134" update="2006-08-04">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2005-01-07</airdate>
+<title xml:lang="ja">初夢だ 1プリ2プリ3プリプップー ガッチンポー!</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="x-jat">Hatsuyume Da Ichipuri Nipuri Sanpuripuppuu Gacchinpu!</title>
+</episode>
+<episode id="56135" update="2006-08-04">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2005-01-14</airdate>
+<title xml:lang="ja">ソワソワワッショイ やっと来る来るダーリンリン ガッチンポー! / トホトホホッホー押しかけ弟子入りもうイヤ~ン ガッチンポー!</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="x-jat">Sowasowawasshoi Yatto Kuru Kitaru Darlingling Gacchinpou! Tohotohohohhou Oshikakake Deshi Iri Mou Iyaan Gacchinpou!</title>
+</episode>
+<episode id="56136" update="2006-08-04">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2005-01-21</airdate>
+<title xml:lang="ja">ペタペタペッタン 私の写真でメロンメロン ガッチンポー! / ライライライバル襲来 地球崩壊かい? ガッチンポー!</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="x-jat">Petapetapettan Watashi no Shashin de Melonmelon Gacchinpou! / Riririval Shuurai Chikyuu Houkaikai? Gacchinpou!</title>
+</episode>
+<episode id="56137" update="2006-08-04">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2005-01-28</airdate>
+<title xml:lang="ja">カンカンカーン ゴングを鳴らせ燃えよファミリー ガッチンポー! / スタコラアーティー ケーキがみんなをペロリンコ ガッチンポー!</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="x-jat">Kankankaan Gong o Narase Moeyo Family Gacchinpou! / Starcolatty Cake ga Minna o Perorinko Gacchinpou!</title>
+</episode>
+<episode id="56138" update="2006-08-04">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2005-02-04</airdate>
+<title xml:lang="ja">ウフウフウッフ-ン あんたも私に夢中チュッチュ ガッチンポー!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="x-jat">Ufuufuuffun Anta mo Watashi ni Muchuu Chucchu Gacchinpou!</title>
+</episode>
+<episode id="56139" update="2006-08-04">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2005-02-11</airdate>
+<title xml:lang="ja">キンキラキンキン 恋する瞳はさりげなくってば ガッチンポー! / プッタカプープー 宇宙からきたアルバイトだブー ガッチンポー!</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="x-jat">Kinkirakinkin Koi Suru Hitomi wa Sarigenakutteba Gacchinpou! Puttakapuupuu Uchuu kara Kita Arbeit Da Buu Gacchinpou!</title>
+</episode>
+<episode id="56140" update="2006-08-04">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2005-02-18</airdate>
+<title xml:lang="ja">キャッシュキャッシュ シュッポッポー パンチッチーの ガッチンポー! / 甘酸っパイパイ 失恋パワーで胸いっパイパイ ガッチンポー!</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="x-jat">Kyasshu Kyasshu Shuppoppou Panchicchii no Gacchinpou! Kansanppaipai Shitsuren Power de Mune Ippaipai Gacchinpou!</title>
+</episode>
+<episode id="56141" update="2006-08-04">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2005-02-25</airdate>
+<title xml:lang="ja">ケロっとケロケロ ポンプでプー イビキでグー ガッチンポー! / ボヨヨンヨンヨン スターもビックリ大脱走 ガッチンポー!</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="x-jat">Kerotto Kerokero Ponpu de Puu Ibiki de Guu Gacchinpou! Boyoyonyonyon Star mo Bikkuri Daidassou Gacchinpou!</title>
+</episode>
+<episode id="56142" update="2006-08-04">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2005-03-04</airdate>
+<title xml:lang="ja">ドンブラブラドン 家族旅行はドコ ココ 底? ガッチンポー! / オヨヨンオヨヨ私の心配イッパイパイ ガッチンポー!</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="x-jat">Donburaburadon Kazoku Ryokou wa Doko Koko Soko? Gacchinpou! / Oyoyonoyoyo Watashi no Shinpai Ippaipai Gacchinpou!</title>
+</episode>
+<episode id="56143" update="2006-08-04">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2005-03-11</airdate>
+<title xml:lang="ja">ニックニックピクニック 校舎が泣いちっチ ガッチンポー! / ルンルンアニマルン 街にあふれた落とし物 ガッチンポー!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="x-jat">Nic-Nic-Picnic Kousha ga Naichicchi Gacchinpou! Runrunanimarungai ni Afureta Otoshimono Gacchinpou!</title>
+</episode>
+<episode id="56144" update="2006-08-04">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2005-03-18</airdate>
+<title xml:lang="ja">ウヒョッショ投票 森のリーダー選挙ッキョ ガッチンポー! / ドリーミンミン あんたの夢は何だミンミン? ガッチンポー!</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="x-jat">Uhyossho Touhyou Mori no Leader Senkyokkyo Gacchinpou! / Dreamingming Anta no Yume wa Nani Da Minmin? Gacchinpou!</title>
+</episode>
+<episode id="56145" update="2006-08-04">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2005-03-25</airdate>
+<title xml:lang="ja">さよならまたね トイレの中心から叫ぼう ガッチンポー!</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="x-jat">Sayonara Mata ne Toilet no Chuushin kara Sakebou Gacchinpou!</title>
+</episode>
+<episode id="165664" update="2015-01-28">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>2005-01-07</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="165665" update="2015-01-28">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>2005-01-07</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="165666" update="2015-02-10">
+<epno type="2">S1</epno>
+<length>1</length>
+<airdate>2005-07-27</airdate>
+<title xml:lang="ja">幻のおまけエピソード</title>
+<title xml:lang="en">Extra Episode of Illusion</title>
+<title xml:lang="x-jat">Maboroshi no Omake Episode</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="11880" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1931</startdate>
+<enddate>1931</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sanbiki no Koguma-san</title>
+<title xml:lang="en" type="synonym">Three Little Bears</title>
+<title xml:lang="ja" type="official">三匹の小熊さん</title>
+</titles>
+<ratings>
+<permanent count="21">2.05</permanent>
+<temporary count="21">3.47</temporary>
+</ratings>
+<picture>203544.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>29559</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="177302" update="2016-04-25">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

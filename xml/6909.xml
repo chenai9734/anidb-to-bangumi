@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6909" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>1941-12-08</startdate>
+<enddate>1941-12-08</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Karita Boushi</title>
+<title xml:lang="en" type="synonym">Borrowed Hat</title>
+<title xml:lang="ja" type="official">かりた帽子</title>
+</titles>
+<ratings>
+<permanent count="1">1.35</permanent>
+<temporary count="1">2.00</temporary>
+</ratings>
+<resources>
+<resource type="9">
+<externalentity>
+<identifier>134603</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="106637" update="2009-08-26">
+<epno type="1">1</epno>
+<length>10</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

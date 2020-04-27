@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="10203" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1988-09-20</startdate>
+<enddate>1988-09-20</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dokidoki Gakuen: Kessen!! Youki Daimajou</title>
+<title xml:lang="x-jat" type="synonym">Dokidoki Gakuen Kessen!! Youki Daimashiro</title>
+<title xml:lang="ja" type="official">ドキドキ学園 決戦!!妖奇大魔城</title>
+</titles>
+<creators>
+<name id="899" type="Character Design">Animaru Ya</name>
+<name id="4496" type="Direction">Moriwaki Makoto</name>
+</creators>
+<ratings>
+<permanent count="9">3.30</permanent>
+<temporary count="9">3.77</temporary>
+</ratings>
+<picture>144247.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>19437</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235796</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<episodes>
+<episode id="155055" update="2013-10-15">
+<epno type="1">1</epno>
+<length>10</length>
+<airdate>1988-09-20</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

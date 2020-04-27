@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="4979" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1999-01-25</startdate>
+<enddate>1999-01-25</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Dennou Sentai Voogie`s Angel: Forever and Ever</title>
+<title xml:lang="ja" type="synonym">電脳戦隊ヴギィ`ズ★エンジェル FOREVER AND EVER</title>
+<title xml:lang="ja" type="synonym">電脳戦隊ヴギィ`ズ・エンジェル FOREVER AND EVER</title>
+<title xml:lang="ja" type="official">電脳戦隊 VOOGIE`s ANGEL FOREVER AND EVER</title>
+</titles>
+<relatedanime>
+<anime id="494" type="Full Story">Dennou Sentai Voogie`s Angel</anime>
+</relatedanime>
+<creators>
+<name id="8166" type="Music">Yukawa Tooru</name>
+<name id="153" type="Character Design">Oobari Masami</name>
+<name id="720" type="Work">J.C.Staff</name>
+<name id="854" type="Work">Frontline</name>
+<name id="2424" type="Music">Hyakkoku Hajime</name>
+<name id="8005" type="Original Work">Takeuchi Aoi</name>
+<name id="8005" type="Direction">Takeuchi Aoi</name>
+</creators>
+<description>Note: A compilation of the original OVA series with 7 minutes of new content at the end.</description>
+<ratings>
+<permanent count="9">3.80</permanent>
+<temporary count="9">5.44</temporary>
+</ratings>
+<picture>203946.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>17131</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>3236</identifier>
+<identifier>splyhg</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>88144</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>11554</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="67684" type="secondary cast in" update="2014-05-31">
+<name>Rebecca</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>156077.jpg</picture>
+<seiyuu id="197" picture="58661.jpg">Mitsuishi Kotono</seiyuu>
+</character>
+<character id="67685" type="secondary cast in" update="2014-05-31">
+<name>Merry Bell</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>156078.jpg</picture>
+<seiyuu id="490" picture="17481.jpg">Kikuchi Shiho</seiyuu>
+</character>
+<character id="67686" type="secondary cast in" update="2014-05-31">
+<name>Shiori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>156080.jpg</picture>
+<seiyuu id="240" picture="17059.jpg">Inoue Kikuko</seiyuu>
+</character>
+<character id="67687" type="secondary cast in" update="2014-05-31">
+<name>Voogie</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>156082.jpg</picture>
+<seiyuu id="360" picture="171401.jpg">Hisakawa Aya</seiyuu>
+</character>
+<character id="67691" type="secondary cast in" update="2014-05-31">
+<name>Midi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>156086.jpg</picture>
+<seiyuu id="483" picture="27541.jpg">Tange Sakura</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="71710" update="2009-12-31">
+<epno type="1">1</epno>
+<length>75</length>
+<airdate>1999-01-25</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>

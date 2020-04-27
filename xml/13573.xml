@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13573" restricted="false">
+<type>TV Series</type>
+<episodecount>13</episodecount>
+<startdate>2018-01-05</startdate>
+<enddate>2018-03-30</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hataraku Onii-san!</title>
+<title xml:lang="ja" type="official">働くお兄さん!</title>
+<title xml:lang="en" type="official">Working Buddies!</title>
+<title xml:lang="zh-Hans" type="official">打工小哥!</title>
+</titles>
+<relatedanime>
+<anime id="13995" type="Sequel">Hataraku Onii-san! No 2!</anime>
+</relatedanime>
+<similaranime>
+<anime id="13636" approval="2" total="3">Aggressive Retsuko (2018)</anime>
+</similaranime>
+<url>http://hataoni.jp/</url>
+<creators>
+<name id="17524" type="Original Work">Good Smile Company</name>
+<name id="45673" type="Animation Work">Tomovies</name>
+<name id="43382" type="Series Composition">Usa Yoshiki</name>
+<name id="43382" type="Original Work">Usa Yoshiki</name>
+<name id="43478" type="Direction">Takashima Tomoya</name>
+<name id="7062" type="Music">RON</name>
+<name id="52564" type="Character Design">Oda Haruka</name>
+</creators>
+<description>http://anidb.net/ch92244 [Chatorazawa Tapio] is a cheerful calico and http://anidb.net/ch92242 [Roshihara Kuehiko] is a pessimistic Russian blue. The two study in the same college, and also work together on various odd jobs.
+Source: ANN
+Note: The first episode received an early screening at a special event held at Animate Shinjuku store on 16.12.2017.</description>
+<ratings>
+<permanent count="113">3.57</permanent>
+<temporary count="113">5.17</temporary>
+</ratings>
+<picture>209502.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>20505</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>36784</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://hataoni.jp/</url>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>働くお兄さん!</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4803</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>362463</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>20782</identifier>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>hataoni</identifier>
+</externalentity>
+</resource>
+<resource type="28">
+<externalentity>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="92242" type="main character in" update="2017-12-17">
+<rating votes="2">7.68</rating>
+<name>Roshihara Kuehiko</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>210910.jpg</picture>
+<seiyuu id="46765" picture="220458.jpg">Mizoguchi Takuya</seiyuu>
+</character>
+<character id="92243" type="secondary cast in" update="2017-12-17">
+<name>Namae o Yonde wa Ikenai Sono Doubutsu</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>210911.jpg</picture>
+<seiyuu id="45" picture="44970.jpg">Sugita Tomokazu</seiyuu>
+</character>
+<character id="92244" type="main character in" update="2017-12-17">
+<rating votes="2">7.68</rating>
+<name>Chatorazawa Tapio</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>210909.jpg</picture>
+<seiyuu id="46766" picture="220460.jpg">Tomita Kentarou</seiyuu>
+</character>
+<character id="92896" type="appears in" update="2017-12-17">
+<name>Alpain-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>210918.jpg</picture>
+<seiyuu id="46767" picture="220461.jpg">Oota Masaki</seiyuu>
+</character>
+<character id="92897" type="appears in" update="2018-05-13">
+<name>Jakonegawa-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>210917.jpg</picture>
+<seiyuu id="33512" picture="225800.jpg">Enoki Jun`ya</seiyuu>
+</character>
+<character id="92898" type="appears in" update="2017-12-17">
+<name>Sukoyama-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>210916.jpg</picture>
+<seiyuu id="3709" picture="84359.jpg">Hosoya Yoshimasa</seiyuu>
+</character>
+<character id="95511" type="appears in" update="2018-05-13">
+<name>Angolamori-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217496.jpg</picture>
+<seiyuu id="32912" picture="183255.jpg">Nishiyama Koutarou</seiyuu>
+</character>
+<character id="95512" type="appears in" update="2018-05-13">
+<name>Oraura-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217495.jpg</picture>
+<seiyuu id="46757" picture="224841.jpg">Kabumoto Hideaki</seiyuu>
+</character>
+<character id="95513" type="appears in" update="2018-05-13">
+<name>Kaniei-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217500.jpg</picture>
+<seiyuu id="46769" picture="220462.jpg">Masaki Kaoru</seiyuu>
+</character>
+<character id="95514" type="appears in" update="2018-05-13">
+<name>Kameda-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217497.jpg</picture>
+<seiyuu id="46756" picture="220463.jpg">Totani Kimito</seiyuu>
+</character>
+<character id="95515" type="appears in" update="2018-05-13">
+<name>Kuehiko no Haha</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217504.jpg</picture>
+<seiyuu id="240" picture="17059.jpg">Inoue Kikuko</seiyuu>
+</character>
+<character id="95516" type="appears in" update="2018-05-13">
+<name>Koumori-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217499.jpg</picture>
+<seiyuu id="46768" picture="220459.jpg">Ishihara Souma</seiyuu>
+</character>
+<character id="95517" type="appears in" update="2018-05-13">
+<name>Zoubayashi-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217494.jpg</picture>
+<seiyuu id="42164" picture="176249.jpg">Takeuchi Shunsuke</seiyuu>
+</character>
+<character id="95518" type="appears in" update="2018-05-13">
+<name>Tonakai-tenchou</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217502.jpg</picture>
+<seiyuu id="381" picture="186189.jpg">Hoshi Souichirou</seiyuu>
+</character>
+<character id="95519" type="appears in" update="2018-05-13">
+<name>Niwatetsu-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217498.jpg</picture>
+<seiyuu id="20249" picture="186289.jpg">Matsuoka Yoshitsugu</seiyuu>
+</character>
+<character id="95520" type="appears in" update="2018-05-13">
+<name>Roshihara Pekko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217503.jpg</picture>
+<seiyuu id="46819" picture="224887.jpg">Inoue Honoka</seiyuu>
+</character>
+<character id="95521" type="appears in" update="2018-05-13">
+<name>Matsusaka-senpai</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>217501.jpg</picture>
+<seiyuu id="64" picture="173421.jpg">Yasumoto Hiroki</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="194121" update="2018-04-17">
+<epno type="1">4</epno>
+<length>4</length>
+<airdate>2018-01-26</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">レンタカー屋のお兄さん!</title>
+<title xml:lang="en">Rental Car Shop Buddies!</title>
+<title xml:lang="x-jat">Rent-a-Car-ya no Onii-san!</title>
+<summary>The buddies are off to a rental car store! Their new boss seems to have flashbacks to a war, but did he really serve?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759605</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194122" update="2018-04-17">
+<epno type="1">3</epno>
+<length>4</length>
+<airdate>2018-01-19</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">アパレルショップのお兄さん!</title>
+<title xml:lang="en">Apparel Buddies</title>
+<title xml:lang="x-jat">Apparel Shop no Onii-san!</title>
+<summary>The buddies go to work at a clothing store!  Are they up to the job of customer service?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759603</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194123" update="2018-01-18">
+<epno type="1">2</epno>
+<length>4</length>
+<airdate>2018-01-12</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">コンビニのお兄さん!</title>
+<title xml:lang="en">Convenience Store</title>
+<title xml:lang="x-jat">Konbini no Onii-san!</title>
+<summary>The buddies work at a convenience store, with a strange boss who loves coffee and the bathroom.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759601</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194124" update="2018-01-18">
+<epno type="1">1</epno>
+<length>4</length>
+<airdate>2018-01-05</airdate>
+<rating votes="3">1.27</rating>
+<title xml:lang="ja">宅配便のお兄さん!</title>
+<title xml:lang="en">The Courier`s Buddy</title>
+<title xml:lang="x-jat">Takuhaibin no Onii-san!</title>
+<summary>Two buddies from college work wacky jobs. This time they`re working at a package transport company.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759017</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="194825" update="2018-01-06">
+<epno type="3">C2</epno>
+<length>1</length>
+<airdate>2018-01-05</airdate>
+<rating votes="1">1.27</rating>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="194826" update="2018-01-06">
+<epno type="3">C1</epno>
+<length>1</length>
+<airdate>2018-01-05</airdate>
+<rating votes="1">1.27</rating>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="195259" update="2018-04-17">
+<epno type="1">8</epno>
+<length>4</length>
+<airdate>2018-02-23</airdate>
+<rating votes="1">1.71</rating>
+<title xml:lang="ja">アニメショップのお兄さん!</title>
+<title xml:lang="en">Anime Shop Buddies!</title>
+<title xml:lang="x-jat">Anime Shop no Onii-san!</title>
+<summary>The buddies are now working at an anime store! There`s so much to learn, and even more to shelve!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759613</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195260" update="2018-04-17">
+<epno type="1">7</epno>
+<length>4</length>
+<airdate>2018-02-16</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">水族館の飼育員のお兄さん!</title>
+<title xml:lang="en">Aquarium Attendant Buddies!</title>
+<title xml:lang="x-jat">Suizokukan no Shiikuin no Onii-san!</title>
+<summary>The buddies are now employed at an aquarium! Chatorazawa`s sister comes to pay a visit.
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759611</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195261" update="2018-04-17">
+<epno type="1">6</epno>
+<length>4</length>
+<airdate>2018-02-09</airdate>
+<rating votes="1">1.71</rating>
+<title xml:lang="ja">交通量調査のお兄さん!</title>
+<title xml:lang="en">Traffic Surveying Buddies!</title>
+<title xml:lang="x-jat">Koutsuuryou Chousa no Onii-san!</title>
+<summary>The buddies are now traffic counters!  There`s rabbits and crocodiles to count, but are those really crocs?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759609</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="195262" update="2018-04-17">
+<epno type="1">5</epno>
+<length>4</length>
+<airdate>2018-02-02</airdate>
+<rating votes="1">1.71</rating>
+<title xml:lang="ja">ガラスクリーニングのお兄さん!</title>
+<title xml:lang="en">High-Rise Window Washing Buddies</title>
+<title xml:lang="x-jat">Glass Cleaning no Onii-san!</title>
+<summary>The buddies are now high-rise window cleaners! Is it safe to be that far off the ground, where animals were never meant to go?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759607</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196191" update="2018-04-17">
+<epno type="1">13</epno>
+<length>4</length>
+<airdate>2018-03-30</airdate>
+<rating votes="3">1.81</rating>
+<title xml:lang="ja">働くお兄さん! の特番!</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="x-jat">Hataraku Onii-san! no Tokuban!</title>
+<summary>A special episode, with special announcements!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759623</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196192" update="2018-04-17">
+<epno type="1">12</epno>
+<length>4</length>
+<airdate>2018-03-23</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">ケーキ屋のお兄さん!</title>
+<title xml:lang="en">Cake Shop Buddies!</title>
+<title xml:lang="x-jat">Cake-ya no Onii-san!</title>
+<summary>It`s Christmas time, and the buddies are selling Christmas cakes! Happy Holidays!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759621</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196193" update="2018-04-17">
+<epno type="1">11</epno>
+<length>4</length>
+<airdate>2018-03-16</airdate>
+<rating votes="1">1.71</rating>
+<title xml:lang="ja">焼肉屋のお兄さん!</title>
+<title xml:lang="en">Yakiniku Shop Buddies!</title>
+<title xml:lang="x-jat">Yakinikuya no Onii-san!</title>
+<summary>The buddies are working at a yakiniku restaurant! Is their bull-headed boss going to end up on the menu?
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759619</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196194" update="2018-04-17">
+<epno type="1">10</epno>
+<length>4</length>
+<airdate>2018-03-09</airdate>
+<rating votes="1">1.71</rating>
+<title xml:lang="ja">レンタルDVD屋のお兄さん!</title>
+<title xml:lang="en">DVD Rental Store Buddies!</title>
+<title xml:lang="x-jat">Rental DVD-ya no Onii-san!</title>
+<summary>The buddies are working hard, or are they hardly working? Today`s job is at a rental DVD shop, and the customers here are crazy!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759617</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+<episode id="196195" update="2018-04-17">
+<epno type="1">9</epno>
+<length>4</length>
+<airdate>2018-03-02</airdate>
+<rating votes="1">4.03</rating>
+<title xml:lang="ja">働かないお兄さん・冬</title>
+<title xml:lang="en">Non-Working Buddies Winter</title>
+<title xml:lang="x-jat">Hatarakanai Onii-san: Fuyu</title>
+<summary>The buddies... aren`t working at all today? It`s their day off!
+Source: crunchyroll</summary>
+<resources>
+<resource type="28">
+<externalentity>
+<identifier>759615</identifier>
+<identifier>working-buddies</identifier>
+</externalentity>
+</resource>
+</resources>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14084" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2018-05-19</startdate>
+<enddate>2018-05-19</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Nani Iro no Nani</title>
+<title xml:lang="ja" type="official">何色の何</title>
+</titles>
+<creators>
+<name id="43155" type="Direction">Ishibashi Mitsuyuki</name>
+<name id="45079" type="Music">Kuusou Iinkai</name>
+<name id="45421" type="Original Work">Miura Ryuuichi</name>
+</creators>
+<ratings>
+<permanent count="25">4.29</permanent>
+<temporary count="25">5.61</temporary>
+</ratings>
+<picture>217633.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23021</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>37881</identifier>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=ZL7PGl3qe2s</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=EyMqAOzTW_M</identifier>
+</externalentity>
+</resource>
+</resources>
+<characters>
+<character id="95588" type="main character in" update="2018-05-15">
+<name>Kanata</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="23805" picture="66166.jpg">Masuda Toshiki</seiyuu>
+</character>
+<character id="95589" type="main character in" update="2018-05-15">
+<name>Haruka</name>
+<gender>unknown</gender>
+<charactertype id="1">Character</charactertype>
+<seiyuu id="34427" picture="128155.jpg">Aoki Ruriko</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="199253" update="2018-07-01">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2018-05-19</airdate>
+<title xml:lang="en">Web</title>
+</episode>
+<episode id="201084" update="2018-06-09">
+<epno type="4">T1</epno>
+<length>1</length>
+<airdate>2018-05-15</airdate>
+<title xml:lang="ja">予告</title>
+<title xml:lang="en">Preview (0:56)</title>
+<title xml:lang="x-jat">Yokoku</title>
+</episode>
+</episodes>
+</anime>

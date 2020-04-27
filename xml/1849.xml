@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1849" restricted="false">
+<type>Other</type>
+<episodecount>1</episodecount>
+<startdate>1978-12-31</startdate>
+<enddate>1978-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Captain Future Karei Naru Taiyoukei Race</title>
+<title xml:lang="en" type="synonym">Captain Future: The Great Race in the Solar System</title>
+<title xml:lang="fr" type="synonym">Capitaine Flam : L`ultime course à travers le système solaire</title>
+<title xml:lang="x-jat" type="synonym">Captain Future Kareinaru Taiyokei Race</title>
+<title xml:lang="ja" type="official">キャプテンフューチャー・華麗なる太陽系レース</title>
+<title xml:lang="de" type="official">Captain Future - Sternstraße zum Ruhm</title>
+<title xml:lang="fr" type="official">Capitaine Flam : La course à travers le système solaire</title>
+</titles>
+<relatedanime>
+<anime id="524" type="Parent Story">Captain Future</anime>
+</relatedanime>
+<creators>
+<name id="1009" type="Unknown Relation">Toei Douga</name>
+</creators>
+<description>Captain Future and friends compete in a galactic race and end up defending themselves against aggressive competitors and evil villains out to destroy them.</description>
+<ratings>
+<permanent count="49">4.12</permanent>
+<temporary count="49">5.66</temporary>
+</ratings>
+<picture>2631.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3308</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>4509</identifier>
+</externalentity>
+</resource>
+<resource type="8">
+<externalentity>
+<identifier>4312</identifier>
+</externalentity>
+</resource>
+<resource type="16">
+<externalentity>
+<identifier>269</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2846" parentid="7050" infobox="true" weight="400" localspoiler="false" globalspoiler="false" verified="true" update="2018-10-04">
+<name>science fiction</name>
+<description>Science fiction stories usually focus on how situations could be different in the future when we are more technologically advanced; due to either our own achievements or having met with other civilizations whom we have learned from.</description>
+<picurl>212180.jpg</picurl>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="7050" parentid="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2019-04-18">
+<name>speculative fiction</name>
+<description>Speculative fiction is an umbrella genre encompassing fiction with certain elements that do not exist in the real world, often in the context of supernatural, futuristic or other imaginative themes. This includes, but is not limited to, science fiction, fantasy, superhero fiction, horror, utopian and dystopian fiction, fairytale fantasy, supernatural fiction, as well as combinations thereof.
+Source: Wikipedia</description>
+</tag>
+</tags>
+<episodes>
+<episode id="18803" update="2011-10-20">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>1978-12-31</airdate>
+<title xml:lang="en">Special</title>
+</episode>
+</episodes>
+</anime>

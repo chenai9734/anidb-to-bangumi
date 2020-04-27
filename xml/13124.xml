@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13124" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>2016-07-29</startdate>
+<enddate>2016-07-29</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">I Love Koiking</title>
+<title xml:lang="en" type="synonym">The Magikarp Song</title>
+<title xml:lang="ja" type="official">I LOVE コイキング</title>
+<title xml:lang="en" type="official">I Love Magikarp</title>
+</titles>
+<relatedanime>
+<anime id="230" type="Parent Story">Pocket Monsters</anime>
+</relatedanime>
+<url>http://www.pokemon.jp/special/koiking_love/</url>
+<description>Music Video released to celebrate the opening of the official Magikarp Fanclub.</description>
+<ratings>
+<permanent count="31">4.23</permanent>
+<temporary count="31">5.58</temporary>
+</ratings>
+<picture>201465.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>35552</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.pokemon.jp/special/koiking_love/</url>
+</externalentity>
+</resource>
+<resource type="26">
+<externalentity>
+<identifier>watch?v=ddN6sFXCxuU</identifier>
+</externalentity>
+<externalentity>
+<identifier>watch?v=H3x3-22Gi3g</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="192667" update="2017-11-07">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>2016-07-29</airdate>
+<rating votes="1">1.74</rating>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

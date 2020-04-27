@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="1908" restricted="false">
+<type>TV Series</type>
+<episodecount>52</episodecount>
+<startdate>1992-10-15</startdate>
+<enddate>1993-12-31</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Calimero (1992)</title>
+<title xml:lang="ja" type="synonym">新 カリメロ</title>
+<title xml:lang="fr" type="synonym">Caliméro et Valériano</title>
+<title xml:lang="ar" type="synonym">كاليميرو</title>
+<title xml:lang="pt" type="synonym">Calimero e Amiguinhos</title>
+<title xml:lang="x-jat" type="synonym">Shin Calimero</title>
+<title xml:lang="ja" type="official">カリメロ (1992)</title>
+<title xml:lang="fr" type="official">Caliméro et ses amis</title>
+<title xml:lang="pt" type="official">Calimero e os Amigos</title>
+<title xml:lang="hr" type="official">Calimero</title>
+<title xml:lang="gl" type="official">Calimero</title>
+</titles>
+<relatedanime>
+<anime id="1907" type="Prequel">Calimero</anime>
+</relatedanime>
+<url>http://www.charapit.com/calimero/</url>
+<creators>
+<name id="1306" type="Animation Work">Teleimage</name>
+<name id="4327" type="Direction">Kojima Masayuki</name>
+<name id="3499" type="Chief Direction">Tominaga Tsuneo</name>
+<name id="18297" type="Original Work">Nino Pagot</name>
+<name id="10161" type="Original Work">Toni Pagot</name>
+<name id="4538" type="Character Design">Nishino Rie</name>
+<name id="13430" type="Work">Tabata Kazuo</name>
+<name id="5892" type="Chief Direction">Ueda Shigeru</name>
+</creators>
+<description>A story about a chick with a half-shell for a hat.
+After 3 Italian series (290 episodes) and 1 Japanese series, this is the 5th series of Calimero.
+It is also the first time where Calimero is dressed: he is now wearing a red vest.</description>
+<ratings>
+<permanent count="77">2.73</permanent>
+<temporary count="77">5.07</temporary>
+</ratings>
+<picture>2715.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>1235</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>7004</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.charapit.com/calimero/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>Calimero</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>カリメロ#.E6.97.A5.E4.BC.8A.E5.90.88.E4.BD.9C.E3.83.BB2.E4.BD.9C.E7.9B.AE</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>235214</identifier>
+</externalentity>
+</resource>
+<resource type="10">
+<externalentity>
+<identifier>308</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2611" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>elements</name>
+<description>Next to Themes setting the backdrop for the protagonists in anime, there are the more detailed plot Elements that centre on character interactions: "What do characters do to each other or what is done to them?". Is it violent Action, an awe-inspiring Adventure in a foreign place, the gripping life of a Detective, a slapstick Comedy, an Ecchi Harem anime, a SciFi epic, or some Fantasy travelling adventure?</description>
+</tag>
+<tag id="2857" parentid="2611" infobox="true" weight="600" localspoiler="false" globalspoiler="false" verified="true" update="2019-01-15">
+<name>anthropomorphism</name>
+<description>Anthropomorphism is the attribution of uniquely human characteristics to non-human beings, inanimate objects, or natural or supernatural phenomena. If it`s an animal or an object (AI excluded) and it speaks and/or does other human-like things (dresses up) then we`re dealing with anthropomorphism.
+Anthropomorphism leans more on the animal-looking side when compared to http://anidb.net/t7 [juujin], which leans more on the human-looking side.</description>
+</tag>
+<tag id="4259" parentid="2857" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-02-23">
+<name>animal world</name>
+<description>All characters of the show are walking-talking animals. Their behaviour and clothing can resemble that of humans. They also may try to mirror human society.
+There are no humans present in this world.
+Not to be confused with http://anidb.net/t3968 [animal protagonist].</description>
+<picurl>10254.jpeg</picurl>
+</tag>
+</tags>
+<episodes>
+<episode id="50695" update="2006-07-29">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>1992-10-15</airdate>
+<title xml:lang="ja">潜入! ゆうれい城の秘密</title>
+<title xml:lang="en">Episode 1</title>
+<title xml:lang="fr">Le château hanté</title>
+<title xml:lang="x-jat">Sennyuu! Yuureijou no Himitsu</title>
+</episode>
+<episode id="50697" update="2006-07-29">
+<epno type="1">5</epno>
+<length>15</length>
+<airdate>1992-11-12</airdate>
+<title xml:lang="ja">謎の転校生ペルーリは見た!</title>
+<title xml:lang="en">Episode 5</title>
+<title xml:lang="fr">Le témoin génant</title>
+<title xml:lang="x-jat">Nazo no Tenkousei Peruuri wa Mita!</title>
+</episode>
+<episode id="50698" update="2006-07-29">
+<epno type="1">3</epno>
+<length>15</length>
+<airdate>1992-10-29</airdate>
+<title xml:lang="ja">ヤッタ! 宇宙人の声をキャッチ</title>
+<title xml:lang="en">Episode 3</title>
+<title xml:lang="fr">Le message des extraterrestres</title>
+<title xml:lang="x-jat">Yatta! Uchuujin no Koe o Catch</title>
+</episode>
+<episode id="50699" update="2006-07-29">
+<epno type="1">2</epno>
+<length>15</length>
+<airdate>1992-10-22</airdate>
+<title xml:lang="ja">スクープ! 自動車泥棒を追え</title>
+<title xml:lang="en">Episode 2</title>
+<title xml:lang="fr">Voitures volées</title>
+<title xml:lang="x-jat">Scoop! Jidousha Dorobou o Oe</title>
+</episode>
+<episode id="50700" update="2006-07-29">
+<epno type="1">4</epno>
+<length>15</length>
+<airdate>1992-11-05</airdate>
+<title xml:lang="ja">発見! 工事現場に古代遺跡</title>
+<title xml:lang="en">Episode 4</title>
+<title xml:lang="fr">Le trésor caché</title>
+<title xml:lang="x-jat">Hakken! Kouji Genba ni Kodai Iseki</title>
+</episode>
+<episode id="50702" update="2006-07-29">
+<epno type="1">6</epno>
+<length>15</length>
+<airdate>1992-11-19</airdate>
+<title xml:lang="ja">追跡! 消えたピアニスト</title>
+<title xml:lang="en">Episode 6</title>
+<title xml:lang="fr">Le musicien fantôme</title>
+<title xml:lang="x-jat">Tsuiseki! Kieta Pianist</title>
+</episode>
+<episode id="50703" update="2008-02-23">
+<epno type="1">38</epno>
+<length>15</length>
+<airdate>1993-08-12</airdate>
+<title xml:lang="ja">ジュリアーノ大空を飛ぶ!</title>
+<title xml:lang="en">Episode 38</title>
+<title xml:lang="fr">Le concours de cerf-volant</title>
+<title xml:lang="x-jat">Juliano Oozora o Tobu!</title>
+</episode>
+<episode id="50704" update="2008-02-23">
+<epno type="1">52</epno>
+<length>15</length>
+<airdate>1993-12-31</airdate>
+<title xml:lang="ja">ジュリアーノの監督デビュー!</title>
+<title xml:lang="en">Episode 52</title>
+<title xml:lang="fr">Valériano metteur en scène</title>
+<title xml:lang="x-jat">Juliano no Kantoku Debut!</title>
+</episode>
+<episode id="52043" update="2011-10-20">
+<epno type="6">O1</epno>
+<length>15</length>
+<title xml:lang="en">The Family Album</title>
+</episode>
+<episode id="54004" update="2006-07-29">
+<epno type="1">7</epno>
+<length>15</length>
+<airdate>1992-11-26</airdate>
+<title xml:lang="ja">怪奇! 枯れた花のナゾ</title>
+<title xml:lang="en">Episode 7</title>
+<title xml:lang="fr">La rose bleue de Pierrot</title>
+<title xml:lang="x-jat">Kaiki! Kareta Hana no Nazo</title>
+</episode>
+<episode id="54005" update="2006-07-29">
+<epno type="1">8</epno>
+<length>15</length>
+<airdate>1992-12-03</airdate>
+<title xml:lang="ja">大胆! 真昼の大泥棒</title>
+<title xml:lang="en">Episode 8</title>
+<title xml:lang="fr">Le vol des statues Aztèques</title>
+<title xml:lang="x-jat">Daitan! Mahiru no Daidorobou</title>
+</episode>
+<episode id="54006" update="2006-07-29">
+<epno type="1">9</epno>
+<length>15</length>
+<airdate>1992-12-10</airdate>
+<title xml:lang="ja">珍プレー! 汗と涙のマラソン大会</title>
+<title xml:lang="en">Episode 9</title>
+<title xml:lang="fr">La course à la victoire</title>
+<title xml:lang="x-jat">Chin Puree! Ase to Namida no Marathon Taikai</title>
+</episode>
+<episode id="54008" update="2006-07-29">
+<epno type="1">10</epno>
+<length>15</length>
+<airdate>1993-12-17</airdate>
+<title xml:lang="ja">突撃! 海賊船をやっつけろ!</title>
+<title xml:lang="en">Episode 10</title>
+<title xml:lang="fr">La croisière pirate</title>
+<title xml:lang="x-jat">Totsugeki! Kaizoku Sen o Yattsukero!</title>
+</episode>
+<episode id="54010" update="2006-07-29">
+<epno type="1">11</epno>
+<length>15</length>
+<airdate>1993-12-28</airdate>
+<title xml:lang="ja">大興奮! 友情のコンサート</title>
+<title xml:lang="en">Episode 11</title>
+<title xml:lang="fr">Fausses notes</title>
+<title xml:lang="x-jat">Daikoufun! Yuujou no Concert</title>
+</episode>
+<episode id="54013" update="2006-07-29">
+<epno type="1">12</epno>
+<length>15</length>
+<airdate>1993-12-28</airdate>
+<title xml:lang="ja">決闘! 駅馬車強盗をつかまえろ</title>
+<title xml:lang="en">Episode 12</title>
+<title xml:lang="fr">Caliméro et ses amis au Far-West</title>
+<title xml:lang="x-jat">Kettou! Eki Basha Goutou o Tsukamero</title>
+</episode>
+<episode id="54018" update="2006-07-29">
+<epno type="1">13</epno>
+<length>15</length>
+<airdate>1993-01-14</airdate>
+<title xml:lang="ja">大混戦!? オバートグランプリ</title>
+<title xml:lang="en">Episode 13</title>
+<title xml:lang="fr">Le grand prix</title>
+<title xml:lang="x-jat">Daikonsen!? Overt Gran Prix</title>
+</episode>
+<episode id="54019" update="2006-07-29">
+<epno type="1">14</epno>
+<length>15</length>
+<airdate>1993-01-21</airdate>
+<title xml:lang="ja">ねらわれた目撃者ジュリアーノ</title>
+<title xml:lang="en">Episode 14</title>
+<title xml:lang="fr">L`enlèvement de Graziella</title>
+<title xml:lang="x-jat">Nerawareta Mokugekisha Juliano</title>
+</episode>
+<episode id="54020" update="2006-07-29">
+<epno type="1">15</epno>
+<length>15</length>
+<airdate>1993-01-28</airdate>
+<title xml:lang="ja">危機イッパツ! 炎からの大脱出</title>
+<title xml:lang="en">Episode 15</title>
+<title xml:lang="fr">L`échappée flamboyante</title>
+<title xml:lang="x-jat">Kikiippatsu! Honoo kara no Daidasshutsu</title>
+</episode>
+<episode id="54021" update="2006-07-29">
+<epno type="1">16</epno>
+<length>15</length>
+<airdate>1993-02-04</airdate>
+<title xml:lang="ja">登場! 世紀の大発明家ドビンチ</title>
+<title xml:lang="en">Episode 16</title>
+<title xml:lang="fr">La vieille horloge</title>
+<title xml:lang="x-jat">Toujou! Seki no Daihatsumeika Dobinchi</title>
+</episode>
+<episode id="54022" update="2006-07-29">
+<epno type="1">17</epno>
+<length>15</length>
+<airdate>1993-02-12</airdate>
+<title xml:lang="ja">大発見! 南の島に恐竜を見た</title>
+<title xml:lang="en">Episode 17</title>
+<title xml:lang="fr">Le dinosaure de l`île rose</title>
+<title xml:lang="x-jat">Daihakken! Minami no Shima ni Kyouryuu o Mita</title>
+</episode>
+<episode id="54023" update="2006-07-29">
+<epno type="1">18</epno>
+<length>15</length>
+<airdate>1993-02-18</airdate>
+<title xml:lang="ja">天才!? ピーターは大芸術家</title>
+<title xml:lang="en">Episode 18</title>
+<title xml:lang="fr">La sculpture volée</title>
+<title xml:lang="x-jat">Tensai!? Peter wa Daigeijutsuka</title>
+</episode>
+<episode id="54024" update="2006-07-29">
+<epno type="1">19</epno>
+<length>15</length>
+<airdate>1993-02-25</airdate>
+<title xml:lang="ja">お見事!? スージーは名ジョッキー</title>
+<title xml:lang="en">Episode 19</title>
+<title xml:lang="fr">Suzy et le vieux cheval</title>
+<title xml:lang="x-jat">Omigoto!? Suzy wa Mei Jockey</title>
+</episode>
+<episode id="54025" update="2006-07-29">
+<epno type="1">20</epno>
+<length>15</length>
+<airdate>1993-03-04</airdate>
+<title xml:lang="ja">みつけた! 伝説の雪男</title>
+<title xml:lang="en">Episode 20</title>
+<title xml:lang="fr">Caliméro fait du ski</title>
+<title xml:lang="x-jat">Mitsuketa! Densetsu no Yukiotoko</title>
+</episode>
+<episode id="54026" update="2006-07-29">
+<epno type="1">21</epno>
+<length>15</length>
+<airdate>1993-03-11</airdate>
+<title xml:lang="ja">カリメロ宇宙にいく</title>
+<title xml:lang="en">Episode 21</title>
+<title xml:lang="fr">Caliméro et ses amis dans l`espace</title>
+<title xml:lang="x-jat">Calimero Uchuu ni Iku</title>
+</episode>
+<episode id="54027" update="2006-07-29">
+<epno type="1">22</epno>
+<length>15</length>
+<airdate>1993-03-18</airdate>
+<title xml:lang="ja">さがせ! 消えた人魚姫</title>
+<title xml:lang="en">Episode 22</title>
+<title xml:lang="fr">Le palais de la sirène</title>
+<title xml:lang="x-jat">Sagase! Kieta Ningyo-hime</title>
+</episode>
+<episode id="54028" update="2006-07-29">
+<epno type="1">23</epno>
+<length>15</length>
+<airdate>1993-04-08</airdate>
+<title xml:lang="ja">発見! ドビンチ家の謎の財宝</title>
+<title xml:lang="en">Episode 23</title>
+<title xml:lang="fr">La chasse au trésor</title>
+<title xml:lang="x-jat">Hakken! Dobinchi Ka no Nazo no Zahou</title>
+</episode>
+<episode id="54029" update="2006-07-29">
+<epno type="1">24</epno>
+<length>15</length>
+<airdate>1993-04-15</airdate>
+<title xml:lang="ja">ロシータの空中大サーカス</title>
+<title xml:lang="en">Episode 24</title>
+<title xml:lang="fr">Le cirque des étoiles</title>
+<title xml:lang="x-jat">Rosita no Kuuchuu Dai Circus</title>
+</episode>
+<episode id="54030" update="2006-07-29">
+<epno type="1">25</epno>
+<length>15</length>
+<airdate>1993-04-22</airdate>
+<title xml:lang="ja">魔法の国の大冒険</title>
+<title xml:lang="en">Episode 25</title>
+<title xml:lang="fr">Voyage au pays magique</title>
+<title xml:lang="x-jat">Mahou no Kuni no Daibouken</title>
+</episode>
+<episode id="54031" update="2006-07-29">
+<epno type="1">26</epno>
+<length>15</length>
+<airdate>1993-04-29</airdate>
+<title xml:lang="ja">わがまま坊やに気をつけろ!</title>
+<title xml:lang="en">Episode 26</title>
+<title xml:lang="fr">Mario</title>
+<title xml:lang="x-jat">Wagamama Bouya ni Ki o Tsukero!</title>
+</episode>
+<episode id="54032" update="2006-07-29">
+<epno type="1">27</epno>
+<length>15</length>
+<airdate>1993-05-06</airdate>
+<title xml:lang="ja">それ行け! キャンプで大レース</title>
+<title xml:lang="en">Episode 27</title>
+<title xml:lang="fr">Le camping</title>
+<title xml:lang="x-jat">Sore Ike! Camp de Dai Race</title>
+</episode>
+<episode id="54033" update="2006-07-29">
+<epno type="1">28</epno>
+<length>15</length>
+<airdate>1993-05-13</airdate>
+<title xml:lang="ja">大恋愛!? 逃げだした花嫁</title>
+<title xml:lang="en">Episode 28</title>
+<title xml:lang="fr">La mariée a disparu</title>
+<title xml:lang="x-jat">Dai Ren`ai!? Nigedashita Hanayome</title>
+</episode>
+<episode id="54034" update="2006-07-29">
+<epno type="1">29</epno>
+<length>15</length>
+<airdate>1993-05-20</airdate>
+<title xml:lang="ja">対決! ちびっこストリート</title>
+<title xml:lang="en">Episode 29</title>
+<title xml:lang="fr">Terrain de bataille</title>
+<title xml:lang="x-jat">Taiketsu! Chibikko Street</title>
+</episode>
+<episode id="54035" update="2006-07-29">
+<epno type="1">30</epno>
+<length>15</length>
+<airdate>1993-05-27</airdate>
+<title xml:lang="ja">出動! カリメロ・レスキュー隊</title>
+<title xml:lang="en">Episode 30</title>
+<title xml:lang="fr">Les sauveteurs</title>
+<title xml:lang="x-jat">Shutsudou! Calimero Rescue Tai</title>
+</episode>
+<episode id="54036" update="2006-07-29">
+<epno type="1">31</epno>
+<length>15</length>
+<airdate>1993-06-03</airdate>
+<title xml:lang="ja">追跡! 大トカゲのお引っ越し</title>
+<title xml:lang="en">Episode 31</title>
+<title xml:lang="fr">La maison du lézard</title>
+<title xml:lang="x-jat">Tsuiseki! Daitokage no Ohikkoshi</title>
+</episode>
+<episode id="54037" update="2006-07-29">
+<epno type="1">32</epno>
+<length>15</length>
+<airdate>1993-06-10</airdate>
+<title xml:lang="ja">めざせ! ボクらはスターだ</title>
+<title xml:lang="en">Episode 32</title>
+<title xml:lang="fr">Les claquettes</title>
+<title xml:lang="x-jat">Mezase! Bokura wa Star Da</title>
+</episode>
+<episode id="54038" update="2006-07-29">
+<epno type="1">33</epno>
+<length>15</length>
+<airdate>1993-06-17</airdate>
+<title xml:lang="ja">走れ! ぼくらの蒸気機関車</title>
+<title xml:lang="en">Episode 33</title>
+<title xml:lang="fr">La locomotive à vapeur</title>
+<title xml:lang="x-jat">Hashire! Bokura no Jockey Kikansha</title>
+</episode>
+<episode id="54039" update="2006-07-29">
+<epno type="1">34</epno>
+<length>15</length>
+<airdate>1993-07-01</airdate>
+<title xml:lang="ja">カーニバルで大フィーバー!</title>
+<title xml:lang="en">Episode 34</title>
+<title xml:lang="fr">Le diadème du Carnaval</title>
+<title xml:lang="x-jat">Carnival de Dai Fever!</title>
+</episode>
+<episode id="54040" update="2006-07-29">
+<epno type="1">35</epno>
+<length>15</length>
+<airdate>1993-07-08</airdate>
+<title xml:lang="ja">カリメロの陶芸家修行</title>
+<title xml:lang="en">Episode 35</title>
+<title xml:lang="fr">L`artiste</title>
+<title xml:lang="x-jat">Calimero no Tougeika Shugyou</title>
+</episode>
+<episode id="54041" update="2006-07-29">
+<epno type="1">36</epno>
+<length>15</length>
+<airdate>1993-07-29</airdate>
+<title xml:lang="ja">デパートで危機一髪</title>
+<title xml:lang="en">Episode 36</title>
+<title xml:lang="fr">Nuit au grand magasin</title>
+<title xml:lang="x-jat">Depart de Kikiippatsu</title>
+</episode>
+<episode id="54042" update="2006-07-29">
+<epno type="1">37</epno>
+<length>15</length>
+<airdate>1993-08-05</airdate>
+<title xml:lang="ja">探検! 謎のユウレイ島</title>
+<title xml:lang="en">Episode 37</title>
+<title xml:lang="fr">Aventures sur une île déserte</title>
+<title xml:lang="x-jat">Tanken Nazo no Yuureitou</title>
+</episode>
+<episode id="54043" update="2006-07-29">
+<epno type="1">39</epno>
+<length>15</length>
+<airdate>1993-08-19</airdate>
+<title xml:lang="ja">大変身! スージーはアイドル?</title>
+<title xml:lang="en">Episode 39</title>
+<title xml:lang="fr">L`idole d`un jour</title>
+<title xml:lang="x-jat">Daihenshin! Suzy wa Idol?</title>
+</episode>
+<episode id="54044" update="2006-07-29">
+<epno type="1">40</epno>
+<length>15</length>
+<airdate>1993-08-26</airdate>
+<title xml:lang="ja">原始時代で大冒険!</title>
+<title xml:lang="en">Episode 40</title>
+<title xml:lang="fr">La voiture à voyager dans le temps</title>
+<title xml:lang="x-jat">Genshijidai de Daibouken!</title>
+</episode>
+<episode id="54045" update="2006-07-29">
+<epno type="1">41</epno>
+<length>15</length>
+<airdate>1993-09-02</airdate>
+<title xml:lang="ja">熱血! ガールズベースボール</title>
+<title xml:lang="en">Episode 41</title>
+<title xml:lang="fr">Rosalie et le baseball</title>
+<title xml:lang="x-jat">Nekketsu! Girls Baseball</title>
+</episode>
+<episode id="54046" update="2006-07-29">
+<epno type="1">42</epno>
+<length>15</length>
+<airdate>1993-09-09</airdate>
+<title xml:lang="ja">ピーターのアルバイト大作戦</title>
+<title xml:lang="en">Episode 42</title>
+<title xml:lang="fr">Pierrot travaille à mi-temps</title>
+<title xml:lang="x-jat">Peter no Arbeit Daisakusen</title>
+</episode>
+<episode id="54047" update="2006-07-29">
+<epno type="1">43</epno>
+<length>15</length>
+<airdate>1993-12-27</airdate>
+<title xml:lang="ja">透明人間ピーターあらわる?</title>
+<title xml:lang="en">Episode 43</title>
+<title xml:lang="fr">Pierrot invisible</title>
+<title xml:lang="x-jat">Toumei Ningen Peter Arawaru?</title>
+</episode>
+<episode id="54048" update="2006-07-29">
+<epno type="1">44</epno>
+<length>15</length>
+<airdate>1993-12-27</airdate>
+<title xml:lang="ja">大建築! スージー, 夢の宮殿</title>
+<title xml:lang="en">Episode 44</title>
+<title xml:lang="fr">Robots en folie</title>
+<title xml:lang="x-jat">Daikenchiku! Suzy, Yume no Kyuuden</title>
+</episode>
+<episode id="54049" update="2006-07-29">
+<epno type="1">45</epno>
+<length>15</length>
+<airdate>1993-12-28</airdate>
+<title xml:lang="ja">激走! 真犯人を追跡せよ</title>
+<title xml:lang="en">Episode 45</title>
+<title xml:lang="fr">La chasse au collier</title>
+<title xml:lang="x-jat">Gekisou! Shin Hannin o Tsuiseki seyo</title>
+</episode>
+<episode id="54050" update="2006-07-29">
+<epno type="1">46</epno>
+<length>15</length>
+<airdate>1993-12-28</airdate>
+<title xml:lang="ja">大捜査? ピーターとドジ刑事</title>
+<title xml:lang="en">Episode 46</title>
+<title xml:lang="fr">Un inspecteur de choc</title>
+<title xml:lang="x-jat">Daisousa? Peter to Dojikeiji</title>
+</episode>
+<episode id="54051" update="2006-07-29">
+<epno type="1">47</epno>
+<length>15</length>
+<airdate>1993-12-29</airdate>
+<title xml:lang="ja">幻の七色ホタルを探せ!</title>
+<title xml:lang="en">Episode 47</title>
+<title xml:lang="fr">Les lucioles arc-en-ciel</title>
+<title xml:lang="x-jat">Maboroshi no Nanairo Hotaru o Sagase!</title>
+</episode>
+<episode id="54052" update="2006-07-29">
+<epno type="1">48</epno>
+<length>15</length>
+<airdate>1993-12-29</airdate>
+<title xml:lang="ja">大予言! カリメロの超能力</title>
+<title xml:lang="en">Episode 48</title>
+<title xml:lang="fr">Les rêves prémonitoires de Caliméro</title>
+<title xml:lang="x-jat">Daiyogen! Calimero no Chounouryoku</title>
+</episode>
+<episode id="54053" update="2006-07-29">
+<epno type="1">49</epno>
+<length>15</length>
+<airdate>1993-12-30</airdate>
+<title xml:lang="ja">トリックの謎をあばけ!</title>
+<title xml:lang="en">Episode 49</title>
+<title xml:lang="fr">Le vol de bijoux</title>
+<title xml:lang="x-jat">Trick no Nazo o Abake!</title>
+</episode>
+<episode id="54054" update="2006-07-29">
+<epno type="1">50</epno>
+<length>15</length>
+<airdate>1993-12-30</airdate>
+<title xml:lang="ja">海底探検! 沈没船を引き上げろ</title>
+<title xml:lang="en">Episode 50</title>
+<title xml:lang="fr">Voyage dans les fonds marins</title>
+<title xml:lang="x-jat">Kaitei Tanken! Chinbotsusen o Hikiagero</title>
+</episode>
+<episode id="54055" update="2006-07-29">
+<epno type="1">51</epno>
+<length>15</length>
+<airdate>1993-12-31</airdate>
+<title xml:lang="ja">ミクロの世界の大冒険!</title>
+<title xml:lang="en">Episode 51</title>
+<title xml:lang="fr">Calimini et ses amis</title>
+<title xml:lang="x-jat">Mikuro no Sekai no Daibouken!</title>
+</episode>
+<episode id="122097" update="2010-09-10">
+<epno type="3">C2</epno>
+<length>2</length>
+<airdate>1992-10-15</airdate>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="122098" update="2010-09-10">
+<epno type="3">C1</epno>
+<length>2</length>
+<airdate>1992-10-15</airdate>
+<title xml:lang="en">Opening</title>
+</episode>
+</episodes>
+</anime>

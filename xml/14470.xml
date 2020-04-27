@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="14470" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2019-03-15</startdate>
+<enddate>2019-03-15</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Shimajirou to Ururu no Hero Land</title>
+<title xml:lang="ja" type="official">しまじろうとうるるのヒーローランド</title>
+</titles>
+<url>https://kodomo.benesse.ne.jp/open/movie/2019/</url>
+<creators>
+<name id="1292" type="Work">The Answer Studio</name>
+<name id="47789" type="Original Work">Benesse Corporation</name>
+</creators>
+<picture>227638.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23117</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>38618</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://kodomo.benesse.ne.jp/open/movie/2019/</url>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>365989</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="209824" update="2019-03-14">
+<epno type="1">1</epno>
+<length>60</length>
+<airdate>2019-03-15</airdate>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

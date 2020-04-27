@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="12751" restricted="false">
+<type>Music Video</type>
+<episodecount>1</episodecount>
+<startdate>1989-03-09</startdate>
+<enddate>1989-03-09</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Hikaru Genji: Paradise Ginga</title>
+<title xml:lang="ja" type="official">光GENJI パラダイス銀河</title>
+</titles>
+<relatedanime>
+<anime id="12770" type="Other">Hikaru Genji: Taiyou ga Ippai</anime>
+</relatedanime>
+<description>The official music video for Hikaru Genji`s single "Paradise Ginga."</description>
+<ratings>
+<permanent count="29">3.74</permanent>
+<temporary count="29">4.31</temporary>
+</ratings>
+<picture>197260.jpg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>33217</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>パラダイス銀河</identifier>
+</externalentity>
+</resource>
+</resources>
+<episodes>
+<episode id="184041" update="2017-01-25">
+<epno type="1">1</epno>
+<length>5</length>
+<airdate>1989-03-09</airdate>
+<title xml:lang="en">Music Video</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="13070" restricted="false">
+<type>TV Series</type>
+<episodecount>0</episodecount>
+<startdate>2019</startdate>
+<titles>
+<title xml:lang="x-jat" type="main">Musashino!</title>
+<title xml:lang="ja" type="official">むさしの!</title>
+</titles>
+<relatedanime>
+<anime id="10879" type="Prequel">Urawa no Usagi-chan</anime>
+</relatedanime>
+<url>https://www.musasi-no.com/index.html</url>
+<creators>
+<name id="30692" type="Character Design">Oka Akihiko</name>
+<name id="43156" type="Work">Harappa</name>
+<name id="43155" type="Direction">Ishibashi Mitsuyuki</name>
+<name id="30692" type="Chief Animation Direction">Oka Akihiko</name>
+<name id="41516" type="Music">Morohashi Kuniyuki</name>
+<name id="49464" type="Animation Work">A-Real</name>
+<name id="49465" type="Series Composition">Kubota Hiroyasu</name>
+<name id="49466" type="Animation Work">Yamaura Takanori</name>
+</creators>
+<picture>200464.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>19852</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>35335</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>https://www.musasi-no.com/index.html</url>
+</externalentity>
+</resource>
+<resource type="23">
+<externalentity>
+<identifier>musasi_no</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2797" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-05-18">
+<name>new</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</tag>
+<tag id="5852" parentid="6151" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2015-08-19">
+<name>short episodes</name>
+<description>Short episodes are regular episodes that are much shorter than the standard length. This means up to and including 10 minutes; shows with episodes that are 11 to 20 minutes in length are http://anidb.net/t6494 [half-length episodes] instead.
+Not to be confused with http://anidb.net/t6349 [multi-segment episodes], which are regular episodes that are split into several short segments (parts), usually with separate titles and independent storylines.</description>
+</tag>
+<tag id="6151" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>technical aspects</name>
+<description>It may sometimes be useful to know about technical aspects of a show, such as information about its broadcasting or censorship. Such information can be found here.</description>
+</tag>
+</tags>
+<characters>
+<character id="70647" type="main character in" update="2015-02-22">
+<rating votes="1">5.01</rating>
+<name>Kamikizaki Tokiwa</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169108.jpg</picture>
+<seiyuu id="1511" picture="173601.jpg">Akesaka Satomi</seiyuu>
+</character>
+<character id="70648" type="main character in" update="2015-02-22">
+<rating votes="2">5.84</rating>
+<name>Bessho Kojika</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169109.jpg</picture>
+<seiyuu id="36583" picture="134947.jpg">Kubota Miyu</seiyuu>
+</character>
+<character id="70649" type="main character in" update="2015-02-22">
+<rating votes="1">6.67</rating>
+<name>Numakage Saiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169107.jpg</picture>
+<seiyuu id="10973" picture="78574.jpg">Ookubo Rumi</seiyuu>
+</character>
+<character id="70650" type="main character in" update="2015-02-22">
+<rating votes="2">2.80</rating>
+<name>Takasago Usagi</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169106.jpg</picture>
+<seiyuu id="21733" picture="152476.jpg">Seto Asami</seiyuu>
+</character>
+<character id="70651" type="secondary cast in" update="2015-02-22">
+<rating votes="1">2.34</rating>
+<name>Mimuro Misono</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169113.jpg</picture>
+<seiyuu id="35832" picture="191404.jpg">Tamura Nao</seiyuu>
+</character>
+<character id="70652" type="secondary cast in" update="2015-02-22">
+<rating votes="1">2.34</rating>
+<name>Ooyaba Minami</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169112.jpg</picture>
+<seiyuu id="10424" picture="172872.jpg">Watanabe Keiko</seiyuu>
+</character>
+<character id="70653" type="secondary cast in" update="2015-02-22">
+<rating votes="1">2.34</rating>
+<name>Tajima Sakura</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169110.jpg</picture>
+<seiyuu id="34504" picture="200900.jpg">Taichi You</seiyuu>
+</character>
+<character id="70654" type="secondary cast in" update="2015-02-22">
+<rating votes="1">5.01</rating>
+<name>Saido Midori</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>169111.jpg</picture>
+<seiyuu id="32612" picture="223330.jpg">Toujou Hisako</seiyuu>
+</character>
+<character id="88590" type="secondary cast in" update="2017-04-02">
+<name>Sakuragi Nishiki</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200578.jpg</picture>
+</character>
+<character id="88591" type="secondary cast in" update="2017-04-02">
+<name>Seiganji Sakae</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200579.jpg</picture>
+</character>
+<character id="88592" type="secondary cast in" update="2017-04-02">
+<name>Koujin Azuma</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200580.jpg</picture>
+</character>
+<character id="88593" type="secondary cast in" update="2017-04-02">
+<name>Junou Saiko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200581.jpg</picture>
+</character>
+<character id="88594" type="secondary cast in" update="2017-04-02">
+<name>Ichinomiya Shion</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>200582.jpg</picture>
+</character>
+</characters>
+</anime>

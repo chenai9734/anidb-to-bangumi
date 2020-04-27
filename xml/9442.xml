@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="9442" restricted="false">
+<type>Movie</type>
+<episodecount>1</episodecount>
+<startdate>2011-03</startdate>
+<enddate>2011-03</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kaseki Dorobou to Kyouryuuseki</title>
+<title xml:lang="en" type="synonym">creator`s world project 4</title>
+<title xml:lang="en" type="synonym">Fossil Thief and the Dinosaur Stones</title>
+<title xml:lang="ja" type="official">化石ドロボウと恐竜石</title>
+</titles>
+<url>http://www.tokyoanime.jp/ja/creators_world/new_project/</url>
+<description>The dinosaur fantasy revolves around a 12-year-old girl named Yuta and her buddy Gobi — who happens to be a fossil. The two embark on a journey to chase a fossil thief and find Gobi`s stolen fossil mother.
+Source: ANN</description>
+<ratings>
+<permanent count="11">6.01</permanent>
+<temporary count="11">5.63</temporary>
+</ratings>
+<picture>1011.jpeg</picture>
+<resources>
+<resource type="2">
+<externalentity>
+<identifier>24047</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.tokyoanime.jp/ja/creators_world/new_project/</url>
+</externalentity>
+</resource>
+<resource type="5">
+<externalentity>
+<url>http://www.tokyoanime.jp/en/creators_world/new_project/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="5939" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2013-09-09">
+<name>CAST MISSING</name>
+<description>Important characters are missing, either in-part or entirely. This includes basic entry info (name, gender, picture), appear episode range, seiyuu and/or tags.</description>
+</tag>
+<tag id="6004" parentid="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>development hell</name>
+<description>Due to unforeseen circumstances, the production or release of this anime has been pushed back, stalled, or cancelled one or more times from when it was first announced.
+While some of them have eventually been completed, others might have only had a trailer released or have been changed into another format (e.g. a TV series turned into an OVA).
+Common reasons for a work to become stuck in development hell include creative differences, legal issues, financial problems, scheduling conflicts or the death of an involved creator.</description>
+</tag>
+<tag id="6173" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-24">
+<name>origin</name>
+</tag>
+</tags>
+<episodes>
+<episode id="164762" update="2014-12-18">
+<epno type="1">1</epno>
+<length>4</length>
+<title xml:lang="en">Complete Movie</title>
+</episode>
+</episodes>
+</anime>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="6394" restricted="false">
+<type>Web</type>
+<episodecount>1</episodecount>
+<startdate>2008-11-01</startdate>
+<enddate>2008-11-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Sonic: Night of the WereHog - Sonic &amp; Chip Kyoufu no Kan</title>
+<title xml:lang="ja" type="synonym">ソニック ナイト・オブ・ザ・ウェアホッグ</title>
+<title xml:lang="ja" type="official">SONIC NIGHT OF THE WEREHOG ~ソニック&amp;チップ 恐怖の館~</title>
+</titles>
+<relatedanime>
+<anime id="662" type="Same Setting">Sonic X</anime>
+<anime id="1744" type="Same Setting">Sonic the Hedgehog</anime>
+</relatedanime>
+<url>http://sonic.sega.jp/NightOfTheWerehog/</url>
+<description>ONA on Sega`s website, for the 2008 Sonic game, Sonic World Adventure (aka Sonic Unleashed), featuring Sonic and Chip going to an haunted house.</description>
+<ratings>
+<permanent count="144">3.93</permanent>
+<temporary count="145">5.52</temporary>
+</ratings>
+<picture>21683.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>15305</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>5583</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://sonic.sega.jp/NightOfTheWerehog/</url>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="2609" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2018-09-01">
+<name>original work</name>
+<description>What the anime is based on! This is given as the original work credit in the OP. Mostly of academic interest, but a useful bit of info, hinting at the possible depth of story.</description>
+</tag>
+<tag id="2800" parentid="2609" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2009-04-20">
+<name>game</name>
+<description>Based on an interactive (even if minimally so) form of entertainment software, generally available for PCs, consoles or arcade machines.</description>
+</tag>
+<tag id="2802" parentid="2800" infobox="true" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2010-05-14">
+<name>action game</name>
+<description>Any game where reflexes are the key to the gameplay, violence is optional.</description>
+</tag>
+</tags>
+<characters>
+<character id="32620" type="main character in" update="2013-08-10">
+<rating votes="22">9.04</rating>
+<name>Sonic the Hedgehog</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>72060.jpg</picture>
+<seiyuu id="9195" picture="33999.jpg">Kanemaru Jun`ichi</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="97455" update="2011-12-30">
+<epno type="1">1</epno>
+<length>15</length>
+<airdate>2008-11-01</airdate>
+<title xml:lang="en">Episode 1</title>
+</episode>
+</episodes>
+</anime>

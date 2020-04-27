@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><anime id="7800" restricted="false">
+<type>OVA</type>
+<episodecount>1</episodecount>
+<startdate>1992-05-01</startdate>
+<enddate>1992-05-01</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">Kero Kero Keroppi no Tomodachitte Ii na</title>
+<title xml:lang="ja" type="official">けろけろけろっぴの友だちっていいな</title>
+</titles>
+<creators>
+<name id="20434" type="Music">Shirakawa Yoshihisa</name>
+<name id="3717" type="Original Plan">Oohashi Yukiyoshi</name>
+<name id="4880" type="Direction">Hata Masami</name>
+</creators>
+<ratings>
+<permanent count="2">4.97</permanent>
+<temporary count="2">4.50</temporary>
+</ratings>
+<picture>163995.jpg</picture>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>23135</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>22619</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>161253</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-10">
+<name>maintenance tags</name>
+<description>These tags are used for maintenance.</description>
+</tag>
+<tag id="3955" parentid="30" weight="0" localspoiler="false" globalspoiler="false" verified="true" update="2014-09-08">
+<name>DESCRIPTION MISSING</name>
+<description>The description for this entry is missing. e.g plot, biography...
+Please help by adding it, and remove this tag afterwards. Thank you.</description>
+</tag>
+</tags>
+<characters>
+<character id="41768" type="main character in" update="2012-02-26">
+<name>Keroppi</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82267.jpg</picture>
+<seiyuu id="2029" picture="236292.jpg">Matsuo Yoshiko</seiyuu>
+</character>
+<character id="41771" type="secondary cast in" update="2012-02-26">
+<name>Kerorinu</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>82271.jpg</picture>
+<seiyuu id="24137" picture="186214.jpg">Miura Masako</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="120600" update="2010-08-01">
+<epno type="1">1</epno>
+<length>30</length>
+<airdate>1992-05-01</airdate>
+<title xml:lang="en">OVA</title>
+</episode>
+</episodes>
+</anime>
