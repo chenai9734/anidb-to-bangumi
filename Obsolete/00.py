@@ -109,6 +109,10 @@ def get_equal_rate_1(str1, str2):# 字符串对比
 	return difflib.SequenceMatcher(None, str1, str2).quick_ratio()
 
 def bgmtv(name_Z,name_Y,name_R,name_shijian):
+	#print(name_Z)
+	#print(name_Y)
+	#print(name_R)
+	#print(name_shijian)
 	name_Z_mohu = "https://bgm.tv/subject_search/%s?cat=2" %(name_Z)#2
 	name_Y_mohu = "https://bgm.tv/subject_search/%s?cat=2" %(name_Y)#6
 	name_R_mohu = "https://bgm.tv/subject_search/%s?cat=2" %(name_R)#4
@@ -243,10 +247,10 @@ def bgmtv(name_Z,name_Y,name_R,name_shijian):
 xml_cunzai=os.path.exists(r"7525.xml")
 if xml_cunzai != True:
 	save_api_anidb(7525)
-print(bgmtv(jiexi_Anidb_z(7727),jiexi_Anidb_y(7727),jiexi_Anidb_r(7727),jiexi_Anidb_time(7727)))
+#print(bgmtv(jiexi_Anidb_z(10376),jiexi_Anidb_y(10376),jiexi_Anidb_r(10376),jiexi_Anidb_time(10376)))
 #print(jiexi_Anidb_z(13262))
 #print(jiexi_Anidb_y(13262))
 #print(jiexi_Anidb_r(13262))
 #print(jiexi_Anidb_l(13262))
 #print(jiexi_Anidb_time(13262))
-#print(jiexi_Anidb_haibao(13262))
+print(jiexi_Anidb_haibao(13262))
